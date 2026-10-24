@@ -50,3 +50,25 @@ V1 pool 20.70h · V2 gold 6.3h (S1 112m S2 55m S3 64m S4 22m S5 85m S6 42m) · V
 Deliverables: manifest_sN_{pool,gold,core}.txt + segN_{pool,gold,core,pads}.json in /tmp/opencode/condensed/ (move to repo at ship).
 ## 10. Audio gaps — next step
 10 DS mp3s missing (L03,06,07,14,17,20,22,24,26,27). dharmaseed.org reachable (200 OK) but no clean talk API; course-page lookup parked. YT-cue transcripts already in repo (yt-subs/) so cutting positions exist — only audio bytes missing. Cores render at 77% coverage meanwhile (64/83 clips).
+
+## 10. Textual flow audit (2026-10-24, all 6 cores read as scripts)
+Method: open/close 14 words per clip + dangle/Q flags. Verdict: 70% there; breaks are specific.
+FIXES (apply at manifest build):
+- S1: drop L21 [377-394] 17s ("The Buddha says," x2, empty fragment); drop L17 5s (spliced-sounding); drop L21 [567-618] (dangles + Isidatta tail drift); reorder end as oil-lamp(10)→iron(14)→devoid(13) so "that realization" has its antecedent. Extend L19 [356-522] head ~8s to motto start (currently opens mid-refrain — works as refrain-return, but clean the inhale). New S1 core: 11 clips ≈10m.
+- S2: drop L30 [3382-3439] (off-theme, belongs §5); swap L10 [4064-4229] BEFORE L10 [4292-4455] (12 continues into 4 — same Kalaha verse, currently backwards); extend L04 ruler head ~10s (opens "And I will..."); trim L25 [3418-3510] tail ~15s (Pali-recitation transcript garbage); pad L03 motto head (opens mid-recap).
+- S3: CUT L14 [729-745] opener (broken — forum text "bondage of Mara", mis-scored; move out of §3 gold); promote one L12 honey-ball A-span into core (signature simile currently missing — core has reckoning but not the honey); trim L24 [1030-1100] head (opens "[Music]") or swap with honey-ball; split L10 [974-1350] 376s with breath at render (f1 stays, execution noted).
+- S4: REBUILD — 9 fragments, no anchor, Pali-chant opener (L29), two mid-sentence opens. Pull 2 anchors from gold: full Kevatta-verse reading + one observer span as opener/closer; demote 3 weakest fragments to gold-only. Nanananda pads carry (excavation §4 strong). Target 4-5 clips ≈10m, not 9.
+- S5: trim L14 [4478-4561] tail ~8s (ends "Thank you very much" — closer contamination); CUT L30 [563-584] (2nd motto + "thirtieth sermon" tail breaks timelessness); move L09 [1003-1037] directly after L09 [1003→ rel. clip 9] ("emptiness of both" → "even attachment is..." flows); swap closer: raft L31 [611-673] LAST, demote L10 [3401-3733] 332s to gold (f2 executed).
+- S6: reorder to motto → film-reel → lotus → seamstress → faculties/path → ocean/magic; close with NANANANDA pad (no Analayo clip ends clean — L32 tuleti ends mid-exposition); extend L27 motto head 5s to "This is peaceful"; trim L16 [935-1066]? (130s motto+contact — keep, it bridges).
+- Global: "thank you for your attention" tails inside kept spans (S3c13, S5c3) → trim at render, flag trim_keeps for gold too.
+
+## 11. Flow fixes applied (core v3, 2026-10-24)
+segN_core_v3.json + manifest_sN_core_v3.txt. 73 clips, 96.1m Analayo (≈2h with pads/pauses).
+- S1 11 clips 9.5m: dropped empty fragment + spliced 5s + drifting ocean-tail; end reordered oil-lamp→iron→devoid ("that realization" antecedent fixed); L19 head extended to motto.
+- S2 13 clips 25.5m: dropped off-theme L30; Kalaha clips reordered lecture-order (12→4 was backwards); ruler head +10s; Pali-garbage tail trimmed.
+- S3 15 clips 24.7m: cut broken L14 opener (forum text, moved out of §3); B-promoted L12 [1299-1431] Madhupindika/pamada-tavern (the simile lives there); honey "miss" resolved = vocabulary (Analayo says Madhupindika, never "honey" — 0 hits full transcript).
+- S4 5 clips 4.9m: rebuilt around B-promoted L08 anidassana-gist anchor; 3 weakest fragments demoted; Pali-chant opener cut. Thin by nature — pads carry.
+- S5 14 clips 17.2m: "thank you" tail trimmed; 2nd motto + sermon-number tail cut; attachment moved after emptiness (flows); raft LAST, L10 332s demoted to gold (f2 executed).
+- S6 15 clips 14.2m: narrative reorder; motto head +5s; closes on NANANANDA pad (no Analayo clip ends clean).
+- B-promotions (2, both noted in JSON): L12 Madhupindika, L08 anidassana-gist. Rule: core is A-only except where the definitional reading lives in B.
+- Gold files unchanged (motto-cap + closer-trims are manifest-build rules — apply at render, files keep full data).
