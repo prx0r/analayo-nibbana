@@ -89,7 +89,7 @@ ffmpeg concat of keep segments per `kept_segments[]`; DS mp3s are the source.
 ## SERIES EDITS — three tiers from one cut (2026-10-24 plan)
 
 Totals (30/33 cut; 32+33 pending transcription): source ~46.2h, full-series kept ~21.5h,
-A-only total ~9.2h (+~1h est. for 32/33), B-only ~10.1h.
+A-only total ~6.3h (post-standardisation 2026-10-24), B-only ~14.4h. All A/B/C standardised: A=gold spine, B=relevant flow, C=boring (cut first).
 
 ### Layer 0 — FULL series (~21.5h): everything as cut
 All 33 lecture cutplans, in sermon order. The archive / deep-study layer. No extra work.
@@ -98,10 +98,10 @@ All 33 lecture cutplans, in sermon order. The archive / deep-study layer. No ext
 Tier-1 FULL (8 eps, ~300m): 01 (32.6, foundations), 04 (39.7, Kaccayana hinge),
 09 (39.9, densest philosophy), 11 (38.6, Bahiya/flame), 13 (29.8, Mulapariyaya),
 21 (39.8, Vaccha/Anuradha/Radha), 31 (39.1, raft/endeavors close).
-Tier-2 A-ONLY (~177m): 12 (9.7), 14 (7.0), 15 (11.8), 16 (12.2), 18 (11.3),
+Tier-2 A-ONLY (~196m): 12 (9.7), 14 (7.0), 15 (11.8), 16 (12.2), 17 (6.1), 18 (11.3),
 19 (9.6), 20 (8.8), 23 (14.0), 24 (8.9), 25 (14.8), 26 (13.1), 28 (9.6),
-29 (13.2), 30 (13.6). Sum Tier-1 (~300m) + Tier-2 (~177m) ≈ 477m ≈ 8.0h.
-Omitted from concise: 02, 03, 05, 06, 07, 08, 10, 17, 22, 27 (+32/33 TBD —
+29 (13.2), 30 (13.6), 32 (14.6), 33 (5.7). Sum Tier-1 (~269m) + Tier-2 (~196m) ≈ 465m ≈ 7.7h.
+Omitted from concise: 02, 03, 05, 06, 07, 08, 10 (manual-era A too broad for filtering; full versions live in Layer 0). 32/33 placed Tier-2 (+old note:
 default Tier-3/omitted unless skeleton shows Tier-2 gold).
 Build method: NO re-cutting. Concise = filter existing kept_segments by grade
 (full keeps for Tier-1, grade-A only for Tier-2) + per-episode md generated from
