@@ -94,3 +94,6 @@ Rule: Fish speaks the mapped word/phrase and nothing else (e.g. hears "papancha"
 
 ## 16. Three-layer scripts final (2026-10-24) — segN_script.json
 Per core clip: Analayo (lec,start,end) → Nanananda VERBATIM (excavation quote, untouched) → plain_english_below (key-derived: TERM (plain) first-use; slop-free). S1 12 (hand beats) · S2 13 · S3 16 (incl. Madhupindika honey-ball narrative, cross-sourced S11 — pads aren't section-bound) · S4 5 · S5 14 · S6 13 = 73 beats. Quotes unique per section (S3 15/16). S1c2 sample: "Upadana (grasping) = fuel AND grasping."
+
+## 17. Gloss engine fixed (2026-10-24)
+False positives found by eye ("cessation" -> "cesremembering-to-noticeon"): short keys need word boundaries (sati/mula). KEY v2 in fish_filter.py: boundaries on all short tokens, TERM (plain) first-use, paren-citation strip. Verified 0 false positives across 73 below-lines.
