@@ -80,3 +80,7 @@ segN_pads_full.json for §2-6 (cluster → sermon-section bodies from excavation
 S1 12/12.1m · S2 13/25.5m · S3 15/24.7m · S4 5/4.8m · S5 14/17m · S6 13/12.3m.
 Fixes from flow audit all applied; S6 head-revert verified (motto intact at 675); S1 split verified (refrain 348-359 + teaching 371-522, permission excised).
 Audio coverage v4: S1 10/12 · S2 10/13 · S3 12/15 · S4 3/5 · S5 13/14 · S6 10/13 = 58/72 (81%).
+
+## 14. Fish scripts (2026-10-24) — segN_fish.json (N=1..6), filter in fish_filter.py
+Pali→English map (word-boundary safe; longest-first). Fish never speaks Pali: S1 motto Pali stripped to Human. Total Fish lines: 6+16+16+10+18+16 = 82 cues ≈ 25-30m speech.
+Human recording scripts: SPEAKER-RULES.md list (≈10 min raw). Next: record Human → TTS Fish → assemble per handoff grammar.
