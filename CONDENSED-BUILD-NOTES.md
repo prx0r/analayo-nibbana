@@ -84,3 +84,10 @@ Audio coverage v4: S1 10/12 · S2 10/13 · S3 12/15 · S4 3/5 · S5 13/14 · S6 
 ## 14. Fish scripts (2026-10-24) — segN_fish.json (N=1..6), filter in fish_filter.py
 Pali→English map (word-boundary safe; longest-first). Fish never speaks Pali: S1 motto Pali stripped to Human. Total Fish lines: 6+16+16+10+18+16 = 82 cues ≈ 25-30m speech.
 Human recording scripts: SPEAKER-RULES.md list (≈10 min raw). Next: record Human → TTS Fish → assemble per handoff grammar.
+
+## 15. Fish = key only (2026-10-24) — NO sentences, NO "he's about to say"
+Slop scripts (segN_fish.json, 82 composed cues) DELETED to slop/. Replacement:
+segN_terms.json — per core clip, Pali terms actually heard → mapped English
+(first hearing per section only, max 2 drops/clip). 40 drops total across 72 clips.
+Filter: fish_filter.py (ascii-spelling safe — transcripts write papancha/sankhara/upadana).
+Rule: Fish speaks the mapped word/phrase and nothing else (e.g. hears "papancha" → says "spiralling").
