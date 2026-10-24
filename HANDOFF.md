@@ -85,3 +85,47 @@ design → write keeps → generate → audit. Autosave everything to disk.
 
 ## Render (FUTURE — after user approval only)
 ffmpeg concat of keep segments per `kept_segments[]`; DS mp3s are the source.
+
+## SERIES EDITS — three tiers from one cut (2026-10-24 plan)
+
+Totals (30/33 cut; 32+33 pending transcription): source ~46.2h, full-series kept ~21.5h,
+A-only total ~9.2h (+~1h est. for 32/33), B-only ~10.1h.
+
+### Layer 0 — FULL series (~21.5h): everything as cut
+All 33 lecture cutplans, in sermon order. The archive / deep-study layer. No extra work.
+
+### Layer 1 — CONCISE 8h (~480 min): 8 full episodes + 14 A-only episodes
+Tier-1 FULL (8 eps, ~300m): 01 (32.6, foundations), 04 (39.7, Kaccayana hinge),
+09 (39.9, densest philosophy), 11 (38.6, Bahiya/flame), 13 (29.8, Mulapariyaya),
+21 (39.8, Vaccha/Anuradha/Radha), 31 (39.1, raft/endeavors close).
+Tier-2 A-ONLY (~177m): 12 (9.7), 14 (7.0), 15 (11.8), 16 (12.2), 18 (11.3),
+19 (9.6), 20 (8.8), 23 (14.0), 24 (8.9), 25 (14.8), 26 (13.1), 28 (9.6),
+29 (13.2), 30 (13.6). Sum Tier-1 (~300m) + Tier-2 (~177m) ≈ 477m ≈ 8.0h.
+Omitted from concise: 02, 03, 05, 06, 07, 08, 10, 17, 22, 27 (+32/33 TBD —
+default Tier-3/omitted unless skeleton shows Tier-2 gold).
+Build method: NO re-cutting. Concise = filter existing kept_segments by grade
+(full keeps for Tier-1, grade-A only for Tier-2) + per-episode md generated from
+a selector script (to write: ~30 min, same schema + tier field).
+RISK (accepted): manual lectures 02–10 have inflated A grades (A≈episode), so they
+are deliberately NOT in Tier-2-A-only (would blow budget). Optional follow-up:
+strict re-grade pass on 02–10 (demote long exposition A→B, ~1–2h) to unlock them
+for Tier-2 and shrink A-only totals everywhere.
+
+### Layer 2 — MINI 2h (120 min): 6 chapters x 20 min, thematic, own arc
+1. "The Fire Goes Out" — what Nibbana is: lec01 fire/lamp arc + lec21 Vaccha.
+2. "Name and Form" — the mirror/image core: lec01 + lec10 rope/mirror/contact.
+3. "The Middle Way" — Kaccayana (lec04) + bhava/vibhava extremes (lec09).
+4. "Bahiya" — in the seen only the seen + flame verse + Papancha (lec11).
+5. "The Worldling's Mistake" — Mulapariyaya (lec13) + honey-ball (lec12).
+6. "No Footing" — non-manifestative (lec07/08) + Anuradha/Radha (lec21) + similes (lec25).
+Build method: NEW editorial pass — 6 chapter keeps files selecting A-gold spans
+(killer lines, signature similes, payoffs) across 1–3 lectures each, with motto
+spans as chapter cold-opens. Requires a cross-lecture plan generator
+(mini_gen.py: list of (lec,start,end) → concat plan, ~30 min to write).
+Render maps each span via its lecture's timebase (ds native or yt anchors).
+Effort: ~2–3h curation. No new recording; all spans already exist.
+
+### Tier list (grand-scheme importance)
+T1 load-bearing: 01, 04, 09, 11, 13, 21, 31 (+10 as alternate).
+T2 major: 02, 03, 05, 06, 07, 08, 12, 18, 20, 25, 30.
+T3 supporting: 14, 15, 16, 17, 19, 22, 23, 24, 26, 27, 28, 29 (+32/33 provisional).
