@@ -48,3 +48,5 @@ AUDIO GAPS (10 lectures need DharmaSeed mp3 fetch before full render): L03,06,07
 ## 9. 3-version runtimes (Analayo spine only; +Nanananda pads/pauses at assemble)
 V1 pool 20.70h · V2 gold 6.3h (S1 112m S2 55m S3 64m S4 22m S5 85m S6 42m) · V3 core ≈111m incl §1 hand 16m (S2 26.4 S3 23 S4 8.8 S5 23.2 S6 14.1).
 Deliverables: manifest_sN_{pool,gold,core}.txt + segN_{pool,gold,core,pads}.json in /tmp/opencode/condensed/ (move to repo at ship).
+## 10. Audio gaps — next step
+10 DS mp3s missing (L03,06,07,14,17,20,22,24,26,27). dharmaseed.org reachable (200 OK) but no clean talk API; course-page lookup parked. YT-cue transcripts already in repo (yt-subs/) so cutting positions exist — only audio bytes missing. Cores render at 77% coverage meanwhile (64/83 clips).
