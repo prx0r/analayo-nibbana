@@ -9,6 +9,7 @@ KEEPS = [
     (812.3, 865.8, 1),      # four great primaries / upadaya relativity / Salayatana-vibhanga intro (Pali formula cut)
     (886.6, 908.4, 1),      # hands/feet relativity EN
     (929.2, 952.2, 1),      # no-hands EN + basic principle of relativity
+    (1003.9, 1037.6, 1),    # meditators think materiality unreal -> relativity reveals emptiness of both
     (1077.2, 1111.3, 2),    # spectator/pantomime emptiness of both
     (1112.1, 1186.7, 1),    # sankhara apt for drama + purpose of impermanence perception + three deliverances
     (1189.8, 1276.9, 1),    # seven suns / Surya Sutta holocaust -> voidness + arahant on hearing
@@ -36,8 +37,7 @@ KEEPS = [
     (3516.0, 3562.2, 1),    # goodness of the norm + radical attention + visible-here-now
     (3564.3, 3593.2, 2),    # Brahmins one-stanza arahantship + miracle of Dhamma
     (3594.6, 3735.6, 1),    # rainbow/dewdrop + sammaditta-micchaditta + Samiddhi Sutta intro (unsplittable)
-    (3792.9, 3823.7, 1),    # catechism asks about thoughts and concepts
-    (3832.8, 3939.4, 1),    # English Samiddhi catechism Q&A
+    (3832.8, 3939.4, 1),    # English Samiddhi catechism Q&A (Pali recitation + gist comment cut: comment says "this catechism" before the English plays)
     (3942.9, 4051.0, 1),    # noteworthy points + deathless=nibbana + path through name-and-form
     (4077.2, 4089.1, 1),    # consciousness entangled + Dhammapada verse intro
     (4104.6, 4119.9, 1),    # Dhammapada verse EN (untrammeled by name and form)
@@ -56,7 +56,8 @@ KEEPS = [
     (4989.5, 5006.9, 1),    # not a relink consciousness + six sense bases established
     (5009.4, 5080.7, 2),    # internal/external dichotomy -> personality view
     (5082.7, 5198.0, 2),    # Ummaggajataka gem-in-pond parable
-    (5199.4, 5363.3, 1),    # via media between two extremes + reflection + shadow + consciousness verse
+    (5199.4, 5225.6, 1),    # via media between two extremes + image-in-water simile (ends "earlier sermon")
+    (5251.1, 5363.3, 1),    # Buddha avoids both extremes + reflection/shadow conclusion + consciousness verse
     (5376.1, 5387.6, 1),    # final verse EN: only they see who have eyes to see
 ]
 
@@ -64,7 +65,7 @@ MAJOR = [
     (0.0, 607.8, "forum", "course welcome + previous-lecture forum discussion + Robert Baer impermanence preamble"),
     (656.0, 728.2, "recap", "lecture-8 recap of postures and dumpshaw analogy"),
     (952.9, 1003.9, "translation", "Vicakkarani restatement of relativity + Chinese parallel note"),
-    (1051.4, 1077.2, "aside", "instructor comment: early suttas not mind-only"),
+    (1037.6, 1077.2, "aside", "dogmatic-standpoint tail + not-mind-only instructor comment"),
     (1316.5, 1364.4, "translation", "Bodhi translation of impermanence formula + Chinese parallel + synthesis"),
     (1401.4, 1424.3, "translation", "Bodhi translation of not-self quote + Madhyama Agama parallel"),
     (1461.2, 1476.0, "translation", "K.R. Norman second translation of sons/wealth verse"),
@@ -76,8 +77,7 @@ MAJOR = [
     (2448.2, 2472.6, "translation", "Bodhi translation of idhhipada formula"),
     (2576.6, 2857.7, "comment", "Western no-desire aside + tanha-nisaya translation comparison (Bodhi/Woodward/Samyukta Agama)"),
     (3344.5, 3516.0, "aside", "meditation-object aside + Bhaddanaga dancing-woman episode + Norman translation"),
-    (3735.6, 3792.9, "pali", "Pali recitation of Samiddhi catechism"),
-    (3823.7, 3832.8, "aside", "let-us-not-translate remark + gap"),
+    (3735.6, 3832.8, "pali", "Pali catechism recitation + gist comment + let-us-not-translate (comment says 'this catechism' before English plays)"),
     (4051.0, 4077.2, "trim", "essence released from name-and-form passage"),
     (4089.1, 4104.6, "pali", "Pali recitation of Dhammapada verse"),
     (4119.9, 4143.8, "translation", "A.K. Norman second translation of Dhammapada verse"),
@@ -89,6 +89,7 @@ MAJOR = [
     (4704.9, 4829.5, "translation", "Walsh translation + Digha Agama insert + recitation remarks + Agama quote"),
     (4933.3, 4952.1, "pali", "Pali recitation of six-consciousnesses passage"),
     (4968.1, 4989.5, "academic", "three Chinese parallels comment"),
+    (5225.6, 5251.1, "seam", "self-love/self-hate personality-view clause + Seneca gem-simile (Ummaggajataka parable ranked out)"),
     (5363.3, 5376.1, "pali", "Pali recitation of final Itivuttaka verse"),
     (5387.6, 5437.9, "closer", "Ireland second translation + Itivuttaka restatement + instructor closer"),
 ]

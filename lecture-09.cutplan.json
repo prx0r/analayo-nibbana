@@ -2,7 +2,7 @@
  "lecture": 9,
  "target_min": 30,
  "source_min": 90.6,
- "kept_sec": 2380.2,
+ "kept_sec": 2391.7,
  "kept_pct": 44,
  "timebase": {
   "native": "ds",
@@ -39,11 +39,6 @@
    "start": 4443.0,
    "end": 4497.4,
    "rank": 2
-  },
-  {
-   "start": 1077.2,
-   "end": 1111.3,
-   "rank": 2
   }
  ],
  "cuts": [
@@ -79,9 +74,21 @@
   },
   {
    "start": 952.2,
+   "end": 1003.9,
+   "kind": "translation",
+   "reason": "Vicakkarani restatement of relativity + Chinese parallel note"
+  },
+  {
+   "start": 1037.6,
+   "end": 1077.2,
+   "kind": "aside",
+   "reason": "dogmatic-standpoint tail + not-mind-only instructor comment"
+  },
+  {
+   "start": 1111.3,
    "end": 1112.1,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "kind": "trim",
+   "reason": "short span inside removed region"
   },
   {
    "start": 1186.7,
@@ -223,15 +230,9 @@
   },
   {
    "start": 3735.6,
-   "end": 3792.9,
-   "kind": "pali",
-   "reason": "Pali recitation of Samiddhi catechism"
-  },
-  {
-   "start": 3823.7,
    "end": 3832.8,
-   "kind": "aside",
-   "reason": "let-us-not-translate remark + gap"
+   "kind": "pali",
+   "reason": "Pali catechism recitation + gist comment + let-us-not-translate (comment says 'this catechism' before English plays)"
   },
   {
    "start": 3939.4,
@@ -324,6 +325,12 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
+   "start": 5225.6,
+   "end": 5251.1,
+   "kind": "seam",
+   "reason": "self-love/self-hate personality-view clause + Seneca gem-simile (Ummaggajataka parable ranked out)"
+  },
+  {
    "start": 5363.3,
    "end": 5376.1,
    "kind": "pali",
@@ -362,6 +369,16 @@
    "start": 929.2,
    "end": 952.2,
    "grade": "A"
+  },
+  {
+   "start": 1003.9,
+   "end": 1037.6,
+   "grade": "A"
+  },
+  {
+   "start": 1077.2,
+   "end": 1111.3,
+   "grade": "B"
   },
   {
    "start": 1112.1,
@@ -484,11 +501,6 @@
    "grade": "A"
   },
   {
-   "start": 3792.9,
-   "end": 3823.7,
-   "grade": "A"
-  },
-  {
    "start": 3832.8,
    "end": 3939.4,
    "grade": "A"
@@ -565,6 +577,11 @@
   },
   {
    "start": 5199.4,
+   "end": 5225.6,
+   "grade": "A"
+  },
+  {
+   "start": 5251.1,
    "end": 5363.3,
    "grade": "A"
   },
@@ -575,13 +592,13 @@
   }
  ],
  "grade_counts": {
-  "A": 46,
-  "B": 1,
+  "A": 47,
+  "B": 2,
   "C": 0
  },
  "grade_minutes": {
-  "A": 39.2,
-  "B": 0.5,
+  "A": 38.8,
+  "B": 1.0,
   "C": 0.0
  }
 }

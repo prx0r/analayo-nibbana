@@ -1,14 +1,16 @@
 # Lecture 09 — cut plan
 
-Source 90.6 min → **kept 39.7 min (44%)** · 48 cuts · band 20–40 ✓
-_auto-dropped to fit: 84:42-86:38(r2); 48:51-50:28(r2); 71:34-73:01(r2); 83:29-84:40(r2); 24:36-25:34(r2); 74:03-74:57(r2); 17:57-18:31(r2)_
+Source 90.6 min → **kept 39.9 min (44%)** · 50 cuts · band 20–40 ✓
+_auto-dropped to fit: 84:42-86:38(r2); 48:51-50:28(r2); 71:34-73:01(r2); 83:29-84:40(r2); 24:36-25:34(r2); 74:03-74:57(r2)_
 
 - 0:00–10:07  [forum]  course welcome + previous-lecture forum discussion + Robert Baer impermanence preamble
 - 10:56–12:08  [recap]  lecture-8 recap of postures and dumpshaw analogy
 - 13:26–13:32  [trim]  short span inside removed region
 - 14:25–14:46  [ranked-out]  content ranked below the 20-40min budget
 - 15:08–15:29  [ranked-out]  content ranked below the 20-40min budget
-- 15:52–18:32  [ranked-out]  content ranked below the 20-40min budget
+- 15:52–16:43  [translation]  Vicakkarani restatement of relativity + Chinese parallel note
+- 17:17–17:57  [aside]  dogmatic-standpoint tail + not-mind-only instructor comment
+- 18:31–18:32  [trim]  short span inside removed region
 - 19:46–19:49  [trim]  short span inside removed region
 - 21:16–21:37  [ranked-out]  content ranked below the 20-40min budget
 - 21:56–22:45  [translation]  Bodhi translation of impermanence formula + Chinese parallel + synthesis
@@ -32,8 +34,7 @@ _auto-dropped to fit: 84:42-86:38(r2); 48:51-50:28(r2); 71:34-73:01(r2); 83:29-8
 - 55:44–58:36  [aside]  meditation-object aside + Bhaddanaga dancing-woman episode + Norman translation
 - 59:22–59:24  [trim]  short span inside removed region
 - 59:53–59:54  [trim]  short span inside removed region
-- 62:15–63:12  [pali]  Pali recitation of Samiddhi catechism
-- 63:43–63:52  [aside]  let-us-not-translate remark + gap
+- 62:15–63:52  [pali]  Pali catechism recitation + gist comment + let-us-not-translate (comment says 'this catechism' before English plays)
 - 65:39–65:42  [trim]  short span inside removed region
 - 67:31–67:57  [trim]  essence released from name-and-form passage
 - 68:09–68:24  [pali]  Pali recitation of Dhammapada verse
@@ -49,9 +50,10 @@ _auto-dropped to fit: 84:42-86:38(r2); 48:51-50:28(r2); 71:34-73:01(r2); 83:29-8
 - 82:13–82:32  [pali]  Pali recitation of six-consciousnesses passage
 - 82:48–83:09  [academic]  three Chinese parallels comment
 - 83:26–86:39  [ranked-out]  content ranked below the 20-40min budget
+- 87:05–87:31  [seam]  self-love/self-hate personality-view clause + Seneca gem-simile (Ummaggajataka parable ranked out)
 - 89:23–89:36  [pali]  Pali recitation of final Itivuttaka verse
 - 89:47–90:37  [closer]  Ireland second translation + Itivuttaka restatement + instructor closer
 
 **Keeps:** motto -> Satipatthana postures/dumpshaw -> hands/feet relativity -> seven suns -> impermanence to voidness to not-self -> Dhammapada verses -> King Moolaka catechism -> chanda/Unnabha iddhipada -> gem-in-rubbish-heap analysis -> Brahmachala 62 views -> Samiddhi parallel catechism -> via-media/shadow conclusion
 
-Grades: A=46(39.2m) B=1(0.5m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=47(38.8m) B=2(1.0m) C=0(0.0m) · dial: A → A+B → full
