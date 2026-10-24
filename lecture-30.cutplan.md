@@ -1,7 +1,7 @@
 # Lecture 30 — cut plan
 
-Source 91.5 min → **kept 39.2 min (43%)** · 37 cuts · band 20–40 ✓
-_auto-dropped to fit: 37:02-39:42(r2); 83:46-86:26(r2); 29:12-31:29(r2); 72:16-74:29(r2); 50:45-52:56(r2); 54:13-56:21(r2); 67:51-69:59(r2)_
+Source 91.5 min → **kept 39.6 min (43%)** · 37 cuts · band 20–40 ✓
+_auto-dropped to fit: 37:02-39:42(r2); 83:46-86:26(r2); 29:12-31:29(r2); 72:16-74:29(r2); 50:45-52:56(r2); 54:13-56:21(r2); 70:07-72:15(r2)_
 
 - 0:00–9:23  [forum]  course welcome + forum discussion + bridge
 - 9:44–12:19  [ranked-out]  content ranked below the 20-40min budget
@@ -30,8 +30,8 @@ _auto-dropped to fit: 37:02-39:42(r2); 83:46-86:26(r2); 29:12-31:29(r2); 72:16-7
 - 62:12–62:26  [ranked-out]  content ranked below the 20-40min budget
 - 64:08–64:18  [pali]  Pali recitation / chant gap
 - 65:03–65:53  [ranked-out]  content ranked below the 20-40min budget
-- 67:36–70:21  [ranked-out]  content ranked below the 20-40min budget
-- 72:15–75:40  [ranked-out]  content ranked below the 20-40min budget
+- 67:36–67:51  [ranked-out]  content ranked below the 20-40min budget
+- 69:59–75:31  [ranked-out]  content ranked below the 20-40min budget
 - 76:36–77:29  [ranked-out]  content ranked below the 20-40min budget
 - 79:04–79:17  [ranked-out]  content ranked below the 20-40min budget
 - 81:07–81:44  [ranked-out]  content ranked below the 20-40min budget
@@ -41,6 +41,6 @@ _auto-dropped to fit: 37:02-39:42(r2); 83:46-86:26(r2); 29:12-31:29(r2); 72:16-7
 - 87:46–89:24  [ranked-out]  content ranked below the 20-40min budget
 - 91:19–91:27  [trim]  short span inside removed region
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** motto -> mental attitude -> happiness of renunciation (impermanence/fading/cessation) -> carpenter apprentice channeling thought -> deity verse -> letting-go verse -> purification stages (doubt) -> seven purifications vs Buddhaghosa/Vimuttimagga -> chariot simile + upadhi/nirupadhi -> final let-go without clinging
 
-Grades: A=22(13.6m) B=14(25.6m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=22(13.6m) B=14(25.9m) C=0(0.0m) · dial: A → A+B → full

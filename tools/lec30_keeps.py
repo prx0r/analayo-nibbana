@@ -33,9 +33,9 @@ KEEPS = [
     (3858.14, 3903.86, 1),
     (3953.74, 4056.06, 2),
     (4071.54, 4199.36, 2),
-    (4221.3, 4335.66, 2),
+    (4207.3, 4335.66, 2),
     (4336.66, 4469.81, 2),
-    (4540.38, 4596.22, 2),
+    (4531.1, 4596.22, 2),
     (4649.81, 4744.48, 2),
     (4757.23, 4867.36, 2),
     (4904.53, 4915.57, 1),
@@ -80,4 +80,4 @@ MAJOR = [
     (5482.3, 5487.29, "closer", "comment + thanks closer"),
 ]
 
-SUMMARY = ("AUTO DRAFT — review skeleton before ship")
+SUMMARY = ("motto -> mental attitude -> happiness of renunciation (impermanence/fading/cessation) -> carpenter apprentice channeling thought -> deity verse -> letting-go verse -> purification stages (doubt) -> seven purifications vs Buddhaghosa/Vimuttimagga -> chariot simile + upadhi/nirupadhi -> final let-go without clinging")

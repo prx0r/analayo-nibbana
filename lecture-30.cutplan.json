@@ -2,7 +2,7 @@
  "lecture": 30,
  "target_min": 30,
  "source_min": 91.5,
- "kept_sec": 2352.1,
+ "kept_sec": 2374.8,
  "kept_pct": 43,
  "timebase": {
   "native": "ds",
@@ -41,8 +41,8 @@
    "rank": 2
   },
   {
-   "start": 4071.5,
-   "end": 4199.4,
+   "start": 4207.3,
+   "end": 4335.7,
    "rank": 2
   }
  ],
@@ -211,13 +211,13 @@
   },
   {
    "start": 4056.06,
-   "end": 4221.3,
+   "end": 4071.54,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 4335.66,
-   "end": 4540.38,
+   "start": 4199.36,
+   "end": 4531.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -270,7 +270,7 @@
    "reason": "short span inside removed region"
   }
  ],
- "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "keep_summary": "motto -> mental attitude -> happiness of renunciation (impermanence/fading/cessation) -> carpenter apprentice channeling thought -> deity verse -> letting-go verse -> purification stages (doubt) -> seven purifications vs Buddhaghosa/Vimuttimagga -> chariot simile + upadhi/nirupadhi -> final let-go without clinging",
  "kept_segments": [
   {
    "start": 563.2,
@@ -408,12 +408,12 @@
    "grade": "B"
   },
   {
-   "start": 4221.3,
-   "end": 4335.7,
+   "start": 4071.5,
+   "end": 4199.4,
    "grade": "B"
   },
   {
-   "start": 4540.4,
+   "start": 4531.1,
    "end": 4596.2,
    "grade": "B"
   },
@@ -460,7 +460,7 @@
  },
  "grade_minutes": {
   "A": 13.6,
-  "B": 25.6,
+  "B": 25.9,
   "C": 0.0
  }
 }
