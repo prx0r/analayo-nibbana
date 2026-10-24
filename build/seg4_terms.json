@@ -1,0 +1,37 @@
+[
+ {
+  "clip": 1,
+  "lec": 8,
+  "start": 1382.0,
+  "drops": [
+   {
+    "hears": "non-manifestative",
+    "fish_says": "with nowhere to land"
+   }
+  ]
+ },
+ {
+  "clip": 2,
+  "lec": 6,
+  "start": 1346,
+  "drops": []
+ },
+ {
+  "clip": 3,
+  "lec": 6,
+  "start": 1409.0,
+  "drops": []
+ },
+ {
+  "clip": 4,
+  "lec": 9,
+  "start": 1189.8,
+  "drops": []
+ },
+ {
+  "clip": 5,
+  "lec": 25,
+  "start": 711.0,
+  "drops": []
+ }
+]

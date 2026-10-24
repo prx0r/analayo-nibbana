@@ -1,0 +1,104 @@
+[
+ {
+  "clip": 1,
+  "lec": 3,
+  "start": 363.5,
+  "drops": []
+ },
+ {
+  "clip": 2,
+  "lec": 10,
+  "start": 1658.1,
+  "drops": [
+   {
+    "hears": "nirodha",
+    "fish_says": "stopping"
+   },
+   {
+    "hears": "upadana",
+    "fish_says": "grasping"
+   }
+  ]
+ },
+ {
+  "clip": 3,
+  "lec": 3,
+  "start": 525.0,
+  "drops": []
+ },
+ {
+  "clip": 4,
+  "lec": 10,
+  "start": 4064.8,
+  "drops": []
+ },
+ {
+  "clip": 5,
+  "lec": 10,
+  "start": 4292.7,
+  "drops": [
+   {
+    "hears": "bhava",
+    "fish_says": "the next moment of me"
+   }
+  ]
+ },
+ {
+  "clip": 6,
+  "lec": 23,
+  "start": 5131.5,
+  "drops": [
+   {
+    "hears": "non-manifestative",
+    "fish_says": "with nowhere to land"
+   }
+  ]
+ },
+ {
+  "clip": 7,
+  "lec": 28,
+  "start": 786.3,
+  "drops": []
+ },
+ {
+  "clip": 8,
+  "lec": 4,
+  "start": 485.5,
+  "drops": []
+ },
+ {
+  "clip": 9,
+  "lec": 4,
+  "start": 3142.9,
+  "drops": []
+ },
+ {
+  "clip": 10,
+  "lec": 3,
+  "start": 2906.5,
+  "drops": []
+ },
+ {
+  "clip": 11,
+  "lec": 4,
+  "start": 4313.4,
+  "drops": []
+ },
+ {
+  "clip": 12,
+  "lec": 4,
+  "start": 2129.5,
+  "drops": [
+   {
+    "hears": "sati",
+    "fish_says": "remembering to notice"
+   }
+  ]
+ },
+ {
+  "clip": 13,
+  "lec": 25,
+  "start": 3418.8,
+  "drops": []
+ }
+]

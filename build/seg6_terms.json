@@ -1,0 +1,94 @@
+[
+ {
+  "clip": 1,
+  "lec": 27,
+  "start": 675,
+  "drops": []
+ },
+ {
+  "clip": 2,
+  "lec": 8,
+  "start": 2787.3,
+  "drops": []
+ },
+ {
+  "clip": 3,
+  "lec": 18,
+  "start": 1252.4,
+  "drops": []
+ },
+ {
+  "clip": 4,
+  "lec": 23,
+  "start": 1028.8,
+  "drops": []
+ },
+ {
+  "clip": 5,
+  "lec": 33,
+  "start": 949.9,
+  "drops": []
+ },
+ {
+  "clip": 6,
+  "lec": 33,
+  "start": 1918.7,
+  "drops": []
+ },
+ {
+  "clip": 7,
+  "lec": 33,
+  "start": 2034.5,
+  "drops": []
+ },
+ {
+  "clip": 8,
+  "lec": 31,
+  "start": 4604.6,
+  "drops": [
+   {
+    "hears": "samadhi",
+    "fish_says": "gathered attention"
+   },
+   {
+    "hears": "sati",
+    "fish_says": "remembering to notice"
+   }
+  ]
+ },
+ {
+  "clip": 9,
+  "lec": 32,
+  "start": 1631.8,
+  "drops": []
+ },
+ {
+  "clip": 10,
+  "lec": 18,
+  "start": 753.8,
+  "drops": [
+   {
+    "hears": "nibbana",
+    "fish_says": "the going-out"
+   }
+  ]
+ },
+ {
+  "clip": 11,
+  "lec": 26,
+  "start": 1650.7,
+  "drops": []
+ },
+ {
+  "clip": 12,
+  "lec": 26,
+  "start": 1813.7,
+  "drops": []
+ },
+ {
+  "clip": 13,
+  "lec": 27,
+  "start": 3655.6,
+  "drops": []
+ }
+]

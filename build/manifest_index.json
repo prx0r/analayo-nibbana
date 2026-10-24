@@ -1,0 +1,92 @@
+{
+ "s1_pool": {
+  "clips": 329,
+  "min": 325.2,
+  "audio_ok": "215/329"
+ },
+ "s1_gold": {
+  "clips": 190,
+  "min": 112.1,
+  "audio_ok": "133/190"
+ },
+ "s1_core": {
+  "clips": 14,
+  "min": 10.6,
+  "audio_ok": "11/14"
+ },
+ "s2_pool": {
+  "clips": 220,
+  "min": 252.2,
+  "audio_ok": "119/220"
+ },
+ "s2_gold": {
+  "clips": 62,
+  "min": 55.0,
+  "audio_ok": "32/62"
+ },
+ "s2_core": {
+  "clips": 14,
+  "min": 26.4,
+  "audio_ok": "11/14"
+ },
+ "s3_pool": {
+  "clips": 193,
+  "min": 223.2,
+  "audio_ok": "144/193"
+ },
+ "s3_gold": {
+  "clips": 91,
+  "min": 63.7,
+  "audio_ok": "67/91"
+ },
+ "s3_core": {
+  "clips": 15,
+  "min": 23.0,
+  "audio_ok": "11/15"
+ },
+ "s4_pool": {
+  "clips": 88,
+  "min": 69.9,
+  "audio_ok": "64/88"
+ },
+ "s4_gold": {
+  "clips": 54,
+  "min": 22.1,
+  "audio_ok": "38/54"
+ },
+ "s4_core": {
+  "clips": 9,
+  "min": 8.8,
+  "audio_ok": "6/9"
+ },
+ "s5_pool": {
+  "clips": 239,
+  "min": 251.0,
+  "audio_ok": "210/239"
+ },
+ "s5_gold": {
+  "clips": 115,
+  "min": 84.7,
+  "audio_ok": "107/115"
+ },
+ "s5_core": {
+  "clips": 16,
+  "min": 23.2,
+  "audio_ok": "14/16"
+ },
+ "s6_pool": {
+  "clips": 124,
+  "min": 120.6,
+  "audio_ok": "83/124"
+ },
+ "s6_gold": {
+  "clips": 78,
+  "min": 41.5,
+  "audio_ok": "52/78"
+ },
+ "s6_core": {
+  "clips": 15,
+  "min": 14.1,
+  "audio_ok": "11/15"
+ }
+}

@@ -1,0 +1,109 @@
+[
+ {
+  "clip": 1,
+  "lec": 16,
+  "start": 935.8,
+  "drops": [
+   {
+    "hears": "nippapancha",
+    "fish_says": "not spiralling"
+   },
+   {
+    "hears": "nibbano",
+    "fish_says": "the going-out"
+   }
+  ]
+ },
+ {
+  "clip": 2,
+  "lec": 14,
+  "start": 4406,
+  "drops": []
+ },
+ {
+  "clip": 3,
+  "lec": 14,
+  "start": 4478.1,
+  "drops": []
+ },
+ {
+  "clip": 4,
+  "lec": 5,
+  "start": 4018.9,
+  "drops": []
+ },
+ {
+  "clip": 5,
+  "lec": 5,
+  "start": 4160.0,
+  "drops": []
+ },
+ {
+  "clip": 6,
+  "lec": 5,
+  "start": 3751.5,
+  "drops": []
+ },
+ {
+  "clip": 7,
+  "lec": 9,
+  "start": 728.2,
+  "drops": [
+   {
+    "hears": "satipatthana",
+    "fish_says": "four ways of paying attention"
+   }
+  ]
+ },
+ {
+  "clip": 8,
+  "lec": 5,
+  "start": 410.3,
+  "drops": []
+ },
+ {
+  "clip": 9,
+  "lec": 9,
+  "start": 1003.9,
+  "drops": []
+ },
+ {
+  "clip": 10,
+  "lec": 9,
+  "start": 2857.7,
+  "drops": [
+   {
+    "hears": "samadhi",
+    "fish_says": "gathered attention"
+   },
+   {
+    "hears": "sati",
+    "fish_says": "remembering to notice"
+   }
+  ]
+ },
+ {
+  "clip": 11,
+  "lec": 31,
+  "start": 4822.7,
+  "drops": []
+ },
+ {
+  "clip": 12,
+  "lec": 30,
+  "start": 1187.5,
+  "drops": []
+ },
+ {
+  "clip": 13,
+  "lec": 18,
+  "start": 2307,
+  "drops": []
+ },
+ {
+  "clip": 14,
+  "lec": 31,
+  "start": 611.2,
+  "drops": []
+ }
+]

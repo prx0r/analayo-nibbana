@@ -1,0 +1,84 @@
+[
+ {
+  "clip": 1,
+  "lec": 1,
+  "start": 696,
+  "drops": []
+ },
+ {
+  "clip": 2,
+  "lec": 1,
+  "start": 3244,
+  "drops": [
+   {
+    "hears": "nibbana",
+    "fish_says": "the going-out"
+   }
+  ]
+ },
+ {
+  "clip": 3,
+  "lec": 1,
+  "start": 4195,
+  "drops": []
+ },
+ {
+  "clip": 4,
+  "lec": 21,
+  "start": 413,
+  "drops": []
+ },
+ {
+  "clip": 5,
+  "lec": 1,
+  "start": 4691,
+  "drops": []
+ },
+ {
+  "clip": 6,
+  "lec": 1,
+  "start": 4230,
+  "drops": []
+ },
+ {
+  "clip": 7,
+  "lec": 1,
+  "start": 4524,
+  "drops": []
+ },
+ {
+  "clip": 8,
+  "lec": 19,
+  "start": 348,
+  "drops": [
+   {
+    "hears": "dhatu",
+    "fish_says": "element"
+   }
+  ]
+ },
+ {
+  "clip": 9,
+  "lec": 19,
+  "start": 371,
+  "drops": []
+ },
+ {
+  "clip": 10,
+  "lec": 19,
+  "start": 718,
+  "drops": []
+ },
+ {
+  "clip": 11,
+  "lec": 20,
+  "start": 721,
+  "drops": []
+ },
+ {
+  "clip": 12,
+  "lec": 20,
+  "start": 488,
+  "drops": []
+ }
+]

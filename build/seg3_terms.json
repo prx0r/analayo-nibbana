@@ -1,0 +1,126 @@
+[
+ {
+  "clip": 1,
+  "lec": 1,
+  "start": 2998.9,
+  "drops": []
+ },
+ {
+  "clip": 2,
+  "lec": 9,
+  "start": 5251.1,
+  "drops": [
+   {
+    "hears": "non-manifestative",
+    "fish_says": "with nowhere to land"
+   }
+  ]
+ },
+ {
+  "clip": 3,
+  "lec": 12,
+  "start": 1299.0,
+  "drops": [
+   {
+    "hears": "papancha",
+    "fish_says": "spiralling"
+   }
+  ]
+ },
+ {
+  "clip": 4,
+  "lec": 23,
+  "start": 984.3,
+  "drops": []
+ },
+ {
+  "clip": 5,
+  "lec": 24,
+  "start": 1038,
+  "drops": []
+ },
+ {
+  "clip": 6,
+  "lec": 11,
+  "start": 5552.1,
+  "drops": [
+   {
+    "hears": "ayatana",
+    "fish_says": "sense sphere"
+   },
+   {
+    "hears": "nibbana",
+    "fish_says": "the going-out"
+   }
+  ]
+ },
+ {
+  "clip": 7,
+  "lec": 29,
+  "start": 4502.1,
+  "drops": [
+   {
+    "hears": "samadhi",
+    "fish_says": "gathered attention"
+   }
+  ]
+ },
+ {
+  "clip": 8,
+  "lec": 12,
+  "start": 2298.3,
+  "drops": []
+ },
+ {
+  "clip": 9,
+  "lec": 29,
+  "start": 2441.9,
+  "drops": []
+ },
+ {
+  "clip": 10,
+  "lec": 13,
+  "start": 2130.0,
+  "drops": [
+   {
+    "hears": "bhava",
+    "fish_says": "the next moment of me"
+   }
+  ]
+ },
+ {
+  "clip": 11,
+  "lec": 30,
+  "start": 995.7,
+  "drops": []
+ },
+ {
+  "clip": 12,
+  "lec": 14,
+  "start": 1494.2,
+  "drops": []
+ },
+ {
+  "clip": 13,
+  "lec": 24,
+  "start": 4305.6,
+  "drops": []
+ },
+ {
+  "clip": 14,
+  "lec": 29,
+  "start": 953.3,
+  "drops": []
+ },
+ {
+  "clip": 15,
+  "lec": 10,
+  "start": 974.5,
+  "drops": [
+   {
+    "hears": "tanha",
+    "fish_says": "thirst"
+   }
+  ]
+ }
+]
