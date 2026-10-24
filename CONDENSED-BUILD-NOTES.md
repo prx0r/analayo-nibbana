@@ -97,3 +97,6 @@ Per core clip: Analayo (lec,start,end) → Nanananda VERBATIM (excavation quote,
 
 ## 17. Gloss engine fixed (2026-10-24)
 False positives found by eye ("cessation" -> "cesremembering-to-noticeon"): short keys need word boundaries (sati/mula). KEY v2 in fish_filter.py: boundaries on all short tokens, TERM (plain) first-use, paren-citation strip. Verified 0 false positives across 73 below-lines.
+
+## 18. Verbatim audit (2026-10-24) — user caught my hand-written S1 beats
+The flagged "Flame flung by wind..." line was MINE (first-draft beat summary), found NOWHERE in sources. Deleted. All S1 pads rebuilt mechanically like S2-6. Audit: all 73 nanananda_verbatim checked exact-substring against excavation files + transcripts — 73/73 present, 0 failures, 0 empties. Rule going forward: verbatim fields are extracted, never typed; the audit command is in notes history (rerun on any change).
