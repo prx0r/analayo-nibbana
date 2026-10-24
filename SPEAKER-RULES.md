@@ -1,6 +1,28 @@
-# SPEAKER RULES — 3 voices (2026-10-24)
+# SPEAKER RULES — 3 voices, v2 (2026-10-24): Analayo *is* Nanananda's voice
 
-Analayo (archive audio) + Fish MCP (TTS) + Human (you). No voice ever does another voice's job.
+Measured on core v4: the clips are mostly Analayo READING Nanananda (S2 1033s N vs
+229s explaining; S3 931 vs 294; S5 751 vs 138; S4 entirely Nanananda). Only S1
+leans explaining. So: no human Pali recording needed — his motto readings stand
+(10 in gold, 1 per core). The decompilation (Comment/End-of-comment split) already
+separates Nanananda-reading from Analayo-explaining inside his audio.
+
+## The Pali rule (unchanged: Fish never reads Pali — PLAIN-ENGLISH law)
+- Fish speaks English ONLY (filter in /tmp/opencode/condensed/fish_filter.py).
+  Pali on-screen as citation text, never in Fish's script.
+- ALL Pali out loud = Analayo's own readings (motto per section cold-open +
+  verse lines inside Nanananda-reading clips). One consistent Pali voice: his.
+- Human reads NO Pali. Human does section intros + bridge lines only.
+
+## Who speaks what (v2)
+1. ANALAYO (archive) — BOTH voices, as cut: (a) Nanananda-reading (incl. Pali
+   motto/verses + English sermon text), (b) his own unlock comments. Unchanged audio.
+2. FISH (TTS) — plain-English TRANSLATION of Nanananda, placed to make Analayo
+   followable: BEFORE dense Nanananda-reading clips (prime: "he's about to say...")
+   or AFTER (land: "in other words..."). 82 cues saved (segN_fish.json).
+   Never Pali, never meta-talk.
+3. HUMAN (you) — section intros (~40s ×6, your words: what it answers, why now)
+   + bridge lines ONLY where neither Fish nor Analayo covers the join (marked
+   BRIDGE in manifests — rare). Total ≈ 4-5 min raw. No Pali, no verses.
 
 ## The Pali rule (Fish never reads Pali — your PLAIN-ENGLISH law already says this)
 - Fish speaks English ONLY. Every Pali term in Nanananda pads passes through the
@@ -35,11 +57,8 @@ Motto ×6 (Pali + English, ~25s each — same take, reuse melody):
    the stilling of all preparations, the relinquishment of all assets, the
    destruction of craving, detachment, cessation, extinction."
 Section intros ×6 (~40s each, your words): 1 question each answers + why now.
-Verses ×8 (~20s each): Ratanasutta lamp line · Upasiva flame verse · Bahiya
-  instruction · lotus verse · Channa riddle (English + short Pali) · Radha
-  rivers-to-sea · seamstress verse · Kevatta anidassana lines (or delegate to
-  Analayo clip — hardest Pali, your call).
-Total ≈ 2.5m motto + 4m intros + 3m verses ≈ 10 min raw → ~7 min used.
+Bridges ×a handful (~15s each, only where marked BRIDGE).
+Total ≈ 4-5 min raw. No Pali, no verses — Analayo's readings stand.
 
 ## Fish script prep (assembly step, scripted)
 Strip Pali from pad texts via PLAIN-ENGLISH map; expand abbreviations; split
