@@ -72,3 +72,6 @@ segN_core_v3.json + manifest_sN_core_v3.txt. 73 clips, 96.1m Analayo (≈2h with
 - S6 15 clips 14.2m: narrative reorder; motto head +5s; closes on NANANANDA pad (no Analayo clip ends clean).
 - B-promotions (2, both noted in JSON): L12 Madhupindika, L08 anidassana-gist. Rule: core is A-only except where the definitional reading lives in B.
 - Gold files unchanged (motto-cap + closer-trims are manifest-build rules — apply at render, files keep full data).
+
+## 12. Pads full text (2026-10-24)
+segN_pads_full.json for §2-6 (cluster → sermon-section bodies from excavations, capped): S2 13 sections/23k chars · S3 14/13k · S4 7/6.8k · S5 13/14k · S6 12/6.4k. §1 pads stay hand-curated (6 beats). Pad selection at assemble = 1-2 quotes per beat from these bodies (30-60s each).
