@@ -9,9 +9,12 @@ most clips are him reading Nanananda; only S1 leans explaining.
    bell, then his motto reading — no Fish before him). Inside beats he
    both reads Nanananda and explains him; the assembly never splits a
    clip.
-2. **FISH (TTS)** — two jobs, both English-only, never narration:
-   a. the plain-English line per beat (the gloss, TTS-punctuated),
-   b. term drops when Analayo's audio speaks Pali (mapped word only,
+2. **FISH (TTS)** — three jobs, all English-only, never narration:
+   a. the section question at every ritual open ("What is Nibbana?" —
+      6 questions, verbatim from build/human-scripts.md headers; these
+      ARE the 6-slot argument, process/12-ARGUMENT.md),
+   b. the plain-English line per beat (the gloss, TTS-punctuated),
+   c. term drops when Analayo's audio speaks Pali (mapped word only,
       max ~5 words, first hearing per section, max 2 per clip —
       23 drops across the whole core).
    Fish never speaks Pali. Fish never explains, primes, or bridges.

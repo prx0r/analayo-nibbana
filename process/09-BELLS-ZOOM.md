@@ -25,17 +25,20 @@ no library bells, no variation. Recognition IS the function.
   The film ends where it began; it means something different now.
 
 ## Beat grammar (inside every section)
-1. Human intro (section open only, ~40s, from `build/human-scripts.md`)
-2. MOTTO bell + motto (cold open of every section)
-3. Per beat: Nanananda verbatim on screen → Fish speaks the plain English
+1. RITUAL (the repetition IS the learning, process/12-ARGUMENT.md):
+   MOTTO bell → Fish asks the section question ("What is Nibbana?") →
+   3s recollect pause (the listener tries to answer first) →
+   human intro answers in their own words (pending recording,
+   build/human-scripts.md) → Analayo cold-opens.
+2. Per beat: Nanananda verbatim on screen → Fish speaks the plain English
    → 1.5s breath → [term drops if Pali is heard] → Analayo clip plays
    → 2.5s water.
-4. Internal motto refrains get the motto bell, never the zoom bell.
+3. Internal motto refrains get the motto bell, never the zoom bell.
    The two bells never sound within 30s of each other.
 
 ## Assembly manifests
 `build/assembly_sN.json`: ordered event lists —
-{human-intro, pending} {motto-bell + Analayo cold-open (motto, no Fish first)} [{verbatim on screen, fish (plain English), breath, [fish-terms], analayo, water} per beat] {zoom-bell at section end, except §6 → {seed reprise,
+{motto-bell, fish(question), pause(recollect), human-intro(pending), Analayo cold-open} [{verbatim on screen, fish (plain English), breath, [fish-terms], analayo, water} per beat] {zoom-bell at section end, except §6 → {seed reprise,
 motto-bell, silence}}. `build/assets/motto-bell.wav`,
 `build/assets/zoom-bell.wav`. Human intros referenced from
 `build/human-scripts.md` (recorded separately, dropped in).

@@ -3,6 +3,23 @@
   "t": "motto-bell"
  },
  {
+  "t": "fish",
+  "role": "question",
+  "say": "What does the mechanism build?"
+ },
+ {
+  "t": "pause",
+  "dur": 3.0,
+  "role": "recollect",
+  "note": "listener tries to answer before the intro - this pause IS the learning"
+ },
+ {
+  "t": "human-intro",
+  "ref": "human-scripts.md section 4",
+  "status": "pending-recording",
+  "note": "the human answers the question in their own words, then Analayo unfolds"
+ },
+ {
   "t": "analayo",
   "lec": 8,
   "start": 1382.0,
