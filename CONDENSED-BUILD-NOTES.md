@@ -107,3 +107,6 @@ Below-lines now two-pass: term key (TERM (plain)) then blunt phrase map (blunt_k
 ## 20. Verbatim enforcement (2026-10-24) — user: exact words or fix it
 Ran strict substring audit of every nanananda_verbatim vs sources (whitespace+markdown normalized BOTH sides — earlier false alarm was my check stripping * on one side only).
 Found + fixed 4 real breaks: (1) my hand-written S1 beat summaries — DELETED, rebuilt mechanically; (2-3) two quotes orphaned from their Pali leads by the quote-splitter ("What is burning?", "Khayamatta na nibbanam") — reattached, contiguity verified; (4) honey pad was a concatenation, not contiguous — split into 4 individually verified excerpts (list field). Final: 75/75 excerpts verified present, 0 failures, 0 empties. Rerun: audit block in notes history §18/20.
+
+## 21. Hand-text purge (2026-10-24) — user caught excavator prose in verbatim
+"Itself a meditation subject" was UNQUOTED excavator framing, not Nanananda. All 6 S1 hand beats replaced with mechanically extracted pool quotes (same pipeline as S2-6). Orphaned Pali leads reattached with contiguity verified. Strict audit (identical normalization both sides): 75/75 excerpts verified, 0 failures. seg1_pads.json hand file SUPERSEDED (scripts read pool-extracted quotes only).
