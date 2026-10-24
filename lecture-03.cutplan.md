@@ -19,8 +19,8 @@ Source 84.8 min → **kept 39.1 min (46%)** · 22 cuts · band 20–40 ✓
 - 50:38–67:12  [tangent]  womb catechism Q1-Q4, Godika story, patisandhi critique, knot-reprise — big technical block
 - 70:55–74:41  [tangent]  out-of-body/levitation comment (IANDS) + norm recap
 - 75:29–75:35  [trim]  short span inside removed region
-- 77:22–78:05  [ranked-out]  content ranked below the 20-40min budget
-- 79:27–81:27  [repetition]  cambodi restatement of instance 2 + music interlude
+- 77:16–78:05  [translation]  announcement + alternative second-instance translation (comparator) — cut
+- 79:34–81:27  [repetition]  cambodi restatement of instance 2 + music interlude
 - 82:03–82:35  [ranked-out]  content ranked below the 20-40min budget
 - 84:45–84:46  [trim]  short span inside removed region
 

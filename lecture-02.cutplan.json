@@ -2,7 +2,7 @@
  "lecture": 2,
  "target_min": 30,
  "source_min": 92.0,
- "kept_sec": 2382.4,
+ "kept_sec": 2380.2,
  "kept_pct": 43,
  "timebase": {
   "native": "ds",
@@ -36,7 +36,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 904.3,
+   "start": 902.4,
    "end": 1016.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -48,7 +48,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 1557.9,
+   "start": 1556.3,
    "end": 1559.4,
    "kind": "trim",
    "reason": "short span inside removed region"
@@ -60,7 +60,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 1794.6,
+   "start": 1793.5,
    "end": 1911.4,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -78,7 +78,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2299.3,
+   "start": 2298.0,
    "end": 2431.0,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -96,7 +96,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2926.7,
+   "start": 2925.0,
    "end": 3012.3,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -126,7 +126,7 @@
    "reason": "Mahanidana Pali recitation (English kept)"
   },
   {
-   "start": 3307.5,
+   "start": 3303.6,
    "end": 3354.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -162,7 +162,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 4356.0,
+   "start": 4365.3,
    "end": 4428.2,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -221,7 +221,7 @@
   {
    "start": 3.0,
    "end": 23.3,
-   "grade": "B"
+   "grade": "A"
   },
   {
    "start": 770.5,
@@ -230,13 +230,13 @@
   },
   {
    "start": 887.1,
-   "end": 904.3,
+   "end": 902.4,
    "grade": "B"
   },
   {
    "start": 1016.1,
    "end": 1146.1,
-   "grade": "B"
+   "grade": "A"
   },
   {
    "start": 1146.1,
@@ -245,18 +245,18 @@
   },
   {
    "start": 1457.7,
-   "end": 1557.9,
+   "end": 1556.3,
    "grade": "A"
   },
   {
    "start": 1559.4,
    "end": 1621.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1749.2,
-   "end": 1794.6,
-   "grade": "A"
+   "end": 1793.5,
+   "grade": "B"
   },
   {
    "start": 1911.4,
@@ -275,7 +275,7 @@
   },
   {
    "start": 2219.2,
-   "end": 2299.3,
+   "end": 2298.0,
    "grade": "A"
   },
   {
@@ -286,17 +286,17 @@
   {
    "start": 2559.9,
    "end": 2664.7,
-   "grade": "B"
+   "grade": "A"
   },
   {
    "start": 2819.8,
-   "end": 2926.7,
-   "grade": "A"
+   "end": 2925.0,
+   "grade": "B"
   },
   {
    "start": 3012.3,
    "end": 3051.0,
-   "grade": "C"
+   "grade": "B"
   },
   {
    "start": 3078.0,
@@ -306,7 +306,7 @@
   {
    "start": 3124.7,
    "end": 3188.4,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3191.8,
@@ -315,13 +315,8 @@
   },
   {
    "start": 3238.0,
-   "end": 3307.5,
-   "grade": "B"
-  },
-  {
-   "start": 3307.5,
-   "end": 3351.0,
-   "grade": "C"
+   "end": 3303.6,
+   "grade": "A"
   },
   {
    "start": 3354.1,
@@ -350,13 +345,13 @@
   },
   {
    "start": 4334.9,
-   "end": 4356.0,
+   "end": 4365.3,
    "grade": "B"
   },
   {
    "start": 4428.2,
    "end": 4455.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4521.6,
@@ -371,7 +366,7 @@
   {
    "start": 4892.1,
    "end": 4977.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5007.7,
@@ -396,22 +391,22 @@
   {
    "start": 5423.3,
    "end": 5480.5,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5482.2,
    "end": 5494.7,
-   "grade": "B"
+   "grade": "A"
   }
  ],
  "grade_counts": {
-  "A": 17,
-  "B": 18,
-  "C": 2
+  "A": 15,
+  "B": 21,
+  "C": 0
  },
  "grade_minutes": {
-  "A": 20.0,
-  "B": 19.0,
-  "C": 1.4
+  "A": 18.1,
+  "B": 21.6,
+  "C": 0.0
  }
 }

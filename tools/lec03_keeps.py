@@ -11,10 +11,11 @@ KEEPS = [
  (2996.2,3038.6,1),
  (4032.3,4106.2,1),(4103.3,4185.6,2),(4184.8,4255.6,2),
  (4481.2,4529.7,1),
- (4535.4,4642.9,2),(4685.6,4767.8,2),(4887.1,4923.0,2),
+ (4535.4,4636.0,2),(4685.6,4774.0,2),(4887.1,4923.0,2),
  (4955.8,5022.8,1),(5020.2,5085.8,2),
 ]
 MAJOR = [
+ (4636.0,4685.6,"translation","announcement + alternative second-instance translation (comparator) — cut"),
  (0.0,363.5,"logistics","lecture-2 forum recap (prescriptive/descriptive, whirlpool physics) — cold-open at the chant"),
  (411.4,525.0,"repetition","sermon-2 whirlpool recap (episode 2's own chapter)"),
  (654.6,876.0,"tangent","healing-research comment (Jivaka/MBSR) + pain-avoidance examples"),
@@ -27,7 +28,7 @@ MAJOR = [
  (2768.4,2872.5,"tangent","etitia/hearsay questions + not-a-rebirth-refutation comment"),
  (3038.6,4032.3,"tangent","womb catechism Q1-Q4, Godika story, patisandhi critique, knot-reprise — big technical block"),
  (4255.6,4481.2,"tangent","out-of-body/levitation comment (IANDS) + norm recap"),
- (4767.8,4887.1,"repetition","cambodi restatement of instance 2 + music interlude"),
+ (4774.0,4887.1,"repetition","cambodi restatement of instance 2 + music interlude"),
  (4833.8,4887.1,"silence","music interlude before instance 3"),
 ]
 SUMMARY = "cold-open motto; abyss-of-pain chapter (bottomless-abyss sutta, two darts); dhamma-eye + where-the-fire-gone; Vipassi's yoni-reflection (no past-lives needed); weeds-simile immediacy; stream-winner vs three-periods; Himavanta verses; banana-trunk + blood-test similes; immersion/mind-travel chapter; cheetah-sutta three instances → close."

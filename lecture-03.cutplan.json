@@ -2,7 +2,7 @@
  "lecture": 3,
  "target_min": 30,
  "source_min": 84.8,
- "kept_sec": 2344.8,
+ "kept_sec": 2344.1,
  "kept_pct": 46,
  "timebase": {
   "native": "yt",
@@ -120,13 +120,13 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 4642.9,
+   "start": 4636.0,
    "end": 4685.6,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "kind": "translation",
+   "reason": "announcement + alternative second-instance translation (comparator) \u2014 cut"
   },
   {
-   "start": 4767.8,
+   "start": 4774.0,
    "end": 4887.1,
    "kind": "repetition",
    "reason": "cambodi restatement of instance 2 + music interlude"
@@ -263,12 +263,12 @@
   },
   {
    "start": 4535.4,
-   "end": 4642.9,
+   "end": 4636.0,
    "grade": "B"
   },
   {
    "start": 4685.6,
-   "end": 4767.8,
+   "end": 4774.0,
    "grade": "B"
   },
   {
