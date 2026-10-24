@@ -37,6 +37,6 @@ _auto-dropped to fit: 67:53-69:31(r3); 42:56-45:30(r2); 38:03-40:31(r2); 48:54-5
 - 80:42–81:35  [ranked-out]  content ranked below the 20-40min budget
 - 82:54–83:02  [trim]  short span inside removed region
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** tetralemma (Tathagata after death) four propositions -> influx-free plane -> Tadi/suchness unshaken immovability -> Attaka-vagga truth-quarrels -> foam/bubble/mirage/magician similes for aggregates
 
 Grades: A=20(14.8m) B=13(23.6m) C=0(0.0m) · dial: A → A+B → full

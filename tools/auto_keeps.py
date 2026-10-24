@@ -206,7 +206,7 @@ for a,b,r in out:
     print(f"  KEEP {mm(a)}-{mm(b)} r{r} ({b-a:.0f}s)")
 # write keeps file
 with open(f"{D}/tools/lec{lec}_keeps.py","w") as f:
-    f.write(f"# Lecture {int(lec)} keeps — {TB} timebase (source {dur/60:.1f} min) — AUTO DRAFT A/B/C/D\n")
+    f.write(f"# Lecture {int(lec)} keeps — {TB} timebase (source {dur/60:.1f} min)\n")
     f.write(f"# A=rank1 spine+technical (keep), B=rank2 flow (drop if must), C=rank3 boring (drop first), D=cut in MAJOR\n")
     f.write("KEEPS = [\n")
     for a,b,r in out:

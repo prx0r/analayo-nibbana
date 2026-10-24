@@ -45,6 +45,6 @@ _auto-dropped to fit: 49:32-51:08(r3); 1:42-7:54(r2)_
 - 74:22–75:02  [ranked-out]  content ranked below the 20-40min budget
 - 76:33–76:39  [closer]  comment + thanks closer
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** motto -> relativity illustration -> alien-seeing + mid-ocean stillness verses -> reckonings-born-of-Papancha dialogue -> two happiness kinds -> proliferation chapter (vitakka/papancha) -> arupa unchanging -> kamma-as-desire -> avitaka samadhi/noble silence -> speech-sediments close
 
 Grades: A=28(13.2m) B=12(24.9m) C=0(0.0m) · dial: A → A+B → full

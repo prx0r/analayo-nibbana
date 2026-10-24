@@ -1,4 +1,4 @@
-# Lecture 18 keeps — ds timebase (source 70.1 min) — AUTO DRAFT A/B/C/D
+# Lecture 18 keeps — ds timebase (source 70.1 min)
 # A=rank1 spine+technical (keep), B=rank2 flow (drop if must), C=rank3 boring (drop first), D=cut in MAJOR
 KEEPS = [
     (677.36, 720.22, 1),

@@ -36,6 +36,6 @@ _auto-dropped to fit: 74:40-76:54(r3); 33:07-35:19(r3); 72:27-74:40(r3); 70:10-7
 - 85:50–86:04  [ranked-out]  content ranked below the 20-40min budget
 - 87:26–87:33  [trim]  short span inside removed region
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** oil-lamp dependence -> cooling of feelings -> upadi/nirupadi terminology -> jivita-pariyantika last-feelings -> urgeless sage verse -> Mara crow simile -> Siha faith chapter -> stream-winner to arahant -> craving-glue tangles -> body-breakup verse -> Dabba story -> speech-pathways uprooted
 
 Grades: A=15(9.6m) B=16(28.6m) C=0(0.0m) · dial: A → A+B → full

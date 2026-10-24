@@ -38,6 +38,6 @@ _auto-dropped to fit: 83:09-85:19(r3); 33:29-35:45(r2); 44:01-46:16(r2); 41:46-4
 - 87:29–90:30  [ranked-out]  content ranked below the 20-40min budget
 - 91:37–91:44  [closer]  comment + thanks closer
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** motto -> raft simile (let go even of dhamma) -> relative validity -> Samiddhi challenge -> four right endeavors -> chanda-samadhi desire-concentration -> four bases of success -> stream-entry factors -> faculties close
 
 Grades: A=22(13.1m) B=13(25.9m) C=0(0.0m) · dial: A → A+B → full

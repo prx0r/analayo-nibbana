@@ -51,6 +51,6 @@ _auto-dropped to fit: 61:22-64:21(r3); 14:13-15:55(r3); 44:08-45:48(r3)_
 - 74:23–74:46  [translation]  second translation (unclosed, 4-seg cap): Comment, translation by Bikoboni.
 - 75:15–75:22  [trim]  short span inside removed region
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** Vaccha fire simile (Tathagata undesignable) -> aggregates cut at root -> ocean simile -> Anuradha four-modes (Tathagata after death) -> Satta as craving (Radha) -> scatter-form verse -> craving-destruction is Nibbana
 
 Grades: A=33(14.1m) B=13(25.7m) C=0(0.0m) · dial: A → A+B → full
