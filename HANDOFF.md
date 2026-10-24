@@ -101,15 +101,16 @@ Tier-1 FULL (8 eps, ~300m): 01 (32.6, foundations), 04 (39.7, Kaccayana hinge),
 Tier-2 A-ONLY (~196m): 12 (9.7), 14 (7.0), 15 (11.8), 16 (12.2), 17 (6.1), 18 (11.3),
 19 (9.6), 20 (8.8), 23 (14.0), 24 (8.9), 25 (14.8), 26 (13.1), 28 (9.6),
 29 (13.2), 30 (13.6), 32 (14.6), 33 (5.7). Sum Tier-1 (~269m) + Tier-2 (~196m) ≈ 465m ≈ 7.7h.
-Omitted from concise: 02, 03, 05, 06, 07, 08, 10 (manual-era A too broad for filtering; full versions live in Layer 0). 32/33 placed Tier-2 (+old note:
-default Tier-3/omitted unless skeleton shows Tier-2 gold).
+Omitted from concise: 02, 03, 05, 06, 07, 08, 10 (manual-era A too broad for filtering; full versions live in Layer 0).
 Build method: NO re-cutting. Concise = filter existing kept_segments by grade
 (full keeps for Tier-1, grade-A only for Tier-2) + per-episode md generated from
 a selector script (to write: ~30 min, same schema + tier field).
-RISK (accepted): manual lectures 02–10 have inflated A grades (A≈episode), so they
-are deliberately NOT in Tier-2-A-only (would blow budget). Optional follow-up:
-strict re-grade pass on 02–10 (demote long exposition A→B, ~1–2h) to unlock them
-for Tier-2 and shrink A-only totals everywhere.
+Grading standard (applied all 33, 2026-10-24): A = load-bearing spine (gold: motto,
+signature similes, payoff lines/verses, definitional cores — must survive);
+B = relevant flow (droppable largest-first if over budget); C = boring
+(drop first); D = cut outright (forum/recap/Pali/2nd-translations/closers).
+Manual-era A-inflation fixed (02–10 re-graded; lec09/10 keep dense-episode
+exceptions: big load-bearing chapters stay A by design, Tier-1 full anyway).
 
 ### Layer 2 — MINI 2h (120 min): 6 chapters x 20 min, thematic, own arc
 1. "The Fire Goes Out" — what Nibbana is: lec01 fire/lamp arc + lec21 Vaccha.
