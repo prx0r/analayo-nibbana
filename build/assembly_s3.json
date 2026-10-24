@@ -1,0 +1,350 @@
+[
+ {
+  "t": "human-intro",
+  "ref": "human-scripts.md S3"
+ },
+ {
+  "t": "motto-bell"
+ },
+ {
+  "t": "motto"
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 1,
+  "start": 2998.9,
+  "end": 3083.0,
+  "dur": 84.1
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 2,
+  "text": "It is as if one is trying to outstrip one's shadow by running towards it out of fun, while the other is trying to flee from it out of fear."
+ },
+ {
+  "t": "fish-term",
+  "say": "with nowhere to land",
+  "hears": "non-manifestative"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 9,
+  "start": 5251.1,
+  "end": 5363.3,
+  "dur": 112.2
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 3,
+  "text": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset him.. The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.. Just as if a man overcome by hunger came upon a honey-ball.. When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca."
+ },
+ {
+  "t": "fish-term",
+  "say": "spiralling",
+  "hears": "papancha"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 12,
+  "start": 1299.0,
+  "end": 1431.0,
+  "dur": 131.7
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 4,
+  "text": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 23,
+  "start": 984.3,
+  "end": 1003.2,
+  "dur": 18.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 5,
+  "text": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 24,
+  "start": 1038,
+  "end": 1100.2,
+  "dur": 62.2
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 6,
+  "text": "From whatever source papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works."
+ },
+ {
+  "t": "fish-term",
+  "say": "sense sphere",
+  "hears": "ayatana"
+ },
+ {
+  "t": "fish-term",
+  "say": "the going-out",
+  "hears": "nibbana"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 11,
+  "start": 5552.1,
+  "end": 5672.9,
+  "dur": 120.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 7,
+  "text": "Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence."
+ },
+ {
+  "t": "fish-term",
+  "say": "gathered attention",
+  "hears": "samadhi"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 29,
+  "start": 4502.1,
+  "end": 4593.1,
+  "dur": 91.0
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 8,
+  "text": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of asava, influx."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 12,
+  "start": 2298.3,
+  "end": 2330.7,
+  "dur": 32.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 9,
+  "text": "Steadied whereon the tides of imaginings no longer occur in him."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 29,
+  "start": 2441.9,
+  "end": 2521.5,
+  "dur": 79.6
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 10,
+  "text": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
+ },
+ {
+  "t": "fish-term",
+  "say": "the next moment of me",
+  "hears": "bhava"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 13,
+  "start": 2130.0,
+  "end": 2191.3,
+  "dur": 61.3
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 11,
+  "text": "He understands it to be impermanent, uninvolved, unrejoiced."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 30,
+  "start": 995.7,
+  "end": 1074.0,
+  "dur": 78.3
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 12,
+  "text": "The nature of consciousness in general is to abide or dwell in. That nonmanifestative consciousness, however, has got rid of the tendency to abide or dwell in."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 14,
+  "start": 1494.2,
+  "end": 1559.3,
+  "dur": 65.1
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 13,
+  "text": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 24,
+  "start": 4305.6,
+  "end": 4437.4,
+  "dur": 131.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 14,
+  "text": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 29,
+  "start": 953.3,
+  "end": 992.2,
+  "dur": 38.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 15,
+  "text": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own."
+ },
+ {
+  "t": "fish-term",
+  "say": "thirst",
+  "hears": "tanha"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 10,
+  "start": 974.5,
+  "end": 1350.5,
+  "dur": 376.0
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "zoom-bell"
+ }
+]

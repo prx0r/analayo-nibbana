@@ -1,0 +1,300 @@
+[
+ {
+  "t": "human-intro",
+  "ref": "human-scripts.md S2"
+ },
+ {
+  "t": "motto-bell"
+ },
+ {
+  "t": "motto"
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "text": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 3,
+  "start": 363.5,
+  "end": 411.4,
+  "dur": 47.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 2,
+  "text": "Just as a woman or a man, youthful and fond of adornment, in looking at her or his facial image in a mirror or in a bowl filled with pure, clear, clean water, would be seeing it with dependence and not without dependence."
+ },
+ {
+  "t": "fish-term",
+  "say": "stopping",
+  "hears": "nirodha"
+ },
+ {
+  "t": "fish-term",
+  "say": "grasping",
+  "hears": "upadana"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 10,
+  "start": 1658.1,
+  "end": 1974.9,
+  "dur": 316.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 3,
+  "text": "sorrows, grieves, and laments, he weeps and beats his breast and becomes distraught. This is called an uninstructed worldling who has not risen up in the bottomless abyss, one who has not gained a foothold."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 3,
+  "start": 525.0,
+  "end": 654.6,
+  "dur": 129.6
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 4,
+  "text": "The world arises in the six sense-bases. It is at the same time the arising of suffering... The law of dependent arising is an explanation of the way a concept of the world comes about. This is an extremely subtle point."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 10,
+  "start": 4064.8,
+  "end": 4229.7,
+  "dur": 164.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 5,
+  "text": "The deepest point of the entire formula of paticca samuppada is traceable to the interrelation that obtains between name and form on the one hand, and between name-and-form and consciousness on the other."
+ },
+ {
+  "t": "fish-term",
+  "say": "the next moment of me",
+  "hears": "bhava"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 10,
+  "start": 4292.7,
+  "end": 4455.5,
+  "dur": 162.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 6,
+  "text": "Like an expert physician, who treats the germ of a disease and immunizes the patient, the Buddha effected a breach in the samsaric vortex by concentrating on its epicycle within this fathom-long body."
+ },
+ {
+  "t": "fish-term",
+  "say": "with nowhere to land",
+  "hears": "non-manifestative"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 23,
+  "start": 5131.5,
+  "end": 5259.3,
+  "dur": 127.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 7,
+  "text": "All the twelve links are dependently arisen, and avijja is no exception. Even not seeing how it works arises with the arising of influxes, asavasamudaya avijjasamudayo. So even not seeing how it works is not the cause. The cause is the underlying principle itself."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 28,
+  "start": 786.3,
+  "end": 838.5,
+  "dur": 52.2
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 8,
+  "text": "What is called the stopping of consciousness has a deeper sense here. It means the stopping of the specifically prepared consciousness, abhisaikhata vinnana \u2014 just knowing, before words. An arahant's experience of the stopping of consciousness is at the same time the experience of the stopping of name-and-form."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 4,
+  "start": 485.5,
+  "end": 612.2,
+  "dur": 126.7
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 9,
+  "text": "True to the qualities of the Dhamma \u2014 to be seen here and now, not involving time, and inviting to come and see \u2014 the entire mass of samsaric suffering ceases immediately."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 4,
+  "start": 3142.9,
+  "end": 3199.8,
+  "dur": 56.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 10,
+  "text": "In order to ascertain whether a banana trunk is pith-less, it is not necessary to go on removing its bark, layer after layer, from top to bottom. We only have to take a sharp sword and cut the trunk in the middle, so that the cross-section will reveal to us its pith-less nature. Similarly, if we cut in the middle the banana trunk of things the mind makes with the sharp sword of wisdom, its internal structure as revealed by the cross-section will convince us of the essence-less nature of the group of things the mind makes."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 3,
+  "start": 2906.5,
+  "end": 2994.7,
+  "dur": 88.2
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 11,
+  "text": "According to the accepted interpretation, presented by the venerable author of the Visuddhimagga, the first two links of the formula belong to the past, and the last two links belong to the future. The remaining eight links in the middle are taken to represent the present. That means, we have here the three periods of time. So it is not \u2014 timeless."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 4,
+  "start": 4313.4,
+  "end": 4374.2,
+  "dur": 60.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 12,
+  "text": "Sometimes we happen to buy from a shop an extremely rickety machine deceived by its paint and polish, and take it home as a brand new thing. The very next day it goes out of order... So is our birth with its unpredictable vicissitudes... This is the price we pay for this brand new body we are blessed with in this existence."
+ },
+ {
+  "t": "fish-term",
+  "say": "remembering to notice",
+  "hears": "sati"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 4,
+  "start": 2129.5,
+  "end": 2230.9,
+  "dur": 101.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 13,
+  "text": "In such discourses as the Bahudhatukasutta the twelve-linked formula is introduced with a set of these thematic phrases, which is then related to the formula proper with the conjunctive 'that is to say', yadidam. This conjunctive clearly indicates that the twelve-linked formula is an illustration. The twelve links are therefore things dependently arisen, paticca samuppanna dhamma."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 25,
+  "start": 3418.8,
+  "end": 3510.7,
+  "dur": 91.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "zoom-bell"
+ }
+]

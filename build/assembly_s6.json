@@ -1,0 +1,297 @@
+[
+ {
+  "t": "human-intro",
+  "ref": "human-scripts.md S6"
+ },
+ {
+  "t": "motto-bell"
+ },
+ {
+  "t": "motto"
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "text": "Now, for the arahant, the whole world appears like a chessboard."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 27,
+  "start": 675,
+  "end": 760.6,
+  "dur": 85.6
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 2,
+  "text": "Unravelling of knots and rest."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 8,
+  "start": 2787.3,
+  "end": 2835.9,
+  "dur": 48.6
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 3,
+  "text": "Let a myriad arahant lotuses, unsmeared by water and mud, bright petalled and sweet scented, bloom all over the forest hermitage pond."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 18,
+  "start": 1252.4,
+  "end": 1274.6,
+  "dur": 22.2
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 4,
+  "text": "It is as if the unending game of chess with all its vicissitudes has ended in a peaceful draw."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 23,
+  "start": 1028.8,
+  "end": 1065.5,
+  "dur": 36.7
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 5,
+  "text": "Unravelling the tangled knot of holding on, they form no desire anywhere in the world."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 33,
+  "start": 949.9,
+  "end": 991.0,
+  "dur": 41.1
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 6,
+  "text": "He experiences bodily and mental happiness."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 33,
+  "start": 1918.7,
+  "end": 1941.1,
+  "dur": 22.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 7,
+  "text": "Are released in the experience of stopping, it is they that are the dispellers of death."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 33,
+  "start": 2034.5,
+  "end": 2058.6,
+  "dur": 24.1
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 8,
+  "text": "The arahant is at peace, having given up victory and defeat. Isn't it enough for him to give up victory? Why is it said that he gives up both victory and defeat? These two go as a pair."
+ },
+ {
+  "t": "fish-term",
+  "say": "gathered attention",
+  "hears": "samadhi"
+ },
+ {
+  "t": "fish-term",
+  "say": "remembering to notice",
+  "hears": "sati"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 31,
+  "start": 4604.6,
+  "end": 4689.4,
+  "dur": 84.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 9,
+  "text": "Whatever is prepared is not worthwhile, and yet, it is by means of this prepared noble eightfold path that the Buddha clears the path to the unprepared."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 32,
+  "start": 1631.8,
+  "end": 1671.3,
+  "dur": 39.5
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 10,
+  "text": "The arahant has no such distinction [between this shore and the farther shore]. Once gone beyond, the emancipated one has no more use of these concepts."
+ },
+ {
+  "t": "fish-term",
+  "say": "the going-out",
+  "hears": "nibbana"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 18,
+  "start": 753.8,
+  "end": 853.2,
+  "dur": 99.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 11,
+  "text": "All those who came out of that hall, except this discerning one, were spectators. He was not one of the audience, because he had an insight into the magic show from his hiding place on the stage."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 26,
+  "start": 1650.7,
+  "end": 1749.1,
+  "dur": 98.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 12,
+  "text": "He knows that, given not seeing how it works, they are true, and that they are falsified only when not seeing how it works fades away in one who sees the stopping. Fortified with that understanding, he does not categorically assert the sense-data as true, nor does he reprimand those who assert them as the truth. That is why the Buddha advocates a tolerant attitude in this discourse."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 26,
+  "start": 1813.7,
+  "end": 1909.0,
+  "dur": 95.3
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 13,
+  "text": "To one detached from percepts there are no bonds, to one released through wisdom there are no delusions, those who hold on to percepts and views, go about wrangling in this world."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 27,
+  "start": 3655.6,
+  "end": 3694.8,
+  "dur": 39.2
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "seed-reprise"
+ },
+ {
+  "t": "motto-bell"
+ },
+ {
+  "t": "silence",
+  "dur": 30
+ }
+]

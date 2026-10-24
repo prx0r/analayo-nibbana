@@ -1,0 +1,320 @@
+[
+ {
+  "t": "human-intro",
+  "ref": "human-scripts.md S5"
+ },
+ {
+  "t": "motto-bell"
+ },
+ {
+  "t": "motto"
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "text": "It is in the same manner that the razor of insight wisdom has to be whetted on the sharpening stone of the Satipatthana \u2014 four ways of paying attention \u2014 sutta."
+ },
+ {
+  "t": "fish-term",
+  "say": "not spiralling",
+  "hears": "nippapancha"
+ },
+ {
+  "t": "fish-term",
+  "say": "the going-out",
+  "hears": "nibbano"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 16,
+  "start": 935.8,
+  "end": 1066.7,
+  "dur": 130.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 2,
+  "text": "Dhono na hi tena mannati yadidam ditthasutam mutesu va \u2014 the arahant does not imagine 'thereby', namely, by whatever is seen, heard and sensed."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 14,
+  "start": 4406,
+  "end": 4462.3,
+  "dur": 56.3
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 3,
+  "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 14,
+  "start": 4478.1,
+  "end": 4553,
+  "dur": 74.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 4,
+  "text": "With the idea of sharpening the razor, if one grabs it tightly and rubs it on the sharpening stone, it will only become blunt. Paramasana, holding on, grabbing, is something like that."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 5,
+  "start": 4018.9,
+  "end": 4111.5,
+  "dur": 92.6
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 5,
+  "text": "What tranquillity meditation does, is to temporarily calm them down and derive some sort of happiness. That too is necessary from the point of view of concentration, to do away with restlessness and the like, but it does not dispel not seeing how it works. That is why, in insight meditation, one tries to understand things the mind makes for what they are by dispelling not seeing how it works. The more one sees things the mind makes as things the mind makes, not seeing how it works is dispelled, and the more one dispels not seeing how it works, the things the mind makes lose their significance as things the mind makes."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 5,
+  "start": 4160.0,
+  "end": 4273.3,
+  "dur": 113.3
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 6,
+  "text": "It is said that the wandering ascetic Upatissa was able to arouse the path of Stream-winning on hearing just the first two lines."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 5,
+  "start": 3751.5,
+  "end": 3819.1,
+  "dur": 67.6
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 7,
+  "text": "When walking, he understands \u2014 'I am walking', when standing, he understands \u2014 'I am standing', when sitting, he understands \u2014 'I am sitting', when lying down, he understands \u2014 'I am lying down'. While keeping one's postures in this manner, one sees in outline one's own form as if one were acting in a monodrama."
+ },
+ {
+  "t": "fish-term",
+  "say": "four ways of paying attention",
+  "hears": "satipatthana"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 9,
+  "start": 728.2,
+  "end": 806.0,
+  "dur": 77.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 8,
+  "text": "The third combined movement ensures that those parts of the blade still untouched by the stone will also get duly sharpened."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 5,
+  "start": 410.3,
+  "end": 489.0,
+  "dur": 78.7
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 9,
+  "text": "The purpose is the breaking up of the foundation for cravings, conceits and views. For 'me' to acquire some object out of craving that object has to exist apart from 'me'... The statement 'this is mine' presupposes a duality between 'me' and 'mine'."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 9,
+  "start": 1003.9,
+  "end": 1037.6,
+  "dur": 33.7
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 10,
+  "text": "First of all one has to mindfully scan or scrutinize it... But based on that scrutiny, the four right endeavours play their role in regard to unskilful and skilful mental states."
+ },
+ {
+  "t": "fish-term",
+  "say": "gathered attention",
+  "hears": "samadhi"
+ },
+ {
+  "t": "fish-term",
+  "say": "remembering to notice",
+  "hears": "sati"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 9,
+  "start": 2857.7,
+  "end": 2930.1,
+  "dur": 72.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 11,
+  "text": "These seven tool-kits are interconnected. From the satipatthana tool-kit, the sammappadhana tool-kit comes out as a matter of course."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 31,
+  "start": 4822.7,
+  "end": 4882.1,
+  "dur": 59.4
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 12,
+  "text": "Here we have a wonderful technique, based on the twin principles of pragmatism and relativity."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 30,
+  "start": 1187.5,
+  "end": 1245.4,
+  "dur": 57.9
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 13,
+  "text": "Just as a blue lotus, born in the water, rises well above the water and remains unsmeared \u2014 so the Tathagata dwells detached from ten things with a mind unrestricted."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 18,
+  "start": 2307,
+  "end": 2350.0,
+  "dur": 43.0
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "fish",
+  "beat": 14,
+  "text": "One comes to know one's strongpoint, where one's forte lies... One might recognize chanda, desire or interest, as one's strongpoint... Another might discover that his true personality emerges in the thick of striving... One who belongs to the wisdom category is never tired of investigation."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 31,
+  "start": 611.2,
+  "end": 673.0,
+  "dur": 61.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "zoom-bell"
+ }
+]
