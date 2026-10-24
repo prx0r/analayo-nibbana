@@ -1,0 +1,587 @@
+{
+ "lecture": 9,
+ "target_min": 30,
+ "source_min": 90.6,
+ "kept_sec": 2380.2,
+ "kept_pct": 44,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 8.48,
+  "yt_last": 5439.32
+ },
+ "dropped_spans": [
+  {
+   "start": 5082.7,
+   "end": 5198.0,
+   "rank": 2
+  },
+  {
+   "start": 2931.6,
+   "end": 3028.2,
+   "rank": 2
+  },
+  {
+   "start": 4294.1,
+   "end": 4381.2,
+   "rank": 2
+  },
+  {
+   "start": 5009.4,
+   "end": 5080.7,
+   "rank": 2
+  },
+  {
+   "start": 1476.0,
+   "end": 1534.0,
+   "rank": 2
+  },
+  {
+   "start": 4443.0,
+   "end": 4497.4,
+   "rank": 2
+  },
+  {
+   "start": 1077.2,
+   "end": 1111.3,
+   "rank": 2
+  }
+ ],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 607.8,
+   "kind": "forum",
+   "reason": "course welcome + previous-lecture forum discussion + Robert Baer impermanence preamble"
+  },
+  {
+   "start": 656.0,
+   "end": 728.2,
+   "kind": "recap",
+   "reason": "lecture-8 recap of postures and dumpshaw analogy"
+  },
+  {
+   "start": 806.0,
+   "end": 812.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 865.8,
+   "end": 886.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 908.4,
+   "end": 929.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 952.2,
+   "end": 1112.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1186.7,
+   "end": 1189.8,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1276.9,
+   "end": 1297.7,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1316.5,
+   "end": 1365.8,
+   "kind": "translation",
+   "reason": "Bodhi translation of impermanence formula + Chinese parallel + synthesis"
+  },
+  {
+   "start": 1374.6,
+   "end": 1386.4,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1401.4,
+   "end": 1425.4,
+   "kind": "translation",
+   "reason": "Bodhi translation of not-self quote + Madhyama Agama parallel"
+  },
+  {
+   "start": 1438.8,
+   "end": 1450.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1461.2,
+   "end": 1534.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1566.7,
+   "end": 1584.5,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1604.4,
+   "end": 1625.2,
+   "kind": "translation",
+   "reason": "Bhikkhu Bodhi second translation of Mogha Raja verse"
+  },
+  {
+   "start": 1633.3,
+   "end": 1683.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1705.3,
+   "end": 1727.9,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1767.8,
+   "end": 1794.4,
+   "kind": "pali",
+   "reason": "Pali recitation of King Moolaka answers"
+  },
+  {
+   "start": 1820.5,
+   "end": 2095.5,
+   "kind": "translation",
+   "reason": "Bodhi translation of answers + full Madhyama Agama passage + article note + analysis lead-in"
+  },
+  {
+   "start": 2184.4,
+   "end": 2215.6,
+   "kind": "academic",
+   "reason": "Peter Skilling comparative study of Dhammapada opening"
+  },
+  {
+   "start": 2394.8,
+   "end": 2418.0,
+   "kind": "pali",
+   "reason": "Pali recitation of four iddhipada"
+  },
+  {
+   "start": 2447.5,
+   "end": 2479.4,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2576.2,
+   "end": 2857.7,
+   "kind": "comment",
+   "reason": "Western no-desire aside + tanha-nisaya translation comparison (Bodhi/Woodward/Samyukta Agama)"
+  },
+  {
+   "start": 2930.1,
+   "end": 3032.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3089.8,
+   "end": 3099.5,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3131.3,
+   "end": 3150.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3344.5,
+   "end": 3516.0,
+   "kind": "aside",
+   "reason": "meditation-object aside + Bhaddanaga dancing-woman episode + Norman translation"
+  },
+  {
+   "start": 3562.2,
+   "end": 3564.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3593.2,
+   "end": 3594.6,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3735.6,
+   "end": 3792.9,
+   "kind": "pali",
+   "reason": "Pali recitation of Samiddhi catechism"
+  },
+  {
+   "start": 3823.7,
+   "end": 3832.8,
+   "kind": "aside",
+   "reason": "let-us-not-translate remark + gap"
+  },
+  {
+   "start": 3939.4,
+   "end": 3942.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4051.0,
+   "end": 4077.2,
+   "kind": "trim",
+   "reason": "essence released from name-and-form passage"
+  },
+  {
+   "start": 4089.1,
+   "end": 4104.6,
+   "kind": "pali",
+   "reason": "Pali recitation of Dhammapada verse"
+  },
+  {
+   "start": 4119.9,
+   "end": 4143.8,
+   "kind": "translation",
+   "reason": "A.K. Norman second translation of Dhammapada verse"
+  },
+  {
+   "start": 4159.7,
+   "end": 4161.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4182.2,
+   "end": 4215.6,
+   "kind": "repetition",
+   "reason": "re-telling of film-show simile already explained in the series"
+  },
+  {
+   "start": 4243.7,
+   "end": 4259.0,
+   "kind": "pali",
+   "reason": "Pali recitation of Vibhanga verse"
+  },
+  {
+   "start": 4271.6,
+   "end": 4387.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4437.6,
+   "end": 4540.3,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4617.9,
+   "end": 4664.6,
+   "kind": "pali",
+   "reason": "Pali recitation of dependent-origination chain"
+  },
+  {
+   "start": 4704.9,
+   "end": 4829.5,
+   "kind": "translation",
+   "reason": "Walsh translation + Digha Agama insert + recitation remarks + Agama quote"
+  },
+  {
+   "start": 4895.7,
+   "end": 4915.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4933.3,
+   "end": 4952.1,
+   "kind": "pali",
+   "reason": "Pali recitation of six-consciousnesses passage"
+  },
+  {
+   "start": 4968.1,
+   "end": 4989.5,
+   "kind": "academic",
+   "reason": "three Chinese parallels comment"
+  },
+  {
+   "start": 5006.9,
+   "end": 5199.4,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5363.3,
+   "end": 5376.1,
+   "kind": "pali",
+   "reason": "Pali recitation of final Itivuttaka verse"
+  },
+  {
+   "start": 5387.6,
+   "end": 5437.89,
+   "kind": "closer",
+   "reason": "Ireland second translation + Itivuttaka restatement + instructor closer"
+  }
+ ],
+ "keep_summary": "motto -> Satipatthana postures/dumpshaw -> hands/feet relativity -> seven suns -> impermanence to voidness to not-self -> Dhammapada verses -> King Moolaka catechism -> chanda/Unnabha iddhipada -> gem-in-rubbish-heap analysis -> Brahmachala 62 views -> Samiddhi parallel catechism -> via-media/shadow conclusion",
+ "kept_segments": [
+  {
+   "start": 607.8,
+   "end": 656.0,
+   "grade": "A"
+  },
+  {
+   "start": 728.2,
+   "end": 806.0,
+   "grade": "A"
+  },
+  {
+   "start": 812.3,
+   "end": 865.8,
+   "grade": "A"
+  },
+  {
+   "start": 886.6,
+   "end": 908.4,
+   "grade": "A"
+  },
+  {
+   "start": 929.2,
+   "end": 952.2,
+   "grade": "A"
+  },
+  {
+   "start": 1112.1,
+   "end": 1186.7,
+   "grade": "A"
+  },
+  {
+   "start": 1189.8,
+   "end": 1276.9,
+   "grade": "A"
+  },
+  {
+   "start": 1297.7,
+   "end": 1316.5,
+   "grade": "A"
+  },
+  {
+   "start": 1365.8,
+   "end": 1374.6,
+   "grade": "A"
+  },
+  {
+   "start": 1386.4,
+   "end": 1401.4,
+   "grade": "A"
+  },
+  {
+   "start": 1425.4,
+   "end": 1438.8,
+   "grade": "A"
+  },
+  {
+   "start": 1450.2,
+   "end": 1461.2,
+   "grade": "A"
+  },
+  {
+   "start": 1534.0,
+   "end": 1566.7,
+   "grade": "A"
+  },
+  {
+   "start": 1584.5,
+   "end": 1604.4,
+   "grade": "A"
+  },
+  {
+   "start": 1625.2,
+   "end": 1633.3,
+   "grade": "A"
+  },
+  {
+   "start": 1683.6,
+   "end": 1705.3,
+   "grade": "A"
+  },
+  {
+   "start": 1727.9,
+   "end": 1767.8,
+   "grade": "A"
+  },
+  {
+   "start": 1794.4,
+   "end": 1820.5,
+   "grade": "A"
+  },
+  {
+   "start": 2095.5,
+   "end": 2184.4,
+   "grade": "A"
+  },
+  {
+   "start": 2215.6,
+   "end": 2394.8,
+   "grade": "A"
+  },
+  {
+   "start": 2418.0,
+   "end": 2447.5,
+   "grade": "A"
+  },
+  {
+   "start": 2479.4,
+   "end": 2576.2,
+   "grade": "A"
+  },
+  {
+   "start": 2857.7,
+   "end": 2930.1,
+   "grade": "A"
+  },
+  {
+   "start": 3032.1,
+   "end": 3089.8,
+   "grade": "A"
+  },
+  {
+   "start": 3099.5,
+   "end": 3131.3,
+   "grade": "A"
+  },
+  {
+   "start": 3150.2,
+   "end": 3344.5,
+   "grade": "A"
+  },
+  {
+   "start": 3516.0,
+   "end": 3562.2,
+   "grade": "A"
+  },
+  {
+   "start": 3564.3,
+   "end": 3593.2,
+   "grade": "B"
+  },
+  {
+   "start": 3594.6,
+   "end": 3735.6,
+   "grade": "A"
+  },
+  {
+   "start": 3792.9,
+   "end": 3823.7,
+   "grade": "A"
+  },
+  {
+   "start": 3832.8,
+   "end": 3939.4,
+   "grade": "A"
+  },
+  {
+   "start": 3942.9,
+   "end": 4051.0,
+   "grade": "A"
+  },
+  {
+   "start": 4077.2,
+   "end": 4089.1,
+   "grade": "A"
+  },
+  {
+   "start": 4104.6,
+   "end": 4119.9,
+   "grade": "A"
+  },
+  {
+   "start": 4143.8,
+   "end": 4159.7,
+   "grade": "A"
+  },
+  {
+   "start": 4161.0,
+   "end": 4182.2,
+   "grade": "A"
+  },
+  {
+   "start": 4215.6,
+   "end": 4243.7,
+   "grade": "A"
+  },
+  {
+   "start": 4259.0,
+   "end": 4271.6,
+   "grade": "A"
+  },
+  {
+   "start": 4387.2,
+   "end": 4437.6,
+   "grade": "A"
+  },
+  {
+   "start": 4540.3,
+   "end": 4617.9,
+   "grade": "A"
+  },
+  {
+   "start": 4664.6,
+   "end": 4704.9,
+   "grade": "A"
+  },
+  {
+   "start": 4829.5,
+   "end": 4895.7,
+   "grade": "A"
+  },
+  {
+   "start": 4915.0,
+   "end": 4933.3,
+   "grade": "A"
+  },
+  {
+   "start": 4952.1,
+   "end": 4968.1,
+   "grade": "A"
+  },
+  {
+   "start": 4989.5,
+   "end": 5006.9,
+   "grade": "A"
+  },
+  {
+   "start": 5199.4,
+   "end": 5363.3,
+   "grade": "A"
+  },
+  {
+   "start": 5376.1,
+   "end": 5387.6,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 46,
+  "B": 1,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 39.2,
+  "B": 0.5,
+  "C": 0.0
+ }
+}

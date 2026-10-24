@@ -7,8 +7,11 @@ lectures: condense each to 20–40 min (aim ~30, we've been landing ~39). A/B/C 
 
 ## Status
 - **Done (8/33):** lectures 01–08 → `lecture-NN.cutplan.json` + `.md` (grades in `kept_segments[]`).
-- **In progress:** lecture 09 — full design exists in git history notes below / see
-  `lecture-09.cutplan.json` if present. Transcript fully read (1807 lines CF).
+- **In progress:** lecture 09 — `lecture-09.cutplan.{json,md}` GENERATED (39.7 min,
+  A=46/B=1, 7 auto-drops) but **seam audit NOT finished**. Keep file:
+  `tools/lec09_keeps.py`; audit with `python3 tools/audit_seams.py 9` (reads
+  `/tmp/opencode/lec09_cf.txt` or copy it in), fix any mid-sentence boundary,
+  re-run `python3 tools/gen_plan.py 9 tools/lec09_keeps.py`. Transcript fully read.
 - **Remaining:** 09–33 (32+33 counted as one combined plan per original todo list).
 
 ## How the process works (proven — follow it)
