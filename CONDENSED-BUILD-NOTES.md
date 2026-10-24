@@ -117,3 +117,6 @@ PIPELINE (byte-identical rerun): assign spans (kw+primary) -> order by (cluster,
 
 ## 23. TTS rhythm layer (2026-10-24) — punctuation IS direction
 tts_line per beat: parens -> em-dash pauses, colons/semicolons -> beats/commas, "namely," always with its comma, no leading bullets, no dash-period collisions. Markdown stripped. Voice beds: commas breathe, dashes land, periods stop.
+
+## 23. Hold-up verdict (2026-10-24) — core read against Analayo transcripts
+Word-overlap flagged 47 beats; read-through judged 6 samples: 4 REAL misassignments fixed (S5c2/c3 earth-on-Bahiya -> na-tena + payoff quotes; S6c1 chessboard-on-magicshow -> hiding-place/missed-show quotes; S3 L12 Madhupindika clip -> honey-ball narrative; S3 L13 no-delight clip -> delight-in-existence quote; S2c10 auto-fixed by cluster-constrained rematch). 1 accepted as thematic hold (S3c8 reckoning litany primes the linguistic clip). Rest = metric artifacts (mottos are stopwords; Pali pads vs English clips; YT-transcript noise). Provenance re-verified after all fixes: 76/76. Below+tts regenerated deterministically. Ears pass remains the true judge.
