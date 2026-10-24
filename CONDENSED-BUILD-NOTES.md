@@ -75,3 +75,8 @@ segN_core_v3.json + manifest_sN_core_v3.txt. 73 clips, 96.1m Analayo (≈2h with
 
 ## 12. Pads full text (2026-10-24)
 segN_pads_full.json for §2-6 (cluster → sermon-section bodies from excavations, capped): S2 13 sections/23k chars · S3 14/13k · S4 7/6.8k · S5 13/14k · S6 12/6.4k. §1 pads stay hand-curated (6 beats). Pad selection at assemble = 1-2 quotes per beat from these bodies (30-60s each).
+
+## 13. Core v4 final (2026-10-24) — 72 clips, 96.3m Analayo (+pads/pauses ≈ 2h)
+S1 12/12.1m · S2 13/25.5m · S3 15/24.7m · S4 5/4.8m · S5 14/17m · S6 13/12.3m.
+Fixes from flow audit all applied; S6 head-revert verified (motto intact at 675); S1 split verified (refrain 348-359 + teaching 371-522, permission excised).
+Audio coverage v4: S1 10/12 · S2 10/13 · S3 12/15 · S4 3/5 · S5 13/14 · S6 10/13 = 58/72 (81%).
