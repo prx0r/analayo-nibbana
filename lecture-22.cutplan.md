@@ -1,11 +1,11 @@
 # Lecture 22 — cut plan
 
-Source 80.0 min → **kept 38.2 min (48%)** · 35 cuts · band 20–40 ✓
-_auto-dropped to fit: 58:02-60:00(r3); 29:07-30:40(r3); 22:47-24:19(r3); 10:39-12:08(r3); 20:42-22:08(r3); 66:07-68:19(r2)_
+Source 80.0 min → **kept 39.9 min (50%)** · 35 cuts · band 20–40 ✓
+_auto-dropped to fit: 58:02-60:00(r3); 29:07-30:40(r3); 22:47-24:19(r3); 10:39-12:08(r3); 20:48-22:08(r3)_
 
 - 0:00–4:06  [ranked-out]  content ranked below the 20-40min budget
 - 5:58–6:38  [ranked-out]  content ranked below the 20-40min budget
-- 8:04–8:47  [ranked-out]  content ranked below the 20-40min budget
+- 8:04–8:55  [ranked-out]  content ranked below the 20-40min budget
 - 9:06–12:43  [ranked-out]  content ranked below the 20-40min budget
 - 14:21–14:26  [trim]  short span inside removed region
 - 14:28–14:54  [ranked-out]  content ranked below the 20-40min budget
@@ -30,10 +30,10 @@ _auto-dropped to fit: 58:02-60:00(r3); 29:07-30:40(r3); 22:47-24:19(r3); 10:39-1
 - 55:30–55:58  [ranked-out]  content ranked below the 20-40min budget
 - 57:49–60:44  [ranked-out]  content ranked below the 20-40min budget
 - 62:10–62:33  [ranked-out]  content ranked below the 20-40min budget
-- 64:16–64:24  [pali]  Pali recitation / chant gap
-- 64:27–65:13  [ranked-out]  content ranked below the 20-40min budget
-- 65:17–69:24  [ranked-out]  content ranked below the 20-40min budget
-- 70:42–71:16  [ranked-out]  content ranked below the 20-40min budget
+- 64:16–65:13  [ranked-out]  content ranked below the 20-40min budget
+- 65:17–66:07  [ranked-out]  content ranked below the 20-40min budget
+- 68:19–69:24  [ranked-out]  content ranked below the 20-40min budget
+- 70:42–71:34  [ranked-out]  content ranked below the 20-40min budget
 - 71:40–71:56  [ranked-out]  content ranked below the 20-40min budget
 - 73:56–74:37  [ranked-out]  content ranked below the 20-40min budget
 - 78:27–78:56  [ranked-out]  content ranked below the 20-40min budget
@@ -41,4 +41,4 @@ _auto-dropped to fit: 58:02-60:00(r3); 29:07-30:40(r3); 22:47-24:19(r3); 10:39-1
 
 **Keeps:** suchness -> conventional terms -> unwavering -> mango-cut simile -> designated/undesignatable Tathagata -> aggregates + influx eradication -> expedient means -> future monks warning -> world-system imagery
 
-Grades: A=15(7.2m) B=20(30.9m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=14(6.7m) B=21(33.1m) C=0(0.0m) · dial: A → A+B → full

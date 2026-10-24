@@ -2,8 +2,8 @@
  "lecture": 20,
  "target_min": 30,
  "source_min": 76.1,
- "kept_sec": 2376.6,
- "kept_pct": 52,
+ "kept_sec": 2029.1,
+ "kept_pct": 44,
  "timebase": {
   "native": "yt",
   "yt_first": 0.9,
@@ -61,36 +61,12 @@
   },
   {
    "start": 1256.58,
-   "end": 1307.22,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 1386.96,
-   "end": 1427.28,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 1493.16,
    "end": 1501.92,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1506.66,
-   "end": 1529.22,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 1532.22,
-   "end": 1595.1,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 1681.62,
    "end": 1735.26,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -121,12 +97,6 @@
   },
   {
    "start": 2139.3,
-   "end": 2162.22,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 2269.26,
    "end": 2308.86,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -157,12 +127,6 @@
   },
   {
    "start": 2872.4,
-   "end": 2881.68,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
-  },
-  {
-   "start": 2883.98,
    "end": 2907.3,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -223,12 +187,6 @@
   },
   {
    "start": 3853.92,
-   "end": 3894.96,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 3897.96,
    "end": 3928.26,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -331,29 +289,9 @@
    "grade": "B"
   },
   {
-   "start": 1307.2,
-   "end": 1387.0,
-   "grade": "C"
-  },
-  {
-   "start": 1427.3,
-   "end": 1493.2,
-   "grade": "C"
-  },
-  {
    "start": 1501.9,
    "end": 1506.7,
    "grade": "A"
-  },
-  {
-   "start": 1529.2,
-   "end": 1532.2,
-   "grade": "A"
-  },
-  {
-   "start": 1595.1,
-   "end": 1681.6,
-   "grade": "C"
   },
   {
    "start": 1735.3,
@@ -379,11 +317,6 @@
    "start": 2056.6,
    "end": 2139.3,
    "grade": "B"
-  },
-  {
-   "start": 2162.2,
-   "end": 2269.3,
-   "grade": "C"
   },
   {
    "start": 2308.9,
@@ -413,11 +346,6 @@
   {
    "start": 2868.4,
    "end": 2872.4,
-   "grade": "A"
-  },
-  {
-   "start": 2881.7,
-   "end": 2884.0,
    "grade": "A"
   },
   {
@@ -476,11 +404,6 @@
    "grade": "B"
   },
   {
-   "start": 3895.0,
-   "end": 3898.0,
-   "grade": "A"
-  },
-  {
    "start": 3928.3,
    "end": 3931.8,
    "grade": "A"
@@ -513,7 +436,7 @@
   {
    "start": 4299.2,
    "end": 4416.2,
-   "grade": "C"
+   "grade": "A"
   },
   {
    "start": 4465.2,
@@ -527,13 +450,13 @@
   }
  ],
  "grade_counts": {
-  "A": 28,
+  "A": 26,
   "B": 14,
-  "C": 5
+  "C": 0
  },
  "grade_minutes": {
-  "A": 7.0,
+  "A": 8.8,
   "B": 25.0,
-  "C": 7.6
+  "C": 0.0
  }
 }

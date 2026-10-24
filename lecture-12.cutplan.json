@@ -2,20 +2,14 @@
  "lecture": 12,
  "target_min": 30,
  "source_min": 85.5,
- "kept_sec": 2297.0,
+ "kept_sec": 2321.4,
  "kept_pct": 45,
  "timebase": {
   "native": "ds",
   "yt_first": 10.64,
   "yt_last": 5136.12
  },
- "dropped_spans": [
-  {
-   "start": 2630.0,
-   "end": 2792.9,
-   "rank": 3
-  }
- ],
+ "dropped_spans": [],
  "cuts": [
   {
    "start": 0.0,
@@ -103,6 +97,12 @@
   },
   {
    "start": 2506.86,
+   "end": 2629.96,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2792.94,
    "end": 2915.3,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -139,15 +139,9 @@
   },
   {
    "start": 3542.54,
-   "end": 3619.78,
-   "kind": "translation",
-   "reason": "second translation (unclosed, 4-seg cap): but thus gone ones are non-prolific comment translation by"
-  },
-  {
-   "start": 3758.34,
    "end": 3758.82,
-   "kind": "trim",
-   "reason": "short span inside removed region"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3896.04,
@@ -268,6 +262,11 @@
    "grade": "A"
   },
   {
+   "start": 2630.0,
+   "end": 2792.9,
+   "grade": "B"
+  },
+  {
    "start": 2915.3,
    "end": 2955.8,
    "grade": "A"
@@ -298,14 +297,9 @@
    "grade": "A"
   },
   {
-   "start": 3619.8,
-   "end": 3758.3,
-   "grade": "C"
-  },
-  {
    "start": 3758.8,
    "end": 3896.0,
-   "grade": "C"
+   "grade": "B"
   },
   {
    "start": 3899.4,
@@ -330,12 +324,12 @@
  ],
  "grade_counts": {
   "A": 15,
-  "B": 12,
-  "C": 2
+  "B": 14,
+  "C": 0
  },
  "grade_minutes": {
   "A": 9.7,
-  "B": 24.0,
-  "C": 4.6
+  "B": 29.0,
+  "C": 0.0
  }
 }

@@ -1,6 +1,6 @@
 # Lecture 18 — cut plan
 
-Source 70.1 min → **kept 38.5 min (55%)** · 34 cuts · band 20–40 ✓
+Source 70.1 min → **kept 36.5 min (52%)** · 33 cuts · band 20–40 ✓
 - 0:00–11:17  [forum]  course welcome + forum discussion + bridge
 - 12:00–12:33  [recap]  previous-sermon recap + extremes lead-in
 - 14:13–14:25  [pali]  Pali recitation / chant gap
@@ -30,12 +30,11 @@ Source 70.1 min → **kept 38.5 min (55%)** · 34 cuts · band 20–40 ✓
 - 58:32–58:36  [trim]  short span inside removed region
 - 60:45–60:46  [trim]  short span inside removed region
 - 61:01–61:10  [pali]  Pali recitation / chant gap
-- 61:22–63:43  [ranked-out]  content ranked below the 20-40min budget
-- 65:43–65:58  [ranked-out]  content ranked below the 20-40min budget
+- 61:22–65:58  [ranked-out]  content ranked below the 20-40min budget
 - 67:55–68:10  [ranked-out]  content ranked below the 20-40min budget
 - 68:19–68:27  [pali]  Pali recitation / chant gap
 - 69:58–70:07  [ranked-out]  content ranked below the 20-40min budget
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** motto -> arahant detachment: lotus-leaf drop, released from 10 things -> Uttara food-taste detachment -> raft + snake-slough similes -> nibbana-element verses -> fire without fuel / smouldering embers -> parinibbana close
 
-Grades: A=20(11.3m) B=12(25.2m) C=1(2.0m) · dial: A → A+B → full
+Grades: A=20(11.3m) B=12(25.2m) C=0(0.0m) · dial: A → A+B → full

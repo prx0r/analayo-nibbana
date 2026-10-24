@@ -2,8 +2,8 @@
  "lecture": 22,
  "target_min": 30,
  "source_min": 80.0,
- "kept_sec": 2289.5,
- "kept_pct": 48,
+ "kept_sec": 2391.5,
+ "kept_pct": 50,
  "timebase": {
   "native": "yt",
   "yt_first": 1.98,
@@ -31,14 +31,9 @@
    "rank": 3
   },
   {
-   "start": 1242.6,
+   "start": 1248.7,
    "end": 1328.5,
    "rank": 3
-  },
-  {
-   "start": 3967.6,
-   "end": 4099.1,
-   "rank": 2
   }
  ],
  "cuts": [
@@ -56,7 +51,7 @@
   },
   {
    "start": 484.62,
-   "end": 527.28,
+   "end": 535.58,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -206,25 +201,25 @@
   },
   {
    "start": 3856.16,
-   "end": 3864.9,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
-  },
-  {
-   "start": 3867.9,
    "end": 3913.08,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3917.28,
+   "end": 3967.56,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4099.14,
    "end": 4164.78,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 4242.24,
-   "end": 4276.36,
+   "end": 4294.68,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -266,7 +261,7 @@
    "grade": "B"
   },
   {
-   "start": 527.3,
+   "start": 535.6,
    "end": 546.6,
    "grade": "A"
   },
@@ -391,14 +386,14 @@
    "grade": "B"
   },
   {
-   "start": 3864.9,
-   "end": 3867.9,
-   "grade": "A"
-  },
-  {
    "start": 3913.1,
    "end": 3917.3,
    "grade": "A"
+  },
+  {
+   "start": 3967.6,
+   "end": 4099.1,
+   "grade": "B"
   },
   {
    "start": 4164.8,
@@ -406,7 +401,7 @@
    "grade": "B"
   },
   {
-   "start": 4276.4,
+   "start": 4294.7,
    "end": 4300.7,
    "grade": "A"
   },
@@ -432,13 +427,13 @@
   }
  ],
  "grade_counts": {
-  "A": 15,
-  "B": 20,
+  "A": 14,
+  "B": 21,
   "C": 0
  },
  "grade_minutes": {
-  "A": 7.2,
-  "B": 30.9,
+  "A": 6.7,
+  "B": 33.1,
   "C": 0.0
  }
 }

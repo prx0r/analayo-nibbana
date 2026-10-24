@@ -18,21 +18,19 @@ KEEPS = [
     (2360.92, 2389.1, 1),
     (2420.94, 2457.26, 1),
     (2484.66, 2506.86, 1),
-    (2629.96, 2792.94, 3),
+    (2629.96, 2792.94, 2),
     (2915.3, 2955.76, 1),
     (2978.32, 3098.36, 2),
     (3134.18, 3234.5, 2),
     (3262.08, 3335.14, 2),
     (3392.9, 3524.44, 2),
     (3534.44, 3542.54, 1),
-    (3619.78, 3758.34, 3),
-    (3758.82, 3896.04, 3),
+    (3758.82, 3896.04, 2),
     (3899.36, 3930.82, 1),
     (3943.08, 3990.96, 1),
     (4010.44, 4091.2, 1),
     (4112.64, 4194.0, 1),
 ]
-
 MAJOR = [
     (0.0, 866.14, "forum", "course welcome + forum discussion + bridge"),
     (917.96, 942.12, "recap", "previous-sermon recap + extremes lead-in"),
@@ -53,6 +51,7 @@ MAJOR = [
     (3991.58, 4008.42, "translation", "second translation: Common translation by Ireland,"),
     (4092.12, 4111.88, "translation", "second translation: Common translation by Bikoboli"),
     (4199.96, 5129.83, "closer", "comment + thanks closer"),
+    (3619.8, 3758.3, "boring", "comparative/transmission/variant-reading aside (C)"),
 ]
 
 SUMMARY = ("motto -> Madhupindika honey-ball: delight in Papancha vs Nibbana -> Papancha etymology + perception as blind-man groping/sign-catching -> sankha reckoning (space enclosed by timber) -> milk-series designation -> language as child toy -> hesitation to teach -> goose-egg soul-theorist blunder -> Udana renunciation verses -> close")

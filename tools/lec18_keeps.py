@@ -30,12 +30,10 @@ KEEPS = [
     (3516.92, 3645.42, 2),
     (3646.16, 3661.22, 1),
     (3670.42, 3682.6, 1),
-    (3823.16, 3943.82, 3),
     (3958.86, 4075.14, 2),
     (4090.04, 4099.54, 1),
     (4107.94, 4198.5, 1),
 ]
-
 MAJOR = [
     (0.0, 677.36, "forum", "course welcome + forum discussion + bridge"),
     (720.22, 753.82, "recap", "previous-sermon recap + extremes lead-in"),
@@ -64,6 +62,7 @@ MAJOR = [
     (3683.26, 3819.92, "translation", "second translation: Comment here is a translation by Bikobodhi."),
     (4099.54, 4107.94, "pali", "Pali recitation / chant gap"),
     (4200.0, 4226.86, "closer", "comment + thanks closer"),
+    (3823.2, 3943.8, "boring", "comparative/transmission/variant-reading aside (C)"),
 ]
 
 SUMMARY = ("motto -> arahant detachment: lotus-leaf drop, released from 10 things -> Uttara food-taste detachment -> raft + snake-slough similes -> nibbana-element verses -> fire without fuel / smouldering embers -> parinibbana close")

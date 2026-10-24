@@ -2,8 +2,8 @@
  "lecture": 18,
  "target_min": 30,
  "source_min": 70.1,
- "kept_sec": 2310.7,
- "kept_pct": 55,
+ "kept_sec": 2190.0,
+ "kept_pct": 52,
  "timebase": {
   "native": "ds",
   "yt_first": 6.08,
@@ -187,12 +187,6 @@
   },
   {
    "start": 3682.6,
-   "end": 3823.16,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 3943.82,
    "end": 3958.86,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -216,7 +210,7 @@
    "reason": "content ranked below the 20-40min budget"
   }
  ],
- "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "keep_summary": "motto -> arahant detachment: lotus-leaf drop, released from 10 things -> Uttara food-taste detachment -> raft + snake-slough similes -> nibbana-element verses -> fire without fuel / smouldering embers -> parinibbana close",
  "kept_segments": [
   {
    "start": 677.4,
@@ -364,11 +358,6 @@
    "grade": "A"
   },
   {
-   "start": 3823.2,
-   "end": 3943.8,
-   "grade": "C"
-  },
-  {
    "start": 3958.9,
    "end": 4075.1,
    "grade": "B"
@@ -387,11 +376,11 @@
  "grade_counts": {
   "A": 20,
   "B": 12,
-  "C": 1
+  "C": 0
  },
  "grade_minutes": {
   "A": 11.3,
   "B": 25.2,
-  "C": 2.0
+  "C": 0.0
  }
 }

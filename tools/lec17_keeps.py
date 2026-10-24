@@ -2,7 +2,6 @@
 # A=rank1 spine+technical (keep), B=rank2 flow (drop if must), C=rank3 boring (drop first), D=cut in MAJOR
 KEEPS = [
     (462.4, 530.28, 1),
-    (550.3, 553.34, 1),
     (603.52, 608.8, 1),
     (661.28, 755.84, 2),
     (794.4, 801.44, 1),
@@ -10,7 +9,6 @@ KEEPS = [
     (1001.92, 1085.04, 2),
     (1122.48, 1184.72, 1),
     (1227.44, 1232.72, 1),
-    (1253.69, 1256.72, 1),
     (1310.24, 1400.96, 2),
     (1414.8, 1417.8, 1),
     (1470.96, 1475.2, 1),
@@ -28,16 +26,12 @@ KEEPS = [
     (2973.44, 2977.84, 1),
     (3001.52, 3006.64, 1),
     (3048.16, 3050.88, 1),
-    (3064.08, 3067.14, 1),
     (3104.64, 3108.8, 1),
     (3178.32, 3181.84, 1),
     (3195.92, 3200.48, 1),
     (3244.24, 3249.92, 1),
     (3284.72, 3288.32, 1),
-    (3345.49, 3348.55, 1),
-    (3356.69, 3359.89, 1),
     (3440.56, 3463.44, 1),
-    (3513.04, 3614.48, 3),
     (3649.84, 3657.64, 1),
     (3696.8, 3701.76, 1),
     (3758.32, 3873.12, 2),
@@ -88,6 +82,7 @@ MAJOR = [
     (4343.36, 4354.13, "pali", "Pali recitation / chant gap"),
     (4376.32, 4388.96, "translation", "second translation (unclosed, 4-seg cap): common translation by the company"),
     (4445.68, 4450.4, "closer", "comment + thanks closer"),
+    (3513.0, 3614.5, "boring", "comparative/transmission/variant-reading aside (C)"),
 ]
 
 SUMMARY = ("cessation-extinction refrain -> not depending on formless -> deathless element with body -> six cessations -> ayatana sense-sphere analysis -> monk aspired sphere -> conceit understood -> steadiness/contentment -> Bodhi final-knowledge readings -> three stationary types -> not astray by rites")

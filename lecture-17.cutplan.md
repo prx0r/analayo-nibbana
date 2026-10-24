@@ -1,17 +1,15 @@
 # Lecture 17 — cut plan
 
-Source 74.2 min → **kept 30.2 min (41%)** · 48 cuts · band 20–40 ✓
+Source 74.2 min → **kept 28.2 min (38%)** · 42 cuts · band 20–40 ✓
 - 0:00–7:42  [ranked-out]  content ranked below the 20-40min budget
-- 8:50–9:10  [pali]  Pali recitation / chant gap
-- 9:13–10:03  [ranked-out]  content ranked below the 20-40min budget
+- 8:50–10:03  [ranked-out]  content ranked below the 20-40min budget
 - 10:08–11:01  [ranked-out]  content ranked below the 20-40min budget
 - 12:35–13:14  [ranked-out]  content ranked below the 20-40min budget
 - 13:21–14:22  [ranked-out]  content ranked below the 20-40min budget
 - 15:57–16:41  [ranked-out]  content ranked below the 20-40min budget
 - 18:05–18:42  [ranked-out]  content ranked below the 20-40min budget
 - 19:44–20:27  [ranked-out]  content ranked below the 20-40min budget
-- 20:32–20:53  [ranked-out]  content ranked below the 20-40min budget
-- 20:56–21:50  [ranked-out]  content ranked below the 20-40min budget
+- 20:32–21:50  [ranked-out]  content ranked below the 20-40min budget
 - 23:20–23:34  [pali]  Pali recitation / chant gap
 - 23:37–24:30  [ranked-out]  content ranked below the 20-40min budget
 - 24:35–25:54  [ranked-out]  content ranked below the 20-40min budget
@@ -28,17 +26,13 @@ Source 74.2 min → **kept 30.2 min (41%)** · 48 cuts · band 20–40 ✓
 - 49:00–49:33  [ranked-out]  content ranked below the 20-40min budget
 - 49:37–50:01  [ranked-out]  content ranked below the 20-40min budget
 - 50:06–50:48  [ranked-out]  content ranked below the 20-40min budget
-- 50:50–51:04  [ranked-out]  content ranked below the 20-40min budget
-- 51:07–51:44  [ranked-out]  content ranked below the 20-40min budget
+- 50:50–51:44  [ranked-out]  content ranked below the 20-40min budget
 - 51:48–52:58  [ranked-out]  content ranked below the 20-40min budget
 - 53:01–53:15  [ranked-out]  content ranked below the 20-40min budget
 - 53:20–54:04  [ranked-out]  content ranked below the 20-40min budget
 - 54:09–54:44  [ranked-out]  content ranked below the 20-40min budget
-- 54:48–55:45  [ranked-out]  content ranked below the 20-40min budget
-- 55:48–55:56  [pali]  Pali recitation / chant gap
-- 55:59–57:20  [ranked-out]  content ranked below the 20-40min budget
-- 57:43–58:33  [ranked-out]  content ranked below the 20-40min budget
-- 60:14–60:49  [ranked-out]  content ranked below the 20-40min budget
+- 54:48–57:20  [ranked-out]  content ranked below the 20-40min budget
+- 57:43–60:49  [ranked-out]  content ranked below the 20-40min budget
 - 60:57–61:36  [ranked-out]  content ranked below the 20-40min budget
 - 61:41–62:38  [ranked-out]  content ranked below the 20-40min budget
 - 64:33–65:10  [ranked-out]  content ranked below the 20-40min budget
@@ -52,4 +46,4 @@ Source 74.2 min → **kept 30.2 min (41%)** · 48 cuts · band 20–40 ✓
 
 **Keeps:** cessation-extinction refrain -> not depending on formless -> deathless element with body -> six cessations -> ayatana sense-sphere analysis -> monk aspired sphere -> conceit understood -> steadiness/contentment -> Bodhi final-knowledge readings -> three stationary types -> not astray by rites
 
-Grades: A=32(6.3m) B=14(22.2m) C=1(1.7m) · dial: A → A+B → full
+Grades: A=27(6.1m) B=14(22.2m) C=0(0.0m) · dial: A → A+B → full
