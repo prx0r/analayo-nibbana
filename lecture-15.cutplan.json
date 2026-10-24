@@ -2,7 +2,7 @@
  "lecture": 15,
  "target_min": 30,
  "source_min": 75.0,
- "kept_sec": 2354.6,
+ "kept_sec": 2336.3,
  "kept_pct": 52,
  "timebase": {
   "native": "ds",
@@ -11,13 +11,13 @@
  },
  "dropped_spans": [
   {
-   "start": 614.4,
-   "end": 746.5,
+   "start": 3179.8,
+   "end": 3311.1,
    "rank": 3
   },
   {
-   "start": 3179.8,
-   "end": 3311.1,
+   "start": 621.5,
+   "end": 743.0,
    "rank": 3
   },
   {
@@ -26,48 +26,43 @@
    "rank": 2
   },
   {
-   "start": 1278.2,
-   "end": 1414.2,
-   "rank": 2
-  },
-  {
-   "start": 4284.2,
-   "end": 4418.7,
-   "rank": 2
-  },
-  {
-   "start": 3738.7,
-   "end": 3872.1,
-   "rank": 2
-  },
-  {
    "start": 2114.5,
    "end": 2247.6,
    "rank": 2
   },
   {
-   "start": 1144.0,
+   "start": 4285.9,
+   "end": 4418.7,
+   "rank": 2
+  },
+  {
+   "start": 2248.3,
+   "end": 2378.8,
+   "rank": 2
+  },
+  {
+   "start": 1146.8,
    "end": 1277.0,
    "rank": 2
   },
   {
-   "start": 4005.5,
-   "end": 4138.1,
+   "start": 2419.5,
+   "end": 2549.0,
    "rank": 2
   }
  ],
  "cuts": [
   {
    "start": 0.0,
-   "end": 349.58,
-   "kind": "forum",
-   "reason": "course welcome + forum discussion + bridge"
+   "end": 358.46,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 362.04,
-   "end": 382.12,
-   "kind": "recap",
-   "reason": "previous-sermon recap + extremes lead-in"
+   "start": 360.32,
+   "end": 405.26,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 508.68,
@@ -77,39 +72,45 @@
   },
   {
    "start": 595.4,
-   "end": 746.52,
+   "end": 750.24,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 877.56,
-   "end": 877.88,
-   "kind": "trim",
-   "reason": "short span inside removed region"
+   "start": 875.02,
+   "end": 883.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 980.08,
-   "end": 1013.9,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "start": 978.32,
+   "end": 1018.08,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 1144.02,
-   "end": 1414.62,
+   "start": 1140.96,
+   "end": 1278.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1407.08,
+   "end": 1423.64,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1439.18,
-   "end": 1477.86,
+   "end": 1479.76,
    "kind": "translation",
    "reason": "second translation: Common translation by Bikoboli"
   },
   {
    "start": 1588.82,
-   "end": 1694.9,
-   "kind": "translation",
-   "reason": "second translation: Commenter translation by Vikunyana Moli"
+   "end": 1698.04,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1751.2,
@@ -119,15 +120,15 @@
   },
   {
    "start": 1781.34,
-   "end": 1796.38,
-   "kind": "translation",
-   "reason": "second translation: Translation by Bikunyana Moli."
+   "end": 1801.56,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 1893.12,
+   "start": 1890.42,
    "end": 1901.68,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1957.6,
@@ -143,21 +144,15 @@
   },
   {
    "start": 2106.44,
-   "end": 2248.3,
+   "end": 2379.18,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2378.76,
-   "end": 2379.18,
-   "kind": "trim",
-   "reason": "short span inside removed region"
-  },
-  {
-   "start": 2389.74,
-   "end": 2418.18,
-   "kind": "translation",
-   "reason": "second translation: Translation by Ireland."
+   "start": 2388.5,
+   "end": 2553.48,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 2659.3,
@@ -166,14 +161,20 @@
    "reason": "Pali recitation / chant gap"
   },
   {
-   "start": 2678.18,
-   "end": 2687.74,
-   "kind": "translation",
-   "reason": "second translation: Comment a translation by Walsh."
+   "start": 2672.18,
+   "end": 2688.96,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 2818.2,
    "end": 2818.64,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2945.8,
+   "end": 2951.08,
    "kind": "trim",
    "reason": "short span inside removed region"
   },
@@ -191,7 +192,7 @@
   },
   {
    "start": 3154.58,
-   "end": 3519.96,
+   "end": 3537.78,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -202,16 +203,28 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 3729.32,
-   "end": 3872.7,
+   "start": 3728.52,
+   "end": 3751.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 4005.26,
-   "end": 4138.1,
+   "start": 3872.08,
+   "end": 3872.7,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3988.58,
+   "end": 4012.84,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4138.1,
+   "end": 4140.1,
+   "kind": "trim",
+   "reason": "short span inside removed region"
   },
   {
    "start": 4249.0,
@@ -232,15 +245,15 @@
    "reason": "comment + thanks closer"
   }
  ],
- "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "keep_summary": "Bahiya recap (seen/heard/sensed) -> four noble usages of truth-telling -> highest evidence in court of reality -> unattracted by lust/unrepelled by hate -> non-manifestative consciousness -> cinema-hall + umbra-of-form + four lusters -> nibbida penetrative wisdom -> sun-moon-stars unmanifest -> three trainings -> close",
  "kept_segments": [
   {
-   "start": 349.6,
-   "end": 362.0,
+   "start": 358.5,
+   "end": 360.3,
    "grade": "A"
   },
   {
-   "start": 382.1,
+   "start": 405.3,
    "end": 508.7,
    "grade": "B"
   },
@@ -250,32 +263,37 @@
    "grade": "A"
   },
   {
-   "start": 746.5,
-   "end": 877.6,
+   "start": 750.2,
+   "end": 875.0,
    "grade": "B"
   },
   {
-   "start": 877.9,
-   "end": 980.1,
+   "start": 883.6,
+   "end": 978.3,
    "grade": "B"
   },
   {
-   "start": 1013.9,
-   "end": 1144.0,
+   "start": 1018.1,
+   "end": 1141.0,
    "grade": "B"
   },
   {
-   "start": 1414.6,
+   "start": 1278.2,
+   "end": 1407.1,
+   "grade": "B"
+  },
+  {
+   "start": 1423.6,
    "end": 1439.2,
    "grade": "A"
   },
   {
-   "start": 1477.9,
+   "start": 1479.8,
    "end": 1588.8,
    "grade": "B"
   },
   {
-   "start": 1694.9,
+   "start": 1698.0,
    "end": 1751.2,
    "grade": "A"
   },
@@ -285,8 +303,8 @@
    "grade": "A"
   },
   {
-   "start": 1796.4,
-   "end": 1893.1,
+   "start": 1801.6,
+   "end": 1890.4,
    "grade": "A"
   },
   {
@@ -305,42 +323,32 @@
    "grade": "A"
   },
   {
-   "start": 2248.3,
-   "end": 2378.8,
-   "grade": "B"
-  },
-  {
    "start": 2379.2,
-   "end": 2389.7,
+   "end": 2388.5,
    "grade": "A"
   },
   {
-   "start": 2418.2,
-   "end": 2549.0,
-   "grade": "B"
-  },
-  {
-   "start": 2549.0,
+   "start": 2553.5,
    "end": 2659.3,
    "grade": "B"
   },
   {
    "start": 2669.9,
-   "end": 2678.2,
+   "end": 2672.2,
    "grade": "A"
   },
   {
-   "start": 2687.7,
+   "start": 2689.0,
    "end": 2818.2,
    "grade": "B"
   },
   {
    "start": 2818.6,
-   "end": 2949.2,
+   "end": 2945.8,
    "grade": "B"
   },
   {
-   "start": 2949.2,
+   "start": 2951.1,
    "end": 3010.7,
    "grade": "A"
   },
@@ -355,22 +363,32 @@
    "grade": "A"
   },
   {
-   "start": 3520.0,
+   "start": 3537.8,
    "end": 3650.1,
    "grade": "B"
   },
   {
    "start": 3650.9,
-   "end": 3729.3,
+   "end": 3728.5,
    "grade": "A"
   },
   {
-   "start": 3872.7,
-   "end": 4005.3,
+   "start": 3751.1,
+   "end": 3872.1,
    "grade": "B"
   },
   {
-   "start": 4138.1,
+   "start": 3872.7,
+   "end": 3988.6,
+   "grade": "B"
+  },
+  {
+   "start": 4012.8,
+   "end": 4138.1,
+   "grade": "B"
+  },
+  {
+   "start": 4140.1,
    "end": 4249.0,
    "grade": "B"
   },
@@ -387,12 +405,12 @@
  ],
  "grade_counts": {
   "A": 17,
-  "B": 13,
+  "B": 14,
   "C": 0
  },
  "grade_minutes": {
-  "A": 12.5,
-  "B": 26.8,
+  "A": 11.8,
+  "B": 27.2,
   "C": 0.0
  }
 }

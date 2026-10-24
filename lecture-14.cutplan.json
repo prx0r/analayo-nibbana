@@ -2,7 +2,7 @@
  "lecture": 14,
  "target_min": 30,
  "source_min": 76.4,
- "kept_sec": 2386.2,
+ "kept_sec": 2364.4,
  "kept_pct": 52,
  "timebase": {
   "native": "yt",
@@ -11,19 +11,14 @@
  },
  "dropped_spans": [
   {
-   "start": 2272.6,
-   "end": 2404.8,
-   "rank": 3
-  },
-  {
    "start": 1236.9,
-   "end": 1367.1,
+   "end": 1364.0,
    "rank": 3
   },
   {
-   "start": 3804.5,
-   "end": 3963.8,
-   "rank": 2
+   "start": 2285.5,
+   "end": 2401.0,
+   "rank": 3
   },
   {
    "start": 3191.8,
@@ -31,13 +26,13 @@
    "rank": 2
   },
   {
-   "start": 4128.3,
-   "end": 4260.1,
+   "start": 3804.5,
+   "end": 3958.7,
    "rank": 2
   },
   {
-   "start": 2879.2,
-   "end": 3010.8,
+   "start": 3563.6,
+   "end": 3694.5,
    "rank": 2
   }
  ],
@@ -49,10 +44,10 @@
    "reason": "course welcome + forum discussion + bridge"
   },
   {
-   "start": 747.76,
+   "start": 745.88,
    "end": 897.12,
-   "kind": "recap",
-   "reason": "previous-sermon recap + lead-in (capped)"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 927.0,
@@ -62,51 +57,75 @@
   },
   {
    "start": 1096.0,
-   "end": 1109.36,
+   "end": 1110.84,
    "kind": "translation",
    "reason": "second translation (unclosed, 4-seg cap): Colin, translation by \u00d1\u0101\u1e47amoli."
   },
   {
    "start": 1240.28,
-   "end": 1364.0,
+   "end": 1367.08,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1559.28,
-   "end": 1577.16,
-   "kind": "translation",
-   "reason": "second translation: translation by Norman."
-  },
-  {
-   "start": 2106.08,
-   "end": 2143.84,
+   "end": 1578.76,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2274.76,
+   "start": 1833.08,
+   "end": 1840.84,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1962.4,
+   "end": 1964.12,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2094.84,
+   "end": 2103.56,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2106.08,
+   "end": 2154.84,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2272.6,
    "end": 2400.96,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2454.92,
-   "end": 2491.88,
-   "kind": "translation",
-   "reason": "second translation: Comment, translation by Bhikkhu Bodhi."
-  },
-  {
-   "start": 2606.64,
-   "end": 2751.72,
-   "kind": "translation",
-   "reason": "second translation: Common translation by Ireland."
-  },
-  {
-   "start": 2882.0,
-   "end": 3008.68,
+   "start": 2441.52,
+   "end": 2497.12,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2600.52,
+   "end": 2751.72,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2879.16,
+   "end": 2889.72,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3010.8,
+   "end": 3013.36,
+   "kind": "trim",
+   "reason": "short span inside removed region"
   },
   {
    "start": 3075.44,
@@ -115,59 +134,71 @@
    "reason": "Pali recitation / chant gap"
   },
   {
-   "start": 3135.36,
+   "start": 3128.08,
    "end": 3363.4,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3382.16,
-   "end": 3402.2,
-   "kind": "translation",
-   "reason": "second translation: Comment, translation by Norman."
+   "end": 3405.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3421.08,
-   "end": 3434.8,
-   "kind": "translation",
-   "reason": "second translation (unclosed, 4-seg cap): Comment, translation by Norman."
+   "end": 3439.32,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3565.72,
+   "end": 3696.84,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3796.4,
-   "end": 3988.56,
+   "end": 3991.64,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 4107.36,
-   "end": 4257.68,
+   "end": 4139.04,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
+   "start": 4260.12,
+   "end": 4262.44,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
    "start": 4382.16,
-   "end": 4394.0,
-   "kind": "translation",
-   "reason": "second translation (unclosed, 4-seg cap): Comment, translation by Ireland."
+   "end": 4400.8,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 4462.28,
-   "end": 4473.96,
-   "kind": "translation",
-   "reason": "second translation (unclosed, 4-seg cap): Comment, translation by Ireland."
+   "end": 4478.12,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 4569.4,
+   "start": 4561.32,
    "end": 4584.04,
-   "kind": "translation",
-   "reason": "second translation (unclosed, 4-seg cap): Comment, translation by Bhikkhu Bodhi."
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   }
  ],
- "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "keep_summary": "motto -> Dhatuvibhanga six-element analysis -> ajatam/abhutam (not-born, not-become) -> internal/external earth -> Maha Vyuha island verse -> owning-not/grasping-not -> Bahiya instruction (not with that) -> close",
  "kept_segments": [
   {
    "start": 729.0,
-   "end": 747.8,
+   "end": 745.9,
    "grade": "A"
   },
   {
@@ -181,33 +212,33 @@
    "grade": "B"
   },
   {
-   "start": 1109.4,
+   "start": 1110.8,
    "end": 1240.3,
    "grade": "B"
   },
   {
-   "start": 1364.0,
+   "start": 1367.1,
    "end": 1494.2,
    "grade": "B"
   },
   {
-   "start": 1490.8,
+   "start": 1494.2,
    "end": 1559.3,
    "grade": "A"
   },
   {
-   "start": 1577.2,
-   "end": 1708.8,
+   "start": 1578.8,
+   "end": 1706.0,
    "grade": "B"
   },
   {
    "start": 1706.0,
-   "end": 1837.4,
+   "end": 1833.1,
    "grade": "B"
   },
   {
-   "start": 1835.0,
-   "end": 1966.2,
+   "start": 1840.8,
+   "end": 1962.4,
    "grade": "B"
   },
   {
@@ -216,38 +247,43 @@
    "grade": "B"
   },
   {
-   "start": 2091.2,
+   "start": 2103.6,
    "end": 2106.1,
    "grade": "A"
   },
   {
-   "start": 2143.8,
-   "end": 2274.8,
+   "start": 2154.8,
+   "end": 2272.6,
    "grade": "B"
   },
   {
    "start": 2401.0,
-   "end": 2454.9,
+   "end": 2441.5,
    "grade": "A"
   },
   {
-   "start": 2491.9,
-   "end": 2606.6,
+   "start": 2497.1,
+   "end": 2600.5,
    "grade": "B"
   },
   {
    "start": 2751.7,
-   "end": 2882.0,
+   "end": 2879.2,
    "grade": "B"
   },
   {
-   "start": 3008.7,
+   "start": 2889.7,
+   "end": 3010.8,
+   "grade": "B"
+  },
+  {
+   "start": 3013.4,
    "end": 3075.4,
    "grade": "A"
   },
   {
    "start": 3102.8,
-   "end": 3135.4,
+   "end": 3128.1,
    "grade": "A"
   },
   {
@@ -256,54 +292,54 @@
    "grade": "A"
   },
   {
-   "start": 3402.2,
+   "start": 3405.2,
    "end": 3421.1,
    "grade": "A"
   },
   {
-   "start": 3434.8,
+   "start": 3439.3,
    "end": 3565.7,
    "grade": "B"
   },
   {
-   "start": 3563.6,
-   "end": 3694.5,
-   "grade": "B"
-  },
-  {
-   "start": 3691.4,
+   "start": 3696.8,
    "end": 3796.4,
    "grade": "B"
   },
   {
-   "start": 3988.6,
+   "start": 3991.6,
    "end": 4107.4,
    "grade": "B"
   },
   {
-   "start": 4257.7,
+   "start": 4139.0,
+   "end": 4260.1,
+   "grade": "B"
+  },
+  {
+   "start": 4262.4,
    "end": 4382.2,
    "grade": "B"
   },
   {
-   "start": 4394.0,
+   "start": 4400.8,
    "end": 4462.3,
    "grade": "A"
   },
   {
-   "start": 4474.0,
-   "end": 4569.4,
+   "start": 4478.1,
+   "end": 4561.3,
    "grade": "A"
   }
  ],
  "grade_counts": {
   "A": 11,
-  "B": 15,
+  "B": 16,
   "C": 0
  },
  "grade_minutes": {
-  "A": 8.1,
-  "B": 31.7,
+  "A": 7.0,
+  "B": 32.4,
   "C": 0.0
  }
 }

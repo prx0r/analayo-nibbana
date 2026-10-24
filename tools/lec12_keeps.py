@@ -1,36 +1,36 @@
 # Lecture 12 keeps — ds timebase (source 85.5 min) — AUTO DRAFT A/B/C/D
 # A=rank1 spine+technical (keep), B=rank2 flow (drop if must), C=rank3 boring (drop first), D=cut in MAJOR
 KEEPS = [
-    (866.14, 917.96, 1),
-    (942.12, 1011.16, 1),
-    (1020.86, 1154.58, 2),
+    (895.7, 917.96, 1),
+    (965.84, 1011.16, 1),
+    (1046.16, 1154.58, 2),
     (1156.1, 1218.6, 1),
     (1239.78, 1264.24, 1),
-    (1292.52, 1430.88, 2),
+    (1299.24, 1430.88, 2),
     (1431.86, 1562.22, 2),
     (1562.22, 1582.0, 1),
     (1627.56, 1761.98, 2),
     (1762.12, 1895.56, 2),
-    (1895.56, 2028.26, 2),
-    (2028.26, 2162.06, 2),
+    (1895.56, 2014.02, 2),
+    (2038.42, 2162.06, 2),
     (2165.36, 2297.8, 2),
-    (2298.3, 2344.7, 1),
+    (2298.3, 2330.72, 1),
     (2360.92, 2389.1, 1),
-    (2420.94, 2464.2, 1),
+    (2420.94, 2457.26, 1),
     (2484.66, 2506.86, 1),
-    (2627.52, 2792.94, 3),
+    (2629.96, 2792.94, 3),
     (2915.3, 2955.76, 1),
-    (2964.5, 3098.36, 2),
-    (3098.36, 3234.5, 2),
-    (3234.5, 3343.44, 2),
-    (3361.22, 3524.44, 2),
+    (2978.32, 3098.36, 2),
+    (3134.18, 3234.5, 2),
+    (3262.08, 3335.14, 2),
+    (3392.9, 3524.44, 2),
     (3534.44, 3542.54, 1),
     (3619.78, 3758.34, 3),
     (3758.82, 3896.04, 3),
-    (3899.36, 3934.58, 1),
+    (3899.36, 3930.82, 1),
     (3943.08, 3990.96, 1),
-    (4007.92, 4091.2, 1),
-    (4112.64, 4199.96, 1),
+    (4010.44, 4091.2, 1),
+    (4112.64, 4194.0, 1),
 ]
 
 MAJOR = [
@@ -55,4 +55,4 @@ MAJOR = [
     (4199.96, 5129.83, "closer", "comment + thanks closer"),
 ]
 
-SUMMARY = ("AUTO DRAFT — review skeleton before ship")
+SUMMARY = ("motto -> Madhupindika honey-ball: delight in Papancha vs Nibbana -> Papancha etymology + perception as blind-man groping/sign-catching -> sankha reckoning (space enclosed by timber) -> milk-series designation -> language as child toy -> hesitation to teach -> goose-egg soul-theorist blunder -> Udana renunciation verses -> close")

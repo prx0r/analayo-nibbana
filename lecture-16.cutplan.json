@@ -2,7 +2,7 @@
  "lecture": 16,
  "target_min": 30,
  "source_min": 112.2,
- "kept_sec": 2346.0,
+ "kept_sec": 2352.5,
  "kept_pct": 35,
  "timebase": {
   "native": "ds",
@@ -11,12 +11,12 @@
  },
  "dropped_spans": [
   {
-   "start": 4772.9,
+   "start": 4780.6,
    "end": 4911.2,
    "rank": 3
   },
   {
-   "start": 2923.7,
+   "start": 2927.4,
    "end": 3056.7,
    "rank": 3
   },
@@ -26,18 +26,8 @@
    "rank": 3
   },
   {
-   "start": 2528.1,
+   "start": 2529.4,
    "end": 2696.6,
-   "rank": 2
-  },
-  {
-   "start": 4092.3,
-   "end": 4243.7,
-   "rank": 2
-  },
-  {
-   "start": 3282.7,
-   "end": 3430.3,
    "rank": 2
   },
   {
@@ -51,26 +41,6 @@
    "rank": 2
   },
   {
-   "start": 5173.9,
-   "end": 5311.3,
-   "rank": 2
-  },
-  {
-   "start": 1422.4,
-   "end": 1558.7,
-   "rank": 2
-  },
-  {
-   "start": 5311.3,
-   "end": 5446.8,
-   "rank": 2
-  },
-  {
-   "start": 6561.1,
-   "end": 6696.6,
-   "rank": 2
-  },
-  {
    "start": 1808.1,
    "end": 1943.2,
    "rank": 2
@@ -81,28 +51,13 @@
    "rank": 2
   },
   {
+   "start": 6563.4,
+   "end": 6696.6,
+   "rank": 2
+  },
+  {
    "start": 1674.8,
    "end": 1806.9,
-   "rank": 2
-  },
-  {
-   "start": 6429.6,
-   "end": 6561.1,
-   "rank": 2
-  },
-  {
-   "start": 3961.0,
-   "end": 4092.3,
-   "rank": 2
-  },
-  {
-   "start": 5042.5,
-   "end": 5173.8,
-   "rank": 2
-  },
-  {
-   "start": 5701.9,
-   "end": 5833.0,
    "rank": 2
   },
   {
@@ -111,8 +66,43 @@
    "rank": 2
   },
   {
-   "start": 5446.8,
-   "end": 5577.7,
+   "start": 5180.4,
+   "end": 5311.3,
+   "rank": 2
+  },
+  {
+   "start": 4911.9,
+   "end": 5042.0,
+   "rank": 2
+  },
+  {
+   "start": 2285.7,
+   "end": 2414.8,
+   "rank": 2
+  },
+  {
+   "start": 1292.7,
+   "end": 1421.7,
+   "rank": 2
+  },
+  {
+   "start": 3298.5,
+   "end": 3426.9,
+   "rank": 2
+  },
+  {
+   "start": 5968.0,
+   "end": 6095.0,
+   "rank": 2
+  },
+  {
+   "start": 5837.8,
+   "end": 5963.5,
+   "rank": 2
+  },
+  {
+   "start": 6433.5,
+   "end": 6557.7,
    "rank": 2
   }
  ],
@@ -124,6 +114,18 @@
    "reason": "course welcome + forum discussion + bridge"
   },
   {
+   "start": 1066.72,
+   "end": 1072.06,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1194.84,
+   "end": 1199.8,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
    "start": 1237.26,
    "end": 1251.8,
    "kind": "pali",
@@ -131,25 +133,25 @@
   },
   {
    "start": 1272.9,
-   "end": 1290.88,
-   "kind": "translation",
-   "reason": "second translation: Comment, translation by Ireland."
+   "end": 1422.44,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 1421.74,
-   "end": 1559.1,
+   "start": 1539.14,
+   "end": 1562.56,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1653.42,
-   "end": 1943.92,
+   "end": 1947.14,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1953.98,
-   "end": 1972.12,
+   "end": 1973.9,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -173,15 +175,9 @@
   },
   {
    "start": 2267.1,
-   "end": 2285.7,
-   "kind": "translation",
-   "reason": "second translation (unclosed, 4-seg cap): Common translation by Abhikobodhi."
-  },
-  {
-   "start": 2416.38,
    "end": 2417.3,
-   "kind": "trim",
-   "reason": "short span inside removed region"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 2506.16,
@@ -203,7 +199,7 @@
   },
   {
    "start": 2825.14,
-   "end": 3190.56,
+   "end": 3206.42,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -215,9 +211,9 @@
   },
   {
    "start": 3499.98,
-   "end": 3524.1,
-   "kind": "translation",
-   "reason": "second translation: Common translation by Bikko Bodhi."
+   "end": 3529.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3545.68,
@@ -227,36 +223,48 @@
   },
   {
    "start": 3578.64,
-   "end": 3594.66,
+   "end": 3596.1,
    "kind": "translation",
    "reason": "second translation: Common translation by Bikko Bodhi."
   },
   {
-   "start": 3659.98,
+   "start": 3624.52,
    "end": 3685.0,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3785.74,
-   "end": 3807.58,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "end": 3814.48,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3825.38,
-   "end": 3862.04,
-   "kind": "translation",
-   "reason": "second translation: comment, translation by Bhikkhu Bodhi"
+   "end": 3870.96,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3877.44,
-   "end": 3904.98,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "end": 3916.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3947.0,
+   "end": 3968.42,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4092.34,
+   "end": 4098.08,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4196.84,
    "end": 4519.32,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -268,32 +276,44 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 4763.18,
-   "end": 4911.92,
+   "start": 4757.04,
+   "end": 5042.54,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 5042.0,
-   "end": 5577.88,
+   "start": 5163.18,
+   "end": 5316.26,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5440.3,
+   "end": 5454.18,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5573.14,
+   "end": 5587.98,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 5687.78,
-   "end": 5833.26,
+   "end": 5707.64,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 5963.52,
-   "end": 5964.12,
-   "kind": "trim",
-   "reason": "short span inside removed region"
+   "start": 5830.7,
+   "end": 6108.66,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 6094.98,
-   "end": 6098.64,
+   "start": 6227.84,
+   "end": 6233.62,
    "kind": "trim",
    "reason": "short span inside removed region"
   },
@@ -305,13 +325,13 @@
   },
   {
    "start": 6284.24,
-   "end": 6299.16,
-   "kind": "translation",
-   "reason": "second translation: common translation"
+   "end": 6304.44,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 6429.64,
-   "end": 6696.56,
+   "start": 6426.9,
+   "end": 6719.26,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -322,7 +342,7 @@
    "reason": "comment + thanks closer"
   }
  ],
- "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "keep_summary": "motto -> heard-only instruction (relinquish assets) -> craving-gone -> awakening-as-sense (Buddha/Bodhi) vs cinema-world short awakening -> pure concentration -> deva musing + conformity dialogue -> relinquishment of assets -> cinema preparations stilled -> total abandonment -> arahant everyday nibbana-bliss",
  "kept_segments": [
   {
    "start": 935.8,
@@ -330,12 +350,12 @@
    "grade": "A"
   },
   {
-   "start": 1066.7,
-   "end": 1197.1,
+   "start": 1072.1,
+   "end": 1194.8,
    "grade": "B"
   },
   {
-   "start": 1197.1,
+   "start": 1199.8,
    "end": 1237.3,
    "grade": "A"
   },
@@ -345,22 +365,22 @@
    "grade": "A"
   },
   {
-   "start": 1290.9,
-   "end": 1421.7,
+   "start": 1422.4,
+   "end": 1539.1,
    "grade": "B"
   },
   {
-   "start": 1559.1,
+   "start": 1562.6,
    "end": 1653.4,
    "grade": "A"
   },
   {
-   "start": 1943.9,
+   "start": 1947.1,
    "end": 1954.0,
    "grade": "A"
   },
   {
-   "start": 1972.1,
+   "start": 1973.9,
    "end": 1980.0,
    "grade": "A"
   },
@@ -378,11 +398,6 @@
    "start": 2249.6,
    "end": 2267.1,
    "grade": "A"
-  },
-  {
-   "start": 2285.7,
-   "end": 2416.4,
-   "grade": "B"
   },
   {
    "start": 2417.3,
@@ -405,7 +420,7 @@
    "grade": "A"
   },
   {
-   "start": 3190.6,
+   "start": 3206.4,
    "end": 3270.9,
    "grade": "A"
   },
@@ -415,7 +430,7 @@
    "grade": "A"
   },
   {
-   "start": 3524.1,
+   "start": 3529.2,
    "end": 3545.7,
    "grade": "A"
   },
@@ -425,8 +440,8 @@
    "grade": "A"
   },
   {
-   "start": 3594.7,
-   "end": 3660.0,
+   "start": 3596.1,
+   "end": 3624.5,
    "grade": "A"
   },
   {
@@ -435,19 +450,29 @@
    "grade": "B"
   },
   {
-   "start": 3807.6,
+   "start": 3814.5,
    "end": 3825.4,
    "grade": "A"
   },
   {
-   "start": 3862.0,
+   "start": 3871.0,
    "end": 3877.4,
    "grade": "A"
   },
   {
-   "start": 3905.0,
+   "start": 3916.6,
    "end": 3947.0,
    "grade": "A"
+  },
+  {
+   "start": 3968.4,
+   "end": 4092.3,
+   "grade": "B"
+  },
+  {
+   "start": 4098.1,
+   "end": 4196.8,
+   "grade": "B"
   },
   {
    "start": 4519.3,
@@ -456,36 +481,41 @@
   },
   {
    "start": 4721.1,
-   "end": 4763.2,
+   "end": 4757.0,
    "grade": "A"
   },
   {
-   "start": 4911.9,
-   "end": 5042.0,
+   "start": 5042.5,
+   "end": 5163.2,
    "grade": "B"
   },
   {
-   "start": 5577.9,
+   "start": 5316.3,
+   "end": 5440.3,
+   "grade": "B"
+  },
+  {
+   "start": 5454.2,
+   "end": 5573.1,
+   "grade": "B"
+  },
+  {
+   "start": 5588.0,
    "end": 5687.8,
    "grade": "B"
   },
   {
-   "start": 5833.3,
-   "end": 5963.5,
+   "start": 5707.6,
+   "end": 5830.7,
    "grade": "B"
   },
   {
-   "start": 5964.1,
-   "end": 6095.0,
+   "start": 6108.7,
+   "end": 6227.8,
    "grade": "B"
   },
   {
-   "start": 6098.6,
-   "end": 6229.5,
-   "grade": "B"
-  },
-  {
-   "start": 6229.5,
+   "start": 6233.6,
    "end": 6262.8,
    "grade": "A"
   },
@@ -495,24 +525,24 @@
    "grade": "A"
   },
   {
-   "start": 6299.2,
-   "end": 6429.6,
+   "start": 6304.4,
+   "end": 6426.9,
    "grade": "B"
   },
   {
-   "start": 6696.6,
+   "start": 6719.3,
    "end": 6725.7,
    "grade": "A"
   }
  ],
  "grade_counts": {
   "A": 24,
-  "B": 12,
+  "B": 14,
   "C": 0
  },
  "grade_minutes": {
-  "A": 14.4,
-  "B": 24.7,
+  "A": 12.2,
+  "B": 27.0,
   "C": 0.0
  }
 }

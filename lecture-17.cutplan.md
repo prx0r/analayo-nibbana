@@ -1,46 +1,55 @@
 # Lecture 17 — cut plan
 
-Source 74.2 min → **kept 39.3 min (53%)** · 37 cuts · band 20–40 ✓
-_auto-dropped to fit: 57:57-60:14(r3); 25:17-28:01(r2); 61:57-64:33(r2); 33:13-35:31(r2); 15:57-18:09(r2); 46:48-49:00(r2)_
-
-- 0:00–7:07  [forum]  course welcome + forum discussion + bridge
+Source 74.2 min → **kept 30.2 min (41%)** · 48 cuts · band 20–40 ✓
+- 0:00–7:42  [ranked-out]  content ranked below the 20-40min budget
 - 8:50–9:10  [pali]  Pali recitation / chant gap
-- 9:13–9:27  [pali]  Pali recitation / chant gap
-- 10:08–10:24  [translation]  second translation (unclosed, 4-seg cap): comment translation by ireland
-- 13:33–13:48  [translation]  second translation (unclosed, 4-seg cap): a translation by ireland
-- 16:00–18:07  [ranked-out]  content ranked below the 20-40min budget
-- 19:44–19:56  [translation]  second translation (unclosed, 4-seg cap): comment here translation by ireland
-- 20:35–20:53  [pali]  Pali recitation / chant gap
-- 20:56–21:21  [pali]  Pali recitation / chant gap
+- 9:13–10:03  [ranked-out]  content ranked below the 20-40min budget
+- 10:08–11:01  [ranked-out]  content ranked below the 20-40min budget
+- 12:35–13:14  [ranked-out]  content ranked below the 20-40min budget
+- 13:21–14:22  [ranked-out]  content ranked below the 20-40min budget
+- 15:57–16:41  [ranked-out]  content ranked below the 20-40min budget
+- 18:05–18:42  [ranked-out]  content ranked below the 20-40min budget
+- 19:44–20:27  [ranked-out]  content ranked below the 20-40min budget
+- 20:32–20:53  [ranked-out]  content ranked below the 20-40min budget
+- 20:56–21:50  [ranked-out]  content ranked below the 20-40min budget
 - 23:20–23:34  [pali]  Pali recitation / chant gap
-- 23:37–23:46  [pali]  Pali recitation / chant gap
-- 24:40–28:43  [ranked-out]  content ranked below the 20-40min budget
-- 29:19–29:31  [translation]  second translation (unclosed, 4-seg cap): should be known comment translation by
-- 31:40–35:57  [ranked-out]  content ranked below the 20-40min budget
-- 36:15–37:25  [translation]  second translation: translation by nyana mori when shall i
-- 37:54–38:20  [pali]  Pali recitation / chant gap
-- 39:31–40:21  [translation]  second translation: common translation by ireland
-- 46:50–48:58  [ranked-out]  content ranked below the 20-40min budget
-- 49:47–49:56  [pali]  Pali recitation / chant gap
-- 50:06–50:28  [ranked-out]  content ranked below the 20-40min budget
-- 50:55–51:04  [pali]  Pali recitation / chant gap
-- 51:07–51:27  [pali]  Pali recitation / chant gap
-- 51:52–52:58  [translation]  second translation: comment translation by the body
-- 53:01–53:09  [pali]  Pali recitation / chant gap
-- 53:20–53:34  [translation]  second translation (unclosed, 4-seg cap): common translation by wikibody he is
-- 54:25–54:34  [pali]  Pali recitation / chant gap
-- 54:54–55:09  [translation]  second translation (unclosed, 4-seg cap): comment translation by empi cambodia
+- 23:37–24:30  [ranked-out]  content ranked below the 20-40min budget
+- 24:35–25:54  [ranked-out]  content ranked below the 20-40min budget
+- 27:55–29:13  [ranked-out]  content ranked below the 20-40min budget
+- 29:17–30:14  [ranked-out]  content ranked below the 20-40min budget
+- 31:40–33:50  [ranked-out]  content ranked below the 20-40min budget
+- 35:25–36:11  [ranked-out]  content ranked below the 20-40min budget
+- 36:15–37:46  [ranked-out]  content ranked below the 20-40min budget
+- 37:49–38:59  [ranked-out]  content ranked below the 20-40min budget
+- 39:31–40:57  [ranked-out]  content ranked below the 20-40min budget
+- 42:33–43:07  [ranked-out]  content ranked below the 20-40min budget
+- 44:42–45:19  [ranked-out]  content ranked below the 20-40min budget
+- 46:48–47:26  [ranked-out]  content ranked below the 20-40min budget
+- 49:00–49:33  [ranked-out]  content ranked below the 20-40min budget
+- 49:37–50:01  [ranked-out]  content ranked below the 20-40min budget
+- 50:06–50:48  [ranked-out]  content ranked below the 20-40min budget
+- 50:50–51:04  [ranked-out]  content ranked below the 20-40min budget
+- 51:07–51:44  [ranked-out]  content ranked below the 20-40min budget
+- 51:48–52:58  [ranked-out]  content ranked below the 20-40min budget
+- 53:01–53:15  [ranked-out]  content ranked below the 20-40min budget
+- 53:20–54:04  [ranked-out]  content ranked below the 20-40min budget
+- 54:09–54:44  [ranked-out]  content ranked below the 20-40min budget
+- 54:48–55:45  [ranked-out]  content ranked below the 20-40min budget
 - 55:48–55:56  [pali]  Pali recitation / chant gap
-- 55:59–56:45  [pali]  Pali recitation / chant gap
-- 57:43–60:12  [ranked-out]  content ranked below the 20-40min budget
-- 61:13–61:23  [pali]  Pali recitation / chant gap
-- 61:41–64:48  [ranked-out]  content ranked below the 20-40min budget
-- 65:14–65:29  [translation]  second translation (unclosed, 4-seg cap): common translation by vika body
-- 70:35–70:43  [pali]  Pali recitation / chant gap
-- 72:23–72:34  [pali]  Pali recitation / chant gap
-- 72:56–73:08  [translation]  second translation (unclosed, 4-seg cap): common translation by the company
+- 55:59–57:20  [ranked-out]  content ranked below the 20-40min budget
+- 57:43–58:33  [ranked-out]  content ranked below the 20-40min budget
+- 60:14–60:49  [ranked-out]  content ranked below the 20-40min budget
+- 60:57–61:36  [ranked-out]  content ranked below the 20-40min budget
+- 61:41–62:38  [ranked-out]  content ranked below the 20-40min budget
+- 64:33–65:10  [ranked-out]  content ranked below the 20-40min budget
+- 65:14–66:10  [ranked-out]  content ranked below the 20-40min budget
+- 67:38–68:16  [ranked-out]  content ranked below the 20-40min budget
+- 69:44–70:32  [ranked-out]  content ranked below the 20-40min budget
+- 70:35–71:18  [ranked-out]  content ranked below the 20-40min budget
+- 72:23–72:48  [ranked-out]  content ranked below the 20-40min budget
+- 72:51–73:47  [ranked-out]  content ranked below the 20-40min budget
 - 74:05–74:10  [closer]  comment + thanks closer
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** cessation-extinction refrain -> not depending on formless -> deathless element with body -> six cessations -> ayatana sense-sphere analysis -> monk aspired sphere -> conceit understood -> steadiness/contentment -> Bodhi final-knowledge readings -> three stationary types -> not astray by rites
 
-Grades: A=32(19.8m) B=9(19.4m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=32(6.3m) B=14(22.2m) C=1(1.7m) · dial: A → A+B → full

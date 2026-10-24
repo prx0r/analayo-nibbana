@@ -2,8 +2,8 @@
  "lecture": 12,
  "target_min": 30,
  "source_min": 85.5,
- "kept_sec": 2281.3,
- "kept_pct": 44,
+ "kept_sec": 2297.0,
+ "kept_pct": 45,
  "timebase": {
   "native": "ds",
   "yt_first": 10.64,
@@ -11,39 +11,29 @@
  },
  "dropped_spans": [
   {
-   "start": 2627.5,
+   "start": 2630.0,
    "end": 2792.9,
-   "rank": 3
-  },
-  {
-   "start": 3619.8,
-   "end": 3758.3,
-   "rank": 3
-  },
-  {
-   "start": 3758.8,
-   "end": 3896.0,
    "rank": 3
   }
  ],
  "cuts": [
   {
    "start": 0.0,
-   "end": 866.14,
-   "kind": "forum",
-   "reason": "course welcome + forum discussion + bridge"
+   "end": 895.7,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 917.96,
-   "end": 942.12,
-   "kind": "recap",
-   "reason": "previous-sermon recap + extremes lead-in"
+   "end": 965.84,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1011.16,
-   "end": 1020.86,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "end": 1046.16,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1154.58,
@@ -59,7 +49,7 @@
   },
   {
    "start": 1264.24,
-   "end": 1292.52,
+   "end": 1299.24,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -76,6 +66,12 @@
    "reason": "second translation: Comment a translation by Bhikkhu Bodhi."
   },
   {
+   "start": 2014.02,
+   "end": 2038.42,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
    "start": 2162.06,
    "end": 2165.36,
    "kind": "trim",
@@ -88,10 +84,10 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 2344.7,
+   "start": 2330.72,
    "end": 2360.92,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 2389.1,
@@ -100,10 +96,10 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2464.2,
+   "start": 2457.26,
    "end": 2484.66,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 2506.86,
@@ -113,13 +109,25 @@
   },
   {
    "start": 2955.76,
-   "end": 2964.5,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
+   "end": 2978.32,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 3343.44,
-   "end": 3361.22,
+   "start": 3098.36,
+   "end": 3134.18,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3234.5,
+   "end": 3262.08,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3335.14,
+   "end": 3392.9,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -131,21 +139,33 @@
   },
   {
    "start": 3542.54,
+   "end": 3619.78,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): but thus gone ones are non-prolific comment translation by"
+  },
+  {
+   "start": 3758.34,
+   "end": 3758.82,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3896.04,
    "end": 3899.36,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3930.82,
+   "end": 3943.08,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 3934.58,
-   "end": 3943.08,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
-  },
-  {
    "start": 3990.96,
-   "end": 4007.92,
-   "kind": "translation",
-   "reason": "second translation: Common translation by Ireland,"
+   "end": 4010.44,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 4091.2,
@@ -154,26 +174,26 @@
    "reason": "second translation: Common translation by Bikoboli"
   },
   {
-   "start": 4199.96,
+   "start": 4194.0,
    "end": 5129.83,
-   "kind": "closer",
-   "reason": "comment + thanks closer"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   }
  ],
- "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "keep_summary": "motto -> Madhupindika honey-ball: delight in Papancha vs Nibbana -> Papancha etymology + perception as blind-man groping/sign-catching -> sankha reckoning (space enclosed by timber) -> milk-series designation -> language as child toy -> hesitation to teach -> goose-egg soul-theorist blunder -> Udana renunciation verses -> close",
  "kept_segments": [
   {
-   "start": 866.1,
+   "start": 895.7,
    "end": 918.0,
    "grade": "A"
   },
   {
-   "start": 942.1,
+   "start": 965.8,
    "end": 1011.2,
    "grade": "A"
   },
   {
-   "start": 1020.9,
+   "start": 1046.2,
    "end": 1154.6,
    "grade": "B"
   },
@@ -188,7 +208,7 @@
    "grade": "A"
   },
   {
-   "start": 1292.5,
+   "start": 1299.2,
    "end": 1430.9,
    "grade": "B"
   },
@@ -214,11 +234,11 @@
   },
   {
    "start": 1895.6,
-   "end": 2028.3,
+   "end": 2014.0,
    "grade": "B"
   },
   {
-   "start": 2028.3,
+   "start": 2038.4,
    "end": 2162.1,
    "grade": "B"
   },
@@ -229,7 +249,7 @@
   },
   {
    "start": 2298.3,
-   "end": 2344.7,
+   "end": 2330.7,
    "grade": "A"
   },
   {
@@ -239,7 +259,7 @@
   },
   {
    "start": 2420.9,
-   "end": 2464.2,
+   "end": 2457.3,
    "grade": "A"
   },
   {
@@ -253,22 +273,22 @@
    "grade": "A"
   },
   {
-   "start": 2964.5,
+   "start": 2978.3,
    "end": 3098.4,
    "grade": "B"
   },
   {
-   "start": 3098.4,
+   "start": 3134.2,
    "end": 3234.5,
    "grade": "B"
   },
   {
-   "start": 3234.5,
-   "end": 3343.4,
+   "start": 3262.1,
+   "end": 3335.1,
    "grade": "B"
   },
   {
-   "start": 3361.2,
+   "start": 3392.9,
    "end": 3524.4,
    "grade": "B"
   },
@@ -278,8 +298,18 @@
    "grade": "A"
   },
   {
+   "start": 3619.8,
+   "end": 3758.3,
+   "grade": "C"
+  },
+  {
+   "start": 3758.8,
+   "end": 3896.0,
+   "grade": "C"
+  },
+  {
    "start": 3899.4,
-   "end": 3934.6,
+   "end": 3930.8,
    "grade": "A"
   },
   {
@@ -288,24 +318,24 @@
    "grade": "A"
   },
   {
-   "start": 4007.9,
+   "start": 4010.4,
    "end": 4091.2,
    "grade": "A"
   },
   {
    "start": 4112.6,
-   "end": 4200.0,
+   "end": 4194.0,
    "grade": "A"
   }
  ],
  "grade_counts": {
   "A": 15,
   "B": 12,
-  "C": 0
+  "C": 2
  },
  "grade_minutes": {
-  "A": 11.2,
-  "B": 26.9,
-  "C": 0.0
+  "A": 9.7,
+  "B": 24.0,
+  "C": 4.6
  }
 }

@@ -2,26 +2,26 @@
 # A=rank1 spine+technical (keep), B=rank2 flow (drop if must), C=rank3 boring (drop first), D=cut in MAJOR
 KEEPS = [
     (695.04, 699.22, 1),
-    (710.14, 733.72, 1),
-    (769.34, 784.28, 1),
+    (710.14, 727.46, 1),
+    (769.34, 771.22, 1),
     (804.16, 833.04, 1),
-    (860.86, 991.96, 1),
-    (992.4, 1123.4, 1),
+    (860.86, 984.96, 1),
+    (995.28, 1122.06, 1),
     (1124.2, 1257.94, 1),
     (1259.04, 1361.02, 1),
     (1377.0, 1508.24, 1),
-    (1508.24, 1641.64, 1),
-    (1641.64, 1772.18, 1),
-    (1772.18, 1903.22, 1),
-    (1903.22, 2034.3, 1),
-    (2034.42, 2119.72, 1),
+    (1510.98, 1641.64, 1),
+    (1649.76, 1772.18, 1),
+    (1778.18, 1903.22, 1),
+    (1924.82, 2026.14, 1),
+    (2047.12, 2107.02, 1),
     (2130.0, 2191.3, 1),
     (2202.12, 2338.0, 1),
-    (2338.0, 2473.08, 1),
-    (2473.08, 2606.42, 1),
-    (2606.42, 2717.86, 1),
-    (2747.78, 2881.72, 1),
-    (2881.72, 2999.62, 1),
+    (2367.28, 2473.08, 1),
+    (2499.78, 2606.42, 1),
+    (2630.64, 2717.86, 1),
+    (2765.2, 2881.72, 1),
+    (2900.88, 2999.2, 1),
 ]
 
 MAJOR = [
@@ -37,4 +37,4 @@ MAJOR = [
     (2999.62, 4914.19, "closer", "comment + thanks closer"),
 ]
 
-SUMMARY = ("AUTO DRAFT — review skeleton before ship")
+SUMMARY = ("motto -> Mulapariyaya third attitude: arahant/Tathagata knows earth as earth without imagining or delighting -> genitive-possession grammar -> no craving/conceit/view entanglement -> commentary controversy -> 24 concepts + reckoning/designation synonyms -> not delighting even in nibbana -> against noun-ifying nibbana as goal-object")

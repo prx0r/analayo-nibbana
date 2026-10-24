@@ -5,13 +5,21 @@ Produce a cut plan per lecture for all 33 Analayo/Nyanananda "Nibbāna: The Mind
 lectures: condense each to 20–40 min (aim ~30, we've been landing ~39). A/B/C grades.
 **Do NOT render audio. Cut plans only** (user approves before any render).
 
-## Status
-- **Done (8/33):** lectures 01–08 → `lecture-NN.cutplan.json` + `.md` (grades in `kept_segments[]`).
-- lec09: **DONE** — 39.9 min, A=47/B=2/C=0, seam-audited (3 fixes: cut the
-  "this catechism" comment that preceded the English catechism; split the
-  via-media span to drop the Seneca/personality-view callback after its parable
-  was ranked out; trimmed meditator-materiality span). Keep file `tools/lec09_keeps.py`.
-- **Remaining:** 09–33 (32+33 counted as one combined plan per original todo list).
+## Status (2026-10-24 update)
+- **Done (29/33):** lectures 01–27, 29, 31 → `lecture-NN.cutplan.{json,md}`.
+  01–09 manual (09 seam-audited); 10 manual + seam-fixed (Pali-fragment start
+  trimmed, summary corrected); 11–27, 29, 31 via `tools/auto_keeps.py`
+  (A=rank1 spine+technical, B=rank2 flow, C=rank3 boring, D=cut in MAJOR).
+  All in 20–40 band (29 @20.9m floor, rest 30–39.9m).
+- **In progress (4/33):** 28, 30, 32, 33 — no CF/YT in repo, YouTube blocked
+  from this network (transcript API RequestBlocked, yt-dlp bot-check, MCP
+  isError without proxy). Fallback: DharmaSeed mp3s
+  (`ds-mp3/lec-{58747,58749,58751,58752}.mp3`) + local faster-whisper
+  (`tools/local_transcribe.py`, running in bg, log `/tmp/localtr.log`).
+  Then `auto_keeps.py` + `gen_plan.py` as usual.
+- youtube-transcript MCP installed (`pip`, module `mcp_youtube_transcript`)
+  and registered in `~/.config/opencode/opencode.jsonc`; needs
+  Webshare/ScrapingAnt/HTTP proxy env to work from blocked networks.
 
 ## How the process works (proven — follow it)
 1. Read transcript of lecture NN:

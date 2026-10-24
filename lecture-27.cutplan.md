@@ -1,36 +1,46 @@
 # Lecture 27 — cut plan
 
-Source 75.5 min → **kept 38.0 min (50%)** · 27 cuts · band 20–40 ✓
-_auto-dropped to fit: 14:56-17:45(r2); 19:40-22:12(r2); 62:43-65:08(r2); 72:28-74:44(r2); 34:17-36:30(r2)_
-
-- 0:00–10:34  [forum]  course welcome + forum discussion + bridge
-- 13:58–14:15  [pali]  Pali recitation / chant gap
-- 14:39–17:54  [ranked-out]  content ranked below the 20-40min budget
-- 18:15–22:39  [ranked-out]  content ranked below the 20-40min budget
-- 24:47–25:03  [translation]  second translation (unclosed, 4-seg cap): comment translation by walsh of the
-- 25:38–27:37  [ranked-out]  content ranked below the 20-40min budget
-- 28:23–28:40  [translation]  second translation: common translation by amigoboni
-- 33:08–33:33  [translation]  second translation: common translation by abikunyanomori
-- 34:03–36:39  [ranked-out]  content ranked below the 20-40min budget
-- 36:52–37:09  [translation]  second translation (unclosed, 4-seg cap): world common translation by a big body
-- 38:27–38:45  [pali]  Pali recitation / chant gap
-- 39:14–40:33  [translation]  second translation: comment translation by bikonyano molly
-- 46:00–46:40  [pali]  Pali recitation / chant gap
-- 47:19–48:33  [translation]  second translation: comment the translation by picobody
-- 48:49–49:01  [pali]  Pali recitation / chant gap
-- 49:47–50:00  [translation]  second translation (unclosed, 4-seg cap): common translation by a bigger body
-- 54:16–54:34  [translation]  second translation: common translation by norman
-- 55:31–57:15  [translation]  second translation: common translation by norman
-- 59:18–59:29  [pali]  Pali recitation / chant gap
-- 60:01–60:16  [translation]  second translation: common translation by bhikkhu bodhi
-- 61:42–62:03  [pali]  Pali recitation / chant gap
-- 62:28–65:21  [ranked-out]  content ranked below the 20-40min budget
-- 65:35–65:55  [translation]  second translation: common translation by picobody what is
-- 66:00–66:26  [pali]  Pali recitation / chant gap
-- 67:17–68:10  [translation]  second translation: common translation by a bigger body
-- 72:29–74:41  [ranked-out]  content ranked below the 20-40min budget
+Source 75.5 min → **kept 28.2 min (37%)** · 39 cuts · band 20–40 ✓
+- 0:00–11:15  [ranked-out]  content ranked below the 20-40min budget
+- 12:40–13:22  [ranked-out]  content ranked below the 20-40min budget
+- 13:58–14:29  [ranked-out]  content ranked below the 20-40min budget
+- 14:36–15:37  [ranked-out]  content ranked below the 20-40min budget
+- 17:34–18:05  [ranked-out]  content ranked below the 20-40min budget
+- 18:09–20:17  [ranked-out]  content ranked below the 20-40min budget
+- 22:12–23:22  [ranked-out]  content ranked below the 20-40min budget
+- 24:44–25:34  [ranked-out]  content ranked below the 20-40min budget
+- 25:38–28:17  [ranked-out]  content ranked below the 20-40min budget
+- 28:20–29:18  [ranked-out]  content ranked below the 20-40min budget
+- 30:51–31:27  [ranked-out]  content ranked below the 20-40min budget
+- 32:36–33:04  [ranked-out]  content ranked below the 20-40min budget
+- 33:08–33:48  [ranked-out]  content ranked below the 20-40min budget
+- 33:51–34:56  [ranked-out]  content ranked below the 20-40min budget
+- 36:27–36:47  [ranked-out]  content ranked below the 20-40min budget
+- 36:52–37:56  [ranked-out]  content ranked below the 20-40min budget
+- 38:17–39:06  [ranked-out]  content ranked below the 20-40min budget
+- 39:10–41:11  [ranked-out]  content ranked below the 20-40min budget
+- 42:45–43:23  [ranked-out]  content ranked below the 20-40min budget
+- 44:44–45:35  [ranked-out]  content ranked below the 20-40min budget
+- 46:00–47:11  [ranked-out]  content ranked below the 20-40min budget
+- 47:15–48:42  [ranked-out]  content ranked below the 20-40min budget
+- 48:46–49:42  [ranked-out]  content ranked below the 20-40min budget
+- 49:47–50:40  [ranked-out]  content ranked below the 20-40min budget
+- 52:11–52:47  [ranked-out]  content ranked below the 20-40min budget
+- 54:16–55:08  [ranked-out]  content ranked below the 20-40min budget
+- 55:31–57:57  [ranked-out]  content ranked below the 20-40min budget
+- 59:18–59:50  [ranked-out]  content ranked below the 20-40min budget
+- 59:56–60:55  [ranked-out]  content ranked below the 20-40min budget
+- 61:34–62:21  [ranked-out]  content ranked below the 20-40min budget
+- 62:25–63:19  [ranked-out]  content ranked below the 20-40min budget
+- 65:08–65:31  [ranked-out]  content ranked below the 20-40min budget
+- 65:35–65:57  [ranked-out]  content ranked below the 20-40min budget
+- 66:00–67:09  [ranked-out]  content ranked below the 20-40min budget
+- 67:14–68:49  [ranked-out]  content ranked below the 20-40min budget
+- 70:21–71:06  [ranked-out]  content ranked below the 20-40min budget
+- 72:28–73:05  [ranked-out]  content ranked below the 20-40min budget
+- 74:44–75:19  [ranked-out]  content ranked below the 20-40min budget
 - 75:27–75:32  [closer]  comment + thanks closer
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** cessation-of-clinging rejoicing -> perception-of-form key -> reckonings/destinations -> magic show of consciousness -> percepts/views clinging -> banyan-tree simile -> sense-attachment chapter
 
-Grades: A=23(16.3m) B=10(21.6m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=23(5.1m) B=15(23.1m) C=0(0.0m) · dial: A → A+B → full

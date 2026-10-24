@@ -1,31 +1,36 @@
 # Lecture 12 — cut plan
 
-Source 85.5 min → **kept 38.0 min (44%)** · 22 cuts · band 20–40 ✓
-_auto-dropped to fit: 43:47-46:32(r3); 60:19-62:38(r3); 62:38-64:56(r3)_
+Source 85.5 min → **kept 38.3 min (45%)** · 27 cuts · band 20–40 ✓
+_auto-dropped to fit: 43:49-46:32(r3)_
 
-- 0:00–14:26  [forum]  course welcome + forum discussion + bridge
-- 15:17–15:42  [recap]  previous-sermon recap + extremes lead-in
-- 16:51–17:00  [pali]  Pali recitation / chant gap
+- 0:00–14:55  [ranked-out]  content ranked below the 20-40min budget
+- 15:17–16:05  [ranked-out]  content ranked below the 20-40min budget
+- 16:51–17:26  [ranked-out]  content ranked below the 20-40min budget
 - 19:14–19:16  [trim]  short span inside removed region
 - 20:18–20:39  [pali]  Pali recitation / chant gap
-- 21:04–21:32  [ranked-out]  content ranked below the 20-40min budget
+- 21:04–21:39  [ranked-out]  content ranked below the 20-40min budget
 - 23:50–23:51  [trim]  short span inside removed region
 - 26:22–27:07  [translation]  second translation: Comment a translation by Bhikkhu Bodhi.
+- 33:34–33:58  [ranked-out]  content ranked below the 20-40min budget
 - 36:02–36:05  [trim]  short span inside removed region
 - 38:17–38:18  [trim]  short span inside removed region
-- 39:04–39:20  [pali]  Pali recitation / chant gap
+- 38:50–39:20  [ranked-out]  content ranked below the 20-40min budget
 - 39:49–40:20  [ranked-out]  content ranked below the 20-40min budget
-- 41:04–41:24  [pali]  Pali recitation / chant gap
+- 40:57–41:24  [ranked-out]  content ranked below the 20-40min budget
 - 41:46–48:35  [ranked-out]  content ranked below the 20-40min budget
-- 49:15–49:24  [pali]  Pali recitation / chant gap
-- 55:43–56:01  [ranked-out]  content ranked below the 20-40min budget
+- 49:15–49:38  [ranked-out]  content ranked below the 20-40min budget
+- 51:38–52:14  [ranked-out]  content ranked below the 20-40min budget
+- 53:54–54:22  [ranked-out]  content ranked below the 20-40min budget
+- 55:35–56:32  [ranked-out]  content ranked below the 20-40min budget
 - 58:44–58:54  [pali]  Pali recitation / chant gap
-- 59:02–64:59  [ranked-out]  content ranked below the 20-40min budget
-- 65:34–65:43  [pali]  Pali recitation / chant gap
-- 66:30–66:47  [translation]  second translation: Common translation by Ireland,
+- 59:02–60:19  [translation]  second translation (unclosed, 4-seg cap): but thus gone ones are non-prolific comment translation by
+- 62:38–62:38  [trim]  short span inside removed region
+- 64:56–64:59  [trim]  short span inside removed region
+- 65:30–65:43  [ranked-out]  content ranked below the 20-40min budget
+- 66:30–66:50  [ranked-out]  content ranked below the 20-40min budget
 - 68:11–68:32  [translation]  second translation: Common translation by Bikoboli
-- 69:59–85:29  [closer]  comment + thanks closer
+- 69:54–85:29  [ranked-out]  content ranked below the 20-40min budget
 
-**Keeps:** AUTO DRAFT — review skeleton before ship
+**Keeps:** motto -> Madhupindika honey-ball: delight in Papancha vs Nibbana -> Papancha etymology + perception as blind-man groping/sign-catching -> sankha reckoning (space enclosed by timber) -> milk-series designation -> language as child toy -> hesitation to teach -> goose-egg soul-theorist blunder -> Udana renunciation verses -> close
 
-Grades: A=15(11.2m) B=12(26.9m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=15(9.7m) B=12(24.0m) C=2(4.6m) · dial: A → A+B → full
