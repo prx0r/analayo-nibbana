@@ -91,3 +91,6 @@ segN_terms.json — per core clip, Pali terms actually heard → mapped English
 (first hearing per section only, max 2 drops/clip). 40 drops total across 72 clips.
 Filter: fish_filter.py (ascii-spelling safe — transcripts write papancha/sankhara/upadana).
 Rule: Fish speaks the mapped word/phrase and nothing else (e.g. hears "papancha" → says "spiralling").
+
+## 16. Three-layer scripts final (2026-10-24) — segN_script.json
+Per core clip: Analayo (lec,start,end) → Nanananda VERBATIM (excavation quote, untouched) → plain_english_below (key-derived: TERM (plain) first-use; slop-free). S1 12 (hand beats) · S2 13 · S3 16 (incl. Madhupindika honey-ball narrative, cross-sourced S11 — pads aren't section-bound) · S4 5 · S5 14 · S6 13 = 73 beats. Quotes unique per section (S3 15/16). S1c2 sample: "Upadana (grasping) = fuel AND grasping."
