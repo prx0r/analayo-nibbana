@@ -12,6 +12,10 @@
   "everything the mind builds comes to a stop"
  ],
  [
+  "the out, like a flame with no fuel",
+  "going out, like a flame with no fuel"
+ ],
+ [
   "stilling of (?:all )?preparations",
   "everything the mind makes comes to a stop"
  ],
@@ -158,6 +162,10 @@
  [
   "extinguishing",
   "ending"
+ ],
+ [
+  "\\bgraspings\\b",
+  "holding on"
  ],
  [
   "bare knowing",

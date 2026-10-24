@@ -146,8 +146,8 @@
   "nanananda_verbatim": "Sa-upadisesa: the arahant is free from fresh graspings, lust, hate\nand delusions do not flare up. But so long as he has to bear the burden\nof this organic combination, the arahant has to experience certain\nafflictions.",
   "nanananda_sermon": 19,
   "cluster": 2,
-  "plain_english_below": "Sa-upadisesa: the arahant is free from fresh holding ons, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
-  "tts_line": "Sa-upadisesa \u2014 the arahant is free from fresh holding ons, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
+  "plain_english_below": "Sa-upadisesa: the arahant is free from fresh holding on, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
+  "tts_line": "Sa-upadisesa \u2014 the arahant is free from fresh holding on, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
   "provenance": "verified-exact",
   "tts_dropped_palilead": 0,
   "tts_dropped": 0
@@ -177,13 +177,17 @@
    "end": 499,
    "dur": 11
   },
-  "nanananda_verbatim": "Samsara or reiterated existence is itself a debt, which one can never\npay off. When one comes to think of kamma and its result, it is a debt\nthat keeps on gathering an interminable interest.",
+  "nanananda_verbatim": [
+   "Samsara or reiterated existence is itself a debt, which one can never\npay off. When one comes to think of kamma and its result, it is a debt\nthat keeps on gathering an interminable interest.",
+   "Even from this debt the arahants have won freedom by destroying the seeds of kamma, by rendering them infertile."
+  ],
   "nanananda_sermon": 20,
   "cluster": 3,
-  "plain_english_below": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma (what you do and what comes back) and its result, it is a debt that keeps on gathering an interminable interest.",
-  "tts_line": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma \u2014 what you do and what comes back \u2014 and its result, it is a debt that keeps on gathering an interminable interest.",
+  "plain_english_below": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma (what you do and what comes back) and its result, it is a debt that keeps on gathering an interminable interest. / Even from this debt the arahants have won freedom by destroying the seeds of kamma (what you do and what comes back), by rendering them infertile.",
+  "tts_line": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma \u2014 what you do and what comes back \u2014 and its result, it is a debt that keeps on gathering an interminable interest.. Even from this debt the arahants have won freedom by destroying the seeds of kamma \u2014 what you do and what comes back \u2014, by rendering them infertile.",
   "provenance": "verified-exact",
   "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_dropped": 0,
+  "nanananda_note": "release sentence appended (verified contiguous in S20 excavation)"
  }
 ]
