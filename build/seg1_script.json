@@ -7,19 +7,14 @@
    "end": 749,
    "dur": 53
   },
-  "nanananda_verbatim": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
+  "nanananda_verbatim": "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction.",
   "nanananda_sermon": 1,
-  "match": 15,
+  "cluster": 1,
   "plain_english_below": "This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel.",
-  "provenance": [
-   {
-    "file": "sermon-01-excavation.md",
-    "start": 456,
-    "end": 630,
-    "len": 174
-   }
-  ],
-  "tts_line": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel."
+  "tts_line": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 1,
+  "tts_dropped": 0
  },
  {
   "clip": 2,
@@ -31,17 +26,12 @@
   },
   "nanananda_verbatim": "\"What is burning?\" \u2014 the wood\n  burns because of the fire, the fire burns because of the wood. This\n  itself shows **idappaccayata** (this-to-that relatedness). The fire\n  simile has very deep significance.\n- Upadana means BOTH fuel and grasping. The fire grasps the wood; the\n  wood grasps the fire. We call it \"firewood.\"",
   "nanananda_sermon": 1,
-  "match": 12,
+  "cluster": 2,
   "plain_english_below": "\"What is burning?\" \u2014 the wood burns because of the fire, the fire burns because of the wood. This itself shows **idappaccayata (this happens because that happened)**. The fire simile has very deep significance. - Upadana (holding on) means BOTH fuel and holding on. The fire grasps the wood; the wood grasps the fire. We call it \"firewood.\"",
-  "provenance": [
-   {
-    "file": "sermon-01-excavation.md",
-    "start": 997,
-    "end": 1296,
-    "len": 299
-   }
-  ],
-  "tts_line": "\"What is burning?\" \u2014 the wood burns because of the fire, the fire burns because of the wood. This itself shows idappaccayata \u2014 this happens because that happened. The fire simile has very deep significance. Upadana \u2014 holding on \u2014 means BOTH fuel and holding on. The fire grasps the wood, the wood grasps the fire. We call it \"firewood.\""
+  "tts_line": "\"What is burning?\" \u2014 the wood burns because of the fire, the fire burns because of the wood. This itself shows idappaccayata \u2014 this happens because that happened. The fire simile has very deep significance. Upadana \u2014 holding on \u2014 means BOTH fuel and holding on. The fire grasps the wood, the wood grasps the fire. We call it \"firewood.\"",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 3,
@@ -51,19 +41,14 @@
    "end": 4230,
    "dur": 35
   },
-  "nanananda_verbatim": "This is peaceful, this is sublime: the calming of all\nconstructions, the letting go of all supports, the extinguishing of\ncraving, dispassion, cessation, Nibbana.",
+  "nanananda_verbatim": "\"Khayamatta na nibbanam\" \u2014 destruction alone is\n  not Nibbana. **Nanananda: this is a commentarial invention, not a\n  sutta position.**\n- Udana verse:",
   "nanananda_sermon": 1,
-  "match": 5,
-  "plain_english_below": "This is peaceful, this is sublime: everything the mind builds goes quiet, the dropping everything you lean on, the ending of craving, the pull dies out, stopping, Nibbana (out, like a flame with no fuel).",
-  "provenance": [
-   {
-    "file": "sermon-01-excavation.md",
-    "start": 646,
-    "end": 808,
-    "len": 162
-   }
-  ],
-  "tts_line": "This is peaceful, this is sublime \u2014 everything the mind builds goes quiet, the dropping everything you lean on, the ending of craving, the pull dies out, stopping, Nibbana \u2014 out, like a flame with no fuel."
+  "cluster": 7,
+  "plain_english_below": "\"Khayamatta na nibbanam (out, like a flame with no fuel)\" \u2014 destruction alone is not out, like a flame with no fuel. **Nanananda: this is a commentarial invention, not a sutta position.** - Udana verse:",
+  "tts_line": "\"Khayamatta na nibbanam \u2014 out, like a flame with no fuel \u2014 \" \u2014 destruction alone is not out, like a flame with no fuel. Nanananda \u2014 this is a commentarial invention, not a sutta position. Udana verse \u2014",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 4,
@@ -75,17 +60,12 @@
   },
   "nanananda_verbatim": "That form by which one designating the Tathagata might designate him,\nthat has been abandoned by him, cut off at the root, made like an\nuprooted palm tree. The Tathagata is free from reckoning in terms of\nform, deep, immeasurable and hard to fathom, like the great ocean.",
   "nanananda_sermon": 21,
-  "match": 23,
+  "cluster": 18,
   "plain_english_below": "That form by which one designating the Tathagata might designate him, that has been abandoned by him, cut off at the root, made like an uprooted palm tree. The Tathagata is past all counting in terms of form, so deep you cannot measure it, like the great ocean.",
-  "provenance": [
-   {
-    "file": "sermon-21-excavation.md",
-    "start": 1056,
-    "end": 1327,
-    "len": 271
-   }
-  ],
-  "tts_line": "That form by which one designating the Tathagata might designate him, that has been abandoned by him, cut off at the root, made like an uprooted palm tree. The Tathagata is past all counting in terms of form, so deep you cannot measure it, like the great ocean."
+  "tts_line": "That form by which one designating the Tathagata might designate him, that has been abandoned by him, cut off at the root, made like an uprooted palm tree. The Tathagata is past all counting in terms of form, so deep you cannot measure it, like the great ocean.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 5,
@@ -97,17 +77,12 @@
   },
   "nanananda_verbatim": "It can in no way be compared to the extinction\n  and the cooling down of the Arahants.",
   "nanananda_sermon": 1,
-  "match": 7,
+  "cluster": 2,
   "plain_english_below": "It can in no way be compared to the out, like a flame with no fuel and the cooling down of the Arahants.",
-  "provenance": [
-   {
-    "file": "sermon-01-excavation.md",
-    "start": 4541,
-    "end": 4625,
-    "len": 84
-   }
-  ],
-  "tts_line": "It can in no way be compared to the out, like a flame with no fuel and the cooling down of the Arahants."
+  "tts_line": "It can in no way be compared to the out, like a flame with no fuel and the cooling down of the Arahants.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 6,
@@ -117,19 +92,14 @@
    "end": 4274,
    "dur": 44
   },
-  "nanananda_verbatim": "\"Khayamatta na nibbanam\" \u2014 destruction alone is\n  not Nibbana. **Nanananda: this is a commentarial invention, not a\n  sutta position.**",
+  "nanananda_verbatim": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
   "nanananda_sermon": 1,
-  "match": 6,
-  "plain_english_below": "\"Khayamatta na nibbanam (out, like a flame with no fuel)\" \u2014 destruction alone is not out, like a flame with no fuel. **Nanananda: this is a commentarial invention, not a sutta position.**",
-  "provenance": [
-   {
-    "file": "sermon-01-excavation.md",
-    "start": 2598,
-    "end": 2725,
-    "len": 127
-   }
-  ],
-  "tts_line": "\"Khayamatta na nibbanam \u2014 out, like a flame with no fuel \u2014 \" \u2014 destruction alone is not out, like a flame with no fuel. Nanananda \u2014 this is a commentarial invention, not a sutta position."
+  "cluster": 21,
+  "plain_english_below": "This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel.",
+  "tts_line": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 7,
@@ -141,61 +111,46 @@
   },
   "nanananda_verbatim": "One who has quenched his thirst for good is aware of that blissful\n  experience. When he sees the world running here and there in search\n  of water, he looks within and sees the well-spring of his bliss.",
   "nanananda_sermon": 1,
-  "match": 17,
+  "cluster": 13,
   "plain_english_below": "One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss.",
-  "provenance": [
-   {
-    "file": "sermon-01-excavation.md",
-    "start": 3829,
-    "end": 4028,
-    "len": 199
-   }
-  ],
-  "tts_line": "One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss."
+  "tts_line": "One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 8,
   "analayo": {
    "lec": 19,
    "start": 348,
-   "end": 522,
-   "dur": 174
+   "end": 359,
+   "dur": 11
   },
-  "nanananda_verbatim": "Sa-upadisesa: the arahant is free from fresh graspings, lust, hate\nand delusions do not flare up. But so long as he has to bear the burden\nof this organic combination, the arahant has to experience certain\nafflictions.",
-  "nanananda_sermon": 19,
-  "match": 19,
-  "plain_english_below": "Sa-upadisesa: the arahant is free from fresh holding ons, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
-  "provenance": [
-   {
-    "file": "sermon-19-excavation.md",
-    "start": 673,
-    "end": 891,
-    "len": 218
-   }
-  ],
-  "tts_line": "Sa-upadisesa \u2014 the arahant is free from fresh holding ons, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions."
+  "nanananda_verbatim": "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction.",
+  "nanananda_sermon": 1,
+  "cluster": 2,
+  "plain_english_below": "This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel.",
+  "tts_line": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, out, like a flame with no fuel.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 1,
+  "tts_dropped": 0
  },
  {
   "clip": 9,
   "analayo": {
    "lec": 19,
-   "start": 371,
+   "start": 390,
    "end": 522,
-   "dur": 151
+   "dur": 132
   },
-  "nanananda_verbatim": "Anupadisesa: at the last moment of the arahant's life, even this\norganic body that had been grasped has to be abandoned.",
+  "nanananda_verbatim": "Sa-upadisesa: the arahant is free from fresh graspings, lust, hate\nand delusions do not flare up. But so long as he has to bear the burden\nof this organic combination, the arahant has to experience certain\nafflictions.",
   "nanananda_sermon": 19,
-  "match": 11,
-  "plain_english_below": "Anupadisesa: at the last moment of the arahant's life, even this organic body that had been grasped has to be abandoned.",
-  "provenance": [
-   {
-    "file": "sermon-19-excavation.md",
-    "start": 894,
-    "end": 1014,
-    "len": 120
-   }
-  ],
-  "tts_line": "Anupadisesa \u2014 at the last moment of the arahant's life, even this organic body that had been grasped has to be abandoned."
+  "cluster": 2,
+  "plain_english_below": "Sa-upadisesa: the arahant is free from fresh holding ons, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
+  "tts_line": "Sa-upadisesa \u2014 the arahant is free from fresh holding ons, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 10,
@@ -207,42 +162,15 @@
   },
   "nanananda_verbatim": "When he feels a feeling limited to the body, he understands 'I feel\na feeling limited to the body'... he understands 'on the breaking up\nof this body, before life becomes extinct, even here itself, all that\nis felt, not being delighted in, will become cool'.",
   "nanananda_sermon": 19,
-  "match": 19,
+  "cluster": 3,
   "plain_english_below": "When he feels a pleasant-or-unpleasant tone limited to the body, he understands 'I feel a pleasant-or-unpleasant tone limited to the body'... he understands 'on the breaking up of this body, before life becomes extinct, even here itself, all that is felt, not being delighted in, will become cool'.",
-  "provenance": [
-   {
-    "file": "sermon-19-excavation.md",
-    "start": 366,
-    "end": 624,
-    "len": 258
-   }
-  ],
-  "tts_line": "When he feels a pleasant-or-unpleasant tone limited to the body, he understands 'I feel a pleasant-or-unpleasant tone limited to the body'... he understands 'on the breaking up of this body, before life becomes extinct, even here itself, all that is felt, not being delighted in, will become cool'."
+  "tts_line": "When he feels a pleasant-or-unpleasant tone limited to the body, he understands 'I feel a pleasant-or-unpleasant tone limited to the body'... he understands 'on the breaking up of this body, before life becomes extinct, even here itself, all that is felt, not being delighted in, will become cool'.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  },
  {
   "clip": 11,
-  "analayo": {
-   "lec": 20,
-   "start": 721,
-   "end": 728,
-   "dur": 7
-  },
-  "nanananda_verbatim": "This is the highest knowledge, this is the unsurpassed bliss, this\nsorrow-less, taintless security, is the supreme debtless-ness.",
-  "nanananda_sermon": 20,
-  "match": 4,
-  "plain_english_below": "This is the highest knowledge, this is the unsurpassed bliss, this sorrow-less, taintless security, is the supreme debtless-ness.",
-  "provenance": [
-   {
-    "file": "sermon-20-excavation.md",
-    "start": 164,
-    "end": 293,
-    "len": 129
-   }
-  ],
-  "tts_line": "This is the highest knowledge, this is the unsurpassed bliss, this sorrow-less, taintless security, is the supreme debtless-ness."
- },
- {
-  "clip": 12,
   "analayo": {
    "lec": 20,
    "start": 488,
@@ -251,16 +179,11 @@
   },
   "nanananda_verbatim": "Samsara or reiterated existence is itself a debt, which one can never\npay off. When one comes to think of kamma and its result, it is a debt\nthat keeps on gathering an interminable interest.",
   "nanananda_sermon": 20,
-  "match": 4,
+  "cluster": 3,
   "plain_english_below": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma (what you do and what comes back) and its result, it is a debt that keeps on gathering an interminable interest.",
-  "provenance": [
-   {
-    "file": "sermon-20-excavation.md",
-    "start": 356,
-    "end": 546,
-    "len": 190
-   }
-  ],
-  "tts_line": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma \u2014 what you do and what comes back \u2014 and its result, it is a debt that keeps on gathering an interminable interest."
+  "tts_line": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma \u2014 what you do and what comes back \u2014 and its result, it is a debt that keeps on gathering an interminable interest.",
+  "provenance": "verified-exact",
+  "tts_dropped_palilead": 0,
+  "tts_dropped": 0
  }
 ]

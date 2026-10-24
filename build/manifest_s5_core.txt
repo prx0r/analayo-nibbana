@@ -1,0 +1,16 @@
+L16 935.8-1066.7 A lecture-16.mp3 MOTTO
+L14 4400.8-4462.3 A MISSING-AUDIO-L14 
+L14 4478.1-4561.3 A MISSING-AUDIO-L14 
+L05 4018.9-4111.5 A lecture-05.mp3 
+L05 4160.0-4273.3 A lecture-05.mp3 
+L05 3751.5-3819.1 A lecture-05.mp3 
+L09 728.2-806.0 A lecture-09.mp3 
+L05 410.3-489.0 A lecture-05.mp3 
+L09 1003.9-1037.6 A lecture-09.mp3 
+L31 4822.7-4882.1 A lecture-31.mp3 
+L30 563.2-584.2 A lecture-30.mp3 
+L09 2857.7-2930.1 A lecture-09.mp3 
+L30 1187.5-1245.4 A lecture-30.mp3 
+L18 2299.5-2350.0 A lecture-18.mp3 
+L31 611.2-673.0 A lecture-31.mp3 
+L10 3401.2-3733.8 A lecture-10.mp3 
