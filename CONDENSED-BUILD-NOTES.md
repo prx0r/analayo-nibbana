@@ -103,3 +103,7 @@ The flagged "Flame flung by wind..." line was MINE (first-draft beat summary), f
 
 ## 19. Blunt layer (user: plain = unmistakable, not smooth)
 Below-lines now two-pass: term key (TERM (plain)) then blunt phrase map (blunt_key.json): stilling of preparations -> everything the mind makes comes to a stop; relinquishment of assets -> letting go of everything carried; craving -> wanting ends; etc. Article pile-ups cleaned (the-the, namely-the). Verbatim fields NEVER touched by either pass (audit: separate check).
+
+## 20. Verbatim enforcement (2026-10-24) — user: exact words or fix it
+Ran strict substring audit of every nanananda_verbatim vs sources (whitespace+markdown normalized BOTH sides — earlier false alarm was my check stripping * on one side only).
+Found + fixed 4 real breaks: (1) my hand-written S1 beat summaries — DELETED, rebuilt mechanically; (2-3) two quotes orphaned from their Pali leads by the quote-splitter ("What is burning?", "Khayamatta na nibbanam") — reattached, contiguity verified; (4) honey pad was a concatenation, not contiguous — split into 4 individually verified excerpts (list field). Final: 75/75 excerpts verified present, 0 failures, 0 empties. Rerun: audit block in notes history §18/20.
