@@ -1,0 +1,4597 @@
+{
+ "source": "/home/box/Downloads/yt/analayo-nibbana/analayo-nibbana-lecture-31.mp3",
+ "duration": 5504.9532,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 2.22,
+   "end": 12.16,
+   "text": "Welcome to the online course on the Nibbāna Sermons 23 to 33 by Bhikkhu Katakurunda Jnanananda,"
+  },
+  {
+   "t": 13.86,
+   "end": 18.26,
+   "text": "hosted by the Numata Center for Buddhist Studies at the University of Hamburg"
+  },
+  {
+   "t": 18.26,
+   "end": 22.6,
+   "text": "in collaboration with the Behrer Center for Buddhist Studies in Massachusetts."
+  },
+  {
+   "t": 24.84,
+   "end": 29.52,
+   "text": "And today we will be looking at Sermon number 31."
+  },
+  {
+   "t": 32.04,
+   "end": 37.62,
+   "text": "But before that, again, a few of the comments from the discussion forum."
+  },
+  {
+   "t": 40.3,
+   "end": 44.72,
+   "text": "Letizia Baglioni on the unhappiness of renunciation."
+  },
+  {
+   "t": 46.02,
+   "end": 54.32,
+   "text": "Even unhappiness born of sensing the fetus and longing for freedom has a safe, calm space all around it,"
+  },
+  {
+   "t": 55.2,
+   "end": 60.22,
+   "text": "as right mindfulness, right view and other skillful factors are at hand."
+  },
+  {
+   "t": 61.58,
+   "end": 64.56,
+   "text": "I thought that was a very beautiful way of putting it."
+  },
+  {
+   "t": 66.22,
+   "end": 76.88,
+   "text": "Then Kim Allen made a practical-related observation on this gradual refinement of feeling tones described in Sallayata Nabi Bhanga."
+  },
+  {
+   "t": 78.12,
+   "end": 86.64,
+   "text": "In observing my own thought patterns, I find that there are more options than stated in the four-stage process from the Sutta"
+  },
+  {
+   "t": 86.64,
+   "end": 89.36,
+   "text": "and expounded by Vinuranyananda."
+  },
+  {
+   "t": 92.44,
+   "end": 98.74,
+   "text": "For instance, just today I found my mind producing thoughts of unhappiness based on the household life."
+  },
+  {
+   "t": 99.38,
+   "end": 106.02,
+   "text": "And noticing this, I reflected that such thoughts are totally conditioned, merely habitual and impermanent."
+  },
+  {
+   "t": 106.22,
+   "end": 108.34,
+   "text": "And this immediately brought happiness."
+  },
+  {
+   "t": 108.34,
+   "end": 116.06,
+   "text": "So it seems that unhappiness based on the household life can be surmounted by happiness based on renunciation."
+  },
+  {
+   "t": 117.34,
+   "end": 121.68,
+   "text": "And equanimity based on renunciation can also surmount worldly unhappiness."
+  },
+  {
+   "t": 123.12,
+   "end": 130.38,
+   "text": "And Robert replied that he thinks the scheme in the Sutta is properly meant exemplary and does not try to draw a complete map."
+  },
+  {
+   "t": 132.2,
+   "end": 138.06,
+   "text": "Yeah, I thought that was a very relevant observation by both of them."
+  },
+  {
+   "t": 139.62,
+   "end": 152.3,
+   "text": "I think the main pattern in the first part of the exposition is simply to provide a shift of perspective"
+  },
+  {
+   "t": 153.2,
+   "end": 161.48,
+   "text": "from the hedonic tone of Vedana, which is what normally evaluations and preferences are based on"
+  },
+  {
+   "t": 161.48,
+   "end": 167.3,
+   "text": "to their quality in terms of fear expressed as household or renunciate,"
+  },
+  {
+   "t": 168.04,
+   "end": 176.9,
+   "text": "but in a more general sense in terms of their ethical dimension or more precisely their relevance to progress on the path."
+  },
+  {
+   "t": 178.5,
+   "end": 186.42,
+   "text": "And so from that perspective, it's just saying whatever feeling tone is experienced,"
+  },
+  {
+   "t": 186.7,
+   "end": 197.7,
+   "text": "be it pleasant, unpleasant or neutral, a shift from those of the household life to those of renunciation."
+  },
+  {
+   "t": 199.52,
+   "end": 206.02,
+   "text": "And I don't think this would then be meant to exclude cases like described by Kim."
+  },
+  {
+   "t": 206.46,
+   "end": 214.46,
+   "text": "If from unhappiness of the household life, it's possible to shift to happiness of renunciation, so much the better."
+  },
+  {
+   "t": 216.32,
+   "end": 228.04,
+   "text": "And the next step then, where the Pali version recommends to go from the sadness of renunciation"
+  },
+  {
+   "t": 228.04,
+   "end": 232.08,
+   "text": "to surmount that with the help of the happiness of renunciation."
+  },
+  {
+   "t": 232.42,
+   "end": 236.28,
+   "text": "Actually, quite interestingly, the Chinese parallel has it the opposite."
+  },
+  {
+   "t": 237.42,
+   "end": 243.1,
+   "text": "This you can find that discussed in my comparative study of the Maji Mani Kaya, page 784."
+  },
+  {
+   "t": 244.46,
+   "end": 255.82,
+   "text": "So the parallel versions agree that the peak point, the final point, is the equanimity based on renunciation."
+  },
+  {
+   "t": 256.6,
+   "end": 261.02,
+   "text": "But the progression towards that, the two have the opposite ways."
+  },
+  {
+   "t": 261.9,
+   "end": 270.38,
+   "text": "Whereas the Pali version recommends to use the joy of renunciation to leave behind the sadness of renunciation,"
+  },
+  {
+   "t": 271.22,
+   "end": 272.8,
+   "text": "the Madhyama Agama has the opposite."
+  },
+  {
+   "t": 276.52,
+   "end": 284.8,
+   "text": "And Hedwig commented on that beautiful verse exchange at the outset of Samyotanikaya."
+  },
+  {
+   "t": 285.32,
+   "end": 292.48,
+   "text": "On this, the Buddha, where the Buddha explains the need to avoid both standstill and struggling."
+  },
+  {
+   "t": 293.3,
+   "end": 303.4,
+   "text": "And this is the very best description to me how to apply just the right amount of energy as to continue one's way out of the whirlpool of samsara."
+  },
+  {
+   "t": 303.92,
+   "end": 313.58,
+   "text": "One continually applies just enough energy to proceed, never stopping to apply it, nor starting to fight and use up the energy all at once."
+  },
+  {
+   "t": 313.58,
+   "end": 327.54,
+   "text": "Yeah, that is indeed a very important and very helpful summary and perspective that need to be continuous in the application of energy."
+  },
+  {
+   "t": 328.38,
+   "end": 332.7,
+   "text": "Never stopping, but also not overdoing it because then one gets exhausted."
+  },
+  {
+   "t": 332.7,
+   "end": 344.48,
+   "text": "This is often the case when there is too much drive, thrust, wanting to get it."
+  },
+  {
+   "t": 345.02,
+   "end": 346.86,
+   "text": "And then there is a lot of pushing."
+  },
+  {
+   "t": 347.78,
+   "end": 354.12,
+   "text": "And then when it doesn't bring immediately the right results, then there is the other extreme of dropping it."
+  },
+  {
+   "t": 354.24,
+   "end": 355.92,
+   "text": "And I have seen that with many practitioners."
+  },
+  {
+   "t": 358.96,
+   "end": 363.96,
+   "text": "Anyhow, on to a sermon 31."
+  },
+  {
+   "t": 385.98,
+   "end": 390.96,
+   "text": "This is peaceful and this is excellent, namely the stilling of all preparations,"
+  },
+  {
+   "t": 391.44,
+   "end": 393.6,
+   "text": "the relinquishment of all assets,"
+  },
+  {
+   "t": 393.6,
+   "end": 397.54,
+   "text": "the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 398.38,
+   "end": 402.6,
+   "text": "With the permission of the Assembly of the Venerable Meditative Monks."
+  },
+  {
+   "t": 403.6,
+   "end": 407.98,
+   "text": "This is the 31st sermon in the series of sermons on Nibbana."
+  },
+  {
+   "t": 409.52,
+   "end": 417.62,
+   "text": "In our attempt to understand some subtle characteristics of the middle part leading to Nibbana in our last sermon,"
+  },
+  {
+   "t": 417.62,
+   "end": 422.02,
+   "text": "we found some discourses like Salayata Navibhanga Sutta,"
+  },
+  {
+   "t": 422.48,
+   "end": 425.52,
+   "text": "Oga Tarana Sutta, Vitakka Samtana Sutta,"
+  },
+  {
+   "t": 426.2,
+   "end": 431.74,
+   "text": "Magandhya Sutta, Ratavinita Sutta and Alagandupama Sutta particularly helpful."
+  },
+  {
+   "t": 432.56,
+   "end": 443.94,
+   "text": "It became clear that the twin principle of pragmatism and relativity underlying the norm of dependent arising could be gleaned to a great extent from those discourses."
+  },
+  {
+   "t": 447.0,
+   "end": 453.44,
+   "text": "We also found that the course of practice leading to Nibbana is not an accumulation or amassing,"
+  },
+  {
+   "t": 454.2,
+   "end": 464.0,
+   "text": "but a gradual process of attenuation or effacement tending towards a realization of voidness, free from notions of iron mine."
+  },
+  {
+   "t": 467.82,
+   "end": 473.28,
+   "text": "It is for the purpose of emphasizing the twin principles of pragmatism and relativity"
+  },
+  {
+   "t": 473.28,
+   "end": 480.52,
+   "text": "that the Buddha compared the Dhamma to a raft in the Alagandupama Sutta of the Majjima Nikaya."
+  },
+  {
+   "t": 481.18,
+   "end": 488.08,
+   "text": "In this series of sermons we made allusions to this simile in brief on several occasions,"
+  },
+  {
+   "t": 488.32,
+   "end": 492.08,
+   "text": "but let us not try to examine this simile in more detail."
+  },
+  {
+   "t": 492.82,
+   "end": 495.84,
+   "text": "In order to present the parable of the raft,"
+  },
+  {
+   "t": 496.16,
+   "end": 499.34,
+   "text": "the Buddha addressed the monks and made the following declaration."
+  },
+  {
+   "t": 506.74,
+   "end": 512.58,
+   "text": "Monks I shall preach to you the Dhamma comparable to a raft for crossing over, not for grasping."
+  },
+  {
+   "t": 513.14,
+   "end": 518.32,
+   "text": "With this introductory declaration, he goes on to relate the parable of the raft."
+  },
+  {
+   "t": 519.5,
+   "end": 525.12,
+   "text": "Monks, suppose a man in the course of a long journey saw a great expanse of water,"
+  },
+  {
+   "t": 525.92,
+   "end": 531.54,
+   "text": "whose near shore was dangerous and fearful, and whose further shore was safe and free from fear."
+  },
+  {
+   "t": 531.54,
+   "end": 536.18,
+   "text": "But there was no ferry boat or bridge going to the far shore."
+  },
+  {
+   "t": 536.92,
+   "end": 543.36,
+   "text": "Then he thought, there is this great expanse of water, whose near shore is dangerous and fearful,"
+  },
+  {
+   "t": 543.6,
+   "end": 546.3,
+   "text": "and whose further shore is safe and free from fear."
+  },
+  {
+   "t": 546.86,
+   "end": 550.76,
+   "text": "But there is no ferry boat or bridge going to the far shore."
+  },
+  {
+   "t": 551.76,
+   "end": 557.26,
+   "text": "Suppose I collect grass, sticks, branches and leaves, and bind them together into a raft."
+  },
+  {
+   "t": 557.76,
+   "end": 561.7,
+   "text": "And supported by the raft, and making an effort with my hands and feet,"
+  },
+  {
+   "t": 561.86,
+   "end": 564.58,
+   "text": "I were to get safely across to the far shore."
+  },
+  {
+   "t": 565.64,
+   "end": 571.74,
+   "text": "And then the man collected grass, sticks, branches and leaves, and bound them together into a raft."
+  },
+  {
+   "t": 572.3,
+   "end": 576.42,
+   "text": "And supported by the raft, and making an effort with his hands and feet,"
+  },
+  {
+   "t": 576.56,
+   "end": 578.64,
+   "text": "he got safely across to the far shore."
+  },
+  {
+   "t": 579.5,
+   "end": 584.56,
+   "text": "Then, when he got safely across and had arrived at the far shore, he might think thus."
+  },
+  {
+   "t": 588.14,
+   "end": 590.48,
+   "text": "This raft has been very helpful to me."
+  },
+  {
+   "t": 590.66,
+   "end": 593.78,
+   "text": "Supported by it, and making an effort with my hands and feet,"
+  },
+  {
+   "t": 593.8,
+   "end": 595.94,
+   "text": "I got safely across to the far shore."
+  },
+  {
+   "t": 596.96,
+   "end": 599.98,
+   "text": "Suppose I were to hoist it on my head, or load it on my head."
+  },
+  {
+   "t": 600.0,
+   "end": 605.68,
+   "text": "my shoulder, and then go wherever I want. Now, monks, what do you think? By doing so,"
+  },
+  {
+   "t": 605.82,
+   "end": 610.2,
+   "text": "would that man be doing what should be done with that raft? No, venerable sir."
+  },
+  {
+   "t": 611.2,
+   "end": 614.66,
+   "text": "By doing what would that man be doing what should be done with that raft?"
+  },
+  {
+   "t": 615.52,
+   "end": 620.42,
+   "text": "Here, monks, when that monk got across and had arrived at the far shore, he might think thus,"
+  },
+  {
+   "t": 621.04,
+   "end": 626.98,
+   "text": "This raft has been very helpful to me, since, supported by it and making an effort with my"
+  },
+  {
+   "t": 626.98,
+   "end": 634.04,
+   "text": "hands and feet, I got safely across to the far shore. Suppose I were to haul it on dry land,"
+  },
+  {
+   "t": 634.24,
+   "end": 641.96,
+   "text": "or set it adrift in the water, and then go wherever I want. Now it is by doing so that that man would"
+  },
+  {
+   "t": 641.96,
+   "end": 648.4,
+   "text": "be doing what should be done with the raft. Even so, monks, I have shown you the Dhamma is similar"
+  },
+  {
+   "t": 648.4,
+   "end": 654.38,
+   "text": "to a raft, being for the purpose of crossing over, not for the purpose of grasping."
+  },
+  {
+   "t": 655.66,
+   "end": 658.58,
+   "text": "And the Buddha concludes with the significant statement,"
+  },
+  {
+   "t": 666.14,
+   "end": 670.98,
+   "text": "Monks, when you know the Dhamma to be similar to a raft, you should abandon even good states,"
+  },
+  {
+   "t": 671.2,
+   "end": 673.0,
+   "text": "how much more so, bad states."
+  },
+  {
+   "t": 673.8,
+   "end": 676.56,
+   "text": "Comment, translation by Vikunjana Moli."
+  },
+  {
+   "t": 679.9,
+   "end": 684.58,
+   "text": "I shall show you how the Dhamma is similar to a raft, being for the purpose of crossing"
+  },
+  {
+   "t": 684.58,
+   "end": 690.7,
+   "text": "over, not for the purpose of grasping. Suppose a man in the course of a journey saw a great"
+  },
+  {
+   "t": 690.7,
+   "end": 695.84,
+   "text": "expanse of water, whose near shore was dangerous and fearful, and whose further shore was safe"
+  },
+  {
+   "t": 695.84,
+   "end": 700.7,
+   "text": "and free from fear. But there was no ferry boat or bridge for going to the far shore."
+  },
+  {
+   "t": 713.62,
+   "end": 719.48,
+   "text": "Suppose I collect grass, twigs, branches, and leaves, and bind them together into a raft,"
+  },
+  {
+   "t": 719.48,
+   "end": 724.78,
+   "text": "and supported by the raft, and making an effort with my hands and feet, I got safely across to the"
+  },
+  {
+   "t": 724.78,
+   "end": 731.1,
+   "text": "far shore. And then the man collected grass, twigs, branches, and leaves, and bound them together"
+  },
+  {
+   "t": 731.1,
+   "end": 737.4,
+   "text": "into a raft. And supported by the raft, and making an effort with his hands and feet, he got safely"
+  },
+  {
+   "t": 737.4,
+   "end": 743.84,
+   "text": "across to the far shore. Then, when he had got across, and had arrived at the far shore, he might"
+  },
+  {
+   "t": 743.84,
+   "end": 749.76,
+   "text": "think thus. This raft has been very helpful to me, since, supported by it, and making an effort"
+  },
+  {
+   "t": 749.76,
+   "end": 755.9,
+   "text": "with my hands and feet, I got safely across to the far shore. Suppose I were to hoist it on my head,"
+  },
+  {
+   "t": 756.14,
+   "end": 762.16,
+   "text": "or load it on my shoulder, and then go wherever I want. No, because what do you think? By doing so,"
+  },
+  {
+   "t": 762.3,
+   "end": 768.48,
+   "text": "would that man be doing what should be done with that raft? No, when was her? By doing what,"
+  },
+  {
+   "t": 768.62,
+   "end": 773.76,
+   "text": "would that man be doing what should be done with that raft? Yeah, because when that man got across,"
+  },
+  {
+   "t": 773.84,
+   "end": 781.0,
+   "text": "and had arrived at the far shore, he might think thus. This raft has been very helpful to me,"
+  },
+  {
+   "t": 781.08,
+   "end": 786.42,
+   "text": "since, supported by it, and making an effort with my hands and feet, I got safely across to"
+  },
+  {
+   "t": 786.42,
+   "end": 792.92,
+   "text": "the far shore. Suppose I were to haul it onto dry land, or set it adrift in the water, and then go"
+  },
+  {
+   "t": 792.92,
+   "end": 799.46,
+   "text": "wherever I want. No, because it is by doing so, that that man would be doing what should be done"
+  },
+  {
+   "t": 799.46,
+   "end": 805.6,
+   "text": "with that raft. So I have shown you how the Dhamma is similar to a raft, being for the purpose of"
+  },
+  {
+   "t": 805.6,
+   "end": 811.44,
+   "text": "crossing over, not for the purpose of grasping. Because when you know the Dhamma to be similar"
+  },
+  {
+   "t": 811.44,
+   "end": 817.14,
+   "text": "to a raft, you should abandon even the teachings, how much more so of things contrary to the teachings."
+  },
+  {
+   "t": 818.38,
+   "end": 824.72,
+   "text": "Enter Madhyama Agama parallel. I have long taught you the teachings as resembling a raft,"
+  },
+  {
+   "t": 824.72,
+   "end": 831.36,
+   "text": "wanting you to give them up, not wanting you to cling to them. Why have I long taught you the"
+  },
+  {
+   "t": 831.36,
+   "end": 836.38,
+   "text": "teachings as resembling a raft, wanting you to give them up, not wanting you to cling to them?"
+  },
+  {
+   "t": 837.14,
+   "end": 843.88,
+   "text": "It is just as if there were a mountain river, very deep and extremely wide, a long stream with a"
+  },
+  {
+   "t": 843.88,
+   "end": 849.86,
+   "text": "swift current, and with much material floating in it, also with no ferry boat and no bridge."
+  },
+  {
+   "t": 850.66,
+   "end": 855.96,
+   "text": "Suppose a man comes along who has a matter to attend on the other bank, and wants to cross"
+  },
+  {
+   "t": 855.96,
+   "end": 863.14,
+   "text": "over. As he is seeking a means to cross over, he thinks, now this mountain river is very deep"
+  },
+  {
+   "t": 863.14,
+   "end": 868.96,
+   "text": "and extremely wide, a long stream with a swift current, and with much material floating in"
+  },
+  {
+   "t": 868.96,
+   "end": 875.4,
+   "text": "it, also with no ferry boat and no bridge. I have a matter to attend to on the other bank,"
+  },
+  {
+   "t": 875.4,
+   "end": 881.08,
+   "text": "and want to cross over. By what skillful means can I safely reach the other bank?"
+  },
+  {
+   "t": 881.68,
+   "end": 888.44,
+   "text": "He further thinks, let me now gather grass and sticks on this bank, bind them together into a raft,"
+  },
+  {
+   "t": 888.64,
+   "end": 894.44,
+   "text": "and having boarded it, cross over. So he gathers grass and sticks on the near bank,"
+  },
+  {
+   "t": 894.98,
+   "end": 902.52,
+   "text": "binds them together into a raft, and having boarded it, crosses over. Having safely arrived there,"
+  },
+  {
+   "t": 902.52,
+   "end": 909.42,
+   "text": "he thinks, now this raft has been of much benefit to me. Boarding this raft has enabled me to cross"
+  },
+  {
+   "t": 909.42,
+   "end": 915.34,
+   "text": "over safely from that bank to this bank. Let me now, putting it on my shoulder or my head,"
+  },
+  {
+   "t": 915.5,
+   "end": 921.98,
+   "text": "carry it along as I go. He then puts the raft on his right shoulder or on his head to carry it along"
+  },
+  {
+   "t": 921.98,
+   "end": 928.72,
+   "text": "as he goes. What do you think? With such an idea, would he derive benefit from doing this with a raft?"
+  },
+  {
+   "t": 929.34,
+   "end": 936.44,
+   "text": "Then the monks replied, he could not. The blessed one said, doing what with the raft could that man"
+  },
+  {
+   "t": 936.44,
+   "end": 945.06,
+   "text": "derive benefit? The man thinks again, now I have derived much benefit from this raft. Boarding this"
+  },
+  {
+   "t": 945.06,
+   "end": 951.26,
+   "text": "raft has enabled me to cross over safely from that bank to this bank. Should I no rather put this raft"
+  },
+  {
+   "t": 951.26,
+   "end": 958.0,
+   "text": "back in the water or put it on the bank? Abandon it there and then go? So the man puts the raft back"
+  },
+  {
+   "t": 958.0,
+   "end": 964.78,
+   "text": "in the water or puts it on the bank, abandons it there and goes. What do you think? Would he derive"
+  },
+  {
+   "t": 964.78,
+   "end": 971.84,
+   "text": "benefit from doing this with a raft? The monks replied, he benefits. The blessed one said, in the"
+  },
+  {
+   "t": 971.84,
+   "end": 978.12,
+   "text": "same way, I have long taught you the teachings as resembling a raft, wanting you to be prepared"
+  },
+  {
+   "t": 978.12,
+   "end": 984.26,
+   "text": "to let go of them, not wanting you to cling to them. If you understand that I have long taught"
+  },
+  {
+   "t": 984.26,
+   "end": 989.56,
+   "text": "you the teachings as resembling a raft, then you should be prepared to let go of these teachings."
+  },
+  {
+   "t": 989.92,
+   "end": 996.14,
+   "text": "How much more so should you let go of whatever is contrary to these teachings? End of comment."
+  },
+  {
+   "t": 997.9,
+   "end": 1004.48,
+   "text": "So it seems this raft similarly has a very deep meaning. The building of the raft by the person"
+  },
+  {
+   "t": 1004.48,
+   "end": 1010.18,
+   "text": "wishing to cross symbolizes the pragmatic and relative values we highlighted in connection with"
+  },
+  {
+   "t": 1010.18,
+   "end": 1017.4,
+   "text": "the path of practice leading to Nibbana. The raft improvised with self-effort is not for grasping or"
+  },
+  {
+   "t": 1017.4,
+   "end": 1024.3,
+   "text": "carrying on one's shoulder. As we have already pointed out with reference to such discourses like"
+  },
+  {
+   "t": 1024.3,
+   "end": 1031.22,
+   "text": "Sallāyata Navibhanga Sutta. Apart from the purpose of crossing, there is nothing worth holding on to or grasping."
+  },
+  {
+   "t": 1031.84,
+   "end": 1039.86,
+   "text": "Why so? Because the aim of this holy life or this path of practice is non-grasping instead of grasping."
+  },
+  {
+   "t": 1040.1,
+   "end": 1049.82,
+   "text": "Non-identification. At-tam-mayata. Instead of identification. Tam-mayata. Asitlessness. Nirupadi. Instead of asit. Upadi."
+  },
+  {
+   "t": 1051.26,
+   "end": 1057.18,
+   "text": "The importance attached to this simile is so much that the Buddha reminds the monks of it in the"
+  },
+  {
+   "t": 1057.18,
+   "end": 1061.38,
+   "text": "Mahā-tan-hā-sākhaya-sutta also with the following allusion."
+  },
+  {
+   "t": 1061.38,
+   "end": 1071.8,
+   "text": "Imanche tummeh bhikgave dittin evang parisuddhan evang pariyodhatan aliyyata kellāyata dhanayata mamayata."
+  },
+  {
+   "t": 1072.2,
+   "end": 1079.96,
+   "text": "Apinutummeh bhikave kurupamang dhammang desirang ajanayyata nittantaran thayanu ghanatayan."
+  },
+  {
+   "t": 1082.3,
+   "end": 1093.62,
+   "text": "Imanche tummeh bhikgave dittin evang parisuddhan evang pariyodhatan na aliyyata na kellāyata na dhanayata na mamayata."
+  },
+  {
+   "t": 1094.6,
+   "end": 1101.42,
+   "text": "Apinutummeh bhikave kurupamang dhammang desirang ajanayyata nittantaran thayanu ghanatayan."
+  },
+  {
+   "t": 1102.26,
+   "end": 1109.94,
+   "text": "Imanche tummeh bhikave kurupamang dhammang desirang ajanayyata nittantaran thayanu ghanatayan."
+  },
+  {
+   "t": 1109.94,
+   "end": 1111.88,
+   "text": "Treasure it, treat it as a possession."
+  },
+  {
+   "t": 1112.48,
+   "end": 1116.86,
+   "text": "Would you then understand the dhamma that has been taught as similar to a raft,"
+  },
+  {
+   "t": 1117.1,
+   "end": 1121.08,
+   "text": "being for the purpose of crossing over and not for the purpose of grasping?"
+  },
+  {
+   "t": 1121.54,
+   "end": 1122.64,
+   "text": "No, venerable sir."
+  },
+  {
+   "t": 1123.94,
+   "end": 1132.48,
+   "text": "Monks purified and cleansed as this view is, if you do not adhere to it, cherish it, treasure it, and treat it as a possession."
+  },
+  {
+   "t": 1132.9,
+   "end": 1137.14,
+   "text": "Would you then understand the dhamma that has been taught as similar to a raft,"
+  },
+  {
+   "t": 1137.14,
+   "end": 1140.88,
+   "text": "being for the purpose of crossing over and not for the purpose of grasping?"
+  },
+  {
+   "t": 1141.44,
+   "end": 1142.66,
+   "text": "Yes, venerable sir."
+  },
+  {
+   "t": 1144.92,
+   "end": 1147.2,
+   "text": "Common translation by bhikunyana moli."
+  },
+  {
+   "t": 1148.2,
+   "end": 1154.88,
+   "text": "Because purified and bright as this view is, if you adhere to it, cherish it, treasure it, and treat it as a possession,"
+  },
+  {
+   "t": 1155.44,
+   "end": 1159.24,
+   "text": "would you then understand that the dhamma that has been taught as similar to a raft,"
+  },
+  {
+   "t": 1159.3,
+   "end": 1163.22,
+   "text": "being for the purpose of crossing over and not for the purpose of grasping?"
+  },
+  {
+   "t": 1163.76,
+   "end": 1164.88,
+   "text": "No, venerable sir."
+  },
+  {
+   "t": 1166.46,
+   "end": 1173.5,
+   "text": "Because purified and bright as this view is, if you do not adhere to it, cherish it, treasure it, and treat it as a possession,"
+  },
+  {
+   "t": 1174.16,
+   "end": 1178.12,
+   "text": "would you then understand that the dhamma has been taught as similar to a raft,"
+  },
+  {
+   "t": 1178.44,
+   "end": 1182.02,
+   "text": "being for the purpose of crossing over and not for the purpose of grasping?"
+  },
+  {
+   "t": 1182.46,
+   "end": 1183.6,
+   "text": "Yes, venerable sir."
+  },
+  {
+   "t": 1184.84,
+   "end": 1185.94,
+   "text": "And the madhyama agama."
+  },
+  {
+   "t": 1186.96,
+   "end": 1196.7,
+   "text": "If, however, you were to say this view of mine is so clear and pure, and if you were to cling to it, cherish it, guard it, and be unwilling to let go of it,"
+  },
+  {
+   "t": 1196.7,
+   "end": 1199.9,
+   "text": "then would you have understood the teaching I have followed?"
+  },
+  {
+   "t": 1199.9,
+   "end": 1199.98,
+   "text": "Then would you have understood the teaching I have followed?"
+  },
+  {
+   "t": 1200.0,
+   "end": 1203.74,
+   "text": "Long time taught you about the dharma as resembling a rock,"
+  },
+  {
+   "t": 1204.24,
+   "end": 1207.1,
+   "text": "as being for opening up a channel that has been blocked?"
+  },
+  {
+   "t": 1208.1,
+   "end": 1210.02,
+   "text": "The monks replied, No, blessed one."
+  },
+  {
+   "t": 1210.98,
+   "end": 1213.86,
+   "text": "The blessed one praised them, saying, It is well, it is well"
+  },
+  {
+   "t": 1213.86,
+   "end": 1216.84,
+   "text": "that you understand it in this way and see it in this way."
+  },
+  {
+   "t": 1217.48,
+   "end": 1221.26,
+   "text": "If you were to say, This view of mine is so clear and pure,"
+  },
+  {
+   "t": 1221.76,
+   "end": 1224.7,
+   "text": "and yet you do not cling to it, do not cherish it,"
+  },
+  {
+   "t": 1225.0,
+   "end": 1227.58,
+   "text": "do not guard it, but are willing to let go of it,"
+  },
+  {
+   "t": 1227.58,
+   "end": 1232.12,
+   "text": "then would you have understood the teaching that I have for a long time taught you"
+  },
+  {
+   "t": 1232.12,
+   "end": 1234.12,
+   "text": "about the dharma as resembling a rock,"
+  },
+  {
+   "t": 1234.42,
+   "end": 1236.98,
+   "text": "as being for opening up a channel that has been blocked?"
+  },
+  {
+   "t": 1237.28,
+   "end": 1239.2,
+   "text": "The monks replied, Yes, was not."
+  },
+  {
+   "t": 1240.4,
+   "end": 1240.94,
+   "text": "End of comment."
+  },
+  {
+   "t": 1242.42,
+   "end": 1246.9,
+   "text": "This is an illustration of the relative validity of the constituents of the path."
+  },
+  {
+   "t": 1247.72,
+   "end": 1250.38,
+   "text": "Instead of an accumulation and a namasing,"
+  },
+  {
+   "t": 1250.8,
+   "end": 1254.64,
+   "text": "we have here a setting in motion of the sequence of psychological states"
+  },
+  {
+   "t": 1254.64,
+   "end": 1258.72,
+   "text": "mutually interconnected, according to the law of relativity."
+  },
+  {
+   "t": 1260.04,
+   "end": 1262.7,
+   "text": "As in the simile of the relay of chariots,"
+  },
+  {
+   "t": 1262.9,
+   "end": 1265.78,
+   "text": "what we have here is a progression by relative dependence."
+  },
+  {
+   "t": 1267.12,
+   "end": 1269.06,
+   "text": "In this sequential progression,"
+  },
+  {
+   "t": 1269.08,
+   "end": 1272.34,
+   "text": "we see an illustration of the quality of leading onward,"
+  },
+  {
+   "t": 1273.6,
+   "end": 1275.4,
+   "text": "characteristic of this dhamma."
+  },
+  {
+   "t": 1276.14,
+   "end": 1278.82,
+   "text": "The term of panayaka has been variously interpreted,"
+  },
+  {
+   "t": 1279.2,
+   "end": 1281.5,
+   "text": "but we get a clue to its correct meaning"
+  },
+  {
+   "t": 1281.5,
+   "end": 1284.42,
+   "text": "in the Udaya Sutra of the Bhojanga Saṅyutta,"
+  },
+  {
+   "t": 1284.48,
+   "end": 1285.62,
+   "text": "in the Saṅyutta Nikaya,"
+  },
+  {
+   "t": 1286.54,
+   "end": 1291.34,
+   "text": "when Udaya declares his attainment of the super mundane path in these words."
+  },
+  {
+   "t": 1303.66,
+   "end": 1306.5,
+   "text": "The dhamma is being well understood by me, venerable sir,"
+  },
+  {
+   "t": 1306.72,
+   "end": 1308.48,
+   "text": "and that path has been obtained,"
+  },
+  {
+   "t": 1308.72,
+   "end": 1310.46,
+   "text": "which, when developed and cultivated,"
+  },
+  {
+   "t": 1310.88,
+   "end": 1312.98,
+   "text": "will lead me onwards to such states"
+  },
+  {
+   "t": 1312.98,
+   "end": 1315.0,
+   "text": "as I go on dwelling in the appropriate way."
+  },
+  {
+   "t": 1316.34,
+   "end": 1318.16,
+   "text": "Comment Translation by Bhikkabodhi"
+  },
+  {
+   "t": 1318.16,
+   "end": 1321.98,
+   "text": "I have made the breakthrough to the dhamma, venerable sir,"
+  },
+  {
+   "t": 1322.26,
+   "end": 1323.94,
+   "text": "and have obtained the path,"
+  },
+  {
+   "t": 1324.1,
+   "end": 1326.32,
+   "text": "which, when I have developed and cultivated it,"
+  },
+  {
+   "t": 1326.64,
+   "end": 1327.64,
+   "text": "will lead me on,"
+  },
+  {
+   "t": 1327.84,
+   "end": 1330.98,
+   "text": "while I am dwelling in the appropriate way to such a state."
+  },
+  {
+   "t": 1331.94,
+   "end": 1333.0,
+   "text": "End of comment"
+  },
+  {
+   "t": 1335.24,
+   "end": 1338.84,
+   "text": "The implication is that the dhamma has the intrinsic quality"
+  },
+  {
+   "t": 1338.84,
+   "end": 1339.94,
+   "text": "of leading onward,"
+  },
+  {
+   "t": 1340.0,
+   "end": 1341.62,
+   "text": "whoever is dwelling according to it,"
+  },
+  {
+   "t": 1342.0,
+   "end": 1344.42,
+   "text": "so that he attains states of distinction"
+  },
+  {
+   "t": 1344.42,
+   "end": 1346.5,
+   "text": "independent of another's intervention."
+  },
+  {
+   "t": 1348.16,
+   "end": 1351.08,
+   "text": "A clearer illustration of this intrinsic quality"
+  },
+  {
+   "t": 1351.08,
+   "end": 1353.84,
+   "text": "can be found in the Chaitanya Karaniya Sutta"
+  },
+  {
+   "t": 1353.84,
+   "end": 1355.84,
+   "text": "among the tents of the Anguttara Nikaya."
+  },
+  {
+   "t": 1356.64,
+   "end": 1357.94,
+   "text": "In that discourse,"
+  },
+  {
+   "t": 1358.18,
+   "end": 1361.14,
+   "text": "the Buddha describes how a long sequence of mental states"
+  },
+  {
+   "t": 1361.14,
+   "end": 1363.2,
+   "text": "is interconnected in a subtle way,"
+  },
+  {
+   "t": 1363.62,
+   "end": 1365.9,
+   "text": "according to the principle of relativity,"
+  },
+  {
+   "t": 1366.4,
+   "end": 1370.2,
+   "text": "leading onwards as far as final deliberance itself."
+  },
+  {
+   "t": 1371.32,
+   "end": 1373.88,
+   "text": "The following section of that long discourse"
+  },
+  {
+   "t": 1373.88,
+   "end": 1375.58,
+   "text": "might suffice as an illustration"
+  },
+  {
+   "t": 1375.58,
+   "end": 1377.38,
+   "text": "of the mutual interconnection"
+  },
+  {
+   "t": 1377.38,
+   "end": 1379.12,
+   "text": "between the mental states in the list."
+  },
+  {
+   "t": 1379.12,
+   "end": 1386.46,
+   "text": "Sīlavato bhikkave sīla sampannasana cita nāyakaraniyaan avipatishārame upanjatūti"
+  },
+  {
+   "t": 1386.46,
+   "end": 1412.5,
+   "text": "Dhammatae sa bhikkave yaṁ sīla sampannasana cita nāyakaraniyaan avipatishārame upanjatūti"
+  },
+  {
+   "t": 1412.5,
+   "end": 1417.46,
+   "text": "Dhammatae sa bhikkave yaṁ pamuritasya pīti upanjati"
+  },
+  {
+   "t": 1417.46,
+   "end": 1447.44,
+   "text": "Dhamma-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-māra-m"
+  },
+  {
+   "t": 1447.44,
+   "end": 1452.46,
+   "text": "To one who is glad, monks, there is no need for an act of will like let joy arise in me."
+  },
+  {
+   "t": 1453.08,
+   "end": 1457.66,
+   "text": "It is in the nature of Dhamma, monks, that joy arises in one who is glad."
+  },
+  {
+   "t": 1459.2,
+   "end": 1461.1,
+   "text": "Comment Translation by Bhikkavodhi"
+  },
+  {
+   "t": 1463.06,
+   "end": 1470.84,
+   "text": "Because for a virtuous person, one whose behavior is virtuous, no volition need be exerted, let non-regret arise in me."
+  },
+  {
+   "t": 1471.5,
+   "end": 1476.96,
+   "text": "It is natural that non-regret arises in a virtuous person, one whose behavior is virtuous."
+  },
+  {
+   "t": 1478.64,
+   "end": 1483.24,
+   "text": "For one without regret, no volition need be exerted, let joy arise in me."
+  },
+  {
+   "t": 1483.64,
+   "end": 1486.98,
+   "text": "It is natural that joy arises in one without regret."
+  },
+  {
+   "t": 1488.14,
+   "end": 1493.08,
+   "text": "For one who is joyful, no volition need be exerted, let rapture arise in me."
+  },
+  {
+   "t": 1493.36,
+   "end": 1496.48,
+   "text": "It is natural that rapture arises in one who is joyful."
+  },
+  {
+   "t": 1497.06,
+   "end": 1497.6,
+   "text": "End of moment."
+  },
+  {
+   "t": 1500.26,
+   "end": 1506.4,
+   "text": "In this way, the Buddha outlines the entire course of training leading up to knowledge and vision of deliverance,"
+  },
+  {
+   "t": 1507.1,
+   "end": 1513.3,
+   "text": "interlacing a long line of mental states in such a way as to seem an almost effortless flow."
+  },
+  {
+   "t": 1514.1,
+   "end": 1518.82,
+   "text": "The profound utterance with which the Buddha sums up this discourse"
+  },
+  {
+   "t": 1518.82,
+   "end": 1524.46,
+   "text": "is itself a tribute to the quality of leading on vatopanayika in this Dhamma."
+  },
+  {
+   "t": 1525.04,
+   "end": 1531.74,
+   "text": "Itiko bhikave dhammava dhamme abhisandhinti, dhammava dhamme paripurati,"
+  },
+  {
+   "t": 1532.38,
+   "end": 1534.68,
+   "text": "appara parang gamanaya."
+  },
+  {
+   "t": 1535.8,
+   "end": 1541.2,
+   "text": "Thus monks mere phenomena flow into other phenomena, mere phenomena fulfill other phenomena,"
+  },
+  {
+   "t": 1541.54,
+   "end": 1544.9,
+   "text": "in the process of going from the not beyond to the beyond."
+  },
+  {
+   "t": 1545.76,
+   "end": 1548.14,
+   "text": "Comment translation by Bhikkhu Bodhi."
+  },
+  {
+   "t": 1548.5,
+   "end": 1552.14,
+   "text": "Thus bhikkhu's one stage flows into the next stage."
+  },
+  {
+   "t": 1552.58,
+   "end": 1558.46,
+   "text": "One stage fills up to the next stage, for going from the near shore to the far shore."
+  },
+  {
+   "t": 1560.14,
+   "end": 1561.26,
+   "text": "End of comment."
+  },
+  {
+   "t": 1562.36,
+   "end": 1566.88,
+   "text": "So then, in the last analysis, it is only a question of phenomenon."
+  },
+  {
+   "t": 1567.28,
+   "end": 1569.46,
+   "text": "There is no I or mine involved."
+  },
+  {
+   "t": 1570.24,
+   "end": 1576.76,
+   "text": "That push, that impetus, leading to Nibbana, it seems, is found ingrained in the Dhamma itself."
+  },
+  {
+   "t": 1578.12,
+   "end": 1584.54,
+   "text": "Not only the term Upanaika, all the six terms used to qualify the Dhamma are highly significant."
+  },
+  {
+   "t": 1585.32,
+   "end": 1587.64,
+   "text": "They are also interconnected in meaning."
+  },
+  {
+   "t": 1588.18,
+   "end": 1593.16,
+   "text": "That is why, very often, in explaining one term, others are dragged in."
+  },
+  {
+   "t": 1594.22,
+   "end": 1598.7,
+   "text": "Sometimes the questioner is concerned only about the meaning of the term Sandhittika."
+  },
+  {
+   "t": 1599.3,
+   "end": 1603.08,
+   "text": "But the Buddha presents to him all the six qualities of the Dhamma."
+  },
+  {
+   "t": 1603.76,
+   "end": 1609.38,
+   "text": "In discourses like Mahatanna, Sankaya Sutta, the emphasis is on the term Upanaika."
+  },
+  {
+   "t": 1610.2,
+   "end": 1616.94,
+   "text": "But there too, the Buddha brings in all the six terms, because they are associated in sense."
+  },
+  {
+   "t": 1618.14,
+   "end": 1622.74,
+   "text": "Let us now examine how these six epithets are associated in sense."
+  },
+  {
+   "t": 1624.12,
+   "end": 1634.14,
+   "text": "The usual explanation of Svakkhata, well-preached, is that the Dhamma has been preached by the Buddha properly,"
+  },
+  {
+   "t": 1634.54,
+   "end": 1638.72,
+   "text": "intoned, with perfect symmetry, as to the letter and to the spirit."
+  },
+  {
+   "t": 1639.24,
+   "end": 1643.2,
+   "text": "Excellent in the beginning, excellent in the middle, and excellent in the end."
+  },
+  {
+   "t": 1644.18,
+   "end": 1649.92,
+   "text": "But the true meaning of Svakkhata emerges when examined from the point of view of practice."
+  },
+  {
+   "t": 1651.08,
+   "end": 1657.76,
+   "text": "The quality of being visible here and now, Sandhittika, that is not found in an ill-preached doctrine,"
+  },
+  {
+   "t": 1657.98,
+   "end": 1662.5,
+   "text": "Dura-Khata-Dhamma, is to be found in this well-preached Dhamma."
+  },
+  {
+   "t": 1663.34,
+   "end": 1667.92,
+   "text": "Whereas an ill-preached doctrine only promises a goal attainable in the next world,"
+  },
+  {
+   "t": 1668.4,
+   "end": 1672.98,
+   "text": "the well-preached Dhamma points to a goal attainable in this world itself."
+  },
+  {
+   "t": 1674.06,
+   "end": 1680.88,
+   "text": "Therefore, we have to understand the full input of the epithet Svakkhata in relation to the next quality,"
+  },
+  {
+   "t": 1681.12,
+   "end": 1683.44,
+   "text": "Sandhittika, visible here and now."
+  },
+  {
+   "t": 1684.54,
+   "end": 1691.62,
+   "text": "We have already dealt with this quality to some extent in connection with an episode about General Siha in an earlier sermon."
+  },
+  {
+   "t": 1692.56,
+   "end": 1698.04,
+   "text": "Briefly stated, the meaning of the term Sandhittika is visible here and now in this very life,"
+  },
+  {
+   "t": 1698.32,
+   "end": 1700.54,
+   "text": "as far as the results are concerned."
+  },
+  {
+   "t": 1702.24,
+   "end": 1705.9,
+   "text": "The same idea is conveyed by the expression Dittteva-Dhamma,"
+  },
+  {
+   "t": 1706.04,
+   "end": 1709.3,
+   "text": "often cited with reference to Nibbana in the standard phrase,"
+  },
+  {
+   "t": 1709.74,
+   "end": 1712.82,
+   "text": "Dittteva-Dhamma-Sahing-Abhinyasa-Jikatva,"
+  },
+  {
+   "t": 1713.02,
+   "end": 1717.18,
+   "text": "having realized by one's own higher knowledge in this very life."
+  },
+  {
+   "t": 1718.52,
+   "end": 1722.8,
+   "text": "Whereas Samparayaka stands for what comes after death in another life,"
+  },
+  {
+   "t": 1723.48,
+   "end": 1728.18,
+   "text": "Sandhittika points to the attainability of results in this very life, here and now."
+  },
+  {
+   "t": 1729.04,
+   "end": 1733.22,
+   "text": "The term Sandhittika can be related to the next epithet, Akarika."
+  },
+  {
+   "t": 1734.24,
+   "end": 1739.1,
+   "text": "Since the results are attainable here and now, it does not involve an interval in time."
+  },
+  {
+   "t": 1739.66,
+   "end": 1742.48,
+   "text": "It is, in other words, timeless, Akarika."
+  },
+  {
+   "t": 1743.84,
+   "end": 1749.68,
+   "text": "In our earlier sermons we brought in, as an illustration for this involvement with time,"
+  },
+  {
+   "t": 1750.36,
+   "end": 1755.66,
+   "text": "the period of suspense after an examination these days, awaiting results."
+  },
+  {
+   "t": 1756.7,
+   "end": 1761.9,
+   "text": "Nibbana examination, on the other hand, yields results then and there,"
+  },
+  {
+   "t": 1761.9,
+   "end": 1764.66,
+   "text": "and produces the certificate immediately."
+  },
+  {
+   "t": 1765.72,
+   "end": 1770.7,
+   "text": "So we see the quality visible here now implicating a timelessness."
+  },
+  {
+   "t": 1772.34,
+   "end": 1777.26,
+   "text": "Unfortunately, however, the term Akarika also suffered by much commentarial jargon."
+  },
+  {
+   "t": 1778.1,
+   "end": 1782.28,
+   "text": "Meanings totally foreign to the original sense came to be tagged on,"
+  },
+  {
+   "t": 1782.48,
+   "end": 1786.46,
+   "text": "so much so that it was taken to mean true for all times or eternal."
+  },
+  {
+   "t": 1788.22,
+   "end": 1793.64,
+   "text": "The Samiddhi Sutta in the Devata Samyutta of the Samyutta Nikaya clarifies for us"
+  },
+  {
+   "t": 1793.64,
+   "end": 1795.74,
+   "text": "the original meaning of the term Akarika."
+  },
+  {
+   "t": 1796.66,
+   "end": 1799.68,
+   "text": "One day whenever Samiddhi had a bath,"
+  },
+  {
+   "t": 1799.68,
+   "end": 1799.9,
+   "text": "although Samiddhi has been doing a 11 year old,"
+  },
+  {
+   "t": 1799.9,
+   "end": 1799.98,
+   "text": "it was the case in the BeingAS아 sandbar there,"
+  },
+  {
+   "t": 1800.0,
+   "end": 1805.4,
+   "text": "at the hot springs in Tapodhārāma, and was trying his body outside in the sun."
+  },
+  {
+   "t": 1806.5,
+   "end": 1812.02,
+   "text": "A deity, seeing his handsome body, gave him an advice contrary to the spirit of the Dhamma."
+  },
+  {
+   "t": 1813.02,
+   "end": 1818.2,
+   "text": "Bhunja bhikkū manuṣa ke gāme maṣaditikāṁ hidvā kālikāṁ anu dhāvi"
+  },
+  {
+   "t": 1818.92,
+   "end": 1821.7,
+   "text": "Enjoy among human sensual pleasures."
+  },
+  {
+   "t": 1821.92,
+   "end": 1826.58,
+   "text": "Do not abandon what is visible here and now, and run after what takes time."
+  },
+  {
+   "t": 1827.64,
+   "end": 1829.9,
+   "text": "Comment, translation by Bhikkubodhi."
+  },
+  {
+   "t": 1830.76,
+   "end": 1833.16,
+   "text": "Enjoy human sensual pleasures, Bhikkū."
+  },
+  {
+   "t": 1833.3,
+   "end": 1837.72,
+   "text": "Do not abandon what is directly visible in order to pursue what takes time."
+  },
+  {
+   "t": 1839.42,
+   "end": 1841.72,
+   "text": "And here's the Chinese version."
+  },
+  {
+   "t": 1842.08,
+   "end": 1847.48,
+   "text": "It speaks of the five sensual pleasures, but otherwise makes the same point."
+  },
+  {
+   "t": 1848.92,
+   "end": 1850.04,
+   "text": "End of comment."
+  },
+  {
+   "t": 1852.26,
+   "end": 1856.3,
+   "text": "Manuva Samindhi met the challenge with the following explanatory reply."
+  },
+  {
+   "t": 1882.6,
+   "end": 1886.0,
+   "text": "It is not the case, friend, that I abandon what is visible here."
+  },
+  {
+   "t": 1886.0,
+   "end": 1888.62,
+   "text": "And now in order to run after what involves time."
+  },
+  {
+   "t": 1889.06,
+   "end": 1894.46,
+   "text": "On the contrary, I am abandoning what involves time to run after what is visible here and now."
+  },
+  {
+   "t": 1895.4,
+   "end": 1901.24,
+   "text": "For the fortunate one has said that sensual pleasures are time-involving, fraud with much suffering,"
+  },
+  {
+   "t": 1901.48,
+   "end": 1904.86,
+   "text": "much despair, and that more danger lurks in them."
+  },
+  {
+   "t": 1906.42,
+   "end": 1914.24,
+   "text": "Visible here and now is this timeless, inviting one to come and see, leading one onwards, to be realized personally by the wise."
+  },
+  {
+   "t": 1915.04,
+   "end": 1916.96,
+   "text": "Comment, translation by Bhikkubodhi."
+  },
+  {
+   "t": 1918.68,
+   "end": 1924.08,
+   "text": "I have not abandoned what is directly visible, friend, in order to pursue what takes time."
+  },
+  {
+   "t": 1924.36,
+   "end": 1928.76,
+   "text": "I have abandoned what takes time in order to pursue what is directly visible."
+  },
+  {
+   "t": 1929.44,
+   "end": 1937.2,
+   "text": "For the blessed one, friend, has stated that sensual pleasures are time-consuming, full of suffering, full of despair,"
+  },
+  {
+   "t": 1937.46,
+   "end": 1939.68,
+   "text": "and the danger in them is still greater."
+  },
+  {
+   "t": 1940.14,
+   "end": 1948.18,
+   "text": "While this Dhamma is directly visible, immediate, inviting one to come and see, applicable, to be personally experienced by the wise."
+  },
+  {
+   "t": 1949.54,
+   "end": 1952.42,
+   "text": "And here is the Samyukta Agama version."
+  },
+  {
+   "t": 1952.9,
+   "end": 1958.94,
+   "text": "And it differs in so far as we have the deity asking a question."
+  },
+  {
+   "t": 1959.18,
+   "end": 1965.26,
+   "text": "So when Samyukta Agama states that he is doing the opposite of what the deity thought,"
+  },
+  {
+   "t": 1965.42,
+   "end": 1967.18,
+   "text": "then the deity wants an explanation."
+  },
+  {
+   "t": 1968.14,
+   "end": 1978.4,
+   "text": "How is it that you have given up what is not time, the pleasure, and attained the pleasure of the present moment?"
+  },
+  {
+   "t": 1979.44,
+   "end": 1988.82,
+   "text": "And then Menom Samyukta Agama gives a similar explanation about the sensual pleasures, being of time."
+  },
+  {
+   "t": 1994.38,
+   "end": 2004.96,
+   "text": "And about the Dhamma, he doesn't list the standard qualities of the Dhamma, but just describes in what sense that one can realize it by oneself is also there."
+  },
+  {
+   "t": 2007.0,
+   "end": 2008.02,
+   "text": "End of comment."
+  },
+  {
+   "t": 2009.32,
+   "end": 2015.12,
+   "text": "This explanation makes it clear that the two terms, Sanditika and Akarnika, are allied in meaning."
+  },
+  {
+   "t": 2015.12,
+   "end": 2020.12,
+   "text": "That is why Sanditika is contrasted with Kalika in the above dialogue."
+  },
+  {
+   "t": 2020.76,
+   "end": 2023.92,
+   "text": "What comes after death is Kalika, involving time."
+  },
+  {
+   "t": 2024.54,
+   "end": 2026.68,
+   "text": "It may come or may not come."
+  },
+  {
+   "t": 2027.08,
+   "end": 2028.72,
+   "text": "One cannot be certain about it."
+  },
+  {
+   "t": 2029.5,
+   "end": 2033.56,
+   "text": "But of what is visible here and now, in this very life, one can be certain."
+  },
+  {
+   "t": 2034.0,
+   "end": 2035.26,
+   "text": "There is no time gap."
+  },
+  {
+   "t": 2035.74,
+   "end": 2036.96,
+   "text": "It is timeless."
+  },
+  {
+   "t": 2039.02,
+   "end": 2043.98,
+   "text": "The epitheta Kalika is implicitly connected with the next epithet, Eipasika."
+  },
+  {
+   "t": 2045.12,
+   "end": 2050.78,
+   "text": "If the result can be seen here and now, without involving time, there is good reason for the challenge."
+  },
+  {
+   "t": 2050.9,
+   "end": 2051.42,
+   "text": "Come and see."
+  },
+  {
+   "t": 2052.36,
+   "end": 2057.8,
+   "text": "If the result can only be seen in the next world, all one can see is go and see."
+  },
+  {
+   "t": 2059.42,
+   "end": 2062.7,
+   "text": "As a matter of fact, it is not the Buddha who says come and see."
+  },
+  {
+   "t": 2062.88,
+   "end": 2065.16,
+   "text": "It is the Dhamma itself that makes this challenge."
+  },
+  {
+   "t": 2066.18,
+   "end": 2070.18,
+   "text": "That is why the term Eipasika is regarded as an epithet of the Dhamma."
+  },
+  {
+   "t": 2070.18,
+   "end": 2073.82,
+   "text": "Dhamma itself invites the wise to come and see."
+  },
+  {
+   "t": 2074.8,
+   "end": 2081.6,
+   "text": "Those who took up the challenge right in earnest have proved for themselves the realisable nature of the Dhamma,"
+  },
+  {
+   "t": 2081.8,
+   "end": 2084.8,
+   "text": "which is the justification for the last epithet,"
+  },
+  {
+   "t": 2084.94,
+   "end": 2087.3,
+   "text": "Pachatang Veditabbovinyuhi,"
+  },
+  {
+   "t": 2087.3,
+   "end": 2090.84,
+   "text": "to be experienced by the wise, each one by oneself."
+  },
+  {
+   "t": 2091.86,
+   "end": 2095.84,
+   "text": "The inviting nature of the Dhamma leads to a personal experience,"
+  },
+  {
+   "t": 2096.08,
+   "end": 2099.46,
+   "text": "and that highlights the Upanayika quality of leading onwards."
+  },
+  {
+   "t": 2100.4,
+   "end": 2101.68,
+   "text": "True to the statement,"
+  },
+  {
+   "t": 2101.92,
+   "end": 2105.02,
+   "text": "Tatha Tatha Viharantang Tathathai Upanesati,"
+  },
+  {
+   "t": 2105.02,
+   "end": 2111.18,
+   "text": "the Dhamma leads him onwards to appropriate states as he lives according to it."
+  },
+  {
+   "t": 2112.84,
+   "end": 2116.92,
+   "text": "Sometimes the Buddha sums up the entire body of Dhamma he has preached"
+  },
+  {
+   "t": 2116.92,
+   "end": 2120.88,
+   "text": "in terms of the 37 participative factors of enlightenment."
+  },
+  {
+   "t": 2121.98,
+   "end": 2124.12,
+   "text": "Particularly in the Mahaparinibbana Sutta,"
+  },
+  {
+   "t": 2124.26,
+   "end": 2127.68,
+   "text": "we find him addressing the monks in the following memorable words."
+  },
+  {
+   "t": 2127.68,
+   "end": 2130.04,
+   "text": "Tathamathya Bhikave,"
+  },
+  {
+   "t": 2130.16,
+   "end": 2132.5,
+   "text": "yeti maya dhamma bhiñya desita,"
+  },
+  {
+   "t": 2132.72,
+   "end": 2134.62,
+   "text": "tevo saadukam ugahitva,"
+  },
+  {
+   "t": 2134.82,
+   "end": 2135.8,
+   "text": "asevi tabba,"
+  },
+  {
+   "t": 2135.92,
+   "end": 2136.68,
+   "text": "bhavitabba,"
+  },
+  {
+   "t": 2136.74,
+   "end": 2137.66,
+   "text": "bhavitabba, bhavulika tabba,"
+  },
+  {
+   "t": 2138.26,
+   "end": 2140.04,
+   "text": "yatayidang brahmachariyam,"
+  },
+  {
+   "t": 2140.14,
+   "end": 2141.08,
+   "text": "adhaniyam,"
+  },
+  {
+   "t": 2141.2,
+   "end": 2142.9,
+   "text": "sachiratnitigam,"
+  },
+  {
+   "t": 2143.56,
+   "end": 2145.16,
+   "text": "tatasabhaujana hitaya,"
+  },
+  {
+   "t": 2145.3,
+   "end": 2146.22,
+   "text": "bhaujana sukaya,"
+  },
+  {
+   "t": 2146.34,
+   "end": 2147.34,
+   "text": "lokalukampay,"
+  },
+  {
+   "t": 2147.52,
+   "end": 2148.62,
+   "text": "atthaya hitaya,"
+  },
+  {
+   "t": 2148.8,
+   "end": 2150.18,
+   "text": "sukaya devamanushanan."
+  },
+  {
+   "t": 2173.7,
+   "end": 2174.52,
+   "text": "Sayatidang,"
+  },
+  {
+   "t": 2174.52,
+   "end": 2176.8,
+   "text": "chattara satipatthana,"
+  },
+  {
+   "t": 2176.92,
+   "end": 2178.94,
+   "text": "chattara samabhadhana,"
+  },
+  {
+   "t": 2179.14,
+   "end": 2181.0,
+   "text": "chattara indipada,"
+  },
+  {
+   "t": 2181.9,
+   "end": 2182.66,
+   "text": "panchindriyani,"
+  },
+  {
+   "t": 2183.24,
+   "end": 2184.1,
+   "text": "panchapallani,"
+  },
+  {
+   "t": 2184.52,
+   "end": 2185.52,
+   "text": "sattapodhanjanga,"
+  },
+  {
+   "t": 2185.76,
+   "end": 2187.42,
+   "text": "aryo attangiko mango."
+  },
+  {
+   "t": 2188.42,
+   "end": 2189.56,
+   "text": "Therefore monks,"
+  },
+  {
+   "t": 2189.84,
+   "end": 2192.66,
+   "text": "whatever Dhammas I have preached with higher knowledge,"
+  },
+  {
+   "t": 2193.0,
+   "end": 2195.98,
+   "text": "you should cultivate, develop and practice thoroughly,"
+  },
+  {
+   "t": 2196.28,
+   "end": 2200.86,
+   "text": "so that this holy life would last long and endure for a long time."
+  },
+  {
+   "t": 2201.7,
+   "end": 2204.62,
+   "text": "Thereby conducing to the well-being and happiness of many,"
+  },
+  {
+   "t": 2204.86,
+   "end": 2206.78,
+   "text": "out of compassion for the world,"
+  },
+  {
+   "t": 2206.98,
+   "end": 2210.8,
+   "text": "for the benefit, the well-being and the happiness of gods and men."
+  },
+  {
+   "t": 2211.72,
+   "end": 2215.46,
+   "text": "And what monks are those Dhammas I have preached with higher knowledge,"
+  },
+  {
+   "t": 2215.62,
+   "end": 2218.48,
+   "text": "that you should cultivate, develop and practice thoroughly,"
+  },
+  {
+   "t": 2219.94,
+   "end": 2223.84,
+   "text": "so that this holy life would last long and endure for a long time,"
+  },
+  {
+   "t": 2224.36,
+   "end": 2227.28,
+   "text": "thereby conducing to the well-being and happiness of many,"
+  },
+  {
+   "t": 2227.5,
+   "end": 2229.22,
+   "text": "out of compassion for the world,"
+  },
+  {
+   "t": 2229.22,
+   "end": 2232.68,
+   "text": "for the benefit, the well-being and the happiness of gods and men."
+  },
+  {
+   "t": 2233.38,
+   "end": 2235.8,
+   "text": "They are the four foundations of mindfulness,"
+  },
+  {
+   "t": 2236.08,
+   "end": 2237.08,
+   "text": "the four wide endeavors,"
+  },
+  {
+   "t": 2237.5,
+   "end": 2239.36,
+   "text": "the four bases for success,"
+  },
+  {
+   "t": 2239.6,
+   "end": 2241.82,
+   "text": "the five faculties, the five powers,"
+  },
+  {
+   "t": 2242.02,
+   "end": 2243.42,
+   "text": "the seven factors of enlightenment,"
+  },
+  {
+   "t": 2243.8,
+   "end": 2245.36,
+   "text": "and the noble Eightfold Path."
+  },
+  {
+   "t": 2247.52,
+   "end": 2250.42,
+   "text": "Comment Translation by Maurice Walsh"
+  },
+  {
+   "t": 2250.42,
+   "end": 2252.2,
+   "text": "Monks, for this reason,"
+  },
+  {
+   "t": 2252.22,
+   "end": 2254.9,
+   "text": "those methods which I have discovered and proclaimed"
+  },
+  {
+   "t": 2254.9,
+   "end": 2256.6,
+   "text": "should be thoroughly learned by you,"
+  },
+  {
+   "t": 2256.84,
+   "end": 2258.54,
+   "text": "practiced, developed and cultivated."
+  },
+  {
+   "t": 2259.22,
+   "end": 2262.1,
+   "text": "So that this holy life may endure for a long time,"
+  },
+  {
+   "t": 2262.78,
+   "end": 2266.08,
+   "text": "that it may be for the benefit and happiness of the multitude,"
+  },
+  {
+   "t": 2266.42,
+   "end": 2268.1,
+   "text": "out of compassion for the world,"
+  },
+  {
+   "t": 2268.3,
+   "end": 2271.24,
+   "text": "for the benefit and happiness of devas and humans."
+  },
+  {
+   "t": 2271.68,
+   "end": 2273.24,
+   "text": "And what are those matters?"
+  },
+  {
+   "t": 2274.12,
+   "end": 2276.28,
+   "text": "They are the four foundations of mindfulness,"
+  },
+  {
+   "t": 2276.52,
+   "end": 2277.42,
+   "text": "the four right efforts,"
+  },
+  {
+   "t": 2278.1,
+   "end": 2279.7,
+   "text": "the four roads to power,"
+  },
+  {
+   "t": 2279.92,
+   "end": 2281.6,
+   "text": "the five spiritual faculties,"
+  },
+  {
+   "t": 2281.6,
+   "end": 2282.92,
+   "text": "the five mental powers,"
+  },
+  {
+   "t": 2283.34,
+   "end": 2284.54,
+   "text": "the seven factors of enlightenment,"
+  },
+  {
+   "t": 2284.88,
+   "end": 2286.34,
+   "text": "and the noble Eightfold Path."
+  },
+  {
+   "t": 2288.62,
+   "end": 2293.92,
+   "text": "And here I have just given the Dirga-Agama parallel,"
+  },
+  {
+   "t": 2294.32,
+   "end": 2296.34,
+   "text": "a survey of all the parallels can be found"
+  },
+  {
+   "t": 2296.34,
+   "end": 2298.94,
+   "text": "in the comparative study by Ernst Waldschmidt."
+  },
+  {
+   "t": 2299.9,
+   "end": 2304.64,
+   "text": "And the interesting thing is that"
+  },
+  {
+   "t": 2304.64,
+   "end": 2309.26,
+   "text": "in those of you who can be Chinese,"
+  },
+  {
+   "t": 2309.5,
+   "end": 2310.26,
+   "text": "in the second line,"
+  },
+  {
+   "t": 2311.3,
+   "end": 2312.68,
+   "text": "the second group,"
+  },
+  {
+   "t": 2312.9,
+   "end": 2313.96,
+   "text": "these two characters,"
+  },
+  {
+   "t": 2314.36,
+   "end": 2316.1,
+   "text": "these are the four jhanas."
+  },
+  {
+   "t": 2317.22,
+   "end": 2321.12,
+   "text": "And this is a standard addition we find"
+  },
+  {
+   "t": 2321.12,
+   "end": 2323.74,
+   "text": "in some listings of what later tradition"
+  },
+  {
+   "t": 2323.74,
+   "end": 2325.52,
+   "text": "calls the Bodhi-Pakya-Dhammas,"
+  },
+  {
+   "t": 2325.74,
+   "end": 2328.96,
+   "text": "that the four absorptions are also added in."
+  },
+  {
+   "t": 2329.34,
+   "end": 2332.1,
+   "text": "So we have the four Satipatthanas,"
+  },
+  {
+   "t": 2333.14,
+   "end": 2335.7,
+   "text": "the four right efforts,"
+  },
+  {
+   "t": 2335.96,
+   "end": 2339.18,
+   "text": "mistranslated here as Pahana instead of Pahana."
+  },
+  {
+   "t": 2339.78,
+   "end": 2343.52,
+   "text": "The four basis of successes,"
+  },
+  {
+   "t": 2343.52,
+   "end": 2344.94,
+   "text": "when Yana-Nana translates,"
+  },
+  {
+   "t": 2345.24,
+   "end": 2347.76,
+   "text": "is usually translated as the four roles"
+  },
+  {
+   "t": 2347.76,
+   "end": 2348.86,
+   "text": "to supernormal power."
+  },
+  {
+   "t": 2349.08,
+   "end": 2350.6,
+   "text": "And then we get the four absorptions."
+  },
+  {
+   "t": 2351.44,
+   "end": 2352.96,
+   "text": "Then the five faculties,"
+  },
+  {
+   "t": 2353.12,
+   "end": 2353.88,
+   "text": "the five powers,"
+  },
+  {
+   "t": 2354.12,
+   "end": 2355.36,
+   "text": "the seven awakening factors,"
+  },
+  {
+   "t": 2355.6,
+   "end": 2356.7,
+   "text": "and the noble Eightfold Path."
+  },
+  {
+   "t": 2358.54,
+   "end": 2360.32,
+   "text": "And the listing in itself"
+  },
+  {
+   "t": 2361.6,
+   "end": 2364.56,
+   "text": "seems to have gone through stages of expansion."
+  },
+  {
+   "t": 2364.56,
+   "end": 2367.66,
+   "text": "And this is one where we can see variations"
+  },
+  {
+   "t": 2367.66,
+   "end": 2369.84,
+   "text": "between different Agama traditions."
+  },
+  {
+   "t": 2372.58,
+   "end": 2373.62,
+   "text": "End of comment."
+  },
+  {
+   "t": 2375.14,
+   "end": 2376.96,
+   "text": "This group of Dhammas,"
+  },
+  {
+   "t": 2377.18,
+   "end": 2380.04,
+   "text": "collectively known as the 37 participative factors"
+  },
+  {
+   "t": 2380.04,
+   "end": 2380.82,
+   "text": "of enlightenment,"
+  },
+  {
+   "t": 2381.48,
+   "end": 2383.7,
+   "text": "illustrates the quality of leading onwards,"
+  },
+  {
+   "t": 2383.96,
+   "end": 2385.3,
+   "text": "according to the twin principles"
+  },
+  {
+   "t": 2385.3,
+   "end": 2386.88,
+   "text": "of relativity and pragmatism."
+  },
+  {
+   "t": 2388.0,
+   "end": 2390.8,
+   "text": "It is customary in the present age"
+  },
+  {
+   "t": 2390.8,
+   "end": 2391.92,
+   "text": "to define the Dhamma"
+  },
+  {
+   "t": 2391.92,
+   "end": 2393.34,
+   "text": "from an academic point of view"
+  },
+  {
+   "t": 2393.34,
+   "end": 2396.3,
+   "text": "as constituating a sect of canonical texts."
+  },
+  {
+   "t": 2396.88,
+   "end": 2398.24,
+   "text": "But here in this context,"
+  },
+  {
+   "t": 2398.4,
+   "end": 2399.92,
+   "text": "in the Mahaparinibbana Sutta,"
+  },
+  {
+   "t": 2400.0,
+   "end": 2410.74,
+   "text": "At such a crucial juncture as the final passing away, we find the Buddha defining the Dhamma from a practical point of view, laying emphasis on the practice."
+  },
+  {
+   "t": 2411.7,
+   "end": 2417.62,
+   "text": "It is as if the Buddha is entrusting to the monks a toolkit before his departure."
+  },
+  {
+   "t": 2419.08,
+   "end": 2426.74,
+   "text": "The 37 participative factors of enlightenment are comparable to a toolkit, or rather an assemblage of 7 toolkits."
+  },
+  {
+   "t": 2426.74,
+   "end": 2433.14,
+   "text": "Each of these 7 is well arranged with an inner consistency. Let us now examine them."
+  },
+  {
+   "t": 2436.08,
+   "end": 2438.92,
+   "text": "First comes the 4 foundations of mindfulness."
+  },
+  {
+   "t": 2440.14,
+   "end": 2444.88,
+   "text": "This group of Dhammas deserves pride of place due to its fundamental importance."
+  },
+  {
+   "t": 2446.78,
+   "end": 2455.6,
+   "text": "The term Satipatthana has been variously interpreted by scholars, some with reference to the term Patthana and others connecting it with Upatthana."
+  },
+  {
+   "t": 2455.6,
+   "end": 2462.42,
+   "text": "It seems more natural to associate it with the word Patthana, foundation, as the basis for the practice."
+  },
+  {
+   "t": 2463.78,
+   "end": 2472.46,
+   "text": "Comment here, this suggestion I found is surprising, because pretty much all of the evidence we have points in the opposite direction."
+  },
+  {
+   "t": 2473.02,
+   "end": 2477.82,
+   "text": "In fact, the word Patthana is not found in the suttas, it only occurs in the Abhidharma."
+  },
+  {
+   "t": 2478.72,
+   "end": 2487.56,
+   "text": "As one of two additional readings for this lecture, I will be uploading my Satipatthana, the direct path to realization."
+  },
+  {
+   "t": 2488.46,
+   "end": 2492.94,
+   "text": "On page 29 following, you can find the relevant discussion."
+  },
+  {
+   "t": 2495.16,
+   "end": 2506.68,
+   "text": "But boarding method just very simply, as the venerable, in fact, quotes right after the usual verb used in relation to Satis, Upatthita Sati."
+  },
+  {
+   "t": 2506.82,
+   "end": 2511.64,
+   "text": "We have here the expression, which again points to Upatthana."
+  },
+  {
+   "t": 2511.64,
+   "end": 2515.76,
+   "text": "And we also find that in the Sanskrit Smirti Upatthana."
+  },
+  {
+   "t": 2516.82,
+   "end": 2525.78,
+   "text": "And so the emphasis with Upatthana, with the Upatthana derivation, is more on the establishing of mindfulness."
+  },
+  {
+   "t": 2526.12,
+   "end": 2527.94,
+   "text": "It is more on the attitude."
+  },
+  {
+   "t": 2528.58,
+   "end": 2535.06,
+   "text": "Whereas with Patthana, the emphasis is more on what is the object, the foundation for mindfulness."
+  },
+  {
+   "t": 2536.18,
+   "end": 2553.46,
+   "text": "And I assume that the Patthana derivation, which is the one favored by the commentaries, relates to this overall thrust in later Theravada exegesis of being very much concerned with objects."
+  },
+  {
+   "t": 2554.72,
+   "end": 2558.3,
+   "text": "Satipatthana then is the question, what are the objects of Satipatthana?"
+  },
+  {
+   "t": 2559.68,
+   "end": 2562.5,
+   "text": "And you get that in various ways."
+  },
+  {
+   "t": 2562.5,
+   "end": 2568.24,
+   "text": "It's a common experience when working with a Theravada, traditional Theravada meditation teacher."
+  },
+  {
+   "t": 2569.68,
+   "end": 2574.64,
+   "text": "Any experience related, the teacher will immediately quip back, what was the object?"
+  },
+  {
+   "t": 2574.88,
+   "end": 2576.08,
+   "text": "What is the object of the mind?"
+  },
+  {
+   "t": 2576.74,
+   "end": 2581.52,
+   "text": "There is an, I think it can call it an obsession."
+  },
+  {
+   "t": 2582.84,
+   "end": 2584.66,
+   "text": "Yeah, it's almost an obsession."
+  },
+  {
+   "t": 2585.06,
+   "end": 2589.16,
+   "text": "Obsession is a little bit too strong, but I don't come up with a better term right now."
+  },
+  {
+   "t": 2589.32,
+   "end": 2590.58,
+   "text": "So let us leave obsession."
+  },
+  {
+   "t": 2590.58,
+   "end": 2593.66,
+   "text": "And there's an obsession with object."
+  },
+  {
+   "t": 2594.02,
+   "end": 2598.44,
+   "text": "An obsession with immediately establishing the subject-object duality."
+  },
+  {
+   "t": 2598.66,
+   "end": 2605.3,
+   "text": "That does not leave any room for experiences where this is not so prominent."
+  },
+  {
+   "t": 2606.36,
+   "end": 2620.92,
+   "text": "And this is interesting because we get very opposite in Mahayana practice lineages, where there is the whole emphasis on no object, on non-dual, no subject-object duality."
+  },
+  {
+   "t": 2621.78,
+   "end": 2636.52,
+   "text": "And both, in a way, capture only part of what we find in early Buddhism, where at times it is very useful to have this clear-cut subject object duality, to have that clear understanding."
+  },
+  {
+   "t": 2636.52,
+   "end": 2640.0,
+   "text": "But at other times, the non-dual also has its place."
+  },
+  {
+   "t": 2641.84,
+   "end": 2657.58,
+   "text": "And so with coming back to Satipatthana, I really, I was very surprised to find Mahayana Nanda going for the commentarial explanation, which is also not in keeping with the etymology that we know."
+  },
+  {
+   "t": 2658.88,
+   "end": 2668.24,
+   "text": "And it also doesn't work so well with the fact that Satipatthana, they are not only the four, body, feeling, tone, mind and dharmas."
+  },
+  {
+   "t": 2668.24,
+   "end": 2676.28,
+   "text": "There's another way, in that very Salayatanavya Bhangasutta, actually, three Satipatthanas practiced by the Buddha."
+  },
+  {
+   "t": 2678.0,
+   "end": 2693.22,
+   "text": "And here, the object, if we can call it such, doesn't really fit smoothly into any of the traditional form because it describes three situations when the Buddha teaches."
+  },
+  {
+   "t": 2694.12,
+   "end": 2695.28,
+   "text": "Everybody listens."
+  },
+  {
+   "t": 2695.72,
+   "end": 2697.14,
+   "text": "Some listen, some don't listen."
+  },
+  {
+   "t": 2697.34,
+   "end": 2698.02,
+   "text": "Nobody listens."
+  },
+  {
+   "t": 2698.78,
+   "end": 2705.16,
+   "text": "And in each of these three situations, the Buddha has the same balanced, equanimous and mindful attitude."
+  },
+  {
+   "t": 2706.5,
+   "end": 2718.92,
+   "text": "So I think this serves as a support-in-support confirmation, as a confirmation that the term Satipatthana is more about the attitude."
+  },
+  {
+   "t": 2720.68,
+   "end": 2726.96,
+   "text": "It is not so much about body, feeling, mind and dharmas, because other objects,"
+  },
+  {
+   "t": 2726.96,
+   "end": 2732.76,
+   "text": "that do not exactly fit into these four categories can also become an object of Satipatthana."
+  },
+  {
+   "t": 2732.76,
+   "end": 2749.5,
+   "text": "It is much more of that combining mindfulness with diligence, in the sense of making effort at its continuity and clear comprehension, that wisdom factor in Sampajana."
+  },
+  {
+   "t": 2749.5,
+   "end": 2758.1,
+   "text": "And this overarching goal of staying away from greedy desires and sadness in the world."
+  },
+  {
+   "t": 2758.1,
+   "end": 2761.38,
+   "text": "is not so much about that."
+  },
+  {
+   "t": 2761.62,
+   "end": 2762.24,
+   "text": "It is much more of that."
+  },
+  {
+   "t": 2762.24,
+   "end": 2766.16,
+   "text": "Even more beautifully explained in the part that I like to call the refrain,"
+  },
+  {
+   "t": 2770.64,
+   "end": 2776.78,
+   "text": "dwelling independently without clinging to anything, I think that is really what Satipatthana is about."
+  },
+  {
+   "t": 2777.82,
+   "end": 2789.36,
+   "text": "And that is where, with the derivation upatthana, establishing the attending, upataka is an attendant, somebody who stands close by."
+  },
+  {
+   "t": 2790.62,
+   "end": 2800.24,
+   "text": "That emphasis on the appropriate attitude, on the collaboration of mental qualities as what makes up Satipatthana can be given more emphasis."
+  },
+  {
+   "t": 2801.84,
+   "end": 2802.92,
+   "text": "End of comment."
+  },
+  {
+   "t": 2804.18,
+   "end": 2809.82,
+   "text": "Upatita Sati is a term for one who has mastered mindfulness, based on the four foundations."
+  },
+  {
+   "t": 2810.3,
+   "end": 2817.18,
+   "text": "As for instance in the aphorism, upatita satta sayang dhammu, nayang dhamma motanta satisam."
+  },
+  {
+   "t": 2817.74,
+   "end": 2822.7,
+   "text": "This dhamma is for one who is attendant by mindfulness, not for one who has lost it."
+  },
+  {
+   "t": 2823.62,
+   "end": 2827.64,
+   "text": "The four foundations themselves exhibit an orderly arrangement."
+  },
+  {
+   "t": 2828.0,
+   "end": 2840.06,
+   "text": "The four are termed kaya nupasana, contemplation on the body, vidana nupasana, contemplation on feelings, chita nupasana, contemplation on the mind, and dhamma nupasana, contemplation on mind objects."
+  },
+  {
+   "t": 2841.9,
+   "end": 2849.56,
+   "text": "So here we have a basis for the exercise of mindfulness beginning with a gross object, gradually leading on to subtle objects."
+  },
+  {
+   "t": 2849.56,
+   "end": 2852.7,
+   "text": "It is easy enough to contemplate on the body."
+  },
+  {
+   "t": 2853.46,
+   "end": 2861.34,
+   "text": "As one goes on setting up mindfulness on the body, one becomes more aware of feelings and makes them too the object of mindfulness."
+  },
+  {
+   "t": 2862.12,
+   "end": 2868.22,
+   "text": "This gradual process need not be interpreted as so many cut and dried separate stages."
+  },
+  {
+   "t": 2868.86,
+   "end": 2874.32,
+   "text": "There is a subtle imperceptible interconnection between these four foundations themselves."
+  },
+  {
+   "t": 2875.2,
+   "end": 2889.44,
+   "text": "To one who has practiced contemplation on the body, not only pleasant and unpleasant feelings, but also neither painful nor pleasant feelings, imperceptible to ordinary people, becomes an object for mindfulness."
+  },
+  {
+   "t": 2889.44,
+   "end": 2896.54,
+   "text": "So also are the subtle distinctions between worldly samisa and unworldly niramisa feelings."
+  },
+  {
+   "t": 2897.7,
+   "end": 2908.36,
+   "text": "As one progresses to chita nupasana, contemplation on the mind, one becomes aware of the color light system of the mind in response to feelings."
+  },
+  {
+   "t": 2908.36,
+   "end": 2918.86,
+   "text": "The alternations between a lustful mind, saragam chita nupasana, a hateful mind, sarosam chita nupasana, and a deluded mind, samvong chita nupasana, as well as their opposites."
+  },
+  {
+   "t": 2919.98,
+   "end": 2930.72,
+   "text": "Further on in his practice, he becomes conversant with the wireings underlying the skull light system of the mind and the know-how necessary for controlling it."
+  },
+  {
+   "t": 2931.26,
+   "end": 2940.2,
+   "text": "With dhammanupasana, he is gaining the skill in avoiding and overcoming negative mental states and encouraging and stabilizing positive mental states."
+  },
+  {
+   "t": 2941.12,
+   "end": 2947.56,
+   "text": "Let us now see whether there is a connection between the four foundations of mindfulness and the four right endeavors."
+  },
+  {
+   "t": 2948.3,
+   "end": 2958.02,
+   "text": "For purposes of illustration, we may take up the substitution on the hindrances included under dhammanupasana, contemplation of mind objects."
+  },
+  {
+   "t": 2958.02,
+   "end": 2959.96,
+   "text": "There we read,"
+  },
+  {
+   "t": 2960.18,
+   "end": 2965.6,
+   "text": "Yatha chanupan nasa kama chandasa umbhadu ho di tanchya paja nati."
+  },
+  {
+   "t": 2965.8,
+   "end": 2970.78,
+   "text": "Yatha chanupan nasa kama chandasa paha nan ho di tanchya paja nati."
+  },
+  {
+   "t": 2971.3,
+   "end": 2980.88,
+   "text": "And he also understands how there comes to be the arising of unarisen sensual desire, and how there comes to be the abandoning of a risen sensual desire."
+  },
+  {
+   "t": 2983.16,
+   "end": 2985.56,
+   "text": "Comment translation by Jnana Modi."
+  },
+  {
+   "t": 2988.9,
+   "end": 2997.32,
+   "text": "He also understands how there comes to be the arising of unarisen sensual desire, and how there comes to be the abandoning of a risen sensual desire."
+  },
+  {
+   "t": 2998.02,
+   "end": 2999.98,
+   "text": "And the Maya Maagama also has ."
+  },
+  {
+   "t": 3000.0,
+   "end": 3007.14,
+   "text": "a similar instruction he knows as it really is how unarisen sensual desire arises and he knows"
+  },
+  {
+   "t": 3007.14,
+   "end": 3015.12,
+   "text": "as it really is how risen sensual desire ceases yeah the ekottarika agama the part of damanopasana"
+  },
+  {
+   "t": 3015.12,
+   "end": 3019.68,
+   "text": "there seems to be some problem so it doesn't have this it only has the hinduances at the outset"
+  },
+  {
+   "t": 3020.4,
+   "end": 3025.66,
+   "text": "it's not very reliable this part of the ekottarika agama parallel to the satipatthana"
+  },
+  {
+   "t": 3025.66,
+   "end": 3033.08,
+   "text": "sutta and i just wanted to comment on the translation of damanopasana as contemplation"
+  },
+  {
+   "t": 3033.08,
+   "end": 3039.18,
+   "text": "on mind objects i don't think that works i don't think the fourth satipatthana is about mind objects"
+  },
+  {
+   "t": 3040.14,
+   "end": 3048.0,
+   "text": "in fact at least when we look at the pali version the it has the five aggregates which are not kind"
+  },
+  {
+   "t": 3048.0,
+   "end": 3053.66,
+   "text": "of mind objects it has the six sense spheres where mind objects is only one out of the six"
+  },
+  {
+   "t": 3054.36,
+   "end": 3060.8,
+   "text": "it simply doesn't work so it's better to translate this contemplation on dharmas and then try to"
+  },
+  {
+   "t": 3060.8,
+   "end": 3068.68,
+   "text": "understand or explain what dharmas are and this is something that will come back soon again"
+  },
+  {
+   "t": 3069.58,
+   "end": 3077.32,
+   "text": "i just wanted to mention that contemplation on mind objects is not a good translation end of comment"
+  },
+  {
+   "t": 3079.1,
+   "end": 3084.54,
+   "text": "these two statements in the subsection on the hindrances could be related to the first two out of the"
+  },
+  {
+   "t": 3084.54,
+   "end": 3085.38,
+   "text": "four right endeavors"
+  },
+  {
+   "t": 3107.2,
+   "end": 3112.66,
+   "text": "for the long-arising of unarisen evil unskillful mental states he arouses a"
+  },
+  {
+   "t": 3112.66,
+   "end": 3119.18,
+   "text": "desire makes an effort puts forth energy makes from the mind and endeavors for the abandoning of"
+  },
+  {
+   "t": 3119.18,
+   "end": 3125.26,
+   "text": "arisen evil unskillful mental states he arouses a desire makes an effort puts forth energy makes from"
+  },
+  {
+   "t": 3125.26,
+   "end": 3134.32,
+   "text": "the mind and endeavors comment translation by bikku nyanamoni here bikku awakens zeal for the"
+  },
+  {
+   "t": 3134.32,
+   "end": 3140.8,
+   "text": "non-arising of unarisen evil unawesome states and he makes effort arouses energy exerts his mind and"
+  },
+  {
+   "t": 3140.8,
+   "end": 3147.86,
+   "text": "strives he awakens zeal for the abandoning of arisen evil unawesome states etc end of comment"
+  },
+  {
+   "t": 3148.82,
+   "end": 3153.52,
+   "text": "the understanding of the hindrances is the precondition for this right endeavor"
+  },
+  {
+   "t": 3154.26,
+   "end": 3159.82,
+   "text": "what we have in the satipatthana sutta is a statement to the effect that one comprehends"
+  },
+  {
+   "t": 3159.82,
+   "end": 3167.94,
+   "text": "paja-nati the way hindrances arise as well as the way they are abandoned right endeavor is already"
+  },
+  {
+   "t": 3167.94,
+   "end": 3175.46,
+   "text": "implicated with mindfulness and full awareness one sees what is happening but that is not all right"
+  },
+  {
+   "t": 3175.46,
+   "end": 3182.52,
+   "text": "endeavor has to step in just as the first two right endeavors are relevant to the subsection on the"
+  },
+  {
+   "t": 3182.52,
+   "end": 3187.96,
+   "text": "hindrances the next two right endeavors could be related to the following two statements in the"
+  },
+  {
+   "t": 3187.96,
+   "end": 3191.92,
+   "text": "subsection on the enlightenment factors in the satipatthana sutta"
+  },
+  {
+   "t": 3191.92,
+   "end": 3210.64,
+   "text": "and he also understands how there comes to be the arising of the unarisen mindfulness enlightenment"
+  },
+  {
+   "t": 3210.64,
+   "end": 3216.66,
+   "text": "factor and how the arisen mindfulness enlightenment factor comes to fulfillment by development"
+  },
+  {
+   "t": 3222.2,
+   "end": 3228.64,
+   "text": "he also understands how there comes to be the arising of the unarisen mindfulness enlightenment factor"
+  },
+  {
+   "t": 3229.7,
+   "end": 3233.82,
+   "text": "and how the arisen mindfulness enlightenment factor comes to fulfillment by development"
+  },
+  {
+   "t": 3234.6,
+   "end": 3242.0,
+   "text": "enter manyama agama he knows as it really is how the unarisen mindfulness awakening factor arises and he"
+  },
+  {
+   "t": 3242.0,
+   "end": 3246.84,
+   "text": "knows as it really is how the arisen mindfulness awakening factor is maintained without loss or"
+  },
+  {
+   "t": 3246.84,
+   "end": 3254.54,
+   "text": "deterioration and how it is further developed and increased end of comment one can compare these two"
+  },
+  {
+   "t": 3254.54,
+   "end": 3259.86,
+   "text": "aspects of the dammanupasana section in the satipatthana sutta with the two right endeavors on the"
+  },
+  {
+   "t": 3259.86,
+   "end": 3268.0,
+   "text": "positive side comment before going into this correlation i just wanted to mention that a comparative"
+  },
+  {
+   "t": 3268.0,
+   "end": 3278.5,
+   "text": "perspective that emerges on studying the satipatthana sutta is very much in line with what venvala nyanananda presents here"
+  },
+  {
+   "t": 3280.64,
+   "end": 3289.14,
+   "text": "strictly speaking the three discourse versions only share the awakening factors under this fourth satipatthana"
+  },
+  {
+   "t": 3290.16,
+   "end": 3299.74,
+   "text": "but as i said previously briefly in the ekotarika agama version of this fourth satipatthana there seems to be"
+  },
+  {
+   "t": 3299.74,
+   "end": 3307.2,
+   "text": "something has gone wrong and my own reconstruction is that the hinduances would have been originally part"
+  },
+  {
+   "t": 3307.2,
+   "end": 3314.14,
+   "text": "of the fourth satipatthana but were then pushed to a different place in the sutta during oral transmission"
+  },
+  {
+   "t": 3314.14,
+   "end": 3321.3,
+   "text": "due to being replaced by the four jhanas the four jhanas is makes no sense under the fourth"
+  },
+  {
+   "t": 3323.12,
+   "end": 3333.14,
+   "text": "satipatthana it's a later introduction and so if we grant this reconstruction we can say that the"
+  },
+  {
+   "t": 3333.14,
+   "end": 3339.24,
+   "text": "contemplation of the hinduances and contemplation of the awakening factors are like the key aspect of"
+  },
+  {
+   "t": 3339.24,
+   "end": 3344.84,
+   "text": "contemplation of the contemplation of dharma if we do not grant the reconstruction i just proposed it"
+  },
+  {
+   "t": 3344.84,
+   "end": 3353.44,
+   "text": "would be just the awakening factors whatever of these two options then does not make a difference in"
+  },
+  {
+   "t": 3353.44,
+   "end": 3361.96,
+   "text": "so far as from a practical viewpoint the cultivation of the awakening factors anyway requires the ability"
+  },
+  {
+   "t": 3361.96,
+   "end": 3370.72,
+   "text": "to stay away to emerge from the hinduances and it also does not make a difference for understanding of"
+  },
+  {
+   "t": 3370.72,
+   "end": 3380.6,
+   "text": "what dhammanupasana here then means dhammanupasana seems to have as its central trust the establishing of"
+  },
+  {
+   "t": 3380.6,
+   "end": 3390.18,
+   "text": "those mental conditions that make awakening possible and done with a particular emphasis on conditionality"
+  },
+  {
+   "t": 3390.18,
+   "end": 3392.78,
+   "text": "on practically working with conditionality"
+  },
+  {
+   "t": 3395.46,
+   "end": 3404.06,
+   "text": "so we have mindfulness exploring experience from the viewpoint of body feeling tone and mind"
+  },
+  {
+   "t": 3404.82,
+   "end": 3411.78,
+   "text": "and then as the rounding of the thrust towards awakening the orientation towards awakening the"
+  },
+  {
+   "t": 3411.78,
+   "end": 3419.84,
+   "text": "establishing of the mental conditions dhammas that make possible the realization of the converging"
+  },
+  {
+   "t": 3419.84,
+   "end": 3426.5,
+   "text": "point of the teachings dhamma that would be my understanding of contemplation of dhammas end of comment"
+  },
+  {
+   "t": 3432.1,
+   "end": 3442.82,
+   "text": "anupanana kusalanang dhammanang upadaya chandang janeti vayamati viriyang harabati chitthang paghanhati padhati"
+  },
+  {
+   "t": 3455.68,
+   "end": 3459.42,
+   "text": "for the arising of the"
+  },
+  {
+   "t": 3459.42,
+   "end": 3464.92,
+   "text": "unarisen skillful mental states he arouses a desire makes an effort puts forth energy makes"
+  },
+  {
+   "t": 3464.92,
+   "end": 3471.76,
+   "text": "firm the mind and endeavors for the stability in non-premise increase amplitude ten fulfillment by"
+  },
+  {
+   "t": 3471.76,
+   "end": 3477.4,
+   "text": "the development of a reason skillful mental states he arouses a desire makes an effort puts"
+  },
+  {
+   "t": 3477.4,
+   "end": 3483.02,
+   "text": "forth energy makes from the mind and endeavors comment translation by bikuni animoni"
+  },
+  {
+   "t": 3484.3,
+   "end": 3490.28,
+   "text": "he awakens zeal for the arising of unarisen whoresome states he awakens zeal for the"
+  },
+  {
+   "t": 3490.28,
+   "end": 3496.0,
+   "text": "continuance non-disappearance strengthening increase and fulfillment by development of"
+  },
+  {
+   "t": 3496.0,
+   "end": 3501.14,
+   "text": "a reason whoresome states and he makes effort to process energy exerts his mind and strives"
+  },
+  {
+   "t": 3502.02,
+   "end": 3508.8,
+   "text": "and just before i forgot to mention that the second additional reading that i will be offering for"
+  },
+  {
+   "t": 3508.8,
+   "end": 3515.22,
+   "text": "this lecture is my comparative study of the satipatthana sutta perspectives on satipatthana and"
+  },
+  {
+   "t": 3515.22,
+   "end": 3521.36,
+   "text": "there is particularly page 174 following where i have this discussion of the heinous and awakening"
+  },
+  {
+   "t": 3521.36,
+   "end": 3530.06,
+   "text": "factors that i just briefly summarized end of comment this is the right endeavor regarding skillful mental"
+  },
+  {
+   "t": 3530.06,
+   "end": 3537.5,
+   "text": "states why we refer to this aspect in particular is that there is at present a tendency among those who"
+  },
+  {
+   "t": 3537.5,
+   "end": 3545.18,
+   "text": "recommend satipatthana meditation to overemphasize the role of attention they seem to assert that"
+  },
+  {
+   "t": 3545.18,
+   "end": 3552.6,
+   "text": "bare attention or noticing is all that is needed the reason for such an attitude is probably the attempt to"
+  },
+  {
+   "t": 3552.6,
+   "end": 3559.78,
+   "text": "specialize in satipatthana in isolation without reference to the rest of 37 participatory factors of"
+  },
+  {
+   "t": 3559.78,
+   "end": 3567.44,
+   "text": "enlightenment common yeah i find this a very important point there is certainly a place for"
+  },
+  {
+   "t": 3567.44,
+   "end": 3574.38,
+   "text": "bare attention and this just noting is an important dimension of satipatthana meditation but to reduce"
+  },
+  {
+   "t": 3574.38,
+   "end": 3583.26,
+   "text": "satipatthana to just that is really missing out on the context end of comment the seven toolkits are"
+  },
+  {
+   "t": 3583.26,
+   "end": 3590.38,
+   "text": "interconnected from the satipatthana toolkit the samappadthana toolkit comes out as a matter of cause"
+  },
+  {
+   "t": 3591.1,
+   "end": 3598.2,
+   "text": "that is why bare attention is not the be-all and end-all of it proper attention is actually the basis for"
+  },
+  {
+   "t": 3598.2,
+   "end": 3598.66,
+   "text": "right endeavor"
+  },
+  {
+   "t": 3599.42,
+   "end": 3599.98,
+   "text": "you"
+  },
+  {
+   "t": 3600.0,
+   "end": 3605.5,
+   "text": "Even when a machine is out of order, there is a need for tightening or loosening somewhere."
+  },
+  {
+   "t": 3606.74,
+   "end": 3611.08,
+   "text": "But first of all, one has to mindfully scan or scrutinize it."
+  },
+  {
+   "t": 3612.18,
+   "end": 3616.64,
+   "text": "That is why there is no explicit reference to effort in the Satipatthana Sutta."
+  },
+  {
+   "t": 3618.26,
+   "end": 3626.48,
+   "text": "I think when Vijnananda means right effort, there is no explicit mention in the sense of an effort that intervenes and does something."
+  },
+  {
+   "t": 3626.48,
+   "end": 3635.0,
+   "text": "I mean, we have our atapi in the definition formula, which I like to translate as diligent, but usually it's translated as ardently."
+  },
+  {
+   "t": 3635.58,
+   "end": 3637.32,
+   "text": "But that is not the point."
+  },
+  {
+   "t": 3637.6,
+   "end": 3650.76,
+   "text": "The point I think when Vijnananda is making here is that there is no, that the instruction in Satipatthana are about uninvolved observation, not about making an active effort to intervene and do something."
+  },
+  {
+   "t": 3652.5,
+   "end": 3653.42,
+   "text": "End of comment."
+  },
+  {
+   "t": 3654.32,
+   "end": 3661.44,
+   "text": "But based on that scrutiny, the forward-right endeavors play their role in regard to unskillful and skillful mental states."
+  },
+  {
+   "t": 3662.0,
+   "end": 3667.6,
+   "text": "So we see the close relationship between the four foundations of mindfulness and the forward-right efforts."
+  },
+  {
+   "t": 3668.54,
+   "end": 3675.2,
+   "text": "It is also interesting to examine the relationship between the forward-right endeavors and the four paths to success."
+  },
+  {
+   "t": 3675.82,
+   "end": 3687.8,
+   "text": "We have already quoted a phrase that is commonly used with reference to all the forward-right endeavors, namely Chandang-ja-neti, Vaya-yamati, Vyaniya-ang-arabati, Chittang-pakan-hati, Paddha-ati."
+  },
+  {
+   "t": 3688.48,
+   "end": 3693.36,
+   "text": "Arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavors."
+  },
+  {
+   "t": 3694.2,
+   "end": 3701.48,
+   "text": "Here we have a string of terms, suggestive of striving, systematically arranged in an ascending order."
+  },
+  {
+   "t": 3702.46,
+   "end": 3706.4,
+   "text": "Chandang-ja-neti refers to the interest or the desire to act."
+  },
+  {
+   "t": 3707.0,
+   "end": 3710.1,
+   "text": "Vaya-yamati suggests effort to exercise."
+  },
+  {
+   "t": 3711.1,
+   "end": 3714.84,
+   "text": "Vitya-ang-arabati has to do with the initial application of energy."
+  },
+  {
+   "t": 3714.84,
+   "end": 3719.26,
+   "text": "Chittang-pakan-hati stands for that firmness of resolve, of grit."
+  },
+  {
+   "t": 3719.94,
+   "end": 3723.94,
+   "text": "Paddha-ati signifies the final all-out effort or endeavor."
+  },
+  {
+   "t": 3726.88,
+   "end": 3734.92,
+   "text": "I appreciate the point Vanyana Randa makes, and here we'll be soon giving a very nice illustration there."
+  },
+  {
+   "t": 3735.16,
+   "end": 3745.64,
+   "text": "I just wanted to say in general that this string of terms is a very common feature of early Buddhist oral transmission."
+  },
+  {
+   "t": 3745.64,
+   "end": 3757.98,
+   "text": "And it is simply a way of making sure that the basic meaning is understood by the audience and preserved during oral transmission by repetition."
+  },
+  {
+   "t": 3758.38,
+   "end": 3770.42,
+   "text": "It does not necessarily mean that there's like a particularly deep sense and that every word used in such a string must have something additional to say."
+  },
+  {
+   "t": 3770.42,
+   "end": 3775.98,
+   "text": "It can just be a string of terms to express one single basic meaning."
+  },
+  {
+   "t": 3777.16,
+   "end": 3778.18,
+   "text": "End of command."
+  },
+  {
+   "t": 3780.38,
+   "end": 3784.82,
+   "text": "These terms more or less delineate various stages in a progressive effort."
+  },
+  {
+   "t": 3785.62,
+   "end": 3794.02,
+   "text": "One who practices the four right endeavors in course of time specializes in one or the other of the four bases for success in Deepada."
+  },
+  {
+   "t": 3794.48,
+   "end": 3799.04,
+   "text": "That is why the four bases for success are traceable to the four right endeavors."
+  },
+  {
+   "t": 3799.9,
+   "end": 3806.04,
+   "text": "To illustrate the connection between the right endeavors and the four bases for success, let us take up a simile."
+  },
+  {
+   "t": 3807.06,
+   "end": 3810.68,
+   "text": "Suppose there's a rock which we want to get out of our way."
+  },
+  {
+   "t": 3811.06,
+   "end": 3812.7,
+   "text": "We wish to topple it over."
+  },
+  {
+   "t": 3813.44,
+   "end": 3821.04,
+   "text": "Since our wishing it away is not enough, we put some kind of lever underneath it and see whether it responds to our wish."
+  },
+  {
+   "t": 3822.12,
+   "end": 3831.32,
+   "text": "Even if the rock is unusually obstinate, we at least give our shoulders an exercise, vāyamati, in preparation for the effort."
+  },
+  {
+   "t": 3832.52,
+   "end": 3837.3,
+   "text": "Once we are ready, we heave slowly, slowly, vīri and ārābati."
+  },
+  {
+   "t": 3838.26,
+   "end": 3843.5,
+   "text": "But then it looks as if the rock is precariously balanced, threatening to roll back."
+  },
+  {
+   "t": 3844.08,
+   "end": 3847.12,
+   "text": "So we grit our teeth and make a firm resolve."
+  },
+  {
+   "t": 3847.3,
+   "end": 3848.62,
+   "text": "Čītāng-pākān-hāti"
+  },
+  {
+   "t": 3849.36,
+   "end": 3852.16,
+   "text": "Now comes the last decisive spurt."
+  },
+  {
+   "t": 3852.54,
+   "end": 3861.64,
+   "text": "With one deep breath, well aware that it could be our last if the rock had its own way, we push it away with all our might."
+  },
+  {
+   "t": 3862.1,
+   "end": 3869.28,
+   "text": "It is this last all-out endeavor that in the highest sense is called samapadhana or right endeavor."
+  },
+  {
+   "t": 3872.68,
+   "end": 3883.16,
+   "text": "In the context of the right endeavor for enlightenment, it is called chattu-rāṅga-samannāgata-vīrhyam, effort accompanied by four factors, which is worded as follows."
+  },
+  {
+   "t": 3883.16,
+   "end": 3899.64,
+   "text": "Kāmāṅ-taccha-ca-naharo-ca-atnti-ca-avasi-satūn, sarīya-upasusatūn, man-salvīyitāṁ, yāṅtaṁ purīsa-thāmena, burīsa-vīrhyena, purīsa-parakka-mena, patta-bhāng-nattam, appā-punīrmā-vīrhyasa-sāṅthānaṁ bhavisati."
+  },
+  {
+   "t": 3900.84,
+   "end": 3907.44,
+   "text": "Wearily let my skin, sinews and bones remain, and let the flesh and blood dry up in my body."
+  },
+  {
+   "t": 3907.84,
+   "end": 3916.1,
+   "text": "But I will not relax my energy, so long as I have not attained what can be attained by manly strength, manly energy, manly exertion."
+  },
+  {
+   "t": 3917.24,
+   "end": 3919.12,
+   "text": "Common Translation by Nyanamori"
+  },
+  {
+   "t": 3921.58,
+   "end": 3927.7,
+   "text": "Wearily let only my skin, sinews and bones remain, and let the flesh and blood dry up on my body."
+  },
+  {
+   "t": 3927.7,
+   "end": 3937.02,
+   "text": "But my energy shall not be relaxed, so long as I have not attained what can be attained by manly strength, manly energy, and manly persistence."
+  },
+  {
+   "t": 3938.26,
+   "end": 3939.64,
+   "text": "And the Madhyama Agama"
+  },
+  {
+   "t": 3939.64,
+   "end": 3943.72,
+   "text": "The Blessed One teaches me the Dharma, the Belgon One teaches me the Dharma."
+  },
+  {
+   "t": 3944.42,
+   "end": 3949.4,
+   "text": "May I for a long time derive benefit from it, may I attain welfare, peace and happiness from it."
+  },
+  {
+   "t": 3950.04,
+   "end": 3957.18,
+   "text": "Yeah, I find this a remarkable contrast, and I am personally not particularly comfortable with this."
+  },
+  {
+   "t": 3958.56,
+   "end": 3972.24,
+   "text": "A formulation found in the Pali version, this idea of letting the flesh and blood dry up to my mind, and that is just my personal take, gives me an impression of an unbalanced energy."
+  },
+  {
+   "t": 3972.24,
+   "end": 3982.48,
+   "text": "Not quite in line with that beautiful verse from the beginning of the Samyotani Kaya, of finding a balance between standstill and striving."
+  },
+  {
+   "t": 3983.2,
+   "end": 3992.0,
+   "text": "And I also don't particularly like this manly strength, energy, and persistence, this kind of gender type of terminology."
+  },
+  {
+   "t": 3993.4,
+   "end": 4003.98,
+   "text": "And to me, what comes here in the Madhyama Agama is much more to the point, may I attain well for peace and happiness from it."
+  },
+  {
+   "t": 4005.28,
+   "end": 4007.96,
+   "text": "Anyhow, that is just my personal take."
+  },
+  {
+   "t": 4008.98,
+   "end": 4009.98,
+   "text": "End of comment."
+  },
+  {
+   "t": 4011.86,
+   "end": 4022.26,
+   "text": "Though as an illustration we took an ordinary worldly object, a rock, one can substitute for it the gigantic mass of suffering to make it meaningful in the context of the Dharma."
+  },
+  {
+   "t": 4024.08,
+   "end": 4040.68,
+   "text": "It is the formula for the toppling of this mass of suffering that is enshrined in the phrase chandang janeti, vayamati, viryang arabhati, chittang pakanhati paddhati, arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavours."
+  },
+  {
+   "t": 4040.68,
+   "end": 4053.88,
+   "text": "The four bases for success in indipada, namely chandha, desire, virya energy, chitta mind, and vimangsa investigation, to a great extent, are already impressive in the above formula."
+  },
+  {
+   "t": 4055.32,
+   "end": 4058.58,
+   "text": "Clear enough, chandang janeti represents chandindipada."
+  },
+  {
+   "t": 4059.98,
+   "end": 4069.28,
+   "text": "Vayamati and viryangarabhati together stand for virya indipada, while chittang pakanhati stands for the power of determination implied by chitta indipada."
+  },
+  {
+   "t": 4071.28,
+   "end": 4076.82,
+   "text": "Apparently, investigation, vimangsa, as an itipada, has no representative in the above formula."
+  },
+  {
+   "t": 4077.72,
+   "end": 4088.32,
+   "text": "However, in the process of mindfully going over and over again, through these stages and putting forth effort, one becomes an adept in the art of handling a situation."
+  },
+  {
+   "t": 4089.34,
+   "end": 4093.64,
+   "text": "In fact, vimangsa investigation is panya or wisdom in disguise."
+  },
+  {
+   "t": 4096.48,
+   "end": 4099.26,
+   "text": "Even toppling a rock is not a simple task."
+  },
+  {
+   "t": 4099.72,
+   "end": 4102.98,
+   "text": "One has to have the know-how in order to accomplish it."
+  },
+  {
+   "t": 4103.6,
+   "end": 4108.72,
+   "text": "So then, all the four bases for success emerge from the four right endeavours."
+  },
+  {
+   "t": 4113.0,
+   "end": 4114.98,
+   "text": "What is meant by iddipada?"
+  },
+  {
+   "t": 4115.66,
+   "end": 4122.44,
+   "text": "Since the word iddhi is associated with psychic power, it is easy to mistake it as a base for psychic power."
+  },
+  {
+   "t": 4122.92,
+   "end": 4127.0,
+   "text": "But the basic sense of iddhi is success, or proficiency."
+  },
+  {
+   "t": 4127.68,
+   "end": 4130.28,
+   "text": "For instance, samidhi means prosperity."
+  },
+  {
+   "t": 4132.44,
+   "end": 4142.76,
+   "text": "It is perhaps more appropriate to render it as a base for success, because for the attainment of Nibbana also the development of the iddipadas is recommended."
+  },
+  {
+   "t": 4143.92,
+   "end": 4154.08,
+   "text": "Going by the illustration given above, we may say, in general, that for all mundane and supramundane accomplishments, the four bases hold good to some extent or other."
+  },
+  {
+   "t": 4155.06,
+   "end": 4166.4,
+   "text": "In the iddipada-sangyutta, these four bases for success are described as four ways to accomplish the task of attaining influx-free deliverance of the mind and deliverance by wisdom."
+  },
+  {
+   "t": 4168.22,
+   "end": 4177.24,
+   "text": "With the experience gathered in the course of practicing the four-fold right endeavour, one comes to know one's strong point where one's forte lies."
+  },
+  {
+   "t": 4177.92,
+   "end": 4183.7,
+   "text": "One might recognize chanda, desire or interest as one's strong point and give it first place."
+  },
+  {
+   "t": 4184.4,
+   "end": 4190.56,
+   "text": "In the case of the basis for success, it is said that even one would do as the others fall in line."
+  },
+  {
+   "t": 4192.98,
+   "end": 4199.92,
+   "text": "According to the commentaries, whenever Rattapala of the Buddha's time belonged to the chanda category, and whenever more"
+  },
+  {
+   "t": 4199.92,
+   "end": 4199.94,
+   "text": "we've got to think, one's strong point where Rattapala of the Buddha in the middle of the time, our"
+  },
+  {
+   "t": 4199.94,
+   "end": 4199.96,
+   "text": "and that's a good point."
+  },
+  {
+   "t": 4199.96,
+   "end": 4199.98,
+   "text": "We're able to support the heart of the Buddha's time to think about this, where it is the"
+  },
+  {
+   "t": 4200.0,
+   "end": 4213.72,
+   "text": "raja had been amongst as his forte excelling in wisdom someone might get so interested in a particular course of action and get an intense desire and tell himself somehow i must do it"
+  },
+  {
+   "t": 4213.72,
+   "end": 4226.06,
+   "text": "to that wish the others energy determination and investigation become subservient another might discover that his true personality emerges in the thick of striving"
+  },
+  {
+   "t": 4226.06,
+   "end": 4231.36,
+   "text": "so you would make energy the base for success in his quest for nipano"
+  },
+  {
+   "t": 4233.28,
+   "end": 4241.1,
+   "text": "yet another has as its strong point a steel determination the other three fall in line with it"
+  },
+  {
+   "t": 4242.04,
+   "end": 4246.64,
+   "text": "one who belongs to the wisdom category is never tired of investigation"
+  },
+  {
+   "t": 4247.48,
+   "end": 4254.5,
+   "text": "he even literally leaves no stone unturned if he gets curious to see what lies underneath"
+  },
+  {
+   "t": 4256.2,
+   "end": 4266.64,
+   "text": "the fact that there is a normative tendency for iddipadas to work in unison comes to light in the description of iddipada meditation in the sañyotanikaya"
+  },
+  {
+   "t": 4268.12,
+   "end": 4274.9,
+   "text": "for instance in regard to chanda iddipada we find the description descriptive initial statement"
+  },
+  {
+   "t": 4283.46,
+   "end": 4291.06,
+   "text": "here in monks a monk develops the base for success that is equipped with preparations for endeavor arising from desire concentration"
+  },
+  {
+   "t": 4295.46,
+   "end": 4307.74,
+   "text": "now what is this chanda samadhi or desire concentration this strange type of concentration not to be found in other contexts is explained in the chanda sutta itself as follows"
+  },
+  {
+   "t": 4316.5,
+   "end": 4323.74,
+   "text": "if by relying on desire monks a monk gets concentration gets one pointedness of mind this is called desire concentration"
+  },
+  {
+   "t": 4325.09,
+   "end": 4336.27,
+   "text": "comment translation by bhikkhu bodhi because if a bhikkhu gains concentration gains one pointedness of mind based upon desire this is called concentration due to desire"
+  },
+  {
+   "t": 4336.27,
+   "end": 4337.63,
+   "text": "end of comment"
+  },
+  {
+   "t": 4339.57,
+   "end": 4348.03,
+   "text": "due to a sheer interest or desire a monk might reach a steady state of mind like some sort of concentration"
+  },
+  {
+   "t": 4349.59,
+   "end": 4354.15,
+   "text": "with that as his basis he applies himself to the forward endeavors"
+  },
+  {
+   "t": 4354.15,
+   "end": 4364.29,
+   "text": "so anupa nanaanank pabhakanang akuslanaan dhammanan anupadaya chanda njaneti vayamati wiryam arabhati chittha paganhati padhati"
+  },
+  {
+   "t": 4364.29,
+   "end": 4375.19,
+   "text": "oppa nanaanank pabhakanang akuslanaan dhammanan paha naya chanda njaneti vayamati wiryam arabhati chittha paganhati padhati"
+  },
+  {
+   "t": 4401.63,
+   "end": 4404.65,
+   "text": "For the non-arising of unreason interval,"
+  },
+  {
+   "t": 4405.13,
+   "end": 4411.35,
+   "text": "unskillful mental states, he arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavours."
+  },
+  {
+   "t": 4412.19,
+   "end": 4420.61,
+   "text": "For the abandoning of unreason evil, unskillful mental states, he arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavours."
+  },
+  {
+   "t": 4421.31,
+   "end": 4428.97,
+   "text": "For the rising of unreason skillful mental states, he arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavours."
+  },
+  {
+   "t": 4428.97,
+   "end": 4437.07,
+   "text": "For the stability in non-remiss, increase amplitude and fulfillment by development of arisen skillful mental states."
+  },
+  {
+   "t": 4437.27,
+   "end": 4442.41,
+   "text": "He arouses a desire, makes an effort, puts forth energy, makes firm the mind and endeavors."
+  },
+  {
+   "t": 4443.27,
+   "end": 4445.49,
+   "text": "Common Translation by Biccoboli"
+  },
+  {
+   "t": 4447.81,
+   "end": 4453.05,
+   "text": "He generates desire for the non-arising of arisen evil unwholesome states."
+  },
+  {
+   "t": 4455.25,
+   "end": 4459.23,
+   "text": "For the abandoning of arisen evil unwholesome states."
+  },
+  {
+   "t": 4460.55,
+   "end": 4463.65,
+   "text": "For the arising of arisen wholesome states."
+  },
+  {
+   "t": 4464.47,
+   "end": 4467.05,
+   "text": "For the maintenance of arisen wholesome states."
+  },
+  {
+   "t": 4467.25,
+   "end": 4470.83,
+   "text": "For the non-decay, increase, expansion and fulfillment by development."
+  },
+  {
+   "t": 4471.23,
+   "end": 4474.61,
+   "text": "He makes an effort, arouses energy, uprises mind, strives."
+  },
+  {
+   "t": 4475.19,
+   "end": 4477.63,
+   "text": "These are called volitional formations of striving."
+  },
+  {
+   "t": 4478.69,
+   "end": 4479.13,
+   "text": "End of comment."
+  },
+  {
+   "t": 4480.49,
+   "end": 4484.87,
+   "text": "So here again, the standard definition of the four right endeavors is given."
+  },
+  {
+   "t": 4485.61,
+   "end": 4492.05,
+   "text": "The implication is that once the base for success is ready, the four right endeavors take off from it."
+  },
+  {
+   "t": 4493.31,
+   "end": 4499.25,
+   "text": "The four bases for success are therefore so many ways of specializing in various aspects of striving."
+  },
+  {
+   "t": 4499.65,
+   "end": 4504.79,
+   "text": "With a view to wielding the four right endeavors all the more effectively."
+  },
+  {
+   "t": 4505.77,
+   "end": 4511.27,
+   "text": "All the constituents of right endeavor harmoniously fall in line with the four bases for success."
+  },
+  {
+   "t": 4512.17,
+   "end": 4517.33,
+   "text": "Here then we have a concept of four types of concentration as bases for right endeavor."
+  },
+  {
+   "t": 4518.83,
+   "end": 4520.77,
+   "text": "Chanda Samadhi, desire concentration."
+  },
+  {
+   "t": 4521.31,
+   "end": 4523.09,
+   "text": "Virya Samadhi, energy concentration."
+  },
+  {
+   "t": 4523.69,
+   "end": 4525.43,
+   "text": "Chitta Samadhi, mind concentration."
+  },
+  {
+   "t": 4525.77,
+   "end": 4528.69,
+   "text": "And Vimangsa Samadhi, investigation concentration."
+  },
+  {
+   "t": 4532.37,
+   "end": 4534.95,
+   "text": "Now what is meant by Padana Sankara?"
+  },
+  {
+   "t": 4535.67,
+   "end": 4537.23,
+   "text": "Preparations for right endeavor."
+  },
+  {
+   "t": 4538.45,
+   "end": 4544.93,
+   "text": "It refers to the practice of the four right endeavors with one or the other base as a solid foundation."
+  },
+  {
+   "t": 4545.75,
+   "end": 4548.57,
+   "text": "Padana is endeavor or all-out effort."
+  },
+  {
+   "t": 4549.25,
+   "end": 4552.47,
+   "text": "Sankara are those preparations directed towards it."
+  },
+  {
+   "t": 4553.51,
+   "end": 4558.33,
+   "text": "Finally, the Buddha analyzes the long compound to highlight its constituents."
+  },
+  {
+   "t": 4559.53,
+   "end": 4562.59,
+   "text": "It is Ayangcha Chanda, Ayangcha Chanda Samadhi,"
+  },
+  {
+   "t": 4562.79,
+   "end": 4564.47,
+   "text": "Imecha Padana Sankara,"
+  },
+  {
+   "t": 4564.73,
+   "end": 4568.13,
+   "text": "Ayangbucca Tibikave, Chanda Samadhi, Padana Sankara,"
+  },
+  {
+   "t": 4568.27,
+   "end": 4569.83,
+   "text": "Samanagato, Indipadu."
+  },
+  {
+   "t": 4569.83,
+   "end": 4575.97,
+   "text": "Thus, this desire and this desire concentration and these preparations for endeavor."
+  },
+  {
+   "t": 4576.29,
+   "end": 4583.29,
+   "text": "This is called the base for success that is equipped with preparations for endeavor arising from desire concentration."
+  },
+  {
+   "t": 4584.17,
+   "end": 4586.15,
+   "text": "Comment Translation by Bicomoni"
+  },
+  {
+   "t": 4587.91,
+   "end": 4593.47,
+   "text": "Thus, this desire and this concentration due to desire and these volitional formations of striving."
+  },
+  {
+   "t": 4593.47,
+   "end": 4601.57,
+   "text": "This is called the basis for spiritual power that possesses concentration due to desire and volitional formations of striving."
+  },
+  {
+   "t": 4602.15,
+   "end": 4602.55,
+   "text": "End of comment."
+  },
+  {
+   "t": 4604.59,
+   "end": 4609.29,
+   "text": "So we see how the four bases for success come out of the four right endeavors."
+  },
+  {
+   "t": 4610.29,
+   "end": 4617.77,
+   "text": "The relation between the four bases for success and the next toolkit, the five faculties, Panchindriya, may not be so clear."
+  },
+  {
+   "t": 4618.51,
+   "end": 4622.59,
+   "text": "But there is an implicit connection which might need some explanation."
+  },
+  {
+   "t": 4624.01,
+   "end": 4633.47,
+   "text": "The five faculties here mend our faith, Saddha, Energy, Vidya, Mindfulness, Sati, Concentration, Samadhi, and Wisdom, Panya."
+  },
+  {
+   "t": 4634.93,
+   "end": 4640.63,
+   "text": "The four bases for success provide the proper environment for the rising of the five faculties."
+  },
+  {
+   "t": 4641.47,
+   "end": 4646.37,
+   "text": "The term Indriya, faculty, has connotations of dominance and control."
+  },
+  {
+   "t": 4647.71,
+   "end": 4654.71,
+   "text": "When one has specialized in the basis for success, it is possible to give predominance to certain mental states."
+  },
+  {
+   "t": 4656.15,
+   "end": 4660.17,
+   "text": "Saddha or faith is chanda, desire or interest, in disguise."
+  },
+  {
+   "t": 4661.69,
+   "end": 4666.49,
+   "text": "It is in one who has faith and confidence that desired interest arise."
+  },
+  {
+   "t": 4667.13,
+   "end": 4672.27,
+   "text": "With keen interest in skillful mental states, one is impelled to take an initiative."
+  },
+  {
+   "t": 4672.27,
+   "end": 4676.55,
+   "text": "The Buddha gives the following description of Saddhīndriya."
+  },
+  {
+   "t": 4677.55,
+   "end": 4682.91,
+   "text": "Kata ca bhikave saddhīndriyaṁ dat tabbhaṁ, chattu sun suttapatiyaṁ gesuṁ."
+  },
+  {
+   "t": 4683.85,
+   "end": 4689.41,
+   "text": "Where amongst is the faculty of faith to be seen in the four factors of stream entry?"
+  },
+  {
+   "t": 4690.23,
+   "end": 4692.37,
+   "text": "Common translation by Bhikkhu Bodhi."
+  },
+  {
+   "t": 4692.37,
+   "end": 4695.97,
+   "text": "And where, because is the faculty of faith to be seen?"
+  },
+  {
+   "t": 4696.15,
+   "end": 4701.15,
+   "text": "The faculty of faith is to be seen here in the four factors of stream entry."
+  },
+  {
+   "t": 4702.51,
+   "end": 4708.57,
+   "text": "And Samyukta Agama makes the same, in a slightly shorter manner, but makes the same statement."
+  },
+  {
+   "t": 4709.55,
+   "end": 4710.51,
+   "text": "End of comment."
+  },
+  {
+   "t": 4711.91,
+   "end": 4716.09,
+   "text": "The four factors of stream entry briefly stated are as follows."
+  },
+  {
+   "t": 4716.43,
+   "end": 4719.07,
+   "text": "Buddhi avicca pasade na samanāgata."
+  },
+  {
+   "t": 4719.61,
+   "end": 4722.43,
+   "text": "Dhamme avicca pasade na samanāgata."
+  },
+  {
+   "t": 4722.95,
+   "end": 4725.61,
+   "text": "Sangya avicca pasade na samanāgata."
+  },
+  {
+   "t": 4726.13,
+   "end": 4728.53,
+   "text": "Adiyakante si le samanāgata."
+  },
+  {
+   "t": 4729.47,
+   "end": 4733.65,
+   "text": "One is endowed with confidence, born of understanding in the Bunda."
+  },
+  {
+   "t": 4734.01,
+   "end": 4736.97,
+   "text": "Endowed with confidence, born of understanding in the Dhamma."
+  },
+  {
+   "t": 4737.53,
+   "end": 4740.55,
+   "text": "Endowed with confidence, born of understanding in the Sangha."
+  },
+  {
+   "t": 4740.93,
+   "end": 4744.01,
+   "text": "Endowed with virtues, dear to the noble ones."
+  },
+  {
+   "t": 4745.27,
+   "end": 4751.55,
+   "text": "The stream winner has a deep faith in the Dhamma and in the Sangha, that is born of understanding."
+  },
+  {
+   "t": 4752.59,
+   "end": 4757.57,
+   "text": "His virtue is also of a higher order, since it is well based on that faith."
+  },
+  {
+   "t": 4758.65,
+   "end": 4764.67,
+   "text": "So, in the definition of the faculty of faith, we have an echo of Chanda in Dibbana."
+  },
+  {
+   "t": 4766.05,
+   "end": 4774.29,
+   "text": "It can also be inferred that Virindya, the faculty of energy, also takes off from the energy base for success."
+  },
+  {
+   "t": 4774.69,
+   "end": 4775.49,
+   "text": "We are told,"
+  },
+  {
+   "t": 4780.77,
+   "end": 4785.71,
+   "text": "And where monks is the faculty of energy to be seen in the four wide endeavors?"
+  },
+  {
+   "t": 4786.73,
+   "end": 4788.81,
+   "text": "Comment translation by Bhikkhu Bodhi."
+  },
+  {
+   "t": 4790.31,
+   "end": 4793.45,
+   "text": "And where bhikkhu is the faculty of energy to be seen?"
+  },
+  {
+   "t": 4793.63,
+   "end": 4796.71,
+   "text": "The faculty of energy is to be seen here in the four wide strivings."
+  },
+  {
+   "t": 4797.87,
+   "end": 4799.97,
+   "text": "And so, Mjukta-Argo makes the..."
+  },
+  {
+   "t": 4800.0,
+   "end": 4803.9,
+   "text": "The same statement, but again, it differs."
+  },
+  {
+   "t": 4804.18,
+   "end": 4808.84,
+   "text": "There's this difference in terminology we get throughout Buddhist tradition,"
+  },
+  {
+   "t": 4808.94,
+   "end": 4812.14,
+   "text": "whether it's Samma Padana or Samma Pahana."
+  },
+  {
+   "t": 4813.18,
+   "end": 4817.8,
+   "text": "And it has here the Chinese reflex, the Samma Pahana, right, Abandoning."
+  },
+  {
+   "t": 4819.92,
+   "end": 4821.56,
+   "text": "So, end of comment."
+  },
+  {
+   "t": 4822.66,
+   "end": 4827.12,
+   "text": "The faculty of energy is obviously nurtured by the four wide endeavors"
+  },
+  {
+   "t": 4827.12,
+   "end": 4829.16,
+   "text": "and the four bases for success."
+  },
+  {
+   "t": 4830.3,
+   "end": 4834.96,
+   "text": "The antecedents of Satindri and the faculty of mindfulness may not be so obvious."
+  },
+  {
+   "t": 4835.56,
+   "end": 4840.08,
+   "text": "But from the stage of Satipatthana onwards, it has played its silent role,"
+  },
+  {
+   "t": 4840.84,
+   "end": 4843.1,
+   "text": "impartially, throughout all what's unseen."
+  },
+  {
+   "t": 4844.18,
+   "end": 4848.46,
+   "text": "Here, too, it stands in the middle of the group of leaders without taking sides."
+  },
+  {
+   "t": 4849.38,
+   "end": 4853.22,
+   "text": "In fact, its role is the preserving of the balance of powers"
+  },
+  {
+   "t": 4853.22,
+   "end": 4856.88,
+   "text": "between those who are on either side, the balancing of faculties."
+  },
+  {
+   "t": 4857.96,
+   "end": 4860.58,
+   "text": "About the place of Satindri and the Buddha says,"
+  },
+  {
+   "t": 4865.34,
+   "end": 4868.6,
+   "text": "And where, amongst, is the faculty of mindfulness to be seen?"
+  },
+  {
+   "t": 4868.74,
+   "end": 4870.72,
+   "text": "In the four foundations of mindfulness."
+  },
+  {
+   "t": 4872.38,
+   "end": 4877.68,
+   "text": "It is the same four foundations, now reinforced by greater experience in vigilance."
+  },
+  {
+   "t": 4880.18,
+   "end": 4882.08,
+   "text": "Comment translation by a bigger body."
+  },
+  {
+   "t": 4882.62,
+   "end": 4885.26,
+   "text": "And where, because, is the faculty of mindfulness to be seen?"
+  },
+  {
+   "t": 4885.64,
+   "end": 4890.2,
+   "text": "The faculty of mindfulness is to be seen here in the four establishments of mindfulness."
+  },
+  {
+   "t": 4891.02,
+   "end": 4894.12,
+   "text": "And here we have the Chinese, which makes the same statement."
+  },
+  {
+   "t": 4895.68,
+   "end": 4896.12,
+   "text": "End of comment."
+  },
+  {
+   "t": 4896.12,
+   "end": 4900.4,
+   "text": "Then comes the faculty of concentration, Samadhindriya."
+  },
+  {
+   "t": 4900.8,
+   "end": 4904.6,
+   "text": "We already had a glimpse of it at the Deepada stages."
+  },
+  {
+   "t": 4904.86,
+   "end": 4910.8,
+   "text": "Chanda Samadhi, desire concentration, mirya Samadhi, energy concentration, chitta Samadhi, mind concentration,"
+  },
+  {
+   "t": 4911.1,
+   "end": 4914.24,
+   "text": "and vi-mangsa Samadhi, investigation concentration."
+  },
+  {
+   "t": 4915.22,
+   "end": 4921.92,
+   "text": "But it was only a steadiness or stability that serves as a makeshift launching pad for concentrated effort."
+  },
+  {
+   "t": 4922.52,
+   "end": 4926.58,
+   "text": "But here, in this context, Samadhi-ndriya has a more refined sense."
+  },
+  {
+   "t": 4927.0,
+   "end": 4930.24,
+   "text": "It is formally defined with reference to the four jhanic attainments."
+  },
+  {
+   "t": 4936.39,
+   "end": 4941.07,
+   "text": "And where, amongst, is the faculty of concentration to be seen in the four absorptions?"
+  },
+  {
+   "t": 4942.13,
+   "end": 4944.01,
+   "text": "Comment translation by Bikavoni."
+  },
+  {
+   "t": 4944.49,
+   "end": 4947.37,
+   "text": "And where, because, is the faculty of concentration to be seen?"
+  },
+  {
+   "t": 4947.63,
+   "end": 4951.39,
+   "text": "The faculty of concentration is to be seen here in the four jhanic attainments."
+  },
+  {
+   "t": 4951.95,
+   "end": 4954.09,
+   "text": "And the Chinese makes the same statement."
+  },
+  {
+   "t": 4954.85,
+   "end": 4955.43,
+   "text": "End of comment."
+  },
+  {
+   "t": 4956.65,
+   "end": 4960.31,
+   "text": "Sometimes rather exceptionally, another definition is also given."
+  },
+  {
+   "t": 4960.51,
+   "end": 4967.57,
+   "text": "Eda-bhika-vi-adya-savako-bhosa-garam-manam-karitva-labhati-samadhi-labhati-chitta-se-khargavatam."
+  },
+  {
+   "t": 4967.81,
+   "end": 4974.85,
+   "text": "Here in monks, a noble disciple gains concentration, gains one-pointedness of the mind, having made release its object."
+  },
+  {
+   "t": 4976.61,
+   "end": 4978.61,
+   "text": "Comment translation by Bikkavoni."
+  },
+  {
+   "t": 4979.71,
+   "end": 4985.87,
+   "text": "Here, because, the noble disciple gains concentration, gains one-pointedness of mind, having made release the object."
+  },
+  {
+   "t": 4987.21,
+   "end": 4988.27,
+   "text": "End of comment."
+  },
+  {
+   "t": 4989.91,
+   "end": 4996.73,
+   "text": "However, it is by the development of the basis for success, that concentration emerges as a full-fledged faculty."
+  },
+  {
+   "t": 4997.79,
+   "end": 5000.73,
+   "text": "Lastly, there is the faculty of wisdom, Panyindriya."
+  },
+  {
+   "t": 5001.17,
+   "end": 5010.81,
+   "text": "Though it has some relation to v-munks or investigation as a base for success, it is defined directly with reference to the full noble truth."
+  },
+  {
+   "t": 5017.69,
+   "end": 5020.43,
+   "text": "And where, monks, is the faculty of wisdom to be seen?"
+  },
+  {
+   "t": 5025.05,
+   "end": 5031.99,
+   "text": "The faculty of wisdom is to be seen here, in the full noble truth."
+  },
+  {
+   "t": 5032.63,
+   "end": 5034.43,
+   "text": "And the Chinese again agrees."
+  },
+  {
+   "t": 5035.29,
+   "end": 5036.29,
+   "text": "End of comment."
+  },
+  {
+   "t": 5037.91,
+   "end": 5044.29,
+   "text": "Nevertheless, in the full noble truth, too, we see some parallelism with the illustration for independence we picked up."
+  },
+  {
+   "t": 5045.53,
+   "end": 5054.53,
+   "text": "Suffering, its arising, its cessation, and the path to its cessation, is comparable to our reaction to our encounters with that stumbling block, the block."
+  },
+  {
+   "t": 5055.25,
+   "end": 5062.57,
+   "text": "In the context of insight, Panyindriya is defined in terms of the knowledge of rise and fall, undayatagamini panyam."
+  },
+  {
+   "t": 5063.37,
+   "end": 5069.77,
+   "text": "The sharpness of faculties may vary from person to person, according to their sankhsaric background."
+  },
+  {
+   "t": 5070.59,
+   "end": 5077.47,
+   "text": "The Buddha who could see this difference between persons, Puggalavimattata, was able to tame them easily."
+  },
+  {
+   "t": 5078.71,
+   "end": 5083.99,
+   "text": "As we have already mentioned, mindfulness is in the middle of this group of faculties."
+  },
+  {
+   "t": 5084.63,
+   "end": 5092.27,
+   "text": "Being the mainstay of the entire Satipatthana practice, it renders a vigilant service in silence, hereto."
+  },
+  {
+   "t": 5092.57,
+   "end": 5098.11,
+   "text": "As the arbiter in the struggle for power between the two factions on either side."
+  },
+  {
+   "t": 5098.95,
+   "end": 5107.55,
+   "text": "Now that they have the dominance, Sadda faith and Panya wisdom dragged to either side, wishing to go their own way."
+  },
+  {
+   "t": 5108.39,
+   "end": 5111.23,
+   "text": "Mindfulness has to strike a balance between them."
+  },
+  {
+   "t": 5113.21,
+   "end": 5119.25,
+   "text": "Likewise, Virya, energy, and Samadhi concentration, left to themselves, tend to become extravagant."
+  },
+  {
+   "t": 5119.51,
+   "end": 5123.43,
+   "text": "And mindfulness has to caution them to be moderate."
+  },
+  {
+   "t": 5124.29,
+   "end": 5131.23,
+   "text": "So in this toolkit of faculties, Sati is the spanner for tightening or loosening, for relaxing or gripping."
+  },
+  {
+   "t": 5132.77,
+   "end": 5151.75,
+   "text": "Comment, yeah, I think what Venerbanyananda means here is not that Sati itself, herself, directly intervenes, but that she provides the kind of information required for then tightening or loosening, relaxing or gripping."
+  },
+  {
+   "t": 5152.17,
+   "end": 5153.07,
+   "text": "End of comment."
+  },
+  {
+   "t": 5154.43,
+   "end": 5159.71,
+   "text": "Alternatively, one can discern another orderly arrangement among these five faculties."
+  },
+  {
+   "t": 5159.71,
+   "end": 5169.03,
+   "text": "In the Indriya Sanyutta, Manama Sariputta extols the wonderful inner coherence between these faculties before the Buddha in the following words."
+  },
+  {
+   "t": 5169.03,
+   "end": 5199.01,
+   "text": "Saddasahi Bhanta Ariyasavaka Sanyutta Masim Zwana Sanyutta狐a Shiamanda Sanyuttarajava Sanyuttaraja Sanyuttaraja Smula Sanyuttaraja Sanyuttaraja"
+  },
+  {
+   "t": 5199.01,
+   "end": 5204.85,
+   "text": "Sati Nipakkena Samanagato Chirkataampi Chirabhasitampi Sarita Anusarita"
+  },
+  {
+   "t": 5204.85,
+   "end": 5208.85,
+   "text": "Yahisabhanta Sati Tadasa Satindriyam"
+  },
+  {
+   "t": 5209.97,
+   "end": 5215.17,
+   "text": "Satthasih Bhandha Arya Savakas Aradha Viryasa Upaktita Satinu"
+  },
+  {
+   "t": 5215.17,
+   "end": 5216.63,
+   "text": "Etampadikankam"
+  },
+  {
+   "t": 5216.63,
+   "end": 5222.55,
+   "text": "Yang Vosakaramanam Karitvala Visati Samadhin Labisati Chittasikangata"
+  },
+  {
+   "t": 5222.55,
+   "end": 5226.71,
+   "text": "Yahisabhanta Samadhi Tadasa Samadhindriyam"
+  },
+  {
+   "t": 5226.71,
+   "end": 5232.67,
+   "text": "Satthasih Bhandha Arya Savakas Aradha Viryasa Upaktita Satinu"
+  },
+  {
+   "t": 5232.67,
+   "end": 5235.33,
+   "text": "Samayatacittasa Etampadikankam"
+  },
+  {
+   "t": 5235.33,
+   "end": 5240.63,
+   "text": "Yang Evang Padyanisati Anumatangoko Sangsaru"
+  },
+  {
+   "t": 5240.63,
+   "end": 5245.85,
+   "text": "Pubbakotina Panyayati Avijyani Varananang Sattanang"
+  },
+  {
+   "t": 5245.85,
+   "end": 5249.05,
+   "text": "Tanhasang Yujananang Sandhavatang Sangsartan"
+  },
+  {
+   "t": 5249.05,
+   "end": 5253.99,
+   "text": "Avijyayatweva Tamukkayasasay Sabiraganirudho"
+  },
+  {
+   "t": 5253.99,
+   "end": 5257.65,
+   "text": "Santang Etampadang Panitang Etampadang"
+  },
+  {
+   "t": 5257.65,
+   "end": 5259.91,
+   "text": "Yadidang Sabha Sankara Samato"
+  },
+  {
+   "t": 5259.91,
+   "end": 5262.51,
+   "text": "Sabhu Paripati Nisaggo"
+  },
+  {
+   "t": 5262.51,
+   "end": 5266.93,
+   "text": "Tanakkayo Virago Nirodo Nibbhanam"
+  },
+  {
+   "t": 5266.93,
+   "end": 5270.63,
+   "text": "Yangisabhanta Panyatadasa Panyindriyam"
+  },
+  {
+   "t": 5272.75,
+   "end": 5295.91,
+   "text": "It could indeed be expected, Venerable Sir, of a noble disciple who has faith, that he will dwell with energy put forth, for the abandoning of unskillful states and the rising of skillful states, that he will be steady, resolute in exhaustion, not shirking the burden of fulfilling skillful states, that energy of his, Venerable Sir, is his faculty of energy."
+  },
+  {
+   "t": 5296.79,
+   "end": 5312.71,
+   "text": "It could indeed be expected, Venerable Sir, of that noble disciple who has put forth energy, that he will be mindful, endowed with supreme adeptness in mindfulness, one who remembers and recollects what was done and said even long ago."
+  },
+  {
+   "t": 5317.89,
+   "end": 5321.55,
+   "text": "That mindful of his, Venerable Sir, is his faculty of mindfulness."
+  },
+  {
+   "t": 5323.47,
+   "end": 5336.93,
+   "text": "It could indeed be expected, Venerable Sir, of that noble disciple who has faith, who has put forth energy, and who is attendant by mindfulness, that he will gain concentration, will gain one-pointedness of mind, having made release the object."
+  },
+  {
+   "t": 5337.63,
+   "end": 5341.41,
+   "text": "That concentration of his, Venerable Sir, is his faculty of concentration."
+  },
+  {
+   "t": 5342.23,
+   "end": 5353.19,
+   "text": "It could indeed be expected, Venerable Sir, of that noble disciple who has faith, who has put forth energy, who is attendant by mindfulness, and whose mind is concentrated, that he will understand thus."
+  },
+  {
+   "t": 5353.73,
+   "end": 5356.55,
+   "text": "The samsara is without a conceivable beginning."
+  },
+  {
+   "t": 5356.87,
+   "end": 5363.69,
+   "text": "A first point is not discernible of beings roaming and wandering, hindered by ignorance and fatted by craving."
+  },
+  {
+   "t": 5363.69,
+   "end": 5381.09,
+   "text": "But the remainderless, fading away and cessation of ignorance, the mass of darkness, this is the peaceful state, this is the excellent state, that is, the stealing of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 5381.75,
+   "end": 5385.19,
+   "text": "That wisdom of his, Venerable Sir, is his faculty of wisdom."
+  },
+  {
+   "t": 5385.81,
+   "end": 5388.09,
+   "text": "Comment, translation by Bicomodi."
+  },
+  {
+   "t": 5389.81,
+   "end": 5399.97,
+   "text": "It is indeed to be expected, Venerable Sir, that a noble disciple who has faith will dwell with energy aroused for the abandoning of unwholesome states and the acquisition of the Lord."
+  },
+  {
+   "t": 5400.0,
+   "end": 5406.7,
+   "text": "of wholesome states, that he will be strong, firm in exertion, not shirking the responsibility"
+  },
+  {
+   "t": 5406.7,
+   "end": 5412.6,
+   "text": "of cultivating wholesome states, that energy of his venerable Sir is his faculty of energy."
+  },
+  {
+   "t": 5413.34,
+   "end": 5418.34,
+   "text": "It is indeed to be expected, venerable Sir, that a noble disciple who has faith and whose"
+  },
+  {
+   "t": 5418.34,
+   "end": 5424.58,
+   "text": "energy is aroused will be mindful, possessing supreme mindfulness and discretion, one who"
+  },
+  {
+   "t": 5424.58,
+   "end": 5430.34,
+   "text": "remembers and recollects what was done and said long ago, that mindfulness of his venerable"
+  },
+  {
+   "t": 5430.34,
+   "end": 5432.16,
+   "text": "Sir is his faculty of mindfulness."
+  },
+  {
+   "t": 5433.34,
+   "end": 5438.4,
+   "text": "It is indeed to be expected, venerable Sir, that a noble disciple who has faith, whose"
+  },
+  {
+   "t": 5438.4,
+   "end": 5445.02,
+   "text": "energy is aroused and whose mindfulness is established, will gain concentration, will gain one-pointedness"
+  },
+  {
+   "t": 5445.02,
+   "end": 5450.86,
+   "text": "of mind, having made release the object, that concentration of his venerable Sir is his faculty"
+  },
+  {
+   "t": 5450.86,
+   "end": 5451.68,
+   "text": "of concentration."
+  },
+  {
+   "t": 5452.6,
+   "end": 5457.88,
+   "text": "It is indeed to be expected, venerable Sir, that a noble disciple who has faith, whose"
+  },
+  {
+   "t": 5457.88,
+   "end": 5463.26,
+   "text": "energy is aroused, whose mindfulness is established and whose mind is concentrated, will understand"
+  },
+  {
+   "t": 5463.26,
+   "end": 5463.64,
+   "text": "thus."
+  },
+  {
+   "t": 5464.34,
+   "end": 5467.58,
+   "text": "This samsara is without discoverable beginning."
+  },
+  {
+   "t": 5468.46,
+   "end": 5474.08,
+   "text": "A first point is not discerned of beings roaming and wandering on, hindered by ignorance and"
+  },
+  {
+   "t": 5474.08,
+   "end": 5475.0,
+   "text": "fedded by craving."
+  },
+  {
+   "t": 5475.68,
+   "end": 5481.14,
+   "text": "But the remainderless fading away and cessation of ignorance, the mass of darkness, this is"
+  },
+  {
+   "t": 5481.14,
+   "end": 5486.16,
+   "text": "the peaceful state, this is the sublime state, that is, the stilling of all formations,"
+  },
+  {
+   "t": 5486.48,
+   "end": 5491.88,
+   "text": "the revinquishment of all acquisitions, the destruction of craving, dispassion, cessation,"
+  },
+  {
+   "t": 5491.96,
+   "end": 5497.18,
+   "text": "nipman, that wisdom of his venerable Sir is his faculty of wisdom."
+  },
+  {
+   "t": 5498.48,
+   "end": 5499.94,
+   "text": "Thank you for your attention."
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+# Lecture 03 working notes (YT-timebase, transcript fully read)
+- CUT 0–363.5 forum recap sermon2 (prescriptive/descriptive, whirlpool physics) — cold-open at chant
+- KEEP 363.5–411.4 chant+motto+permission+today
+- CUT 411.4–525.0 sermon2 whirlpool-recap (repeat of lec02 material)
+- KEEP 525.0–654.6 abyss-of-pain sutta (Bodhi bottomless-abyss read) + two-darts setup
+- CUT 654.6–763.4 healing-comment (Jivaka/MBSR research, r3)
+- KEEP 763.4–834.2 abyss→craving-force mapping
+- CUT 834.2–876.0 comment: pain-avoidance examples (r3 — punchy but B/C)
+- KEEP 876.0–1572.6 dhamma-eye + where-fire-gone + concepts-camouflage + Vipassi yoni-reflection narrative (chant gaps kept) — CORE
+- KEEP 1615.5–1735.0 music+payoff (no past-lives needed) + dhamma-eye verse
+- CUT 1735.0–1775.4 aloka/bodhi translation-preferences comment (r4)
+- KEEP 1775.4–2630.3 cessation-reflection → weeds-simile chapter → six-qualities → three-periods critique (major argument)
+- Remaining decisions (2630→5086): Himavanta verses (2693-2768 keep A), past-future-speculation critique comment (2799-2875 r3 cut?), banana-trunk cross-section (2906-2995 KEEP A gold), blood-test simile (2996-3058 KEEP A), Mahanidana womb catechism Q1-Q4 (3060-3576 KEEP — technical core, grades B/C), established/unestablished consciousness + Godika (3574-3745 KEEP B), patisandhi-critique (3746-3866 KEEP B/C), knot/here-there/thisness reprise (3867-4150 keep B), out-of-body/levitation comment (4288-4411 CUT r4), photo/shadow simile (4481-4530 KEEP A?), cheetah-sutta three instances (4535-4990 KEEP — triple structure A/B), closing analysis comment (5020-5086 KEEP B)
+- Watch: YT-native timebase (no CF yet) — generator handles via has_cf=false

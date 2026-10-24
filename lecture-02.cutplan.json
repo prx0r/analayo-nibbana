@@ -1,0 +1,417 @@
+{
+ "lecture": 2,
+ "target_min": 30,
+ "source_min": 92.0,
+ "kept_sec": 2382.4,
+ "kept_pct": 43,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 1.02,
+  "yt_last": 5517.92
+ },
+ "dropped_spans": [
+  {
+   "start": 3307.5,
+   "end": 3351.0,
+   "rank": 3
+  }
+ ],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 23.3,
+   "end": 770.5,
+   "kind": "logistics",
+   "reason": "entire lecture-1 forum recap (participants, Abhidharma essay, five-fingers reading) \u2014 belongs to episode 1's world"
+  },
+  {
+   "start": 869.1,
+   "end": 887.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 904.3,
+   "end": 1016.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1218.9,
+   "end": 1457.7,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1557.9,
+   "end": 1559.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1621.0,
+   "end": 1749.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1794.6,
+   "end": 1911.4,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1956.7,
+   "end": 1974.9,
+   "kind": "silence",
+   "reason": "Kappa verse chant"
+  },
+  {
+   "start": 2052.3,
+   "end": 2154.9,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2299.3,
+   "end": 2431.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2446.8,
+   "end": 2559.9,
+   "kind": "repetition",
+   "reason": "twelve-link formula recited in Pali (English reading kept)"
+  },
+  {
+   "start": 2664.7,
+   "end": 2819.8,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2926.7,
+   "end": 3012.3,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3051.0,
+   "end": 3078.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3123.6,
+   "end": 3124.7,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3188.4,
+   "end": 3191.8,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3208.5,
+   "end": 3238.0,
+   "kind": "silence",
+   "reason": "Mahanidana Pali recitation (English kept)"
+  },
+  {
+   "start": 3307.5,
+   "end": 3354.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3452.2,
+   "end": 3473.4,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3584.0,
+   "end": 3617.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3678.0,
+   "end": 3827.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3901.2,
+   "end": 3903.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4040.8,
+   "end": 4334.9,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4356.0,
+   "end": 4428.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4455.2,
+   "end": 4521.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4620.3,
+   "end": 4621.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4694.8,
+   "end": 4892.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4977.2,
+   "end": 5007.7,
+   "kind": "trim",
+   "reason": "bridge"
+  },
+  {
+   "start": 5053.7,
+   "end": 5128.3,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5333.8,
+   "end": 5423.3,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5480.5,
+   "end": 5482.2,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 5494.7,
+   "end": 5521.59,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  }
+ ],
+ "keep_summary": "welcome \u2192 motto & purpose-of-Nibbana; straight path & immediacy (epithets, fetters); Nila seawater + gone-for-good; island/Kappa chapter; twelve-link formula (English); the whirlpool chapter (formation, body-automatic, dukkha etymology, thisness/other-wiseness, birthday-of-death); not-self whirlpool + anguished-world verse; cessation solution + arahant cuts the whirlpool; no-footing verse; rupa/arupa + devil simile; duality close.",
+ "kept_segments": [
+  {
+   "start": 3.0,
+   "end": 23.3,
+   "grade": "B"
+  },
+  {
+   "start": 770.5,
+   "end": 869.1,
+   "grade": "A"
+  },
+  {
+   "start": 887.1,
+   "end": 904.3,
+   "grade": "B"
+  },
+  {
+   "start": 1016.1,
+   "end": 1146.1,
+   "grade": "B"
+  },
+  {
+   "start": 1146.1,
+   "end": 1218.9,
+   "grade": "A"
+  },
+  {
+   "start": 1457.7,
+   "end": 1557.9,
+   "grade": "A"
+  },
+  {
+   "start": 1559.4,
+   "end": 1621.0,
+   "grade": "A"
+  },
+  {
+   "start": 1749.2,
+   "end": 1794.6,
+   "grade": "A"
+  },
+  {
+   "start": 1911.4,
+   "end": 1956.7,
+   "grade": "B"
+  },
+  {
+   "start": 1974.9,
+   "end": 2052.3,
+   "grade": "A"
+  },
+  {
+   "start": 2154.9,
+   "end": 2219.0,
+   "grade": "B"
+  },
+  {
+   "start": 2219.2,
+   "end": 2299.3,
+   "grade": "A"
+  },
+  {
+   "start": 2431.0,
+   "end": 2446.8,
+   "grade": "A"
+  },
+  {
+   "start": 2559.9,
+   "end": 2664.7,
+   "grade": "B"
+  },
+  {
+   "start": 2819.8,
+   "end": 2926.7,
+   "grade": "A"
+  },
+  {
+   "start": 3012.3,
+   "end": 3051.0,
+   "grade": "C"
+  },
+  {
+   "start": 3078.0,
+   "end": 3123.6,
+   "grade": "B"
+  },
+  {
+   "start": 3124.7,
+   "end": 3188.4,
+   "grade": "A"
+  },
+  {
+   "start": 3191.8,
+   "end": 3208.5,
+   "grade": "B"
+  },
+  {
+   "start": 3238.0,
+   "end": 3307.5,
+   "grade": "B"
+  },
+  {
+   "start": 3307.5,
+   "end": 3351.0,
+   "grade": "C"
+  },
+  {
+   "start": 3354.1,
+   "end": 3452.2,
+   "grade": "B"
+  },
+  {
+   "start": 3473.4,
+   "end": 3584.0,
+   "grade": "A"
+  },
+  {
+   "start": 3617.1,
+   "end": 3678.0,
+   "grade": "B"
+  },
+  {
+   "start": 3827.1,
+   "end": 3901.2,
+   "grade": "A"
+  },
+  {
+   "start": 3903.3,
+   "end": 4040.8,
+   "grade": "B"
+  },
+  {
+   "start": 4334.9,
+   "end": 4356.0,
+   "grade": "B"
+  },
+  {
+   "start": 4428.2,
+   "end": 4455.2,
+   "grade": "A"
+  },
+  {
+   "start": 4521.6,
+   "end": 4620.3,
+   "grade": "B"
+  },
+  {
+   "start": 4621.4,
+   "end": 4694.8,
+   "grade": "B"
+  },
+  {
+   "start": 4892.1,
+   "end": 4977.2,
+   "grade": "A"
+  },
+  {
+   "start": 5007.7,
+   "end": 5053.7,
+   "grade": "A"
+  },
+  {
+   "start": 5128.3,
+   "end": 5193.5,
+   "grade": "B"
+  },
+  {
+   "start": 5193.5,
+   "end": 5271.9,
+   "grade": "A"
+  },
+  {
+   "start": 5271.9,
+   "end": 5333.8,
+   "grade": "B"
+  },
+  {
+   "start": 5423.3,
+   "end": 5480.5,
+   "grade": "A"
+  },
+  {
+   "start": 5482.2,
+   "end": 5494.7,
+   "grade": "B"
+  }
+ ],
+ "grade_counts": {
+  "A": 17,
+  "B": 18,
+  "C": 2
+ },
+ "grade_minutes": {
+  "A": 20.0,
+  "B": 19.0,
+  "C": 1.4
+ }
+}

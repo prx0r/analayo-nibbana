@@ -1,0 +1,300 @@
+{
+ "lecture": 3,
+ "target_min": 30,
+ "source_min": 84.8,
+ "kept_sec": 2344.8,
+ "kept_pct": 46,
+ "timebase": {
+  "native": "yt",
+  "yt_first": 6.4,
+  "yt_last": 5085.84
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 363.5,
+   "kind": "logistics",
+   "reason": "lecture-2 forum recap (prescriptive/descriptive, whirlpool physics) \u2014 cold-open at the chant"
+  },
+  {
+   "start": 411.4,
+   "end": 525.0,
+   "kind": "repetition",
+   "reason": "sermon-2 whirlpool recap (episode 2's own chapter)"
+  },
+  {
+   "start": 654.6,
+   "end": 876.0,
+   "kind": "tangent",
+   "reason": "healing-research comment (Jivaka/MBSR) + pain-avoidance examples"
+  },
+  {
+   "start": 1123.7,
+   "end": 1299.5,
+   "kind": "repetition",
+   "reason": "'insofar-only' Mahanidana reprint \u2014 episode 2 already carried it"
+  },
+  {
+   "start": 1572.6,
+   "end": 1615.5,
+   "kind": "tangent",
+   "reason": "Chinese/Sanskrit parallel-versions comment"
+  },
+  {
+   "start": 1735.0,
+   "end": 1775.4,
+   "kind": "tangent",
+   "reason": "aloka/bodhi translation-preferences aside"
+  },
+  {
+   "start": 1889.2,
+   "end": 1890.2,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2110.0,
+   "end": 2181.6,
+   "kind": "repetition",
+   "reason": "weeds-simile walkthrough restated (statement kept)"
+  },
+  {
+   "start": 2230.5,
+   "end": 2271.2,
+   "kind": "trim",
+   "reason": "concepts-fall transition"
+  },
+  {
+   "start": 2367.9,
+   "end": 2368.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2415.4,
+   "end": 2421.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2492.2,
+   "end": 2628.2,
+   "kind": "repetition",
+   "reason": "pentade-smuggling + bhava-double-meaning philology"
+  },
+  {
+   "start": 2668.8,
+   "end": 2683.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2768.4,
+   "end": 2872.5,
+   "kind": "tangent",
+   "reason": "etitia/hearsay questions + not-a-rebirth-refutation comment"
+  },
+  {
+   "start": 2994.7,
+   "end": 2996.2,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3038.6,
+   "end": 4032.3,
+   "kind": "tangent",
+   "reason": "womb catechism Q1-Q4, Godika story, patisandhi critique, knot-reprise \u2014 big technical block"
+  },
+  {
+   "start": 4255.6,
+   "end": 4481.2,
+   "kind": "tangent",
+   "reason": "out-of-body/levitation comment (IANDS) + norm recap"
+  },
+  {
+   "start": 4529.7,
+   "end": 4535.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4642.9,
+   "end": 4685.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4767.8,
+   "end": 4887.1,
+   "kind": "repetition",
+   "reason": "cambodi restatement of instance 2 + music interlude"
+  },
+  {
+   "start": 4923.0,
+   "end": 4955.8,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5085.8,
+   "end": 5086.84,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  }
+ ],
+ "keep_summary": "cold-open motto; abyss-of-pain chapter (bottomless-abyss sutta, two darts); dhamma-eye + where-the-fire-gone; Vipassi's yoni-reflection (no past-lives needed); weeds-simile immediacy; stream-winner vs three-periods; Himavanta verses; banana-trunk + blood-test similes; immersion/mind-travel chapter; cheetah-sutta three instances \u2192 close.",
+ "kept_segments": [
+  {
+   "start": 363.5,
+   "end": 411.4,
+   "grade": "A"
+  },
+  {
+   "start": 525.0,
+   "end": 654.6,
+   "grade": "B"
+  },
+  {
+   "start": 876.0,
+   "end": 1123.7,
+   "grade": "A"
+  },
+  {
+   "start": 1299.5,
+   "end": 1535.5,
+   "grade": "A"
+  },
+  {
+   "start": 1533.9,
+   "end": 1572.6,
+   "grade": "B"
+  },
+  {
+   "start": 1615.5,
+   "end": 1735.0,
+   "grade": "A"
+  },
+  {
+   "start": 1775.4,
+   "end": 1889.2,
+   "grade": "B"
+  },
+  {
+   "start": 1890.2,
+   "end": 1956.3,
+   "grade": "B"
+  },
+  {
+   "start": 1956.3,
+   "end": 2062.3,
+   "grade": "A"
+  },
+  {
+   "start": 2060.2,
+   "end": 2110.0,
+   "grade": "A"
+  },
+  {
+   "start": 2181.6,
+   "end": 2230.5,
+   "grade": "A"
+  },
+  {
+   "start": 2271.2,
+   "end": 2367.9,
+   "grade": "B"
+  },
+  {
+   "start": 2368.9,
+   "end": 2415.4,
+   "grade": "B"
+  },
+  {
+   "start": 2421.3,
+   "end": 2492.2,
+   "grade": "A"
+  },
+  {
+   "start": 2628.2,
+   "end": 2668.8,
+   "grade": "B"
+  },
+  {
+   "start": 2683.1,
+   "end": 2768.4,
+   "grade": "A"
+  },
+  {
+   "start": 2872.5,
+   "end": 2909.0,
+   "grade": "B"
+  },
+  {
+   "start": 2906.5,
+   "end": 2994.7,
+   "grade": "A"
+  },
+  {
+   "start": 2996.2,
+   "end": 3038.6,
+   "grade": "A"
+  },
+  {
+   "start": 4032.3,
+   "end": 4106.2,
+   "grade": "A"
+  },
+  {
+   "start": 4103.3,
+   "end": 4185.6,
+   "grade": "B"
+  },
+  {
+   "start": 4184.8,
+   "end": 4255.6,
+   "grade": "B"
+  },
+  {
+   "start": 4481.2,
+   "end": 4529.7,
+   "grade": "A"
+  },
+  {
+   "start": 4535.4,
+   "end": 4642.9,
+   "grade": "B"
+  },
+  {
+   "start": 4685.6,
+   "end": 4767.8,
+   "grade": "B"
+  },
+  {
+   "start": 4887.1,
+   "end": 4923.0,
+   "grade": "B"
+  },
+  {
+   "start": 4955.8,
+   "end": 5022.8,
+   "grade": "A"
+  },
+  {
+   "start": 5020.2,
+   "end": 5085.8,
+   "grade": "B"
+  }
+ ],
+ "grade_counts": {
+  "A": 14,
+  "B": 14,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 22.2,
+  "B": 16.9,
+  "C": 0.0
+ }
+}

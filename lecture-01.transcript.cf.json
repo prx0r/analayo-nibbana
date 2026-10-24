@@ -1,0 +1,6642 @@
+{
+ "source": "/home/box/Downloads/yt/analayo-nibbana/analayo-nibbana-lecture-01.mp3",
+ "duration": 5292.755756,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 12.68,
+   "end": 22.2,
+   "text": "Welcome to the e-learning course on the Nibbāna sermons by Vikkhu Katakuruna Nyanananda,"
+  },
+  {
+   "t": 22.24,
+   "end": 28.88,
+   "text": "an online course hosted by the Numartya Center for Bodhi Studies at the University of Hamburg,"
+  },
+  {
+   "t": 29.88,
+   "end": 33.46,
+   "text": "in collaboration with the Barrett Center for Bodhi Studies in Massachusetts."
+  },
+  {
+   "t": 35.0,
+   "end": 39.18,
+   "text": "And today we will take up the first sermon, Sermon 1."
+  },
+  {
+   "t": 40.38,
+   "end": 52.54,
+   "text": "And in these lectures, usually the first part is open for me to take up comments, suggestions and points"
+  },
+  {
+   "t": 52.54,
+   "end": 57.8,
+   "text": "that have been made on the online discussion forum by the participants."
+  },
+  {
+   "t": 59.08,
+   "end": 63.62,
+   "text": "And since this is the first sermon, there has not yet been such discussion."
+  },
+  {
+   "t": 64.18,
+   "end": 79.88,
+   "text": "Therefore, I thought I use this first space to briefly introduce these sermons and also to place myself in relation to them."
+  },
+  {
+   "t": 81.8,
+   "end": 89.6,
+   "text": "So, Venerable Nyanananda was invited to give these sermons by Venerable Nyanarama,"
+  },
+  {
+   "t": 90.64,
+   "end": 95.98,
+   "text": "the meditation teacher at Nisar Navaneya in Mitrigala, Sri Lanka."
+  },
+  {
+   "t": 95.98,
+   "end": 106.62,
+   "text": "It is a monastery in the strict forest tradition, and they were practicing intensive meditation according to the Mahasi method."
+  },
+  {
+   "t": 107.58,
+   "end": 120.28,
+   "text": "Venerable Nyanarama had slightly adjusted the Mahasi method by using the nostril area for breath awareness instead of the rise and fall of the abdomen,"
+  },
+  {
+   "t": 121.32,
+   "end": 129.12,
+   "text": "in line with the general like among Sri Lankans for that way of practicing awareness with the breath."
+  },
+  {
+   "t": 131.36,
+   "end": 140.8,
+   "text": "And in that context, in that monastery, the story goes that all those who joined that place at that time"
+  },
+  {
+   "t": 140.8,
+   "end": 150.18,
+   "text": "had made the strong determination that they would not leave the monastery until at least they have attained stream entry."
+  },
+  {
+   "t": 150.18,
+   "end": 159.02,
+   "text": "So, in this setting of the strict forest tradition, intensive meditation practice, and an outstanding meditation master to guide the practice,"
+  },
+  {
+   "t": 159.88,
+   "end": 165.34,
+   "text": "he invited Venerable Nyanananda to give talks on Nibbana,"
+  },
+  {
+   "t": 165.6,
+   "end": 171.56,
+   "text": "as Venerable Nyanananda was himself an accomplished meditator but also had been an academic."
+  },
+  {
+   "t": 171.56,
+   "end": 181.46,
+   "text": "And so, he was able to approach that topic by combining those two aspects, theory and practice, we may say."
+  },
+  {
+   "t": 183.02,
+   "end": 186.52,
+   "text": "And these sermons were recorded in Singala."
+  },
+  {
+   "t": 187.52,
+   "end": 191.02,
+   "text": "And Venerable Nyanananda speaks a very sophisticated Singalese."
+  },
+  {
+   "t": 191.02,
+   "end": 199.0,
+   "text": "So, some of those who later listened to these recordings found it a little difficult to follow him,"
+  },
+  {
+   "t": 199.56,
+   "end": 204.94,
+   "text": "especially those who have been brought up with English as their first language."
+  },
+  {
+   "t": 205.36,
+   "end": 207.88,
+   "text": "And so, they asked him if he could translate."
+  },
+  {
+   "t": 208.94,
+   "end": 216.12,
+   "text": "And when he had translated the first sermon, the one that we are going to be looking at today,"
+  },
+  {
+   "t": 216.12,
+   "end": 219.9,
+   "text": "he gave tapes to close friends."
+  },
+  {
+   "t": 220.52,
+   "end": 223.04,
+   "text": "One of these tapes reached Godwin Samararatna,"
+  },
+  {
+   "t": 223.26,
+   "end": 228.22,
+   "text": "a very well-known and loved meditation teacher in Sri Lanka,"
+  },
+  {
+   "t": 228.44,
+   "end": 229.52,
+   "text": "and he gave it to me."
+  },
+  {
+   "t": 230.56,
+   "end": 235.54,
+   "text": "And when I listened to this talk in English, I was very thrilled."
+  },
+  {
+   "t": 236.32,
+   "end": 241.66,
+   "text": "And I remember immediately the next day, I went to visit Venerable Nyanananda."
+  },
+  {
+   "t": 241.66,
+   "end": 246.1,
+   "text": "Venerable Nyanananda, he was living in a cave in the Kegol area at that time."
+  },
+  {
+   "t": 246.56,
+   "end": 251.66,
+   "text": "And I just said, Venerable Nyanananda, please keep translating, and I'll do all the rest."
+  },
+  {
+   "t": 252.06,
+   "end": 257.32,
+   "text": "It means that I was going to transcribe these sermons."
+  },
+  {
+   "t": 257.68,
+   "end": 264.92,
+   "text": "And also, because he has this incredible memory that he just quotes Pali passages,"
+  },
+  {
+   "t": 266.5,
+   "end": 267.96,
+   "text": "he just has them at his fingertips."
+  },
+  {
+   "t": 267.96,
+   "end": 272.36,
+   "text": "But there was still a task to find the references."
+  },
+  {
+   "t": 274.12,
+   "end": 278.44,
+   "text": "And so, for all these altogether 33 sermons,"
+  },
+  {
+   "t": 278.74,
+   "end": 282.36,
+   "text": "I had the honor and merit to transcribe them"
+  },
+  {
+   "t": 282.36,
+   "end": 288.0,
+   "text": "and to locate the reference in the PTS editions."
+  },
+  {
+   "t": 289.6,
+   "end": 295.9,
+   "text": "And for me, this has had a lot of impact on my understanding of the Dhamma."
+  },
+  {
+   "t": 295.9,
+   "end": 302.3,
+   "text": "So, I had earlier been learning from Bhikkhu Bodhi."
+  },
+  {
+   "t": 302.58,
+   "end": 307.98,
+   "text": "He had given all these talks on Majjima Nikaya discourses,"
+  },
+  {
+   "t": 308.74,
+   "end": 314.4,
+   "text": "and they had been recorded as tapes and were available at the BPS,"
+  },
+  {
+   "t": 314.62,
+   "end": 316.08,
+   "text": "the Buddhist Publication Society."
+  },
+  {
+   "t": 316.08,
+   "end": 319.3,
+   "text": "So, basically, I listened to all of his talks."
+  },
+  {
+   "t": 319.46,
+   "end": 320.66,
+   "text": "There were lots of them."
+  },
+  {
+   "t": 322.48,
+   "end": 327.64,
+   "text": "And from time to time, I would go to visit him at Forest Hermitage and ask questions."
+  },
+  {
+   "t": 328.62,
+   "end": 334.0,
+   "text": "And that laid a very solid foundation for my understanding of Dhamma."
+  },
+  {
+   "t": 336.0,
+   "end": 340.28,
+   "text": "And then, I did basically the same with Venomal Nyanananda,"
+  },
+  {
+   "t": 340.36,
+   "end": 341.9,
+   "text": "but with these Nibbana sermons."
+  },
+  {
+   "t": 342.3,
+   "end": 345.06,
+   "text": "And I did not just listen to them, but transcribe them."
+  },
+  {
+   "t": 345.2,
+   "end": 348.24,
+   "text": "And I would also regularly go to visit him in his cave"
+  },
+  {
+   "t": 348.24,
+   "end": 351.5,
+   "text": "and ask questions related to these sermons or other aspects."
+  },
+  {
+   "t": 351.5,
+   "end": 361.5,
+   "text": "And so, these two eminent monks have basically laid the foundation for my understanding of Buddhism."
+  },
+  {
+   "t": 362.7,
+   "end": 366.9,
+   "text": "And Venomal Bhikkhu Bodhi is very well known in the West"
+  },
+  {
+   "t": 366.9,
+   "end": 373.32,
+   "text": "through his translations of Majjima Nikaya, Samyata Nikaya, Anguttara Nikaya."
+  },
+  {
+   "t": 373.32,
+   "end": 377.46,
+   "text": "And now he is coming out with the translation of Sutta Nipata and commentary."
+  },
+  {
+   "t": 378.86,
+   "end": 381.9,
+   "text": "But Venomal Nyanananda is less well known."
+  },
+  {
+   "t": 383.3,
+   "end": 390.18,
+   "text": "And so, because of the benefit I see in studying these sermons"
+  },
+  {
+   "t": 390.18,
+   "end": 395.94,
+   "text": "and also out of the wish to make his approach and teaching more widely known in the West,"
+  },
+  {
+   "t": 396.28,
+   "end": 401.02,
+   "text": "there is this idea of presenting them in an online course."
+  },
+  {
+   "t": 403.32,
+   "end": 408.0,
+   "text": "And what I will be doing is just go through these sermons,"
+  },
+  {
+   "t": 408.26,
+   "end": 411.98,
+   "text": "read them out, and offer some comments at times."
+  },
+  {
+   "t": 412.96,
+   "end": 418.44,
+   "text": "I sometimes give alternative translations, usually those by Bhikkhu Bodhi."
+  },
+  {
+   "t": 419.4,
+   "end": 422.52,
+   "text": "The course is meant for the general public,"
+  },
+  {
+   "t": 423.18,
+   "end": 427.48,
+   "text": "so there will not be a discussion of Pali, Pali grammar."
+  },
+  {
+   "t": 428.16,
+   "end": 431.02,
+   "text": "And for all those who are not familiar with Pali,"
+  },
+  {
+   "t": 431.18,
+   "end": 435.54,
+   "text": "I think it is just nice for them to just see a second translation."
+  },
+  {
+   "t": 435.54,
+   "end": 439.54,
+   "text": "Then this can sometimes make it easier to understand the passage."
+  },
+  {
+   "t": 441.76,
+   "end": 445.58,
+   "text": "And sometimes I give my own ideas or comments."
+  },
+  {
+   "t": 446.32,
+   "end": 449.6,
+   "text": "And I would just like to be very clear from the outset"
+  },
+  {
+   "t": 449.6,
+   "end": 454.38,
+   "text": "that these are not at all meant to be the final word on the matter."
+  },
+  {
+   "t": 454.82,
+   "end": 461.14,
+   "text": "It is just meant as, this is how I understand what he says,"
+  },
+  {
+   "t": 461.24,
+   "end": 462.68,
+   "text": "and I just might be wrong."
+  },
+  {
+   "t": 463.12,
+   "end": 468.34,
+   "text": "It's just another perspective and hopefully a starting point for further discussion."
+  },
+  {
+   "t": 469.8,
+   "end": 473.58,
+   "text": "And in terms of translation and terminology,"
+  },
+  {
+   "t": 474.2,
+   "end": 476.58,
+   "text": "I have my own preferences,"
+  },
+  {
+   "t": 477.42,
+   "end": 480.3,
+   "text": "and I just wanted to mention them at the outset."
+  },
+  {
+   "t": 480.62,
+   "end": 485.08,
+   "text": "So usually Nibbana and Dukkha,"
+  },
+  {
+   "t": 485.86,
+   "end": 489.6,
+   "text": "these are two terms that I personally prefer to leave them untranslated."
+  },
+  {
+   "t": 489.6,
+   "end": 494.14,
+   "text": "I feel they are just too rich in connotations"
+  },
+  {
+   "t": 494.14,
+   "end": 498.62,
+   "text": "to allow for a single English term."
+  },
+  {
+   "t": 498.96,
+   "end": 500.96,
+   "text": "But if I were hard-pressed,"
+  },
+  {
+   "t": 501.74,
+   "end": 504.78,
+   "text": "I think Nibbana I would probably opt for"
+  },
+  {
+   "t": 506.46,
+   "end": 509.56,
+   "text": "going out or cooling down of a fire"
+  },
+  {
+   "t": 509.56,
+   "end": 511.56,
+   "text": "instead of extinction."
+  },
+  {
+   "t": 513.76,
+   "end": 518.12,
+   "text": "And Dukkha I would usually opt for unsatisfactory."
+  },
+  {
+   "t": 519.6,
+   "end": 523.88,
+   "text": "I think suffering for Dukkha as a general characteristic"
+  },
+  {
+   "t": 523.88,
+   "end": 526.94,
+   "text": "or phenomena is prone to be misleading."
+  },
+  {
+   "t": 528.62,
+   "end": 529.38,
+   "text": "And Nibbida,"
+  },
+  {
+   "t": 529.72,
+   "end": 534.3,
+   "text": "I also would prefer disenchantment over disgust."
+  },
+  {
+   "t": 535.84,
+   "end": 538.74,
+   "text": "Anyhow, these are just my personal preferences."
+  },
+  {
+   "t": 539.12,
+   "end": 543.74,
+   "text": "So with these few introductory remarks settled,"
+  },
+  {
+   "t": 544.4,
+   "end": 548.26,
+   "text": "now I start going through the sermon."
+  },
+  {
+   "t": 548.26,
+   "end": 552.98,
+   "text": "And it opens with the traditional expression"
+  },
+  {
+   "t": 552.98,
+   "end": 554.42,
+   "text": "of homage to the Buddha."
+  },
+  {
+   "t": 555.28,
+   "end": 560.56,
+   "text": "And then there is this motto"
+  },
+  {
+   "t": 560.56,
+   "end": 562.9,
+   "text": "that the Venerable has chosen"
+  },
+  {
+   "t": 562.9,
+   "end": 566.08,
+   "text": "for the series of sermons."
+  },
+  {
+   "t": 579.18,
+   "end": 581.56,
+   "text": "This is peaceful."
+  },
+  {
+   "t": 582.06,
+   "end": 583.14,
+   "text": "This is excellent."
+  },
+  {
+   "t": 595.84,
+   "end": 599.14,
+   "text": "With the permission of the most venerable great preceptor,"
+  },
+  {
+   "t": 599.35,
+   "end": 599.71,
+   "text": "this year it may be a step to"
+  },
+  {
+   "t": 600.0,
+   "end": 602.44,
+   "text": "and the assembly of the Venerable Meditative Monks."
+  },
+  {
+   "t": 604.06,
+   "end": 608.9,
+   "text": "Recently, we have had an occasion to listen to a series of sermons on Nibbāna,"
+  },
+  {
+   "t": 609.68,
+   "end": 616.66,
+   "text": "and there have been differences of opinion regarding the interpretation of some deep suttas on Nibbāna in those sermons."
+  },
+  {
+   "t": 618.28,
+   "end": 623.86,
+   "text": "And so the Venerable Great Preceptor suggested to me that it would be useful to this group"
+  },
+  {
+   "t": 623.86,
+   "end": 630.36,
+   "text": "if I would give a set of sermons on Nibbāna, touching on those controversial points."
+  },
+  {
+   "t": 631.84,
+   "end": 638.86,
+   "text": "At first, for many reasons, I hesitated to accept this invitation for a serious task."
+  },
+  {
+   "t": 639.56,
+   "end": 645.26,
+   "text": "But then, as the Venerable Great Preceptor repeatedly encouraged me on this,"
+  },
+  {
+   "t": 646.14,
+   "end": 650.28,
+   "text": "I gave some thought as to how best I could set about doing it."
+  },
+  {
+   "t": 651.18,
+   "end": 656.3,
+   "text": "And it occurred to me that it would be best if I could address those sermons"
+  },
+  {
+   "t": 656.3,
+   "end": 660.24,
+   "text": "directly to the task before us in this Nisara Navanaya,"
+  },
+  {
+   "t": 660.54,
+   "end": 662.48,
+   "text": "and that is meditative attention,"
+  },
+  {
+   "t": 663.36,
+   "end": 667.78,
+   "text": "rather than dealing with those deep controversial suttas in academic isolation."
+  },
+  {
+   "t": 668.8,
+   "end": 675.48,
+   "text": "And that is why I have selected the above quotation as the theme for the entire set of sermons,"
+  },
+  {
+   "t": 675.48,
+   "end": 680.82,
+   "text": "hoping that it would create the correct atmosphere of meditative attention."
+  },
+  {
+   "t": 695.52,
+   "end": 699.16,
+   "text": "This is peaceful. This is excellent."
+  },
+  {
+   "t": 699.52,
+   "end": 704.96,
+   "text": "Namely, the stilling of all preparations, the relinquishment of all assets,"
+  },
+  {
+   "t": 704.96,
+   "end": 709.8,
+   "text": "the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 711.32,
+   "end": 716.96,
+   "text": "This is, in fact, a meditation subject in itself, a kammatthana."
+  },
+  {
+   "t": 717.32,
+   "end": 721.98,
+   "text": "This is the reflection on the peace of Nibbāna, Upasamānusati."
+  },
+  {
+   "t": 722.92,
+   "end": 723.72,
+   "text": "Comment?"
+  },
+  {
+   "t": 723.72,
+   "end": 728.9,
+   "text": "Yeah, I like to offer my own alternative translation."
+  },
+  {
+   "t": 729.24,
+   "end": 735.04,
+   "text": "It's just how it speaks to me."
+  },
+  {
+   "t": 735.84,
+   "end": 738.44,
+   "text": "This is peaceful. This is sublime."
+  },
+  {
+   "t": 739.08,
+   "end": 741.3,
+   "text": "Namely, the calming of all constructions,"
+  },
+  {
+   "t": 741.78,
+   "end": 743.76,
+   "text": "the letting go of all supports,"
+  },
+  {
+   "t": 744.2,
+   "end": 749.1,
+   "text": "the extinguishing of craving, dispassion, cessation, Nibbāna."
+  },
+  {
+   "t": 750.88,
+   "end": 758.54,
+   "text": "So, I understand it to refer to the calming of all constructions."
+  },
+  {
+   "t": 760.48,
+   "end": 763.1,
+   "text": "Yeah, and the term here is sankara,"
+  },
+  {
+   "t": 763.22,
+   "end": 767.22,
+   "text": "and sankara can have a range of nuances."
+  },
+  {
+   "t": 769.1,
+   "end": 775.74,
+   "text": "But I understand it particularly to refer to this mental conditioning"
+  },
+  {
+   "t": 775.74,
+   "end": 778.14,
+   "text": "or reactivity by ways of defilements."
+  },
+  {
+   "t": 781.18,
+   "end": 789.34,
+   "text": "So, the very tendency to react with defilements to a particular experience"
+  },
+  {
+   "t": 789.34,
+   "end": 793.32,
+   "text": "is, in turn, what reinforces that conditioning"
+  },
+  {
+   "t": 793.32,
+   "end": 796.08,
+   "text": "to react in future in similar ways."
+  },
+  {
+   "t": 797.34,
+   "end": 800.5,
+   "text": "And so, it's the calming of all these mental constructions"
+  },
+  {
+   "t": 802.08,
+   "end": 804.88,
+   "text": "as one of the epithets of Nibbāna."
+  },
+  {
+   "t": 805.68,
+   "end": 808.16,
+   "text": "Then, the letting go of all supports,"
+  },
+  {
+   "t": 809.26,
+   "end": 810.16,
+   "text": "Uppadipadini Saga."
+  },
+  {
+   "t": 810.38,
+   "end": 815.44,
+   "text": "And here, I find it helpful to turn to another discourse,"
+  },
+  {
+   "t": 815.62,
+   "end": 818.24,
+   "text": "the Giri Mahananda Sutta in Anguttara Nikaya."
+  },
+  {
+   "t": 819.86,
+   "end": 823.38,
+   "text": "And it has a series of different perceptions."
+  },
+  {
+   "t": 824.66,
+   "end": 828.46,
+   "text": "And one is the perceptions of not delighting in the whole world."
+  },
+  {
+   "t": 829.76,
+   "end": 832.26,
+   "text": "And here is Van Mala Bhikkhu Bodhi's translations"
+  },
+  {
+   "t": 832.26,
+   "end": 835.18,
+   "text": "of what this requires."
+  },
+  {
+   "t": 835.9,
+   "end": 839.48,
+   "text": "What is the perception of non-delight in the world?"
+  },
+  {
+   "t": 839.48,
+   "end": 843.06,
+   "text": "Here, Bhikkhu refrains from any engagement and clinging,"
+  },
+  {
+   "t": 843.42,
+   "end": 846.38,
+   "text": "mental standpoints, adherences, and underlying tendencies"
+  },
+  {
+   "t": 846.38,
+   "end": 847.88,
+   "text": "in regard to the world,"
+  },
+  {
+   "t": 848.18,
+   "end": 851.18,
+   "text": "abandoning them without clinging to them."
+  },
+  {
+   "t": 852.5,
+   "end": 858.26,
+   "text": "I find this a useful gloss on what it means"
+  },
+  {
+   "t": 858.26,
+   "end": 859.74,
+   "text": "to let go of all supports."
+  },
+  {
+   "t": 860.3,
+   "end": 862.7,
+   "text": "It means to let go of all mental supports,"
+  },
+  {
+   "t": 862.7,
+   "end": 866.92,
+   "text": "of all views and ideas and opinions to which we cling"
+  },
+  {
+   "t": 866.92,
+   "end": 870.74,
+   "text": "and which, in a way, build up our sense of self."
+  },
+  {
+   "t": 872.38,
+   "end": 875.1,
+   "text": "The extinguishing of craving, I think, is clear."
+  },
+  {
+   "t": 875.58,
+   "end": 876.62,
+   "text": "Dispassion also."
+  },
+  {
+   "t": 877.5,
+   "end": 880.32,
+   "text": "In the same Giri Mahananda Sutta,"
+  },
+  {
+   "t": 881.34,
+   "end": 884.14,
+   "text": "dispassion and cessation are described"
+  },
+  {
+   "t": 884.14,
+   "end": 885.68,
+   "text": "in nearly identical terms."
+  },
+  {
+   "t": 887.46,
+   "end": 891.58,
+   "text": "Therefore, I take the position here"
+  },
+  {
+   "t": 891.58,
+   "end": 894.76,
+   "text": "from dispassion to cessation to have similar implications."
+  },
+  {
+   "t": 897.14,
+   "end": 899.82,
+   "text": "Dispassion is particularly on passion."
+  },
+  {
+   "t": 900.04,
+   "end": 901.92,
+   "text": "Cessation, then, I understand to be"
+  },
+  {
+   "t": 901.92,
+   "end": 903.98,
+   "text": "the cessation of defilements,"
+  },
+  {
+   "t": 914.32,
+   "end": 917.22,
+   "text": "the Nibbāna of defilements,"
+  },
+  {
+   "t": 917.24,
+   "end": 921.12,
+   "text": "the going out, cooling down,"
+  },
+  {
+   "t": 921.34,
+   "end": 925.24,
+   "text": "or extinguishing of defilements."
+  },
+  {
+   "t": 927.1,
+   "end": 928.16,
+   "text": "End of comment."
+  },
+  {
+   "t": 928.36,
+   "end": 929.24,
+   "text": "I continue to read."
+  },
+  {
+   "t": 931.4,
+   "end": 934.84,
+   "text": "So, if we can successfully make use of this"
+  },
+  {
+   "t": 934.84,
+   "end": 937.58,
+   "text": "as both the heading and the theme of these sermons,"
+  },
+  {
+   "t": 937.88,
+   "end": 940.42,
+   "text": "we would be in a position to understand"
+  },
+  {
+   "t": 940.42,
+   "end": 942.36,
+   "text": "those six qualities of the Dhamma."
+  },
+  {
+   "t": 943.14,
+   "end": 946.24,
+   "text": "We are told that the Dhamma is svakkhata,"
+  },
+  {
+   "t": 946.68,
+   "end": 948.14,
+   "text": "that it is well proclaimed."
+  },
+  {
+   "t": 948.92,
+   "end": 952.08,
+   "text": "Some diptika can be seen here and now."
+  },
+  {
+   "t": 972.12,
+   "end": 975.56,
+   "text": "This set of sermons would have fulfilled its purpose"
+  },
+  {
+   "t": 975.56,
+   "end": 978.14,
+   "text": "if it drives home the true significance"
+  },
+  {
+   "t": 978.14,
+   "end": 980.46,
+   "text": "of these six qualities of the Dhamma."
+  },
+  {
+   "t": 981.72,
+   "end": 983.04,
+   "text": "Now, at the very outset,"
+  },
+  {
+   "t": 983.1,
+   "end": 984.76,
+   "text": "I would like to say a few things"
+  },
+  {
+   "t": 984.76,
+   "end": 986.5,
+   "text": "by way of preparing the background,"
+  },
+  {
+   "t": 987.1,
+   "end": 988.86,
+   "text": "and I do hope that this assembly"
+  },
+  {
+   "t": 988.86,
+   "end": 990.02,
+   "text": "would bear with me"
+  },
+  {
+   "t": 990.02,
+   "end": 991.82,
+   "text": "for saying certain things"
+  },
+  {
+   "t": 991.82,
+   "end": 994.32,
+   "text": "that I will be compelled to say in this concern."
+  },
+  {
+   "t": 995.42,
+   "end": 996.66,
+   "text": "By way of background,"
+  },
+  {
+   "t": 997.32,
+   "end": 998.76,
+   "text": "something has to be said"
+  },
+  {
+   "t": 998.76,
+   "end": 1000.86,
+   "text": "as to why there are so many complications"
+  },
+  {
+   "t": 1000.86,
+   "end": 1002.52,
+   "text": "with regard to the meaning"
+  },
+  {
+   "t": 1002.52,
+   "end": 1004.98,
+   "text": "of some of the deep suttas on Nipponbana."
+  },
+  {
+   "t": 1006.74,
+   "end": 1008.34,
+   "text": "There is a popular belief"
+  },
+  {
+   "t": 1008.34,
+   "end": 1011.14,
+   "text": "that the commentaries are finally traceable"
+  },
+  {
+   "t": 1011.14,
+   "end": 1013.66,
+   "text": "to a miscellany of the Buddha world,"
+  },
+  {
+   "t": 1014.08,
+   "end": 1015.2,
+   "text": "scattered here and there,"
+  },
+  {
+   "t": 1015.4,
+   "end": 1016.7,
+   "text": "spakkhina kadesana."
+  },
+  {
+   "t": 1017.48,
+   "end": 1019.38,
+   "text": "But the true state of affairs"
+  },
+  {
+   "t": 1019.38,
+   "end": 1020.8,
+   "text": "seems to be rather different."
+  },
+  {
+   "t": 1021.44,
+   "end": 1022.4,
+   "text": "Very often,"
+  },
+  {
+   "t": 1022.62,
+   "end": 1023.86,
+   "text": "the commentaries are unable"
+  },
+  {
+   "t": 1023.86,
+   "end": 1025.4,
+   "text": "to say something conclusive"
+  },
+  {
+   "t": 1025.4,
+   "end": 1027.68,
+   "text": "regarding the meaning of deep suttas."
+  },
+  {
+   "t": 1028.46,
+   "end": 1029.9,
+   "text": "So, they simply give"
+  },
+  {
+   "t": 1029.9,
+   "end": 1031.38,
+   "text": "some possible interpretations,"
+  },
+  {
+   "t": 1032.14,
+   "end": 1033.92,
+   "text": "and the reader finds himself"
+  },
+  {
+   "t": 1033.92,
+   "end": 1035.9,
+   "text": "at a loss to choose the correct one."
+  },
+  {
+   "t": 1037.16,
+   "end": 1038.58,
+   "text": "Sometimes, the commentaries"
+  },
+  {
+   "t": 1038.58,
+   "end": 1039.54,
+   "text": "go at a tangent"
+  },
+  {
+   "t": 1039.54,
+   "end": 1041.38,
+   "text": "and miss the correct interpretation."
+  },
+  {
+   "t": 1043.5,
+   "end": 1045.4,
+   "text": "Why the commentaries are silent"
+  },
+  {
+   "t": 1045.4,
+   "end": 1046.54,
+   "text": "on some deep suttas"
+  },
+  {
+   "t": 1046.54,
+   "end": 1047.52,
+   "text": "is also a problem"
+  },
+  {
+   "t": 1047.52,
+   "end": 1048.68,
+   "text": "to modern dear scholars."
+  },
+  {
+   "t": 1049.34,
+   "end": 1051.2,
+   "text": "There are some historical reasons"
+  },
+  {
+   "t": 1051.2,
+   "end": 1052.88,
+   "text": "leading to this state of affairs"
+  },
+  {
+   "t": 1052.88,
+   "end": 1053.62,
+   "text": "in the commentaries."
+  },
+  {
+   "t": 1056.68,
+   "end": 1058.02,
+   "text": "In the Ani-sutta"
+  },
+  {
+   "t": 1058.02,
+   "end": 1059.02,
+   "text": "of the Nidana-vaga"
+  },
+  {
+   "t": 1059.02,
+   "end": 1060.34,
+   "text": "in the Samyatta Nikaya,"
+  },
+  {
+   "t": 1060.46,
+   "end": 1061.62,
+   "text": "we find the Buddha"
+  },
+  {
+   "t": 1061.62,
+   "end": 1063.54,
+   "text": "making certain prophetic utterances"
+  },
+  {
+   "t": 1063.54,
+   "end": 1064.74,
+   "text": "regarding the dangers"
+  },
+  {
+   "t": 1064.74,
+   "end": 1066.34,
+   "text": "that will befall the sasana"
+  },
+  {
+   "t": 1066.34,
+   "end": 1066.94,
+   "text": "in the future."
+  },
+  {
+   "t": 1067.78,
+   "end": 1069.7,
+   "text": "It is said that in times to come,"
+  },
+  {
+   "t": 1069.9,
+   "end": 1071.04,
+   "text": "monks will lose interest"
+  },
+  {
+   "t": 1071.04,
+   "end": 1072.34,
+   "text": "in those deep suttas"
+  },
+  {
+   "t": 1072.34,
+   "end": 1074.58,
+   "text": "which deal with matters transcendental,"
+  },
+  {
+   "t": 1075.3,
+   "end": 1076.54,
+   "text": "that they would not listen"
+  },
+  {
+   "t": 1076.54,
+   "end": 1077.38,
+   "text": "to those suttas"
+  },
+  {
+   "t": 1077.38,
+   "end": 1078.04,
+   "text": "that have to do"
+  },
+  {
+   "t": 1078.04,
+   "end": 1079.04,
+   "text": "with the idea of emptiness,"
+  },
+  {
+   "t": 1079.2,
+   "end": 1079.8,
+   "text": "sunyata."
+  },
+  {
+   "t": 1080.88,
+   "end": 1082.08,
+   "text": "They would not think"
+  },
+  {
+   "t": 1082.08,
+   "end": 1082.74,
+   "text": "it even worth"
+  },
+  {
+   "t": 1082.74,
+   "end": 1084.06,
+   "text": "for learning or pondering"
+  },
+  {
+   "t": 1084.06,
+   "end": 1084.78,
+   "text": "over the meaning"
+  },
+  {
+   "t": 1084.78,
+   "end": 1085.84,
+   "text": "of those suttas."
+  },
+  {
+   "t": 1113.34,
+   "end": 1114.98,
+   "text": "There is also another"
+  },
+  {
+   "t": 1114.98,
+   "end": 1115.92,
+   "text": "historical reason"
+  },
+  {
+   "t": 1115.92,
+   "end": 1117.02,
+   "text": "that can be adduced."
+  },
+  {
+   "t": 1117.62,
+   "end": 1119.32,
+   "text": "An idea got deeply rooted"
+  },
+  {
+   "t": 1119.32,
+   "end": 1120.28,
+   "text": "at a certain stage"
+  },
+  {
+   "t": 1120.28,
+   "end": 1121.44,
+   "text": "in the sasana history"
+  },
+  {
+   "t": 1121.44,
+   "end": 1123.18,
+   "text": "that what is contained"
+  },
+  {
+   "t": 1123.18,
+   "end": 1124.3,
+   "text": "in the suttapittaka"
+  },
+  {
+   "t": 1124.3,
+   "end": 1124.92,
+   "text": "is simply"
+  },
+  {
+   "t": 1124.92,
+   "end": 1126.02,
+   "text": "the conventional teaching."
+  },
+  {
+   "t": 1126.82,
+   "end": 1128.44,
+   "text": "And so it came to imply"
+  },
+  {
+   "t": 1128.44,
+   "end": 1129.54,
+   "text": "that there is nothing"
+  },
+  {
+   "t": 1129.54,
+   "end": 1130.88,
+   "text": "so deep in these suttas."
+  },
+  {
+   "t": 1132.52,
+   "end": 1134.74,
+   "text": "This notion also had its share"
+  },
+  {
+   "t": 1134.74,
+   "end": 1136.86,
+   "text": "in the present lack of interest"
+  },
+  {
+   "t": 1136.86,
+   "end": 1137.72,
+   "text": "in these suttas."
+  },
+  {
+   "t": 1143.02,
+   "end": 1144.92,
+   "text": "According to Manu Rattapurani,"
+  },
+  {
+   "t": 1145.36,
+   "end": 1146.44,
+   "text": "the Anguttura commentary,"
+  },
+  {
+   "t": 1147.1,
+   "end": 1148.82,
+   "text": "already at an early stage"
+  },
+  {
+   "t": 1148.82,
+   "end": 1149.92,
+   "text": "in the sasana history"
+  },
+  {
+   "t": 1149.92,
+   "end": 1150.76,
+   "text": "of Sri Lanka,"
+  },
+  {
+   "t": 1150.92,
+   "end": 1152.02,
+   "text": "there had been a debate"
+  },
+  {
+   "t": 1152.02,
+   "end": 1153.0,
+   "text": "between those"
+  },
+  {
+   "t": 1153.0,
+   "end": 1154.22,
+   "text": "who upheld the precept"
+  },
+  {
+   "t": 1154.22,
+   "end": 1155.68,
+   "text": "and those who stood"
+  },
+  {
+   "t": 1155.68,
+   "end": 1156.52,
+   "text": "for realization."
+  },
+  {
+   "t": 1157.38,
+   "end": 1158.5,
+   "text": "And it is said"
+  },
+  {
+   "t": 1158.5,
+   "end": 1159.54,
+   "text": "that those who upheld"
+  },
+  {
+   "t": 1159.54,
+   "end": 1160.1,
+   "text": "the precept"
+  },
+  {
+   "t": 1160.1,
+   "end": 1160.9,
+   "text": "won the day."
+  },
+  {
+   "t": 1161.62,
+   "end": 1162.96,
+   "text": "The final conclusion"
+  },
+  {
+   "t": 1162.96,
+   "end": 1163.7,
+   "text": "was that"
+  },
+  {
+   "t": 1163.7,
+   "end": 1164.6,
+   "text": "for the continuity"
+  },
+  {
+   "t": 1164.6,
+   "end": 1165.5,
+   "text": "of the sasana,"
+  },
+  {
+   "t": 1165.84,
+   "end": 1167.54,
+   "text": "precept itself is enough,"
+  },
+  {
+   "t": 1167.9,
+   "end": 1168.74,
+   "text": "not so much"
+  },
+  {
+   "t": 1168.74,
+   "end": 1169.7,
+   "text": "the realization."
+  },
+  {
+   "t": 1170.82,
+   "end": 1171.34,
+   "text": "Comment?"
+  },
+  {
+   "t": 1173.14,
+   "end": 1174.3,
+   "text": "There has been"
+  },
+  {
+   "t": 1174.3,
+   "end": 1175.86,
+   "text": "some criticism"
+  },
+  {
+   "t": 1175.86,
+   "end": 1178.18,
+   "text": "that this passage"
+  },
+  {
+   "t": 1178.18,
+   "end": 1179.38,
+   "text": "in Manu Rattapurani"
+  },
+  {
+   "t": 1179.38,
+   "end": 1180.48,
+   "text": "does not really refer"
+  },
+  {
+   "t": 1180.48,
+   "end": 1181.12,
+   "text": "to precept,"
+  },
+  {
+   "t": 1181.5,
+   "end": 1182.98,
+   "text": "but rather to learning."
+  },
+  {
+   "t": 1183.62,
+   "end": 1185.32,
+   "text": "And I am just giving here"
+  },
+  {
+   "t": 1185.32,
+   "end": 1186.08,
+   "text": "an extract"
+  },
+  {
+   "t": 1186.08,
+   "end": 1188.5,
+   "text": "in Pali,"
+  },
+  {
+   "t": 1188.66,
+   "end": 1189.96,
+   "text": "Paryatiyahhi"
+  },
+  {
+   "t": 1189.96,
+   "end": 1191.08,
+   "text": "antarhitaya"
+  },
+  {
+   "t": 1191.08,
+   "end": 1192.64,
+   "text": "patipati antardhayati"
+  },
+  {
+   "t": 1192.64,
+   "end": 1194.22,
+   "text": "Paryatiyatittaya"
+  },
+  {
+   "t": 1194.22,
+   "end": 1195.74,
+   "text": "patipati patithati"
+  },
+  {
+   "t": 1195.74,
+   "end": 1197.16,
+   "text": "as a basic idea"
+  },
+  {
+   "t": 1197.16,
+   "end": 1199.84,
+   "text": "that when learning"
+  },
+  {
+   "t": 1199.84,
+   "end": 1199.98,
+   "text": "..."
+  },
+  {
+   "t": 1200.0,
+   "end": 1203.06,
+   "text": "disappears, the practice will also"
+  },
+  {
+   "t": 1203.06,
+   "end": 1206.28,
+   "text": "disappear, but as long as the learning is"
+  },
+  {
+   "t": 1206.28,
+   "end": 1208.92,
+   "text": "maintained, stable, then"
+  },
+  {
+   "t": 1208.92,
+   "end": 1212.36,
+   "text": "the practice will also stay. And I think"
+  },
+  {
+   "t": 1212.36,
+   "end": 1215.4,
+   "text": "we need to understand this from the viewpoint of oral"
+  },
+  {
+   "t": 1215.4,
+   "end": 1218.46,
+   "text": "transmission that was at that time still the mode"
+  },
+  {
+   "t": 1218.46,
+   "end": 1221.68,
+   "text": "for passing on the discourses"
+  },
+  {
+   "t": 1221.68,
+   "end": 1224.52,
+   "text": "that according to tradition was spoken by the Buddha"
+  },
+  {
+   "t": 1224.52,
+   "end": 1225.5,
+   "text": "and his disciples."
+  },
+  {
+   "t": 1227.16,
+   "end": 1231.44,
+   "text": "So the task of"
+  },
+  {
+   "t": 1231.44,
+   "end": 1234.56,
+   "text": "memorizing suttas and then keep on rehearsing"
+  },
+  {
+   "t": 1234.56,
+   "end": 1237.54,
+   "text": "them obviously takes up quite some"
+  },
+  {
+   "t": 1237.54,
+   "end": 1239.86,
+   "text": "time. And then the question is"
+  },
+  {
+   "t": 1239.86,
+   "end": 1243.1,
+   "text": "what does one do with one's"
+  },
+  {
+   "t": 1243.1,
+   "end": 1246.34,
+   "text": "time? Does one engage in intensive meditation"
+  },
+  {
+   "t": 1246.34,
+   "end": 1248.2,
+   "text": "or does one rather"
+  },
+  {
+   "t": 1248.2,
+   "end": 1251.28,
+   "text": "use it to memorize those suttas?"
+  },
+  {
+   "t": 1251.52,
+   "end": 1255.04,
+   "text": "And it is this decision that had to be taken at that time"
+  },
+  {
+   "t": 1255.04,
+   "end": 1258.38,
+   "text": "and the decision then was that"
+  },
+  {
+   "t": 1258.38,
+   "end": 1263.04,
+   "text": "emphasis should be on maintaining alive the tradition"
+  },
+  {
+   "t": 1263.04,
+   "end": 1268.42,
+   "text": "of the teachings so that then others can use them"
+  },
+  {
+   "t": 1268.42,
+   "end": 1269.88,
+   "text": "for their practice."
+  },
+  {
+   "t": 1271.06,
+   "end": 1274.56,
+   "text": "And this is also why we benefit today if they had"
+  },
+  {
+   "t": 1274.56,
+   "end": 1279.2,
+   "text": "decided not to give emphasis to the practice all"
+  },
+  {
+   "t": 1279.2,
+   "end": 1282.82,
+   "text": "out. We would not have the Pali suttas"
+  },
+  {
+   "t": 1282.82,
+   "end": 1286.62,
+   "text": "now to have this course and for inspiring our practice."
+  },
+  {
+   "t": 1287.66,
+   "end": 1292.44,
+   "text": "But I think the Venaman Yanananda is still right in using the term precept"
+  },
+  {
+   "t": 1292.44,
+   "end": 1298.34,
+   "text": "because I assume that he is meaning to point to a general development"
+  },
+  {
+   "t": 1298.34,
+   "end": 1301.36,
+   "text": "that comes to a focal point here in this"
+  },
+  {
+   "t": 1301.36,
+   "end": 1309.46,
+   "text": "Manavatarapurani passage but which has roots further back in history and has a"
+  },
+  {
+   "t": 1309.46,
+   "end": 1313.48,
+   "text": "considerable impact on present-day Theravad tradition."
+  },
+  {
+   "t": 1314.42,
+   "end": 1322.0,
+   "text": "And this is precisely the strong emphasis on maintaining the precepts."
+  },
+  {
+   "t": 1324.28,
+   "end": 1332.02,
+   "text": "And there is an interesting passage, two interesting, three interesting passages from the canon"
+  },
+  {
+   "t": 1332.02,
+   "end": 1334.88,
+   "text": "that I would just like to briefly touch on."
+  },
+  {
+   "t": 1335.94,
+   "end": 1340.26,
+   "text": "Two of these passages are from the Mahaparinipmanu Sutta."
+  },
+  {
+   "t": 1340.26,
+   "end": 1345.04,
+   "text": "And so one of these, I give the references here,"
+  },
+  {
+   "t": 1346.24,
+   "end": 1350.74,
+   "text": "is the Buddha's permission that whatever minor rules,"
+  },
+  {
+   "t": 1350.74,
+   "end": 1353.88,
+   "text": "they can be abolished once he has passed away."
+  },
+  {
+   "t": 1354.76,
+   "end": 1358.18,
+   "text": "But at an earlier point in the same discourse,"
+  },
+  {
+   "t": 1358.18,
+   "end": 1361.72,
+   "text": "the Buddha teaches principles against decline."
+  },
+  {
+   "t": 1363.02,
+   "end": 1367.48,
+   "text": "And one of these principles is that monastics should not abolish"
+  },
+  {
+   "t": 1367.48,
+   "end": 1368.7,
+   "text": "what he has been promulgated."
+  },
+  {
+   "t": 1369.12,
+   "end": 1371.6,
+   "text": "And they should also not promulgate something new."
+  },
+  {
+   "t": 1373.4,
+   "end": 1378.74,
+   "text": "And so the friction between these two statements"
+  },
+  {
+   "t": 1379.88,
+   "end": 1383.7,
+   "text": "comes up at what is the first Sangiti,"
+  },
+  {
+   "t": 1384.0,
+   "end": 1389.46,
+   "text": "the communal recitation is the translation I prefer, not council,"
+  },
+  {
+   "t": 1391.44,
+   "end": 1393.66,
+   "text": "at every part in the Vinaya,"
+  },
+  {
+   "t": 1393.66,
+   "end": 1400.84,
+   "text": "because the assembled monastics are unable to come to an agreement"
+  },
+  {
+   "t": 1400.84,
+   "end": 1403.04,
+   "text": "what exactly are those minor rules."
+  },
+  {
+   "t": 1404.32,
+   "end": 1406.96,
+   "text": "And this is a rather major issue."
+  },
+  {
+   "t": 1407.2,
+   "end": 1412.78,
+   "text": "And the account of the first Sangiti reports that eventually Mahakasapa"
+  },
+  {
+   "t": 1412.78,
+   "end": 1416.52,
+   "text": "uses that same phrase that we find in Mahaparinipmanu Sutta"
+  },
+  {
+   "t": 1416.52,
+   "end": 1419.62,
+   "text": "about not abolishing what has been promulgated"
+  },
+  {
+   "t": 1419.62,
+   "end": 1425.16,
+   "text": "for the decision that nothing will be abolished."
+  },
+  {
+   "t": 1426.5,
+   "end": 1428.46,
+   "text": "I have studied this,"
+  },
+  {
+   "t": 1428.64,
+   "end": 1432.74,
+   "text": "and on the online forum you will be able to download the article"
+  },
+  {
+   "t": 1432.74,
+   "end": 1436.04,
+   "text": "Comparative Study of the First Sangitin of its Impact"
+  },
+  {
+   "t": 1436.04,
+   "end": 1439.22,
+   "text": "on Theravada Monastic Identity."
+  },
+  {
+   "t": 1440.0,
+   "end": 1441.54,
+   "text": "And I think it's just helpful"
+  },
+  {
+   "t": 1441.54,
+   "end": 1445.6,
+   "text": "to understand the historical background"
+  },
+  {
+   "t": 1445.6,
+   "end": 1447.8,
+   "text": "for this strong emphasis,"
+  },
+  {
+   "t": 1448.32,
+   "end": 1450.42,
+   "text": "particularly in the forest tradition"
+  },
+  {
+   "t": 1451.62,
+   "end": 1454.46,
+   "text": "of Theravada Buddhism,"
+  },
+  {
+   "t": 1455.18,
+   "end": 1458.14,
+   "text": "on upholding the precept"
+  },
+  {
+   "t": 1458.14,
+   "end": 1462.06,
+   "text": "and giving particular emphasis to that."
+  },
+  {
+   "t": 1462.94,
+   "end": 1464.22,
+   "text": "End of comment."
+  },
+  {
+   "t": 1467.92,
+   "end": 1471.26,
+   "text": "Of course, the efforts of the reciter monks of old"
+  },
+  {
+   "t": 1471.26,
+   "end": 1473.02,
+   "text": "for the preservation of the precept"
+  },
+  {
+   "t": 1473.02,
+   "end": 1475.12,
+   "text": "in the midst of droughts and famines"
+  },
+  {
+   "t": 1475.12,
+   "end": 1476.92,
+   "text": "and other calamitous situations"
+  },
+  {
+   "t": 1476.92,
+   "end": 1478.46,
+   "text": "are certainly praiseworthy."
+  },
+  {
+   "t": 1479.28,
+   "end": 1482.1,
+   "text": "But the unfortunate thing about it was this,"
+  },
+  {
+   "t": 1482.38,
+   "end": 1484.08,
+   "text": "the basket of the Buddha word"
+  },
+  {
+   "t": 1484.08,
+   "end": 1487.12,
+   "text": "came to be passed on from hand to hand in the dark."
+  },
+  {
+   "t": 1489.32,
+   "end": 1490.36,
+   "text": "So much so,"
+  },
+  {
+   "t": 1490.54,
+   "end": 1492.56,
+   "text": "that there was the risk of some valuable things"
+  },
+  {
+   "t": 1492.56,
+   "end": 1494.06,
+   "text": "slipping out in the process."
+  },
+  {
+   "t": 1495.88,
+   "end": 1498.36,
+   "text": "Also, there have been certain semantic developments"
+  },
+  {
+   "t": 1498.36,
+   "end": 1499.92,
+   "text": "in the commentarial period,"
+  },
+  {
+   "t": 1500.78,
+   "end": 1502.42,
+   "text": "and this will be obvious to anyone"
+  },
+  {
+   "t": 1502.42,
+   "end": 1504.08,
+   "text": "searching for the genuine Dhamma."
+  },
+  {
+   "t": 1504.76,
+   "end": 1507.36,
+   "text": "It seems that there had been a tendency"
+  },
+  {
+   "t": 1507.36,
+   "end": 1508.68,
+   "text": "in the commentarial period"
+  },
+  {
+   "t": 1508.68,
+   "end": 1511.88,
+   "text": "to elaborate even on some lucid words in the suttas,"
+  },
+  {
+   "t": 1512.22,
+   "end": 1515.02,
+   "text": "simply as a commentarial requirement."
+  },
+  {
+   "t": 1515.62,
+   "end": 1517.28,
+   "text": "And this led to the inclusion"
+  },
+  {
+   "t": 1517.28,
+   "end": 1518.94,
+   "text": "of many complicated ideas."
+  },
+  {
+   "t": 1526.2,
+   "end": 1528.54,
+   "text": "By too much overdrawing in the commentaries,"
+  },
+  {
+   "t": 1528.76,
+   "end": 1531.36,
+   "text": "the deeper meanings of the Dhamma got obscured."
+  },
+  {
+   "t": 1532.16,
+   "end": 1533.34,
+   "text": "As a matter of fact,"
+  },
+  {
+   "t": 1533.7,
+   "end": 1535.04,
+   "text": "the depth of the Dhamma"
+  },
+  {
+   "t": 1535.04,
+   "end": 1536.78,
+   "text": "has to be seen through lucidity,"
+  },
+  {
+   "t": 1537.78,
+   "end": 1540.9,
+   "text": "just as much as one sees the bottom of a tank"
+  },
+  {
+   "t": 1540.9,
+   "end": 1542.8,
+   "text": "only when the water is lucid."
+  },
+  {
+   "t": 1548.28,
+   "end": 1549.26,
+   "text": "What is the two?"
+  },
+  {
+   "t": 1549.74,
+   "end": 1550.8,
+   "text": "Name and form."
+  },
+  {
+   "t": 1552.8,
+   "end": 1555.44,
+   "text": "This is the second part of the ten questions"
+  },
+  {
+   "t": 1555.44,
+   "end": 1556.9,
+   "text": "Buddha had put to the venerable"
+  },
+  {
+   "t": 1556.9,
+   "end": 1558.36,
+   "text": "Samanera Sopaka,"
+  },
+  {
+   "t": 1558.62,
+   "end": 1560.96,
+   "text": "who had attained Aranjip at the age of seven."
+  },
+  {
+   "t": 1562.0,
+   "end": 1563.8,
+   "text": "It is like asking a child,"
+  },
+  {
+   "t": 1564.0,
+   "end": 1565.12,
+   "text": "can you count up to ten?"
+  },
+  {
+   "t": 1566.32,
+   "end": 1568.22,
+   "text": "All the ten questions were deep,"
+  },
+  {
+   "t": 1568.58,
+   "end": 1569.94,
+   "text": "the tenth being on Aranjip."
+  },
+  {
+   "t": 1570.64,
+   "end": 1571.74,
+   "text": "But of course,"
+  },
+  {
+   "t": 1571.9,
+   "end": 1574.36,
+   "text": "venerable Sopaka gave the right answer each time."
+  },
+  {
+   "t": 1575.24,
+   "end": 1576.84,
+   "text": "Now it is the second question"
+  },
+  {
+   "t": 1576.84,
+   "end": 1579.12,
+   "text": "and its answer that we are concerned with here,"
+  },
+  {
+   "t": 1579.26,
+   "end": 1580.6,
+   "text": "Na Manche Ru Panchen."
+  },
+  {
+   "t": 1581.3,
+   "end": 1582.06,
+   "text": "In fact,"
+  },
+  {
+   "t": 1582.34,
+   "end": 1584.94,
+   "text": "this is a basic teaching in insight training."
+  },
+  {
+   "t": 1586.02,
+   "end": 1586.58,
+   "text": "Comment?"
+  },
+  {
+   "t": 1587.52,
+   "end": 1590.84,
+   "text": "I found it helpful to look at the context"
+  },
+  {
+   "t": 1590.84,
+   "end": 1594.2,
+   "text": "of this question answered"
+  },
+  {
+   "t": 1594.2,
+   "end": 1595.18,
+   "text": "by the venerable Sopaka."
+  },
+  {
+   "t": 1595.5,
+   "end": 1595.62,
+   "text": "So,"
+  },
+  {
+   "t": 1596.18,
+   "end": 1601.16,
+   "text": "there's altogether ten such exchanges."
+  },
+  {
+   "t": 1601.16,
+   "end": 1604.08,
+   "text": "It's actually a catechism, I think,"
+  },
+  {
+   "t": 1604.08,
+   "end": 1605.24,
+   "text": "a basic catechism"
+  },
+  {
+   "t": 1605.24,
+   "end": 1607.92,
+   "text": "on aspects of Buddhist doctrine."
+  },
+  {
+   "t": 1609.04,
+   "end": 1611.42,
+   "text": "All beings subsist on nutriment is one,"
+  },
+  {
+   "t": 1611.68,
+   "end": 1612.6,
+   "text": "the three feelings,"
+  },
+  {
+   "t": 1612.8,
+   "end": 1613.58,
+   "text": "the four noble truths,"
+  },
+  {
+   "t": 1613.86,
+   "end": 1614.98,
+   "text": "five aggregates of clinging,"
+  },
+  {
+   "t": 1615.36,
+   "end": 1616.44,
+   "text": "six inner sense fears,"
+  },
+  {
+   "t": 1616.58,
+   "end": 1617.96,
+   "text": "seven awakening factors,"
+  },
+  {
+   "t": 1618.16,
+   "end": 1619.14,
+   "text": "noble eightfold path,"
+  },
+  {
+   "t": 1619.8,
+   "end": 1621.14,
+   "text": "the nine abodes of beings,"
+  },
+  {
+   "t": 1621.34,
+   "end": 1623.7,
+   "text": "and the ten factors of an Aranjip."
+  },
+  {
+   "t": 1624.78,
+   "end": 1627.9,
+   "text": "And I think this is somewhat similar"
+  },
+  {
+   "t": 1627.9,
+   "end": 1628.9,
+   "text": "to the principle"
+  },
+  {
+   "t": 1628.9,
+   "end": 1631.44,
+   "text": "that also underlies the Anguttara Nikaya,"
+  },
+  {
+   "t": 1631.64,
+   "end": 1633.24,
+   "text": "many of the discourses in there"
+  },
+  {
+   "t": 1633.24,
+   "end": 1633.82,
+   "text": "and its parallel,"
+  },
+  {
+   "t": 1633.98,
+   "end": 1634.98,
+   "text": "the Okotrika Agama,"
+  },
+  {
+   "t": 1635.2,
+   "end": 1637.96,
+   "text": "that in an oral setting,"
+  },
+  {
+   "t": 1638.5,
+   "end": 1640.3,
+   "text": "if you have like a numbered list,"
+  },
+  {
+   "t": 1640.32,
+   "end": 1642.34,
+   "text": "it's very easy to memorize it."
+  },
+  {
+   "t": 1644.54,
+   "end": 1645.94,
+   "text": "And as you can see,"
+  },
+  {
+   "t": 1645.94,
+   "end": 1646.24,
+   "text": "I mean,"
+  },
+  {
+   "t": 1646.5,
+   "end": 1648.2,
+   "text": "several of these are doctrinal,"
+  },
+  {
+   "t": 1648.4,
+   "end": 1650.32,
+   "text": "but one in nine are,"
+  },
+  {
+   "t": 1651.08,
+   "end": 1652.72,
+   "text": "I don't know how to call that,"
+  },
+  {
+   "t": 1652.84,
+   "end": 1654.2,
+   "text": "maybe related to nature,"
+  },
+  {
+   "t": 1654.2,
+   "end": 1654.9,
+   "text": "we could say."
+  },
+  {
+   "t": 1655.12,
+   "end": 1657.16,
+   "text": "It's just a basic rundown"
+  },
+  {
+   "t": 1657.16,
+   "end": 1660.16,
+   "text": "of central topics"
+  },
+  {
+   "t": 1660.16,
+   "end": 1662.32,
+   "text": "that one has to memorize."
+  },
+  {
+   "t": 1663.64,
+   "end": 1665.4,
+   "text": "And the venerable Sopaka"
+  },
+  {
+   "t": 1665.4,
+   "end": 1667.82,
+   "text": "evidently had memorized it correctly."
+  },
+  {
+   "t": 1669.16,
+   "end": 1671.68,
+   "text": "And I wanted to add that"
+  },
+  {
+   "t": 1671.68,
+   "end": 1672.84,
+   "text": "personally,"
+  },
+  {
+   "t": 1672.84,
+   "end": 1675.92,
+   "text": "I was at first a little puzzled"
+  },
+  {
+   "t": 1675.92,
+   "end": 1679.64,
+   "text": "by the taking up of this"
+  },
+  {
+   "t": 1679.64,
+   "end": 1680.62,
+   "text": "catechism."
+  },
+  {
+   "t": 1682.2,
+   "end": 1684.18,
+   "text": "And eventually I understood,"
+  },
+  {
+   "t": 1684.3,
+   "end": 1686.62,
+   "text": "and this is just my take on it,"
+  },
+  {
+   "t": 1686.62,
+   "end": 1687.92,
+   "text": "and I think venerable Jnanananda"
+  },
+  {
+   "t": 1687.92,
+   "end": 1690.72,
+   "text": "wants to build a bridge"
+  },
+  {
+   "t": 1690.72,
+   "end": 1691.34,
+   "text": "immediately"
+  },
+  {
+   "t": 1691.34,
+   "end": 1694.24,
+   "text": "to the meditation practice"
+  },
+  {
+   "t": 1694.24,
+   "end": 1695.34,
+   "text": "of those monks"
+  },
+  {
+   "t": 1695.34,
+   "end": 1698.86,
+   "text": "and who under venerable Jnanarama,"
+  },
+  {
+   "t": 1699.02,
+   "end": 1699.82,
+   "text": "to whom he refers"
+  },
+  {
+   "t": 1699.82,
+   "end": 1701.52,
+   "text": "as the venerable great preceptor,"
+  },
+  {
+   "t": 1701.9,
+   "end": 1703.42,
+   "text": "are practicing the anted monastery."
+  },
+  {
+   "t": 1703.7,
+   "end": 1705.4,
+   "text": "And now if we keep in mind"
+  },
+  {
+   "t": 1705.4,
+   "end": 1707.2,
+   "text": "that they are practicing"
+  },
+  {
+   "t": 1707.2,
+   "end": 1708.54,
+   "text": "according to the Mahasi method,"
+  },
+  {
+   "t": 1709.12,
+   "end": 1711.34,
+   "text": "then for the Mahasi method,"
+  },
+  {
+   "t": 1711.34,
+   "end": 1712.9,
+   "text": "a very important point"
+  },
+  {
+   "t": 1712.9,
+   "end": 1713.94,
+   "text": "are the so-called"
+  },
+  {
+   "t": 1713.94,
+   "end": 1715.04,
+   "text": "inside knowledges."
+  },
+  {
+   "t": 1715.34,
+   "end": 1716.9,
+   "text": "And the first one of them"
+  },
+  {
+   "t": 1716.9,
+   "end": 1718.48,
+   "text": "is Nama Rupa Parijeda,"
+  },
+  {
+   "t": 1718.92,
+   "end": 1722.14,
+   "text": "the delimitation,"
+  },
+  {
+   "t": 1723.34,
+   "end": 1724.68,
+   "text": "clear understanding"
+  },
+  {
+   "t": 1724.68,
+   "end": 1725.9,
+   "text": "of name and form."
+  },
+  {
+   "t": 1726.88,
+   "end": 1729.14,
+   "text": "So I think what venerable"
+  },
+  {
+   "t": 1729.14,
+   "end": 1731.56,
+   "text": "Jnananda is doing here"
+  },
+  {
+   "t": 1731.56,
+   "end": 1734.82,
+   "text": "is just pick up this statement"
+  },
+  {
+   "t": 1734.82,
+   "end": 1736.5,
+   "text": "on name and form"
+  },
+  {
+   "t": 1736.5,
+   "end": 1739.58,
+   "text": "by a child."
+  },
+  {
+   "t": 1741.1,
+   "end": 1743.06,
+   "text": "to connect that"
+  },
+  {
+   "t": 1743.06,
+   "end": 1745.02,
+   "text": "to the initial"
+  },
+  {
+   "t": 1745.96,
+   "end": 1747.24,
+   "text": "inside knowledge"
+  },
+  {
+   "t": 1747.24,
+   "end": 1749.76,
+   "text": "that sets the basis,"
+  },
+  {
+   "t": 1749.76,
+   "end": 1750.56,
+   "text": "the foundation"
+  },
+  {
+   "t": 1750.56,
+   "end": 1752.36,
+   "text": "for the remaining"
+  },
+  {
+   "t": 1752.36,
+   "end": 1753.42,
+   "text": "of the inside knowledges"
+  },
+  {
+   "t": 1753.42,
+   "end": 1755.14,
+   "text": "that according to"
+  },
+  {
+   "t": 1755.14,
+   "end": 1757.46,
+   "text": "the Mahasi tradition"
+  },
+  {
+   "t": 1757.46,
+   "end": 1758.48,
+   "text": "and also other"
+  },
+  {
+   "t": 1758.48,
+   "end": 1760.0,
+   "text": "Theravada Vipassana traditions"
+  },
+  {
+   "t": 1760.0,
+   "end": 1761.66,
+   "text": "that operate with this system,"
+  },
+  {
+   "t": 1761.9,
+   "end": 1763.4,
+   "text": "it's like what one has to"
+  },
+  {
+   "t": 1763.4,
+   "end": 1765.14,
+   "text": "experience is that"
+  },
+  {
+   "t": 1765.14,
+   "end": 1766.28,
+   "text": "one goes through"
+  },
+  {
+   "t": 1769.38,
+   "end": 1770.9,
+   "text": "leading up to one's"
+  },
+  {
+   "t": 1770.9,
+   "end": 1772.28,
+   "text": "attainment of stream entry."
+  },
+  {
+   "t": 1772.68,
+   "end": 1774.94,
+   "text": "Not 100% fixed"
+  },
+  {
+   "t": 1774.94,
+   "end": 1776.14,
+   "text": "but a basic pattern"
+  },
+  {
+   "t": 1776.14,
+   "end": 1777.3,
+   "text": "of experiences,"
+  },
+  {
+   "t": 1777.78,
+   "end": 1778.84,
+   "text": "inside experiences."
+  },
+  {
+   "t": 1779.12,
+   "end": 1780.68,
+   "text": "And the basic one,"
+  },
+  {
+   "t": 1781.54,
+   "end": 1782.58,
+   "text": "the foundational one"
+  },
+  {
+   "t": 1782.58,
+   "end": 1783.76,
+   "text": "is really to have"
+  },
+  {
+   "t": 1783.76,
+   "end": 1784.46,
+   "text": "this distinction"
+  },
+  {
+   "t": 1784.46,
+   "end": 1786.16,
+   "text": "between name and form."
+  },
+  {
+   "t": 1787.8,
+   "end": 1789.08,
+   "text": "And I think it is"
+  },
+  {
+   "t": 1789.08,
+   "end": 1791.0,
+   "text": "to bridge over to that"
+  },
+  {
+   "t": 1791.0,
+   "end": 1791.98,
+   "text": "that venerable Jnananda"
+  },
+  {
+   "t": 1791.98,
+   "end": 1792.8,
+   "text": "starts us off"
+  },
+  {
+   "t": 1792.8,
+   "end": 1793.64,
+   "text": "with the topic of"
+  },
+  {
+   "t": 1793.64,
+   "end": 1794.72,
+   "text": "name and form."
+  },
+  {
+   "t": 1795.42,
+   "end": 1797.24,
+   "text": "And using the example"
+  },
+  {
+   "t": 1797.24,
+   "end": 1798.06,
+   "text": "of a child,"
+  },
+  {
+   "t": 1798.76,
+   "end": 1799.98,
+   "text": "bringing out the..."
+  },
+  {
+   "t": 1827.44,
+   "end": 1828.34,
+   "text": "more"
+  },
+  {
+   "t": 1828.34,
+   "end": 1829.44,
+   "text": "to"
+  },
+  {
+   "t": 1800.0,
+   "end": 1805.02,
+   "text": "the profundity of what at first may appear very simple."
+  },
+  {
+   "t": 1806.18,
+   "end": 1810.52,
+   "text": "And at the later point, he also speaks of slowing down, being like a child."
+  },
+  {
+   "t": 1811.06,
+   "end": 1815.32,
+   "text": "Slowing down is another characteristic of the Mahasi tradition."
+  },
+  {
+   "t": 1816.24,
+   "end": 1819.14,
+   "text": "Anybody who has seen people practicing this tradition,"
+  },
+  {
+   "t": 1819.18,
+   "end": 1822.74,
+   "text": "they will have noticed they do this very, very slow walking meditation,"
+  },
+  {
+   "t": 1823.48,
+   "end": 1827.32,
+   "text": "lifting up a foot very slowly and putting it down very slowly,"
+  },
+  {
+   "t": 1827.32,
+   "end": 1832.46,
+   "text": "being aware of every single aspect in this process of just moving one foot."
+  },
+  {
+   "t": 1833.76,
+   "end": 1840.48,
+   "text": "And so it's a characteristic of the inside training in the Mahasi tradition"
+  },
+  {
+   "t": 1840.48,
+   "end": 1846.02,
+   "text": "to come back to this very close, detailed attention to very simple matters"
+  },
+  {
+   "t": 1846.02,
+   "end": 1849.32,
+   "text": "like walking or doing other things,"
+  },
+  {
+   "t": 1849.52,
+   "end": 1854.94,
+   "text": "an almost childlike attitude to really wanting to explore"
+  },
+  {
+   "t": 1854.94,
+   "end": 1856.8,
+   "text": "what most of us think."
+  },
+  {
+   "t": 1856.98,
+   "end": 1859.42,
+   "text": "Anyway, we know there's nothing to really look at it."
+  },
+  {
+   "t": 1859.64,
+   "end": 1863.56,
+   "text": "And I believe it is in order to bring out that aspect"
+  },
+  {
+   "t": 1863.56,
+   "end": 1868.06,
+   "text": "that informs the first topic taken up in this sermon."
+  },
+  {
+   "t": 1868.64,
+   "end": 1869.08,
+   "text": "End of comment."
+  },
+  {
+   "t": 1872.1,
+   "end": 1874.44,
+   "text": "It is obvious that Nama means name."
+  },
+  {
+   "t": 1874.8,
+   "end": 1878.32,
+   "text": "And in the Suttus also, Nama, when used by itself, means name."
+  },
+  {
+   "t": 1878.98,
+   "end": 1881.44,
+   "text": "However, when we come to the commentaries,"
+  },
+  {
+   "t": 1881.58,
+   "end": 1885.26,
+   "text": "we find some kind of hesitation to recognize this obvious meaning."
+  },
+  {
+   "t": 1886.36,
+   "end": 1888.06,
+   "text": "Even in the present context,"
+  },
+  {
+   "t": 1888.36,
+   "end": 1893.34,
+   "text": "the commentary Paramatta Jyotika explains the word name so as to mean bending."
+  },
+  {
+   "t": 1894.26,
+   "end": 1897.52,
+   "text": "It says that all immaterial states are called Nama"
+  },
+  {
+   "t": 1897.52,
+   "end": 1900.98,
+   "text": "in the sense that they bend towards their respective objects."
+  },
+  {
+   "t": 1901.36,
+   "end": 1905.22,
+   "text": "And also because the mind has the nature of inclination."
+  },
+  {
+   "t": 1914.28,
+   "end": 1918.62,
+   "text": "And this is the standard definition of Nama in Abhidhamma compendiums and commentaries."
+  },
+  {
+   "t": 1919.38,
+   "end": 1924.18,
+   "text": "The idea of bending towards an object is brought in to explain the word Nama."
+  },
+  {
+   "t": 1924.86,
+   "end": 1928.64,
+   "text": "It may be that they thought it too simple an interpretation"
+  },
+  {
+   "t": 1928.64,
+   "end": 1931.12,
+   "text": "to explain Nama with reference to name."
+  },
+  {
+   "t": 1932.26,
+   "end": 1936.06,
+   "text": "Particularly because it is a term that has to do with deep insight."
+  },
+  {
+   "t": 1937.22,
+   "end": 1940.42,
+   "text": "However, as far as the teachings and the Suttas are concerned,"
+  },
+  {
+   "t": 1941.26,
+   "end": 1942.78,
+   "text": "Nama still has a great depth,"
+  },
+  {
+   "t": 1943.56,
+   "end": 1945.98,
+   "text": "even when it is understood in the sense of name."
+  },
+  {
+   "t": 1952.9,
+   "end": 1960.32,
+   "text": "Nama has conquered everything."
+  },
+  {
+   "t": 1960.32,
+   "end": 1962.8,
+   "text": "There is nothing greater than name."
+  },
+  {
+   "t": 1963.3,
+   "end": 1967.16,
+   "text": "All have gone under the sway of this one thing called name."
+  },
+  {
+   "t": 1967.96,
+   "end": 1968.42,
+   "text": "Comment?"
+  },
+  {
+   "t": 1969.36,
+   "end": 1973.6,
+   "text": "I just wanted to offer an alternative translation by Bikobodi."
+  },
+  {
+   "t": 1974.62,
+   "end": 1976.52,
+   "text": "Nama has weighed down everything."
+  },
+  {
+   "t": 1977.0,
+   "end": 1979.7,
+   "text": "Nothing is more extensive than name."
+  },
+  {
+   "t": 1980.4,
+   "end": 1984.04,
+   "text": "Name is the one thing that has all under its control."
+  },
+  {
+   "t": 1985.22,
+   "end": 1992.92,
+   "text": "And I was struck by the somewhat different translation of Anvabhavi in the first line"
+  },
+  {
+   "t": 1992.92,
+   "end": 1994.58,
+   "text": "as conquered or weighed down."
+  },
+  {
+   "t": 1994.86,
+   "end": 2000.56,
+   "text": "And so just out of curiosity, I went to check up the Chinese parallel in Samyukta Agama."
+  },
+  {
+   "t": 2000.56,
+   "end": 2005.12,
+   "text": "And here is the complete Chinese of that verse."
+  },
+  {
+   "t": 2005.36,
+   "end": 2013.6,
+   "text": "And that Chinese character that corresponds to the first line means to surpass."
+  },
+  {
+   "t": 2014.0,
+   "end": 2016.08,
+   "text": "So name has surpassed the whole world."
+  },
+  {
+   "t": 2016.92,
+   "end": 2019.12,
+   "text": "And name is superior in the whole world."
+  },
+  {
+   "t": 2020.66,
+   "end": 2025.96,
+   "text": "So in the Chinese, the first and the second line are saying pretty much the same thing."
+  },
+  {
+   "t": 2027.78,
+   "end": 2028.72,
+   "text": "End of comment."
+  },
+  {
+   "t": 2031.16,
+   "end": 2033.66,
+   "text": "Also, there is another verse of the same type."
+  },
+  {
+   "t": 2033.8,
+   "end": 2038.7,
+   "text": "But unfortunately, its original meaning is often ignored by the present-day commentators."
+  },
+  {
+   "t": 2050.1,
+   "end": 2052.36,
+   "text": "Beings are conscious of what can be named."
+  },
+  {
+   "t": 2052.7,
+   "end": 2054.88,
+   "text": "They are established on the nameable."
+  },
+  {
+   "t": 2055.26,
+   "end": 2060.2,
+   "text": "By not comprehending the nameable things, they come under the yoke of death."
+  },
+  {
+   "t": 2060.96,
+   "end": 2061.52,
+   "text": "Comment?"
+  },
+  {
+   "t": 2061.82,
+   "end": 2066.12,
+   "text": "I just offered, I'd like to offer the translation by Bikobodi of the same."
+  },
+  {
+   "t": 2067.92,
+   "end": 2073.66,
+   "text": "Beings who perceive what can be expressed, become established on what can be expressed."
+  },
+  {
+   "t": 2074.24,
+   "end": 2079.64,
+   "text": "Not fully understanding what can be expressed, they come under the yoke of death."
+  },
+  {
+   "t": 2080.38,
+   "end": 2081.34,
+   "text": "End of comment."
+  },
+  {
+   "t": 2083.0,
+   "end": 2088.76,
+   "text": "All this shows that the word Nama has a deep significance, even when it is taken in the sense of name."
+  },
+  {
+   "t": 2090.72,
+   "end": 2097.6,
+   "text": "But now let us see whether there is something wrong in rendering Nama by name in the sense of the term Nama-Rupa."
+  },
+  {
+   "t": 2097.86,
+   "end": 2099.6,
+   "text": "In the case of the term Nama-Rupa."
+  },
+  {
+   "t": 2100.56,
+   "end": 2108.32,
+   "text": "To begin with, let us turn to the definition of Nama-Rupa as given by the Venerable Sariputta in the Samaditti Sutta of the Majjimanikaya."
+  },
+  {
+   "t": 2126.96,
+   "end": 2130.42,
+   "text": "Feeling, Perception, Intention, Contact, Attention."
+  },
+  {
+   "t": 2130.42,
+   "end": 2132.34,
+   "text": "This friend is called name."
+  },
+  {
+   "t": 2132.98,
+   "end": 2138.9,
+   "text": "The four great primaries, and form dependent on the four great primaries, this friend is called form."
+  },
+  {
+   "t": 2139.74,
+   "end": 2141.42,
+   "text": "So this is name and this is form."
+  },
+  {
+   "t": 2141.7,
+   "end": 2144.16,
+   "text": "This friend is called name and form."
+  },
+  {
+   "t": 2144.56,
+   "end": 2145.12,
+   "text": "Comment."
+  },
+  {
+   "t": 2146.02,
+   "end": 2158.62,
+   "text": "In my own listening to this first sermon for the first time, this passage was particularly important and the explanation that Venerable gives later on."
+  },
+  {
+   "t": 2159.04,
+   "end": 2164.92,
+   "text": "For me to get a clear understanding of the significance of name in early Buddhism."
+  },
+  {
+   "t": 2164.92,
+   "end": 2183.08,
+   "text": "And I, if I remember correctly, it was when coming across this passage and the subsequent discussion that I decided I must do whatever I can to help make this material more widely available by putting my service at the service of Venerable Nyanananda."
+  },
+  {
+   "t": 2183.08,
+   "end": 2202.52,
+   "text": "The understanding of name as referring to all four immaterial aggregates is pervasive not only in the Commentary period, but even in Chinese Agamas."
+  },
+  {
+   "t": 2202.52,
+   "end": 2219.08,
+   "text": "In the case of the Samaditti Sutta, there is Samyukta Agama in Tibetan parallel, which abbreviate the Madhyama Agama, and here I am giving the phrase, defines name by way of the four immaterial aggregates."
+  },
+  {
+   "t": 2220.76,
+   "end": 2226.68,
+   "text": "This is a problem because it would include consciousness."
+  },
+  {
+   "t": 2228.24,
+   "end": 2240.16,
+   "text": "And particularly, in view of the reciprocal conditioning between consciousness and name and form, a topic we will take up in a later sermon, this would make consciousness self-conditioning."
+  },
+  {
+   "t": 2241.14,
+   "end": 2242.64,
+   "text": "It does not work, I think."
+  },
+  {
+   "t": 2245.22,
+   "end": 2252.46,
+   "text": "As the definition given here in the Pali version, does not include consciousness."
+  },
+  {
+   "t": 2252.46,
+   "end": 2260.82,
+   "text": "Basically, name as all those aspects that process what we experience, but it's not the knowing itself."
+  },
+  {
+   "t": 2262.74,
+   "end": 2273.0,
+   "text": "And I was lucky to find that in the Ekotrika Agama, we have a similar definition of name as in the Pali tradition."
+  },
+  {
+   "t": 2273.52,
+   "end": 2278.98,
+   "text": "Name as involving all these mental activities, I call them without consciousness."
+  },
+  {
+   "t": 2278.98,
+   "end": 2290.56,
+   "text": "And I'm giving here the references for anyone who wants to look that up to my comparative study of the Manjimanikaya, which will also be available on the discussion forum."
+  },
+  {
+   "t": 2293.32,
+   "end": 2294.34,
+   "text": "End of comment."
+  },
+  {
+   "t": 2296.72,
+   "end": 2308.34,
+   "text": "Well, this seems lucid enough as a definition, but let us see whether there is any justification for regarding feeling, perception, intention, contact and attention as name."
+  },
+  {
+   "t": 2309.62,
+   "end": 2315.52,
+   "text": "Suppose there is a little child, a toddler, who is still unable to speak or understand the language."
+  },
+  {
+   "t": 2318.38,
+   "end": 2323.06,
+   "text": "Someone gives him a rubber ball, and the child has seen it for the first time."
+  },
+  {
+   "t": 2324.12,
+   "end": 2328.62,
+   "text": "If the child is told that it is a rubber ball, he might not understand it."
+  },
+  {
+   "t": 2329.56,
+   "end": 2331.46,
+   "text": "How does he get to know that object?"
+  },
+  {
+   "t": 2331.46,
+   "end": 2338.3,
+   "text": "He smells it, feels it, and tries to eat it, and finally rolls it on the floor."
+  },
+  {
+   "t": 2339.08,
+   "end": 2342.08,
+   "text": "At last, he understands that it is a plaything."
+  },
+  {
+   "t": 2343.46,
+   "end": 2348.66,
+   "text": "Now, the child has recognized the rubber ball not by the name that the world has given it,"
+  },
+  {
+   "t": 2348.88,
+   "end": 2352.32,
+   "text": "but by those factors included under name in Nama Rupa,"
+  },
+  {
+   "t": 2353.24,
+   "end": 2357.62,
+   "text": "namely feeling, perception, intention, contact and attention."
+  },
+  {
+   "t": 2358.66,
+   "end": 2364.98,
+   "text": "This shows that the definition of Nama in Nama Rupa takes us back to the most fundamental notion of name,"
+  },
+  {
+   "t": 2365.24,
+   "end": 2367.36,
+   "text": "to something like its prototype."
+  },
+  {
+   "t": 2368.22,
+   "end": 2372.76,
+   "text": "The world gives a name to an object for purposes of easy communication."
+  },
+  {
+   "t": 2373.48,
+   "end": 2377.34,
+   "text": "When it gets the sanction of others, it becomes a convention."
+  },
+  {
+   "t": 2378.82,
+   "end": 2381.34,
+   "text": "While commenting on the verse just quoted,"
+  },
+  {
+   "t": 2381.76,
+   "end": 2384.36,
+   "text": "the commentator also brings in a bright idea."
+  },
+  {
+   "t": 2385.22,
+   "end": 2388.26,
+   "text": "As an illustration of the sweeping power of name,"
+  },
+  {
+   "t": 2388.52,
+   "end": 2393.84,
+   "text": "he points out that if any tree happens to have no name attached to it by the world,"
+  },
+  {
+   "t": 2394.04,
+   "end": 2396.8,
+   "text": "it would at least be known as the nameless tree."
+  },
+  {
+   "t": 2398.22,
+   "end": 2399.7,
+   "text": "Now, as for the child,"
+  },
+  {
+   "t": 2399.7,
+   "end": 2399.76,
+   "text": "And if One,"
+  },
+  {
+   "t": 2399.76,
+   "end": 2399.78,
+   "text": "an object that the Moon invites this kind of event"
+  },
+  {
+   "t": 2399.78,
+   "end": 2399.82,
+   "text": "it may not have a ton of people Yummy,"
+  },
+  {
+   "t": 2399.82,
+   "end": 2399.84,
+   "text": "but camarader Congrats."
+  },
+  {
+   "t": 2399.84,
+   "end": 2399.92,
+   "text": "So we can fast take,"
+  },
+  {
+   "t": 2399.92,
+   "end": 2399.98,
+   "text": "I think that on a beautiful term,"
+  },
+  {
+   "t": 2400.0,
+   "end": 2402.26,
+   "text": "Even such a usage is not possible."
+  },
+  {
+   "t": 2402.68,
+   "end": 2406.28,
+   "text": "So it gets to known object by the aforesaid method."
+  },
+  {
+   "t": 2406.72,
+   "end": 2411.34,
+   "text": "And the factors involved there are the most elementary constituents of name."
+  },
+  {
+   "t": 2413.22,
+   "end": 2419.16,
+   "text": "Now it is this elementary name and form world that a meditator also has to understand."
+  },
+  {
+   "t": 2419.58,
+   "end": 2423.44,
+   "text": "However much he may be conversant with the conventional world."
+  },
+  {
+   "t": 2424.08,
+   "end": 2427.96,
+   "text": "But if a meditator wants to understand this name and form world,"
+  },
+  {
+   "t": 2427.96,
+   "end": 2433.32,
+   "text": "he has to come back to the state of child, at least from one point of view."
+  },
+  {
+   "t": 2434.3,
+   "end": 2439.48,
+   "text": "Of course, in this case the equanimity should be accompanied by knowledge and not by ignorance."
+  },
+  {
+   "t": 2440.52,
+   "end": 2445.38,
+   "text": "And that is why a meditator makes use of mindfulness and full awareness, Satisampajanya,"
+  },
+  {
+   "t": 2446.2,
+   "end": 2448.5,
+   "text": "in his attempt to understand name and form."
+  },
+  {
+   "t": 2450.9,
+   "end": 2454.82,
+   "text": "Even though he is able to recognize objects by their conventional names,"
+  },
+  {
+   "t": 2454.82,
+   "end": 2458.22,
+   "text": "for the purpose of comprehending name and form,"
+  },
+  {
+   "t": 2458.78,
+   "end": 2462.32,
+   "text": "the meditator makes use of those factors that are included under name,"
+  },
+  {
+   "t": 2462.76,
+   "end": 2467.5,
+   "text": "feeling, perception, intention, contact and attention."
+  },
+  {
+   "t": 2468.64,
+   "end": 2471.76,
+   "text": "All these have a specific value to each individual."
+  },
+  {
+   "t": 2472.06,
+   "end": 2475.94,
+   "text": "And that is why the Dhamma has to be understood each one by himself."
+  },
+  {
+   "t": 2478.96,
+   "end": 2481.28,
+   "text": "This Dhamma has to be realized by oneself."
+  },
+  {
+   "t": 2482.16,
+   "end": 2486.28,
+   "text": "One has to understand one's own world of name and form by oneself."
+  },
+  {
+   "t": 2486.88,
+   "end": 2488.7,
+   "text": "No one else can do it for him."
+  },
+  {
+   "t": 2489.46,
+   "end": 2492.56,
+   "text": "Nor can it be defined or denoted by technical terms."
+  },
+  {
+   "t": 2493.78,
+   "end": 2497.46,
+   "text": "Now it is in this world of name and form that suffering is found."
+  },
+  {
+   "t": 2498.58,
+   "end": 2499.62,
+   "text": "According to the Buddha,"
+  },
+  {
+   "t": 2500.2,
+   "end": 2504.2,
+   "text": "suffering is not out there in the conventional world of worldly philosophers."
+  },
+  {
+   "t": 2504.78,
+   "end": 2508.04,
+   "text": "It is to be found in this very name and form world."
+  },
+  {
+   "t": 2508.96,
+   "end": 2513.36,
+   "text": "So the ultimate aim of a meditator is to cut off the craving in this name and form,"
+  },
+  {
+   "t": 2513.54,
+   "end": 2514.38,
+   "text": "as it is said,"
+  },
+  {
+   "t": 2518.22,
+   "end": 2521.72,
+   "text": "Now if we are to bring in a simile to clarify this point,"
+  },
+  {
+   "t": 2522.04,
+   "end": 2524.5,
+   "text": "the Buddha is called the incomparable surgeon,"
+  },
+  {
+   "t": 2528.4,
+   "end": 2529.92,
+   "text": "Also he is sometimes called"
+  },
+  {
+   "t": 2529.92,
+   "end": 2534.4,
+   "text": "one who removes the doubt of craving."
+  },
+  {
+   "t": 2535.52,
+   "end": 2538.0,
+   "text": "So the Buddha is the incomparable surgeon"
+  },
+  {
+   "t": 2538.0,
+   "end": 2540.84,
+   "text": "who pulls out the poison-tipped arrow of craving."
+  },
+  {
+   "t": 2541.84,
+   "end": 2547.2,
+   "text": "We may say therefore that according to the Dhamma,"
+  },
+  {
+   "t": 2547.6,
+   "end": 2551.34,
+   "text": "Nama Rupa or name and form is like the wound in which the arrow is embedded."
+  },
+  {
+   "t": 2552.22,
+   "end": 2554.86,
+   "text": "When one is wounded by a poison-tipped arrow,"
+  },
+  {
+   "t": 2555.36,
+   "end": 2559.58,
+   "text": "the bandage has to be put not on the archer or on his bowstring,"
+  },
+  {
+   "t": 2559.82,
+   "end": 2561.2,
+   "text": "but on the wound itself."
+  },
+  {
+   "t": 2562.2,
+   "end": 2565.6,
+   "text": "First of all, the wound has to be well located and cleaned up."
+  },
+  {
+   "t": 2566.54,
+   "end": 2570.62,
+   "text": "Similarly, the comprehension of name and form is the preliminary step"
+  },
+  {
+   "t": 2570.62,
+   "end": 2574.92,
+   "text": "in the treatment of the wound caused by the poison-tipped arrow of craving."
+  },
+  {
+   "t": 2575.96,
+   "end": 2580.38,
+   "text": "And it is for that purpose that the meditator has to pay special attention"
+  },
+  {
+   "t": 2580.38,
+   "end": 2582.46,
+   "text": "to those basic components of name,"
+  },
+  {
+   "t": 2582.92,
+   "end": 2587.02,
+   "text": "feeling, perception, intention, contact and attention,"
+  },
+  {
+   "t": 2587.66,
+   "end": 2591.84,
+   "text": "however much he may be proficient in words found in worldly usage."
+  },
+  {
+   "t": 2592.8,
+   "end": 2597.42,
+   "text": "It may even appear as a process of unlearning down to childlike simplicity,"
+  },
+  {
+   "t": 2598.16,
+   "end": 2603.72,
+   "text": "but of course, the equanimity implied there is not based on ignorance but on knowledge."
+  },
+  {
+   "t": 2605.52,
+   "end": 2611.42,
+   "text": "We find ourselves in a similar situation with regard to the significance of Rupa in Nama Rupa."
+  },
+  {
+   "t": 2612.16,
+   "end": 2614.08,
+   "text": "Here too we have something deep,"
+  },
+  {
+   "t": 2614.46,
+   "end": 2617.2,
+   "text": "but many take Nama Rupa to mean mind and matter."
+  },
+  {
+   "t": 2618.26,
+   "end": 2622.22,
+   "text": "Like materialists, they think there is a contrast between mind and matter,"
+  },
+  {
+   "t": 2622.22,
+   "end": 2626.52,
+   "text": "but according to the Dhamma, there is no such rigid distinction."
+  },
+  {
+   "t": 2626.98,
+   "end": 2629.52,
+   "text": "It is a pair that is interrelated,"
+  },
+  {
+   "t": 2629.86,
+   "end": 2634.14,
+   "text": "and taken together it forms an important link in the chain of Patitya Samopada."
+  },
+  {
+   "t": 2634.84,
+   "end": 2635.3,
+   "text": "Comment"
+  },
+  {
+   "t": 2635.3,
+   "end": 2638.6,
+   "text": "I think this is a very important point,"
+  },
+  {
+   "t": 2638.6,
+   "end": 2643.06,
+   "text": "that the mind-matter duality does not apply to early Buddhism."
+  },
+  {
+   "t": 2644.78,
+   "end": 2645.88,
+   "text": "End of comment"
+  },
+  {
+   "t": 2649.62,
+   "end": 2652.0,
+   "text": "Rupa exists in relation to name,"
+  },
+  {
+   "t": 2652.22,
+   "end": 2653.68,
+   "text": "and that is to say,"
+  },
+  {
+   "t": 2653.9,
+   "end": 2656.16,
+   "text": "that form is known with the help of meaning."
+  },
+  {
+   "t": 2658.84,
+   "end": 2660.08,
+   "text": "As we saw above,"
+  },
+  {
+   "t": 2660.62,
+   "end": 2663.4,
+   "text": "that child got a first-hand knowledge of the rubber ball"
+  },
+  {
+   "t": 2663.4,
+   "end": 2667.18,
+   "text": "with the help of contact, feeling, perception, intention and attention."
+  },
+  {
+   "t": 2668.46,
+   "end": 2670.16,
+   "text": "Now in the definition of form as"
+  },
+  {
+   "t": 2670.16,
+   "end": 2677.9,
+   "text": "the four great primaries are mentioned"
+  },
+  {
+   "t": 2677.9,
+   "end": 2681.32,
+   "text": "because they constitute the most primary notion of form."
+  },
+  {
+   "t": 2682.2,
+   "end": 2686.66,
+   "text": "Just as much as feeling, perception, intention, contact and attention"
+  },
+  {
+   "t": 2686.66,
+   "end": 2690.06,
+   "text": "represent the most primary notion of name,"
+  },
+  {
+   "t": 2690.8,
+   "end": 2691.82,
+   "text": "conventionally so-called."
+  },
+  {
+   "t": 2692.56,
+   "end": 2693.46,
+   "text": "Even so,"
+  },
+  {
+   "t": 2693.64,
+   "end": 2697.14,
+   "text": "the four great primaries form the basis for the primary notion of form"
+  },
+  {
+   "t": 2697.14,
+   "end": 2698.86,
+   "text": "as the world understands it."
+  },
+  {
+   "t": 2700.72,
+   "end": 2703.8,
+   "text": "It is not an easy matter to recognize these primaries."
+  },
+  {
+   "t": 2704.1,
+   "end": 2706.0,
+   "text": "They are evasive like ghosts."
+  },
+  {
+   "t": 2706.72,
+   "end": 2708.24,
+   "text": "But out of their interplay,"
+  },
+  {
+   "t": 2708.38,
+   "end": 2709.72,
+   "text": "we get the perception of form,"
+  },
+  {
+   "t": 2709.88,
+   "end": 2710.6,
+   "text": "Rupa Sanya."
+  },
+  {
+   "t": 2711.7,
+   "end": 2712.56,
+   "text": "In fact,"
+  },
+  {
+   "t": 2712.88,
+   "end": 2714.42,
+   "text": "what is called Rupa in this context"
+  },
+  {
+   "t": 2714.42,
+   "end": 2716.12,
+   "text": "is actually Rupa Sanya."
+  },
+  {
+   "t": 2716.12,
+   "end": 2720.12,
+   "text": "It is with reference to the behavior of the four great elements"
+  },
+  {
+   "t": 2720.12,
+   "end": 2722.76,
+   "text": "that the world builds up its concept of form."
+  },
+  {
+   "t": 2723.26,
+   "end": 2726.54,
+   "text": "Its perception, recognition and designation of form"
+  },
+  {
+   "t": 2726.54,
+   "end": 2729.12,
+   "text": "is in terms of that behavior."
+  },
+  {
+   "t": 2729.72,
+   "end": 2731.6,
+   "text": "And that behavior can be known"
+  },
+  {
+   "t": 2731.6,
+   "end": 2734.04,
+   "text": "with the help of those members representing name."
+  },
+  {
+   "t": 2735.28,
+   "end": 2737.88,
+   "text": "The earth element is recognized"
+  },
+  {
+   "t": 2737.88,
+   "end": 2741.0,
+   "text": "through the qualities of hardness and softness."
+  },
+  {
+   "t": 2741.26,
+   "end": 2742.26,
+   "text": "The water element"
+  },
+  {
+   "t": 2742.26,
+   "end": 2744.9,
+   "text": "through the qualities of cohesiveness and dissolution."
+  },
+  {
+   "t": 2744.9,
+   "end": 2746.48,
+   "text": "The fire element"
+  },
+  {
+   "t": 2746.48,
+   "end": 2747.94,
+   "text": "through hotness and coolness."
+  },
+  {
+   "t": 2748.14,
+   "end": 2749.32,
+   "text": "And the wind element"
+  },
+  {
+   "t": 2749.32,
+   "end": 2750.64,
+   "text": "through motion and inflation."
+  },
+  {
+   "t": 2751.52,
+   "end": 2752.52,
+   "text": "In this way,"
+  },
+  {
+   "t": 2752.68,
+   "end": 2753.5,
+   "text": "one gets acquainted"
+  },
+  {
+   "t": 2753.5,
+   "end": 2755.76,
+   "text": "with the nature of the four great primaries."
+  },
+  {
+   "t": 2756.38,
+   "end": 2758.0,
+   "text": "And the perception of form,"
+  },
+  {
+   "t": 2758.16,
+   "end": 2758.9,
+   "text": "Rupa Sanya,"
+  },
+  {
+   "t": 2759.16,
+   "end": 2761.38,
+   "text": "that one has at the back of one's mind"
+  },
+  {
+   "t": 2761.38,
+   "end": 2763.84,
+   "text": "is the net result of that acquaintance."
+  },
+  {
+   "t": 2764.58,
+   "end": 2766.06,
+   "text": "So this is Nama Rupa."
+  },
+  {
+   "t": 2766.38,
+   "end": 2767.9,
+   "text": "This is one's world."
+  },
+  {
+   "t": 2769.8,
+   "end": 2772.42,
+   "text": "The relationship between Rupa and Rupa Sanya"
+  },
+  {
+   "t": 2772.42,
+   "end": 2774.18,
+   "text": "will be clear from the following verse."
+  },
+  {
+   "t": 2804.9,
+   "end": 2806.66,
+   "text": "A tangle within and a tangle without."
+  },
+  {
+   "t": 2807.44,
+   "end": 2809.82,
+   "text": "The world is entangled with a tangle."
+  },
+  {
+   "t": 2810.74,
+   "end": 2812.98,
+   "text": "About that, O Gautama, I ask you,"
+  },
+  {
+   "t": 2813.34,
+   "end": 2815.4,
+   "text": "who can disentangle this tangle?"
+  },
+  {
+   "t": 2816.44,
+   "end": 2819.3,
+   "text": "The Buddha answers the riddle in three verses,"
+  },
+  {
+   "t": 2819.64,
+   "end": 2821.74,
+   "text": "the first of which is fairly well known"
+  },
+  {
+   "t": 2821.74,
+   "end": 2824.8,
+   "text": "because it happens to be the opening verse of the Visuddhindi manga."
+  },
+  {
+   "t": 2826.08,
+   "end": 2831.24,
+   "text": "Sī nipatittāya narosa panyo citntang panyanca bhāvayam"
+  },
+  {
+   "t": 2837.62,
+   "end": 2840.98,
+   "text": "This means that a wise monk, established in virtue,"
+  },
+  {
+   "t": 2841.54,
+   "end": 2843.36,
+   "text": "developing concentration and wisdom,"
+  },
+  {
+   "t": 2843.64,
+   "end": 2844.86,
+   "text": "being ardent and prudent,"
+  },
+  {
+   "t": 2845.14,
+   "end": 2846.94,
+   "text": "is able to disentangle this tangle."
+  },
+  {
+   "t": 2847.54,
+   "end": 2849.66,
+   "text": "Now this is the second verse."
+  },
+  {
+   "t": 2865.38,
+   "end": 2873.94,
+   "text": "It is the third verse that is relevant to our topic."
+  },
+  {
+   "t": 2884.36,
+   "end": 2888.44,
+   "text": "Where name and form, as well as resistance and the perception of form,"
+  },
+  {
+   "t": 2888.56,
+   "end": 2889.74,
+   "text": "are completely cut off,"
+  },
+  {
+   "t": 2889.92,
+   "end": 2892.22,
+   "text": "it is there that the tangle gets snapped."
+  },
+  {
+   "t": 2893.26,
+   "end": 2898.08,
+   "text": "Comment I just offer the translation by Pikkubodi of this last verse."
+  },
+  {
+   "t": 2898.08,
+   "end": 2902.38,
+   "text": "Where name and form ceases, stops without remainder,"
+  },
+  {
+   "t": 2902.84,
+   "end": 2905.06,
+   "text": "and also impingement and perception of form,"
+  },
+  {
+   "t": 2905.62,
+   "end": 2907.78,
+   "text": "it is here this tangle is cut."
+  },
+  {
+   "t": 2908.8,
+   "end": 2909.86,
+   "text": "End of comment."
+  },
+  {
+   "t": 2910.92,
+   "end": 2913.06,
+   "text": "The reference here is to Nibbāna."
+  },
+  {
+   "t": 2913.3,
+   "end": 2916.04,
+   "text": "It is there that the tangle is disentangled."
+  },
+  {
+   "t": 2917.8,
+   "end": 2922.98,
+   "text": "The coupling of name and form with Pattika and Rupasanya in this context is significant."
+  },
+  {
+   "t": 2924.42,
+   "end": 2927.94,
+   "text": "Here Pattika does not mean repugnance, but resistance."
+  },
+  {
+   "t": 2928.64,
+   "end": 2932.96,
+   "text": "It is the resistance which comes as a reaction to inert matter."
+  },
+  {
+   "t": 2933.86,
+   "end": 2937.12,
+   "text": "For instance, when one knocks against something and pass you,"
+  },
+  {
+   "t": 2937.48,
+   "end": 2939.18,
+   "text": "one turns back to recognize it."
+  },
+  {
+   "t": 2939.9,
+   "end": 2941.88,
+   "text": "Sense reaction is something like that."
+  },
+  {
+   "t": 2943.18,
+   "end": 2948.32,
+   "text": "The Buddha has said that the whirling is blind until at least a dhamma eye arises in him."
+  },
+  {
+   "t": 2949.18,
+   "end": 2956.14,
+   "text": "So the blind whirling recognizes an object by the very resistance he experiences in knocking against that object."
+  },
+  {
+   "t": 2957.36,
+   "end": 2959.54,
+   "text": "Pattika and Rupasanya form a pair."
+  },
+  {
+   "t": 2960.42,
+   "end": 2964.86,
+   "text": "Pattika is that experience of resistance which comes by the knocking against an object."
+  },
+  {
+   "t": 2966.06,
+   "end": 2971.78,
+   "text": "And Rupasanya, a perception of form, is the resulting recognition of that object."
+  },
+  {
+   "t": 2973.26,
+   "end": 2977.98,
+   "text": "The perception is in terms of what is hard, soft, hot or cold."
+  },
+  {
+   "t": 2978.9,
+   "end": 2983.86,
+   "text": "Out of such perceptions, common to the blind whirlings, arises the conventional reality,"
+  },
+  {
+   "t": 2984.6,
+   "end": 2986.02,
+   "text": "the basis of which is the world."
+  },
+  {
+   "t": 2987.92,
+   "end": 2992.86,
+   "text": "Knowledge and understanding are very often associated with words and concepts."
+  },
+  {
+   "t": 2992.86,
+   "end": 2997.6,
+   "text": "So much so, that if one knows the name of a thing, one is supposed to know it."
+  },
+  {
+   "t": 2998.92,
+   "end": 2999.98,
+   "text": "Because of this mis-"
+  },
+  {
+   "t": 3000.0,
+   "end": 3006.58,
+   "text": "misconception the world is in a tangle. Names and concepts, particularly the nouns, perpetuate"
+  },
+  {
+   "t": 3006.58,
+   "end": 3013.26,
+   "text": "the ignorance in the world. Therefore, insight is the only path of release, and that is why"
+  },
+  {
+   "t": 3013.26,
+   "end": 3018.36,
+   "text": "a meditator practically comes down to the level of a child in order to understand name"
+  },
+  {
+   "t": 3018.36,
+   "end": 3026.16,
+   "text": "and form. He may even have to pretend to be a patient in slowing down his movements for"
+  },
+  {
+   "t": 3026.16,
+   "end": 3032.86,
+   "text": "the sake of developing mindfulness and full awareness. So we see that there is something"
+  },
+  {
+   "t": 3032.86,
+   "end": 3043.28,
+   "text": "really deep in Nama Rupa, even if we render it as name and form. There is an implicit"
+  },
+  {
+   "t": 3043.28,
+   "end": 3048.48,
+   "text": "connection with name as conventionally so-called, but unfortunately this connection is ignored"
+  },
+  {
+   "t": 3048.48,
+   "end": 3055.38,
+   "text": "in the commentaries when they bring in the idea of bending to explain the word name. So"
+  },
+  {
+   "t": 3055.38,
+   "end": 3061.58,
+   "text": "we need not hesitate to render Nama Rupa by name and form. Simple as it may appear, it"
+  },
+  {
+   "t": 3061.58,
+   "end": 3068.48,
+   "text": "goes deeper than the worldly concepts of name and form. Now if we are to summarize all what"
+  },
+  {
+   "t": 3068.48,
+   "end": 3075.44,
+   "text": "we have said in this connection, we may say, name in name and form is a formal name. It"
+  },
+  {
+   "t": 3075.44,
+   "end": 3082.14,
+   "text": "is an apparent name. Form in name and form is a nominal form. It is a form only in name."
+  },
+  {
+   "t": 3083.6,
+   "end": 3089.46,
+   "text": "We have to make a similar comment on the meaning of the word Nibbana. Here too one can see some"
+  },
+  {
+   "t": 3089.46,
+   "end": 3096.26,
+   "text": "unusual semantic developments in the commentarial period. It is very common these days to explain"
+  },
+  {
+   "t": 3096.26,
+   "end": 3099.68,
+   "text": "the etymology of the word Nibbana with the help of a phrase like"
+  },
+  {
+   "t": 3103.62,
+   "end": 3110.22,
+   "text": "And that is to say that Nibbana is so called because it is an exit from craving, which is a form of weaving."
+  },
+  {
+   "t": 3111.58,
+   "end": 3118.4,
+   "text": "To take the element Vana in the word to mean a form of weaving is as good as taking Nama in Nama Rupa as some"
+  },
+  {
+   "t": 3118.51,
+   "end": 3126.73,
+   "text": "kind of bending. It is said that craving is a kind of weaving in the sense that it connects up one form of"
+  },
+  {
+   "t": 3126.73,
+   "end": 3135.01,
+   "text": "existence with another. And the prefix Ni is said to signify the exit from that weaving. But no way in the"
+  },
+  {
+   "t": 3135.01,
+   "end": 3141.47,
+   "text": "suttas do we get this sort of etymology and interpretation. On the other hand, it is obvious that the suttas use"
+  },
+  {
+   "t": 3141.47,
+   "end": 3147.75,
+   "text": "the word Nibbana in the sense of extinguishing or extinction. In fact, this is the sense that brings out the true"
+  },
+  {
+   "t": 3147.75,
+   "end": 3155.51,
+   "text": "essence of the Dhamma. For instance, the Ratanasutta, which is so often chanted as a paritta,"
+  },
+  {
+   "t": 3156.27,
+   "end": 3164.35,
+   "text": "says that the Arans go out like a lamp. Nibbanti dhira yathayang padipu. Those wise ones get extinguished"
+  },
+  {
+   "t": 3164.35,
+   "end": 3172.25,
+   "text": "even like this lamp. Comment? Here is the translation, the forthcoming translation by Bikubodi of this verse."
+  },
+  {
+   "t": 3172.61,
+   "end": 3180.27,
+   "text": "The old is destroyed. There is no new origination. Their minds are dispassionate toward future existence."
+  },
+  {
+   "t": 3180.27,
+   "end": 3186.63,
+   "text": "With seeds destroyed, with no desire for growth, those wild ones are extinguished like this lamp."
+  },
+  {
+   "t": 3189.43,
+   "end": 3198.13,
+   "text": "I personally, as I mentioned at the outset, prefer going out or becoming cool instead of extinguishing"
+  },
+  {
+   "t": 3198.13,
+   "end": 3207.21,
+   "text": "or extinction. I mean, after all, the lamp is still there. It's just that the flame has gone out"
+  },
+  {
+   "t": 3207.21,
+   "end": 3213.69,
+   "text": "and the lamp is becoming cool. So, I would find it more natural to say the lamp has gone out"
+  },
+  {
+   "t": 3215.11,
+   "end": 3221.59,
+   "text": "rather than to say that it is extinguished. But this is just my personal take on it."
+  },
+  {
+   "t": 3222.23,
+   "end": 3222.71,
+   "text": "End of comment."
+  },
+  {
+   "t": 3225.11,
+   "end": 3231.39,
+   "text": "The simile of a lamp getting extinguished is also found in the Dhatuvi Bhangasutta of the Majjimanikaya."
+  },
+  {
+   "t": 3232.01,
+   "end": 3234.81,
+   "text": "Sometimes it is the figure of a torch going out."
+  },
+  {
+   "t": 3239.01,
+   "end": 3242.75,
+   "text": "The mind's release was like the extinguishing of a torch."
+  },
+  {
+   "t": 3243.81,
+   "end": 3249.41,
+   "text": "The simile of the extinction of a fire is very often brought in as an illustration of Nibbana"
+  },
+  {
+   "t": 3249.41,
+   "end": 3253.17,
+   "text": "and the Agni Vajjagottasutta of the Majjimanikaya."
+  },
+  {
+   "t": 3253.39,
+   "end": 3257.05,
+   "text": "We find the Buddha presenting it as a sustained simile,"
+  },
+  {
+   "t": 3257.35,
+   "end": 3259.93,
+   "text": "giving it a deeper philosophical dimension."
+  },
+  {
+   "t": 3261.27,
+   "end": 3265.01,
+   "text": "Now, when a fire burns, a duster with the help of firewood."
+  },
+  {
+   "t": 3265.67,
+   "end": 3268.89,
+   "text": "When a fire is burning, if someone were to ask us,"
+  },
+  {
+   "t": 3268.97,
+   "end": 3271.53,
+   "text": "what is burning, what shall we say as a reply?"
+  },
+  {
+   "t": 3272.27,
+   "end": 3275.67,
+   "text": "Is it the wood that is burning or the fire that is burning?"
+  },
+  {
+   "t": 3276.55,
+   "end": 3280.09,
+   "text": "The truth of the matter is that the wood burns because of the fire"
+  },
+  {
+   "t": 3280.09,
+   "end": 3282.13,
+   "text": "and the fire burns because of the wood."
+  },
+  {
+   "t": 3283.07,
+   "end": 3287.33,
+   "text": "So, it seems we already have fear a case of relatedness of this to that,"
+  },
+  {
+   "t": 3289.49,
+   "end": 3294.37,
+   "text": "this itself shows that there is a very deep significance in the fire simile."
+  },
+  {
+   "t": 3296.81,
+   "end": 3300.99,
+   "text": "Nibbana is a term for the ultimate aim of this dhamma is equally significant"
+  },
+  {
+   "t": 3300.99,
+   "end": 3304.33,
+   "text": "because of its allusion to the going out of a fire."
+  },
+  {
+   "t": 3305.09,
+   "end": 3308.59,
+   "text": "In the Asankhata Samyutta of the Samyutta Nikaya,"
+  },
+  {
+   "t": 3308.77,
+   "end": 3312.95,
+   "text": "as many as 33 terms are listed to denote this ultimate aim."
+  },
+  {
+   "t": 3312.95,
+   "end": 3317.95,
+   "text": "But out of all these epithets, Nibbana became the most widely used,"
+  },
+  {
+   "t": 3318.91,
+   "end": 3322.23,
+   "text": "probably because of its significant allusion to the fire."
+  },
+  {
+   "t": 3322.91,
+   "end": 3327.77,
+   "text": "The fire similarly holds the answer to many questions relating to the ultimate goal."
+  },
+  {
+   "t": 3345.25,
+   "end": 3350.57,
+   "text": "Their accusation was that the Buddha proclaims the annihilation, destruction and non-existence"
+  },
+  {
+   "t": 3350.57,
+   "end": 3352.03,
+   "text": "of a being that is existent."
+  },
+  {
+   "t": 3352.73,
+   "end": 3356.19,
+   "text": "And the Buddha answered them fairly and squarely with the fire simile."
+  },
+  {
+   "t": 3357.37,
+   "end": 3362.21,
+   "text": "Now, if a fire is burning in front of you, dependent on grass and twigs as fuel,"
+  },
+  {
+   "t": 3362.73,
+   "end": 3366.67,
+   "text": "you would know that it is burning dependently and not independently,"
+  },
+  {
+   "t": 3367.33,
+   "end": 3369.33,
+   "text": "that there is no fire in the abstract."
+  },
+  {
+   "t": 3370.33,
+   "end": 3373.49,
+   "text": "And when the fire goes out with the exhaustion of that fuel,"
+  },
+  {
+   "t": 3373.77,
+   "end": 3378.71,
+   "text": "you would know that it has gone out because the conditions for its existence are no more."
+  },
+  {
+   "t": 3380.45,
+   "end": 3385.47,
+   "text": "The fire simile has been much discussed."
+  },
+  {
+   "t": 3387.07,
+   "end": 3390.19,
+   "text": "And two points are being made sometimes."
+  },
+  {
+   "t": 3390.65,
+   "end": 3394.25,
+   "text": "One is that, particularly for us in a Western country,"
+  },
+  {
+   "t": 3395.33,
+   "end": 3404.35,
+   "text": "the idea of going out of fire is less easily seen as something positive"
+  },
+  {
+   "t": 3404.35,
+   "end": 3411.57,
+   "text": "than for somebody who lives in the hot climate of the area of India where the Buddha was living."
+  },
+  {
+   "t": 3412.49,
+   "end": 3414.85,
+   "text": "I mean, right now here we are just coming out of winter."
+  },
+  {
+   "t": 3414.89,
+   "end": 3420.13,
+   "text": "So, for me, fire has this connotation of pleasant warmth"
+  },
+  {
+   "t": 3420.13,
+   "end": 3424.07,
+   "text": "and not necessarily a connotation of oppressiveness,"
+  },
+  {
+   "t": 3424.73,
+   "end": 3429.63,
+   "text": "of heat that it would have to somebody who is in India during the hot season, for example."
+  },
+  {
+   "t": 3431.09,
+   "end": 3433.85,
+   "text": "And then this is a point to be kept in mind,"
+  },
+  {
+   "t": 3433.85,
+   "end": 3441.19,
+   "text": "can also be seen, for example, from a use of the term Nibbana in the Mahagandhya Sutta,"
+  },
+  {
+   "t": 3442.63,
+   "end": 3445.47,
+   "text": "where Mahagandhya says to the Buddha,"
+  },
+  {
+   "t": 3445.79,
+   "end": 3449.03,
+   "text": "this is Nibbana, I am healthy, my body is well."
+  },
+  {
+   "t": 3449.67,
+   "end": 3453.47,
+   "text": "The Buddha, of course, says that this is a misunderstanding of Nibbana."
+  },
+  {
+   "t": 3453.47,
+   "end": 3458.13,
+   "text": "But the idea is, he is saying, look, my body is not, I don't have fever,"
+  },
+  {
+   "t": 3458.67,
+   "end": 3462.61,
+   "text": "my body is cool and healthy, and so this is Nibbana."
+  },
+  {
+   "t": 3463.15,
+   "end": 3469.27,
+   "text": "This brings out one aspect of the basic meaning of Nibbana"
+  },
+  {
+   "t": 3469.27,
+   "end": 3471.85,
+   "text": "as going out or cooling down a fire."
+  },
+  {
+   "t": 3472.67,
+   "end": 3478.03,
+   "text": "Another point sometimes made is that there are certain connotations"
+  },
+  {
+   "t": 3478.03,
+   "end": 3481.15,
+   "text": "that go with the going out of fire."
+  },
+  {
+   "t": 3481.15,
+   "end": 3488.29,
+   "text": "And here I have two passages from Upanishads to look at."
+  },
+  {
+   "t": 3489.51,
+   "end": 3493.63,
+   "text": "And it should just be clear that the implication is not"
+  },
+  {
+   "t": 3493.63,
+   "end": 3498.55,
+   "text": "that these Upanishads in this form were already in existence at the Buddhist time,"
+  },
+  {
+   "t": 3498.75,
+   "end": 3503.55,
+   "text": "but the suggestion is often that some such idea would have been"
+  },
+  {
+   "t": 3503.55,
+   "end": 3508.21,
+   "text": "at the background of the ancient Indian audience"
+  },
+  {
+   "t": 3508.21,
+   "end": 3512.11,
+   "text": "when the idea of an extinguishing or going out of fire comes up."
+  },
+  {
+   "t": 3512.71,
+   "end": 3515.59,
+   "text": "One is from the Svetashvatara Upanishad."
+  },
+  {
+   "t": 3516.01,
+   "end": 3516.43,
+   "text": "It says,"
+  },
+  {
+   "t": 3517.11,
+   "end": 3523.95,
+   "text": "A form of fire, when latent in its source, is not seen, yet its seed is not destroyed,"
+  },
+  {
+   "t": 3524.25,
+   "end": 3527.89,
+   "text": "but may be seized again and again in its source by means of the drill."
+  },
+  {
+   "t": 3528.49,
+   "end": 3531.21,
+   "text": "And in Maitri Upanishad, it says,"
+  },
+  {
+   "t": 3531.83,
+   "end": 3535.45,
+   "text": "Even as fire without fuel becomes extinct in its own place,"
+  },
+  {
+   "t": 3535.97,
+   "end": 3540.99,
+   "text": "even so thought by the cessation of activity becomes extinct in its own source."
+  },
+  {
+   "t": 3542.51,
+   "end": 3548.17,
+   "text": "So, the basic idea here is that fire, when it goes out,"
+  },
+  {
+   "t": 3548.31,
+   "end": 3549.87,
+   "text": "it's not just completely disappeared,"
+  },
+  {
+   "t": 3549.87,
+   "end": 3554.21,
+   "text": "but it reverts to some sort of unmanifest state"
+  },
+  {
+   "t": 3554.21,
+   "end": 3558.47,
+   "text": "from which it can be then made to burn up again"
+  },
+  {
+   "t": 3558.47,
+   "end": 3561.01,
+   "text": "whenever the appropriate conditions are there."
+  },
+  {
+   "t": 3562.19,
+   "end": 3565.31,
+   "text": "And my personal take is that this,"
+  },
+  {
+   "t": 3565.47,
+   "end": 3570.07,
+   "text": "as well as the awareness of the oppressive connotation"
+  },
+  {
+   "t": 3570.07,
+   "end": 3571.95,
+   "text": "that heat would have had in ancient India,"
+  },
+  {
+   "t": 3573.45,
+   "end": 3575.85,
+   "text": "are useful to keep in mind"
+  },
+  {
+   "t": 3576.81,
+   "end": 3581.05,
+   "text": "when we are operating with this idea,"
+  },
+  {
+   "t": 3581.45,
+   "end": 3584.11,
+   "text": "motive of the extinction or going out of fire,"
+  },
+  {
+   "t": 3584.25,
+   "end": 3586.99,
+   "text": "but I also feel that this should not be taken too far."
+  },
+  {
+   "t": 3586.99,
+   "end": 3590.25,
+   "text": "I do not think it is possible,"
+  },
+  {
+   "t": 3590.43,
+   "end": 3592.73,
+   "text": "as sometimes it is being alleged,"
+  },
+  {
+   "t": 3593.55,
+   "end": 3598.13,
+   "text": "that the fire simile actually points to some sort of..."
+  },
+  {
+   "t": 3598.13,
+   "end": 3598.29,
+   "text": "Yeah."
+  },
+  {
+   "t": 3602.46,
+   "end": 3605.98,
+   "text": "that the fire simile in its early Buddhist usage"
+  },
+  {
+   "t": 3605.98,
+   "end": 3610.02,
+   "text": "carries the connotations that we find in these Upanishadic passages."
+  },
+  {
+   "t": 3610.22,
+   "end": 3612.7,
+   "text": "I think that would be going a little bit too far."
+  },
+  {
+   "t": 3613.32,
+   "end": 3614.3,
+   "text": "End of comment."
+  },
+  {
+   "t": 3616.7,
+   "end": 3619.62,
+   "text": "As a sidelight to the depth of this argument,"
+  },
+  {
+   "t": 3620.6,
+   "end": 3624.36,
+   "text": "it may be mentioned that the Palibad Upadana used in such contexts"
+  },
+  {
+   "t": 3624.36,
+   "end": 3628.26,
+   "text": "has the sense of both fuel as well as grasping."
+  },
+  {
+   "t": 3628.26,
+   "end": 3632.52,
+   "text": "And in fact, fuel is something that the fire grasps for its burning."
+  },
+  {
+   "t": 3633.86,
+   "end": 3637.72,
+   "text": "Upadana, Patinca, Yabhavo, depend on grasping its existence."
+  },
+  {
+   "t": 3638.48,
+   "end": 3642.42,
+   "text": "These are two very important links in the doctrine of the planet arising."
+  },
+  {
+   "t": 3645.92,
+   "end": 3650.46,
+   "text": "The eternalists, overcome by the craving for existence,"
+  },
+  {
+   "t": 3651.3,
+   "end": 3655.3,
+   "text": "thought that there is some permanent essence in existence as a reality,"
+  },
+  {
+   "t": 3656.28,
+   "end": 3658.86,
+   "text": "but wood had the Buddha to say about existence."
+  },
+  {
+   "t": 3659.5,
+   "end": 3663.18,
+   "text": "He said that what is true for the fire is true for existence as well."
+  },
+  {
+   "t": 3663.62,
+   "end": 3666.82,
+   "text": "That is to say that existence is dependent on grasping."
+  },
+  {
+   "t": 3667.6,
+   "end": 3670.28,
+   "text": "So long as there is grasping, there is an existence."
+  },
+  {
+   "t": 3671.18,
+   "end": 3675.76,
+   "text": "As we saw above, the firewood is called Upadana because it catches fire."
+  },
+  {
+   "t": 3676.72,
+   "end": 3680.84,
+   "text": "The fire catches hold of the wood and the wood catches hold of the fire."
+  },
+  {
+   "t": 3681.02,
+   "end": 3682.64,
+   "text": "And so we call it firewood."
+  },
+  {
+   "t": 3683.52,
+   "end": 3686.18,
+   "text": "This is a case of relation of this to that."
+  },
+  {
+   "t": 3686.56,
+   "end": 3687.7,
+   "text": "Hidap Mpachayata."
+  },
+  {
+   "t": 3688.34,
+   "end": 3690.96,
+   "text": "Now it is the same with what is called existence,"
+  },
+  {
+   "t": 3691.6,
+   "end": 3693.68,
+   "text": "which is not an absolute reality."
+  },
+  {
+   "t": 3695.64,
+   "end": 3700.02,
+   "text": "Even in the Vedic period, there was a dilemma between being and non-being."
+  },
+  {
+   "t": 3700.7,
+   "end": 3705.1,
+   "text": "They wondered whether being came out of non-being or non-being came out of being."
+  },
+  {
+   "t": 3705.54,
+   "end": 3707.7,
+   "text": "Katam Asata Satjayata."
+  },
+  {
+   "t": 3708.14,
+   "end": 3710.2,
+   "text": "How could being come out of non-being?"
+  },
+  {
+   "t": 3711.08,
+   "end": 3714.16,
+   "text": "In the face of this dilemma regarding the first beginnings,"
+  },
+  {
+   "t": 3714.52,
+   "end": 3719.98,
+   "text": "they were sometimes forced to conclude that there was neither non-being nor being at the start."
+  },
+  {
+   "t": 3724.5,
+   "end": 3727.98,
+   "text": "Or else, in the confusion, they would sometimes leave the matter unsolved,"
+  },
+  {
+   "t": 3728.74,
+   "end": 3731.1,
+   "text": "saying that perhaps only the Creator knew about it."
+  },
+  {
+   "t": 3735.72,
+   "end": 3739.58,
+   "text": "All this shows what a lot of confusion these two words sat and asat,"
+  },
+  {
+   "t": 3739.74,
+   "end": 3742.12,
+   "text": "being and non-being, had created for the philosophers."
+  },
+  {
+   "t": 3743.04,
+   "end": 3746.18,
+   "text": "It was only the Buddha who presented a perfect solution,"
+  },
+  {
+   "t": 3746.52,
+   "end": 3749.78,
+   "text": "after a complete reappraisal of the whole problem of existence."
+  },
+  {
+   "t": 3749.98,
+   "end": 3754.78,
+   "text": "He pointed out that existence is a fire kept up by the fuel of grasping,"
+  },
+  {
+   "t": 3755.6,
+   "end": 3759.62,
+   "text": "so much so that when grasping ceases, existence ceases as well."
+  },
+  {
+   "t": 3760.4,
+   "end": 3764.02,
+   "text": "In fact, the fire similarly holds the answer to the tetralemma,"
+  },
+  {
+   "t": 3764.14,
+   "end": 3768.98,
+   "text": "included among the ten unexplained points very often mentioned in the suptas."
+  },
+  {
+   "t": 3769.58,
+   "end": 3772.54,
+   "text": "It concerns the state of the Tattagata after death,"
+  },
+  {
+   "t": 3773.06,
+   "end": 3777.24,
+   "text": "whether he exists, does not exist, both or neither."
+  },
+  {
+   "t": 3778.28,
+   "end": 3782.1,
+   "text": "The presumption of the questioner is that one or the other of these four"
+  },
+  {
+   "t": 3782.1,
+   "end": 3784.54,
+   "text": "must be and could be answered in the affirmative."
+  },
+  {
+   "t": 3790.18,
+   "end": 3796.82,
+   "text": "The Buddha solves or dissolves this presumptuous tetralemma by bringing in the fire simile."
+  },
+  {
+   "t": 3797.46,
+   "end": 3801.9,
+   "text": "He points out that when a fire goes out with the exhaustion of the fuel,"
+  },
+  {
+   "t": 3802.14,
+   "end": 3805.7,
+   "text": "it is absurd to ask in which direction the fire has gone."
+  },
+  {
+   "t": 3806.5,
+   "end": 3810.0,
+   "text": "All that one can say about it is that the fire has gone out."
+  },
+  {
+   "t": 3813.74,
+   "end": 3816.22,
+   "text": "It comes to be reckoned as gone out."
+  },
+  {
+   "t": 3817.58,
+   "end": 3821.5,
+   "text": "It is just a reckoning, an idiom, a worldly usage,"
+  },
+  {
+   "t": 3821.84,
+   "end": 3823.7,
+   "text": "which is not to be taken too literally."
+  },
+  {
+   "t": 3824.9,
+   "end": 3829.1,
+   "text": "Though this illustration through the fire simile drives home to the whirling,"
+  },
+  {
+   "t": 3829.2,
+   "end": 3832.0,
+   "text": "the absurdity of this presumptuous tetralemma of the Tattagata,"
+  },
+  {
+   "t": 3833.39,
+   "end": 3838.55,
+   "text": "In the Upasiva Sutta of the Parayana Vanga of the Sutta Nipada we find the lines"
+  },
+  {
+   "t": 3845.13,
+   "end": 3851.03,
+   "text": "Like the flame thrown out by the force of the wind reaches its end,"
+  },
+  {
+   "t": 3851.17,
+   "end": 3852.79,
+   "text": "it cannot be reckoned."
+  },
+  {
+   "t": 3853.29,
+   "end": 3858.17,
+   "text": "Here the reckoning is to be understood in terms of the four propositions of the tetralemma."
+  },
+  {
+   "t": 3858.17,
+   "end": 3863.49,
+   "text": "Such reckoning are based on a total misconception of the phenomenon of fire."
+  },
+  {
+   "t": 3863.83,
+   "end": 3864.17,
+   "text": "Comment?"
+  },
+  {
+   "t": 3865.05,
+   "end": 3868.99,
+   "text": "Here I would just like to share Biko Bodhi's translation,"
+  },
+  {
+   "t": 3869.35,
+   "end": 3873.01,
+   "text": "and I am continuing also with the next two verses,"
+  },
+  {
+   "t": 3873.03,
+   "end": 3878.19,
+   "text": "as I find they are important to get the full flavor of this passage."
+  },
+  {
+   "t": 3879.51,
+   "end": 3883.29,
+   "text": "As a flame thrown out by a gust of wind,"
+  },
+  {
+   "t": 3883.63,
+   "end": 3885.33,
+   "text": "Upasiva said, the Blessed One,"
+  },
+  {
+   "t": 3885.33,
+   "end": 3887.99,
+   "text": "goes out and cannot be designated."
+  },
+  {
+   "t": 3888.57,
+   "end": 3891.51,
+   "text": "So the Muni, liberated from the mental body,"
+  },
+  {
+   "t": 3892.07,
+   "end": 3894.09,
+   "text": "goes out and cannot be designated."
+  },
+  {
+   "t": 3895.43,
+   "end": 3898.35,
+   "text": "But does one who has gone out not exist?"
+  },
+  {
+   "t": 3898.69,
+   "end": 3901.43,
+   "text": "Or else is he healthy through eternity?"
+  },
+  {
+   "t": 3902.25,
+   "end": 3905.07,
+   "text": "Explain this matter clearly to me, O Muni,"
+  },
+  {
+   "t": 3905.27,
+   "end": 3907.91,
+   "text": "for this Dhamma has been understood by you."
+  },
+  {
+   "t": 3909.19,
+   "end": 3913.61,
+   "text": "There is no measure of one who has gone out, Upasiva, said the Blessed One."
+  },
+  {
+   "t": 3914.01,
+   "end": 3916.85,
+   "text": "There is no means by which they might speak of him."
+  },
+  {
+   "t": 3917.21,
+   "end": 3919.55,
+   "text": "When all phenomena have been uprooted,"
+  },
+  {
+   "t": 3919.83,
+   "end": 3923.03,
+   "text": "all pathways of speech have also been uprooted."
+  },
+  {
+   "t": 3924.31,
+   "end": 3926.25,
+   "text": "Yeah, from my personal understanding,"
+  },
+  {
+   "t": 3926.25,
+   "end": 3930.33,
+   "text": "I think this is a particularly significant statement,"
+  },
+  {
+   "t": 3931.27,
+   "end": 3938.59,
+   "text": "that basically the Nibbāna is in some way beyond the reach of language."
+  },
+  {
+   "t": 3940.75,
+   "end": 3941.95,
+   "text": "End of comment."
+  },
+  {
+   "t": 3944.71,
+   "end": 3948.07,
+   "text": "It seems that the deeper connotations of the word Nibbāna"
+  },
+  {
+   "t": 3948.07,
+   "end": 3950.41,
+   "text": "in the context of Paticca Samuppada"
+  },
+  {
+   "t": 3950.41,
+   "end": 3953.01,
+   "text": "were not fully appreciated by the commentators."
+  },
+  {
+   "t": 3953.79,
+   "end": 3956.77,
+   "text": "And that is why they went in search of a new etymology."
+  },
+  {
+   "t": 3957.09,
+   "end": 3960.59,
+   "text": "They were too shy of the implications of the word extinction."
+  },
+  {
+   "t": 3961.55,
+   "end": 3964.03,
+   "text": "Probably to avoid the charge of nihilism,"
+  },
+  {
+   "t": 3964.25,
+   "end": 3968.15,
+   "text": "they felt compelled to reinterpret certain key passages on Nibbāna."
+  },
+  {
+   "t": 3968.15,
+   "end": 3972.23,
+   "text": "They conceived Nibbāna as something existing out there in its own right."
+  },
+  {
+   "t": 3972.63,
+   "end": 3974.15,
+   "text": "They would not say where,"
+  },
+  {
+   "t": 3974.41,
+   "end": 3977.25,
+   "text": "but sometimes they would even say that it is everywhere."
+  },
+  {
+   "t": 3978.13,
+   "end": 3980.53,
+   "text": "With an undue grammatical emphasis,"
+  },
+  {
+   "t": 3980.53,
+   "end": 3983.57,
+   "text": "they would say that it is on coming to that Nibbāna"
+  },
+  {
+   "t": 3983.57,
+   "end": 3985.85,
+   "text": "that lust and other defiance are abundant."
+  },
+  {
+   "t": 3986.77,
+   "end": 3990.15,
+   "text": "Nibbāna ngā gama rāgādayo kī nāti"
+  },
+  {
+   "t": 3990.15,
+   "end": 3992.87,
+   "text": "ekameva nibbāna ngā rāgāṅkayo"
+  },
+  {
+   "t": 3992.87,
+   "end": 3995.65,
+   "text": "dūsakṅkayo muhaṅkayo tī bhutṅcati"
+  },
+  {
+   "t": 3995.65,
+   "end": 3999.29,
+   "text": "But what do we find in the joyous utterances"
+  },
+  {
+   "t": 3999.29,
+   "end": 4002.57,
+   "text": "of the teras and teris who had realized Nibbāna?"
+  },
+  {
+   "t": 4003.09,
+   "end": 4006.83,
+   "text": "As recorded in such texts as tera and terigāta,"
+  },
+  {
+   "t": 4007.17,
+   "end": 4008.01,
+   "text": "they would say,"
+  },
+  {
+   "t": 4008.25,
+   "end": 4009.87,
+   "text": "Sīti bhutōsmi Nibbāna"
+  },
+  {
+   "t": 4009.87,
+   "end": 4013.99,
+   "text": "I am grown cool, extinguished as I am."
+  },
+  {
+   "t": 4014.95,
+   "end": 4017.33,
+   "text": "The word Sīti bhūta and Nibbāna"
+  },
+  {
+   "t": 4017.33,
+   "end": 4020.11,
+   "text": "had a cooling effect even to the listener,"
+  },
+  {
+   "t": 4020.45,
+   "end": 4022.89,
+   "text": "though later scholars found them inadequate."
+  },
+  {
+   "t": 4025.17,
+   "end": 4027.99,
+   "text": "Extinction is something that occurs within an individual"
+  },
+  {
+   "t": 4027.99,
+   "end": 4030.89,
+   "text": "and it brings with it a unique bliss of appeasement."
+  },
+  {
+   "t": 4032.05,
+   "end": 4034.09,
+   "text": "As the Ratana Sutta says,"
+  },
+  {
+   "t": 4034.31,
+   "end": 4036.89,
+   "text": "Laddha mudha nibbūting bhunyamāna"
+  },
+  {
+   "t": 4037.73,
+   "end": 4040.23,
+   "text": "They experience the bliss of appeasement,"
+  },
+  {
+   "t": 4040.35,
+   "end": 4041.49,
+   "text": "one free of charge."
+  },
+  {
+   "t": 4042.15,
+   "end": 4044.75,
+   "text": "Normally, appeasement is won at a cost,"
+  },
+  {
+   "t": 4044.99,
+   "end": 4048.01,
+   "text": "but here we have an appeasement that comes gratis."
+  },
+  {
+   "t": 4048.95,
+   "end": 4050.75,
+   "text": "From the worldly point of view,"
+  },
+  {
+   "t": 4050.93,
+   "end": 4052.43,
+   "text": "extinction means annihilation."
+  },
+  {
+   "t": 4052.75,
+   "end": 4056.21,
+   "text": "It has connotations of a precipice that is much dreaded."
+  },
+  {
+   "t": 4056.61,
+   "end": 4059.27,
+   "text": "That is why the commentators conceived of it"
+  },
+  {
+   "t": 4059.27,
+   "end": 4060.33,
+   "text": "as something out there,"
+  },
+  {
+   "t": 4060.91,
+   "end": 4063.37,
+   "text": "on reaching which the defilements are abundant."
+  },
+  {
+   "t": 4064.01,
+   "end": 4067.13,
+   "text": "Nibbāna ngāgamā rāgāda yokhi nāti"
+  },
+  {
+   "t": 4067.13,
+   "end": 4070.23,
+   "text": "Sometimes they would say that it is on seeing Nibbāna"
+  },
+  {
+   "t": 4070.23,
+   "end": 4071.51,
+   "text": "that craving is destroyed."
+  },
+  {
+   "t": 4072.33,
+   "end": 4072.77,
+   "text": "Comment."
+  },
+  {
+   "t": 4073.49,
+   "end": 4077.23,
+   "text": "This last statement has been misunderstood."
+  },
+  {
+   "t": 4080.93,
+   "end": 4083.57,
+   "text": "Actually, in the next sermon,"
+  },
+  {
+   "t": 4083.91,
+   "end": 4085.41,
+   "text": "the second sermon,"
+  },
+  {
+   "t": 4085.59,
+   "end": 4089.47,
+   "text": "the Venbha Nyanamala takes up a passage from Ratana Sutta,"
+  },
+  {
+   "t": 4089.47,
+   "end": 4091.91,
+   "text": "I am here giving the references,"
+  },
+  {
+   "t": 4092.77,
+   "end": 4093.17,
+   "text": "which says,"
+  },
+  {
+   "t": 4093.35,
+   "end": 4095.05,
+   "text": "Sahavasadasana Sampadāya,"
+  },
+  {
+   "t": 4095.25,
+   "end": 4100.33,
+   "text": "that with the vision of stream entry,"
+  },
+  {
+   "t": 4101.53,
+   "end": 4105.25,
+   "text": "it is that the three fetters are destroyed."
+  },
+  {
+   "t": 4105.67,
+   "end": 4108.41,
+   "text": "So, it is very clear that"
+  },
+  {
+   "t": 4108.41,
+   "end": 4113.03,
+   "text": "it is the actual experience of Nibbāna itself"
+  },
+  {
+   "t": 4113.03,
+   "end": 4116.03,
+   "text": "at stream entry and at the higher levels of awakening,"
+  },
+  {
+   "t": 4116.03,
+   "end": 4120.87,
+   "text": "which accomplishes the destruction of fetters"
+  },
+  {
+   "t": 4120.87,
+   "end": 4122.15,
+   "text": "or eventually of craving."
+  },
+  {
+   "t": 4122.71,
+   "end": 4126.47,
+   "text": "And so, in keeping in mind what he says in the next sermon,"
+  },
+  {
+   "t": 4126.73,
+   "end": 4128.83,
+   "text": "then it becomes clear that when he says now,"
+  },
+  {
+   "t": 4129.03,
+   "end": 4130.37,
+   "text": "here on seeing Nibbāna,"
+  },
+  {
+   "t": 4130.57,
+   "end": 4131.67,
+   "text": "that craving is destroyed,"
+  },
+  {
+   "t": 4131.67,
+   "end": 4133.17,
+   "text": "when he criticizes that,"
+  },
+  {
+   "t": 4133.79,
+   "end": 4136.57,
+   "text": "he is only intending, I think,"
+  },
+  {
+   "t": 4136.73,
+   "end": 4138.79,
+   "text": "to criticize the idea that Nibbāna"
+  },
+  {
+   "t": 4138.79,
+   "end": 4141.03,
+   "text": "is something far out away in the distance"
+  },
+  {
+   "t": 4141.03,
+   "end": 4142.91,
+   "text": "and when seeing it from far away,"
+  },
+  {
+   "t": 4143.63,
+   "end": 4145.19,
+   "text": "that then craving is destroyed."
+  },
+  {
+   "t": 4145.19,
+   "end": 4146.47,
+   "text": "He, I believe,"
+  },
+  {
+   "t": 4146.69,
+   "end": 4148.25,
+   "text": "wants to bring in the immediacy"
+  },
+  {
+   "t": 4148.25,
+   "end": 4151.35,
+   "text": "of the experience of Nibbāna"
+  },
+  {
+   "t": 4151.35,
+   "end": 4155.11,
+   "text": "and also to counter a tendency in the commentaries"
+  },
+  {
+   "t": 4155.11,
+   "end": 4159.37,
+   "text": "to make Nibbāna and the destruction of defilements"
+  },
+  {
+   "t": 4159.37,
+   "end": 4160.71,
+   "text": "into two separate things."
+  },
+  {
+   "t": 4161.61,
+   "end": 4163.77,
+   "text": "This becomes particularly evident"
+  },
+  {
+   "t": 4163.77,
+   "end": 4166.55,
+   "text": "in the commentarial conception of path and fruit"
+  },
+  {
+   "t": 4166.55,
+   "end": 4168.93,
+   "text": "as two mind moments,"
+  },
+  {
+   "t": 4168.93,
+   "end": 4171.83,
+   "text": "whereas in the Sutta's path means"
+  },
+  {
+   "t": 4171.83,
+   "end": 4174.81,
+   "text": "the whole trajectory of however many years"
+  },
+  {
+   "t": 4174.81,
+   "end": 4177.41,
+   "text": "it takes until the breakthrough"
+  },
+  {
+   "t": 4177.41,
+   "end": 4181.03,
+   "text": "and the fruit means the destruction of defilements,"
+  },
+  {
+   "t": 4181.33,
+   "end": 4182.65,
+   "text": "the extinction of fetters,"
+  },
+  {
+   "t": 4182.79,
+   "end": 4184.71,
+   "text": "the personality change that comes about"
+  },
+  {
+   "t": 4184.71,
+   "end": 4186.11,
+   "text": "after that experience,"
+  },
+  {
+   "t": 4186.29,
+   "end": 4187.05,
+   "text": "through that experience,"
+  },
+  {
+   "t": 4187.17,
+   "end": 4188.01,
+   "text": "in that experience."
+  },
+  {
+   "t": 4188.57,
+   "end": 4189.77,
+   "text": "But this is a topic"
+  },
+  {
+   "t": 4189.77,
+   "end": 4191.07,
+   "text": "we will come back later."
+  },
+  {
+   "t": 4192.45,
+   "end": 4193.33,
+   "text": "End of comment."
+  },
+  {
+   "t": 4195.03,
+   "end": 4197.05,
+   "text": "There seems to be some contradiction"
+  },
+  {
+   "t": 4197.05,
+   "end": 4199.73,
+   "text": "in the commentarial definitions of Nibbāna."
+  },
+  {
+   "t": 4199.73,
+   "end": 4199.79,
+   "text": "Nibbāna."
+  },
+  {
+   "t": 4200.0,
+   "end": 4205.56,
+   "text": "On the one hand, we have the definition of Nibbana as the exit from craving, which is called a weaving."
+  },
+  {
+   "t": 4207.14,
+   "end": 4211.2,
+   "text": "And on the other, it is said that it is on seeing Nibbana the craving is destroyed."
+  },
+  {
+   "t": 4212.2,
+   "end": 4217.26,
+   "text": "To project Nibbana into a distance and to hope that craving will be destroyed only on seeing it"
+  },
+  {
+   "t": 4217.26,
+   "end": 4221.92,
+   "text": "is something like trying to build a staircase to a palace one cannot yet see."
+  },
+  {
+   "t": 4224.78,
+   "end": 4229.6,
+   "text": "In fact, this is a simile which the Buddha had used in his criticism of the Brahmin's point of view."
+  },
+  {
+   "t": 4230.36,
+   "end": 4235.96,
+   "text": "In the Dhamma Chakram Bhattana Sutta, we have a very clear statement of the third noble truth."
+  },
+  {
+   "t": 4236.6,
+   "end": 4239.72,
+   "text": "Having first said that the second noble truth is craving,"
+  },
+  {
+   "t": 4240.02,
+   "end": 4243.52,
+   "text": "the Buddha goes on to define the third noble truth in these words."
+  },
+  {
+   "t": 4244.04,
+   "end": 4256.4,
+   "text": "This is to say that the third noble truth is the complete fading away,"
+  },
+  {
+   "t": 4256.4,
+   "end": 4260.3,
+   "text": "cessation, giving up, relinquishment of that very craving."
+  },
+  {
+   "t": 4260.94,
+   "end": 4264.96,
+   "text": "That it is the release from and non-attachment to that very craving."
+  },
+  {
+   "t": 4265.34,
+   "end": 4270.48,
+   "text": "In other words, it is the destruction of this very mass of suffering which is just before us."
+  },
+  {
+   "t": 4273.6,
+   "end": 4280.12,
+   "text": "In the Suttas, the term Tanhakankayo, the destruction of craving, is very often used as a term for Nibbana."
+  },
+  {
+   "t": 4280.8,
+   "end": 4284.36,
+   "text": "But the commentator says that destruction alone is not Nibbana."
+  },
+  {
+   "t": 4288.22,
+   "end": 4293.52,
+   "text": "But the destruction of craving itself is called the highest bliss in the following words of the Udana."
+  },
+  {
+   "t": 4304.56,
+   "end": 4309.58,
+   "text": "Whatever bliss from sense desires there is in the world, whatever divine bliss there is,"
+  },
+  {
+   "t": 4309.88,
+   "end": 4314.9,
+   "text": "all these are not worth one sixteenth of the bliss of the destruction of craving."
+  },
+  {
+   "t": 4316.94,
+   "end": 4320.08,
+   "text": "Many of the verses found in the Udana extremely deep."
+  },
+  {
+   "t": 4320.32,
+   "end": 4324.38,
+   "text": "And this is understandable, since Udana means a joyous utterance."
+  },
+  {
+   "t": 4325.22,
+   "end": 4331.18,
+   "text": "Generally, a joyous utterance comes from the very depth of one's heart, like a sigh of relief."
+  },
+  {
+   "t": 4332.22,
+   "end": 4339.44,
+   "text": "As a matter of fact, one often finds that the concluding verse goes far deeper in its implications than the narrative concerned."
+  },
+  {
+   "t": 4340.42,
+   "end": 4346.52,
+   "text": "For instance, in the Udapana Sutta, we get the following joyous utterance, coming from the Buddha himself."
+  },
+  {
+   "t": 4357.98,
+   "end": 4366.28,
+   "text": "What is the use of a well, if water is there all the time, having cut craving at the root, in search of what should one wonder?"
+  },
+  {
+   "t": 4367.02,
+   "end": 4370.48,
+   "text": "This shows that the destruction of craving is not a mere destruction."
+  },
+  {
+   "t": 4371.06,
+   "end": 4371.52,
+   "text": "Comment."
+  },
+  {
+   "t": 4371.52,
+   "end": 4378.48,
+   "text": "Yeah, I just would like to draw out a little more the statement by the Venerable Nyanananda,"
+  },
+  {
+   "t": 4378.6,
+   "end": 4383.7,
+   "text": "that the verses often go far deeper in the applications than the narrative concerned."
+  },
+  {
+   "t": 4383.78,
+   "end": 4393.12,
+   "text": "And this verse is a very good example for it, because the story, the narrative story given in the Udana,"
+  },
+  {
+   "t": 4394.52,
+   "end": 4402.4,
+   "text": "has Brahmins who have blocked a well with chaff, in order to prevent the Buddha and his monks from drinking."
+  },
+  {
+   "t": 4404.12,
+   "end": 4410.7,
+   "text": "And this story is quite out of keeping with the verse."
+  },
+  {
+   "t": 4410.7,
+   "end": 4422.02,
+   "text": "And in fact, Bande, in his studies in The Origins of Buddhism, says that the author of the prose seems to have grossly misunderstood the verse,"
+  },
+  {
+   "t": 4422.86,
+   "end": 4426.7,
+   "text": "which intends water in no more than a merely figurative sense."
+  },
+  {
+   "t": 4427.86,
+   "end": 4435.2,
+   "text": "And from a comparative perspective, it is interesting the Chinese parallel to that stanza does not have any prose story."
+  },
+  {
+   "t": 4435.2,
+   "end": 4447.78,
+   "text": "And this is a general tendency of the Udana, that what originally seemed to have been commentarial stories have become part of the text itself."
+  },
+  {
+   "t": 4449.18,
+   "end": 4455.56,
+   "text": "We have the same situation in the case of the Attakavagga, of the Sutta Nipata,"
+  },
+  {
+   "t": 4455.86,
+   "end": 4461.26,
+   "text": "but converse in the sense that here the Pali version has only the verses,"
+  },
+  {
+   "t": 4462.1,
+   "end": 4467.66,
+   "text": "and the Chinese has the stories that in the Pali tradition we find only in the commentaries."
+  },
+  {
+   "t": 4468.68,
+   "end": 4476.7,
+   "text": "And so this is significant insofar as I think with the stories, the prose stories in the Udana,"
+  },
+  {
+   "t": 4478.0,
+   "end": 4484.9,
+   "text": "are a general tendency for them to be similar to commentarial stories,"
+  },
+  {
+   "t": 4485.22,
+   "end": 4488.16,
+   "text": "or sometimes material we might find in the Vinaya."
+  },
+  {
+   "t": 4488.38,
+   "end": 4493.82,
+   "text": "There are more miracles, there are sometimes also later influences that we can detect."
+  },
+  {
+   "t": 4495.88,
+   "end": 4505.16,
+   "text": "So, I think when we put like the four Pali Nikayas together as representative of early Buddhism,"
+  },
+  {
+   "t": 4505.56,
+   "end": 4509.8,
+   "text": "I would add Sutta Nipata, Dhammapada, Itibhutaka,"
+  },
+  {
+   "t": 4510.22,
+   "end": 4514.48,
+   "text": "and the Udana verses, but not the Udana prose,"
+  },
+  {
+   "t": 4514.8,
+   "end": 4519.98,
+   "text": "just as a general idea of the stratification of texts."
+  },
+  {
+   "t": 4520.56,
+   "end": 4521.48,
+   "text": "End of comment."
+  },
+  {
+   "t": 4523.9,
+   "end": 4525.56,
+   "text": "Craving is a form of thirst,"
+  },
+  {
+   "t": 4525.96,
+   "end": 4529.74,
+   "text": "and that is why Nibbana is sometimes called Pipasa Vinayom,"
+  },
+  {
+   "t": 4529.96,
+   "end": 4531.4,
+   "text": "the dispelling of the thirst."
+  },
+  {
+   "t": 4532.66,
+   "end": 4536.04,
+   "text": "To think that the destruction of craving is not sufficient"
+  },
+  {
+   "t": 4536.04,
+   "end": 4540.66,
+   "text": "is like trying to give water to one who has already quenched his thirst."
+  },
+  {
+   "t": 4541.58,
+   "end": 4545.04,
+   "text": "But the destruction of craving has been called the highest bliss."
+  },
+  {
+   "t": 4546.9,
+   "end": 4551.98,
+   "text": "One who has quenched his thirst for good is aware of that blissful experience."
+  },
+  {
+   "t": 4552.66,
+   "end": 4556.04,
+   "text": "When he sees the world running here and there in search of water,"
+  },
+  {
+   "t": 4556.3,
+   "end": 4559.58,
+   "text": "he looks within and sees the wellspring of his bliss."
+  },
+  {
+   "t": 4561.18,
+   "end": 4566.54,
+   "text": "However, to most of our scholars, the term Tanakhankaya appeared totally negative,"
+  },
+  {
+   "t": 4566.84,
+   "end": 4570.16,
+   "text": "and that is why they hesitated to recognize its value."
+  },
+  {
+   "t": 4570.98,
+   "end": 4574.74,
+   "text": "In such conventional usages as Nibbana and Agama,"
+  },
+  {
+   "t": 4575.04,
+   "end": 4579.1,
+   "text": "they found a grammatical excuse to separate that term from Nibbana."
+  },
+  {
+   "t": 4580.34,
+   "end": 4583.6,
+   "text": "According to the Buddha, the cessation of existence is Nibbana,"
+  },
+  {
+   "t": 4583.72,
+   "end": 4587.54,
+   "text": "and that means Nibbana is the realization of the cessation of existence."
+  },
+  {
+   "t": 4588.78,
+   "end": 4591.22,
+   "text": "Existence is said to be an 11-fold fire,"
+  },
+  {
+   "t": 4591.54,
+   "end": 4594.42,
+   "text": "so the entire existence is a raging fire."
+  },
+  {
+   "t": 4595.32,
+   "end": 4598.84,
+   "text": "Lust, hate, delusion, all these are fires."
+  },
+  {
+   "t": 4600.02,
+   "end": 4602.8,
+   "text": "Therefore, Nibbana may be best bended by the word extinction."
+  },
+  {
+   "t": 4603.88,
+   "end": 4607.46,
+   "text": "When, once the fires are extinguished, what more is needed?"
+  },
+  {
+   "t": 4609.28,
+   "end": 4614.08,
+   "text": "But unfortunately, Venerable Buddha Gorsa was not prepared to appreciate this point of view."
+  },
+  {
+   "t": 4614.92,
+   "end": 4620.9,
+   "text": "In his Visuddhimagga, as well as in the commentary of Sarat Pukasini and some Mohavinodani,"
+  },
+  {
+   "t": 4621.52,
+   "end": 4626.7,
+   "text": "he gives a long discussion on Nibbana in the form of an argument with an imaginary heretic."
+  },
+  {
+   "t": 4628.58,
+   "end": 4633.0,
+   "text": "Some of his arguments are not in keeping with either the letter or the spirit of the Dhamma."
+  },
+  {
+   "t": 4634.72,
+   "end": 4638.0,
+   "text": "First of all, he gets the heretic to put forward the idea"
+  },
+  {
+   "t": 4638.0,
+   "end": 4640.94,
+   "text": "that the destruction of lust, hate and delusion is Nibbana."
+  },
+  {
+   "t": 4641.88,
+   "end": 4645.24,
+   "text": "Actually, the heretic is simply quoting the Buddha word."
+  },
+  {
+   "t": 4645.54,
+   "end": 4647.88,
+   "text": "For in the Nibbana Sutta of the Asankata Sanyutta,"
+  },
+  {
+   "t": 4648.3,
+   "end": 4651.5,
+   "text": "the destruction of lust, hate and delusion is called Nibbana."
+  },
+  {
+   "t": 4652.3,
+   "end": 4655.32,
+   "text": "Ragakumkayo, Dusakumkayo, Mohakumkayo, Idaṁ, Bhucca di Nibbana."
+  },
+  {
+   "t": 4657.14,
+   "end": 4660.76,
+   "text": "The words Ragakumkayo, Dusakumkaya and Mohakumkaya"
+  },
+  {
+   "t": 4660.76,
+   "end": 4662.9,
+   "text": "together form a synonym of Nibbana."
+  },
+  {
+   "t": 4663.76,
+   "end": 4667.52,
+   "text": "But the commentator interprets it as three synonyms."
+  },
+  {
+   "t": 4668.74,
+   "end": 4672.32,
+   "text": "Then he argues out with the imaginary heretic"
+  },
+  {
+   "t": 4672.32,
+   "end": 4675.14,
+   "text": "that if Nibbana is the extinguishing of lust,"
+  },
+  {
+   "t": 4675.28,
+   "end": 4677.16,
+   "text": "it is something common even to the animals."
+  },
+  {
+   "t": 4677.86,
+   "end": 4680.62,
+   "text": "For they also extinguish their fires of lust"
+  },
+  {
+   "t": 4680.62,
+   "end": 4683.36,
+   "text": "through enjoyment of the corresponding objects of sense."
+  },
+  {
+   "t": 4684.18,
+   "end": 4687.4,
+   "text": "This argument ignores the deeper sense of the word extinction"
+  },
+  {
+   "t": 4687.4,
+   "end": 4688.8,
+   "text": "as it is found in the Dhamma."
+  },
+  {
+   "t": 4691.22,
+   "end": 4693.96,
+   "text": "In the Mahagandhya Sutta of the Majjhima Nikaya,"
+  },
+  {
+   "t": 4694.08,
+   "end": 4697.24,
+   "text": "the Buddha gives the simile of a man with a skin disease"
+  },
+  {
+   "t": 4697.24,
+   "end": 4699.66,
+   "text": "sitting beside a pit of hot embers"
+  },
+  {
+   "t": 4699.66,
+   "end": 4702.88,
+   "text": "to explain the position of lustful beings in the world."
+  },
+  {
+   "t": 4703.78,
+   "end": 4707.1,
+   "text": "That man is simply trying to assuage his pains"
+  },
+  {
+   "t": 4707.1,
+   "end": 4708.5,
+   "text": "by the heat of the fire."
+  },
+  {
+   "t": 4708.9,
+   "end": 4711.9,
+   "text": "It is an attempt to warm up, not to cool down."
+  },
+  {
+   "t": 4713.02,
+   "end": 4715.9,
+   "text": "Similarly, what the lustful beings in the world are doing"
+  },
+  {
+   "t": 4715.9,
+   "end": 4718.74,
+   "text": "in the face of the fires of lust is a warming up."
+  },
+  {
+   "t": 4719.02,
+   "end": 4721.82,
+   "text": "It can in no way be compared to the extinction"
+  },
+  {
+   "t": 4721.82,
+   "end": 4723.62,
+   "text": "and the cooling down of the Arahants."
+  },
+  {
+   "t": 4724.96,
+   "end": 4727.92,
+   "text": "As the phrase Nibbuting Bunyamana implies,"
+  },
+  {
+   "t": 4728.3,
+   "end": 4731.28,
+   "text": "that extinction is a blissful experience for the Arahants."
+  },
+  {
+   "t": 4731.84,
+   "end": 4734.42,
+   "text": "It leaves a permanent effect on the Arahant,"
+  },
+  {
+   "t": 4734.58,
+   "end": 4736.9,
+   "text": "so much so that upon reflection he sees"
+  },
+  {
+   "t": 4736.9,
+   "end": 4738.68,
+   "text": "that his influxes are extinct,"
+  },
+  {
+   "t": 4739.3,
+   "end": 4742.44,
+   "text": "just as a man with his hands and feet cut off"
+  },
+  {
+   "t": 4743.08,
+   "end": 4745.7,
+   "text": "knows upon reflection that his limbs are gone."
+  },
+  {
+   "t": 4746.8,
+   "end": 4750.24,
+   "text": "It seems that the deeper implications of the word Nibbana"
+  },
+  {
+   "t": 4750.24,
+   "end": 4752.56,
+   "text": "have been obscured by a set of arguments"
+  },
+  {
+   "t": 4752.56,
+   "end": 4754.32,
+   "text": "which are rather misleading."
+  },
+  {
+   "t": 4755.86,
+   "end": 4759.08,
+   "text": "In fact, I came forward to give these sermons for three reasons."
+  },
+  {
+   "t": 4759.62,
+   "end": 4762.94,
+   "text": "Firstly, because the Venerable Great Preceptor invited me to do so."
+  },
+  {
+   "t": 4764.38,
+   "end": 4766.78,
+   "text": "Secondly, in the hope that it will be of some benefit"
+  },
+  {
+   "t": 4766.78,
+   "end": 4768.32,
+   "text": "to my court dwellers in the Dhamma."
+  },
+  {
+   "t": 4768.32,
+   "end": 4772.14,
+   "text": "And thirdly, because I myself felt rather concerned"
+  },
+  {
+   "t": 4772.14,
+   "end": 4775.04,
+   "text": "about the inadequacy of the existing interpretations."
+  },
+  {
+   "t": 4776.16,
+   "end": 4780.26,
+   "text": "What we have said so far is just about the word Nibbana as such."
+  },
+  {
+   "t": 4780.86,
+   "end": 4784.32,
+   "text": "Quite a number of suttas on Nibbana will be taken up for discussion."
+  },
+  {
+   "t": 4785.14,
+   "end": 4788.7,
+   "text": "This is just a preamble to show that the word Nibbana"
+  },
+  {
+   "t": 4788.7,
+   "end": 4791.18,
+   "text": "in the sense of extinction has a deeper dimension,"
+  },
+  {
+   "t": 4791.52,
+   "end": 4794.78,
+   "text": "which has some relevance to the law of dependent arising."
+  },
+  {
+   "t": 4797.52,
+   "end": 4799.98,
+   "text": "By bringing in an etymology."
+  },
+  {
+   "t": 4800.0,
+   "end": 4808.08,
+   "text": "Based on the element Vāna, much of the original significance of the word Nibbāna came to be undermined."
+  },
+  {
+   "t": 4809.04,
+   "end": 4814.24,
+   "text": "On quite a number of occasions, the Buddha has declared that the cessation of suffering is Nibbāna,"
+  },
+  {
+   "t": 4814.42,
+   "end": 4817.1,
+   "text": "or else that the destruction of craving is Nibbāna."
+  },
+  {
+   "t": 4818.0,
+   "end": 4822.86,
+   "text": "Terms like Dukunkaniro, Dho and Tanhakunkayo have been used as synonyms."
+  },
+  {
+   "t": 4823.12,
+   "end": 4827.74,
+   "text": "If they are synonyms, there is no need to make any discrimination with regard to some of them"
+  },
+  {
+   "t": 4827.74,
+   "end": 4831.64,
+   "text": "by existing on a periphrastic usage like Agamma."
+  },
+  {
+   "t": 4832.82,
+   "end": 4838.04,
+   "text": "Yet another important aspect of the problem is the relation of Nibbāna to the holy life, or Brahmacharya."
+  },
+  {
+   "t": 4838.68,
+   "end": 4843.28,
+   "text": "It is said that when the holy life is lived out to the full, it culminates in Nibbāna."
+  },
+  {
+   "t": 4844.42,
+   "end": 4851.98,
+   "text": "In the Radha sañyotu of the Samyata Nikaya, we find the venerable Radha putting a series of questions to the Buddha to get an explanation."
+  },
+  {
+   "t": 4852.96,
+   "end": 4854.2,
+   "text": "First of all, he asks,"
+  },
+  {
+   "t": 4857.2,
+   "end": 4859.18,
+   "text": "For what purpose is right vision?"
+  },
+  {
+   "t": 4859.82,
+   "end": 4861.48,
+   "text": "And the Buddha gives the answer."
+  },
+  {
+   "t": 4865.44,
+   "end": 4871.52,
+   "text": "Radha, right vision, is for the purpose of disgust or dejection, and that is to say disgust for samsara."
+  },
+  {
+   "t": 4872.7,
+   "end": 4876.58,
+   "text": "Comment, as I mentioned before, I prefer disenchantment over disgust."
+  },
+  {
+   "t": 4877.02,
+   "end": 4877.52,
+   "text": "End of comment."
+  },
+  {
+   "t": 4878.26,
+   "end": 4879.74,
+   "text": "The next question is,"
+  },
+  {
+   "t": 4879.9,
+   "end": 4881.4,
+   "text": "For what purpose is disgust?"
+  },
+  {
+   "t": 4881.98,
+   "end": 4883.38,
+   "text": "And the Buddha answers,"
+  },
+  {
+   "t": 4883.8,
+   "end": 4885.26,
+   "text": "Disgust is for dispassion."
+  },
+  {
+   "t": 4886.1,
+   "end": 4887.98,
+   "text": "What is the purpose of dispassion?"
+  },
+  {
+   "t": 4888.22,
+   "end": 4890.2,
+   "text": "The purpose of dispassion is release."
+  },
+  {
+   "t": 4891.16,
+   "end": 4892.98,
+   "text": "What is the purpose of release?"
+  },
+  {
+   "t": 4893.38,
+   "end": 4895.28,
+   "text": "The purpose of release is Nibbāna."
+  },
+  {
+   "t": 4896.12,
+   "end": 4898.58,
+   "text": "Last of all, venerable Radha puts the question,"
+  },
+  {
+   "t": 4898.78,
+   "end": 4900.76,
+   "text": "Nibbāna and Panna Bandha Kimmatiyam,"
+  },
+  {
+   "t": 4900.92,
+   "end": 4902.36,
+   "text": "For what purpose is Nibbāna?"
+  },
+  {
+   "t": 4903.82,
+   "end": 4905.4,
+   "text": "And the Buddha gives this answer."
+  },
+  {
+   "t": 4920.24,
+   "end": 4923.18,
+   "text": "Radha, you have gone beyond the scope of your questions."
+  },
+  {
+   "t": 4923.62,
+   "end": 4926.5,
+   "text": "You are unable to grasp the limit of your questions."
+  },
+  {
+   "t": 4926.86,
+   "end": 4930.1,
+   "text": "For Radha, the holy life is merged in Nibbāna."
+  },
+  {
+   "t": 4930.56,
+   "end": 4932.36,
+   "text": "Its consummation is Nibbāna."
+  },
+  {
+   "t": 4932.66,
+   "end": 4934.4,
+   "text": "Its culmination is Nibbāna."
+  },
+  {
+   "t": 4934.4,
+   "end": 4937.94,
+   "text": "Common, just like to offer Bikubodhi's translation."
+  },
+  {
+   "t": 4939.16,
+   "end": 4941.58,
+   "text": "You have gone beyond the range of questioning Radha."
+  },
+  {
+   "t": 4941.76,
+   "end": 4944.68,
+   "text": "You weren't able to grasp the limit to questioning."
+  },
+  {
+   "t": 4946.0,
+   "end": 4950.42,
+   "text": "For Radha, the holy life is lived with Nibbāna as its ground,"
+  },
+  {
+   "t": 4950.98,
+   "end": 4952.9,
+   "text": "Nibbāna as its destination,"
+  },
+  {
+   "t": 4953.48,
+   "end": 4955.14,
+   "text": "Nibbāna as its final goal."
+  },
+  {
+   "t": 4956.28,
+   "end": 4959.76,
+   "text": "This shows that the holy life gets merged in Nibbāna,"
+  },
+  {
+   "t": 4959.88,
+   "end": 4962.22,
+   "text": "just as rivers get merged in the sea."
+  },
+  {
+   "t": 4962.76,
+   "end": 4966.48,
+   "text": "In other words, where the holy life is lived out to the full,"
+  },
+  {
+   "t": 4966.7,
+   "end": 4967.64,
+   "text": "Nibbāna is right there."
+  },
+  {
+   "t": 4968.68,
+   "end": 4971.92,
+   "text": "That is why when Rananda, who earnestly took up the holy life,"
+  },
+  {
+   "t": 4972.04,
+   "end": 4974.38,
+   "text": "encouraged by the Buddha's promise of heavenly nymphs,"
+  },
+  {
+   "t": 4974.98,
+   "end": 4977.22,
+   "text": "attained Arahanhood almost in spite of himself."
+  },
+  {
+   "t": 4978.26,
+   "end": 4982.36,
+   "text": "At last he approached the Buddha and begged to relieve him of the onus of his promise."
+  },
+  {
+   "t": 4983.46,
+   "end": 4986.46,
+   "text": "This shows that when one completes the training in the holy life,"
+  },
+  {
+   "t": 4986.54,
+   "end": 4988.0,
+   "text": "one is already in Nibbāna."
+  },
+  {
+   "t": 4989.42,
+   "end": 4992.1,
+   "text": "Only when the training is incomplete can one go to heaven."
+  },
+  {
+   "t": 4993.78,
+   "end": 4996.44,
+   "text": "Here then is a result which comes of its own accord."
+  },
+  {
+   "t": 4997.06,
+   "end": 5001.68,
+   "text": "So there is no justification for a periphrastic usage like on-reaching Nibbāna."
+  },
+  {
+   "t": 5002.24,
+   "end": 5005.22,
+   "text": "No glimpse of a distant object is necessary."
+  },
+  {
+   "t": 5005.8,
+   "end": 5009.38,
+   "text": "At whatever moment the noble eightfold path is perfected,"
+  },
+  {
+   "t": 5009.62,
+   "end": 5011.68,
+   "text": "one attains Nibbāna then and there."
+  },
+  {
+   "t": 5012.7,
+   "end": 5014.8,
+   "text": "Now, in the case of an examination,"
+  },
+  {
+   "t": 5015.26,
+   "end": 5016.86,
+   "text": "after answering the question papers,"
+  },
+  {
+   "t": 5017.32,
+   "end": 5020.26,
+   "text": "one has to wait for the results to get a pass."
+  },
+  {
+   "t": 5020.92,
+   "end": 5022.06,
+   "text": "Here it is different."
+  },
+  {
+   "t": 5022.66,
+   "end": 5025.1,
+   "text": "As soon as you have answered the paper correctly,"
+  },
+  {
+   "t": 5025.44,
+   "end": 5028.32,
+   "text": "you have passed immediately and the certificate is already there."
+  },
+  {
+   "t": 5029.14,
+   "end": 5032.98,
+   "text": "This is the significance of the term Anya used in such contexts."
+  },
+  {
+   "t": 5033.8,
+   "end": 5037.26,
+   "text": "Anya stands for full certitude of the experience of Nibbāna."
+  },
+  {
+   "t": 5038.24,
+   "end": 5041.1,
+   "text": "The experience of the fruit of Arahanhood gives him"
+  },
+  {
+   "t": 5041.1,
+   "end": 5043.82,
+   "text": "the final certificate of his attainment, Anya-phalo."
+  },
+  {
+   "t": 5044.72,
+   "end": 5047.74,
+   "text": "That is why Nibbāna is called something to be realized."
+  },
+  {
+   "t": 5048.48,
+   "end": 5051.26,
+   "text": "One gets the certitude that birth is extinct"
+  },
+  {
+   "t": 5051.26,
+   "end": 5054.06,
+   "text": "and that the holy life is lived out to the full."
+  },
+  {
+   "t": 5054.52,
+   "end": 5057.28,
+   "text": "Kina, Jati, Vusitang, Brahmacharyam."
+  },
+  {
+   "t": 5058.56,
+   "end": 5060.86,
+   "text": "Of course, there are some who still go on asking,"
+  },
+  {
+   "t": 5061.06,
+   "end": 5062.42,
+   "text": "what is the purpose of Nibbāna?"
+  },
+  {
+   "t": 5064.12,
+   "end": 5066.34,
+   "text": "And it is to answer this type of question"
+  },
+  {
+   "t": 5066.34,
+   "end": 5068.36,
+   "text": "that many scholars go on hair-splitting."
+  },
+  {
+   "t": 5069.16,
+   "end": 5072.24,
+   "text": "Normally in the world, whatever one does has some purpose or other."
+  },
+  {
+   "t": 5073.12,
+   "end": 5076.7,
+   "text": "All occupations or trades and businesses are for gain and profit."
+  },
+  {
+   "t": 5077.68,
+   "end": 5080.4,
+   "text": "Thieves and burglars also have some purpose in mind."
+  },
+  {
+   "t": 5080.56,
+   "end": 5083.14,
+   "text": "But what is the purpose of trying to attain Nibbāna?"
+  },
+  {
+   "t": 5083.32,
+   "end": 5084.74,
+   "text": "What is the purpose of Nibbāna?"
+  },
+  {
+   "t": 5085.02,
+   "end": 5086.6,
+   "text": "Why should one attain Nibbāna?"
+  },
+  {
+   "t": 5087.28,
+   "end": 5089.52,
+   "text": "It is to give an answer to this question"
+  },
+  {
+   "t": 5089.52,
+   "end": 5091.5,
+   "text": "that scholars brought in such phrases as"
+  },
+  {
+   "t": 5091.5,
+   "end": 5092.94,
+   "text": "Nibbāna ng Pana Agama,"
+  },
+  {
+   "t": 5093.26,
+   "end": 5094.36,
+   "text": "on reaching Nibbāna."
+  },
+  {
+   "t": 5094.98,
+   "end": 5097.3,
+   "text": "They would say that on reaching Nibbāna,"
+  },
+  {
+   "t": 5097.5,
+   "end": 5098.7,
+   "text": "craving would be destroyed."
+  },
+  {
+   "t": 5099.58,
+   "end": 5101.12,
+   "text": "On closer analysis,"
+  },
+  {
+   "t": 5101.5,
+   "end": 5104.22,
+   "text": "it would appear that there is some fallacy in this question."
+  },
+  {
+   "t": 5104.92,
+   "end": 5108.08,
+   "text": "For if there is any aim or purpose in attaining Nibbāna,"
+  },
+  {
+   "t": 5108.26,
+   "end": 5110.16,
+   "text": "Nibbāna would not be the ultimate aim."
+  },
+  {
+   "t": 5111.7,
+   "end": 5112.74,
+   "text": "In other words,"
+  },
+  {
+   "t": 5113.08,
+   "end": 5114.64,
+   "text": "if Nibbāna is the ultimate aim,"
+  },
+  {
+   "t": 5115.06,
+   "end": 5117.16,
+   "text": "there should be no aim in attaining Nibbāna."
+  },
+  {
+   "t": 5117.96,
+   "end": 5120.22,
+   "text": "Though it may well sound a tautology,"
+  },
+  {
+   "t": 5120.62,
+   "end": 5123.1,
+   "text": "one has to say that Nibbāna is the ultimate aim"
+  },
+  {
+   "t": 5123.1,
+   "end": 5126.18,
+   "text": "for the simple reason that there is no aim beyond it."
+  },
+  {
+   "t": 5127.2,
+   "end": 5127.8,
+   "text": "However,"
+  },
+  {
+   "t": 5128.66,
+   "end": 5131.08,
+   "text": "this may need more explanation."
+  },
+  {
+   "t": 5131.76,
+   "end": 5133.78,
+   "text": "Now, as far as craving is concerned,"
+  },
+  {
+   "t": 5134.2,
+   "end": 5136.7,
+   "text": "it has the nature of projection or inclination."
+  },
+  {
+   "t": 5137.06,
+   "end": 5138.96,
+   "text": "It is something bent forward,"
+  },
+  {
+   "t": 5139.3,
+   "end": 5140.28,
+   "text": "with a forward view,"
+  },
+  {
+   "t": 5140.46,
+   "end": 5142.64,
+   "text": "and that is why it is called Bhavanetti,"
+  },
+  {
+   "t": 5142.86,
+   "end": 5143.96,
+   "text": "the leader in becoming."
+  },
+  {
+   "t": 5145.28,
+   "end": 5147.58,
+   "text": "It leads one on and on in existence,"
+  },
+  {
+   "t": 5148.48,
+   "end": 5150.38,
+   "text": "like the carrot before the donkey."
+  },
+  {
+   "t": 5151.58,
+   "end": 5154.34,
+   "text": "So, that is why all objects presented by craving"
+  },
+  {
+   "t": 5155.46,
+   "end": 5158.26,
+   "text": "have some object or purpose as a projector."
+  },
+  {
+   "t": 5159.08,
+   "end": 5160.66,
+   "text": "Craving is an inclination."
+  },
+  {
+   "t": 5161.7,
+   "end": 5163.64,
+   "text": "But what is the position if one makes"
+  },
+  {
+   "t": 5163.64,
+   "end": 5165.74,
+   "text": "the destruction of craving itself one's object?"
+  },
+  {
+   "t": 5166.26,
+   "end": 5167.1,
+   "text": "Now, craving,"
+  },
+  {
+   "t": 5167.16,
+   "end": 5168.8,
+   "text": "because of its inclining nature,"
+  },
+  {
+   "t": 5168.88,
+   "end": 5169.94,
+   "text": "is always bent forward."
+  },
+  {
+   "t": 5170.42,
+   "end": 5172.86,
+   "text": "So much so that we get an infinite progression."
+  },
+  {
+   "t": 5173.18,
+   "end": 5174.18,
+   "text": "This is for that,"
+  },
+  {
+   "t": 5174.32,
+   "end": 5175.56,
+   "text": "and that is for the other."
+  },
+  {
+   "t": 5176.16,
+   "end": 5179.52,
+   "text": "As the phrase Tanna, Pono, Bhavika implies,"
+  },
+  {
+   "t": 5179.52,
+   "end": 5182.18,
+   "text": "craving brings up existence again and again."
+  },
+  {
+   "t": 5182.84,
+   "end": 5184.44,
+   "text": "But this is not the case"
+  },
+  {
+   "t": 5184.44,
+   "end": 5187.1,
+   "text": "when one makes the destruction of craving one's aim."
+  },
+  {
+   "t": 5187.42,
+   "end": 5188.88,
+   "text": "When that aim is attained,"
+  },
+  {
+   "t": 5189.22,
+   "end": 5190.64,
+   "text": "there is nothing more to be done."
+  },
+  {
+   "t": 5191.58,
+   "end": 5193.7,
+   "text": "Though this brings us to the conclusion"
+  },
+  {
+   "t": 5193.7,
+   "end": 5195.58,
+   "text": "that the term Tanhakkayo,"
+  },
+  {
+   "t": 5195.68,
+   "end": 5196.62,
+   "text": "destruction of craving,"
+  },
+  {
+   "t": 5196.74,
+   "end": 5199.0,
+   "text": "is a full-fledged synonym of Nibbana."
+  },
+  {
+   "t": 5200.0,
+   "end": 5201.96,
+   "text": "Well, this much is enough for today."
+  },
+  {
+   "t": 5202.62,
+   "end": 5203.58,
+   "text": "Time permitting,"
+  },
+  {
+   "t": 5203.88,
+   "end": 5204.6,
+   "text": "and life permitting,"
+  },
+  {
+   "t": 5204.6,
+   "end": 5206.62,
+   "text": "I hope to continue with these sermons."
+  },
+  {
+   "t": 5207.42,
+   "end": 5209.92,
+   "text": "I suppose the most venerable great preceptor"
+  },
+  {
+   "t": 5209.92,
+   "end": 5210.8,
+   "text": "made this invitation"
+  },
+  {
+   "t": 5210.8,
+   "end": 5213.2,
+   "text": "with the idea of seeing one of his children at play."
+  },
+  {
+   "t": 5213.9,
+   "end": 5215.04,
+   "text": "For good or for bad,"
+  },
+  {
+   "t": 5215.38,
+   "end": 5216.94,
+   "text": "I have taken up the invitation."
+  },
+  {
+   "t": 5217.3,
+   "end": 5218.94,
+   "text": "Let the future of the Sarsana"
+  },
+  {
+   "t": 5218.94,
+   "end": 5220.56,
+   "text": "be the final judge of its merits."
+  },
+  {
+   "t": 5221.24,
+   "end": 5221.76,
+   "text": "Comment?"
+  },
+  {
+   "t": 5222.54,
+   "end": 5226.3,
+   "text": "Yeah, so this is the end of the first sermon."
+  },
+  {
+   "t": 5226.3,
+   "end": 5230.94,
+   "text": "And it is very difficult to summarize"
+  },
+  {
+   "t": 5230.94,
+   "end": 5232.96,
+   "text": "because the venerable Jnananda"
+  },
+  {
+   "t": 5232.96,
+   "end": 5238.1,
+   "text": "has this ability of weaving in different points"
+  },
+  {
+   "t": 5238.1,
+   "end": 5240.84,
+   "text": "into one continuous presentation."
+  },
+  {
+   "t": 5242.66,
+   "end": 5247.08,
+   "text": "But I just like for the purpose of discussion"
+  },
+  {
+   "t": 5247.08,
+   "end": 5252.12,
+   "text": "and ease to point out two salient points"
+  },
+  {
+   "t": 5252.12,
+   "end": 5255.74,
+   "text": "in my own take on this sermon"
+  },
+  {
+   "t": 5255.74,
+   "end": 5258.8,
+   "text": "that come up for me."
+  },
+  {
+   "t": 5258.94,
+   "end": 5260.72,
+   "text": "One is the definition of name,"
+  },
+  {
+   "t": 5261.6,
+   "end": 5264.34,
+   "text": "and the other one is the fire imagery"
+  },
+  {
+   "t": 5264.34,
+   "end": 5267.74,
+   "text": "in relation to the term Nibbana."
+  },
+  {
+   "t": 5268.66,
+   "end": 5270.84,
+   "text": "Thank you very much for your attention"
+  },
+  {
+   "t": 5270.84,
+   "end": 5274.64,
+   "text": "and I look forward to seeing your comments"
+  },
+  {
+   "t": 5274.64,
+   "end": 5278.96,
+   "text": "and suggestions on the discussion forum"
+  },
+  {
+   "t": 5278.96,
+   "end": 5281.08,
+   "text": "and then taking these up"
+  },
+  {
+   "t": 5281.08,
+   "end": 5284.0,
+   "text": "and the second sermon in another week's time."
+  },
+  {
+   "t": 5284.34,
+   "end": 5286.0,
+   "text": "Thank you."
+  }
+ ]
+}

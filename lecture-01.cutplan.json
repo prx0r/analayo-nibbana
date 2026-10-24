@@ -1,0 +1,440 @@
+{
+ "lecture": 1,
+ "target_min": 30,
+ "source_min": 88.2,
+ "kept_sec": 1969.2,
+ "v": 2,
+ "timebase": {
+  "yt_first": 6.6,
+  "yt_last": 5280.7,
+  "ds_first": 12.68,
+  "ds_last": 5286.0,
+  "note": "cuts in DS seconds; yt = linear map via anchors"
+ },
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 12.68,
+   "kind": "silence",
+   "reason": "long pause/chant gap inside removed span"
+  },
+  {
+   "start": 39.18,
+   "end": 548.3,
+   "kind": "silence",
+   "reason": "long pause/chant gap inside removed span"
+  },
+  {
+   "start": 583.14,
+   "end": 695.52,
+   "kind": "repetition",
+   "reason": "second motto chant + invitation narrative (first telling kept)"
+  },
+  {
+   "start": 749.1,
+   "end": 749.9,
+   "kind": "trim",
+   "reason": "short transition inside removed span"
+  },
+  {
+   "start": 804.9,
+   "end": 1526.2,
+   "kind": "tangent",
+   "reason": "six-qualities survey, commentaries-background essay, Manu/Sangiti history comment \u2014 the long detour"
+  },
+  {
+   "start": 1542.8,
+   "end": 1548.3,
+   "kind": "filler",
+   "reason": "transition"
+  },
+  {
+   "start": 1586.0,
+   "end": 1872.1,
+   "kind": "tangent",
+   "reason": "catechism rundown + Mahasi slow-walking essay"
+  },
+  {
+   "start": 1968.0,
+   "end": 2031.2,
+   "kind": "tangent",
+   "reason": "Bodhi name-translation + Chinese parallel detour"
+  },
+  {
+   "start": 2088.8,
+   "end": 2100.6,
+   "kind": "silence",
+   "reason": "long pause/chant gap inside removed span"
+  },
+  {
+   "start": 2145.1,
+   "end": 2220.8,
+   "kind": "silence",
+   "reason": "long pause/chant gap inside removed span"
+  },
+  {
+   "start": 2262.7,
+   "end": 2296.7,
+   "kind": "silence",
+   "reason": "long pause/chant gap inside removed span"
+  },
+  {
+   "start": 2368.2,
+   "end": 2434.3,
+   "kind": "repetition",
+   "reason": "convention/nameless-tree tail + child rehash"
+  },
+  {
+   "start": 2471.8,
+   "end": 2479.0,
+   "kind": "filler",
+   "reason": "transition"
+  },
+  {
+   "start": 2517.0,
+   "end": 2535.5,
+   "kind": "filler",
+   "reason": "simile preamble (epithets restated in kept line)"
+  },
+  {
+   "start": 2645.9,
+   "end": 2649.6,
+   "kind": "trim",
+   "reason": "short transition inside removed span"
+  },
+  {
+   "start": 2769.0,
+   "end": 2769.8,
+   "kind": "filler",
+   "reason": "transition"
+  },
+  {
+   "start": 2819.6,
+   "end": 2865.4,
+   "kind": "repetition",
+   "reason": "first/second tangle-verse discussion (third verse kept)"
+  },
+  {
+   "start": 2923.0,
+   "end": 2924.4,
+   "kind": "trim",
+   "reason": "short transition inside removed span"
+  },
+  {
+   "start": 2957.4,
+   "end": 2998.9,
+   "kind": "repetition",
+   "reason": "pattika/rupasanya pair restated (resistance core kept)"
+  },
+  {
+   "start": 3083.0,
+   "end": 3083.6,
+   "kind": "filler",
+   "reason": "transition"
+  },
+  {
+   "start": 3111.6,
+   "end": 3147.8,
+   "kind": "tangent",
+   "reason": "weaving-etymology mechanism detail"
+  },
+  {
+   "start": 3164.3,
+   "end": 3243.8,
+   "kind": "tangent",
+   "reason": "Bodhi lamp-translation musing + torch simile list"
+  },
+  {
+   "start": 3387.1,
+   "end": 3442.6,
+   "kind": "tangent",
+   "reason": "Western-winter climate aside + Mahagandhya lead-in"
+  },
+  {
+   "start": 3471.8,
+   "end": 3645.9,
+   "kind": "tangent",
+   "reason": "Upanishad comparative essay + Upadana wordplay"
+  },
+  {
+   "start": 3695.0,
+   "end": 3743.0,
+   "kind": "repetition",
+   "reason": "Vedic being/non-being history (solution kept)"
+  },
+  {
+   "start": 3864.0,
+   "end": 4195.0,
+   "kind": "tangent",
+   "reason": "Bodhi-flame comment + commentators'-critique essay + immediacy comment"
+  },
+  {
+   "start": 4229.6,
+   "end": 4230.4,
+   "kind": "filler",
+   "reason": "transition"
+  },
+  {
+   "start": 4320.1,
+   "end": 4523.9,
+   "kind": "tangent",
+   "reason": "Udana genre essay (Bande, Chinese parallels)"
+  },
+  {
+   "start": 4561.2,
+   "end": 4587.5,
+   "kind": "repetition",
+   "reason": "scholars'-hesitation restatement"
+  },
+  {
+   "start": 4614.1,
+   "end": 4691.2,
+   "kind": "repetition",
+   "reason": "Bhikkhaghosa/imaginary-heretic debate setup (refutation kept)"
+  },
+  {
+   "start": 4727.9,
+   "end": 4832.8,
+   "kind": "repetition",
+   "reason": "limbs simile tail + synonyms preamble"
+  },
+  {
+   "start": 4968.0,
+   "end": 5012.7,
+   "kind": "tangent",
+   "reason": "Rananda heavenly-nymphs story"
+  },
+  {
+   "start": 5058.6,
+   "end": 5069.2,
+   "kind": "filler",
+   "reason": "'some still go asking' pivot"
+  },
+  {
+   "start": 5131.1,
+   "end": 5199.0,
+   "kind": "tangent",
+   "reason": "craving-inclination mechanism essay (bhavanetti, carrot-donkey)"
+  },
+  {
+   "start": 5221.8,
+   "end": 5242.7,
+   "kind": "logistics",
+   "reason": "'hard to summarize' preamble"
+  },
+  {
+   "start": 5268.7,
+   "end": 5292.76,
+   "kind": "logistics",
+   "reason": "forum plug, thanks, next-week logistics"
+  }
+ ],
+ "keep_summary": "welcome+theme; motto & unlock comment incl. sankara gloss; name/form core (Sopaka, rubber-ball, four elements, tangle); fire arc (lamp, epithets, accusers, cool-body, upadana, tetralemma/Upasiva); Nibbana=extinction (Ratanasutta, 11-fold fire, Radha chain, exam/certificate); sermon close + two-point recap.",
+ "kept_segments": [
+  {
+   "start": 12.7,
+   "end": 39.2,
+   "grade": "B"
+  },
+  {
+   "start": 548.3,
+   "end": 583.1,
+   "grade": "A"
+  },
+  {
+   "start": 695.5,
+   "end": 749.1,
+   "grade": "A"
+  },
+  {
+   "start": 749.9,
+   "end": 804.9,
+   "grade": "B"
+  },
+  {
+   "start": 1526.2,
+   "end": 1542.8,
+   "grade": "A"
+  },
+  {
+   "start": 1548.3,
+   "end": 1586.0,
+   "grade": "B"
+  },
+  {
+   "start": 1872.1,
+   "end": 1968.0,
+   "grade": "A"
+  },
+  {
+   "start": 2031.2,
+   "end": 2088.8,
+   "grade": "B"
+  },
+  {
+   "start": 2100.6,
+   "end": 2145.1,
+   "grade": "A"
+  },
+  {
+   "start": 2220.8,
+   "end": 2262.7,
+   "grade": "C"
+  },
+  {
+   "start": 2296.7,
+   "end": 2368.2,
+   "grade": "A"
+  },
+  {
+   "start": 2434.3,
+   "end": 2471.8,
+   "grade": "B"
+  },
+  {
+   "start": 2479.0,
+   "end": 2517.0,
+   "grade": "B"
+  },
+  {
+   "start": 2535.5,
+   "end": 2605.5,
+   "grade": "A"
+  },
+  {
+   "start": 2605.5,
+   "end": 2645.9,
+   "grade": "B"
+  },
+  {
+   "start": 2649.6,
+   "end": 2769.0,
+   "grade": "B"
+  },
+  {
+   "start": 2769.8,
+   "end": 2819.6,
+   "grade": "A"
+  },
+  {
+   "start": 2865.4,
+   "end": 2923.0,
+   "grade": "A"
+  },
+  {
+   "start": 2924.4,
+   "end": 2957.4,
+   "grade": "B"
+  },
+  {
+   "start": 2998.9,
+   "end": 3083.0,
+   "grade": "A"
+  },
+  {
+   "start": 3083.6,
+   "end": 3111.6,
+   "grade": "B"
+  },
+  {
+   "start": 3147.8,
+   "end": 3164.3,
+   "grade": "A"
+  },
+  {
+   "start": 3243.8,
+   "end": 3345.2,
+   "grade": "A"
+  },
+  {
+   "start": 3345.2,
+   "end": 3387.1,
+   "grade": "B"
+  },
+  {
+   "start": 3442.6,
+   "end": 3471.8,
+   "grade": "A"
+  },
+  {
+   "start": 3645.9,
+   "end": 3695.0,
+   "grade": "B"
+  },
+  {
+   "start": 3743.0,
+   "end": 3760.4,
+   "grade": "B"
+  },
+  {
+   "start": 3760.4,
+   "end": 3864.0,
+   "grade": "A"
+  },
+  {
+   "start": 4195.0,
+   "end": 4229.6,
+   "grade": "A"
+  },
+  {
+   "start": 4230.4,
+   "end": 4273.6,
+   "grade": "A"
+  },
+  {
+   "start": 4273.6,
+   "end": 4320.1,
+   "grade": "B"
+  },
+  {
+   "start": 4523.9,
+   "end": 4561.2,
+   "grade": "A"
+  },
+  {
+   "start": 4587.5,
+   "end": 4614.1,
+   "grade": "B"
+  },
+  {
+   "start": 4691.2,
+   "end": 4727.9,
+   "grade": "B"
+  },
+  {
+   "start": 4832.8,
+   "end": 4968.0,
+   "grade": "A"
+  },
+  {
+   "start": 5012.7,
+   "end": 5058.6,
+   "grade": "A"
+  },
+  {
+   "start": 5069.2,
+   "end": 5131.1,
+   "grade": "B"
+  },
+  {
+   "start": 5199.0,
+   "end": 5221.8,
+   "grade": "B"
+  },
+  {
+   "start": 5242.7,
+   "end": 5268.7,
+   "grade": "B"
+  }
+ ],
+ "grade_counts": {
+  "A": 19,
+  "B": 19,
+  "C": 1
+ },
+ "grade_minutes": {
+  "A": 18.8,
+  "B": 13.4,
+  "C": 0.7
+ }
+}

@@ -1,0 +1,449 @@
+{
+ "lecture": 4,
+ "target_min": 30,
+ "source_min": 93.3,
+ "kept_sec": 2381.5,
+ "kept_pct": 43,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 8.44,
+  "yt_last": 5596.72
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 485.5,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 612.2,
+   "end": 840.2,
+   "kind": "tangent",
+   "reason": "Abhidhamma three-lives/mind-moment history + Jurevich-Vedic comment (episode 2 covered Jurevich)"
+  },
+  {
+   "start": 916.5,
+   "end": 918.1,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 950.4,
+   "end": 1014.5,
+   "kind": "filler",
+   "reason": "'my time / owning time' aside + container-apology"
+  },
+  {
+   "start": 1055.5,
+   "end": 1057.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1194.2,
+   "end": 1199.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1239.5,
+   "end": 1240,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1422.6,
+   "end": 1462.4,
+   "kind": "repetition",
+   "reason": "womb-conditions restated (episode 3's chapter)"
+  },
+  {
+   "start": 1503,
+   "end": 1504.5,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1566.6,
+   "end": 1609.2,
+   "kind": "repetition",
+   "reason": "AN field/moisture quote (its meaning restated at 1882)"
+  },
+  {
+   "start": 1700.3,
+   "end": 1856.5,
+   "kind": "repetition",
+   "reason": "Bodhi + Chinese-Vira restatements of Sela's verses + exegesis"
+  },
+  {
+   "start": 1946.3,
+   "end": 2028.6,
+   "kind": "repetition",
+   "reason": "Muni-sutta reads restating 'does not moisten with craving'"
+  },
+  {
+   "start": 2077.9,
+   "end": 2129.5,
+   "kind": "tangent",
+   "reason": "nisaya/nisita etymology block"
+  },
+  {
+   "start": 2230.9,
+   "end": 2319.9,
+   "kind": "repetition",
+   "reason": "Agama third restatement of the riddle-chain"
+  },
+  {
+   "start": 2362.0,
+   "end": 2444.8,
+   "kind": "tangent",
+   "reason": "'sutta looks like a jumble' analysis + nati key-word setup"
+  },
+  {
+   "start": 2468.6,
+   "end": 2615,
+   "kind": "repetition",
+   "reason": "dichotomy-chain + released-person recap + Udana intro (all restated)"
+  },
+  {
+   "start": 2716,
+   "end": 2825.7,
+   "kind": "tangent",
+   "reason": "eternalism/nihilism question + ASR-glitch region"
+  },
+  {
+   "start": 2850.3,
+   "end": 3032.3,
+   "kind": "repetition",
+   "reason": "Bodhi/Chinese right-view restatements + string-of-terms analysis"
+  },
+  {
+   "start": 3043.1,
+   "end": 3142.9,
+   "kind": "silence",
+   "reason": "twelve-link formula recited in Pali (English kept)"
+  },
+  {
+   "start": 3199.8,
+   "end": 3363.1,
+   "kind": "repetition",
+   "reason": "cessation-formula half + Bodhi abridgement + Chinese-support comment"
+  },
+  {
+   "start": 3476,
+   "end": 3549.5,
+   "kind": "tangent",
+   "reason": "Chinese-correspondence comment + commentator-view setup"
+  },
+  {
+   "start": 3619.5,
+   "end": 3620.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3674.5,
+   "end": 3675.7,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3682.8,
+   "end": 3713.7,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3741,
+   "end": 3797.3,
+   "kind": "repetition",
+   "reason": "two-are-necessary recap after just reading it"
+  },
+  {
+   "start": 3870.5,
+   "end": 3906.3,
+   "kind": "repetition",
+   "reason": "how-penetration restates the Kaccayana reading"
+  },
+  {
+   "start": 3943.3,
+   "end": 3945.5,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4014.8,
+   "end": 4015.8,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4097.8,
+   "end": 4154.8,
+   "kind": "tangent",
+   "reason": "tata/avitta-tata term philology"
+  },
+  {
+   "start": 4275.8,
+   "end": 4295.8,
+   "kind": "tangent",
+   "reason": "jara etymology"
+  },
+  {
+   "start": 4312.3,
+   "end": 4313.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4374.2,
+   "end": 4375.1,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4519.2,
+   "end": 4584.7,
+   "kind": "repetition",
+   "reason": "Mara-subtle-point + prevention-list preamble (unfailing-method line kept)"
+  },
+  {
+   "start": 4646.3,
+   "end": 5302.3,
+   "kind": "tangent",
+   "reason": "entire Satipatthana arc: refrain recital, four-modes comment, Agama parallels, internal/external-neighbours \u2014 interlocked but off-spine; anchored phrases resume cleanly at the sunrise illustration"
+  },
+  {
+   "start": 5362.7,
+   "end": 5437.9,
+   "kind": "repetition",
+   "reason": "refrain-outcome restatement"
+  },
+  {
+   "start": 5493.8,
+   "end": 5600.48,
+   "kind": "logistics",
+   "reason": "four-sermons meta-recap + repeated thank-yous"
+  }
+ ],
+ "keep_summary": "cold-open ruler-cup demonstration (12-links don't fit time \u2192 time itself dependently arisen \u2192 change = dependent arising \u2192 akalika resolved); motto; womb as change-of-view not transmigration; Dhammapada tree of craving-latency; Sela's seed-and-moisture verses; Kaccayana: right view = just arising/ceasing of suffering, no soul to lose; middle-path formula; world arises in the sixth; two bulls; four tradesmen + Kosia rice-cakes; tug-of-war let-go; sunrise-sunset neighbours; raft & scaffolding close.",
+ "kept_segments": [
+  {
+   "start": 485.5,
+   "end": 612.2,
+   "grade": "A"
+  },
+  {
+   "start": 840.2,
+   "end": 916.5,
+   "grade": "B"
+  },
+  {
+   "start": 918.1,
+   "end": 950.4,
+   "grade": "A"
+  },
+  {
+   "start": 1014.5,
+   "end": 1055.5,
+   "grade": "A"
+  },
+  {
+   "start": 1057.9,
+   "end": 1194.2,
+   "grade": "A"
+  },
+  {
+   "start": 1199.9,
+   "end": 1239.5,
+   "grade": "A"
+  },
+  {
+   "start": 1240,
+   "end": 1325,
+   "grade": "B"
+  },
+  {
+   "start": 1325,
+   "end": 1422.6,
+   "grade": "A"
+  },
+  {
+   "start": 1462.4,
+   "end": 1503,
+   "grade": "B"
+  },
+  {
+   "start": 1504.5,
+   "end": 1566.6,
+   "grade": "A"
+  },
+  {
+   "start": 1609.2,
+   "end": 1700.3,
+   "grade": "A"
+  },
+  {
+   "start": 1856.5,
+   "end": 1946.3,
+   "grade": "A"
+  },
+  {
+   "start": 2028.6,
+   "end": 2077.9,
+   "grade": "B"
+  },
+  {
+   "start": 2129.5,
+   "end": 2230.9,
+   "grade": "A"
+  },
+  {
+   "start": 2319.9,
+   "end": 2362.0,
+   "grade": "B"
+  },
+  {
+   "start": 2444.8,
+   "end": 2468.6,
+   "grade": "B"
+  },
+  {
+   "start": 2615,
+   "end": 2716,
+   "grade": "A"
+  },
+  {
+   "start": 2825.7,
+   "end": 2850.3,
+   "grade": "A"
+  },
+  {
+   "start": 3032.3,
+   "end": 3043.1,
+   "grade": "B"
+  },
+  {
+   "start": 3142.9,
+   "end": 3199.8,
+   "grade": "A"
+  },
+  {
+   "start": 3363.1,
+   "end": 3440.9,
+   "grade": "A"
+  },
+  {
+   "start": 3440.9,
+   "end": 3476,
+   "grade": "B"
+  },
+  {
+   "start": 3549.5,
+   "end": 3619.5,
+   "grade": "B"
+  },
+  {
+   "start": 3620.4,
+   "end": 3674.5,
+   "grade": "B"
+  },
+  {
+   "start": 3675.7,
+   "end": 3682.8,
+   "grade": "B"
+  },
+  {
+   "start": 3713.7,
+   "end": 3741,
+   "grade": "B"
+  },
+  {
+   "start": 3797.3,
+   "end": 3840,
+   "grade": "A"
+  },
+  {
+   "start": 3840,
+   "end": 3870.5,
+   "grade": "B"
+  },
+  {
+   "start": 3906.3,
+   "end": 3943.3,
+   "grade": "B"
+  },
+  {
+   "start": 3945.5,
+   "end": 4014.8,
+   "grade": "A"
+  },
+  {
+   "start": 4015.8,
+   "end": 4097.8,
+   "grade": "B"
+  },
+  {
+   "start": 4154.8,
+   "end": 4230,
+   "grade": "A"
+  },
+  {
+   "start": 4230,
+   "end": 4275.8,
+   "grade": "B"
+  },
+  {
+   "start": 4295.8,
+   "end": 4312.3,
+   "grade": "B"
+  },
+  {
+   "start": 4313.4,
+   "end": 4374.2,
+   "grade": "A"
+  },
+  {
+   "start": 4375.1,
+   "end": 4402.6,
+   "grade": "B"
+  },
+  {
+   "start": 4402.6,
+   "end": 4475.6,
+   "grade": "A"
+  },
+  {
+   "start": 4475.6,
+   "end": 4519.2,
+   "grade": "A"
+  },
+  {
+   "start": 4584.7,
+   "end": 4646.3,
+   "grade": "A"
+  },
+  {
+   "start": 5302.3,
+   "end": 5362.7,
+   "grade": "A"
+  },
+  {
+   "start": 5437.9,
+   "end": 5493.8,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 23,
+  "B": 18,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 27.0,
+  "B": 12.7,
+  "C": 0.0
+ }
+}

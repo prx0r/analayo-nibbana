@@ -1,0 +1,510 @@
+{
+ "lecture": 5,
+ "target_min": 30,
+ "source_min": 87.4,
+ "kept_sec": 2395.2,
+ "kept_pct": 46,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 14.92,
+  "yt_last": 5251.56
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 1.8,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 27.4,
+   "end": 256.8,
+   "kind": "logistics",
+   "reason": "sermon-4 forum recap (dukkha-translation, quantum-observer, ruler-cup appreciation)"
+  },
+  {
+   "start": 313.6,
+   "end": 410.3,
+   "kind": "repetition",
+   "reason": "sermon-4 satipatthana/scaffolding recap (razor setup self-contains)"
+  },
+  {
+   "start": 489.0,
+   "end": 513.2,
+   "kind": "filler",
+   "reason": "sammasana-bridge comment"
+  },
+  {
+   "start": 599.5,
+   "end": 600.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 625.7,
+   "end": 1038.1,
+   "kind": "tangent",
+   "reason": "Samuraya-sutta chapter + nutriment exposition + chetana personal-take comment \u2014 long mid-block; thesis resumes clean at 'attention makes objects'"
+  },
+  {
+   "start": 1067.3,
+   "end": 1192.6,
+   "kind": "tangent",
+   "reason": "hindrances/awakening-factors parallels comment"
+  },
+  {
+   "start": 1263.9,
+   "end": 1270.6,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1329.8,
+   "end": 1391.4,
+   "kind": "repetition",
+   "reason": "Bodhi restatement + dichotomy recap"
+  },
+  {
+   "start": 1404.1,
+   "end": 1404.6,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1447.9,
+   "end": 1568.3,
+   "kind": "tangent",
+   "reason": "attang-etymology + meta + obscured-setup + Kanjaniya frame (the riddle-read self-introduces)"
+  },
+  {
+   "start": 1588.9,
+   "end": 1721.6,
+   "kind": "repetition",
+   "reason": "Bodhi + translation-workshop comment + Kanjaniya walkthrough"
+  },
+  {
+   "start": 1750.3,
+   "end": 1796.5,
+   "kind": "repetition",
+   "reason": "Bodhi restatement + no-shore setup (Uraga follows directly)"
+  },
+  {
+   "start": 1890.3,
+   "end": 1893.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1930.1,
+   "end": 2148.2,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2207.7,
+   "end": 2314.5,
+   "kind": "tangent",
+   "reason": "Jain-borrowing scholarly debate + article reply"
+  },
+  {
+   "start": 2354.2,
+   "end": 2380.6,
+   "kind": "repetition",
+   "reason": "ditta-asava later-development note"
+  },
+  {
+   "start": 2419.6,
+   "end": 2486.2,
+   "kind": "repetition",
+   "reason": "Pukkara-sati passage restating here-and-now"
+  },
+  {
+   "start": 2513.8,
+   "end": 2516.1,
+   "kind": "filler",
+   "reason": "transition"
+  },
+  {
+   "start": 2551.5,
+   "end": 2779.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2848.7,
+   "end": 2851.2,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2915.7,
+   "end": 2916.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2937.8,
+   "end": 2971.0,
+   "kind": "repetition",
+   "reason": "sense-realm examples"
+  },
+  {
+   "start": 2996.2,
+   "end": 3099.8,
+   "kind": "tangent",
+   "reason": "Samaditi puzzle + parallels comment"
+  },
+  {
+   "start": 3145.7,
+   "end": 3306.6,
+   "kind": "tangent",
+   "reason": "original-version uncertainty comment + Gandhabba intro (English read kept)"
+  },
+  {
+   "start": 3384.1,
+   "end": 3527.9,
+   "kind": "repetition",
+   "reason": "Bodhi full restatement + Chinese-added-a-bird comment"
+  },
+  {
+   "start": 3570.6,
+   "end": 3702.4,
+   "kind": "tangent",
+   "reason": "four-sights hagiography literalism theory comment"
+  },
+  {
+   "start": 3726.5,
+   "end": 3727.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3819.1,
+   "end": 3820.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3863.8,
+   "end": 3946.1,
+   "kind": "repetition",
+   "reason": "animal-realm setup + butterfly/blue-fly logic (cinema intro follows)"
+  },
+  {
+   "start": 4011.7,
+   "end": 4018.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4111.5,
+   "end": 4112.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4273.3,
+   "end": 4275.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4398.9,
+   "end": 4399.7,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4417.8,
+   "end": 4473.3,
+   "kind": "tangent",
+   "reason": "five-aggregates film-world analysis"
+  },
+  {
+   "start": 4637.8,
+   "end": 4693.6,
+   "kind": "repetition",
+   "reason": "Bodhi restatement + murky gloss (verse kept)"
+  },
+  {
+   "start": 4733.2,
+   "end": 4781.7,
+   "kind": "repetition",
+   "reason": "Ireland restatement + gloss (verse already delivered)"
+  },
+  {
+   "start": 4838.2,
+   "end": 4839.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 4875.1,
+   "end": 4885.5,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5065.4,
+   "end": 5094.0,
+   "kind": "tangent",
+   "reason": "first-two-lines-source uncertainty comment"
+  },
+  {
+   "start": 5144.3,
+   "end": 5145.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 5173.3,
+   "end": 5245.55,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  }
+ ],
+ "keep_summary": "welcome \u2192 razor-simile chapter (grasped vs soft-held: Paramasana/Sammasana, up-up-down-down on Satipatthana); attention makes objects; transcendence-as-penetration; neither-grasps-nor-gives-up riddle pairs; snake-slough Uraga chapter; asavas = ancient dregs (three influxes); here-and-now realizability, bhava-nirodha; picture-called-Cara\u1e47a sutta (mind > picture, spectator's mind); the cinema chapter \u2014 darkness/makeup/sankhara-as-theatre-makeup, the spectator produces the show, door-flung-open = viraga-decoloration, visankhara pun; darkness-verses; Sariputta-Asaji two-liners; hetu = idappaccayata; close.",
+ "kept_segments": [
+  {
+   "start": 1.8,
+   "end": 27.4,
+   "grade": "B"
+  },
+  {
+   "start": 256.8,
+   "end": 313.6,
+   "grade": "A"
+  },
+  {
+   "start": 410.3,
+   "end": 489.0,
+   "grade": "A"
+  },
+  {
+   "start": 513.2,
+   "end": 599.5,
+   "grade": "A"
+  },
+  {
+   "start": 600.0,
+   "end": 625.7,
+   "grade": "B"
+  },
+  {
+   "start": 1038.1,
+   "end": 1067.3,
+   "grade": "A"
+  },
+  {
+   "start": 1192.6,
+   "end": 1263.9,
+   "grade": "A"
+  },
+  {
+   "start": 1270.6,
+   "end": 1329.8,
+   "grade": "A"
+  },
+  {
+   "start": 1391.4,
+   "end": 1404.1,
+   "grade": "B"
+  },
+  {
+   "start": 1404.6,
+   "end": 1447.9,
+   "grade": "A"
+  },
+  {
+   "start": 1568.3,
+   "end": 1588.9,
+   "grade": "A"
+  },
+  {
+   "start": 1721.6,
+   "end": 1750.3,
+   "grade": "A"
+  },
+  {
+   "start": 1796.5,
+   "end": 1890.3,
+   "grade": "A"
+  },
+  {
+   "start": 1893.0,
+   "end": 1930.1,
+   "grade": "A"
+  },
+  {
+   "start": 2148.2,
+   "end": 2207.7,
+   "grade": "A"
+  },
+  {
+   "start": 2314.5,
+   "end": 2354.2,
+   "grade": "B"
+  },
+  {
+   "start": 2380.6,
+   "end": 2419.6,
+   "grade": "A"
+  },
+  {
+   "start": 2486.2,
+   "end": 2513.8,
+   "grade": "B"
+  },
+  {
+   "start": 2516.1,
+   "end": 2551.5,
+   "grade": "A"
+  },
+  {
+   "start": 2779.0,
+   "end": 2848.7,
+   "grade": "A"
+  },
+  {
+   "start": 2851.2,
+   "end": 2915.7,
+   "grade": "A"
+  },
+  {
+   "start": 2916.0,
+   "end": 2937.8,
+   "grade": "B"
+  },
+  {
+   "start": 2971.0,
+   "end": 2996.2,
+   "grade": "B"
+  },
+  {
+   "start": 3099.8,
+   "end": 3145.7,
+   "grade": "A"
+  },
+  {
+   "start": 3306.6,
+   "end": 3384.1,
+   "grade": "A"
+  },
+  {
+   "start": 3527.9,
+   "end": 3570.6,
+   "grade": "B"
+  },
+  {
+   "start": 3702.4,
+   "end": 3726.5,
+   "grade": "A"
+  },
+  {
+   "start": 3727.4,
+   "end": 3751.5,
+   "grade": "A"
+  },
+  {
+   "start": 3751.5,
+   "end": 3819.1,
+   "grade": "A"
+  },
+  {
+   "start": 3820.0,
+   "end": 3863.8,
+   "grade": "A"
+  },
+  {
+   "start": 3946.1,
+   "end": 4011.7,
+   "grade": "A"
+  },
+  {
+   "start": 4018.9,
+   "end": 4111.5,
+   "grade": "A"
+  },
+  {
+   "start": 4112.3,
+   "end": 4160.0,
+   "grade": "A"
+  },
+  {
+   "start": 4160.0,
+   "end": 4273.3,
+   "grade": "A"
+  },
+  {
+   "start": 4275.0,
+   "end": 4334.6,
+   "grade": "A"
+  },
+  {
+   "start": 4334.6,
+   "end": 4398.9,
+   "grade": "A"
+  },
+  {
+   "start": 4399.7,
+   "end": 4417.8,
+   "grade": "A"
+  },
+  {
+   "start": 4473.3,
+   "end": 4588.2,
+   "grade": "A"
+  },
+  {
+   "start": 4586.2,
+   "end": 4637.8,
+   "grade": "A"
+  },
+  {
+   "start": 4693.6,
+   "end": 4733.2,
+   "grade": "A"
+  },
+  {
+   "start": 4781.7,
+   "end": 4838.2,
+   "grade": "A"
+  },
+  {
+   "start": 4839.0,
+   "end": 4875.1,
+   "grade": "A"
+  },
+  {
+   "start": 4885.5,
+   "end": 4975.3,
+   "grade": "A"
+  },
+  {
+   "start": 4975.3,
+   "end": 5065.4,
+   "grade": "A"
+  },
+  {
+   "start": 5094.0,
+   "end": 5144.3,
+   "grade": "A"
+  },
+  {
+   "start": 5145.3,
+   "end": 5173.3,
+   "grade": "B"
+  }
+ ],
+ "grade_counts": {
+  "A": 37,
+  "B": 9,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 35.8,
+  "B": 4.1,
+  "C": 0.0
+ }
+}

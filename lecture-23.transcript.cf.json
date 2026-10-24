@@ -1,0 +1,7877 @@
+{
+ "source": "/home/box/Downloads/yt/analayo-nibbana/analayo-nibbana-lecture-23.mp3",
+ "duration": 5267.2912,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 1.68,
+   "end": 12.68,
+   "text": "Welcome to the online course on the Nibbana Sermons 23 to 33 by Mbiko Katakurunda Nyanananda,"
+  },
+  {
+   "t": 13.82,
+   "end": 20.14,
+   "text": "an online course hosted by the Numarata Center for Buddhist Studies at the University of Hamburg,"
+  },
+  {
+   "t": 21.14,
+   "end": 25.46,
+   "text": "in collaboration with the Barrett Center for Buddhist Studies in Massachusetts."
+  },
+  {
+   "t": 26.92,
+   "end": 30.92,
+   "text": "And today we will be looking at Sermon number 23."
+  },
+  {
+   "t": 33.06,
+   "end": 46.76,
+   "text": "And just from the discussion related to Sermon 22, there were two comments by participants that I wanted to quote Hedvich Kren."
+  },
+  {
+   "t": 47.28,
+   "end": 53.72,
+   "text": "She says, thank you for pointing out that the Brahmajala Sutta is about the arising of use,"
+  },
+  {
+   "t": 54.44,
+   "end": 62.4,
+   "text": "because of contact and feeling, and not so much about the Buddha refuting all those 62 views as wrong views."
+  },
+  {
+   "t": 63.5,
+   "end": 68.68,
+   "text": "Yeah, for myself, that was actually quite an important understanding."
+  },
+  {
+   "t": 69.08,
+   "end": 81.14,
+   "text": "And I keep hearing again and again this really not appropriate idea about the Brahmajala Sutta that is sort of refuting 62 views."
+  },
+  {
+   "t": 81.34,
+   "end": 84.74,
+   "text": "And in reality, it is a psychoanalysis of use."
+  },
+  {
+   "t": 85.36,
+   "end": 91.74,
+   "text": "In fact, it doesn't even use the word ditti, it uses a vattu, the ground or..."
+  },
+  {
+   "t": 92.4,
+   "end": 98.7,
+   "text": "Yeah, the ground is probably a good word that led to the arising of the views."
+  },
+  {
+   "t": 99.14,
+   "end": 102.58,
+   "text": "And if you look at the first few views, they are the same."
+  },
+  {
+   "t": 102.9,
+   "end": 106.96,
+   "text": "They're the same eternalist views, just with different time periods."
+  },
+  {
+   "t": 106.96,
+   "end": 113.6,
+   "text": "So it's very beautiful to bring the Brahmajala Sutta into this perspective."
+  },
+  {
+   "t": 113.6,
+   "end": 122.3,
+   "text": "And it also helps to relate the Brahmajala to this whole issue of ditti and views that is so prominent in the Atakavagga."
+  },
+  {
+   "t": 124.02,
+   "end": 127.48,
+   "text": "And Robert Crusher, he says,"
+  },
+  {
+   "t": 136.98,
+   "end": 141.86,
+   "text": "Here, I think it is not only attachment to specific objects."
+  },
+  {
+   "t": 142.12,
+   "end": 144.42,
+   "text": "Here, the sun castles describes our actions."
+  },
+  {
+   "t": 145.16,
+   "end": 150.4,
+   "text": "Often it is a complex network of attachment to objects and social dynamics,"
+  },
+  {
+   "t": 150.74,
+   "end": 155.28,
+   "text": "which are due to attachment to social relations and social interactions."
+  },
+  {
+   "t": 156.34,
+   "end": 163.42,
+   "text": "I thought that was just a very beautiful way of bringing this castle into our daily life."
+  },
+  {
+   "t": 164.6,
+   "end": 165.72,
+   "text": "This castle simile."
+  },
+  {
+   "t": 167.78,
+   "end": 173.88,
+   "text": "Yeah, and with this, we are already ready to dive into sermon number 23."
+  },
+  {
+   "t": 175.06,
+   "end": 180.6,
+   "text": "And this being a university course, I should always give some additional reading."
+  },
+  {
+   "t": 180.6,
+   "end": 188.08,
+   "text": "And so the reading I have for lecture 23 is this article in The Scene,"
+  },
+  {
+   "t": 188.22,
+   "end": 191.14,
+   "text": "Just the Scene, Mindfulness and the Construction of Experience."
+  },
+  {
+   "t": 191.88,
+   "end": 196.26,
+   "text": "Something I published very recently in the Mindfulness Journal."
+  },
+  {
+   "t": 196.64,
+   "end": 202.3,
+   "text": "An attempt to bring together early Buddhist ideas"
+  },
+  {
+   "t": 202.3,
+   "end": 211.46,
+   "text": "on how we construct our own experience with relative, relevant research from cognitive psychology."
+  },
+  {
+   "t": 215.6,
+   "end": 220.92,
+   "text": "And in this sermon 23, the Venerable goes into this idea of the construction of the world,"
+  },
+  {
+   "t": 221.06,
+   "end": 223.94,
+   "text": "which is something I personally find very fascinating."
+  },
+  {
+   "t": 223.94,
+   "end": 233.2,
+   "text": "And so I thought that this would be a relevant additional reading for those of you who have the time and interest"
+  },
+  {
+   "t": 233.2,
+   "end": 238.0,
+   "text": "to go a little bit deeper into one or the other topic that comes up in the sermon."
+  },
+  {
+   "t": 239.4,
+   "end": 242.98,
+   "text": "Good with this now, ready for the Venerable Jnanananda."
+  },
+  {
+   "t": 256.08,
+   "end": 262.56,
+   "text": "This is peaceful, this is excellent, namely the stilling of all preparations,"
+  },
+  {
+   "t": 263.26,
+   "end": 270.58,
+   "text": "the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 271.68,
+   "end": 275.44,
+   "text": "With the permission of the Most Venerable Great Preceptor"
+  },
+  {
+   "t": 275.44,
+   "end": 278.9,
+   "text": "and the assembly of the Venerable Meditative Monks."
+  },
+  {
+   "t": 279.4,
+   "end": 284.24,
+   "text": "This is the 23rd sermon in the series of sermons on Nibbana."
+  },
+  {
+   "t": 285.38,
+   "end": 289.88,
+   "text": "The other day we brought up quotations to prove that Nibbana,"
+  },
+  {
+   "t": 290.02,
+   "end": 292.3,
+   "text": "as the cessation of becoming,"
+  },
+  {
+   "t": 292.8,
+   "end": 297.12,
+   "text": "carries no implications of a nihilist or un-hilationist view,"
+  },
+  {
+   "t": 297.12,
+   "end": 302.1,
+   "text": "because the Tathagata has transcended the concept of a being."
+  },
+  {
+   "t": 303.64,
+   "end": 306.82,
+   "text": "It became evident from those quotations"
+  },
+  {
+   "t": 306.82,
+   "end": 309.94,
+   "text": "that to assert with an eternalist bias"
+  },
+  {
+   "t": 309.94,
+   "end": 313.54,
+   "text": "the proposition that the Tathagata exists after death,"
+  },
+  {
+   "t": 313.94,
+   "end": 318.84,
+   "text": "simply because he is referred to as a being or a person in the discourses,"
+  },
+  {
+   "t": 319.02,
+   "end": 321.92,
+   "text": "is contrary to the spirit of the Dhamma."
+  },
+  {
+   "t": 322.9,
+   "end": 328.48,
+   "text": "The fact that the Arahant, who has done away with the latencies to conceits of I and mine,"
+  },
+  {
+   "t": 328.92,
+   "end": 332.98,
+   "text": "still continues to use even the words I and mine,"
+  },
+  {
+   "t": 333.44,
+   "end": 338.32,
+   "text": "only as a concession to worldly conventions and common parlance,"
+  },
+  {
+   "t": 338.9,
+   "end": 342.96,
+   "text": "came to light from the Arahantasutta of the Sanyuttanikaya,"
+  },
+  {
+   "t": 343.54,
+   "end": 345.22,
+   "text": "quoted on an earlier occasion."
+  },
+  {
+   "t": 346.94,
+   "end": 350.48,
+   "text": "To remind ourselves of the relevant section of that quotation,"
+  },
+  {
+   "t": 350.58,
+   "end": 352.86,
+   "text": "we may hark back to the following line."
+  },
+  {
+   "t": 365.18,
+   "end": 367.16,
+   "text": "He might still say I speak."
+  },
+  {
+   "t": 367.4,
+   "end": 369.72,
+   "text": "He might also say they speak to me."
+  },
+  {
+   "t": 370.36,
+   "end": 373.12,
+   "text": "Being skillful in knowing the worldly powers,"
+  },
+  {
+   "t": 373.44,
+   "end": 376.52,
+   "text": "he uses such terms merely as a convention."
+  },
+  {
+   "t": 377.28,
+   "end": 379.4,
+   "text": "Common translation by Bikkoboli."
+  },
+  {
+   "t": 379.4,
+   "end": 381.82,
+   "text": "If a Bikkoboli is an Arahant,"
+  },
+  {
+   "t": 382.28,
+   "end": 384.32,
+   "text": "consummate, with tents destroyed,"
+  },
+  {
+   "t": 384.88,
+   "end": 387.04,
+   "text": "one who bears his final body,"
+  },
+  {
+   "t": 387.28,
+   "end": 389.06,
+   "text": "he might still say I speak."
+  },
+  {
+   "t": 389.28,
+   "end": 391.34,
+   "text": "And he might say they speak to me."
+  },
+  {
+   "t": 392.34,
+   "end": 394.68,
+   "text": "Skillful knowing the world's parlance,"
+  },
+  {
+   "t": 394.88,
+   "end": 397.7,
+   "text": "he uses such terms as mere expressions."
+  },
+  {
+   "t": 398.52,
+   "end": 399.1,
+   "text": "End of comment."
+  },
+  {
+   "t": 401.3,
+   "end": 405.88,
+   "text": "The philosophy of voidness that emerges from those discourses,"
+  },
+  {
+   "t": 406.08,
+   "end": 409.5,
+   "text": "which declare that in reality there is no Tathagata,"
+  },
+  {
+   "t": 410.34,
+   "end": 414.58,
+   "text": "we compared to the blazing flames rising from the fistfuls"
+  },
+  {
+   "t": 414.58,
+   "end": 416.92,
+   "text": "of a highly inflammable incense powder"
+  },
+  {
+   "t": 416.92,
+   "end": 420.86,
+   "text": "at the end of an all-night's ceremony of devil dancing."
+  },
+  {
+   "t": 421.84,
+   "end": 426.34,
+   "text": "Generally, this fire ordeal is horrifying to the onlookers."
+  },
+  {
+   "t": 426.34,
+   "end": 431.22,
+   "text": "The Buddha also had to stage a similar fire ordeal"
+  },
+  {
+   "t": 431.22,
+   "end": 435.0,
+   "text": "in the Dhamma Yaga, or the Dhamma Sacrifice."
+  },
+  {
+   "t": 435.98,
+   "end": 440.56,
+   "text": "He administered to exercise the malignant personality view,"
+  },
+  {
+   "t": 440.78,
+   "end": 444.54,
+   "text": "Sankhaya Ditti, ingrained in the minds of worldlings."
+  },
+  {
+   "t": 445.68,
+   "end": 448.16,
+   "text": "Of course, there is no explicit reference"
+  },
+  {
+   "t": 448.16,
+   "end": 450.58,
+   "text": "to such a fire ordeal in the discourses."
+  },
+  {
+   "t": 451.0,
+   "end": 451.76,
+   "text": "Comment."
+  },
+  {
+   "t": 452.84,
+   "end": 458.0,
+   "text": "Yeah, I think this might be interesting"
+  },
+  {
+   "t": 458.0,
+   "end": 459.62,
+   "text": "to just give a little background"
+  },
+  {
+   "t": 459.62,
+   "end": 464.62,
+   "text": "to what I assume stands behind the discussion that follows."
+  },
+  {
+   "t": 464.72,
+   "end": 469.44,
+   "text": "I believe in the first series of 11 sermons at one point,"
+  },
+  {
+   "t": 469.44,
+   "end": 473.06,
+   "text": "I already mentioned how normally this discussion"
+  },
+  {
+   "t": 473.06,
+   "end": 476.28,
+   "text": "would take place at Nisaravanaya"
+  },
+  {
+   "t": 476.28,
+   "end": 478.7,
+   "text": "after the venerable had given his talk."
+  },
+  {
+   "t": 479.28,
+   "end": 483.9,
+   "text": "In the traditional setting, Sri Lanka, in Asia in general,"
+  },
+  {
+   "t": 484.72,
+   "end": 488.58,
+   "text": "the kind of open voicing of criticism"
+  },
+  {
+   "t": 488.58,
+   "end": 491.76,
+   "text": "and that we are so used to in the West,"
+  },
+  {
+   "t": 491.9,
+   "end": 493.4,
+   "text": "particularly in the academic setting,"
+  },
+  {
+   "t": 493.58,
+   "end": 496.16,
+   "text": "is not really the way things are done."
+  },
+  {
+   "t": 496.82,
+   "end": 498.9,
+   "text": "So what would usually happen is like"
+  },
+  {
+   "t": 498.9,
+   "end": 501.58,
+   "text": "the venerable gives his talk and everybody listens"
+  },
+  {
+   "t": 501.58,
+   "end": 505.86,
+   "text": "and afterwards they would be discussing among each other."
+  },
+  {
+   "t": 507.04,
+   "end": 509.44,
+   "text": "And some were very inspired"
+  },
+  {
+   "t": 509.44,
+   "end": 512.22,
+   "text": "and others were more skeptic"
+  },
+  {
+   "t": 512.22,
+   "end": 514.38,
+   "text": "because, as you would all have noticed,"
+  },
+  {
+   "t": 515.1,
+   "end": 519.04,
+   "text": "the venerable often puts into question views,"
+  },
+  {
+   "t": 519.42,
+   "end": 521.18,
+   "text": "particularly from the commentary of tradition,"
+  },
+  {
+   "t": 521.4,
+   "end": 523.84,
+   "text": "that have been quite firmly upheld"
+  },
+  {
+   "t": 523.84,
+   "end": 525.06,
+   "text": "in the Theravad tradition."
+  },
+  {
+   "t": 525.66,
+   "end": 528.9,
+   "text": "And so those more skeptic would then make some comment"
+  },
+  {
+   "t": 530.5,
+   "end": 533.56,
+   "text": "and somebody would then go to see the venerable Nyanananda"
+  },
+  {
+   "t": 533.56,
+   "end": 536.42,
+   "text": "maybe shortly before the next seven ses banter."
+  },
+  {
+   "t": 536.68,
+   "end": 538.46,
+   "text": "You know, some people were saying this, that."
+  },
+  {
+   "t": 538.78,
+   "end": 540.64,
+   "text": "It is good if you can say something."
+  },
+  {
+   "t": 541.38,
+   "end": 544.76,
+   "text": "And so I assume that somebody may have said,"
+  },
+  {
+   "t": 544.88,
+   "end": 547.24,
+   "text": "but what is this bringing in the devil dancing?"
+  },
+  {
+   "t": 547.38,
+   "end": 548.62,
+   "text": "It's not Dhamma."
+  },
+  {
+   "t": 548.86,
+   "end": 551.0,
+   "text": "And why is he bringing that in?"
+  },
+  {
+   "t": 551.0,
+   "end": 554.9,
+   "text": "And so that the venerable Nyanananda is taking it,"
+  },
+  {
+   "t": 554.98,
+   "end": 557.94,
+   "text": "kind of weaving it into his presentation to explain,"
+  },
+  {
+   "t": 558.14,
+   "end": 560.16,
+   "text": "yes, of course, it's not in the discourse,"
+  },
+  {
+   "t": 560.18,
+   "end": 563.98,
+   "text": "but these are the reasons why I use this type of simile."
+  },
+  {
+   "t": 565.76,
+   "end": 568.76,
+   "text": "That was just as a way of a little bit of background"
+  },
+  {
+   "t": 568.76,
+   "end": 573.92,
+   "text": "for us to appreciate why sometimes he moves into certain topics."
+  },
+  {
+   "t": 574.7,
+   "end": 577.06,
+   "text": "And needless to say, of course, I'm just guessing."
+  },
+  {
+   "t": 577.48,
+   "end": 579.56,
+   "text": "I don't know for sure I wasn't there."
+  },
+  {
+   "t": 580.82,
+   "end": 581.66,
+   "text": "End of comment."
+  },
+  {
+   "t": 583.86,
+   "end": 588.52,
+   "text": "However, we do come across a word somewhat suggestive"
+  },
+  {
+   "t": 588.52,
+   "end": 589.96,
+   "text": "of this kind of exorcism."
+  },
+  {
+   "t": 590.36,
+   "end": 594.7,
+   "text": "The word Vidhupeti, derived from the word Dhupa, incense,"
+  },
+  {
+   "t": 595.1,
+   "end": 598.24,
+   "text": "is suggestive of fumigating or smoking out."
+  },
+  {
+   "t": 598.78,
+   "end": 599.8,
+   "text": "For instance,"
+  },
+  {
+   "t": 599.8,
+   "end": 599.86,
+   "text": "And the word Vidhupeti is not in the word Vidhupeti is not in the word Vidhupeti."
+  },
+  {
+   "t": 599.86,
+   "end": 599.98,
+   "text": "Vidhupeti is not in the word Vidhupeti."
+  },
+  {
+   "t": 600.0,
+   "end": 603.02,
+   "text": "we find the following verse in the Bodhi-Bhagga of the Udana"
+  },
+  {
+   "t": 603.02,
+   "end": 607.26,
+   "text": "with reference to the stages of reflection on the law of dependent rising"
+  },
+  {
+   "t": 607.26,
+   "end": 609.26,
+   "text": "in direct and reverse order"
+  },
+  {
+   "t": 609.26,
+   "end": 612.8,
+   "text": "that the Buddha had gone through just after his enlightenment."
+  },
+  {
+   "t": 614.96,
+   "end": 617.06,
+   "text": "Yadahave patubhavanti dhamma"
+  },
+  {
+   "t": 617.06,
+   "end": 620.02,
+   "text": "patapino jhaya to brahmana sa"
+  },
+  {
+   "t": 620.92,
+   "end": 623.4,
+   "text": "vidupayang kriptati marasenang"
+  },
+  {
+   "t": 623.4,
+   "end": 626.46,
+   "text": "suryo vaubhasa yang antalikmukham"
+  },
+  {
+   "t": 629.84,
+   "end": 635.36,
+   "text": "When dhammas manifest themselves to the resolutely meditating brahmin"
+  },
+  {
+   "t": 635.36,
+   "end": 638.48,
+   "text": "he stands fumigating the hordes of mara"
+  },
+  {
+   "t": 638.48,
+   "end": 641.74,
+   "text": "like the sun irradiating the firmament."
+  },
+  {
+   "t": 642.18,
+   "end": 644.02,
+   "text": "Common translation by Ireland"
+  },
+  {
+   "t": 644.02,
+   "end": 649.62,
+   "text": "When the truth become manifest to the ardent meditating brahmin"
+  },
+  {
+   "t": 649.62,
+   "end": 655.54,
+   "text": "scattering mara's host he stands as does the sun illuminating the sky."
+  },
+  {
+   "t": 656.46,
+   "end": 657.16,
+   "text": "End of comment"
+  },
+  {
+   "t": 659.16,
+   "end": 664.06,
+   "text": "The spelling of the hordes of mara is rather suggestive of a smoking out."
+  },
+  {
+   "t": 664.9,
+   "end": 670.46,
+   "text": "In some other discourses this verb vidupayang is found contrasted with sandupayang."
+  },
+  {
+   "t": 671.96,
+   "end": 672.56,
+   "text": "Sandupayang."
+  },
+  {
+   "t": 672.56,
+   "end": 678.1,
+   "text": "The meaning of both these verbs which have the dhupa element in common is not quite clear."
+  },
+  {
+   "t": 679.0,
+   "end": 685.42,
+   "text": "It is likely that the two words imply two functions of the ritual associated with incense."
+  },
+  {
+   "t": 686.24,
+   "end": 691.82,
+   "text": "While some fragrant kind of incense are used for propitiating benevolent spirits,"
+  },
+  {
+   "t": 692.44,
+   "end": 696.54,
+   "text": "certain caustic types are utilized for exorcising evil spirits."
+  },
+  {
+   "t": 696.54,
+   "end": 703.08,
+   "text": "For instance, in the kajaniya sutta of the samyotanikaya, with reference to the noble disciple,"
+  },
+  {
+   "t": 703.48,
+   "end": 706.82,
+   "text": "the phrase vidupeti nasandupeti occurs."
+  },
+  {
+   "t": 707.8,
+   "end": 711.82,
+   "text": "Since the implicit reference is again to the hordes of mara,"
+  },
+  {
+   "t": 712.22,
+   "end": 717.4,
+   "text": "the phrase could be rendered as he exorcises and does not propitiate."
+  },
+  {
+   "t": 717.4,
+   "end": 726.68,
+   "text": "The ordinary worldlings' mode of recognition of the tathagata is comparable to the recognition of a vortex that has already ceased,"
+  },
+  {
+   "t": 727.0,
+   "end": 731.4,
+   "text": "with the help of the flotsam and jetsam lightly floating around it."
+  },
+  {
+   "t": 732.1,
+   "end": 737.56,
+   "text": "Even after the vortex has ceased, flotsam and jetsam could still go on rotating,"
+  },
+  {
+   "t": 738.28,
+   "end": 741.76,
+   "text": "giving the wrong impression that the vortex is still there."
+  },
+  {
+   "t": 742.66,
+   "end": 747.48,
+   "text": "If one understands that the vortex has actually ceased deep down at its center,"
+  },
+  {
+   "t": 748.32,
+   "end": 753.88,
+   "text": "then that what remains there now is the great ocean, undifferentiated and unique."
+  },
+  {
+   "t": 754.5,
+   "end": 761.16,
+   "text": "One can get rid of the unfounded fear arising from the statement that there is no tathagata in truth and fact."
+  },
+  {
+   "t": 762.98,
+   "end": 770.6,
+   "text": "The cessation of the puni center of the whirlpool is equivalent to inheriting an expansive great ocean."
+  },
+  {
+   "t": 771.76,
+   "end": 776.48,
+   "text": "It is where a vortex ceases that the great ocean prevails unhindered."
+  },
+  {
+   "t": 777.42,
+   "end": 782.66,
+   "text": "To give up the limitations of a vortex is to inherit the limitless ocean."
+  },
+  {
+   "t": 783.88,
+   "end": 788.52,
+   "text": "The irony arising from these statements is already implicit in the term arhant."
+  },
+  {
+   "t": 789.34,
+   "end": 793.14,
+   "text": "We use this term with reference to the Buddha as well as the arahants."
+  },
+  {
+   "t": 794.0,
+   "end": 798.22,
+   "text": "Though the commentators later attributed various other meanings to the term,"
+  },
+  {
+   "t": 798.52,
+   "end": 801.26,
+   "text": "the basic sense is to be worthy of gifts."
+  },
+  {
+   "t": 802.38,
+   "end": 805.76,
+   "text": "In fact, it is being worthy of receiving everything."
+  },
+  {
+   "t": 806.58,
+   "end": 810.88,
+   "text": "It is by giving up all that one becomes worthy of all."
+  },
+  {
+   "t": 812.62,
+   "end": 814.4,
+   "text": "Here too we have a paradox."
+  },
+  {
+   "t": 815.18,
+   "end": 817.84,
+   "text": "To become an arahant is to let go of everything."
+  },
+  {
+   "t": 818.64,
+   "end": 820.48,
+   "text": "Craving has to be fully abundant."
+  },
+  {
+   "t": 821.48,
+   "end": 825.66,
+   "text": "It is when all desires are gone, when everything is given up,"
+  },
+  {
+   "t": 826.0,
+   "end": 828.6,
+   "text": "that one becomes worthy of receiving everything."
+  },
+  {
+   "t": 829.48,
+   "end": 833.24,
+   "text": "This is the deeper side of the significance of the term arahant."
+  },
+  {
+   "t": 835.14,
+   "end": 840.18,
+   "text": "There are six modes of measuring in accordance with the conceit M, as Mimana."
+  },
+  {
+   "t": 841.1,
+   "end": 845.0,
+   "text": "What is known as Allahyatana, or the six sense bases,"
+  },
+  {
+   "t": 845.58,
+   "end": 849.88,
+   "text": "comprise the six scales of measurement asserting the conceit M."
+  },
+  {
+   "t": 850.94,
+   "end": 855.08,
+   "text": "At whatever point of time the measuring, evaluating, and assessing,"
+  },
+  {
+   "t": 855.34,
+   "end": 860.98,
+   "text": "done by the six sense bases, such as the eye, ear, nose, etc., ceases,"
+  },
+  {
+   "t": 861.98,
+   "end": 867.24,
+   "text": "the person concerned thereby becomes immeasurable, invaluable, and boundless."
+  },
+  {
+   "t": 868.62,
+   "end": 873.22,
+   "text": "It is here that the simile of the vortex and the ocean becomes meaningful."
+  },
+  {
+   "t": 874.76,
+   "end": 878.34,
+   "text": "So the only way of becoming immeasurable and boundless"
+  },
+  {
+   "t": 878.34,
+   "end": 881.96,
+   "text": "is to abandon all those scales of measurement."
+  },
+  {
+   "t": 883.36,
+   "end": 885.62,
+   "text": "This might sound extremely strange."
+  },
+  {
+   "t": 886.62,
+   "end": 888.78,
+   "text": "With the cessation of a vortex,"
+  },
+  {
+   "t": 889.22,
+   "end": 891.54,
+   "text": "the attention of one who has been looking at it"
+  },
+  {
+   "t": 891.54,
+   "end": 894.94,
+   "text": "turns towards the depth, immeasurability,"
+  },
+  {
+   "t": 895.26,
+   "end": 897.7,
+   "text": "and boundlessness of the great ocean."
+  },
+  {
+   "t": 898.84,
+   "end": 901.82,
+   "text": "This line of reflection might even enable one"
+  },
+  {
+   "t": 901.82,
+   "end": 904.24,
+   "text": "to get a glimpse of an unworldly beauty"
+  },
+  {
+   "t": 904.24,
+   "end": 906.84,
+   "text": "in this philosophy of the void,"
+  },
+  {
+   "t": 907.46,
+   "end": 909.94,
+   "text": "which drives an unfounded fear"
+  },
+  {
+   "t": 909.94,
+   "end": 912.3,
+   "text": "into the minds of the worldlings."
+  },
+  {
+   "t": 913.62,
+   "end": 916.56,
+   "text": "We do get positive proof of this fact"
+  },
+  {
+   "t": 916.56,
+   "end": 918.6,
+   "text": "in such sections of the Dhammapada"
+  },
+  {
+   "t": 918.6,
+   "end": 921.0,
+   "text": "as those entitled The Flowers,"
+  },
+  {
+   "t": 921.54,
+   "end": 922.96,
+   "text": "the Worthy,"
+  },
+  {
+   "t": 923.16,
+   "end": 924.48,
+   "text": "the Buddha,"
+  },
+  {
+   "t": 925.24,
+   "end": 926.06,
+   "text": "and the Brahmin,"
+  },
+  {
+   "t": 926.98,
+   "end": 929.54,
+   "text": "as well as in a number of discourses"
+  },
+  {
+   "t": 929.54,
+   "end": 930.6,
+   "text": "in the Suttanipata,"
+  },
+  {
+   "t": 931.28,
+   "end": 934.52,
+   "text": "where we come across marvelously scintillating verses."
+  },
+  {
+   "t": 935.88,
+   "end": 937.46,
+   "text": "This is understandable"
+  },
+  {
+   "t": 937.46,
+   "end": 939.46,
+   "text": "since the dawn of that wisdom"
+  },
+  {
+   "t": 939.46,
+   "end": 941.74,
+   "text": "which sees the voidness of herself"
+  },
+  {
+   "t": 941.74,
+   "end": 944.6,
+   "text": "and of everything belonging to herself,"
+  },
+  {
+   "t": 945.58,
+   "end": 947.98,
+   "text": "and the attainment of the fruits of the path"
+  },
+  {
+   "t": 947.98,
+   "end": 949.44,
+   "text": "in the light of that wisdom"
+  },
+  {
+   "t": 950.08,
+   "end": 951.64,
+   "text": "marks the efflouritions"
+  },
+  {
+   "t": 951.64,
+   "end": 953.14,
+   "text": "as well as the fruition"
+  },
+  {
+   "t": 953.14,
+   "end": 956.0,
+   "text": "of the samsaric existence of a being."
+  },
+  {
+   "t": 957.6,
+   "end": 959.54,
+   "text": "The idea comes up, for instance,"
+  },
+  {
+   "t": 959.72,
+   "end": 961.86,
+   "text": "in the section on flowers in the Dhammapada."
+  },
+  {
+   "t": 984.28,
+   "end": 986.54,
+   "text": "As on top of a rubbish heap,"
+  },
+  {
+   "t": 986.68,
+   "end": 988.52,
+   "text": "dumped by the highway side,"
+  },
+  {
+   "t": 988.52,
+   "end": 990.86,
+   "text": "there blossoms forth the lotus,"
+  },
+  {
+   "t": 991.2,
+   "end": 993.02,
+   "text": "pure in fragrance and charming."
+  },
+  {
+   "t": 993.6,
+   "end": 995.92,
+   "text": "So amidst the worldlings blind,"
+  },
+  {
+   "t": 996.5,
+   "end": 998.24,
+   "text": "the fully awakened one's disciple"
+  },
+  {
+   "t": 998.24,
+   "end": 1001.42,
+   "text": "outshines them in marked contrast"
+  },
+  {
+   "t": 1001.42,
+   "end": 1003.24,
+   "text": "in point of wisdom bright."
+  },
+  {
+   "t": 1004.26,
+   "end": 1006.18,
+   "text": "Common Translation by Norman"
+  },
+  {
+   "t": 1006.18,
+   "end": 1008.78,
+   "text": "Just as on a heap of rubbish"
+  },
+  {
+   "t": 1008.78,
+   "end": 1010.44,
+   "text": "thrown on the high road,"
+  },
+  {
+   "t": 1010.76,
+   "end": 1011.88,
+   "text": "a lotus might grow"
+  },
+  {
+   "t": 1011.88,
+   "end": 1013.84,
+   "text": "with sweet smell"
+  },
+  {
+   "t": 1013.84,
+   "end": 1015.06,
+   "text": "delighting the mind."
+  },
+  {
+   "t": 1015.72,
+   "end": 1017.72,
+   "text": "Similarly, among common people"
+  },
+  {
+   "t": 1017.72,
+   "end": 1019.66,
+   "text": "who are blind and like rubbish,"
+  },
+  {
+   "t": 1020.14,
+   "end": 1022.66,
+   "text": "the disciple of the fully awakened one"
+  },
+  {
+   "t": 1022.66,
+   "end": 1023.6,
+   "text": "shines forth"
+  },
+  {
+   "t": 1023.6,
+   "end": 1025.54,
+   "text": "by a reason of his wisdom."
+  },
+  {
+   "t": 1026.22,
+   "end": 1026.62,
+   "text": "End of comment."
+  },
+  {
+   "t": 1028.76,
+   "end": 1030.56,
+   "text": "So then the Arahant"
+  },
+  {
+   "t": 1030.56,
+   "end": 1031.92,
+   "text": "is that charming lotus"
+  },
+  {
+   "t": 1031.92,
+   "end": 1034.9,
+   "text": "arising out of the cesspool of samsara."
+  },
+  {
+   "t": 1036.24,
+   "end": 1037.96,
+   "text": "Surely there cannot be anything"
+  },
+  {
+   "t": 1037.96,
+   "end": 1039.06,
+   "text": "frightful about it."
+  },
+  {
+   "t": 1039.6,
+   "end": 1041.7,
+   "text": "There is nothing to get scared"
+  },
+  {
+   "t": 1041.7,
+   "end": 1042.78,
+   "text": "about this prospect."
+  },
+  {
+   "t": 1044.22,
+   "end": 1045.82,
+   "text": "In our last sermon,"
+  },
+  {
+   "t": 1046.18,
+   "end": 1047.52,
+   "text": "we quoted from a discourse"
+  },
+  {
+   "t": 1047.52,
+   "end": 1049.42,
+   "text": "that gives some new definitions"
+  },
+  {
+   "t": 1049.42,
+   "end": 1051.3,
+   "text": "and new concepts of the world."
+  },
+  {
+   "t": 1051.98,
+   "end": 1053.88,
+   "text": "We brought up two statements"
+  },
+  {
+   "t": 1053.88,
+   "end": 1055.9,
+   "text": "from the Loka Kama Gunasutta,"
+  },
+  {
+   "t": 1056.02,
+   "end": 1056.56,
+   "text": "number one,"
+  },
+  {
+   "t": 1057.02,
+   "end": 1058.78,
+   "text": "of the Salayatana Vaggai"
+  },
+  {
+   "t": 1058.78,
+   "end": 1060.04,
+   "text": "in the Samyutta Nikaya."
+  },
+  {
+   "t": 1060.04,
+   "end": 1062.08,
+   "text": "The first statement"
+  },
+  {
+   "t": 1062.08,
+   "end": 1063.26,
+   "text": "is somewhat riddle-like."
+  },
+  {
+   "t": 1064.24,
+   "end": 1065.52,
+   "text": "There the Buddha addresses"
+  },
+  {
+   "t": 1065.52,
+   "end": 1067.12,
+   "text": "the monks and declares,"
+  },
+  {
+   "t": 1082.14,
+   "end": 1083.96,
+   "text": "Monks, I do not say that"
+  },
+  {
+   "t": 1083.96,
+   "end": 1085.6,
+   "text": "by travelling one can come"
+  },
+  {
+   "t": 1085.6,
+   "end": 1087.44,
+   "text": "to know or see or reach"
+  },
+  {
+   "t": 1087.44,
+   "end": 1088.52,
+   "text": "the end of the world."
+  },
+  {
+   "t": 1089.14,
+   "end": 1090.64,
+   "text": "Nor do I say that"
+  },
+  {
+   "t": 1090.64,
+   "end": 1092.34,
+   "text": "without reaching the end of the world"
+  },
+  {
+   "t": 1092.34,
+   "end": 1094.14,
+   "text": "one can put an end to suffering."
+  },
+  {
+   "t": 1095.0,
+   "end": 1097.3,
+   "text": "Common translation by Bhikkupodhi."
+  },
+  {
+   "t": 1098.54,
+   "end": 1099.38,
+   "text": "Because I say"
+  },
+  {
+   "t": 1099.38,
+   "end": 1100.64,
+   "text": "that the end of the world"
+  },
+  {
+   "t": 1100.64,
+   "end": 1101.58,
+   "text": "cannot be known,"
+  },
+  {
+   "t": 1102.0,
+   "end": 1103.56,
+   "text": "seen or reached by travelling."
+  },
+  {
+   "t": 1104.54,
+   "end": 1105.48,
+   "text": "Yet, Bhikkhus,"
+  },
+  {
+   "t": 1105.62,
+   "end": 1106.78,
+   "text": "I also say that"
+  },
+  {
+   "t": 1106.78,
+   "end": 1108.56,
+   "text": "without reaching the end of the world"
+  },
+  {
+   "t": 1108.56,
+   "end": 1109.7,
+   "text": "there is no making"
+  },
+  {
+   "t": 1109.7,
+   "end": 1111.1,
+   "text": "an end to suffering."
+  },
+  {
+   "t": 1112.04,
+   "end": 1113.76,
+   "text": "And here my translation"
+  },
+  {
+   "t": 1113.76,
+   "end": 1115.68,
+   "text": "of the Samyukta Agama Parana."
+  },
+  {
+   "t": 1116.8,
+   "end": 1117.96,
+   "text": "I do not say"
+  },
+  {
+   "t": 1117.96,
+   "end": 1118.8,
+   "text": "that the person"
+  },
+  {
+   "t": 1118.8,
+   "end": 1120.22,
+   "text": "reaches the end of the world"
+  },
+  {
+   "t": 1120.22,
+   "end": 1120.84,
+   "text": "by walking."
+  },
+  {
+   "t": 1121.1,
+   "end": 1122.54,
+   "text": "And I also do not say"
+  },
+  {
+   "t": 1122.54,
+   "end": 1123.48,
+   "text": "that without walking"
+  },
+  {
+   "t": 1123.48,
+   "end": 1125.46,
+   "text": "one reaches the end of the world"
+  },
+  {
+   "t": 1125.46,
+   "end": 1126.86,
+   "text": "and the unsurpassed"
+  },
+  {
+   "t": 1126.86,
+   "end": 1128.58,
+   "text": "transcendence of Dukkha."
+  },
+  {
+   "t": 1129.2,
+   "end": 1130.1,
+   "text": "End of comment."
+  },
+  {
+   "t": 1132.12,
+   "end": 1133.44,
+   "text": "We also mentioned"
+  },
+  {
+   "t": 1133.44,
+   "end": 1134.32,
+   "text": "the other day"
+  },
+  {
+   "t": 1134.32,
+   "end": 1135.38,
+   "text": "the explanation"
+  },
+  {
+   "t": 1135.38,
+   "end": 1136.9,
+   "text": "given by Venerananda"
+  },
+  {
+   "t": 1136.9,
+   "end": 1138.8,
+   "text": "to this cryptic statement"
+  },
+  {
+   "t": 1138.8,
+   "end": 1139.94,
+   "text": "at the request"
+  },
+  {
+   "t": 1139.94,
+   "end": 1140.92,
+   "text": "of those monks"
+  },
+  {
+   "t": 1140.92,
+   "end": 1142.42,
+   "text": "who approached him"
+  },
+  {
+   "t": 1142.42,
+   "end": 1143.62,
+   "text": "to get it clarified."
+  },
+  {
+   "t": 1144.52,
+   "end": 1145.96,
+   "text": "That explanation"
+  },
+  {
+   "t": 1145.96,
+   "end": 1147.32,
+   "text": "embodies the definition"
+  },
+  {
+   "t": 1147.32,
+   "end": 1148.34,
+   "text": "given by the Buddha"
+  },
+  {
+   "t": 1148.34,
+   "end": 1149.64,
+   "text": "to the term world."
+  },
+  {
+   "t": 1150.02,
+   "end": 1151.12,
+   "text": "It is not"
+  },
+  {
+   "t": 1151.12,
+   "end": 1152.32,
+   "text": "the common concept"
+  },
+  {
+   "t": 1152.32,
+   "end": 1152.96,
+   "text": "of the world."
+  },
+  {
+   "t": 1152.96,
+   "end": 1155.58,
+   "text": "Yena Khoavu"
+  },
+  {
+   "t": 1155.58,
+   "end": 1156.56,
+   "text": "Sur Lokasming"
+  },
+  {
+   "t": 1156.56,
+   "end": 1157.52,
+   "text": "Lokasanyi"
+  },
+  {
+   "t": 1157.52,
+   "end": 1158.66,
+   "text": "Hodi Lokamani"
+  },
+  {
+   "t": 1158.66,
+   "end": 1160.04,
+   "text": "Aiyang Bhutanjati"
+  },
+  {
+   "t": 1160.04,
+   "end": 1161.44,
+   "text": "Aryasa Vinayaloko"
+  },
+  {
+   "t": 1161.44,
+   "end": 1163.36,
+   "text": "Kena Chavu"
+  },
+  {
+   "t": 1163.36,
+   "end": 1164.16,
+   "text": "Sur Lokasming"
+  },
+  {
+   "t": 1164.16,
+   "end": 1165.12,
+   "text": "Lokasanyi"
+  },
+  {
+   "t": 1165.12,
+   "end": 1165.86,
+   "text": "Lokamani"
+  },
+  {
+   "t": 1165.86,
+   "end": 1167.34,
+   "text": "Chakuna"
+  },
+  {
+   "t": 1167.34,
+   "end": 1168.02,
+   "text": "Khoavu"
+  },
+  {
+   "t": 1168.02,
+   "end": 1168.82,
+   "text": "Sur Lokasming"
+  },
+  {
+   "t": 1168.82,
+   "end": 1169.62,
+   "text": "Lokasanyi"
+  },
+  {
+   "t": 1169.62,
+   "end": 1170.68,
+   "text": "Hodi Lokamani"
+  },
+  {
+   "t": 1170.68,
+   "end": 1171.98,
+   "text": "Sotena"
+  },
+  {
+   "t": 1171.98,
+   "end": 1172.72,
+   "text": "Ghane"
+  },
+  {
+   "t": 1172.72,
+   "end": 1173.86,
+   "text": "Jivaya"
+  },
+  {
+   "t": 1173.86,
+   "end": 1174.74,
+   "text": "Kayena"
+  },
+  {
+   "t": 1174.74,
+   "end": 1175.64,
+   "text": "Manina"
+  },
+  {
+   "t": 1175.64,
+   "end": 1176.54,
+   "text": "Khoavu"
+  },
+  {
+   "t": 1176.54,
+   "end": 1177.38,
+   "text": "Sur Lokasming"
+  },
+  {
+   "t": 1177.38,
+   "end": 1178.16,
+   "text": "Lokasanyi"
+  },
+  {
+   "t": 1178.16,
+   "end": 1179.24,
+   "text": "Hodi Lokamani"
+  },
+  {
+   "t": 1187.52,
+   "end": 1188.0,
+   "text": "Friend"
+  },
+  {
+   "t": 1188.0,
+   "end": 1188.88,
+   "text": "That by which"
+  },
+  {
+   "t": 1188.88,
+   "end": 1189.4,
+   "text": "one has"
+  },
+  {
+   "t": 1189.4,
+   "end": 1189.98,
+   "text": "a perception"
+  },
+  {
+   "t": 1189.98,
+   "end": 1190.58,
+   "text": "of the world"
+  },
+  {
+   "t": 1190.58,
+   "end": 1191.22,
+   "text": "and has"
+  },
+  {
+   "t": 1191.22,
+   "end": 1191.74,
+   "text": "a conceit"
+  },
+  {
+   "t": 1191.74,
+   "end": 1192.32,
+   "text": "of the world"
+  },
+  {
+   "t": 1192.32,
+   "end": 1193.46,
+   "text": "that in this"
+  },
+  {
+   "t": 1193.46,
+   "end": 1193.96,
+   "text": "discipline"
+  },
+  {
+   "t": 1193.96,
+   "end": 1194.92,
+   "text": "of the noble ones"
+  },
+  {
+   "t": 1194.92,
+   "end": 1195.36,
+   "text": "is called"
+  },
+  {
+   "t": 1195.36,
+   "end": 1195.9,
+   "text": "the world."
+  },
+  {
+   "t": 1196.64,
+   "end": 1197.36,
+   "text": "By what"
+  },
+  {
+   "t": 1197.36,
+   "end": 1197.88,
+   "text": "friends"
+  },
+  {
+   "t": 1197.88,
+   "end": 1198.44,
+   "text": "has one"
+  },
+  {
+   "t": 1198.44,
+   "end": 1198.94,
+   "text": "a perception"
+  },
+  {
+   "t": 1198.94,
+   "end": 1199.6,
+   "text": "of the world"
+  },
+  {
+   "t": 1199.6,
+   "end": 1199.98,
+   "text": "and a"
+  },
+  {
+   "t": 1200.0,
+   "end": 1220.52,
+   "text": "conceit of the world by the eye friends one has a perception of the world and the conceit of the world by the ear by the nose by the tongue by the body by the mind that french by which one has a conception perception of the world and a conceit of the world that in this discipline of the noble ones is called the world"
+  },
+  {
+   "t": 1221.64,
+   "end": 1250.38,
+   "text": "common translation by a bigger body that in the world by which one is a perceiver of the world a conceiver of the world this is called the world in the noble ones discipline and what friends is that in the world by which one is a perceiver of the world to conceive of the world the eye is that in the world by which one is a perceiver of the world to conceive of the world the ear the nose the tongue the body the mind is that in the world"
+  },
+  {
+   "t": 1250.38,
+   "end": 1253.96,
+   "text": "by which one is a perceiver of the world, a conceiver of the world."
+  },
+  {
+   "t": 1254.84,
+   "end": 1258.02,
+   "text": "That in the world by which one is a perceiver of the world,"
+  },
+  {
+   "t": 1258.18,
+   "end": 1260.64,
+   "text": "a conceiver of the world, this is called the world"
+  },
+  {
+   "t": 1260.64,
+   "end": 1262.16,
+   "text": "in the nobleman's discipline."
+  },
+  {
+   "t": 1264.58,
+   "end": 1268.64,
+   "text": "What in the Chinese parallel, my translation,"
+  },
+  {
+   "t": 1270.12,
+   "end": 1273.18,
+   "text": "whatever there is of a world, a naming a world,"
+  },
+  {
+   "t": 1273.52,
+   "end": 1276.52,
+   "text": "of experiencing a world, of designating a world,"
+  },
+  {
+   "t": 1276.74,
+   "end": 1278.8,
+   "text": "of a linguistic expression of a world,"
+  },
+  {
+   "t": 1278.8,
+   "end": 1281.76,
+   "text": "it all enters into being beckoned as a world."
+  },
+  {
+   "t": 1282.62,
+   "end": 1285.28,
+   "text": "When we're friends, that is, the I is a world,"
+  },
+  {
+   "t": 1285.58,
+   "end": 1288.62,
+   "text": "a naming of a world, an experiencing of a world,"
+  },
+  {
+   "t": 1288.78,
+   "end": 1292.54,
+   "text": "the designation of a world, a linguistic expression of a world,"
+  },
+  {
+   "t": 1292.68,
+   "end": 1294.92,
+   "text": "it all enters into being reckoned a world."
+  },
+  {
+   "t": 1295.6,
+   "end": 1301.52,
+   "text": "The ear, the nose, the tongue, the body, the mind is also like that."
+  },
+  {
+   "t": 1302.8,
+   "end": 1306.8,
+   "text": "A learned, noble disciple understands, as it really is,"
+  },
+  {
+   "t": 1306.8,
+   "end": 1310.08,
+   "text": "the arising of the six sin spheres, their cessation,"
+  },
+  {
+   "t": 1310.5,
+   "end": 1314.74,
+   "text": "their gratification, their danger, and the escape from them."
+  },
+  {
+   "t": 1315.56,
+   "end": 1319.08,
+   "text": "This is called a noble disciple who reaches the end of the world,"
+  },
+  {
+   "t": 1319.16,
+   "end": 1322.92,
+   "text": "who understands the world, and who, having been burdened by the world,"
+  },
+  {
+   "t": 1323.3,
+   "end": 1324.9,
+   "text": "has transcended the world."
+  },
+  {
+   "t": 1325.92,
+   "end": 1328.7,
+   "text": "And after this, Venerable Ananda offers a verse,"
+  },
+  {
+   "t": 1328.86,
+   "end": 1330.64,
+   "text": "a poetic summary of this teaching."
+  },
+  {
+   "t": 1331.5,
+   "end": 1332.42,
+   "text": "End of comment."
+  },
+  {
+   "t": 1334.5,
+   "end": 1336.66,
+   "text": "That with which the world is measured,"
+  },
+  {
+   "t": 1336.86,
+   "end": 1338.58,
+   "text": "that itself is called the world."
+  },
+  {
+   "t": 1339.68,
+   "end": 1341.86,
+   "text": "The above-mentioned measuring buds,"
+  },
+  {
+   "t": 1342.12,
+   "end": 1345.86,
+   "text": "meaning the eye, the ear, the nose, the tongue, the body, and the mind,"
+  },
+  {
+   "t": 1346.7,
+   "end": 1348.32,
+   "text": "give us a conceit of the world,"
+  },
+  {
+   "t": 1348.5,
+   "end": 1349.96,
+   "text": "and a perception of the world."
+  },
+  {
+   "t": 1350.94,
+   "end": 1352.2,
+   "text": "Apart from these six,"
+  },
+  {
+   "t": 1352.44,
+   "end": 1353.98,
+   "text": "there is no way of knowing a world."
+  },
+  {
+   "t": 1354.74,
+   "end": 1356.76,
+   "text": "All theories about the world"
+  },
+  {
+   "t": 1356.76,
+   "end": 1358.84,
+   "text": "are founded on these six sense bases."
+  },
+  {
+   "t": 1363.42,
+   "end": 1365.36,
+   "text": "By way of a simple illustration,"
+  },
+  {
+   "t": 1366.2,
+   "end": 1367.76,
+   "text": "we alluded to the fact"
+  },
+  {
+   "t": 1367.76,
+   "end": 1370.6,
+   "text": "that in the absence of any standard measuring rod,"
+  },
+  {
+   "t": 1371.12,
+   "end": 1373.9,
+   "text": "we resort to the primordial scales"
+  },
+  {
+   "t": 1373.9,
+   "end": 1375.86,
+   "text": "based on this physical frame of ours."
+  },
+  {
+   "t": 1377.7,
+   "end": 1379.58,
+   "text": "Such as the inch, the span,"
+  },
+  {
+   "t": 1379.9,
+   "end": 1380.96,
+   "text": "the foot, and the feather."
+  },
+  {
+   "t": 1381.88,
+   "end": 1384.46,
+   "text": "The subtlest scale of measurement, however,"
+  },
+  {
+   "t": 1384.48,
+   "end": 1385.88,
+   "text": "is that based on the mind."
+  },
+  {
+   "t": 1386.56,
+   "end": 1389.34,
+   "text": "It is in this mode of measuring and reckoning"
+  },
+  {
+   "t": 1389.34,
+   "end": 1392.36,
+   "text": "that concepts and designations play their part."
+  },
+  {
+   "t": 1393.12,
+   "end": 1395.52,
+   "text": "But the Buddha's philosophy of the void"
+  },
+  {
+   "t": 1395.52,
+   "end": 1397.96,
+   "text": "goes against all these mental modes."
+  },
+  {
+   "t": 1398.56,
+   "end": 1401.4,
+   "text": "His exorcism by the vision of the void"
+  },
+  {
+   "t": 1401.4,
+   "end": 1404.08,
+   "text": "fumigates all concepts and designations."
+  },
+  {
+   "t": 1405.04,
+   "end": 1407.14,
+   "text": "The six sense bases are therefore"
+  },
+  {
+   "t": 1407.14,
+   "end": 1408.84,
+   "text": "so many scales of measurement."
+  },
+  {
+   "t": 1409.74,
+   "end": 1411.5,
+   "text": "It is with the help of these"
+  },
+  {
+   "t": 1411.5,
+   "end": 1412.82,
+   "text": "that the world is measured."
+  },
+  {
+   "t": 1413.76,
+   "end": 1416.1,
+   "text": "So the above definition of the world"
+  },
+  {
+   "t": 1416.1,
+   "end": 1418.28,
+   "text": "brings out the prepared sankhata,"
+  },
+  {
+   "t": 1418.52,
+   "end": 1419.66,
+   "text": "nature of the world."
+  },
+  {
+   "t": 1420.06,
+   "end": 1421.9,
+   "text": "It is a thought construct."
+  },
+  {
+   "t": 1425.32,
+   "end": 1427.6,
+   "text": "This does not amount to a negation"
+  },
+  {
+   "t": 1427.6,
+   "end": 1429.12,
+   "text": "of the role of materiality."
+  },
+  {
+   "t": 1429.72,
+   "end": 1431.46,
+   "text": "All we mean to say is that"
+  },
+  {
+   "t": 1431.46,
+   "end": 1432.62,
+   "text": "the concept of the world"
+  },
+  {
+   "t": 1432.62,
+   "end": 1433.76,
+   "text": "is actually an outcome"
+  },
+  {
+   "t": 1433.76,
+   "end": 1435.3,
+   "text": "of these six sense bases."
+  },
+  {
+   "t": 1436.06,
+   "end": 1437.18,
+   "text": "To that extent,"
+  },
+  {
+   "t": 1437.18,
+   "end": 1438.84,
+   "text": "it is something prepared,"
+  },
+  {
+   "t": 1439.18,
+   "end": 1440.56,
+   "text": "a thought construct."
+  },
+  {
+   "t": 1444.82,
+   "end": 1447.7,
+   "text": "While discussing the ten indeterminate points"
+  },
+  {
+   "t": 1447.7,
+   "end": 1448.88,
+   "text": "on a previous occasion,"
+  },
+  {
+   "t": 1449.16,
+   "end": 1449.96,
+   "text": "we happen to mention"
+  },
+  {
+   "t": 1449.96,
+   "end": 1452.08,
+   "text": "that the first four among them"
+  },
+  {
+   "t": 1452.08,
+   "end": 1453.14,
+   "text": "concern the world."
+  },
+  {
+   "t": 1453.54,
+   "end": 1454.52,
+   "text": "The world is eternal,"
+  },
+  {
+   "t": 1454.8,
+   "end": 1455.9,
+   "text": "the world is not eternal,"
+  },
+  {
+   "t": 1456.24,
+   "end": 1457.0,
+   "text": "the world is finite,"
+  },
+  {
+   "t": 1457.24,
+   "end": 1458.38,
+   "text": "and the world is infinite."
+  },
+  {
+   "t": 1459.72,
+   "end": 1461.6,
+   "text": "What those theorists mean"
+  },
+  {
+   "t": 1461.6,
+   "end": 1463.42,
+   "text": "by the term world in this context"
+  },
+  {
+   "t": 1463.42,
+   "end": 1464.52,
+   "text": "is none other than"
+  },
+  {
+   "t": 1464.52,
+   "end": 1465.62,
+   "text": "that prepared world"
+  },
+  {
+   "t": 1465.62,
+   "end": 1466.58,
+   "text": "which is constructed"
+  },
+  {
+   "t": 1466.58,
+   "end": 1468.28,
+   "text": "by the six sense bases."
+  },
+  {
+   "t": 1468.9,
+   "end": 1470.0,
+   "text": "That is to say,"
+  },
+  {
+   "t": 1470.16,
+   "end": 1471.46,
+   "text": "it is just the concept"
+  },
+  {
+   "t": 1471.46,
+   "end": 1472.64,
+   "text": "of the world."
+  },
+  {
+   "t": 1474.0,
+   "end": 1474.56,
+   "text": "However,"
+  },
+  {
+   "t": 1474.88,
+   "end": 1475.74,
+   "text": "they were not aware"
+  },
+  {
+   "t": 1475.74,
+   "end": 1476.36,
+   "text": "of the fact"
+  },
+  {
+   "t": 1476.36,
+   "end": 1477.88,
+   "text": "that their concept of the world"
+  },
+  {
+   "t": 1477.88,
+   "end": 1478.8,
+   "text": "is a thought construct"
+  },
+  {
+   "t": 1479.48,
+   "end": 1481.14,
+   "text": "because they had no insight"
+  },
+  {
+   "t": 1481.14,
+   "end": 1482.78,
+   "text": "into the law of dependent arising."
+  },
+  {
+   "t": 1484.34,
+   "end": 1485.82,
+   "text": "They did not understand"
+  },
+  {
+   "t": 1485.82,
+   "end": 1487.7,
+   "text": "that these are mere preparations."
+  },
+  {
+   "t": 1488.68,
+   "end": 1490.76,
+   "text": "The fallacy involved here,"
+  },
+  {
+   "t": 1490.88,
+   "end": 1491.98,
+   "text": "that is the inability"
+  },
+  {
+   "t": 1491.98,
+   "end": 1493.08,
+   "text": "to understand"
+  },
+  {
+   "t": 1493.08,
+   "end": 1494.8,
+   "text": "that their concept of the world"
+  },
+  {
+   "t": 1494.8,
+   "end": 1495.6,
+   "text": "is the outcome"
+  },
+  {
+   "t": 1495.6,
+   "end": 1496.58,
+   "text": "of wrong attention,"
+  },
+  {
+   "t": 1497.02,
+   "end": 1497.94,
+   "text": "be illustrated"
+  },
+  {
+   "t": 1497.94,
+   "end": 1498.86,
+   "text": "by the simile"
+  },
+  {
+   "t": 1498.86,
+   "end": 1499.82,
+   "text": "of the magic cattle."
+  },
+  {
+   "t": 1500.58,
+   "end": 1501.88,
+   "text": "In an exhibition,"
+  },
+  {
+   "t": 1502.04,
+   "end": 1503.48,
+   "text": "a magic cattle is displayed"
+  },
+  {
+   "t": 1503.48,
+   "end": 1504.3,
+   "text": "from which water"
+  },
+  {
+   "t": 1504.3,
+   "end": 1505.18,
+   "text": "keeps on flowing"
+  },
+  {
+   "t": 1505.18,
+   "end": 1506.0,
+   "text": "into a basin."
+  },
+  {
+   "t": 1506.58,
+   "end": 1508.34,
+   "text": "One curious onlooker"
+  },
+  {
+   "t": 1508.34,
+   "end": 1508.82,
+   "text": "is waiting"
+  },
+  {
+   "t": 1508.82,
+   "end": 1510.04,
+   "text": "to see the cattle empty,"
+  },
+  {
+   "t": 1510.36,
+   "end": 1511.38,
+   "text": "while the other"
+  },
+  {
+   "t": 1511.38,
+   "end": 1511.88,
+   "text": "is waiting"
+  },
+  {
+   "t": 1511.88,
+   "end": 1513.52,
+   "text": "to see the basin overflowing."
+  },
+  {
+   "t": 1514.26,
+   "end": 1515.72,
+   "text": "Both are unaware"
+  },
+  {
+   "t": 1515.72,
+   "end": 1516.72,
+   "text": "of the fact"
+  },
+  {
+   "t": 1516.72,
+   "end": 1517.82,
+   "text": "that a hidden tube"
+  },
+  {
+   "t": 1517.82,
+   "end": 1519.14,
+   "text": "conveys the water"
+  },
+  {
+   "t": 1519.14,
+   "end": 1519.9,
+   "text": "back again"
+  },
+  {
+   "t": 1519.9,
+   "end": 1520.48,
+   "text": "to the cattle,"
+  },
+  {
+   "t": 1520.78,
+   "end": 1521.32,
+   "text": "unseen"
+  },
+  {
+   "t": 1521.32,
+   "end": 1523.28,
+   "text": "through the same flow"
+  },
+  {
+   "t": 1523.28,
+   "end": 1523.94,
+   "text": "of water."
+  },
+  {
+   "t": 1525.46,
+   "end": 1527.0,
+   "text": "The ordinary concept"
+  },
+  {
+   "t": 1527.0,
+   "end": 1527.7,
+   "text": "of the world"
+  },
+  {
+   "t": 1527.7,
+   "end": 1528.6,
+   "text": "carries with it"
+  },
+  {
+   "t": 1528.6,
+   "end": 1529.8,
+   "text": "the same fallacy."
+  },
+  {
+   "t": 1530.44,
+   "end": 1531.72,
+   "text": "The worldlings"
+  },
+  {
+   "t": 1531.72,
+   "end": 1532.34,
+   "text": "under the sway"
+  },
+  {
+   "t": 1532.34,
+   "end": 1533.28,
+   "text": "of defilements"
+  },
+  {
+   "t": 1533.28,
+   "end": 1534.02,
+   "text": "which thrive"
+  },
+  {
+   "t": 1534.02,
+   "end": 1534.86,
+   "text": "on the perception"
+  },
+  {
+   "t": 1534.86,
+   "end": 1535.66,
+   "text": "of the compacted"
+  },
+  {
+   "t": 1535.66,
+   "end": 1536.34,
+   "text": "ganasanya"
+  },
+  {
+   "t": 1536.34,
+   "end": 1537.92,
+   "text": "have the habit"
+  },
+  {
+   "t": 1537.92,
+   "end": 1539.06,
+   "text": "of grasping everything."
+  },
+  {
+   "t": 1539.64,
+   "end": 1540.96,
+   "text": "The ordinary men"
+  },
+  {
+   "t": 1540.96,
+   "end": 1541.72,
+   "text": "of the world"
+  },
+  {
+   "t": 1541.72,
+   "end": 1543.14,
+   "text": "fully overcome"
+  },
+  {
+   "t": 1543.14,
+   "end": 1543.86,
+   "text": "by craving"
+  },
+  {
+   "t": 1543.86,
+   "end": 1544.64,
+   "text": "and grasping"
+  },
+  {
+   "t": 1545.4,
+   "end": 1546.56,
+   "text": "entertains a perception"
+  },
+  {
+   "t": 1546.56,
+   "end": 1548.3,
+   "text": "of permanence"
+  },
+  {
+   "t": 1548.3,
+   "end": 1549.22,
+   "text": "since he has"
+  },
+  {
+   "t": 1549.22,
+   "end": 1549.82,
+   "text": "no insight."
+  },
+  {
+   "t": 1550.78,
+   "end": 1551.8,
+   "text": "That is why"
+  },
+  {
+   "t": 1551.8,
+   "end": 1552.42,
+   "text": "he regards"
+  },
+  {
+   "t": 1552.42,
+   "end": 1552.86,
+   "text": "the world"
+  },
+  {
+   "t": 1552.86,
+   "end": 1553.44,
+   "text": "as a unit"
+  },
+  {
+   "t": 1553.44,
+   "end": 1554.94,
+   "text": "due to his perception"
+  },
+  {
+   "t": 1554.94,
+   "end": 1555.58,
+   "text": "of the compact,"
+  },
+  {
+   "t": 1556.48,
+   "end": 1557.52,
+   "text": "as he takes"
+  },
+  {
+   "t": 1557.52,
+   "end": 1558.16,
+   "text": "cognizance"
+  },
+  {
+   "t": 1558.16,
+   "end": 1559.42,
+   "text": "only of the arising"
+  },
+  {
+   "t": 1559.42,
+   "end": 1559.96,
+   "text": "aspect,"
+  },
+  {
+   "t": 1560.16,
+   "end": 1561.36,
+   "text": "ignoring the decaying"
+  },
+  {
+   "t": 1561.36,
+   "end": 1561.78,
+   "text": "aspect."
+  },
+  {
+   "t": 1563.56,
+   "end": 1564.84,
+   "text": "Whether such a world"
+  },
+  {
+   "t": 1564.84,
+   "end": 1565.86,
+   "text": "is eternal or not"
+  },
+  {
+   "t": 1565.86,
+   "end": 1567.34,
+   "text": "is the pointed issue"
+  },
+  {
+   "t": 1567.34,
+   "end": 1568.08,
+   "text": "in the case"
+  },
+  {
+   "t": 1568.08,
+   "end": 1568.82,
+   "text": "of the first set"
+  },
+  {
+   "t": 1568.82,
+   "end": 1569.36,
+   "text": "of questions"
+  },
+  {
+   "t": 1569.36,
+   "end": 1570.18,
+   "text": "mentioned above,"
+  },
+  {
+   "t": 1570.98,
+   "end": 1572.42,
+   "text": "while the next set"
+  },
+  {
+   "t": 1572.42,
+   "end": 1573.34,
+   "text": "poses the dilemma"
+  },
+  {
+   "t": 1573.34,
+   "end": 1573.86,
+   "text": "whether it is"
+  },
+  {
+   "t": 1573.86,
+   "end": 1575.62,
+   "text": "infinite or finite."
+  },
+  {
+   "t": 1577.0,
+   "end": 1578.46,
+   "text": "What is at the root"
+  },
+  {
+   "t": 1578.46,
+   "end": 1579.36,
+   "text": "of all those"
+  },
+  {
+   "t": 1579.36,
+   "end": 1580.52,
+   "text": "ill-conceived notions"
+  },
+  {
+   "t": 1580.52,
+   "end": 1581.48,
+   "text": "is the premise"
+  },
+  {
+   "t": 1581.48,
+   "end": 1582.5,
+   "text": "that it is possible"
+  },
+  {
+   "t": 1582.5,
+   "end": 1583.06,
+   "text": "to posit"
+  },
+  {
+   "t": 1583.06,
+   "end": 1584.4,
+   "text": "an absolute existence"
+  },
+  {
+   "t": 1584.4,
+   "end": 1585.58,
+   "text": "or an absolute"
+  },
+  {
+   "t": 1585.58,
+   "end": 1586.66,
+   "text": "non-existence."
+  },
+  {
+   "t": 1587.06,
+   "end": 1588.3,
+   "text": "In other words,"
+  },
+  {
+   "t": 1588.42,
+   "end": 1589.34,
+   "text": "the two extreme views"
+  },
+  {
+   "t": 1589.34,
+   "end": 1590.38,
+   "text": "everything exists"
+  },
+  {
+   "t": 1590.38,
+   "end": 1591.76,
+   "text": "and nothing exists."
+  },
+  {
+   "t": 1594.12,
+   "end": 1595.6,
+   "text": "The unique norm"
+  },
+  {
+   "t": 1595.6,
+   "end": 1596.82,
+   "text": "of dependent rising"
+  },
+  {
+   "t": 1596.82,
+   "end": 1597.72,
+   "text": "which the Buddha"
+  },
+  {
+   "t": 1597.72,
+   "end": 1598.26,
+   "text": "discovered"
+  },
+  {
+   "t": 1598.26,
+   "end": 1599.58,
+   "text": "dismisses both"
+  },
+  {
+   "t": 1599.58,
+   "end": 1600.62,
+   "text": "those extreme views."
+  },
+  {
+   "t": 1601.9,
+   "end": 1602.3,
+   "text": "It is said"
+  },
+  {
+   "t": 1602.3,
+   "end": 1602.94,
+   "text": "forth in the"
+  },
+  {
+   "t": 1602.94,
+   "end": 1604.24,
+   "text": "Kacchaya Nagottasutto"
+  },
+  {
+   "t": 1604.24,
+   "end": 1605.06,
+   "text": "of the Nidana"
+  },
+  {
+   "t": 1605.06,
+   "end": 1605.66,
+   "text": "Sanyukta"
+  },
+  {
+   "t": 1605.66,
+   "end": 1607.1,
+   "text": "in the Sanyukta Nikaya"
+  },
+  {
+   "t": 1607.1,
+   "end": 1608.32,
+   "text": "which we have"
+  },
+  {
+   "t": 1608.32,
+   "end": 1609.4,
+   "text": "quoted earlier too."
+  },
+  {
+   "t": 1610.0,
+   "end": 1611.22,
+   "text": "We shall however"
+  },
+  {
+   "t": 1611.22,
+   "end": 1611.9,
+   "text": "bring up again"
+  },
+  {
+   "t": 1611.9,
+   "end": 1612.94,
+   "text": "the relevant section"
+  },
+  {
+   "t": 1612.94,
+   "end": 1614.4,
+   "text": "to elucidate this point."
+  },
+  {
+   "t": 1639.72,
+   "end": 1641.92,
+   "text": "This word Kacchayana"
+  },
+  {
+   "t": 1641.92,
+   "end": 1642.84,
+   "text": "for the most part"
+  },
+  {
+   "t": 1642.84,
+   "end": 1643.98,
+   "text": "bases its views"
+  },
+  {
+   "t": 1643.98,
+   "end": 1645.26,
+   "text": "on two things"
+  },
+  {
+   "t": 1645.26,
+   "end": 1646.0,
+   "text": "on existence"
+  },
+  {
+   "t": 1646.0,
+   "end": 1647.46,
+   "text": "and non-existence."
+  },
+  {
+   "t": 1649.42,
+   "end": 1650.54,
+   "text": "Now Kacchayana"
+  },
+  {
+   "t": 1650.54,
+   "end": 1651.26,
+   "text": "to one who"
+  },
+  {
+   "t": 1651.26,
+   "end": 1652.3,
+   "text": "with right wisdom"
+  },
+  {
+   "t": 1652.3,
+   "end": 1653.38,
+   "text": "sees the arising"
+  },
+  {
+   "t": 1653.38,
+   "end": 1653.92,
+   "text": "of the world"
+  },
+  {
+   "t": 1653.92,
+   "end": 1654.5,
+   "text": "as it is"
+  },
+  {
+   "t": 1654.5,
+   "end": 1656.46,
+   "text": "the view of non-existence"
+  },
+  {
+   "t": 1656.46,
+   "end": 1657.4,
+   "text": "regarding the world"
+  },
+  {
+   "t": 1657.4,
+   "end": 1658.24,
+   "text": "does not occur."
+  },
+  {
+   "t": 1659.0,
+   "end": 1660.04,
+   "text": "And to one"
+  },
+  {
+   "t": 1660.04,
+   "end": 1661.04,
+   "text": "who with right wisdom"
+  },
+  {
+   "t": 1661.04,
+   "end": 1662.1,
+   "text": "sees the cessation"
+  },
+  {
+   "t": 1662.1,
+   "end": 1662.6,
+   "text": "of the world"
+  },
+  {
+   "t": 1662.6,
+   "end": 1663.48,
+   "text": "as it really is"
+  },
+  {
+   "t": 1663.48,
+   "end": 1664.54,
+   "text": "the view of existence"
+  },
+  {
+   "t": 1664.54,
+   "end": 1665.52,
+   "text": "regarding the world"
+  },
+  {
+   "t": 1665.52,
+   "end": 1666.38,
+   "text": "does not occur."
+  },
+  {
+   "t": 1667.38,
+   "end": 1668.5,
+   "text": "Comment translation"
+  },
+  {
+   "t": 1668.5,
+   "end": 1669.36,
+   "text": "by Bikavodi"
+  },
+  {
+   "t": 1669.36,
+   "end": 1671.42,
+   "text": "This word Kacchayana"
+  },
+  {
+   "t": 1671.42,
+   "end": 1672.32,
+   "text": "for the most part"
+  },
+  {
+   "t": 1672.32,
+   "end": 1673.48,
+   "text": "depends on a duality"
+  },
+  {
+   "t": 1673.48,
+   "end": 1674.68,
+   "text": "upon the notion"
+  },
+  {
+   "t": 1674.68,
+   "end": 1675.36,
+   "text": "of existence"
+  },
+  {
+   "t": 1675.36,
+   "end": 1676.14,
+   "text": "and the notion"
+  },
+  {
+   "t": 1676.14,
+   "end": 1677.38,
+   "text": "of non-existence."
+  },
+  {
+   "t": 1677.98,
+   "end": 1679.14,
+   "text": "But for one"
+  },
+  {
+   "t": 1679.14,
+   "end": 1680.3,
+   "text": "who sees the origin"
+  },
+  {
+   "t": 1680.3,
+   "end": 1680.92,
+   "text": "of the world"
+  },
+  {
+   "t": 1680.92,
+   "end": 1681.8,
+   "text": "as it really is"
+  },
+  {
+   "t": 1681.8,
+   "end": 1682.74,
+   "text": "with correct wisdom"
+  },
+  {
+   "t": 1682.74,
+   "end": 1684.28,
+   "text": "there is no notion"
+  },
+  {
+   "t": 1684.28,
+   "end": 1685.3,
+   "text": "of non-existence"
+  },
+  {
+   "t": 1685.3,
+   "end": 1686.32,
+   "text": "in regard to the world."
+  },
+  {
+   "t": 1687.0,
+   "end": 1687.96,
+   "text": "And for one"
+  },
+  {
+   "t": 1687.96,
+   "end": 1689.2,
+   "text": "who sees the cessation"
+  },
+  {
+   "t": 1689.2,
+   "end": 1689.76,
+   "text": "of the world"
+  },
+  {
+   "t": 1689.76,
+   "end": 1690.68,
+   "text": "as it really is"
+  },
+  {
+   "t": 1690.68,
+   "end": 1691.6,
+   "text": "with correct wisdom"
+  },
+  {
+   "t": 1691.6,
+   "end": 1692.5,
+   "text": "there is no notion"
+  },
+  {
+   "t": 1692.5,
+   "end": 1693.08,
+   "text": "of existence"
+  },
+  {
+   "t": 1693.08,
+   "end": 1694.38,
+   "text": "in regard to the world."
+  },
+  {
+   "t": 1696.7,
+   "end": 1697.64,
+   "text": "And here below"
+  },
+  {
+   "t": 1697.64,
+   "end": 1698.26,
+   "text": "I have given"
+  },
+  {
+   "t": 1698.26,
+   "end": 1699.18,
+   "text": "the Sanskrit"
+  },
+  {
+   "t": 1699.18,
+   "end": 1700.08,
+   "text": "and also"
+  },
+  {
+   "t": 1700.08,
+   "end": 1701.04,
+   "text": "the Chinese"
+  },
+  {
+   "t": 1701.04,
+   "end": 1701.76,
+   "text": "counterparts."
+  },
+  {
+   "t": 1702.9,
+   "end": 1703.9,
+   "text": "End of comment."
+  },
+  {
+   "t": 1704.88,
+   "end": 1705.98,
+   "text": "This is where"
+  },
+  {
+   "t": 1705.98,
+   "end": 1706.74,
+   "text": "our simile"
+  },
+  {
+   "t": 1706.74,
+   "end": 1707.68,
+   "text": "of the magic kettle"
+  },
+  {
+   "t": 1707.68,
+   "end": 1708.6,
+   "text": "becomes meaningful."
+  },
+  {
+   "t": 1709.6,
+   "end": 1711.12,
+   "text": "Had both onlookers"
+  },
+  {
+   "t": 1711.12,
+   "end": 1711.62,
+   "text": "understood"
+  },
+  {
+   "t": 1711.62,
+   "end": 1712.76,
+   "text": "that the magic kettle"
+  },
+  {
+   "t": 1712.76,
+   "end": 1713.56,
+   "text": "is getting filled"
+  },
+  {
+   "t": 1713.56,
+   "end": 1714.42,
+   "text": "at the same time"
+  },
+  {
+   "t": 1714.42,
+   "end": 1715.2,
+   "text": "it gets emptied"
+  },
+  {
+   "t": 1715.2,
+   "end": 1716.74,
+   "text": "and that the basin"
+  },
+  {
+   "t": 1716.74,
+   "end": 1717.72,
+   "text": "also gets filled"
+  },
+  {
+   "t": 1717.72,
+   "end": 1718.86,
+   "text": "while it is being emptied"
+  },
+  {
+   "t": 1718.86,
+   "end": 1720.3,
+   "text": "they would not have"
+  },
+  {
+   "t": 1720.3,
+   "end": 1721.06,
+   "text": "the curiosity"
+  },
+  {
+   "t": 1721.06,
+   "end": 1722.1,
+   "text": "to go on"
+  },
+  {
+   "t": 1722.1,
+   "end": 1722.84,
+   "text": "looking at it."
+  },
+  {
+   "t": 1724.46,
+   "end": 1725.66,
+   "text": "In contradistinction"
+  },
+  {
+   "t": 1725.66,
+   "end": 1727.0,
+   "text": "to both these viewpoints"
+  },
+  {
+   "t": 1727.0,
+   "end": 1728.08,
+   "text": "the law of dependent"
+  },
+  {
+   "t": 1728.08,
+   "end": 1729.28,
+   "text": "arising promulgated"
+  },
+  {
+   "t": 1729.28,
+   "end": 1729.86,
+   "text": "by the Buddha"
+  },
+  {
+   "t": 1729.86,
+   "end": 1731.0,
+   "text": "transcends them"
+  },
+  {
+   "t": 1731.0,
+   "end": 1731.88,
+   "text": "by penetrating"
+  },
+  {
+   "t": 1731.88,
+   "end": 1732.68,
+   "text": "into the concept"
+  },
+  {
+   "t": 1732.68,
+   "end": 1733.36,
+   "text": "as such."
+  },
+  {
+   "t": 1736.32,
+   "end": 1737.08,
+   "text": "The Buddha"
+  },
+  {
+   "t": 1737.08,
+   "end": 1738.1,
+   "text": "explained the rising"
+  },
+  {
+   "t": 1738.1,
+   "end": 1738.68,
+   "text": "of the world"
+  },
+  {
+   "t": 1738.68,
+   "end": 1739.46,
+   "text": "in terms of the"
+  },
+  {
+   "t": 1739.46,
+   "end": 1740.22,
+   "text": "twelve factors"
+  },
+  {
+   "t": 1740.22,
+   "end": 1741.02,
+   "text": "beginning with"
+  },
+  {
+   "t": 1741.02,
+   "end": 1741.66,
+   "text": "dependent on"
+  },
+  {
+   "t": 1741.66,
+   "end": 1742.78,
+   "text": "ignorance preparations"
+  },
+  {
+   "t": 1742.78,
+   "end": 1744.48,
+   "text": "precisely because"
+  },
+  {
+   "t": 1744.48,
+   "end": 1745.7,
+   "text": "it cannot be"
+  },
+  {
+   "t": 1745.7,
+   "end": 1747.08,
+   "text": "presented in one word."
+  },
+  {
+   "t": 1748.38,
+   "end": 1749.62,
+   "text": "Usually the formula"
+  },
+  {
+   "t": 1749.62,
+   "end": 1750.76,
+   "text": "of dependent arising"
+  },
+  {
+   "t": 1750.76,
+   "end": 1751.52,
+   "text": "is summed up"
+  },
+  {
+   "t": 1751.52,
+   "end": 1752.04,
+   "text": "with the words"
+  },
+  {
+   "t": 1752.04,
+   "end": 1753.42,
+   "text": "ayang dukkha samodayun"
+  },
+  {
+   "t": 1753.42,
+   "end": 1754.84,
+   "text": "this is the arising"
+  },
+  {
+   "t": 1754.84,
+   "end": 1755.44,
+   "text": "of suffering."
+  },
+  {
+   "t": 1755.66,
+   "end": 1757.24,
+   "text": "Or with the more"
+  },
+  {
+   "t": 1757.24,
+   "end": 1758.5,
+   "text": "conclusive statement"
+  },
+  {
+   "t": 1758.5,
+   "end": 1759.58,
+   "text": "eva metase"
+  },
+  {
+   "t": 1759.58,
+   "end": 1760.3,
+   "text": "kevalase"
+  },
+  {
+   "t": 1760.3,
+   "end": 1761.46,
+   "text": "dunka kandase"
+  },
+  {
+   "t": 1761.46,
+   "end": 1762.38,
+   "text": "samodayuhoti"
+  },
+  {
+   "t": 1762.38,
+   "end": 1764.26,
+   "text": "thus is the rising"
+  },
+  {
+   "t": 1764.26,
+   "end": 1765.08,
+   "text": "of this entire"
+  },
+  {
+   "t": 1765.08,
+   "end": 1766.14,
+   "text": "mass of suffering."
+  },
+  {
+   "t": 1767.16,
+   "end": 1768.36,
+   "text": "There are also"
+  },
+  {
+   "t": 1768.36,
+   "end": 1769.22,
+   "text": "instances of"
+  },
+  {
+   "t": 1769.22,
+   "end": 1769.92,
+   "text": "explaining the"
+  },
+  {
+   "t": 1769.92,
+   "end": 1770.92,
+   "text": "arising of the world"
+  },
+  {
+   "t": 1770.92,
+   "end": 1772.24,
+   "text": "through the principle"
+  },
+  {
+   "t": 1772.24,
+   "end": 1773.46,
+   "text": "underlying the norm"
+  },
+  {
+   "t": 1773.46,
+   "end": 1774.7,
+   "text": "of independent arising."
+  },
+  {
+   "t": 1775.46,
+   "end": 1776.46,
+   "text": "The world"
+  },
+  {
+   "t": 1776.46,
+   "end": 1777.3,
+   "text": "arises in the"
+  },
+  {
+   "t": 1777.3,
+   "end": 1778.16,
+   "text": "sixth sense basis."
+  },
+  {
+   "t": 1778.42,
+   "end": 1779.66,
+   "text": "It is at the same"
+  },
+  {
+   "t": 1779.66,
+   "end": 1780.82,
+   "text": "time the arising"
+  },
+  {
+   "t": 1780.82,
+   "end": 1781.54,
+   "text": "of suffering."
+  },
+  {
+   "t": 1782.24,
+   "end": 1783.5,
+   "text": "The arising of"
+  },
+  {
+   "t": 1783.5,
+   "end": 1784.34,
+   "text": "suffering is almost"
+  },
+  {
+   "t": 1784.34,
+   "end": 1785.3,
+   "text": "synonymous with"
+  },
+  {
+   "t": 1785.3,
+   "end": 1786.08,
+   "text": "the arising of"
+  },
+  {
+   "t": 1786.08,
+   "end": 1786.54,
+   "text": "the world."
+  },
+  {
+   "t": 1788.6,
+   "end": 1789.54,
+   "text": "The law of"
+  },
+  {
+   "t": 1789.54,
+   "end": 1790.56,
+   "text": "dependent arising"
+  },
+  {
+   "t": 1790.56,
+   "end": 1791.64,
+   "text": "is an explanation"
+  },
+  {
+   "t": 1791.64,
+   "end": 1792.44,
+   "text": "of the way a"
+  },
+  {
+   "t": 1792.44,
+   "end": 1793.2,
+   "text": "concept of the"
+  },
+  {
+   "t": 1793.2,
+   "end": 1794.04,
+   "text": "world comes about."
+  },
+  {
+   "t": 1794.9,
+   "end": 1795.98,
+   "text": "This is an"
+  },
+  {
+   "t": 1795.98,
+   "end": 1796.92,
+   "text": "extremely subtle"
+  },
+  {
+   "t": 1796.92,
+   "end": 1797.38,
+   "text": "point."
+  },
+  {
+   "t": 1798.66,
+   "end": 1799.8,
+   "text": "Since the concept"
+  },
+  {
+   "t": 1799.8,
+   "end": 1799.82,
+   "text": "way a"
+  },
+  {
+   "t": 1799.82,
+   "end": 1799.86,
+   "text": "long"
+  },
+  {
+   "t": 1799.86,
+   "end": 1799.9,
+   "text": "point."
+  },
+  {
+   "t": 1799.9,
+   "end": 1799.98,
+   "text": "I don't know."
+  },
+  {
+   "t": 1800.0,
+   "end": 1804.66,
+   "text": "The world is a product of wrong reflection, it is sankhata, or prepared."
+  },
+  {
+   "t": 1805.46,
+   "end": 1807.44,
+   "text": "It is like something imagined."
+  },
+  {
+   "t": 1808.52,
+   "end": 1812.64,
+   "text": "The sankhata, or the prepared, has a certain circularity about it."
+  },
+  {
+   "t": 1813.74,
+   "end": 1818.58,
+   "text": "In fact, the two dilemmas mentioned above involve the question of time and space."
+  },
+  {
+   "t": 1819.8,
+   "end": 1824.14,
+   "text": "The question whether the world is eternal or not, eternal, concerns time."
+  },
+  {
+   "t": 1824.72,
+   "end": 1829.2,
+   "text": "Whereas the question whether the world is finite or infinite relates to space."
+  },
+  {
+   "t": 1830.3,
+   "end": 1833.26,
+   "text": "Both time and space involve a circularity."
+  },
+  {
+   "t": 1834.72,
+   "end": 1838.46,
+   "text": "The furthest limit of the forenoon is the nearest limit of the afternoon."
+  },
+  {
+   "t": 1839.16,
+   "end": 1843.06,
+   "text": "And the furthest limit of the afternoon is the nearest limit of the forenoon."
+  },
+  {
+   "t": 1843.82,
+   "end": 1846.44,
+   "text": "This is how the cycle of the day turns round."
+  },
+  {
+   "t": 1847.22,
+   "end": 1849.56,
+   "text": "Where the forenoon ends is the afternoon."
+  },
+  {
+   "t": 1849.9,
+   "end": 1851.52,
+   "text": "Where the afternoon ends is the forenoon."
+  },
+  {
+   "t": 1853.3,
+   "end": 1856.64,
+   "text": "A similar time cycle is to be found even in one moment."
+  },
+  {
+   "t": 1857.52,
+   "end": 1861.14,
+   "text": "Rise and fall occur as a cycle, even within a single moment."
+  },
+  {
+   "t": 1861.84,
+   "end": 1864.26,
+   "text": "The same process goes on within an aeon."
+  },
+  {
+   "t": 1864.88,
+   "end": 1871.56,
+   "text": "That is why an aeon is said to have the two aspects called sankhata, confection, and vivatta, expansion."
+  },
+  {
+   "t": 1872.78,
+   "end": 1875.56,
+   "text": "World systems go on contracting and expanding."
+  },
+  {
+   "t": 1876.64,
+   "end": 1881.66,
+   "text": "The so-called existence of the world is a continuous process of contraction and expansion."
+  },
+  {
+   "t": 1882.54,
+   "end": 1885.7,
+   "text": "Therefore, it is impossible to find any beginning or end."
+  },
+  {
+   "t": 1886.52,
+   "end": 1890.04,
+   "text": "The very question of a first beginning is ill-conceived."
+  },
+  {
+   "t": 1890.54,
+   "end": 1893.94,
+   "text": "It is like an attempt to find a starting point in a cycle."
+  },
+  {
+   "t": 1899.64,
+   "end": 1905.76,
+   "text": "Because of the cyclic nature of existence, rise and fall is characteristic of every single moment."
+  },
+  {
+   "t": 1906.68,
+   "end": 1916.7,
+   "text": "It is by ignoring the decaying aspect inherent in one moment that wrong reflection gives rise to the inference that there must be an absolute end of the world."
+  },
+  {
+   "t": 1918.66,
+   "end": 1924.62,
+   "text": "Because the visible world gets destroyed, one conceives of an absolute end of the world."
+  },
+  {
+   "t": 1925.0,
+   "end": 1931.12,
+   "text": "But when one world system gets destroyed, another world system gets crystallized somewhere else."
+  },
+  {
+   "t": 1932.3,
+   "end": 1943.18,
+   "text": "Speculative views and standpoints about the universe, current among the worldlings, are of such a misleading nature that any reasoning based on them leads to a circularity of argument,"
+  },
+  {
+   "t": 1943.58,
+   "end": 1949.72,
+   "text": "as is evident from the Lokayatika Brahmana Sutta among the nines of the Ankhutra Nikaya."
+  },
+  {
+   "t": 1950.74,
+   "end": 1954.0,
+   "text": "This discourse is about two Lokayatika Brahmins."
+  },
+  {
+   "t": 1954.0,
+   "end": 1966.4,
+   "text": "The term Lokayatika is a derivative from Lokayata, which signifies a branch of knowledge dealing with the length and breadth of the world, perhaps a prototype of modern science,"
+  },
+  {
+   "t": 1966.74,
+   "end": 1969.66,
+   "text": "though it relied more on logic than on experiment."
+  },
+  {
+   "t": 1972.38,
+   "end": 1976.58,
+   "text": "The two Brahmins were probably students of such a branch of learning."
+  },
+  {
+   "t": 1978.12,
+   "end": 1981.44,
+   "text": "One day they came to the Buddha and posed this question."
+  },
+  {
+   "t": 1983.22,
+   "end": 1993.8,
+   "text": "Now here is this teacher Purana Kasapa who claims omniscience, saying that he sees everything and has knowledge and vision of everything while walking or standing, whether sleep or awake."
+  },
+  {
+   "t": 1994.42,
+   "end": 1998.3,
+   "text": "With these claims to omniscience, he makes the following declaration."
+  },
+  {
+   "t": 2004.04,
+   "end": 2008.58,
+   "text": "I dwell knowing and seeing an infinite world with an infinite knowledge."
+  },
+  {
+   "t": 2009.56,
+   "end": 2016.24,
+   "text": "But then there is this teacher, Nigantanatha Buddha, who also has similar claims to omniscience, but declares,"
+  },
+  {
+   "t": 2021.98,
+   "end": 2026.3,
+   "text": "I dwell knowing and seeing a finite world with a finite knowledge."
+  },
+  {
+   "t": 2027.18,
+   "end": 2029.78,
+   "text": "Comment translation by Mbikubodi."
+  },
+  {
+   "t": 2029.78,
+   "end": 2036.36,
+   "text": "Master Gautama, Purana Kasapa, claims to be all-knowing and all-seeing and to have all-embracing knowledge and vision."
+  },
+  {
+   "t": 2037.0,
+   "end": 2044.46,
+   "text": "Whether I am walking, standing, sleeping or awake, knowledge and vision are constantly and continuously present to me."
+  },
+  {
+   "t": 2044.9,
+   "end": 2046.08,
+   "text": "He says thus,"
+  },
+  {
+   "t": 2052.94,
+   "end": 2060.0,
+   "text": "But Nigantanatha Buddha also claims to be all-knowing and all-seeing and to have all-embracing knowledge and vision."
+  },
+  {
+   "t": 2060.98,
+   "end": 2068.58,
+   "text": "Whether I am walking, standing, sleeping and awake, knowledge and vision are constantly and continuously present to me."
+  },
+  {
+   "t": 2068.98,
+   "end": 2070.2,
+   "text": "He says thus,"
+  },
+  {
+   "t": 2075.62,
+   "end": 2077.74,
+   "text": "There must be a mistake here."
+  },
+  {
+   "t": 2077.86,
+   "end": 2078.96,
+   "text": "It should be finite knowledge."
+  },
+  {
+   "t": 2079.22,
+   "end": 2082.36,
+   "text": "With finite knowledge, I dwell knowing and seeing the world to be finite."
+  },
+  {
+   "t": 2083.66,
+   "end": 2084.68,
+   "text": "End of comment."
+  },
+  {
+   "t": 2085.74,
+   "end": 2087.86,
+   "text": "And then the two Brahmins asked the Buddha,"
+  },
+  {
+   "t": 2087.88,
+   "end": 2093.26,
+   "text": "which of these two teachers claiming omniscience in such contradictory terms is correct?"
+  },
+  {
+   "t": 2094.3,
+   "end": 2096.28,
+   "text": "But the Buddha's reply was,"
+  },
+  {
+   "t": 2101.26,
+   "end": 2103.78,
+   "text": "Enough Brahmins. Let that question be."
+  },
+  {
+   "t": 2104.24,
+   "end": 2105.98,
+   "text": "I shall preach to you the Dhamma."
+  },
+  {
+   "t": 2107.98,
+   "end": 2114.28,
+   "text": "The expression used here is suggestive of the fact that the question belongs to the category of unexplained points."
+  },
+  {
+   "t": 2115.16,
+   "end": 2122.52,
+   "text": "Terms like tapita, left aside, and tapaniya, shupi left aside, are used with reference to indetermined points."
+  },
+  {
+   "t": 2124.3,
+   "end": 2127.0,
+   "text": "Why did the Buddha leave the question aside?"
+  },
+  {
+   "t": 2127.3,
+   "end": 2130.56,
+   "text": "We can guess the reason, though it is not stated as such."
+  },
+  {
+   "t": 2131.68,
+   "end": 2134.8,
+   "text": "Now the standpoint of Purana Kasava is,"
+  },
+  {
+   "t": 2134.92,
+   "end": 2138.62,
+   "text": "I dwell knowing and seeing an infinite world with an infinite knowledge."
+  },
+  {
+   "t": 2139.58,
+   "end": 2142.9,
+   "text": "One can question the validity of his claim with the objection,"
+  },
+  {
+   "t": 2143.34,
+   "end": 2148.16,
+   "text": "You see an infinite world because your knowledge is not finite, that is to say, incomplete."
+  },
+  {
+   "t": 2149.1,
+   "end": 2151.34,
+   "text": "If it is complete, there must be an end."
+  },
+  {
+   "t": 2152.68,
+   "end": 2158.0,
+   "text": "Therefore, going by the sense of incompleteness, in the word Ananta, one can refute the form of you."
+  },
+  {
+   "t": 2158.86,
+   "end": 2162.62,
+   "text": "Why you see the world as infinite is because your knowledge lacks finality."
+  },
+  {
+   "t": 2165.18,
+   "end": 2170.22,
+   "text": "Nigantha Nathaputta, on the other hand, is asserting that he sees a finite world with a finite knowledge."
+  },
+  {
+   "t": 2175.52,
+   "end": 2178.64,
+   "text": "But the followers of Purana Kasava can raise the objection,"
+  },
+  {
+   "t": 2179.0,
+   "end": 2182.64,
+   "text": "You are seeing the world as finite because your knowledge is limited."
+  },
+  {
+   "t": 2183.18,
+   "end": 2184.62,
+   "text": "Your knowledge has an end."
+  },
+  {
+   "t": 2184.76,
+   "end": 2186.38,
+   "text": "That is why you see a finite world."
+  },
+  {
+   "t": 2187.62,
+   "end": 2191.5,
+   "text": "So here, too, we have a circle, or rather a circularity of argument."
+  },
+  {
+   "t": 2192.3,
+   "end": 2194.84,
+   "text": "The two terms, Ananta and Ananta, are ambiguous."
+  },
+  {
+   "t": 2195.76,
+   "end": 2199.74,
+   "text": "That must be the reason why the Buddha rejected the two standpoints in question."
+  },
+  {
+   "t": 2201.1,
+   "end": 2202.22,
+   "text": "Then he declares,"
+  },
+  {
+   "t": 2202.22,
+   "end": 2209.96,
+   "text": "I shall preach to you the Dhamma, and brings up, as a simile, an illustration which could be summed up as follows."
+  },
+  {
+   "t": 2210.92,
+   "end": 2217.86,
+   "text": "Four persons endowed with the highest ability to walk, the highest speed and the widest stride possible, stand in the four directions."
+  },
+  {
+   "t": 2218.72,
+   "end": 2226.08,
+   "text": "Their speed is that of an arrow, and their stride is as wide as the distance between the eastern ocean and the western ocean."
+  },
+  {
+   "t": 2227.44,
+   "end": 2234.0,
+   "text": "Each of them tells himself, I will reach the end of the world by walking, and goes on walking for a hundred years,"
+  },
+  {
+   "t": 2234.6,
+   "end": 2242.46,
+   "text": "that being his full lifespan, resting just for eating, drinking, defecating, urinating, and giving way to sleep or fatigue,"
+  },
+  {
+   "t": 2243.26,
+   "end": 2246.88,
+   "text": "only to die on the way without reaching the end of the world."
+  },
+  {
+   "t": 2247.88,
+   "end": 2252.74,
+   "text": "But why so? asks the Buddha rhetorically, and gives the following explanation,"
+  },
+  {
+   "t": 2252.74,
+   "end": 2259.66,
+   "text": "I do not say, O Brahmins, that the end of the world can be known, seen, or reached by this sort of running."
+  },
+  {
+   "t": 2260.78,
+   "end": 2265.62,
+   "text": "Nor do I say that there is an ending of suffering without reaching the end of the world."
+  },
+  {
+   "t": 2266.82,
+   "end": 2268.6,
+   "text": "Then he declares, Brahmins,"
+  },
+  {
+   "t": 2268.78,
+   "end": 2274.54,
+   "text": "It is these five strands of sense pleasures that in the noble one's discipline accord the world."
+  },
+  {
+   "t": 2275.0,
+   "end": 2277.06,
+   "text": "Comment, translation by Bikobody."
+  },
+  {
+   "t": 2278.92,
+   "end": 2285.6,
+   "text": "I say, Brahmins, that by this kind of running, one cannot know, see, or reach the end of the world."
+  },
+  {
+   "t": 2286.66,
+   "end": 2291.74,
+   "text": "And yet I say that without having reached the end of the world, there is no making an end of suffering."
+  },
+  {
+   "t": 2292.7,
+   "end": 2298.28,
+   "text": "These five objects of sensual pleasure, Brahmins, are called the world in the noble one's discipline."
+  },
+  {
+   "t": 2298.52,
+   "end": 2298.98,
+   "text": "End of comment."
+  },
+  {
+   "t": 2300.6,
+   "end": 2306.32,
+   "text": "In this particular context, the Buddha calls these five kinds of sense pleasures the world,"
+  },
+  {
+   "t": 2306.62,
+   "end": 2308.6,
+   "text": "according to the noble one's terminology."
+  },
+  {
+   "t": 2309.72,
+   "end": 2315.0,
+   "text": "This does not contradict the earlier definition of the world in terms of the six sense bases,"
+  },
+  {
+   "t": 2315.36,
+   "end": 2320.6,
+   "text": "for it is by means of these six sense bases that one enjoys the five strands of sense pleasures."
+  },
+  {
+   "t": 2321.88,
+   "end": 2329.88,
+   "text": "However, as an art of preaching, the Buddha defines the world in terms of the five strands of sense pleasures in this context."
+  },
+  {
+   "t": 2331.46,
+   "end": 2338.72,
+   "text": "Then he goes on to proclaim the way of transcending this world of the five sense pleasures in terms of jhanic attainments."
+  },
+  {
+   "t": 2339.94,
+   "end": 2346.1,
+   "text": "When one attains to the first jhana, one is already far removed from that world of the five sense pleasures."
+  },
+  {
+   "t": 2347.12,
+   "end": 2351.2,
+   "text": "But about him, the Buddha makes the following pronouncement."
+  },
+  {
+   "t": 2360.04,
+   "end": 2362.14,
+   "text": "And I, too, of Brahmins say this,"
+  },
+  {
+   "t": 2362.3,
+   "end": 2364.54,
+   "text": "This one, too, is included in the world."
+  },
+  {
+   "t": 2364.82,
+   "end": 2368.14,
+   "text": "This one, too, has not stepped out of the world."
+  },
+  {
+   "t": 2369.26,
+   "end": 2373.86,
+   "text": "The Buddha makes the same pronouncement with regard to those who attain the other jhanic levels."
+  },
+  {
+   "t": 2375.6,
+   "end": 2378.62,
+   "text": "But finally, he comes to the last step with these words."
+  },
+  {
+   "t": 2407.04,
+   "end": 2418.42,
+   "text": "but then o brahmin the monk having completely transcended the sphere of neither perception nor non-perception attains to and abides in the cessation of perceptions and feelings"
+  },
+  {
+   "t": 2418.42,
+   "end": 2436.34,
+   "text": "and in him having seen with wisdom the influxes are made extinct this one o brahmin is known as one who on reaching the end of the world is dwelling at its very end having crossed over the agglutinative craving comment"
+  },
+  {
+   "t": 2438.56,
+   "end": 2446.36,
+   "text": "translation by biku body again by completely surmounting the base of neither perception nor non-perception"
+  },
+  {
+   "t": 2446.36,
+   "end": 2454.6,
+   "text": "a biku enters and dwells in the cessation of perception and feeling and having seen with wisdom his stains are utterly destroyed"
+  },
+  {
+   "t": 2454.6,
+   "end": 2460.66,
+   "text": "this is called a biku who having come to the end of the world dwells at the end of the world"
+  },
+  {
+   "t": 2460.66,
+   "end": 2465.54,
+   "text": "one who has crossed over attachment to the world end of comment"
+  },
+  {
+   "t": 2466.66,
+   "end": 2473.54,
+   "text": "going by these discourses one might conclude that the cessation of perception and feeling is actually nibbana itself"
+  },
+  {
+   "t": 2474.48,
+   "end": 2478.68,
+   "text": "but the most important part of the above quotation is the statement"
+  },
+  {
+   "t": 2478.68,
+   "end": 2482.42,
+   "text": "paññāya chasadisva asavaparikkhina honti"
+  },
+  {
+   "t": 2482.42,
+   "end": 2486.62,
+   "text": "having seen with wisdom the influxes are made extinct in him"
+  },
+  {
+   "t": 2486.62,
+   "end": 2493.54,
+   "text": "while in the attainment of the cessation of perceptions and feelings all preparations subside"
+  },
+  {
+   "t": 2493.54,
+   "end": 2498.96,
+   "text": "and it is on rising from it that all influxes are made extinct by the vision of wisdom"
+  },
+  {
+   "t": 2500.64,
+   "end": 2504.62,
+   "text": "this fact comes to light in the following answer of venuva dhammadinna"
+  },
+  {
+   "t": 2504.62,
+   "end": 2508.22,
+   "text": "tearing to the question raised by the lay follower visaka"
+  },
+  {
+   "t": 2508.22,
+   "end": 2511.54,
+   "text": "her former husband in the chula viddhāla sutta"
+  },
+  {
+   "t": 2524.86,
+   "end": 2531.22,
+   "text": "friend visaka when a monk has emerged from the attainment of the cessation of perceptions and feelings"
+  },
+  {
+   "t": 2531.22,
+   "end": 2533.64,
+   "text": "three kinds of contact touch him"
+  },
+  {
+   "t": 2533.64,
+   "end": 2537.8,
+   "text": "voidness contact, signless contact, desireless contact"
+  },
+  {
+   "t": 2543.52,
+   "end": 2545.56,
+   "text": "when a monk emerges from the concentration of cessation he contacts three types of contact"
+  },
+  {
+   "t": 2545.56,
+   "end": 2549.24,
+   "text": "when a monk has emerged from the attainment of the cessation of perception and feeling"
+  },
+  {
+   "t": 2549.24,
+   "end": 2551.3,
+   "text": "three kinds of contact touch him"
+  },
+  {
+   "t": 2551.3,
+   "end": 2555.76,
+   "text": "voidness contact, signless contact, desireless contact"
+  },
+  {
+   "t": 2555.76,
+   "end": 2561.48,
+   "text": "and here is the madhyama agama which has a slightly different list of contacts"
+  },
+  {
+   "t": 2561.48,
+   "end": 2567.82,
+   "text": "when a monk emerges from the concentration of cessation he contacts three types of contact"
+  },
+  {
+   "t": 2567.82,
+   "end": 2568.84,
+   "text": "what are the three?"
+  },
+  {
+   "t": 2569.46,
+   "end": 2570.96,
+   "text": "one, imperturbable contact"
+  },
+  {
+   "t": 2570.96,
+   "end": 2572.98,
+   "text": "two, nothingness contact"
+  },
+  {
+   "t": 2572.98,
+   "end": 2575.04,
+   "text": "three, signless contact"
+  },
+  {
+   "t": 2575.04,
+   "end": 2576.94,
+   "text": "end of comment"
+  },
+  {
+   "t": 2579.68,
+   "end": 2583.3,
+   "text": "on this point the commentary too gives the explanation"
+  },
+  {
+   "t": 2583.3,
+   "end": 2585.44,
+   "text": "sunyata nama palasa ma vakti"
+  },
+  {
+   "t": 2585.44,
+   "end": 2588.74,
+   "text": "voidness means the attainment of the fruit of aranhood"
+  },
+  {
+   "t": 2588.74,
+   "end": 2591.72,
+   "text": "in answer to another question"
+  },
+  {
+   "t": 2591.72,
+   "end": 2593.5,
+   "text": "venal dhamma dinna teri says"
+  },
+  {
+   "t": 2593.5,
+   "end": 2598.18,
+   "text": "sanya viddhāyata niruva samāpatiya bhutni tasu kua vūsa visaka"
+  },
+  {
+   "t": 2598.18,
+   "end": 2603.48,
+   "text": "bhikkhuno viveka ninnang chittang hodi viveka ponang viveka padbharam"
+  },
+  {
+   "t": 2604.9,
+   "end": 2611.36,
+   "text": "friend visaka when a monk has emerged from the attainment of the cessation of perceptions and feelings"
+  },
+  {
+   "t": 2611.36,
+   "end": 2617.28,
+   "text": "his mind inclines to seclusion, slants to seclusion, tends to seclusion"
+  },
+  {
+   "t": 2617.28,
+   "end": 2619.88,
+   "text": "comment just the madhyama agama parallel"
+  },
+  {
+   "t": 2619.88,
+   "end": 2624.88,
+   "text": "when a monk has emerged from the concentration of cessation"
+  },
+  {
+   "t": 2624.88,
+   "end": 2630.84,
+   "text": "his mind delights in seclusion, it tends towards seclusion, it inclines towards seclusion"
+  },
+  {
+   "t": 2632.24,
+   "end": 2633.54,
+   "text": "end of comment"
+  },
+  {
+   "t": 2634.26,
+   "end": 2638.1,
+   "text": "here the commentary explains nibbānam viveka nama"
+  },
+  {
+   "t": 2638.1,
+   "end": 2640.56,
+   "text": "what is called seclusion is nibbāna"
+  },
+  {
+   "t": 2641.44,
+   "end": 2646.24,
+   "text": "so it is on emerging from the attainment of the cessation of perceptions and feelings"
+  },
+  {
+   "t": 2646.24,
+   "end": 2648.2,
+   "text": "that is in the aratapala samādhi"
+  },
+  {
+   "t": 2648.2,
+   "end": 2652.44,
+   "text": "references to which we have cited earlier that nibbāna is realized"
+  },
+  {
+   "t": 2652.44,
+   "end": 2656.48,
+   "text": "it is then that one actually sees the end of the world"
+  },
+  {
+   "t": 2657.24,
+   "end": 2657.9,
+   "text": "comment"
+  },
+  {
+   "t": 2657.9,
+   "end": 2664.84,
+   "text": "yeah i am not entirely sure i understand the venerable here quite correctly"
+  },
+  {
+   "t": 2666.5,
+   "end": 2671.04,
+   "text": "and so i just wanted to present my understanding"
+  },
+  {
+   "t": 2671.04,
+   "end": 2681.04,
+   "text": "there is in general a point that i am not sure i would go along with all the instances"
+  },
+  {
+   "t": 2681.04,
+   "end": 2688.56,
+   "text": "where the venerable identify certain passages as referring only to aratapala samādhi or samāpati"
+  },
+  {
+   "t": 2688.56,
+   "end": 2692.44,
+   "text": "anyway an expression only found in the commentaries"
+  },
+  {
+   "t": 2692.44,
+   "end": 2700.28,
+   "text": "that all of these can or would be experiences of the fruition by arahans"
+  },
+  {
+   "t": 2700.28,
+   "end": 2705.84,
+   "text": "i do think they could also refer to lower levels of awakening"
+  },
+  {
+   "t": 2705.84,
+   "end": 2711.54,
+   "text": "and i think this is particularly relevant to the question of cessation of perception and feelings"
+  },
+  {
+   "t": 2713.08,
+   "end": 2718.3,
+   "text": "well i'm i'm not sure about his formulation here but it could be read"
+  },
+  {
+   "t": 2718.3,
+   "end": 2723.36,
+   "text": "to mean that this attainment of cessation"
+  },
+  {
+   "t": 2723.36,
+   "end": 2728.7,
+   "text": "one who emerges from that will thereby automatically become an arahant"
+  },
+  {
+   "t": 2729.92,
+   "end": 2733.96,
+   "text": "i'm not sure if that is really the sense he wants to convey here"
+  },
+  {
+   "t": 2733.96,
+   "end": 2738.8,
+   "text": "but i thought at least to clarify for those whom this might give this impression"
+  },
+  {
+   "t": 2738.8,
+   "end": 2743.98,
+   "text": "and there's a discourse in the anguttara nikaya"
+  },
+  {
+   "t": 2743.98,
+   "end": 2747.64,
+   "text": "venerable sariputta makes a particular statement"
+  },
+  {
+   "t": 2747.64,
+   "end": 2751.9,
+   "text": "and is being contradicted again and again by another monk"
+  },
+  {
+   "t": 2751.9,
+   "end": 2755.92,
+   "text": "and eventually the buddha makes the same statement"
+  },
+  {
+   "t": 2755.92,
+   "end": 2759.1,
+   "text": "and they are saying this is right what venerable sariputta said"
+  },
+  {
+   "t": 2759.9,
+   "end": 2762.4,
+   "text": "and here is the statement by the buddha"
+  },
+  {
+   "t": 2762.4,
+   "end": 2771.8,
+   "text": "ida bhikkave bhikkhu silasampanno samadhisampanno panyasampanno sanyavidaita nirudhaṃ sammāpajyāpi bhuttayyāpi"
+  },
+  {
+   "t": 2771.8,
+   "end": 2780.08,
+   "text": "atitang thānaṁ nociditeva dhamme anyaṁ ārādheyaṁ atikammeva kabalinkārāre bhakkānaṁ divānaṁ"
+  },
+  {
+   "t": 2780.08,
+   "end": 2787.5,
+   "text": "sabhyatāṁ anyatarṁ manamayam kāyam upapanno sanyavidaita nirudhaṁ sammāpajyāpi bhuttayyāpi"
+  },
+  {
+   "t": 2787.5,
+   "end": 2789.28,
+   "text": "atitang thānaṁ"
+  },
+  {
+   "t": 2790.02,
+   "end": 2793.34,
+   "text": "and here the translation by bhikkhu bodhi"
+  },
+  {
+   "t": 2794.7,
+   "end": 2796.46,
+   "text": "just a statement by the buddha"
+  },
+  {
+   "t": 2796.46,
+   "end": 2801.5,
+   "text": "here bhikkhu accomplished in virtuous behavior, concentration and wisdom"
+  },
+  {
+   "t": 2801.5,
+   "end": 2805.68,
+   "text": "might enter and emerge from the cessation of perception and feeling"
+  },
+  {
+   "t": 2805.68,
+   "end": 2809.4,
+   "text": "if he does not reach final knowledge in this very life"
+  },
+  {
+   "t": 2809.4,
+   "end": 2813.84,
+   "text": "then having been reborn among a certain group of mind-made deities"
+  },
+  {
+   "t": 2813.84,
+   "end": 2818.72,
+   "text": "that transcend the company of devas that subsist on edible food"
+  },
+  {
+   "t": 2818.72,
+   "end": 2822.82,
+   "text": "he might again enter and emerge from the cessation of perception and feeling"
+  },
+  {
+   "t": 2822.82,
+   "end": 2824.3,
+   "text": "there is this possibility"
+  },
+  {
+   "t": 2824.3,
+   "end": 2828.2,
+   "text": "so I think this passage makes it indubitably clear"
+  },
+  {
+   "t": 2828.2,
+   "end": 2834.12,
+   "text": "that someone who attains the cessation of perception and feeling"
+  },
+  {
+   "t": 2834.12,
+   "end": 2838.56,
+   "text": "is not necessarily an arahant on emerging from it"
+  },
+  {
+   "t": 2839.98,
+   "end": 2845.14,
+   "text": "and I think this is also a helpful perspective"
+  },
+  {
+   "t": 2845.14,
+   "end": 2851.28,
+   "text": "if we want to put together the two descriptions of Venerable Sariputta"
+  },
+  {
+   "t": 2851.28,
+   "end": 2855.64,
+   "text": "in the Diga Naka Sutta and the Anupada Sutta of the Manjima Nikaya"
+  },
+  {
+   "t": 2857.32,
+   "end": 2865.8,
+   "text": "good, it is possible to simply take the position that the Diga Naka is the original version of Sariputta's attainment of arahantship"
+  },
+  {
+   "t": 2865.8,
+   "end": 2868.5,
+   "text": "we have Samyukta Agama parallels to that"
+  },
+  {
+   "t": 2868.5,
+   "end": 2873.5,
+   "text": "Anupada Sutta is a little unusual and has no parallels"
+  },
+  {
+   "t": 2874.1,
+   "end": 2880.36,
+   "text": "but it could still be interpreted as describing only his attainment of non-return"
+  },
+  {
+   "t": 2880.36,
+   "end": 2883.26,
+   "text": "in this whole list of concentrative experiences that he makes"
+  },
+  {
+   "t": 2883.26,
+   "end": 2889.46,
+   "text": "and that then his breakthrough to arahantship happened actually while in the Diga Naka Sutta"
+  },
+  {
+   "t": 2889.46,
+   "end": 2890.98,
+   "text": "while he was attending on the Buddha"
+  },
+  {
+   "t": 2890.98,
+   "end": 2893.9,
+   "text": "and the Buddha was actually giving instructions to the wanderer on Diga Naka"
+  },
+  {
+   "t": 2895.28,
+   "end": 2900.04,
+   "text": "I'm not necessarily wanting to take a stance on one or the other interpretations"
+  },
+  {
+   "t": 2900.04,
+   "end": 2907.98,
+   "text": "I'm just saying that there's a possibility that somebody can be an attainer of the cessation of perception and feeling"
+  },
+  {
+   "t": 2907.98,
+   "end": 2913.8,
+   "text": "but still only be a non-returner"
+  },
+  {
+   "t": 2913.8,
+   "end": 2915.44,
+   "text": "not necessarily an arahant"
+  },
+  {
+   "t": 2915.44,
+   "end": 2919.64,
+   "text": "and there's also this passage from the Visuddhimagga"
+  },
+  {
+   "t": 2919.64,
+   "end": 2925.62,
+   "text": "I just want to bring in the commentarial explanation on the emergence from cessation"
+  },
+  {
+   "t": 2935.24,
+   "end": 2937.66,
+   "text": "how does emergence from it come about"
+  },
+  {
+   "t": 2937.66,
+   "end": 2940.24,
+   "text": "the emergence comes about in two ways"
+  },
+  {
+   "t": 2940.24,
+   "end": 2944.16,
+   "text": "thus by means of the fruition of non-return in the case of the non-return"
+  },
+  {
+   "t": 2944.16,
+   "end": 2948.18,
+   "text": "or by means of the fruition of arahantship in the case of the arahant"
+  },
+  {
+   "t": 2949.94,
+   "end": 2955.56,
+   "text": "we have a very detailed study of cessation in different Buddhist tradition by Griffith"
+  },
+  {
+   "t": 2955.56,
+   "end": 2962.0,
+   "text": "and he comments to take Buddha Gosa's mention of the corns of the fruits"
+  },
+  {
+   "t": 2962.0,
+   "end": 2968.14,
+   "text": "as descriptive of the first mental events that occur upon leaving the attainment of cessation"
+  },
+  {
+   "t": 2968.14,
+   "end": 2973.58,
+   "text": "so the point seems to be at least from the commentarial perspective"
+  },
+  {
+   "t": 2973.58,
+   "end": 2979.04,
+   "text": "that one who comes out of cessation will then re-experience the fruition"
+  },
+  {
+   "t": 2979.04,
+   "end": 2983.38,
+   "text": "of either non-return or arahantship already attained earlier"
+  },
+  {
+   "t": 2985.74,
+   "end": 2988.22,
+   "text": "good, yeah, I wanted to clarify that"
+  },
+  {
+   "t": 2988.22,
+   "end": 2993.36,
+   "text": "I'm not necessarily saying that the venerable was intending something different"
+  },
+  {
+   "t": 2993.36,
+   "end": 2995.14,
+   "text": "I'm just not quite clear"
+  },
+  {
+   "t": 2995.14,
+   "end": 2999.98,
+   "text": "I read through it a few times and just wanted to avoid that there"
+  },
+  {
+   "t": 3001.9,
+   "end": 3010.12,
+   "text": "way he expresses the point leads to conclusions that are contrary to what the discourses indicate"
+  },
+  {
+   "t": 3010.12,
+   "end": 3013.0,
+   "text": "that is all and the end of the comment now"
+  },
+  {
+   "t": 3015.1,
+   "end": 3021.18,
+   "text": "so from this we can well infer that in advancing a new definition of the world and introducing a"
+  },
+  {
+   "t": 3021.18,
+   "end": 3026.72,
+   "text": "new concept of the world the buddha was not trying to sidetrack the mood point of the worldlings by"
+  },
+  {
+   "t": 3026.72,
+   "end": 3033.36,
+   "text": "bringing in something totally irrelevant he was simply rejecting for some sound reason the"
+  },
+  {
+   "t": 3033.36,
+   "end": 3038.26,
+   "text": "worldlings concept of the world which is born of wrong reflection and illustrating the correct"
+  },
+  {
+   "t": 3038.26,
+   "end": 3044.12,
+   "text": "measuring lot the true criterion of judgment regarding the origin of the concept of the world"
+  },
+  {
+   "t": 3044.12,
+   "end": 3050.52,
+   "text": "according to radical reflection out of all the discourses dealing with the question of the end"
+  },
+  {
+   "t": 3050.52,
+   "end": 3056.48,
+   "text": "of the world and the end of suffering perhaps the most significant is the roitasu sutta which is"
+  },
+  {
+   "t": 3056.48,
+   "end": 3062.64,
+   "text": "found in the sagataka samyutta of the samyutta nikaya as well as in the section of the force in the"
+  },
+  {
+   "t": 3062.64,
+   "end": 3071.1,
+   "text": "anguttara nikaya once when the bunda was staying at the jetavana monastery at savati a deity named roitasu"
+  },
+  {
+   "t": 3071.1,
+   "end": 3079.04,
+   "text": "visited him in the night and asked the following question where lord one does not get born nor grow"
+  },
+  {
+   "t": 3079.04,
+   "end": 3086.0,
+   "text": "old nor die nor pass away nor get reborn is one able lord by traveling to come to know"
+  },
+  {
+   "t": 3086.0,
+   "end": 3093.6,
+   "text": "that end of the world or to see it or to get there and the buddha replies where friend one does not get born"
+  },
+  {
+   "t": 3093.6,
+   "end": 3100.82,
+   "text": "nor grow old nor die nor pass away nor get reborn that end of the world i say one is not able"
+  },
+  {
+   "t": 3100.82,
+   "end": 3107.54,
+   "text": "by traveling to come to know to see or to arrive at comment translation by mikobody"
+  },
+  {
+   "t": 3109.34,
+   "end": 3115.82,
+   "text": "is it possible venerable sir by traveling to know or to see or to reach the end of the world where one"
+  },
+  {
+   "t": 3115.82,
+   "end": 3123.06,
+   "text": "is not born does not age does not die does not pass away and is not reborn as to that end of the world"
+  },
+  {
+   "t": 3123.06,
+   "end": 3129.98,
+   "text": "friend where one is not born does not age does not die does not pass away and is not reborn i say that"
+  },
+  {
+   "t": 3129.98,
+   "end": 3133.64,
+   "text": "it cannot be known, seen or reached by traveling."
+  },
+  {
+   "t": 3134.82,
+   "end": 3138.92,
+   "text": "And here is the similar exchange in the Chinese Sanyukta Agama."
+  },
+  {
+   "t": 3140.12,
+   "end": 3141.2,
+   "text": "End of comment."
+  },
+  {
+   "t": 3142.4,
+   "end": 3147.68,
+   "text": "When the Buddha gave this brief answer, the deity Ruhitasya praised him with the following"
+  },
+  {
+   "t": 3147.68,
+   "end": 3149.06,
+   "text": "words of approbation."
+  },
+  {
+   "t": 3149.44,
+   "end": 3154.32,
+   "text": "Ancaryam bhante ammodang bhante yavasubhasyam idang bhagavata."
+  },
+  {
+   "t": 3155.1,
+   "end": 3159.72,
+   "text": "It is wonderful, Lord, it is marvellous, Lord, how well it is said by the exalted"
+  },
+  {
+   "t": 3159.72,
+   "end": 3160.0,
+   "text": "one."
+  },
+  {
+   "t": 3160.98,
+   "end": 3163.4,
+   "text": "Why did he express his approbation?"
+  },
+  {
+   "t": 3163.68,
+   "end": 3168.64,
+   "text": "Because he had already realized the truth of the Buddha's statement by his own experience."
+  },
+  {
+   "t": 3169.74,
+   "end": 3173.02,
+   "text": "Then he goes on to relate the whole story of his past life."
+  },
+  {
+   "t": 3175.36,
+   "end": 3181.74,
+   "text": "In times past, Lord, I was a seer, Ruhitasya by name, son of Borja, gifted so that I could"
+  },
+  {
+   "t": 3181.74,
+   "end": 3182.82,
+   "text": "fly through the air."
+  },
+  {
+   "t": 3183.32,
+   "end": 3188.94,
+   "text": "And so swift, Lord, was my speed that I could fly just as quickly as a master of archery,"
+  },
+  {
+   "t": 3188.94,
+   "end": 3196.02,
+   "text": "well-trained, expert, proficient, a past master in his art, armed with a strong bow, could"
+  },
+  {
+   "t": 3196.02,
+   "end": 3202.86,
+   "text": "without difficulty send a light arrow far past the area colored by a palm tree's shadow."
+  },
+  {
+   "t": 3204.26,
+   "end": 3208.78,
+   "text": "And so, great Lord, was my stride that I could step from the eastern to the western ocean."
+  },
+  {
+   "t": 3209.52,
+   "end": 3212.4,
+   "text": "In me, Lord, arose such a wish as this."
+  },
+  {
+   "t": 3212.9,
+   "end": 3215.98,
+   "text": "I will arrive at the end of the world by walking."
+  },
+  {
+   "t": 3216.9,
+   "end": 3222.32,
+   "text": "And though such, Lord, was my speed and such my stride, and though with the lifespan of"
+  },
+  {
+   "t": 3222.32,
+   "end": 3228.04,
+   "text": "a century, living for a hundred years, I walk continuously for a hundred years, except for"
+  },
+  {
+   "t": 3228.04,
+   "end": 3232.96,
+   "text": "the time spent in eating, drinking, chewing or tasting, or in answering calls of nature,"
+  },
+  {
+   "t": 3233.48,
+   "end": 3240.72,
+   "text": "and the time I gave to weigh, to sleep or fatigue, yet I died on the way, without reaching the"
+  },
+  {
+   "t": 3240.72,
+   "end": 3241.5,
+   "text": "end of the world."
+  },
+  {
+   "t": 3242.28,
+   "end": 3247.5,
+   "text": "Wonderful it is, O Lord, marvellous it is, Lord, how well this said by the exalted one."
+  },
+  {
+   "t": 3248.0,
+   "end": 3253.96,
+   "text": "Where, friend, one does not get born, nor grow old, nor die, nor pass away, nor get reborn,"
+  },
+  {
+   "t": 3254.12,
+   "end": 3259.02,
+   "text": "that end of the world, I say, one is not able by travelling to come to know, or to see,"
+  },
+  {
+   "t": 3259.02,
+   "end": 3259.86,
+   "text": "or to violent."
+  },
+  {
+   "t": 3261.52,
+   "end": 3267.18,
+   "text": "Comment, translation by Bicca Bodhi, is wonderful, venerable sir, it is amazing, venerable sir,"
+  },
+  {
+   "t": 3267.58,
+   "end": 3269.94,
+   "text": "how well this was stated by the blessed one."
+  },
+  {
+   "t": 3271.22,
+   "end": 3276.64,
+   "text": "As to that end of the world, friend, I say, that it cannot be known, seen, or reached by"
+  },
+  {
+   "t": 3276.64,
+   "end": 3277.02,
+   "text": "travelling."
+  },
+  {
+   "t": 3278.5,
+   "end": 3284.38,
+   "text": "Once in the past, venerable sir, I was a seer named Ruitas, son of Borgia, possessed of"
+  },
+  {
+   "t": 3284.38,
+   "end": 3287.12,
+   "text": "spiritual powers, able to travel through the sky."
+  },
+  {
+   "t": 3287.84,
+   "end": 3295.18,
+   "text": "My speed was such, venerable sir, that I could move just as swiftly as a firm-boiled archer,"
+  },
+  {
+   "t": 3296.84,
+   "end": 3302.92,
+   "text": "trained, skilful practice experienced, could easily shoot past the shadow of a palmyra"
+  },
+  {
+   "t": 3302.92,
+   "end": 3304.26,
+   "text": "tree with a light arrow."
+  },
+  {
+   "t": 3305.4,
+   "end": 3310.34,
+   "text": "My strength was such, venerable sir, that it seemed to reach from the eastern ocean to"
+  },
+  {
+   "t": 3310.34,
+   "end": 3311.32,
+   "text": "the western ocean."
+  },
+  {
+   "t": 3312.22,
+   "end": 3317.28,
+   "text": "Then, venerable sir, the wish arose in me, I will reach the end of the world by travelling."
+  },
+  {
+   "t": 3318.8,
+   "end": 3324.46,
+   "text": "Possessing such speed and such a stride, having a lifespan of a hundred years, living for a"
+  },
+  {
+   "t": 3324.46,
+   "end": 3330.38,
+   "text": "hundred years, I travelled for a hundred years, without pausing except to eat, drink, take"
+  },
+  {
+   "t": 3330.38,
+   "end": 3335.12,
+   "text": "meals and snacks, and to defecate and urinate, to sleep and despair fatigue."
+  },
+  {
+   "t": 3335.12,
+   "end": 3339.4,
+   "text": "Yet I died along the way, without having reached the end of the world."
+  },
+  {
+   "t": 3340.16,
+   "end": 3344.16,
+   "text": "And here is a similar passage from the Chinese."
+  },
+  {
+   "t": 3345.04,
+   "end": 3345.98,
+   "text": "End of quote."
+  },
+  {
+   "t": 3347.62,
+   "end": 3352.76,
+   "text": "It is at this point that the Buddha comes out with a momentous declaration while granting"
+  },
+  {
+   "t": 3352.76,
+   "end": 3354.08,
+   "text": "Rohitasa's approbation."
+  },
+  {
+   "t": 3354.08,
+   "end": 3360.96,
+   "text": "Yandaku avusa na jayati, na jiyati, na miyati, na chavati, na upapanjati."
+  },
+  {
+   "t": 3362.0,
+   "end": 3367.22,
+   "text": "Nāṁ tāṁ gamane na lukāsa antaṁ nyāteyaṁ dhattyaṁ patteyaṁ di vadāmi."
+  },
+  {
+   "t": 3368.48,
+   "end": 3373.8,
+   "text": "Nācahaṁ avusa apatva lukāsa antaṁ dukkha santa kiriyaṁ vadāmi."
+  },
+  {
+   "t": 3373.8,
+   "end": 3389.8,
+   "text": "Āpi ca haṁ avusa imasmi yevabhyāma matande kalevade sasanyam hi samanake lokaṁ ca paññāpe me loka-samudhayaṁ ca loka-nirodhaṁ ca loka-nirodhaṁ ca loka-nirodhaṁ ga-mi-niṁ ca patipadaṁ."
+  },
+  {
+   "t": 3392.52,
+   "end": 3397.64,
+   "text": "Where, friend, one does not get born, nor grow old, nor die, nor pass away, nor get reborn,"
+  },
+  {
+   "t": 3398.26,
+   "end": 3403.96,
+   "text": "that end of the world, I say, one is not able by travelling to come to know or to see or to arrive at."
+  },
+  {
+   "t": 3405.0,
+   "end": 3411.02,
+   "text": "But neither do I say, friend, that without having reached the end of the world there could be an ending of suffering."
+  },
+  {
+   "t": 3411.92,
+   "end": 3418.16,
+   "text": "It is in this very fathom-long physical frame with its perceptions in mind that I declare lies the world,"
+  },
+  {
+   "t": 3418.16,
+   "end": 3423.92,
+   "text": "the arising of the world, the cessation of the world, and the path leading to the cessation of the world."
+  },
+  {
+   "t": 3424.56,
+   "end": 3425.0,
+   "text": "Comment."
+  },
+  {
+   "t": 3426.54,
+   "end": 3427.74,
+   "text": "Translation by Bhikkhu Bodhi."
+  },
+  {
+   "t": 3428.36,
+   "end": 3435.14,
+   "text": "As to that end of the world, friend, where one is not born, does not age, does not die, does not pass away, and is not reborn,"
+  },
+  {
+   "t": 3435.46,
+   "end": 3438.88,
+   "text": "I say that it cannot be known, seen, or reached by travelling."
+  },
+  {
+   "t": 3439.78,
+   "end": 3446.0,
+   "text": "However, friend, I say that without having reached the end of the world there is no making an end to suffering."
+  },
+  {
+   "t": 3446.72,
+   "end": 3451.74,
+   "text": "It is, friend, in just this fathom-high carcass, endowed with perception and mind,"
+  },
+  {
+   "t": 3452.48,
+   "end": 3458.76,
+   "text": "that I make known the world, the origin of the world, the cessation of the world, and the way leading to the cessation of the world."
+  },
+  {
+   "t": 3459.7,
+   "end": 3461.54,
+   "text": "And here again the Chinese."
+  },
+  {
+   "t": 3463.5,
+   "end": 3470.32,
+   "text": "And it additionally also speaks of the path leading to the cessation of the world, which is the novel-lead for path."
+  },
+  {
+   "t": 3471.6,
+   "end": 3472.48,
+   "text": "End of comment."
+  },
+  {
+   "t": 3474.06,
+   "end": 3479.28,
+   "text": "This momentous declaration, which is comparable to a fearless lion's roar,"
+  },
+  {
+   "t": 3479.52,
+   "end": 3482.7,
+   "text": "that puts our religious and philosophical systems to flight,"
+  },
+  {
+   "t": 3482.96,
+   "end": 3486.62,
+   "text": "has been misinterpreted by some who have not grasped its true significance."
+  },
+  {
+   "t": 3487.58,
+   "end": 3491.82,
+   "text": "They say that according to this discourse, the cessation of the world is not here,"
+  },
+  {
+   "t": 3492.34,
+   "end": 3496.16,
+   "text": "and that only the other three are to be found in this fathom-long body."
+  },
+  {
+   "t": 3497.34,
+   "end": 3504.68,
+   "text": "Such misinterpretations are the result of taking seriously various far-fetched speculations of later origin about Nibbana."
+  },
+  {
+   "t": 3505.48,
+   "end": 3511.4,
+   "text": "According to them, Nibbana is some mysterious, nondescript place of rest for the Ardhans after the demise."
+  },
+  {
+   "t": 3512.38,
+   "end": 3517.36,
+   "text": "One who goes by that kind of speculation is not ready to accept the Buddha's declaration"
+  },
+  {
+   "t": 3517.36,
+   "end": 3524.24,
+   "text": "that it is in this very fathom-long body, with this perception in mind, that the cessation of the world can be realized."
+  },
+  {
+   "t": 3525.96,
+   "end": 3533.24,
+   "text": "The commentary in this context simply observes that the four noble truths are to be found not in grass and twigs outside,"
+  },
+  {
+   "t": 3533.6,
+   "end": 3536.14,
+   "text": "but in this body consisting of the four elements."
+  },
+  {
+   "t": 3536.72,
+   "end": 3538.38,
+   "text": "It has nothing more to add."
+  },
+  {
+   "t": 3539.1,
+   "end": 3545.1,
+   "text": "A certain modern scholar has rightly pointed out that the commentator has missed a great opportunity for exegesis."
+  },
+  {
+   "t": 3546.08,
+   "end": 3552.14,
+   "text": "The reason for the commentator's lack of interest in the case of such a discourse of paramount importance"
+  },
+  {
+   "t": 3552.14,
+   "end": 3556.28,
+   "text": "is probably his predilection for these latest speculations on Nibbana."
+  },
+  {
+   "t": 3557.64,
+   "end": 3564.08,
+   "text": "All that we have so far stated in explaining the significance of discourses dealing with the subject of Nibbana"
+  },
+  {
+   "t": 3564.08,
+   "end": 3568.46,
+   "text": "could even be treated as a fitting commentary to the Rohitasu Sutta."
+  },
+  {
+   "t": 3568.46,
+   "end": 3576.1,
+   "text": "The point of relevance is the couple of words, sasanyam hi samanake, occurring in the discourse in question."
+  },
+  {
+   "t": 3577.1,
+   "end": 3581.66,
+   "text": "The fathom-long physical frame is here associated with perceptions and mind."
+  },
+  {
+   "t": 3583.18,
+   "end": 3591.82,
+   "text": "I found this very helpful because there is also another tendency to misinterpretation,"
+  },
+  {
+   "t": 3591.82,
+   "end": 3599.88,
+   "text": "or misinterpretation is a slightly strong term, but to give undue emphasis to this."
+  },
+  {
+   "t": 3600.0,
+   "end": 3607.34,
+   "text": "reference to the body as if everything now has to be in some form a somatic kind of experience"
+  },
+  {
+   "t": 3607.34,
+   "end": 3613.44,
+   "text": "and i think the whole concern we have nowadays with embodiment is very good and very important"
+  },
+  {
+   "t": 3613.44,
+   "end": 3620.28,
+   "text": "and the embodied forms of meditation practice are indeed central in early buddhism"
+  },
+  {
+   "t": 3620.28,
+   "end": 3629.5,
+   "text": "but the this this this saying this pointing to this body is not so much a question of pointing"
+  },
+  {
+   "t": 3629.5,
+   "end": 3636.96,
+   "text": "to the physical body as such but more saying it's here and not somewhere out there and i'm very glad"
+  },
+  {
+   "t": 3636.96,
+   "end": 3643.38,
+   "text": "that when yana brings it up that this comes precisely when one keeps on reading that passage"
+  },
+  {
+   "t": 3644.72,
+   "end": 3650.46,
+   "text": "with perception in mind that makes it clear that this is not just a question of the body but it's"
+  },
+  {
+   "t": 3650.46,
+   "end": 3656.46,
+   "text": "simply taking the body as saying it's in here and not somewhere out there end of comment"
+  },
+  {
+   "t": 3657.82,
+   "end": 3661.6,
+   "text": "the expression used by the buddha in this context is full of significance"
+  },
+  {
+   "t": 3662.68,
+   "end": 3666.92,
+   "text": "as we saw above venral anana defines the world as follows"
+  },
+  {
+   "t": 3673.6,
+   "end": 3678.02,
+   "text": "friend that by which one has a perception of the world and has a conceit of the world"
+  },
+  {
+   "t": 3678.02,
+   "end": 3680.92,
+   "text": "that in the discipline of the noble ones is called the world"
+  },
+  {
+   "t": 3681.56,
+   "end": 3685.06,
+   "text": "and the conceit of the world is a form of measuring with the mind"
+  },
+  {
+   "t": 3685.06,
+   "end": 3692.36,
+   "text": "so the two words sasanyamhe samanake are suggestive of the concept of the world in the noble ones discipline"
+  },
+  {
+   "t": 3693.44,
+   "end": 3697.44,
+   "text": "while discussing the significance of arahata palasamapati"
+  },
+  {
+   "t": 3697.44,
+   "end": 3700.64,
+   "text": "also known as anyapalasamadhi and anyavemoka"
+  },
+  {
+   "t": 3700.64,
+   "end": 3704.5,
+   "text": "we had occasion to bring up such quotations as the following"
+  },
+  {
+   "t": 3704.5,
+   "end": 3712.06,
+   "text": "siyanukobhante bhikkuno tatharupo samadhi patilabho yatha nevapatavin patavisanyas"
+  },
+  {
+   "t": 3712.06,
+   "end": 3714.24,
+   "text": "naapasming aposanyas"
+  },
+  {
+   "t": 3714.24,
+   "end": 3716.92,
+   "text": "na techasming techas sanyas"
+  },
+  {
+   "t": 3716.92,
+   "end": 3719.06,
+   "text": "na vayasming bayos sanyas"
+  },
+  {
+   "t": 3719.06,
+   "end": 3723.3,
+   "text": "na akasananchayatane akasananchayatane sanyas"
+  },
+  {
+   "t": 3723.3,
+   "end": 3730.56,
+   "text": "na akinshanayatane akinshanayatane akinshanayatane sanyas"
+  },
+  {
+   "t": 3730.56,
+   "end": 3735.32,
+   "text": "na nevasanya na sanyayatane nevasanya na sanyayatane sanyas"
+  },
+  {
+   "t": 3735.32,
+   "end": 3738.06,
+   "text": "na idaloke idaloke sanyas"
+  },
+  {
+   "t": 3738.06,
+   "end": 3740.68,
+   "text": "na paraloke paraloka sanyas"
+  },
+  {
+   "t": 3740.68,
+   "end": 3746.46,
+   "text": "yampidang ritintang suttang uttang vinyatang patthang padiyasitang anagicharitang manasa"
+  },
+  {
+   "t": 3746.46,
+   "end": 3749.22,
+   "text": "tatrapi na sanyas sanyas"
+  },
+  {
+   "t": 3750.44,
+   "end": 3754.38,
+   "text": "could there be a lord for among such an attainment of concentration"
+  },
+  {
+   "t": 3754.38,
+   "end": 3757.44,
+   "text": "wherein he will not be conscious literally percipient"
+  },
+  {
+   "t": 3757.44,
+   "end": 3759.24,
+   "text": "of earth in earth"
+  },
+  {
+   "t": 3759.24,
+   "end": 3760.52,
+   "text": "nor of water in water"
+  },
+  {
+   "t": 3760.52,
+   "end": 3762.0,
+   "text": "nor of fire in fire"
+  },
+  {
+   "t": 3762.0,
+   "end": 3763.6,
+   "text": "nor of air in air"
+  },
+  {
+   "t": 3763.6,
+   "end": 3766.72,
+   "text": "nor will he be conscious of the sphere of infinite space"
+  },
+  {
+   "t": 3766.72,
+   "end": 3768.08,
+   "text": "in the sphere of infinite space"
+  },
+  {
+   "t": 3769.22,
+   "end": 3771.14,
+   "text": "nor of the sphere of infinite consciousness"
+  },
+  {
+   "t": 3771.14,
+   "end": 3772.86,
+   "text": "in the sphere of infinite consciousness"
+  },
+  {
+   "t": 3773.42,
+   "end": 3775.16,
+   "text": "nor of the sphere of nothingness"
+  },
+  {
+   "t": 3775.16,
+   "end": 3776.44,
+   "text": "in the sphere of nothingness"
+  },
+  {
+   "t": 3776.44,
+   "end": 3778.36,
+   "text": "nor of the sphere of neither perception"
+  },
+  {
+   "t": 3778.36,
+   "end": 3781.06,
+   "text": "nor non-perception, in the sphere of neither perception"
+  },
+  {
+   "t": 3781.06,
+   "end": 3784.1,
+   "text": "nor non-perception, nor will he be conscious"
+  },
+  {
+   "t": 3784.1,
+   "end": 3786.82,
+   "text": "of this world, in this world, nor of a world beyond"
+  },
+  {
+   "t": 3786.82,
+   "end": 3790.06,
+   "text": "in a world beyond, whatever seen, heard, sensed"
+  },
+  {
+   "t": 3790.06,
+   "end": 3793.06,
+   "text": "cognized, attained, sought after, traversed by the mind"
+  },
+  {
+   "t": 3793.06,
+   "end": 3796.26,
+   "text": "even of that he will not be conscious and yet he will be conscious"
+  },
+  {
+   "t": 3797.64,
+   "end": 3798.98,
+   "text": "Translation by Mikagodi"
+  },
+  {
+   "t": 3800.36,
+   "end": 3802.14,
+   "text": "Bhante, could a bhiku obtain"
+  },
+  {
+   "t": 3802.14,
+   "end": 3804.88,
+   "text": "such a state of concentration that he would not be"
+  },
+  {
+   "t": 3804.88,
+   "end": 3808.7,
+   "text": "percipient of earth in relation to earth, of water in relation to water"
+  },
+  {
+   "t": 3808.7,
+   "end": 3810.86,
+   "text": "of fire in relation to fire"
+  },
+  {
+   "t": 3810.86,
+   "end": 3812.86,
+   "text": "of air in relation to air"
+  },
+  {
+   "t": 3812.86,
+   "end": 3817.8,
+   "text": "of the base of the infinity of space in relation to the base of the infinity of space"
+  },
+  {
+   "t": 3817.8,
+   "end": 3820.06,
+   "text": "of the base of the infinity of consciousness"
+  },
+  {
+   "t": 3820.06,
+   "end": 3822.54,
+   "text": "in relation to the base of the infinity of consciousness"
+  },
+  {
+   "t": 3822.54,
+   "end": 3826.24,
+   "text": "of the base of nothingness in relation to the base of nothingness"
+  },
+  {
+   "t": 3826.24,
+   "end": 3828.94,
+   "text": "of the base of neither perception nor non-perception"
+  },
+  {
+   "t": 3828.94,
+   "end": 3831.16,
+   "text": "in relation to the base of neither perception"
+  },
+  {
+   "t": 3831.16,
+   "end": 3832.62,
+   "text": "non-perception"
+  },
+  {
+   "t": 3832.62,
+   "end": 3837.5,
+   "text": "of this world in relation to this world, of the other world in relation to the other world,"
+  },
+  {
+   "t": 3837.7,
+   "end": 3843.04,
+   "text": "of anything seen, heard, sensed, cognized, reached, sought after, and examined by the mind,"
+  },
+  {
+   "t": 3843.24,
+   "end": 3845.18,
+   "text": "but he would still be persevered."
+  },
+  {
+   "t": 3845.78,
+   "end": 3846.66,
+   "text": "End of comment."
+  },
+  {
+   "t": 3848.4,
+   "end": 3853.82,
+   "text": "The Arahata Pala Samadhi is so extraordinary that while in it one has no perception of"
+  },
+  {
+   "t": 3853.82,
+   "end": 3859.08,
+   "text": "earth, water, fire, and air, of this world, of the other world, of whatever is seen, heard,"
+  },
+  {
+   "t": 3859.08,
+   "end": 3864.72,
+   "text": "sensed, and cognized, but one is all the same, percipient, or conscious, Sanyi-Japanasa."
+  },
+  {
+   "t": 3865.48,
+   "end": 3872.14,
+   "text": "To the question of what is he, percipient, King Sanyi, one's Manusariputta gave the answer"
+  },
+  {
+   "t": 3872.14,
+   "end": 3878.08,
+   "text": "that the perception is of Nibbana as the cessation of existence, Bhavani-Rodho Nibbana."
+  },
+  {
+   "t": 3879.62,
+   "end": 3885.1,
+   "text": "In another discourse that we happen to quote, the mode of questioning has the following sequence."
+  },
+  {
+   "t": 3885.88,
+   "end": 3891.04,
+   "text": "Could there be a Lord for a monk such an attainment of concentration, wherein he will not be"
+  },
+  {
+   "t": 3891.04,
+   "end": 3896.46,
+   "text": "attending to the eye, nor to the phone, nor to the ear, nor to the sound, etc., but ends"
+  },
+  {
+   "t": 3896.46,
+   "end": 3900.92,
+   "text": "with the riddle-like phrase, and yet he will be attending, manasicca panakareya."
+  },
+  {
+   "t": 3902.28,
+   "end": 3907.58,
+   "text": "When the Buddha grants the possibility of such a concentration, Venala Nanda rejoins with"
+  },
+  {
+   "t": 3907.58,
+   "end": 3909.48,
+   "text": "an inquisitive, how could there be a Lord?"
+  },
+  {
+   "t": 3910.34,
+   "end": 3916.14,
+   "text": "And the Buddha explains that what a monk attends to, while in that attainment, could be summed"
+  },
+  {
+   "t": 3916.14,
+   "end": 3917.64,
+   "text": "up in the stereotype phrase,"
+  },
+  {
+   "t": 3917.84,
+   "end": 3926.44,
+   "text": "etang-santang, etang-panitang, yadidang sabhasankara samato, sabbho paripadinesango, tanakkayo"
+  },
+  {
+   "t": 3926.44,
+   "end": 3928.44,
+   "text": "virago nirodho nippana."
+  },
+  {
+   "t": 3928.44,
+   "end": 3934.88,
+   "text": "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment"
+  },
+  {
+   "t": 3934.88,
+   "end": 3939.66,
+   "text": "of all assets, and the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 3941.52,
+   "end": 3943.74,
+   "text": "Comment translation by Bicke Bodhi."
+  },
+  {
+   "t": 3944.1,
+   "end": 3949.94,
+   "text": "This is peaceful, this is sublime, that is, the stilling of all activities, the relinquishment"
+  },
+  {
+   "t": 3949.94,
+   "end": 3955.3,
+   "text": "of all acquisitions, the destruction of craving, dispassion, cessation, nippana."
+  },
+  {
+   "t": 3955.82,
+   "end": 3956.32,
+   "text": "End of comment."
+  },
+  {
+   "t": 3957.42,
+   "end": 3961.02,
+   "text": "It is nippana, then, that one attends to while in that attainment."
+  },
+  {
+   "t": 3961.9,
+   "end": 3967.14,
+   "text": "So we find even the terms perception, sanya, and attention, manasikara being used in the"
+  },
+  {
+   "t": 3967.14,
+   "end": 3970.82,
+   "text": "context of arathapalasamapati, or attainment to the fruit of arandrut."
+  },
+  {
+   "t": 3972.3,
+   "end": 3977.68,
+   "text": "Therefore, nippana is not an experience as dry as a log of wood, but a state of serene awareness"
+  },
+  {
+   "t": 3977.68,
+   "end": 3979.04,
+   "text": "of its true significance."
+  },
+  {
+   "t": 3980.18,
+   "end": 3984.16,
+   "text": "It is the transcendence of the world by realization of its cessation."
+  },
+  {
+   "t": 3984.86,
+   "end": 3991.06,
+   "text": "That is why the two words, sasanyam hi samanake, with its perceptions and mind, have been used"
+  },
+  {
+   "t": 3991.06,
+   "end": 3996.14,
+   "text": "to qualify kalivare, physical frame of body, in the momentous declaration."
+  },
+  {
+   "t": 3997.46,
+   "end": 4002.78,
+   "text": "We also come across some instances in the discourses where the Buddha caused the cessation of the"
+  },
+  {
+   "t": 4002.78,
+   "end": 4004.36,
+   "text": "six-sense verse itself, nippana."
+  },
+  {
+   "t": 4005.26,
+   "end": 4009.92,
+   "text": "The most notable instance is perhaps the Kamaguna Sutta we had already quoted."
+  },
+  {
+   "t": 4010.86,
+   "end": 4014.1,
+   "text": "As we saw, even its presentation is rather enigmatic."
+  },
+  {
+   "t": 4014.1,
+   "end": 4022.52,
+   "text": "Irvans, tasmatiya bhikkave se ayatna viditabbe, yata chakkuncha nirunjati rupa sanyacha viranjati."
+  },
+  {
+   "t": 4022.64,
+   "end": 4028.58,
+   "text": "Se ayatna viditabbe, yata sotanca nirunjati sadda sanyacha viranjati."
+  },
+  {
+   "t": 4028.58,
+   "end": 4034.62,
+   "text": "Se ayatna viditabbe, yata ghana nirunjati, ganda sanyacha viranjati."
+  },
+  {
+   "t": 4035.54,
+   "end": 4040.26,
+   "text": "Se ayatna viditabbe, yata jivacha nirunjati, rasa sanyacha viranjati."
+  },
+  {
+   "t": 4041.14,
+   "end": 4046.12,
+   "text": "Se ayatna viditabbe, yata khaya chani runjati, patabba sanyacha viranjati."
+  },
+  {
+   "t": 4046.42,
+   "end": 4051.3,
+   "text": "Se ayatna viditabbe, yata manu chani runjati, dhamma sanyacha viranjati."
+  },
+  {
+   "t": 4051.46,
+   "end": 4053.48,
+   "text": "Se ayatna viditabbe."
+  },
+  {
+   "t": 4055.5,
+   "end": 4058.18,
+   "text": "Therefore, monks, that sphere should be known"
+  },
+  {
+   "t": 4058.18,
+   "end": 4061.62,
+   "text": "when the eye ceases and the perception of forms fades away."
+  },
+  {
+   "t": 4061.8,
+   "end": 4065.12,
+   "text": "The ear ceases and the perception of sounds fades away."
+  },
+  {
+   "t": 4065.52,
+   "end": 4068.78,
+   "text": "The nose ceases and the perception of smells fades away."
+  },
+  {
+   "t": 4069.12,
+   "end": 4072.26,
+   "text": "The tongue ceases and the perception of tastes fade away."
+  },
+  {
+   "t": 4072.74,
+   "end": 4076.16,
+   "text": "The body ceases and the perception of tangibles fades away."
+  },
+  {
+   "t": 4076.54,
+   "end": 4079.76,
+   "text": "The mind ceases and the perception of ideas fades away."
+  },
+  {
+   "t": 4079.94,
+   "end": 4081.52,
+   "text": "That sphere should be known."
+  },
+  {
+   "t": 4083.2,
+   "end": 4085.58,
+   "text": "Comment, translation by Biko Bodhi"
+  },
+  {
+   "t": 4085.58,
+   "end": 4088.0,
+   "text": "Therefore Biko is that base should be known"
+  },
+  {
+   "t": 4088.0,
+   "end": 4090.96,
+   "text": "where the eye ceases and perceptions of form fades away"
+  },
+  {
+   "t": 4090.96,
+   "end": 4093.94,
+   "text": "that base should be known where the ear ceases"
+  },
+  {
+   "t": 4093.94,
+   "end": 4095.8,
+   "text": "and perception of sounds fades away"
+  },
+  {
+   "t": 4095.8,
+   "end": 4097.48,
+   "text": "that base should be understood"
+  },
+  {
+   "t": 4097.48,
+   "end": 4100.84,
+   "text": "where the mind ceases and perception of mental phenomena fades away"
+  },
+  {
+   "t": 4100.84,
+   "end": 4102.34,
+   "text": "that base should be understood"
+  },
+  {
+   "t": 4104.02,
+   "end": 4108.58,
+   "text": "And here is the Chinese making basically the same statement"
+  },
+  {
+   "t": 4108.58,
+   "end": 4109.26,
+   "text": "End of comment"
+  },
+  {
+   "t": 4111.28,
+   "end": 4114.28,
+   "text": "Venurananda, commenting on this riddle-like sermon of the Buddha"
+  },
+  {
+   "t": 4114.82,
+   "end": 4117.06,
+   "text": "concludes that the Buddha is here"
+  },
+  {
+   "t": 4117.06,
+   "end": 4119.56,
+   "text": "referring to the cessation of the six sense spheres"
+  },
+  {
+   "t": 4125.08,
+   "end": 4128.98,
+   "text": "Friends, it is with reference to the cessation of the six sense spheres"
+  },
+  {
+   "t": 4128.98,
+   "end": 4131.28,
+   "text": "that the Exalted One has preached this sermon"
+  },
+  {
+   "t": 4132.82,
+   "end": 4135.2,
+   "text": "Comment, Biko Bodhi, translation"
+  },
+  {
+   "t": 4135.2,
+   "end": 4137.62,
+   "text": "This was stated by the Blessed One, friends"
+  },
+  {
+   "t": 4137.62,
+   "end": 4140.6,
+   "text": "with reference to the cessation of the six sense spheres"
+  },
+  {
+   "t": 4140.6,
+   "end": 4142.3,
+   "text": "and the Chinese"
+  },
+  {
+   "t": 4143.66,
+   "end": 4144.38,
+   "text": "relevant"
+  },
+  {
+   "t": 4144.38,
+   "end": 4147.98,
+   "text": "corresponding statement in the Samyukta Agra"
+  },
+  {
+   "t": 4147.98,
+   "end": 4149.36,
+   "text": "End of comment"
+  },
+  {
+   "t": 4151.46,
+   "end": 4154.24,
+   "text": "The cessation of the six sense spheres is Nibbana"
+  },
+  {
+   "t": 4155.66,
+   "end": 4160.74,
+   "text": "All this goes to show that the concept of a world is the product of the six sense spheres"
+  },
+  {
+   "t": 4160.74,
+   "end": 4164.66,
+   "text": "Those six measuring rods have measured out the world for us"
+  },
+  {
+   "t": 4165.56,
+   "end": 4168.32,
+   "text": "Hence the world is built up by the six sense spheres"
+  },
+  {
+   "t": 4168.32,
+   "end": 4171.86,
+   "text": "It also has to cease by the cessation of those six sense spheres"
+  },
+  {
+   "t": 4171.86,
+   "end": 4176.08,
+   "text": "That is why Nibbana is defined as the cessation of the six sense spheres"
+  },
+  {
+   "t": 4176.08,
+   "end": 4185.02,
+   "text": "All those measuring rods and scales lose their applicability with the cessation of the six sense spheres"
+  },
+  {
+   "t": 4186.16,
+   "end": 4189.56,
+   "text": "How can there be an experience of cessation of the six sense spheres?"
+  },
+  {
+   "t": 4190.4,
+   "end": 4194.26,
+   "text": "The cessation here meant is actually the cessation of the spheres of contact"
+  },
+  {
+   "t": 4196.4,
+   "end": 4199.12,
+   "text": "A sphere of contact presupposes a duality"
+  },
+  {
+   "t": 4199.12,
+   "end": 4199.22,
+   "text": "To cover it with the humanoïون"
+  },
+  {
+   "t": 4199.22,
+   "end": 4199.9,
+   "text": "Theuming wall and levies"
+  },
+  {
+   "t": 4199.9,
+   "end": 4199.96,
+   "text": "A sphere of contact presupposes a duality"
+  },
+  {
+   "t": 4199.96,
+   "end": 4199.98,
+   "text": "That is the sued from the Joint"
+  },
+  {
+   "t": 4200.0,
+   "end": 4204.06,
+   "text": "Contact is always between two things, between eyes and phones, for instance."
+  },
+  {
+   "t": 4204.86,
+   "end": 4211.92,
+   "text": "It is because of a contact between two things that one entertains a perception of permanence in those two things."
+  },
+  {
+   "t": 4212.78,
+   "end": 4217.5,
+   "text": "Depending on that contact, feelings and perceptions arise, creating a visual world."
+  },
+  {
+   "t": 4218.34,
+   "end": 4221.6,
+   "text": "The visual world of the humans differs from that of animals."
+  },
+  {
+   "t": 4222.1,
+   "end": 4225.34,
+   "text": "Some things that are visible to animals are not visible to humans."
+  },
+  {
+   "t": 4225.9,
+   "end": 4228.82,
+   "text": "That is due to the constitution of the eye faculty."
+  },
+  {
+   "t": 4228.82,
+   "end": 4231.56,
+   "text": "It is the same with regard to the ear faculty."
+  },
+  {
+   "t": 4232.48,
+   "end": 4236.14,
+   "text": "These are the measuring dots and scales which build up a world."
+  },
+  {
+   "t": 4237.48,
+   "end": 4244.24,
+   "text": "Now this world, which is a product of the spheres of sense contact, is a world of papancha or proliferation."
+  },
+  {
+   "t": 4246.34,
+   "end": 4251.64,
+   "text": "Nibbana is called nipapancha because it transcends this proliferation, puts an end to proliferation."
+  },
+  {
+   "t": 4252.44,
+   "end": 4256.5,
+   "text": "The end of proliferation is at the same time the end of the sixth sense phase."
+  },
+  {
+   "t": 4257.68,
+   "end": 4262.96,
+   "text": "There is a discourse in the section of the force in the Anguttara Nikai which clearly brings out this fact."
+  },
+  {
+   "t": 4263.8,
+   "end": 4268.46,
+   "text": "There we find Venerable Maha Kautita putting a question to Venerable Sariputta on this point."
+  },
+  {
+   "t": 4269.1,
+   "end": 4274.32,
+   "text": "Venerable Maha Kautita and Venerable Sariputta are often found discussing intricate points in the Dhamma."
+  },
+  {
+   "t": 4274.32,
+   "end": 4278.74,
+   "text": "Not because they are in doubt, but in order to clarify matters for us."
+  },
+  {
+   "t": 4279.4,
+   "end": 4282.08,
+   "text": "They are trashing out problems for our sake."
+  },
+  {
+   "t": 4282.64,
+   "end": 4287.84,
+   "text": "In this particular instance, Venerable Maha Kautita puts the following question to Venerable Sariputta."
+  },
+  {
+   "t": 4305.24,
+   "end": 4317.74,
+   "text": "Venerable Maha Kautita follows it up with three other possible alternatives, all of which Venerable Sariputta dismisses with the same curt reply."
+  },
+  {
+   "t": 4317.84,
+   "end": 4320.3,
+   "text": "The three alternatives were"
+  },
+  {
+   "t": 4325.32,
+   "end": 4333.48,
+   "text": "Friend, with the remainderless fading away and cessation of the six spheres of sense contact, is there nothing left?"
+  },
+  {
+   "t": 4341.16,
+   "end": 4349.42,
+   "text": "Friend, with the remainderless fading away and cessation of the six spheres of sense contact, is it the case that there is and is not something left?"
+  },
+  {
+   "t": 4357.56,
+   "end": 4375.52,
+   "text": "Friend, with the remainderless fading away and cessation of the six spheres of sense contact, is there anything else?"
+  },
+  {
+   "t": 4375.52,
+   "end": 4377.0,
+   "text": "Do not say so, friend."
+  },
+  {
+   "t": 4378.32,
+   "end": 4383.22,
+   "text": "With the remainderless fading away and cessation of the six spheres of sense contact, is there nothing else?"
+  },
+  {
+   "t": 4383.42,
+   "end": 4384.88,
+   "text": "Do not say so, friend."
+  },
+  {
+   "t": 4384.88,
+   "end": 4401.24,
+   "text": "Friend, with the remainderless fading away and cessation of the six spheres of sense contact, is there neither something else nor nothing else?"
+  },
+  {
+   "t": 4401.36,
+   "end": 4402.68,
+   "text": "Do not say so, friend."
+  },
+  {
+   "t": 4402.68,
+   "end": 4432.58,
+   "text": "Friend, with the remainderless fading away and cessation of the six spheres of sense contact, is there something that still remains?"
+  },
+  {
+   "t": 4433.72,
+   "end": 4435.9,
+   "text": "Ananda asked the Venerable Sariputta again."
+  },
+  {
+   "t": 4435.9,
+   "end": 4443.4,
+   "text": "When the six spheres of sense contact have been eradicated, faded away, ceased, appeased, and disappeared, is there nothing that still remains?"
+  },
+  {
+   "t": 4444.14,
+   "end": 4466.16,
+   "text": "The Venerable Sariputta said to Ananda, it is also not proper to ask in this way, when the six spheres of sense contact have been eradicated, faded away, ceased, appeased, and disappeared, is there something that remains?"
+  },
+  {
+   "t": 4466.16,
+   "end": 4467.26,
+   "text": "and nothing that remains"
+  },
+  {
+   "t": 4467.26,
+   "end": 4469.3,
+   "text": "or neither something that remains"
+  },
+  {
+   "t": 4469.3,
+   "end": 4470.6,
+   "text": "nor nothing that remains"
+  },
+  {
+   "t": 4470.6,
+   "end": 4473.38,
+   "text": "the venerable signer putters said to ananda"
+  },
+  {
+   "t": 4473.38,
+   "end": 4476.38,
+   "text": "it is also not proper to ask in this way"
+  },
+  {
+   "t": 4476.38,
+   "end": 4479.48,
+   "text": "when the six fears of contact have been eradicated"
+  },
+  {
+   "t": 4479.48,
+   "end": 4481.82,
+   "text": "faded away, seized the peace and disappeared"
+  },
+  {
+   "t": 4481.82,
+   "end": 4483.76,
+   "text": "is there something that remains"
+  },
+  {
+   "t": 4483.76,
+   "end": 4484.82,
+   "text": "and nothing that remains"
+  },
+  {
+   "t": 4484.82,
+   "end": 4486.46,
+   "text": "or neither something that remains"
+  },
+  {
+   "t": 4486.46,
+   "end": 4487.8,
+   "text": "nor nothing that remains"
+  },
+  {
+   "t": 4488.48,
+   "end": 4491.56,
+   "text": "so we can see that the basic point of the exchange"
+  },
+  {
+   "t": 4491.56,
+   "end": 4492.42,
+   "text": "is quite similar"
+  },
+  {
+   "t": 4492.42,
+   "end": 4495.28,
+   "text": "even though there is a difference in personality"
+  },
+  {
+   "t": 4495.28,
+   "end": 4497.74,
+   "text": "as here the discussion is with venerable ananda"
+  },
+  {
+   "t": 4497.74,
+   "end": 4499.1,
+   "text": "and not with venerable marcottita"
+  },
+  {
+   "t": 4500.54,
+   "end": 4504.26,
+   "text": "such exchange of the identity of the speaker"
+  },
+  {
+   "t": 4504.26,
+   "end": 4505.3,
+   "text": "in some of these dialogues"
+  },
+  {
+   "t": 4505.3,
+   "end": 4508.38,
+   "text": "is quite a normal occurrence in oral transmission"
+  },
+  {
+   "t": 4508.38,
+   "end": 4509.84,
+   "text": "end of quote"
+  },
+  {
+   "t": 4511.62,
+   "end": 4514.94,
+   "text": "this mode of questioning takes the form of a tetralimma"
+  },
+  {
+   "t": 4514.94,
+   "end": 4516.64,
+   "text": "and venerable saripota dismisses"
+  },
+  {
+   "t": 4516.64,
+   "end": 4519.04,
+   "text": "all the four alternatives as inapplicable"
+  },
+  {
+   "t": 4519.04,
+   "end": 4521.6,
+   "text": "then venerable marcottita asks"
+  },
+  {
+   "t": 4521.6,
+   "end": 4523.74,
+   "text": "why all these four questions were ruled out"
+  },
+  {
+   "t": 4523.74,
+   "end": 4525.42,
+   "text": "and venerable saripota explains"
+  },
+  {
+   "t": 4525.42,
+   "end": 4529.68,
+   "text": "canna sipasayatananam asesa viruagani roda"
+  },
+  {
+   "t": 4529.68,
+   "end": 4530.74,
+   "text": "atanyang kinciti"
+  },
+  {
+   "t": 4530.74,
+   "end": 4533.42,
+   "text": "iti vadang appa panchang papanciti"
+  },
+  {
+   "t": 4533.42,
+   "end": 4538.68,
+   "text": "canna sipasayatananam asesa viruagani roda"
+  },
+  {
+   "t": 4538.68,
+   "end": 4539.98,
+   "text": "natanyang kinciti"
+  },
+  {
+   "t": 4539.98,
+   "end": 4542.96,
+   "text": "iti vadang appa panchang papanciti"
+  },
+  {
+   "t": 4542.96,
+   "end": 4553.2,
+   "text": "Channang avosu pasayatanana ng asesa viragani roda atti chan nati chanyang kinchiti iti vadang apapanchang papanchiti."
+  },
+  {
+   "t": 4553.4,
+   "end": 4562.66,
+   "text": "Channang avosu pasayatanana ng asesa viragani roda nevattino natanyang kinchiti iti vadang apapanchang papanchiti."
+  },
+  {
+   "t": 4563.54,
+   "end": 4569.54,
+   "text": "Yavata avosu channang pasayatanana ngati tawata papanchasagati."
+  },
+  {
+   "t": 4570.82,
+   "end": 4582.9,
+   "text": "Yavata papanchasagati tawata channang pasayatanana ngati channang avosu pasayatanana ng asesa viragani roda papancha niruddho papancha ovopasamo."
+  },
+  {
+   "t": 4584.24,
+   "end": 4595.28,
+   "text": "Friend, he who says with the remainderless fading away and cessation of the six spheres of sense contact there, something left is conceptually proliferating what should not be proliferated conceptually."
+  },
+  {
+   "t": 4596.3,
+   "end": 4618.32,
+   "text": "Friend, he who says with the remainderless fading away and cessation of the six spheres of sense contact there is and is not something left is conceptually proliferating what should not be proliferated conceptually."
+  },
+  {
+   "t": 4618.88,
+   "end": 4630.3,
+   "text": "Friend, he who says with the remainderless fading away and cessation of the six spheres of sense contact there neither is nor is not something left is conceptually proliferating what should not be proliferated conceptually."
+  },
+  {
+   "t": 4631.22,
+   "end": 4638.02,
+   "text": "Friend, whatever is the range of the six spheres of sense contact that itself is the range of conceptual proliferation."
+  },
+  {
+   "t": 4639.76,
+   "end": 4645.84,
+   "text": "And whatever is the range of conceptual proliferation, that itself is the range of the six spheres of sense contact."
+  },
+  {
+   "t": 4646.44,
+   "end": 4655.04,
+   "text": "By the remainderless fading away and cessation of the six spheres of sense contact there comes to be the cessation appeasement of conceptual proliferation."
+  },
+  {
+   "t": 4655.94,
+   "end": 4657.74,
+   "text": "Comment translation by Mekambodi."
+  },
+  {
+   "t": 4658.66,
+   "end": 4667.02,
+   "text": "Friend, if one says with the remainderless fading away and cessation of the six spheres of sense contact there is something else, one proliferates that which is not to be proliferated."
+  },
+  {
+   "t": 4668.24,
+   "end": 4678.4,
+   "text": "If one says friend with the remainderless fading away and cessation of the six spheres of sense contact there is nothing else, one proliferates that which is not to be proliferated."
+  },
+  {
+   "t": 4679.9,
+   "end": 4690.24,
+   "text": "If one says friend with the remainderless fading away and cessation of the six spheres of sense contact there is both something else and nothing else, one proliferates that which is not to be proliferated."
+  },
+  {
+   "t": 4690.84,
+   "end": 4701.26,
+   "text": "If one says, friend, with the remainderless fading away and cessation of the six bases for contact, there is neither something else nor nothing else, one proliferates that which is not to be proliferated."
+  },
+  {
+   "t": 4702.18,
+   "end": 4707.98,
+   "text": "Friend, as far as the range of the six bases for contact extends, just so far extends the range of proliferation."
+  },
+  {
+   "t": 4708.42,
+   "end": 4714.44,
+   "text": "As far as the range of proliferation extends, just so far extends the range of the six bases for contact."
+  },
+  {
+   "t": 4715.2,
+   "end": 4723.88,
+   "text": "With the remainderless fading away and cessation of the six bases for contact, there is the cessation of proliferation, the subsiding of proliferation."
+  },
+  {
+   "t": 4725.26,
+   "end": 4729.06,
+   "text": "And here there is some Yukta Aga, parallel."
+  },
+  {
+   "t": 4732.3,
+   "end": 4736.62,
+   "text": "The venomous Sariputta said to the Venvananda, this is indeed baseless talk."
+  },
+  {
+   "t": 4736.92,
+   "end": 4743.7,
+   "text": "When the six spheres of contact have been eradicated, faded away, seized, appeased and disappeared, is there something that remains?"
+  },
+  {
+   "t": 4744.46,
+   "end": 4746.34,
+   "text": "This is indeed baseless talk."
+  },
+  {
+   "t": 4746.48,
+   "end": 4747.6,
+   "text": "Is there nothing that remains?"
+  },
+  {
+   "t": 4747.88,
+   "end": 4749.64,
+   "text": "This is indeed baseless talk."
+  },
+  {
+   "t": 4749.76,
+   "end": 4751.86,
+   "text": "Is there something that remains and nothing that remains?"
+  },
+  {
+   "t": 4752.28,
+   "end": 4754.26,
+   "text": "This is indeed baseless talk."
+  },
+  {
+   "t": 4754.42,
+   "end": 4757.08,
+   "text": "Is there neither something that remains nor nothing that remains?"
+  },
+  {
+   "t": 4757.7,
+   "end": 4771.16,
+   "text": "If one says, when the six spheres of contact have been eradicated, faded away, seized, appeased and disappeared, one attains nirvana and is apart from all that is basis and false, then this is indeed what the Buddha taught."
+  },
+  {
+   "t": 4772.26,
+   "end": 4773.22,
+   "text": "End of God"
+  },
+  {
+   "t": 4775.32,
+   "end": 4779.82,
+   "text": "The commentator gives the following explanation to the expression attanyankinchi."
+  },
+  {
+   "t": 4779.9,
+   "end": 4780.78,
+   "text": "Is there something left?"
+  },
+  {
+   "t": 4781.54,
+   "end": 4785.0,
+   "text": "Tataparan kochi appa matakopi kilesu atti dipucchati."
+  },
+  {
+   "t": 4785.52,
+   "end": 4790.08,
+   "text": "According to him, Venvanama, Kotita is asking whether there is even a little defilement left."
+  },
+  {
+   "t": 4791.8,
+   "end": 4794.66,
+   "text": "After the cessation of the six spheres of sense contact."
+  },
+  {
+   "t": 4794.98,
+   "end": 4798.52,
+   "text": "But the question is obviously not about the remaining defilements."
+  },
+  {
+   "t": 4799.12,
+   "end": 4799.56,
+   "text": "In many cases."
+  },
+  {
+   "t": 4799.56,
+   "end": 4799.74,
+   "text": "In many cases."
+  },
+  {
+   "t": 4799.74,
+   "end": 4799.98,
+   "text": "In many cases."
+  },
+  {
+   "t": 4800.0,
+   "end": 4802.86,
+   "text": "Even a categorical negative could have been the correct answer."
+  },
+  {
+   "t": 4803.08,
+   "end": 4806.18,
+   "text": "The question here is about the very usage of the expression"
+  },
+  {
+   "t": 4806.18,
+   "end": 4807.84,
+   "text": "is and is not."
+  },
+  {
+   "t": 4809.5,
+   "end": 4812.18,
+   "text": "With the cessation of the six fears of sense contact,"
+  },
+  {
+   "t": 4812.44,
+   "end": 4814.4,
+   "text": "all four propositions of the Tetralemma,"
+  },
+  {
+   "t": 4814.5,
+   "end": 4816.82,
+   "text": "based on the two standpoints is and is not,"
+  },
+  {
+   "t": 4817.18,
+   "end": 4818.38,
+   "text": "lose their applicability."
+  },
+  {
+   "t": 4818.94,
+   "end": 4820.48,
+   "text": "They are rejected in total."
+  },
+  {
+   "t": 4821.58,
+   "end": 4824.3,
+   "text": "Here the parpancha, or conceptual proliferation implied,"
+  },
+  {
+   "t": 4824.3,
+   "end": 4827.28,
+   "text": "is the very discrimination between is and is not."
+  },
+  {
+   "t": 4828.4,
+   "end": 4830.36,
+   "text": "The entire world is based,"
+  },
+  {
+   "t": 4830.78,
+   "end": 4833.76,
+   "text": "built up on the two concepts is and is not."
+  },
+  {
+   "t": 4834.56,
+   "end": 4836.32,
+   "text": "Being unaware of the sankhata,"
+  },
+  {
+   "t": 4836.5,
+   "end": 4838.22,
+   "text": "or prepared nature of these concepts,"
+  },
+  {
+   "t": 4838.52,
+   "end": 4840.46,
+   "text": "we are accustomed to say this is,"
+  },
+  {
+   "t": 4840.72,
+   "end": 4842.0,
+   "text": "as occasion demands."
+  },
+  {
+   "t": 4842.48,
+   "end": 4844.9,
+   "text": "This recording machine before us is there."
+  },
+  {
+   "t": 4845.58,
+   "end": 4848.56,
+   "text": "So also are the things which we presume to exist."
+  },
+  {
+   "t": 4848.98,
+   "end": 4851.22,
+   "text": "We are ourselves to exist, do we not?"
+  },
+  {
+   "t": 4851.86,
+   "end": 4853.54,
+   "text": "One could say I am."
+  },
+  {
+   "t": 4854.74,
+   "end": 4856.4,
+   "text": "Out of the two rapid processes"
+  },
+  {
+   "t": 4856.4,
+   "end": 4858.56,
+   "text": "going on within us every moment,"
+  },
+  {
+   "t": 4858.74,
+   "end": 4860.28,
+   "text": "namely arising and passing away."
+  },
+  {
+   "t": 4861.2,
+   "end": 4864.02,
+   "text": "We are most of the time dwelling on the side of arising."
+  },
+  {
+   "t": 4864.96,
+   "end": 4867.08,
+   "text": "The two concepts is and is not"
+  },
+  {
+   "t": 4867.08,
+   "end": 4869.54,
+   "text": "are structured on the six fears of sense contact."
+  },
+  {
+   "t": 4870.46,
+   "end": 4872.18,
+   "text": "Not only is and is not,"
+  },
+  {
+   "t": 4872.34,
+   "end": 4874.26,
+   "text": "but also the entire logical structure"
+  },
+  {
+   "t": 4874.26,
+   "end": 4875.74,
+   "text": "connecting these two postulates"
+  },
+  {
+   "t": 4875.74,
+   "end": 4877.32,
+   "text": "is founded on the six fears."
+  },
+  {
+   "t": 4878.18,
+   "end": 4880.5,
+   "text": "Here then we see the fistfuls"
+  },
+  {
+   "t": 4880.5,
+   "end": 4881.88,
+   "text": "of inflammable incense powder"
+  },
+  {
+   "t": 4881.88,
+   "end": 4882.96,
+   "text": "the Buddha had directed"
+  },
+  {
+   "t": 4882.96,
+   "end": 4886.26,
+   "text": "towards language and logic,"
+  },
+  {
+   "t": 4886.58,
+   "end": 4888.6,
+   "text": "setting all that ablaze."
+  },
+  {
+   "t": 4889.4,
+   "end": 4891.24,
+   "text": "What this discourse highlights"
+  },
+  {
+   "t": 4891.24,
+   "end": 4893.52,
+   "text": "is the fact that by the very cessation"
+  },
+  {
+   "t": 4893.52,
+   "end": 4895.16,
+   "text": "of the six fears of sense contact,"
+  },
+  {
+   "t": 4895.32,
+   "end": 4897.2,
+   "text": "the cessation of conceptual proliferation"
+  },
+  {
+   "t": 4897.2,
+   "end": 4898.34,
+   "text": "is brought about."
+  },
+  {
+   "t": 4899.1,
+   "end": 4901.48,
+   "text": "With reference to speculative views,"
+  },
+  {
+   "t": 4901.9,
+   "end": 4903.68,
+   "text": "particularly those wrong views"
+  },
+  {
+   "t": 4903.68,
+   "end": 4905.84,
+   "text": "that were put aside as unexplained points,"
+  },
+  {
+   "t": 4905.84,
+   "end": 4907.9,
+   "text": "the Buddha uses the term"
+  },
+  {
+   "t": 4907.9,
+   "end": 4909.16,
+   "text": "dittiparillaha,"
+  },
+  {
+   "t": 4909.46,
+   "end": 4910.86,
+   "text": "delirium of use."
+  },
+  {
+   "t": 4911.7,
+   "end": 4913.96,
+   "text": "Parillaha means delirious fever."
+  },
+  {
+   "t": 4915.04,
+   "end": 4917.48,
+   "text": "Patients in delirium cry out for water."
+  },
+  {
+   "t": 4918.4,
+   "end": 4919.52,
+   "text": "The worldlings in general"
+  },
+  {
+   "t": 4919.52,
+   "end": 4920.86,
+   "text": "are in high delirium."
+  },
+  {
+   "t": 4921.44,
+   "end": 4923.1,
+   "text": "Even such teachers like"
+  },
+  {
+   "t": 4923.1,
+   "end": 4924.34,
+   "text": "Purana, Purana,"
+  },
+  {
+   "t": 4925.8,
+   "end": 4927.96,
+   "text": "who were trying to solve"
+  },
+  {
+   "t": 4927.96,
+   "end": 4929.26,
+   "text": "these speculative problems"
+  },
+  {
+   "t": 4929.26,
+   "end": 4930.56,
+   "text": "about the world by logic"
+  },
+  {
+   "t": 4930.56,
+   "end": 4932.0,
+   "text": "were also in a delirium."
+  },
+  {
+   "t": 4932.48,
+   "end": 4933.54,
+   "text": "Their views,"
+  },
+  {
+   "t": 4933.72,
+   "end": 4934.9,
+   "text": "based on wrong reflections,"
+  },
+  {
+   "t": 4935.1,
+   "end": 4936.82,
+   "text": "were mere hallucinations."
+  },
+  {
+   "t": 4937.32,
+   "end": 4939.66,
+   "text": "They kept on raising such questions"
+  },
+  {
+   "t": 4939.66,
+   "end": 4941.06,
+   "text": "because they had no insight"
+  },
+  {
+   "t": 4941.06,
+   "end": 4942.58,
+   "text": "into the nature of sankaras"
+  },
+  {
+   "t": 4942.58,
+   "end": 4943.4,
+   "text": "or preparations."
+  },
+  {
+   "t": 4944.62,
+   "end": 4946.88,
+   "text": "The worldlings spent their whole lifetime"
+  },
+  {
+   "t": 4946.88,
+   "end": 4948.84,
+   "text": "running in search of the world's end."
+  },
+  {
+   "t": 4949.24,
+   "end": 4950.76,
+   "text": "All that is papancha,"
+  },
+  {
+   "t": 4950.98,
+   "end": 4952.38,
+   "text": "conceptual proliferation."
+  },
+  {
+   "t": 4953.58,
+   "end": 4954.38,
+   "text": "In fact,"
+  },
+  {
+   "t": 4954.48,
+   "end": 4955.32,
+   "text": "the term papancha"
+  },
+  {
+   "t": 4955.32,
+   "end": 4956.22,
+   "text": "is so pervasive"
+  },
+  {
+   "t": 4956.22,
+   "end": 4957.36,
+   "text": "in its gamut of meaning"
+  },
+  {
+   "t": 4957.36,
+   "end": 4958.86,
+   "text": "that it encompasses"
+  },
+  {
+   "t": 4958.86,
+   "end": 4959.9,
+   "text": "the entire world."
+  },
+  {
+   "t": 4961.06,
+   "end": 4961.66,
+   "text": "Usually,"
+  },
+  {
+   "t": 4961.68,
+   "end": 4962.84,
+   "text": "the term is glossed over"
+  },
+  {
+   "t": 4962.84,
+   "end": 4963.64,
+   "text": "by explaining it"
+  },
+  {
+   "t": 4963.64,
+   "end": 4964.38,
+   "text": "with reference to"
+  },
+  {
+   "t": 4964.38,
+   "end": 4965.5,
+   "text": "tandem onendity,"
+  },
+  {
+   "t": 4965.84,
+   "end": 4966.68,
+   "text": "bringing engraving"
+  },
+  {
+   "t": 4966.68,
+   "end": 4967.54,
+   "text": "conceit and views"
+  },
+  {
+   "t": 4967.54,
+   "end": 4969.3,
+   "text": "as illustrations of papancha."
+  },
+  {
+   "t": 4970.06,
+   "end": 4971.52,
+   "text": "But that does not amount"
+  },
+  {
+   "t": 4971.52,
+   "end": 4972.58,
+   "text": "to an explanation proper."
+  },
+  {
+   "t": 4973.06,
+   "end": 4974.6,
+   "text": "It is only a definition"
+  },
+  {
+   "t": 4974.6,
+   "end": 4975.36,
+   "text": "and extension"
+  },
+  {
+   "t": 4975.36,
+   "end": 4976.94,
+   "text": "by giving three instances"
+  },
+  {
+   "t": 4976.94,
+   "end": 4977.72,
+   "text": "of papancha."
+  },
+  {
+   "t": 4978.62,
+   "end": 4979.5,
+   "text": "To rattle off"
+  },
+  {
+   "t": 4979.5,
+   "end": 4980.32,
+   "text": "the three instances"
+  },
+  {
+   "t": 4980.32,
+   "end": 4981.54,
+   "text": "is not a fit answer"
+  },
+  {
+   "t": 4981.54,
+   "end": 4982.2,
+   "text": "to the question"
+  },
+  {
+   "t": 4982.2,
+   "end": 4983.6,
+   "text": "what is papancha."
+  },
+  {
+   "t": 4984.56,
+   "end": 4986.14,
+   "text": "The primary significance"
+  },
+  {
+   "t": 4986.14,
+   "end": 4986.9,
+   "text": "of papancha"
+  },
+  {
+   "t": 4986.9,
+   "end": 4987.6,
+   "text": "is traceable"
+  },
+  {
+   "t": 4987.6,
+   "end": 4988.8,
+   "text": "to the linguistic medium."
+  },
+  {
+   "t": 4989.26,
+   "end": 4990.54,
+   "text": "We have already shown"
+  },
+  {
+   "t": 4990.54,
+   "end": 4991.84,
+   "text": "how the network of grammar"
+  },
+  {
+   "t": 4991.84,
+   "end": 4992.44,
+   "text": "spreads"
+  },
+  {
+   "t": 4992.44,
+   "end": 4994.08,
+   "text": "as soon as the pec M"
+  },
+  {
+   "t": 4994.08,
+   "end": 4995.42,
+   "text": "is driven down to earth,"
+  },
+  {
+   "t": 4995.46,
+   "end": 4996.04,
+   "text": "as it were."
+  },
+  {
+   "t": 4996.7,
+   "end": 4997.72,
+   "text": "The reality"
+  },
+  {
+   "t": 4997.72,
+   "end": 4998.76,
+   "text": "in the first person"
+  },
+  {
+   "t": 4998.76,
+   "end": 4999.28,
+   "text": "in grammar"
+  },
+  {
+   "t": 4999.28,
+   "end": 5000.26,
+   "text": "beckons a second"
+  },
+  {
+   "t": 5000.26,
+   "end": 5001.14,
+   "text": "and a third person"
+  },
+  {
+   "t": 5001.14,
+   "end": 5002.12,
+   "text": "to complete the picture."
+  },
+  {
+   "t": 5003.04,
+   "end": 5004.26,
+   "text": "In logic 2,"
+  },
+  {
+   "t": 5004.5,
+   "end": 5005.58,
+   "text": "a similar ledger domain"
+  },
+  {
+   "t": 5005.58,
+   "end": 5006.32,
+   "text": "takes place."
+  },
+  {
+   "t": 5006.32,
+   "end": 5008.24,
+   "text": "The indeterminable questions"
+  },
+  {
+   "t": 5008.24,
+   "end": 5009.78,
+   "text": "of identity and difference"
+  },
+  {
+   "t": 5009.78,
+   "end": 5010.8,
+   "text": "lead the ledger"
+  },
+  {
+   "t": 5010.8,
+   "end": 5012.28,
+   "text": "up to the garden path."
+  },
+  {
+   "t": 5013.26,
+   "end": 5015.04,
+   "text": "The world is precariously"
+  },
+  {
+   "t": 5015.04,
+   "end": 5016.44,
+   "text": "perched on a fictitious"
+  },
+  {
+   "t": 5016.44,
+   "end": 5017.54,
+   "text": "network of grammar"
+  },
+  {
+   "t": 5017.54,
+   "end": 5018.08,
+   "text": "and logic."
+  },
+  {
+   "t": 5018.62,
+   "end": 5020.12,
+   "text": "It is as a solution"
+  },
+  {
+   "t": 5020.12,
+   "end": 5020.76,
+   "text": "to all this"
+  },
+  {
+   "t": 5020.76,
+   "end": 5021.4,
+   "text": "that the Buddha"
+  },
+  {
+   "t": 5021.4,
+   "end": 5021.92,
+   "text": "came out"
+  },
+  {
+   "t": 5021.92,
+   "end": 5022.82,
+   "text": "with the extraordinary"
+  },
+  {
+   "t": 5022.82,
+   "end": 5024.36,
+   "text": "prospect of a cessation"
+  },
+  {
+   "t": 5024.36,
+   "end": 5025.16,
+   "text": "of the six spheres"
+  },
+  {
+   "t": 5025.16,
+   "end": 5026.0,
+   "text": "of sense contact."
+  },
+  {
+   "t": 5026.88,
+   "end": 5028.22,
+   "text": "This then is a level"
+  },
+  {
+   "t": 5028.22,
+   "end": 5029.06,
+   "text": "of experience"
+  },
+  {
+   "t": 5029.06,
+   "end": 5030.5,
+   "text": "realizable here and now."
+  },
+  {
+   "t": 5031.18,
+   "end": 5032.08,
+   "text": "That is why"
+  },
+  {
+   "t": 5032.08,
+   "end": 5033.0,
+   "text": "the Buddha declared"
+  },
+  {
+   "t": 5033.0,
+   "end": 5033.94,
+   "text": "that the world"
+  },
+  {
+   "t": 5033.94,
+   "end": 5034.94,
+   "text": "is in this very"
+  },
+  {
+   "t": 5034.94,
+   "end": 5036.0,
+   "text": "fathom-long body"
+  },
+  {
+   "t": 5036.0,
+   "end": 5037.02,
+   "text": "with its perceptions"
+  },
+  {
+   "t": 5037.02,
+   "end": 5037.86,
+   "text": "and mind."
+  },
+  {
+   "t": 5039.0,
+   "end": 5040.42,
+   "text": "Now as to the questions"
+  },
+  {
+   "t": 5040.42,
+   "end": 5041.22,
+   "text": "about the world"
+  },
+  {
+   "t": 5041.22,
+   "end": 5042.5,
+   "text": "we have already pointed out"
+  },
+  {
+   "t": 5042.5,
+   "end": 5043.26,
+   "text": "that there is"
+  },
+  {
+   "t": 5043.26,
+   "end": 5044.54,
+   "text": "a circularity involved."
+  },
+  {
+   "t": 5045.5,
+   "end": 5046.9,
+   "text": "Though one cannot find"
+  },
+  {
+   "t": 5046.9,
+   "end": 5047.48,
+   "text": "an end"
+  },
+  {
+   "t": 5047.48,
+   "end": 5048.64,
+   "text": "in something"
+  },
+  {
+   "t": 5049.84,
+   "end": 5051.24,
+   "text": "of a cyclic nature"
+  },
+  {
+   "t": 5051.24,
+   "end": 5052.04,
+   "text": "there is still"
+  },
+  {
+   "t": 5052.04,
+   "end": 5053.1,
+   "text": "a solution possible."
+  },
+  {
+   "t": 5053.6,
+   "end": 5055.16,
+   "text": "There is only one solution"
+  },
+  {
+   "t": 5055.16,
+   "end": 5056.36,
+   "text": "that is to break"
+  },
+  {
+   "t": 5056.36,
+   "end": 5056.88,
+   "text": "the cycle."
+  },
+  {
+   "t": 5057.72,
+   "end": 5059.02,
+   "text": "That is what the term"
+  },
+  {
+   "t": 5059.02,
+   "end": 5060.16,
+   "text": "vattu-pacheta means."
+  },
+  {
+   "t": 5060.52,
+   "end": 5061.48,
+   "text": "One can bridge"
+  },
+  {
+   "t": 5061.48,
+   "end": 5062.08,
+   "text": "the cycle."
+  },
+  {
+   "t": 5062.76,
+   "end": 5064.0,
+   "text": "The cycle cannot be"
+  },
+  {
+   "t": 5064.0,
+   "end": 5064.96,
+   "text": "discovered by traveling."
+  },
+  {
+   "t": 5064.96,
+   "end": 5066.26,
+   "text": "It is not out there"
+  },
+  {
+   "t": 5066.26,
+   "end": 5067.6,
+   "text": "but in this very stream"
+  },
+  {
+   "t": 5067.6,
+   "end": 5068.24,
+   "text": "of consciousness"
+  },
+  {
+   "t": 5068.24,
+   "end": 5068.94,
+   "text": "within us."
+  },
+  {
+   "t": 5069.14,
+   "end": 5070.14,
+   "text": "We have already"
+  },
+  {
+   "t": 5070.14,
+   "end": 5070.98,
+   "text": "described it"
+  },
+  {
+   "t": 5070.98,
+   "end": 5071.96,
+   "text": "as the vortex"
+  },
+  {
+   "t": 5071.96,
+   "end": 5072.86,
+   "text": "between consciousness"
+  },
+  {
+   "t": 5072.86,
+   "end": 5073.9,
+   "text": "and name and form."
+  },
+  {
+   "t": 5074.56,
+   "end": 5075.52,
+   "text": "An allusion"
+  },
+  {
+   "t": 5075.52,
+   "end": 5076.14,
+   "text": "to the bridge"
+  },
+  {
+   "t": 5076.14,
+   "end": 5076.78,
+   "text": "of the vortex"
+  },
+  {
+   "t": 5076.78,
+   "end": 5077.52,
+   "text": "is found in the"
+  },
+  {
+   "t": 5077.52,
+   "end": 5078.22,
+   "text": "following verse"
+  },
+  {
+   "t": 5078.22,
+   "end": 5079.14,
+   "text": "which we have already"
+  },
+  {
+   "t": 5079.14,
+   "end": 5080.14,
+   "text": "discussed in connection"
+  },
+  {
+   "t": 5080.14,
+   "end": 5080.94,
+   "text": "with Nippana."
+  },
+  {
+   "t": 5082.12,
+   "end": 5082.72,
+   "text": "Vinyanang"
+  },
+  {
+   "t": 5082.72,
+   "end": 5083.58,
+   "text": "Anidasanang"
+  },
+  {
+   "t": 5083.58,
+   "end": 5084.14,
+   "text": "Anantang"
+  },
+  {
+   "t": 5084.14,
+   "end": 5084.64,
+   "text": "Sammato"
+  },
+  {
+   "t": 5084.64,
+   "end": 5085.16,
+   "text": "Bhavang"
+  },
+  {
+   "t": 5085.16,
+   "end": 5085.8,
+   "text": "Etta"
+  },
+  {
+   "t": 5085.8,
+   "end": 5086.76,
+   "text": "Apochapatavi"
+  },
+  {
+   "t": 5086.76,
+   "end": 5087.74,
+   "text": "Techo Vaya"
+  },
+  {
+   "t": 5087.74,
+   "end": 5088.46,
+   "text": "Nagadati"
+  },
+  {
+   "t": 5088.46,
+   "end": 5089.34,
+   "text": "Etta"
+  },
+  {
+   "t": 5089.34,
+   "end": 5089.86,
+   "text": "Diganca"
+  },
+  {
+   "t": 5089.86,
+   "end": 5090.46,
+   "text": "Rassanca"
+  },
+  {
+   "t": 5090.46,
+   "end": 5091.32,
+   "text": "Anuntulang"
+  },
+  {
+   "t": 5091.32,
+   "end": 5092.18,
+   "text": "Subhasubhang"
+  },
+  {
+   "t": 5092.18,
+   "end": 5093.18,
+   "text": "Etta"
+  },
+  {
+   "t": 5093.18,
+   "end": 5093.64,
+   "text": "Namanca"
+  },
+  {
+   "t": 5093.64,
+   "end": 5094.22,
+   "text": "Rupanca"
+  },
+  {
+   "t": 5094.22,
+   "end": 5095.0,
+   "text": "Asesam"
+  },
+  {
+   "t": 5095.0,
+   "end": 5095.8,
+   "text": "Upurunjati"
+  },
+  {
+   "t": 5124.38,
+   "end": 5125.78,
+   "text": "Vinyanasa"
+  },
+  {
+   "t": 5125.78,
+   "end": 5126.56,
+   "text": "That's where"
+  },
+  {
+   "t": 5126.56,
+   "end": 5126.82,
+   "text": "Earth,"
+  },
+  {
+   "t": 5126.96,
+   "end": 5127.02,
+   "text": "Earth,"
+  },
+  {
+   "t": 5127.34,
+   "end": 5127.58,
+   "text": "Fire,"
+  },
+  {
+   "t": 5127.64,
+   "end": 5127.86,
+   "text": "Fire,"
+  },
+  {
+   "t": 5127.86,
+   "end": 5127.94,
+   "text": "Air,"
+  },
+  {
+   "t": 5127.94,
+   "end": 5128.22,
+   "text": "Find,"
+  },
+  {
+   "t": 5128.22,
+   "end": 5128.72,
+   "text": "No footing"
+  },
+  {
+   "t": 5129.22,
+   "end": 5129.96,
+   "text": "They are both"
+  },
+  {
+   "t": 5129.96,
+   "end": 5130.6,
+   "text": "long and short"
+  },
+  {
+   "t": 5130.6,
+   "end": 5131.54,
+   "text": "Small and great"
+  },
+  {
+   "t": 5131.54,
+   "end": 5132.52,
+   "text": "Fair and foul"
+  },
+  {
+   "t": 5132.52,
+   "end": 5133.74,
+   "text": "Their name and form"
+  },
+  {
+   "t": 5133.74,
+   "end": 5134.64,
+   "text": "are wholly destroyed"
+  },
+  {
+   "t": 5135.22,
+   "end": 5136.3,
+   "text": "With the cessation"
+  },
+  {
+   "t": 5136.3,
+   "end": 5136.82,
+   "text": "of consciousness"
+  },
+  {
+   "t": 5136.82,
+   "end": 5138.06,
+   "text": "this is all destroyed"
+  },
+  {
+   "t": 5138.06,
+   "end": 5139.5,
+   "text": "here in the Sanskrit"
+  },
+  {
+   "t": 5139.5,
+   "end": 5139.78,
+   "text": "here in the Sanskrit"
+  },
+  {
+   "t": 5139.78,
+   "end": 5140.14,
+   "text": "the Chinese"
+  },
+  {
+   "t": 5140.14,
+   "end": 5142.26,
+   "text": "and the translation"
+  },
+  {
+   "t": 5142.26,
+   "end": 5142.8,
+   "text": "by"
+  },
+  {
+   "t": 5142.8,
+   "end": 5143.68,
+   "text": "Misik"
+  },
+  {
+   "t": 5143.68,
+   "end": 5144.3,
+   "text": "of the Chinese"
+  },
+  {
+   "t": 5144.3,
+   "end": 5145.22,
+   "text": "and I will not"
+  },
+  {
+   "t": 5145.22,
+   "end": 5145.96,
+   "text": "repeat all the"
+  },
+  {
+   "t": 5145.96,
+   "end": 5146.82,
+   "text": "discussion we had"
+  },
+  {
+   "t": 5146.82,
+   "end": 5148.02,
+   "text": "on this passage"
+  },
+  {
+   "t": 5148.02,
+   "end": 5148.5,
+   "text": "earlier"
+  },
+  {
+   "t": 5148.5,
+   "end": 5150.5,
+   "text": "This must be answered"
+  },
+  {
+   "t": 5150.5,
+   "end": 5151.04,
+   "text": "consciousness"
+  },
+  {
+   "t": 5151.04,
+   "end": 5151.84,
+   "text": "shapeless"
+  },
+  {
+   "t": 5151.84,
+   "end": 5152.54,
+   "text": "extraordinary"
+  },
+  {
+   "t": 5152.54,
+   "end": 5153.62,
+   "text": "radiating by its own"
+  },
+  {
+   "t": 5153.62,
+   "end": 5154.52,
+   "text": "if this vanishes"
+  },
+  {
+   "t": 5154.52,
+   "end": 5156.4,
+   "text": "then the four elements vanish"
+  },
+  {
+   "t": 5156.4,
+   "end": 5158.28,
+   "text": "and coarse and subtle"
+  },
+  {
+   "t": 5158.28,
+   "end": 5159.78,
+   "text": "nice and ugly vanish"
+  },
+  {
+   "t": 5159.78,
+   "end": 5160.8,
+   "text": "into this"
+  },
+  {
+   "t": 5160.8,
+   "end": 5162.02,
+   "text": "name and form vanish too"
+  },
+  {
+   "t": 5162.02,
+   "end": 5163.66,
+   "text": "if consciousness vanish"
+  },
+  {
+   "t": 5163.66,
+   "end": 5165.0,
+   "text": "the rest vanishes too"
+  },
+  {
+   "t": 5165.0,
+   "end": 5166.02,
+   "text": "End of quote"
+  },
+  {
+   "t": 5167.38,
+   "end": 5168.64,
+   "text": "You won't then see"
+  },
+  {
+   "t": 5168.64,
+   "end": 5169.48,
+   "text": "how name and form"
+  },
+  {
+   "t": 5169.48,
+   "end": 5170.08,
+   "text": "are cut off"
+  },
+  {
+   "t": 5171.12,
+   "end": 5171.72,
+   "text": "Vinyanangani"
+  },
+  {
+   "t": 5171.72,
+   "end": 5172.28,
+   "text": "Dasanang"
+  },
+  {
+   "t": 5172.28,
+   "end": 5172.7,
+   "text": "Anantang"
+  },
+  {
+   "t": 5172.7,
+   "end": 5173.54,
+   "text": "Sabhatopabang"
+  },
+  {
+   "t": 5173.54,
+   "end": 5174.32,
+   "text": "consciousness"
+  },
+  {
+   "t": 5174.32,
+   "end": 5175.76,
+   "text": "which is non-manifestative"
+  },
+  {
+   "t": 5175.76,
+   "end": 5176.3,
+   "text": "infinite"
+  },
+  {
+   "t": 5176.3,
+   "end": 5177.06,
+   "text": "and lustrous"
+  },
+  {
+   "t": 5177.06,
+   "end": 5177.76,
+   "text": "on all sides"
+  },
+  {
+   "t": 5178.54,
+   "end": 5179.8,
+   "text": "In this consciousness"
+  },
+  {
+   "t": 5179.8,
+   "end": 5181.4,
+   "text": "even the four great primaries"
+  },
+  {
+   "t": 5181.4,
+   "end": 5182.64,
+   "text": "earth, water, fire and air"
+  },
+  {
+   "t": 5182.64,
+   "end": 5183.86,
+   "text": "do not find a footing"
+  },
+  {
+   "t": 5185.04,
+   "end": 5185.56,
+   "text": "Chakavala"
+  },
+  {
+   "t": 5185.56,
+   "end": 5186.52,
+   "text": "or a world system"
+  },
+  {
+   "t": 5186.52,
+   "end": 5187.84,
+   "text": "is supposed to be made up"
+  },
+  {
+   "t": 5187.84,
+   "end": 5189.24,
+   "text": "of these four primary elements"
+  },
+  {
+   "t": 5189.24,
+   "end": 5190.58,
+   "text": "Even the term"
+  },
+  {
+   "t": 5190.58,
+   "end": 5191.24,
+   "text": "Chakavala"
+  },
+  {
+   "t": 5191.24,
+   "end": 5192.66,
+   "text": "implies something cyclic"
+  },
+  {
+   "t": 5192.66,
+   "end": 5194.18,
+   "text": "The world is a product"
+  },
+  {
+   "t": 5194.18,
+   "end": 5195.54,
+   "text": "of these primary elements"
+  },
+  {
+   "t": 5195.54,
+   "end": 5197.06,
+   "text": "but these are not there"
+  },
+  {
+   "t": 5197.06,
+   "end": 5198.2,
+   "text": "in that non-manifestative"
+  },
+  {
+   "t": 5198.2,
+   "end": 5198.68,
+   "text": "consciousness"
+  },
+  {
+   "t": 5199.36,
+   "end": 5200.28,
+   "text": "Such relative"
+  },
+  {
+   "t": 5200.28,
+   "end": 5200.92,
+   "text": "distinctions"
+  },
+  {
+   "t": 5200.92,
+   "end": 5201.82,
+   "text": "as long and short"
+  },
+  {
+   "t": 5201.82,
+   "end": 5202.72,
+   "text": "subtle and cross"
+  },
+  {
+   "t": 5202.72,
+   "end": 5203.98,
+   "text": "have no place in it"
+  },
+  {
+   "t": 5203.98,
+   "end": 5205.76,
+   "text": "Name and form cease here"
+  },
+  {
+   "t": 5205.76,
+   "end": 5206.76,
+   "text": "leaving no residue"
+  },
+  {
+   "t": 5206.76,
+   "end": 5208.68,
+   "text": "Like an expert physician"
+  },
+  {
+   "t": 5208.68,
+   "end": 5210.1,
+   "text": "who treats the germ"
+  },
+  {
+   "t": 5210.1,
+   "end": 5210.8,
+   "text": "of a disease"
+  },
+  {
+   "t": 5210.8,
+   "end": 5211.64,
+   "text": "and immunizes"
+  },
+  {
+   "t": 5211.64,
+   "end": 5212.54,
+   "text": "the patient"
+  },
+  {
+   "t": 5212.54,
+   "end": 5213.66,
+   "text": "The Buddha"
+  },
+  {
+   "t": 5213.66,
+   "end": 5214.66,
+   "text": "effected a breach"
+  },
+  {
+   "t": 5214.66,
+   "end": 5215.82,
+   "text": "in the samsavic vortex"
+  },
+  {
+   "t": 5215.82,
+   "end": 5216.72,
+   "text": "by concentrating"
+  },
+  {
+   "t": 5216.72,
+   "end": 5217.8,
+   "text": "on his epicycle"
+  },
+  {
+   "t": 5217.8,
+   "end": 5218.42,
+   "text": "within this"
+  },
+  {
+   "t": 5218.42,
+   "end": 5219.18,
+   "text": "fervent long body"
+  },
+  {
+   "t": 5220.7,
+   "end": 5222.54,
+   "text": "The ever-recurrent process"
+  },
+  {
+   "t": 5222.54,
+   "end": 5224.2,
+   "text": "of mutual interrelation"
+  },
+  {
+   "t": 5224.2,
+   "end": 5225.02,
+   "text": "between consciousness"
+  },
+  {
+   "t": 5225.02,
+   "end": 5226.0,
+   "text": "and Name and form"
+  },
+  {
+   "t": 5226.0,
+   "end": 5227.64,
+   "text": "forming the epicycle"
+  },
+  {
+   "t": 5227.64,
+   "end": 5228.74,
+   "text": "of the samsavic vortex"
+  },
+  {
+   "t": 5228.74,
+   "end": 5229.56,
+   "text": "was breached"
+  },
+  {
+   "t": 5230.32,
+   "end": 5232.06,
+   "text": "With the cessation of consciousness"
+  },
+  {
+   "t": 5232.06,
+   "end": 5233.12,
+   "text": "comes the cessation"
+  },
+  {
+   "t": 5233.12,
+   "end": 5233.78,
+   "text": "of Name and form"
+  },
+  {
+   "t": 5233.78,
+   "end": 5234.94,
+   "text": "With the cessation"
+  },
+  {
+   "t": 5234.94,
+   "end": 5235.58,
+   "text": "of Name and form"
+  },
+  {
+   "t": 5235.58,
+   "end": 5236.56,
+   "text": "comes the cessation"
+  },
+  {
+   "t": 5236.56,
+   "end": 5237.16,
+   "text": "of consciousness"
+  },
+  {
+   "t": 5237.78,
+   "end": 5238.98,
+   "text": "That is the dictum"
+  },
+  {
+   "t": 5238.98,
+   "end": 5239.64,
+   "text": "of the Naga"
+  },
+  {
+   "t": 5239.64,
+   "end": 5241.62,
+   "text": "Nalaka Laapisutta"
+  },
+  {
+   "t": 5242.42,
+   "end": 5243.72,
+   "text": "Out of the two bundles"
+  },
+  {
+   "t": 5243.72,
+   "end": 5244.26,
+   "text": "of weeds"
+  },
+  {
+   "t": 5244.26,
+   "end": 5245.12,
+   "text": "left standing"
+  },
+  {
+   "t": 5245.12,
+   "end": 5246.2,
+   "text": "supporting each other"
+  },
+  {
+   "t": 5246.2,
+   "end": 5247.26,
+   "text": "when one is drawn"
+  },
+  {
+   "t": 5247.26,
+   "end": 5248.52,
+   "text": "the other falls down"
+  },
+  {
+   "t": 5248.52,
+   "end": 5249.46,
+   "text": "Even so"
+  },
+  {
+   "t": 5249.46,
+   "end": 5250.6,
+   "text": "With the cessation"
+  },
+  {
+   "t": 5250.6,
+   "end": 5251.14,
+   "text": "of consciousness"
+  },
+  {
+   "t": 5251.14,
+   "end": 5252.22,
+   "text": "comes the cessation"
+  },
+  {
+   "t": 5252.22,
+   "end": 5252.92,
+   "text": "of Name and form"
+  },
+  {
+   "t": 5252.92,
+   "end": 5254.38,
+   "text": "With the cessation"
+  },
+  {
+   "t": 5254.38,
+   "end": 5255.06,
+   "text": "of Name and form"
+  },
+  {
+   "t": 5255.06,
+   "end": 5255.96,
+   "text": "comes the cessation"
+  },
+  {
+   "t": 5255.96,
+   "end": 5256.56,
+   "text": "of consciousness"
+  },
+  {
+   "t": 5256.56,
+   "end": 5259.26,
+   "text": "That is how the Buddha solved this problem."
+  },
+  {
+   "t": 5260.14,
+   "end": 5261.5,
+   "text": "Thank you for your attention."
+  }
+ ]
+}

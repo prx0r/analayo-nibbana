@@ -1,0 +1,3577 @@
+{
+ "source": "/home/box/Downloads/yt/analayo-nibbana/analayo-nibbana-lecture-12.mp3",
+ "duration": 5129.8349,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 1.88,
+   "end": 11.76,
+   "text": "Welcome, everybody, to the online course on the Nibbāna Sermons 12 to 21,"
+  },
+  {
+   "t": 12.76,
+   "end": 19.56,
+   "text": "hosted in collaboration between the Numotas Center for Buddhist Studies at the University of Hamburg"
+  },
+  {
+   "t": 19.56,
+   "end": 22.92,
+   "text": "and the Barre Center for Buddhist Studies in Massachusetts."
+  },
+  {
+   "t": 24.24,
+   "end": 28.52,
+   "text": "And today we are going to look at Sermon number 12."
+  },
+  {
+   "t": 30.0,
+   "end": 34.1,
+   "text": "And before doing that, a few comments."
+  },
+  {
+   "t": 34.94,
+   "end": 46.46,
+   "text": "There were two quotes that I wanted to share from the forum discussion, one by Linda Grace."
+  },
+  {
+   "t": 47.52,
+   "end": 58.28,
+   "text": "She says, it's ironic that we think, we understand and define and in a way control the world through our language."
+  },
+  {
+   "t": 58.28,
+   "end": 70.68,
+   "text": "But in effect, the very basis and patterns of language and owing of the declensional forms actually also defines, creates and controls us."
+  },
+  {
+   "t": 72.86,
+   "end": 75.72,
+   "text": "And another comment by Robert Grosch."
+  },
+  {
+   "t": 76.56,
+   "end": 89.0,
+   "text": "The Dhamma is a way which employs concepts, or names, to create a map that points to liberation from the vortex of consciousness and name and form."
+  },
+  {
+   "t": 89.0,
+   "end": 94.96,
+   "text": "It does not try to do away with concepts entirely from the start."
+  },
+  {
+   "t": 95.64,
+   "end": 103.2,
+   "text": "Rather, it acknowledges that the mind requires concepts to work its way to the conceptless."
+  },
+  {
+   "t": 106.64,
+   "end": 118.4,
+   "text": "I thought these two comments from the discussion forum set a nice theme for what this sermon will be taking up in more detail."
+  },
+  {
+   "t": 119.38,
+   "end": 124.82,
+   "text": "And then there was an article I wanted to share."
+  },
+  {
+   "t": 126.02,
+   "end": 135.62,
+   "text": "And this is the outcome of the exploration and discussion we had in relation to Sermon number 7."
+  },
+  {
+   "t": 135.62,
+   "end": 149.62,
+   "text": "At that time, I already shared some of my research, in particular related to these passages on the luminous consciousness,"
+  },
+  {
+   "t": 151.0,
+   "end": 157.06,
+   "text": "Vinyana qualified as Pabha, in Kevadha and Prahmanimantaya Sutta."
+  },
+  {
+   "t": 159.64,
+   "end": 171.8,
+   "text": "And actually, when Dhammadina, she encouraged me to pursue this further and make it into an article."
+  },
+  {
+   "t": 173.28,
+   "end": 179.7,
+   "text": "And this is the article here, The Luminous Mind in Theravada and Dharmagopika Discourses."
+  },
+  {
+   "t": 179.94,
+   "end": 181.6,
+   "text": "It became quite long."
+  },
+  {
+   "t": 182.7,
+   "end": 193.58,
+   "text": "And it was, in a way, a very fruitful outcome of teaching that the first series, the Nibbana Sermons 1 to 11,"
+  },
+  {
+   "t": 194.44,
+   "end": 203.96,
+   "text": "because the research I did there helped me to put into perspective something that I'd always been curious about or wanting to understand."
+  },
+  {
+   "t": 206.94,
+   "end": 210.28,
+   "text": "And so I wanted to just briefly summarize it."
+  },
+  {
+   "t": 210.28,
+   "end": 217.44,
+   "text": "And for those of you who have the time, the article will be available for download."
+  },
+  {
+   "t": 217.46,
+   "end": 221.26,
+   "text": "And perhaps we can have some further discussion on it."
+  },
+  {
+   "t": 222.28,
+   "end": 231.74,
+   "text": "The basic finding I made, and I will not repeat on these two passages on consciousness,"
+  },
+  {
+   "t": 231.74,
+   "end": 245.26,
+   "text": "where I think the parallels show that the relationship drawn between consciousness and luminosity is probably not the original reading."
+  },
+  {
+   "t": 246.46,
+   "end": 254.56,
+   "text": "I was, in the remainder of the article, I go into another relationship drawn between consciousness,"
+  },
+  {
+   "t": 255.12,
+   "end": 258.12,
+   "text": "between luminosity and the mind, citta."
+  },
+  {
+   "t": 258.12,
+   "end": 273.96,
+   "text": "And what I found is that there is a tendency to illustrate purification of the mind with a simile of purifying gold."
+  },
+  {
+   "t": 273.96,
+   "end": 280.56,
+   "text": "And when this gold is purified from adventitious defilements,"
+  },
+  {
+   "t": 281.02,
+   "end": 287.74,
+   "text": "it is described as luminous, malleable, and workable."
+  },
+  {
+   "t": 289.14,
+   "end": 302.22,
+   "text": "And as far as I'm able to reconstruct it, it seems that the original point would have been to use the qualification luminous only for the gold."
+  },
+  {
+   "t": 303.42,
+   "end": 310.34,
+   "text": "But that in the course of oral transmission, this same qualification was also applied to the mind."
+  },
+  {
+   "t": 311.82,
+   "end": 317.28,
+   "text": "This is, in itself, a very natural occurrence in oral transmission."
+  },
+  {
+   "t": 317.28,
+   "end": 324.26,
+   "text": "We have one gold is such and such, and then we have two mind."
+  },
+  {
+   "t": 324.26,
+   "end": 330.84,
+   "text": "And so the such and such very naturally moves from the gold down to the mind and is repeated there."
+  },
+  {
+   "t": 333.2,
+   "end": 342.6,
+   "text": "And out of this association, this relationship drawn between the mind and luminosity,"
+  },
+  {
+   "t": 342.6,
+   "end": 354.88,
+   "text": "then we eventually get this famous passage in Anguttara Nikaya on the mind being luminous but defiled by adventitious defilements."
+  },
+  {
+   "t": 356.1,
+   "end": 373.88,
+   "text": "And the formulation that we find in this Anguttara Nikaya passage is understandable when we look at it from its apparent origin in this gold simile."
+  },
+  {
+   "t": 375.02,
+   "end": 382.18,
+   "text": "However, when we look at it by itself, because this Anguttara passage no longer has the gold simile,"
+  },
+  {
+   "t": 382.18,
+   "end": 393.06,
+   "text": "it makes statements, it takes a position that is quite different from the general thrust of early Buddhist discourse."
+  },
+  {
+   "t": 394.42,
+   "end": 410.82,
+   "text": "You see, one thing, the idea that the mind can produce some form of inner light or luminosity is recognized in early Buddhist thought."
+  },
+  {
+   "t": 410.82,
+   "end": 416.36,
+   "text": "We find this in the Upakilesu Sutta and its parallels, Majjmanikai 128,"
+  },
+  {
+   "t": 417.54,
+   "end": 419.76,
+   "text": "where we get these descriptions."
+  },
+  {
+   "t": 420.76,
+   "end": 427.52,
+   "text": "The Buddha and also some of his disciples have this experience of inner light and forms."
+  },
+  {
+   "t": 428.9,
+   "end": 435.74,
+   "text": "And whenever there are defilements in the mind, then these light and inner forms, vision of inner forms, disappear."
+  },
+  {
+   "t": 437.46,
+   "end": 450.88,
+   "text": "And so, to some degree, this description is a precedent to the concern with what in the modern-day practice tradition goes under the heading of the Nimitta,"
+  },
+  {
+   "t": 451.36,
+   "end": 457.82,
+   "text": "the inner light experience that one can have when concentration deepens."
+  },
+  {
+   "t": 457.82,
+   "end": 469.02,
+   "text": "And in modern-day meditation traditions, this inner light is often used as the object to go into absorption."
+  },
+  {
+   "t": 470.18,
+   "end": 477.82,
+   "text": "A difference here is that in the Upakilesu Sutta, the light itself is not made the object."
+  },
+  {
+   "t": 479.28,
+   "end": 486.82,
+   "text": "But anyway, the main point here is that light experiences are recognized."
+  },
+  {
+   "t": 487.56,
+   "end": 494.88,
+   "text": "However, these do not form like some form of intrinsical, natural part of the mind,"
+  },
+  {
+   "t": 494.88,
+   "end": 498.08,
+   "text": "but they are the outcome of samadhi, of deepening concentration."
+  },
+  {
+   "t": 498.92,
+   "end": 510.22,
+   "text": "The passage in Anguttara Nikaya, however, gives the impression as if this luminosity of the mind were to be all the time there."
+  },
+  {
+   "t": 510.96,
+   "end": 515.46,
+   "text": "That luminosity is even there when the defilements are present."
+  },
+  {
+   "t": 516.62,
+   "end": 521.52,
+   "text": "And these defilements are qualified as Aganduka."
+  },
+  {
+   "t": 521.98,
+   "end": 524.74,
+   "text": "This is a term that we also get in the Vinaya."
+  },
+  {
+   "t": 524.92,
+   "end": 525.6,
+   "text": "It means visitor."
+  },
+  {
+   "t": 526.84,
+   "end": 532.5,
+   "text": "So this gives almost the impression as if the defilements exist sort of independently of the mind"
+  },
+  {
+   "t": 532.5,
+   "end": 542.22,
+   "text": "and there is some luminosity of the mind that is not at all affected by the fact that a defilement is there"
+  },
+  {
+   "t": 542.22,
+   "end": 543.78,
+   "text": "or that a defilement is not there."
+  },
+  {
+   "t": 545.48,
+   "end": 549.98,
+   "text": "And as I said, as far as I'm able to reconstruct this,"
+  },
+  {
+   "t": 552.66,
+   "end": 556.92,
+   "text": "formulation owes to this gold simile."
+  },
+  {
+   "t": 557.8,
+   "end": 566.78,
+   "text": "But on its own, it makes a statement that has led to considerable interest in later Buddhist tradition."
+  },
+  {
+   "t": 566.78,
+   "end": 574.66,
+   "text": "And it seems to be at the origin of the idea that the mind is already awakened."
+  },
+  {
+   "t": 575.28,
+   "end": 576.84,
+   "text": "It is already pure."
+  },
+  {
+   "t": 577.5,
+   "end": 580.14,
+   "text": "And we just need to recognize this."
+  },
+  {
+   "t": 581.96,
+   "end": 588.22,
+   "text": "This is an idea that is different, distinctly different from any Buddhist thought."
+  },
+  {
+   "t": 588.56,
+   "end": 596.76,
+   "text": "And other scholars have already shown how from this idea of luminosity found in the Anguttara passage,"
+  },
+  {
+   "t": 596.76,
+   "end": 599.4,
+   "text": "which the..."
+  },
+  {
+   "t": 599.4,
+   "end": 599.98,
+   "text": "The..."
+  },
+  {
+   "t": 600.0,
+   "end": 608.68,
+   "text": "history of buddhist thought and practice continues and we find that zogchen later zogchen"
+  },
+  {
+   "t": 608.68,
+   "end": 617.34,
+   "text": "early zogchen tradition is very much influenced by this notion we find the same basic idea also"
+  },
+  {
+   "t": 617.34,
+   "end": 625.06,
+   "text": "prevalent in the chan son and zen traditions where we get this whole"
+  },
+  {
+   "t": 626.94,
+   "end": 633.44,
+   "text": "the whole per course of meditation is reconceptualized it is no longer that like i am"
+  },
+  {
+   "t": 634.3,
+   "end": 643.24,
+   "text": "defiled and i'm gradually purifying my mind no i am already originally pure the nature of my mind"
+  },
+  {
+   "t": 643.24,
+   "end": 651.38,
+   "text": "is already awakened and i just have to recognize this and so there's all these different means"
+  },
+  {
+   "t": 651.38,
+   "end": 659.14,
+   "text": "in the tibetan tradition zogchen tradition the pointing out instructions and then in the"
+  },
+  {
+   "t": 659.14,
+   "end": 668.58,
+   "text": "chinese chanted recent the huato or what is usually better known under the japanese name of koan"
+  },
+  {
+   "t": 671.12,
+   "end": 672.42,
+   "text": "cryptic saying"
+  },
+  {
+   "t": 674.28,
+   "end": 676.86,
+   "text": "that one meditates on"
+  },
+  {
+   "t": 678.64,
+   "end": 687.4,
+   "text": "and because the there's no intellectual solution to the problem posed at one point the mind just gives"
+  },
+  {
+   "t": 687.4,
+   "end": 696.68,
+   "text": "up trying to rationalize and breaks through to the experience of this of the nature of the mind"
+  },
+  {
+   "t": 696.68,
+   "end": 703.26,
+   "text": "and we also have a strand of this teaching in the thai forest tradition"
+  },
+  {
+   "t": 705.22,
+   "end": 715.66,
+   "text": "so for me this discovery how this whole trajectory seems to have developed was very important"
+  },
+  {
+   "t": 715.66,
+   "end": 722.92,
+   "text": "because it made me understand and put into place this whole development"
+  },
+  {
+   "t": 722.92,
+   "end": 733.4,
+   "text": "and saying there's much and i think i have also stated that in my article i want to be very clear that i'm"
+  },
+  {
+   "t": 733.4,
+   "end": 742.6,
+   "text": "certainly not in any way intending to debunk all these practice traditions i have myself had the great"
+  },
+  {
+   "t": 742.6,
+   "end": 748.44,
+   "text": "fortune to receive these pointing out instructions from turku ogyan rinpoche"
+  },
+  {
+   "t": 749.44,
+   "end": 757.18,
+   "text": "and it has profoundly impacted my own meditation practice so i'm not in any way"
+  },
+  {
+   "t": 759.48,
+   "end": 764.06,
+   "text": "intending to be critical on the actual meditation practice"
+  },
+  {
+   "t": 764.06,
+   "end": 770.2,
+   "text": "what i'm just trying to point out is that a tendency to"
+  },
+  {
+   "t": 770.2,
+   "end": 775.3,
+   "text": "reification of the mind that sometimes comes with these practice lineages"
+  },
+  {
+   "t": 775.3,
+   "end": 784.72,
+   "text": "a tendency to assume that this is a very powerful practice of directing attention"
+  },
+  {
+   "t": 784.72,
+   "end": 793.56,
+   "text": "to to the knowing aspect the receptive awareness that this is something permanent"
+  },
+  {
+   "t": 793.56,
+   "end": 798.52,
+   "text": "and that this is something intrinsically pure this tendency"
+  },
+  {
+   "t": 800.52,
+   "end": 803.46,
+   "text": "is what i would put into question"
+  },
+  {
+   "t": 804.92,
+   "end": 807.76,
+   "text": "at least from an early buddhist viewpoint"
+  },
+  {
+   "t": 809.7,
+   "end": 813.62,
+   "text": "so anyway this is just to share"
+  },
+  {
+   "t": 813.62,
+   "end": 817.86,
+   "text": "how much i myself benefit from these"
+  },
+  {
+   "t": 817.86,
+   "end": 821.6,
+   "text": "these lectures because i don't think without"
+  },
+  {
+   "t": 821.6,
+   "end": 829.9,
+   "text": "the preparatory work done for sermon seven and then the encouragement by benoved dammadina to follow this up"
+  },
+  {
+   "t": 830.48,
+   "end": 838.04,
+   "text": "i would have made a finding that i for me was a very significant finding"
+  },
+  {
+   "t": 840.96,
+   "end": 846.08,
+   "text": "so enough now of preliminaries and let us get into sermon 12"
+  },
+  {
+   "t": 866.14,
+   "end": 873.58,
+   "text": "this is peaceful this is excellent namely the stilling of all preparations"
+  },
+  {
+   "t": 873.58,
+   "end": 881.4,
+   "text": "the relinquishment of all assets the destruction of craving detachment cessation extinction"
+  },
+  {
+   "t": 882.86,
+   "end": 889.2,
+   "text": "with the permission of the most venerable great preceptor and the assembly of the venerable meditative monks"
+  },
+  {
+   "t": 890.3,
+   "end": 894.84,
+   "text": "this is the 12th sermon in the series of sermons on nibbana"
+  },
+  {
+   "t": 895.7,
+   "end": 903.22,
+   "text": "at the beginning of our last sermon we brought up the two terms papancha and nippapancha"
+  },
+  {
+   "t": 904.12,
+   "end": 912.0,
+   "text": "which help us rediscover quite a deep dimension in buddhist philosophy hidden under the sense of time"
+  },
+  {
+   "t": 913.08,
+   "end": 917.96,
+   "text": "in our attempt to clarify the meaning of these two terms"
+  },
+  {
+   "t": 918.68,
+   "end": 922.26,
+   "text": "initially with the help of the madhupindika sutta"
+  },
+  {
+   "t": 923.16,
+   "end": 926.88,
+   "text": "what we could determine suffice the fact that papancha"
+  },
+  {
+   "t": 926.88,
+   "end": 930.7,
+   "text": "signifies a certain gross state in sense perception"
+  },
+  {
+   "t": 932.28,
+   "end": 937.32,
+   "text": "though in ordinary linguistic usage papancha meant elaboration"
+  },
+  {
+   "t": 938.6,
+   "end": 941.06,
+   "text": "circumlocution and verbosity"
+  },
+  {
+   "t": 942.12,
+   "end": 944.66,
+   "text": "the madhupindika sutta has shown us"
+  },
+  {
+   "t": 944.66,
+   "end": 950.0,
+   "text": "that in the context of sensory perception it has some special significance"
+  },
+  {
+   "t": 951.22,
+   "end": 955.8,
+   "text": "he portrays how a person who directed sense perception"
+  },
+  {
+   "t": 956.66,
+   "end": 965.12,
+   "text": "is overwhelmed by papancha sannyasankha with regard to sense objects relating to the three periods of time"
+  },
+  {
+   "t": 965.84,
+   "end": 974.6,
+   "text": "past present and future as a result of his indulging in papancha based on reasoning about percepts"
+  },
+  {
+   "t": 977.52,
+   "end": 978.9,
+   "text": "all this goes to show"
+  },
+  {
+   "t": 979.78,
+   "end": 983.5,
+   "text": "that papancha has connotations of some kind of delusion"
+  },
+  {
+   "t": 984.18,
+   "end": 990.92,
+   "text": "obsession and confusion arising in a man's mind due to sense perception"
+  },
+  {
+   "t": 990.92,
+   "end": 1000.08,
+   "text": "in explaining the meaning of this term commentators very often make use of words like pamatta"
+  },
+  {
+   "t": 1001.24,
+   "end": 1004.4,
+   "text": "excessively intoxicated indolent"
+  },
+  {
+   "t": 1005.64,
+   "end": 1011.16,
+   "text": "pamada heedlessness and madhana intoxication"
+  },
+  {
+   "t": 1020.86,
+   "end": 1028.52,
+   "text": "papancha in what sense in the sense that it leads one to a state on to a state of intoxication and indolence"
+  },
+  {
+   "t": 1029.56,
+   "end": 1032.76,
+   "text": "sometimes it is commented on as follows"
+  },
+  {
+   "t": 1032.76,
+   "end": 1040.68,
+   "text": "they are subject to papancha"
+  },
+  {
+   "t": 1041.24,
+   "end": 1046.16,
+   "text": "that is they become more or less inebriated or indolent"
+  },
+  {
+   "t": 1046.16,
+   "end": 1052.7,
+   "text": "or else it is explained as madhana kāra santi to achilles papancha"
+  },
+  {
+   "t": 1053.54,
+   "end": 1058.72,
+   "text": "papancha of a defiling nature which is of an inebriating character"
+  },
+  {
+   "t": 1060.4,
+   "end": 1065.64,
+   "text": "on the face of it papancha looks like a term similar in sense to pamada"
+  },
+  {
+   "t": 1066.16,
+   "end": 1067.68,
+   "text": "indolence heedlessness"
+  },
+  {
+   "t": 1069.42,
+   "end": 1073.12,
+   "text": "But there is a subtle difference in meaning between them."
+  },
+  {
+   "t": 1073.98,
+   "end": 1081.52,
+   "text": "Pamada, even etymologically, conveys the basic idea of excessive intoxication."
+  },
+  {
+   "t": 1082.66,
+   "end": 1088.2,
+   "text": "It has a nuance of inactivity or inefficiency due to intoxication."
+  },
+  {
+   "t": 1088.9,
+   "end": 1094.58,
+   "text": "The outcome of such a state of affairs is either negligence or heedlessness."
+  },
+  {
+   "t": 1095.96,
+   "end": 1109.88,
+   "text": "But as we have already pointed out, Papancha has an etymological background suggestive of expansion, elaboration, verbosity and circumlocution."
+  },
+  {
+   "t": 1111.38,
+   "end": 1116.58,
+   "text": "Therefore, it has no connotations of inactivity and inefficiency."
+  },
+  {
+   "t": 1117.82,
+   "end": 1126.84,
+   "text": "On the other hand, it seems to imply an inability to reach the goal due to a deviation from the correct path."
+  },
+  {
+   "t": 1128.86,
+   "end": 1135.86,
+   "text": "Let us try to understand the distinction in meaning between Pamada and Papancha with the help of an illustration."
+  },
+  {
+   "t": 1136.66,
+   "end": 1137.36,
+   "text": "Comment."
+  },
+  {
+   "t": 1137.36,
+   "end": 1154.58,
+   "text": "The illustration the venerable is given right now is based on, needs to be understood from the fact that they were staying at a place in Sri Lanka, the Mitrigala, which is between Kendi and Colombo."
+  },
+  {
+   "t": 1156.1,
+   "end": 1164.98,
+   "text": "So basically from Mitrigala, looking at it from Mitrigala, Colombo is in one direction and Kendi is in the opposite direction."
+  },
+  {
+   "t": 1166.44,
+   "end": 1167.5,
+   "text": "End of comment."
+  },
+  {
+   "t": 1168.64,
+   "end": 1172.92,
+   "text": "Suppose we ask someone to go on an urgent errand to Colombo."
+  },
+  {
+   "t": 1173.66,
+   "end": 1182.2,
+   "text": "If instead of going to Colombo, he goes to the nearest tavern and gets drunk and sleeps there, that is a case of Pamada."
+  },
+  {
+   "t": 1183.26,
+   "end": 1194.66,
+   "text": "If, on the other hand, he takes to a long labyrinthine road, avoiding the shortest cut to Colombo, and finally reaches Kendi instead of Colombo, that is Papancha."
+  },
+  {
+   "t": 1194.66,
+   "end": 1199.98,
+   "text": "If, on the other hand, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long labyrinthine road, he takes a long"
+  },
+  {
+   "t": 1201.54,
+   "end": 1207.18,
+   "text": "There is such a subtle difference in the nuances associated with these two terms."
+  },
+  {
+   "t": 1209.36,
+   "end": 1218.6,
+   "text": "Incidentally, there is a couplet among the sixes of the Anguttara Nikaya, which sounds like a distant echo of the illustration we have already given."
+  },
+  {
+   "t": 1239.78,
+   "end": 1248.42,
+   "text": "The fool who indulges in Papancha, being excessively fond of it, has missed the way to Nibbana."
+  },
+  {
+   "t": 1248.6,
+   "end": 1251.54,
+   "text": "The incomparable freedom from bondage."
+  },
+  {
+   "t": 1252.56,
+   "end": 1264.24,
+   "text": "He who, having given up Papancha, delights in the path to Nibbapancha, is well on the way to Nibbana, the incomparable freedom from bondage."
+  },
+  {
+   "t": 1265.86,
+   "end": 1268.18,
+   "text": "Comment a translation by Bhikkhu Bodhi"
+  },
+  {
+   "t": 1292.52,
+   "end": 1295.58,
+   "text": "End of comment."
+  },
+  {
+   "t": 1299.24,
+   "end": 1308.78,
+   "text": "In this way we can understand the difference between the two words Papancha and Pamada in respect of the nuances associated with them."
+  },
+  {
+   "t": 1310.44,
+   "end": 1317.5,
+   "text": "Commentaries very often explain the term Papancha simply as a synonym of craving, conceit and views."
+  },
+  {
+   "t": 1323.22,
+   "end": 1327.84,
+   "text": "But this does not amount to a definition of Papancha as such."
+  },
+  {
+   "t": 1327.84,
+   "end": 1344.18,
+   "text": "It is true that these are instances of Papancha, for even in the Madhupindika Sutta, we come across the three expressions Abhinanditabhbam, Abhivaditabhbam and Adyositabhbam, suggestive of them."
+  },
+  {
+   "t": 1349.84,
+   "end": 1356.9,
+   "text": "Abhinanditabhbam means what is worth clinging on to."
+  },
+  {
+   "t": 1357.74,
+   "end": 1366.36,
+   "text": "These three expressions are very often used in the discourses to denote the three definements craving, conceit and views."
+  },
+  {
+   "t": 1367.4,
+   "end": 1382.46,
+   "text": "That is to say, delighting in, by way of craving with a thought, this is mine, asserting, by way of conceit with a thought, this am I, and clinging on to, with a dogmatic view, this is my soul."
+  },
+  {
+   "t": 1384.78,
+   "end": 1393.74,
+   "text": "Therefore, the commentarial exegesis on Papancha in terms of craving, conceit and views is to a great extent justifiable."
+  },
+  {
+   "t": 1394.72,
+   "end": 1408.48,
+   "text": "However, what is particularly significant about the term Papancha is that it conveys the sense of proliferation and complexity of thought on the lines of those three basic tendencies."
+  },
+  {
+   "t": 1408.48,
+   "end": 1415.5,
+   "text": "That is why the person concerned is said to be overwhelmed by Papancha-sanya-sankhā."
+  },
+  {
+   "t": 1416.9,
+   "end": 1422.4,
+   "text": "Here we need to clarify for ourselves the meaning of the word sankhā."
+  },
+  {
+   "t": 1423.32,
+   "end": 1430.88,
+   "text": "According to the commentary, it means Papancha-sanya-sankhā-ti-etta-sankhā-ti-kottāsum."
+  },
+  {
+   "t": 1431.86,
+   "end": 1435.26,
+   "text": "Papancha-sanya-sankhā, here in sankhā, means parts."
+  },
+  {
+   "t": 1436.42,
+   "end": 1446.0,
+   "text": "In that case, Papancha-sanya-sankhā could be rendered as parts of Papancha, which says nothing significant about sankhā itself."
+  },
+  {
+   "t": 1446.92,
+   "end": 1457.98,
+   "text": "On the other hand, if one carefully examines the contexts in which the term Papancha-sanya-sankhā and Papancha-sankhā are used in the discourses,"
+  },
+  {
+   "t": 1458.24,
+   "end": 1463.58,
+   "text": "one gets the impression that sankhā means something deeper than part or portion."
+  },
+  {
+   "t": 1464.9,
+   "end": 1469.62,
+   "text": "Sankhā, Samanya-sankhā and Papancha-sankhā are more or less synonymous terms."
+  },
+  {
+   "t": 1470.32,
+   "end": 1475.24,
+   "text": "Out of them, Papancha-sankhā is fairly well known as a term for designation."
+  },
+  {
+   "t": 1476.8,
+   "end": 1487.06,
+   "text": "Sankhā and Samanya are associated in sense with Papancha-sankhā means reckoning, and Samanya is appellation."
+  },
+  {
+   "t": 1487.06,
+   "end": 1492.32,
+   "text": "These three terms are often used in connection with worldly usage."
+  },
+  {
+   "t": 1493.82,
+   "end": 1504.04,
+   "text": "We come across quite a significant reference relevant to this question of Papancha in the Niruddhi-pata-sutta of the Khanda-samyutta in the Samyutta-nikāya."
+  },
+  {
+   "t": 1505.18,
+   "end": 1506.38,
+   "text": "It runs,"
+  },
+  {
+   "t": 1506.38,
+   "end": 1524.16,
+   "text": "Tayo me bhikāve niruddhi-pata, adivacana-pata, panyattipata, asaṅkīnnā, asaṅkīnnā-pubbha, nasaṅkīyanti, nasaṅkīyissanti, appatikutta, samanehi, brahmanehi, vinyuhi."
+  },
+  {
+   "t": 1524.16,
+   "end": 1542.54,
+   "text": "Katamit tayo, yam bhikāve rūpaṁ atitang niruddhaṁ viparinataṁ, ahosīti tasaṅkā, ahosīti tasaṅkā, ahosīti tasaṅkā, ahosīti tasaṅkā, ahosīti tasaṅkā, panyattī, nasaṅkā atitī, nasaṅkā bhavissatī."
+  },
+  {
+   "t": 1544.86,
+   "end": 1562.22,
+   "text": "Monks, there are these three pathways of linguistic usage, of synonyms and of designation, that are not mixed up, have never been mixed up, that are not doubted and will not be doubted, and are undespised by intelligent recluses and brahmins."
+  },
+  {
+   "t": 1562.22,
+   "end": 1564.0,
+   "text": "What are the three?"
+  },
+  {
+   "t": 1564.74,
+   "end": 1582.0,
+   "text": "Whatever form, monks, that is, past, ceased, transformed, it was, is the reckoning for it, it was, is its appellation, it was, is its designation, it is not reckoned as it is, it is not reckoned as it will be."
+  },
+  {
+   "t": 1582.84,
+   "end": 1585.48,
+   "text": "Comment a translation by Bhikkhu Bodhi."
+  },
+  {
+   "t": 1585.48,
+   "end": 1605.08,
+   "text": "Because there are these three pathways of language, pathways of designation, pathways of description, that are unmixed, that were never mixed, that are not being mixed, that will not be mixed, that are not rejected by wise ascetics and brahmins."
+  },
+  {
+   "t": 1605.52,
+   "end": 1605.94,
+   "text": "What three?"
+  },
+  {
+   "t": 1606.46,
+   "end": 1615.2,
+   "text": "Whatever form, bhikkhus, has passed, ceased, changed, the term, label and description was applied to it, not the term is."
+  },
+  {
+   "t": 1615.48,
+   "end": 1616.6,
+   "text": "Or the term will be."
+  },
+  {
+   "t": 1616.96,
+   "end": 1617.9,
+   "text": "End of comment."
+  },
+  {
+   "t": 1627.56,
+   "end": 1636.48,
+   "text": "The burden of this discourse, as it proceeds in this way, is the maxim that three periods of time should never be mixed up or confounded."
+  },
+  {
+   "t": 1636.48,
+   "end": 1643.26,
+   "text": "For instance, with regard to that form that is past, a verb in the past tense is used."
+  },
+  {
+   "t": 1644.02,
+   "end": 1653.6,
+   "text": "One must not imagine what is past to be existing as something present, nor should one imagine whatever belongs to the future as already existing in the present."
+  },
+  {
+   "t": 1655.32,
+   "end": 1659.6,
+   "text": "Whatever has been, whatever is, whatever is present."
+  },
+  {
+   "t": 1660.0,
+   "end": 1669.66,
+   "text": "It is a common mistake to conceive of something that is yet to come as something already present, and to imagine whatever is past also as present."
+  },
+  {
+   "t": 1670.46,
+   "end": 1673.0,
+   "text": "This is the confusion the world is in."
+  },
+  {
+   "t": 1673.28,
+   "end": 1677.58,
+   "text": "That is why those recluses and brahmins who are wise do not mix them up."
+  },
+  {
+   "t": 1679.48,
+   "end": 1690.08,
+   "text": "Just as the above-quadded paragraph speaks of whatever is past, so the discourse continues to make similar statements with regard to whatever is present or future."
+  },
+  {
+   "t": 1691.04,
+   "end": 1694.0,
+   "text": "It touches upon all the five aggregates, for instance."
+  },
+  {
+   "t": 1694.72,
+   "end": 1700.04,
+   "text": "Whatever form that is present is recognized as it is, and not as it was or it will be."
+  },
+  {
+   "t": 1701.12,
+   "end": 1708.14,
+   "text": "Similarly, whatever form that is yet to come is recognized as it will be, and not as it was or it is."
+  },
+  {
+   "t": 1708.14,
+   "end": 1718.9,
+   "text": "This is how the Niruddhantipatara Sutta lays down the basic principle of not confounding the linguistic usages pertaining to the three periods of time."
+  },
+  {
+   "t": 1720.94,
+   "end": 1728.06,
+   "text": "Komanya, I just wanted to underline the importance of the point made by the Venerable here,"
+  },
+  {
+   "t": 1728.06,
+   "end": 1742.16,
+   "text": "and also note that this need of clearly distinguishing the three periods of time has not always remained as clear in subsequent traditions."
+  },
+  {
+   "t": 1742.16,
+   "end": 1751.82,
+   "text": "And we get, particularly in the Sarvastivada tradition, quite an influential Buddhist tradition,"
+  },
+  {
+   "t": 1751.82,
+   "end": 1761.98,
+   "text": "the idea that the past is still in some form existent now, and the seeds of the future are also existent now."
+  },
+  {
+   "t": 1762.12,
+   "end": 1764.82,
+   "text": "This Sarvang Asti, everything exists."
+  },
+  {
+   "t": 1766.12,
+   "end": 1776.7,
+   "text": "And so it's perhaps understandable, but it's good to keep in mind that in the early Buddhist perspective, this is not the case."
+  },
+  {
+   "t": 1778.6,
+   "end": 1789.92,
+   "text": "And this also connects to what I said at the outset of this lecture in relation to my research on the luminous mind."
+  },
+  {
+   "t": 1789.92,
+   "end": 1799.98,
+   "text": "And there is no need to think that in order for the mind to have the potential of..."
+  },
+  {
+   "t": 1800.0,
+   "end": 1802.62,
+   "text": "reaching awakening in the future"
+  },
+  {
+   "t": 1802.62,
+   "end": 1805.74,
+   "text": "it already needs to have some form of"
+  },
+  {
+   "t": 1805.74,
+   "end": 1808.78,
+   "text": "awakening at the present. This is not"
+  },
+  {
+   "t": 1808.78,
+   "end": 1809.26,
+   "text": "the case."
+  },
+  {
+   "t": 1812.38,
+   "end": 1813.48,
+   "text": "End of comment."
+  },
+  {
+   "t": 1815.88,
+   "end": 1818.52,
+   "text": "Throughout this discourse the term"
+  },
+  {
+   "t": 1818.52,
+   "end": 1821.4,
+   "text": "Sankha is used in the sense of reckoning."
+  },
+  {
+   "t": 1822.12,
+   "end": 1825.04,
+   "text": "In fact the three terms Sankha, Samanya"
+  },
+  {
+   "t": 1825.04,
+   "end": 1828.08,
+   "text": "and Panyati are used somewhat synonymously"
+  },
+  {
+   "t": 1828.08,
+   "end": 1830.6,
+   "text": "in the same way as Nyarutti, Adivacana"
+  },
+  {
+   "t": 1830.6,
+   "end": 1833.92,
+   "text": "and Panyati. All these are in sense"
+  },
+  {
+   "t": 1833.92,
+   "end": 1837.26,
+   "text": "akin to each other insofar as they"
+  },
+  {
+   "t": 1837.26,
+   "end": 1839.74,
+   "text": "represent the problem of worldly usage."
+  },
+  {
+   "t": 1843.4,
+   "end": 1845.82,
+   "text": "This makes it clear that the intriguing"
+  },
+  {
+   "t": 1845.82,
+   "end": 1848.86,
+   "text": "term Papancha Sanya Sankha has a relevance"
+  },
+  {
+   "t": 1848.86,
+   "end": 1851.4,
+   "text": "to the question of language and modes of"
+  },
+  {
+   "t": 1851.4,
+   "end": 1855.1,
+   "text": "linguistic usages. The term could thus be"
+  },
+  {
+   "t": 1855.1,
+   "end": 1857.86,
+   "text": "rendered as reckonings born of prolific"
+  },
+  {
+   "t": 1857.86,
+   "end": 1858.46,
+   "text": "perceptions."
+  },
+  {
+   "t": 1860.56,
+   "end": 1862.88,
+   "text": "If we are to go deeper into the"
+  },
+  {
+   "t": 1862.88,
+   "end": 1865.3,
+   "text": "significance of the term Sankha, we may"
+  },
+  {
+   "t": 1865.3,
+   "end": 1867.82,
+   "text": "say that its basic sense in linguistic"
+  },
+  {
+   "t": 1867.82,
+   "end": 1871.3,
+   "text": "usage is connected with numerals, since"
+  },
+  {
+   "t": 1871.3,
+   "end": 1874.32,
+   "text": "it means reckoning. As a matter of fact"
+  },
+  {
+   "t": 1874.32,
+   "end": 1876.7,
+   "text": "numerals are more primitive than letters"
+  },
+  {
+   "t": 1876.7,
+   "end": 1878.78,
+   "text": "in the language. Comment?"
+  },
+  {
+   "t": 1879.24,
+   "end": 1882.56,
+   "text": "Yeah, I would like to relate this to the"
+  },
+  {
+   "t": 1882.56,
+   "end": 1885.66,
+   "text": "finding by Venomala Damadina, which she has"
+  },
+  {
+   "t": 1885.66,
+   "end": 1891.04,
+   "text": "published in her reply to Evans, that the"
+  },
+  {
+   "t": 1891.04,
+   "end": 1895.56,
+   "text": "basic etymology of Papancha is based on"
+  },
+  {
+   "t": 1895.56,
+   "end": 1899.4,
+   "text": "Pancha 5. And I find this very intriguing,"
+  },
+  {
+   "t": 1899.74,
+   "end": 1904.38,
+   "text": "particularly if we relate it to the beautiful"
+  },
+  {
+   "t": 1904.38,
+   "end": 1908.2,
+   "text": "simile given by Venomala Nyananda and a little bit"
+  },
+  {
+   "t": 1909.4,
+   "end": 1914.08,
+   "text": "expanded by myself of Nama of name as five. We had"
+  },
+  {
+   "t": 1914.08,
+   "end": 1918.62,
+   "text": "this five fingers of the hand, feeling,"
+  },
+  {
+   "t": 1918.9,
+   "end": 1922.44,
+   "text": "perception, volition, contact and attention."
+  },
+  {
+   "t": 1924.02,
+   "end": 1930.34,
+   "text": "And it seems that the basic idea of Papancha is"
+  },
+  {
+   "t": 1930.34,
+   "end": 1933.7,
+   "text": "really related to the five fingers of the hand."
+  },
+  {
+   "t": 1933.94,
+   "end": 1940.28,
+   "text": "Again, this idea in an oral tradition, in an oral"
+  },
+  {
+   "t": 1940.28,
+   "end": 1942.84,
+   "text": "living situation, if we want to make something"
+  },
+  {
+   "t": 1942.84,
+   "end": 1944.86,
+   "text": "very clear, we would really like count it down"
+  },
+  {
+   "t": 1944.86,
+   "end": 1947.4,
+   "text": "on our hands. I said to you this, and I said this, and"
+  },
+  {
+   "t": 1947.4,
+   "end": 1951.06,
+   "text": "this, and this, and this. And so we get this, again,"
+  },
+  {
+   "t": 1951.2,
+   "end": 1955.78,
+   "text": "this image, this basic image of the five. And when"
+  },
+  {
+   "t": 1955.78,
+   "end": 1960.92,
+   "text": "the five fingers go literally out of hand, that we"
+  },
+  {
+   "t": 1960.92,
+   "end": 1965.22,
+   "text": "get Papancha, the proliferation."
+  },
+  {
+   "t": 1969.3,
+   "end": 1974.56,
+   "text": "So this, from a meditation and practice related"
+  },
+  {
+   "t": 1974.56,
+   "end": 1979.64,
+   "text": "perspective, this gives further power to the idea of"
+  },
+  {
+   "t": 1979.64,
+   "end": 1982.98,
+   "text": "Papancha in its relation to Sankha and also to Nama,"
+  },
+  {
+   "t": 1983.12,
+   "end": 1991.6,
+   "text": "the five components of name that which performs the"
+  },
+  {
+   "t": 1991.6,
+   "end": 1995.1,
+   "text": "recognition and the naming of anything we experience."
+  },
+  {
+   "t": 1997.66,
+   "end": 1998.46,
+   "text": "Papancha in Papancha in Papancha in Papancha."
+  },
+  {
+   "t": 1998.46,
+   "end": 2003.34,
+   "text": "And before continuing with Venerable's presentation,"
+  },
+  {
+   "t": 2004.24,
+   "end": 2007.28,
+   "text": "I just wanted to mention another thing also."
+  },
+  {
+   "t": 2007.54,
+   "end": 2011.5,
+   "text": "And this is, he will be speaking about the sign,"
+  },
+  {
+   "t": 2011.92,
+   "end": 2014.02,
+   "text": "the limiter, and its relation to permanence."
+  },
+  {
+   "t": 2015.04,
+   "end": 2021.74,
+   "text": "And I just wanted to say that the idea here is not that"
+  },
+  {
+   "t": 2021.74,
+   "end": 2028.26,
+   "text": "whenever perception happens, there is a nuance of permanence in"
+  },
+  {
+   "t": 2028.26,
+   "end": 2031.68,
+   "text": "there. Because, of course, Arahams and Buddhas also have"
+  },
+  {
+   "t": 2031.68,
+   "end": 2037.12,
+   "text": "perception, Sanya, and they operate with signs, but they do not"
+  },
+  {
+   "t": 2037.12,
+   "end": 2038.42,
+   "text": "perceive things as permanent."
+  },
+  {
+   "t": 2038.42,
+   "end": 2044.9,
+   "text": "So I think the point is only that there is a basic tendency in the"
+  },
+  {
+   "t": 2044.9,
+   "end": 2052.82,
+   "text": "unawakened mind for the basic operational mechanics of perception by way of"
+  },
+  {
+   "t": 2052.82,
+   "end": 2057.74,
+   "text": "grasping an emitter to have an underlying nuance of permanency."
+  },
+  {
+   "t": 2057.74,
+   "end": 2066.2,
+   "text": "And this is simply because for us to recognize something, the mind will focus on what is"
+  },
+  {
+   "t": 2067.68,
+   "end": 2070.12,
+   "text": "relatively comparatively permanent."
+  },
+  {
+   "t": 2070.12,
+   "end": 2079.4,
+   "text": "And for me to recognize another person, I will focus not on the clothes this person is wearing or"
+  },
+  {
+   "t": 2079.4,
+   "end": 2087.48,
+   "text": "whether they have a beard or not or what kind of haircut they have, because that changes"
+  },
+  {
+   "t": 2087.48,
+   "end": 2094.56,
+   "text": "easily. And if I focus on the beard, then, for example, and this person shaves off the beard,"
+  },
+  {
+   "t": 2094.56,
+   "end": 2101.42,
+   "text": "then I won't be able to recognize him. Or if it is a woman, if she has a particular hairstyle and she"
+  },
+  {
+   "t": 2101.42,
+   "end": 2108.06,
+   "text": "goes to change it, then I won't recognize her. So the tendency of perception is to focus on those"
+  },
+  {
+   "t": 2109.22,
+   "end": 2115.08,
+   "text": "features, those visible parts, in particular, when we're talking about recognizing something"
+  },
+  {
+   "t": 2115.08,
+   "end": 2119.62,
+   "text": "that do not so easily change. So that helped me to recognize someone."
+  },
+  {
+   "t": 2122.42,
+   "end": 2123.6,
+   "text": "End of comment."
+  },
+  {
+   "t": 2125.38,
+   "end": 2129.42,
+   "text": "To perceive is to grasp a sign of permanence in something."
+  },
+  {
+   "t": 2130.52,
+   "end": 2133.7,
+   "text": "Perception has the characteristic of grasping a sign."
+  },
+  {
+   "t": 2134.18,
+   "end": 2137.26,
+   "text": "It is with the help of science that one recognizes."
+  },
+  {
+   "t": 2138.3,
+   "end": 2144.7,
+   "text": "Perceptions of forms, perception of sounds, perception of smells, perception of tastes, etc."
+  },
+  {
+   "t": 2145.14,
+   "end": 2147.9,
+   "text": "are so many ways of grasping science."
+  },
+  {
+   "t": 2148.72,
+   "end": 2155.62,
+   "text": "Just as a party going through a forest would blaze a trail with an axe in order to find their way back"
+  },
+  {
+   "t": 2155.62,
+   "end": 2162.06,
+   "text": "with the help of notches on the trees, so does perception catch a sign in order to be able to recognize."
+  },
+  {
+   "t": 2165.36,
+   "end": 2169.92,
+   "text": "This perception is like the groping of a blind man fumbling in the dark."
+  },
+  {
+   "t": 2169.92,
+   "end": 2176.46,
+   "text": "There is a tendency in the mind to grasp a sign after whatever is felt."
+  },
+  {
+   "t": 2177.16,
+   "end": 2182.32,
+   "text": "So it gives rise to perceptions of forms, perception of sounds, etc."
+  },
+  {
+   "t": 2183.28,
+   "end": 2187.58,
+   "text": "A sign necessarily involves the notion of permanence."
+  },
+  {
+   "t": 2187.86,
+   "end": 2191.46,
+   "text": "That is to say, a sign stands for permanence."
+  },
+  {
+   "t": 2191.46,
+   "end": 2196.78,
+   "text": "A sign has to remain unchanged until one returns to it to recognize it."
+  },
+  {
+   "t": 2197.16,
+   "end": 2202.76,
+   "text": "That is also the secret behind the mirage nature of perception as a whole."
+  },
+  {
+   "t": 2203.64,
+   "end": 2209.86,
+   "text": "As a matter of fact, the word sanya, used to denote perception as such,"
+  },
+  {
+   "t": 2210.26,
+   "end": 2215.84,
+   "text": "primarily means the sign, symbol or mark with which one recognizes."
+  },
+  {
+   "t": 2216.64,
+   "end": 2219.38,
+   "text": "But recognition alone is not enough."
+  },
+  {
+   "t": 2220.44,
+   "end": 2226.06,
+   "text": "What is recognized has to be made known to the world, to the society at large."
+  },
+  {
+   "t": 2226.56,
+   "end": 2231.22,
+   "text": "That is why sanya or perception is followed by sankha or reckoning."
+  },
+  {
+   "t": 2233.08,
+   "end": 2240.2,
+   "text": "The relationship between sankha, samanya and paññati in this connection could also be explained."
+  },
+  {
+   "t": 2241.22,
+   "end": 2249.16,
+   "text": "Sankha as reckoning or counting totals up or adds up into groups of, say, five or six."
+  },
+  {
+   "t": 2249.76,
+   "end": 2255.52,
+   "text": "It facilitates our work, particularly in common or communal activities."
+  },
+  {
+   "t": 2256.24,
+   "end": 2260.4,
+   "text": "So the most primitive symbol in a language is the numeral."
+  },
+  {
+   "t": 2263.88,
+   "end": 2269.5,
+   "text": "Samanya or appellation is a common agreement as to how something should be known."
+  },
+  {
+   "t": 2270.6,
+   "end": 2276.54,
+   "text": "If everyone had its own way of making known, exchange of ideas would be impossible."
+  },
+  {
+   "t": 2278.76,
+   "end": 2284.78,
+   "text": "Paññati or designation determines the pattern of whatever is commonly agreed upon."
+  },
+  {
+   "t": 2284.78,
+   "end": 2292.52,
+   "text": "This way we can understand the affinity of meaning between the terms sankha, samanya and paññati."
+  },
+  {
+   "t": 2293.7,
+   "end": 2297.8,
+   "text": "Among them, sankha is the most primitive form of reckoning."
+  },
+  {
+   "t": 2298.3,
+   "end": 2303.24,
+   "text": "It does not simply mean reckoning or adding up in terms of numerals."
+  },
+  {
+   "t": 2303.24,
+   "end": 2312.82,
+   "text": "It is characteristic of language too, as we may infer from the occurrence of the expression sankhaṁ gacchati in many discourses."
+  },
+  {
+   "t": 2314.48,
+   "end": 2319.04,
+   "text": "Therefore, there the reckoning meant is a particular linguistic usage."
+  },
+  {
+   "t": 2319.04,
+   "end": 2326.96,
+   "text": "We come across a good illustration of such linguistic usage in the Maha-Hattipadukama-sutta,"
+  },
+  {
+   "t": 2326.96,
+   "end": 2330.72,
+   "text": "Vavinuva Sariputta is addressing his fellow monks."
+  },
+  {
+   "t": 2330.72,
+   "end": 2332.44,
+   "text": "Sae-ajat好吧"
+  },
+  {
+   "t": 2332.44,
+   "end": 2340.14,
+   "text": "Saiyathāpi āvūsukatthansa-paticca, valincha-paticca, tinnancha-paticca, matikkancha-paticca,"
+  },
+  {
+   "t": 2340.4,
+   "end": 2344.7,
+   "text": "ākāśo-parivāritho, āgāranthveva-saṁgankaṁ gacchati."
+  },
+  {
+   "t": 2360.92,
+   "end": 2368.16,
+   "text": "Friends, just as when space is enclosed by timber and creepers, grass and clay,"
+  },
+  {
+   "t": 2368.42,
+   "end": 2370.96,
+   "text": "it comes to be reckoned as a house."
+  },
+  {
+   "t": 2370.96,
+   "end": 2378.68,
+   "text": "Even so, when space is enclosed by bones and sinews, flesh and skin, it comes to be reckoned"
+  },
+  {
+   "t": 2378.68,
+   "end": 2379.92,
+   "text": "as a material form."
+  },
+  {
+   "t": 2380.38,
+   "end": 2380.86,
+   "text": "Comment?"
+  },
+  {
+   "t": 2387.16,
+   "end": 2389.1,
+   "text": "A translation by Nyanamoli."
+  },
+  {
+   "t": 2390.54,
+   "end": 2397.96,
+   "text": "Friends, just as when a space is enclosed by timber and creepers, grass and clay, it comes"
+  },
+  {
+   "t": 2397.96,
+   "end": 2399.4,
+   "text": "to be termed just house."
+  },
+  {
+   "t": 2400.0,
+   "end": 2405.0,
+   "text": "So too, when a space is enclosed by bones and sinures, flesh and skin,"
+  },
+  {
+   "t": 2405.22,
+   "end": 2407.54,
+   "text": "it comes to be termed just material form."
+  },
+  {
+   "t": 2410.84,
+   "end": 2415.52,
+   "text": "And I have put in the Chinese parallel from the Madhyama Agamna,"
+  },
+  {
+   "t": 2415.66,
+   "end": 2417.4,
+   "text": "which is closely similar."
+  },
+  {
+   "t": 2418.8,
+   "end": 2419.92,
+   "text": "End of comment."
+  },
+  {
+   "t": 2420.94,
+   "end": 2426.38,
+   "text": "Here, the expression Sankang Gacchati stands for designation as a concept."
+  },
+  {
+   "t": 2427.02,
+   "end": 2429.84,
+   "text": "It is the way something comes to be known."
+  },
+  {
+   "t": 2430.96,
+   "end": 2435.12,
+   "text": "Let us go for another illustration from a sermon by the Buddha himself."
+  },
+  {
+   "t": 2435.76,
+   "end": 2441.58,
+   "text": "It is one that throws a flood of light on some deep aspects of Buddhist philosophy"
+  },
+  {
+   "t": 2441.58,
+   "end": 2444.1,
+   "text": "relating to language, grammar and logic."
+  },
+  {
+   "t": 2444.68,
+   "end": 2448.58,
+   "text": "It comes in the Pata Pata Sutta of the Diga Nikaya,"
+  },
+  {
+   "t": 2448.74,
+   "end": 2452.02,
+   "text": "where the Buddha is exhorting Chitta Hatti Sai Buddha."
+  },
+  {
+   "t": 2452.02,
+   "end": 2457.26,
+   "text": "Sayatapi Chitta Gava Khiaram Khiaram Ha Dadhi"
+  },
+  {
+   "t": 2457.92,
+   "end": 2459.86,
+   "text": "Dadimha Navanitam"
+  },
+  {
+   "t": 2459.86,
+   "end": 2462.2,
+   "text": "Navanitam Ha Sappi"
+  },
+  {
+   "t": 2462.2,
+   "end": 2464.2,
+   "text": "Sappimha Sappimandu"
+  },
+  {
+   "t": 2484.66,
+   "end": 2493.16,
+   "text": "Just Chitta's from a cow comes milk, and from milk curds, and from curds butter, and from butter ghee, and from ghee junket."
+  },
+  {
+   "t": 2493.16,
+   "end": 2498.94,
+   "text": "But when it is milk, it is not reckoned as curd, or butter, or ghee, or junket."
+  },
+  {
+   "t": 2499.2,
+   "end": 2501.08,
+   "text": "It is then simply reckoned as milk."
+  },
+  {
+   "t": 2501.64,
+   "end": 2502.12,
+   "text": "Comment."
+  },
+  {
+   "t": 2504.88,
+   "end": 2506.86,
+   "text": "Translation by Maurice Walsh."
+  },
+  {
+   "t": 2506.86,
+   "end": 2517.96,
+   "text": "In just the same way, Chitta, from the cow we get milk, from the milk curds, from the curds butter, from the butter ghee, and from the ghee cream of ghee."
+  },
+  {
+   "t": 2517.96,
+   "end": 2526.56,
+   "text": "And when there is milk, we don't speak of milk, and from the butter, we speak of milk, and of comfort."
+  },
+  {
+   "t": 2527.48,
+   "end": 2533.56,
+   "text": "We shall break up the relevant quotation into three parts, for facility of comment."
+  },
+  {
+   "t": 2534.4,
+   "end": 2538.1,
+   "text": "This is the first part, giving the introductory simile."
+  },
+  {
+   "t": 2539.04,
+   "end": 2544.24,
+   "text": "The simile itself looks simple enough, though it is suggestive of something deep."
+  },
+  {
+   "t": 2545.0,
+   "end": 2553.52,
+   "text": "The simile is in fact extended to each of the other stages of milk formation, namely curd, butter, ghee, and junket,"
+  },
+  {
+   "t": 2554.0,
+   "end": 2558.28,
+   "text": "pointing out that, in each case, it is not reckoned otherwise."
+  },
+  {
+   "t": 2559.7,
+   "end": 2562.76,
+   "text": "Now comes the corresponding doctrinal point."
+  },
+  {
+   "t": 2584.48,
+   "end": 2589.1,
+   "text": "Just so, Chitta, when the gross mode of personality is going on,"
+  },
+  {
+   "t": 2589.1,
+   "end": 2595.84,
+   "text": "it is not reckoned as the mental mode of personality, nor as the formless mode of personality."
+  },
+  {
+   "t": 2596.26,
+   "end": 2600.16,
+   "text": "It is then simply reckoned as the gross mode of personality."
+  },
+  {
+   "t": 2600.84,
+   "end": 2601.36,
+   "text": "Comment."
+  },
+  {
+   "t": 2601.68,
+   "end": 2603.3,
+   "text": "Translation by Maurice Walsh."
+  },
+  {
+   "t": 2604.02,
+   "end": 2611.12,
+   "text": "So, too, whenever the gross acquired self is present, we do not speak of the mind-made or formless acquired self."
+  },
+  {
+   "t": 2612.18,
+   "end": 2619.78,
+   "text": "And I have posted in the Chinese, which also has the milk simile, and draws a similar conclusion."
+  },
+  {
+   "t": 2620.2,
+   "end": 2626.66,
+   "text": "And we also have a parallel in Sanskrit fragments, edited by Meltzer, and that is also fairly similar."
+  },
+  {
+   "t": 2627.52,
+   "end": 2628.02,
+   "text": "End of count."
+  },
+  {
+   "t": 2629.96,
+   "end": 2637.92,
+   "text": "These three modes of personality correspond to the three planes of existence, the sensuous, the form, and the formless."
+  },
+  {
+   "t": 2638.46,
+   "end": 2649.2,
+   "text": "The first refers to the ordinary physical frame sustained by material food, kabali-kara-har-bhakko, enjoying the sense-players."
+  },
+  {
+   "t": 2649.88,
+   "end": 2663.08,
+   "text": "At the time a person is in this sensual field, possessing the gross mode of personality, one must not imagine that the neutral, the mental mode, or the formless mode, of personality is hidden in him."
+  },
+  {
+   "t": 2663.98,
+   "end": 2669.56,
+   "text": "This is the type of confusion the ascetics entrenched in the soul theory fell into."
+  },
+  {
+   "t": 2669.56,
+   "end": 2676.44,
+   "text": "They even conceived of self as fivefold, encased in concentric shells."
+  },
+  {
+   "t": 2677.32,
+   "end": 2690.2,
+   "text": "Whereas in the Taiti-Tiriya Upanishad, one comes across the Pancha-Kosha theory, the reference here is to three states of the self, as gross, mental, and formless modes of personality."
+  },
+  {
+   "t": 2691.1,
+   "end": 2706.16,
+   "text": "Out of the five selves known to Upanishadic philosophy, namely Annamaya, Pranamaya, Sanyamaya, Vinyanamaya, and Anandamaya, only three are mentioned here, in some form or other."
+  },
+  {
+   "t": 2706.16,
+   "end": 2719.78,
+   "text": "The gross mode of personality corresponds to Anandamaya, the mental mode of personality is equivalent to Sanyamaya, while the formless mode of personality stands for Vinyanamaya, Atman."
+  },
+  {
+   "t": 2722.0,
+   "end": 2727.7,
+   "text": "The correct perspective of understanding this distinction is provided by the milk simile."
+  },
+  {
+   "t": 2728.48,
+   "end": 2739.18,
+   "text": "Suppose someone gets a Jhana, and attains to a mental mode of personality, he should not imagine that the formless mode of personality is already latent in him."
+  },
+  {
+   "t": 2739.88,
+   "end": 2744.92,
+   "text": "Nor should he think that the former gross mode of personality is still lingering in him."
+  },
+  {
+   "t": 2745.32,
+   "end": 2749.48,
+   "text": "They are just temporary states, to be distinguished like milk and curd."
+  },
+  {
+   "t": 2750.08,
+   "end": 2753.02,
+   "text": "This is the moral the Buddha is trying to drive home."
+  },
+  {
+   "t": 2757.08,
+   "end": 2763.76,
+   "text": "Now we come to the third part of the quotation, giving the Buddha's conclusion, which is extremely important."
+  },
+  {
+   "t": 2764.44,
+   "end": 2773.82,
+   "text": "Ima ko citta, loka samanya, loka niruttiyo, loka buhara, loka panyattiyo, yahita thagatu buhara di apparamasam."
+  },
+  {
+   "t": 2773.82,
+   "end": 2786.52,
+   "text": "For all these, citta are worldly apparitions, worldly expressions, worldly usages, worldly designations, which the tathagata make use of, without tenacious grasping."
+  },
+  {
+   "t": 2790.28,
+   "end": 2792.94,
+   "text": "Comment, translation by Maurice Walsh."
+  },
+  {
+   "t": 2792.94,
+   "end": 2804.94,
+   "text": "But citta, these are merely names, expressions, turns of speech, designations, in common use in the world, which the tathagata uses without misapprehending them."
+  },
+  {
+   "t": 2805.76,
+   "end": 2810.82,
+   "text": "And here I have also given the Sanskrit fragment, which differs somewhat."
+  },
+  {
+   "t": 2810.82,
+   "end": 2833.56,
+   "text": "It first gives a series of similes for self or being, and then describes how someone may take a strong stance and cling to these, as this is true, everything else is wrong."
+  },
+  {
+   "t": 2835.16,
+   "end": 2862.56,
+   "text": "And then later it also speaks of worldly perceptions and worldly usages, but then relates this to not grasping at anything, not being agitated, and then realizing nirvana, that birth is destroyed and the holy life has been lived, what had to be done has been done, and there is no more any becoming."
+  },
+  {
+   "t": 2863.56,
+   "end": 2864.74,
+   "text": "To be discerned."
+  },
+  {
+   "t": 2868.04,
+   "end": 2882.88,
+   "text": "It's interesting in soul fires, it gives the, if we look at the Pali, perhaps the term tathagata here is used in a general sense."
+  },
+  {
+   "t": 2884.3,
+   "end": 2891.26,
+   "text": "The tathagata can sometimes be an epithet of the Buddha, but at times it can also be referring to Arahams in general."
+  },
+  {
+   "t": 2892.12,
+   "end": 2899.58,
+   "text": "And this is clearly the sense we get from the Sanskrit, but the first paragraph in the Sanskrit is just substantially different."
+  },
+  {
+   "t": 2902.6,
+   "end": 2903.48,
+   "text": "End of comment."
+  },
+  {
+   "t": 2915.3,
+   "end": 2924.44,
+   "text": "The Buddha uses the language much in the same way as parents make use of a child's homely prattal for purpose of meditation."
+  },
+  {
+   "t": 2925.2,
+   "end": 2936.02,
+   "text": "He has to present his Dhamma, which goes against the current through the medium of worldly language, with which the worldlings have their transactions in defilements."
+  },
+  {
+   "t": 2936.88,
+   "end": 2941.62,
+   "text": "That is probably the reason why the Buddha at first hesitated to preach this Dhamma."
+  },
+  {
+   "t": 2946.42,
+   "end": 2955.76,
+   "text": "In comment, as I believe I mentioned already on an earlier occasion, the idea that the Buddha hesitated to teach"
+  },
+  {
+   "t": 2964.5,
+   "end": 2976.32,
+   "text": "how far this hesitation is part of the earliest account of what happened after the Buddha had realized awakening."
+  },
+  {
+   "t": 2976.7,
+   "end": 2977.48,
+   "text": "End of comment."
+  },
+  {
+   "t": 2978.32,
+   "end": 2985.5,
+   "text": "He must have wondered how he can convey such deep Dhamma through the terminology, the grammar, and the logic of worldlings."
+  },
+  {
+   "t": 2986.54,
+   "end": 2990.8,
+   "text": "All this shows the immense importance of the Pata Pada Sutton."
+  },
+  {
+   "t": 2991.48,
+   "end": 2998.34,
+   "text": "If the ordinary worldling presumes that ghee is already inherent in the milk obtained from the cow,"
+  },
+  {
+   "t": 2998.76,
+   "end": 2999.98,
+   "text": "he will try to..."
+  },
+  {
+   "t": 3000.0,
+   "end": 3011.24,
+   "text": "argued out on the grounds that after all it is milk that becomes ghee and once it becomes ghee he might imagine that milk is still to be found in ghee in some latent form"
+  },
+  {
+   "t": 3012.18,
+   "end": 3019.48,
+   "text": "as a general statement this might sound ridiculous but even great philosophers were unaware of the"
+  },
+  {
+   "t": 3019.48,
+   "end": 3026.98,
+   "text": "implications of their theories that is why the buddha had to come out with this homely milk simile"
+  },
+  {
+   "t": 3026.98,
+   "end": 3035.18,
+   "text": "to bring them to their senses here lies the secret of the soul theory it carries with it the"
+  },
+  {
+   "t": 3035.18,
+   "end": 3040.24,
+   "text": "implication that past and future also exist in the same sense as the present"
+  },
+  {
+   "t": 3042.54,
+   "end": 3048.94,
+   "text": "the buddha on the other hand uses the verb atti is only for what exists in the present"
+  },
+  {
+   "t": 3048.94,
+   "end": 3057.06,
+   "text": "he points out that whatever is past should be referred to as ahosi was and whatever is yet to"
+  },
+  {
+   "t": 3057.06,
+   "end": 3064.42,
+   "text": "come in the future should be spoken of as bhavissati will be this is the fundamental principle underlying"
+  },
+  {
+   "t": 3064.42,
+   "end": 3072.16,
+   "text": "the niruddipata sutta already quoted any departure from it would give rise to such confusions as referred"
+  },
+  {
+   "t": 3072.16,
+   "end": 3082.24,
+   "text": "to above milk curd butter and ghee are merely so many stages in a certain process the worldlings however"
+  },
+  {
+   "t": 3082.24,
+   "end": 3089.24,
+   "text": "have put them into watertight compartments by designating and circumscribing them they are caught"
+  },
+  {
+   "t": 3089.24,
+   "end": 3098.36,
+   "text": "up in the conceptual trap of their own making comment yeah i just wanted to underlie the importance of what"
+  },
+  {
+   "t": 3098.36,
+   "end": 3107.28,
+   "text": "the venule has pointed out here and the beauty of this milk simile in clarifying the situation from a"
+  },
+  {
+   "t": 3107.28,
+   "end": 3119.12,
+   "text": "practical perspective i found this very very useful end of comment when the philosophers started working out the"
+  },
+  {
+   "t": 3119.12,
+   "end": 3126.24,
+   "text": "logical relationship between cause and effect they tended to regard these two as totally unrelated to each"
+  },
+  {
+   "t": 3126.24,
+   "end": 3134.18,
+   "text": "other since milk becomes curd either the two are totally different from each other or curd must already be"
+  },
+  {
+   "t": 3134.18,
+   "end": 3139.98,
+   "text": "latent in milk for it to become curd this is the kind of dilemma their logic posed for them"
+  },
+  {
+   "t": 3142.9,
+   "end": 3150.24,
+   "text": "indian philosophical systems reflect a tendency towards such logical subtleties they ended up with"
+  },
+  {
+   "t": 3150.24,
+   "end": 3156.82,
+   "text": "various extreme views concerning the relation between cause and effect in a certain school of indian"
+  },
+  {
+   "t": 3156.82,
+   "end": 3164.64,
+   "text": "philosophy known as arambhavada effect is explained as something totally new unrelated to the cause"
+  },
+  {
+   "t": 3165.36,
+   "end": 3173.9,
+   "text": "other schools of philosophy such as satkaryavada and satkaranavada also arose by confusing this issue"
+  },
+  {
+   "t": 3174.62,
+   "end": 3179.42,
+   "text": "for them effect is already found hidden in the cause before it comes out"
+  },
+  {
+   "t": 3180.18,
+   "end": 3187.16,
+   "text": "yet others took only the cause as real such extreme conclusions were the result of forgetting the"
+  },
+  {
+   "t": 3187.16,
+   "end": 3194.26,
+   "text": "fact that all these are mere concepts in worldly usage here we have a case of getting caught up in a"
+  },
+  {
+   "t": 3194.26,
+   "end": 3202.98,
+   "text": "conceptual trap of one's own making this confusion regarding the three periods of time characteristic of"
+  },
+  {
+   "t": 3202.98,
+   "end": 3210.52,
+   "text": "such philosophers could be illustrated with some folk tales and fables which lucidly bring out a deep trip"
+  },
+  {
+   "t": 3211.46,
+   "end": 3218.18,
+   "text": "there's for instance the tale of the goose that lays golden eggs well known to the west a certain goose"
+  },
+  {
+   "t": 3218.18,
+   "end": 3226.22,
+   "text": "used to lay a golden egg every day its owner out of excessive greed thought of getting all the as yet ones"
+  },
+  {
+   "t": 3227.08,
+   "end": 3234.5,
+   "text": "he killed the goose and opened it up only to come to grief he had wrongly imagined the future to be"
+  },
+  {
+   "t": 3234.5,
+   "end": 3241.74,
+   "text": "already existing in the present this is the kind of blunder that soul theorists also committed"
+  },
+  {
+   "t": 3242.82,
+   "end": 3248.08,
+   "text": "in the field of philosophy too the prolific tendency led to such subtle complications"
+  },
+  {
+   "t": 3249.22,
+   "end": 3255.8,
+   "text": "it is not much different from the proliferations indulged in by the ordinary worldling in his daily life"
+  },
+  {
+   "t": 3256.82,
+   "end": 3262.08,
+   "text": "that is why reckonings born of prolific perception are said to be so overwhelming"
+  },
+  {
+   "t": 3262.08,
+   "end": 3270.2,
+   "text": "one is overwhelmed by one's own reckonings and figureings out under the influence of prolific perceptions"
+  },
+  {
+   "t": 3272.8,
+   "end": 3280.58,
+   "text": "an indian poet once spotted a ruby shining in the moonlight and eagerly approached it enchanted by it"
+  },
+  {
+   "t": 3281.2,
+   "end": 3284.2,
+   "text": "only to find a blood red spittle of beetle"
+  },
+  {
+   "t": 3285.16,
+   "end": 3291.22,
+   "text": "common here for those of us who have not been to india or sri lanka this is perhaps not merely"
+  },
+  {
+   "t": 3291.22,
+   "end": 3301.18,
+   "text": "evident but beetle is a kind of nut that is chewed regularly in this part of the world even by some"
+  },
+  {
+   "t": 3301.18,
+   "end": 3310.56,
+   "text": "monastics and after chewing one has to spit it out and that spittle really has a very strong reddish color"
+  },
+  {
+   "t": 3311.22,
+   "end": 3317.34,
+   "text": "so that from looking from afar it could really look like something very precious which is of course the"
+  },
+  {
+   "t": 3317.34,
+   "end": 3326.06,
+   "text": "opposite of what it is end of comment we often come across such humorous stories in literature"
+  },
+  {
+   "t": 3326.06,
+   "end": 3335.14,
+   "text": "showing the pitfalls of prolific conceptualization the introductory story leading up to the dhammapada verse"
+  },
+  {
+   "t": 3335.14,
+   "end": 3343.44,
+   "text": "on the rambling nature of the mind as recorded in the commentary to the"
+  },
+  {
+   "t": 3343.44,
+   "end": 3351.5,
+   "text": "dhammapada is very illustrative comment i just wanted to offer care norman's translation of this quote it"
+  },
+  {
+   "t": 3352.08,
+   "end": 3359.22,
+   "text": "speaks about the mind as travels far alone incorporeal and lying in the cave of the heart end of comment"
+  },
+  {
+   "t": 3361.22,
+   "end": 3368.98,
+   "text": "the pupil of venerable sangha rakitatera a nephew of his indulged in a papancha while fanning his teacher"
+  },
+  {
+   "t": 3369.78,
+   "end": 3377.76,
+   "text": "in his imagination he disrobed got married had a child and was coming in a chariot with his wife and"
+  },
+  {
+   "t": 3377.76,
+   "end": 3384.92,
+   "text": "child to see his former teacher the wife through carelessness dropped the child and the chariot ran away"
+  },
+  {
+   "t": 3385.7,
+   "end": 3392.9,
+   "text": "so he whipped his wife in a fit of anger only to realize that he had dealt a blow on his teacher's"
+  },
+  {
+   "t": 3392.9,
+   "end": 3400.84,
+   "text": "head with the fan still in his hand being an arahant with psychic powers his teacher merely understood"
+  },
+  {
+   "t": 3400.84,
+   "end": 3409.24,
+   "text": "the pupil's state of mind much to the latter's discomfiture a potter in sanskrit literature"
+  },
+  {
+   "t": 3409.24,
+   "end": 3417.72,
+   "text": "smashed his pots in a sort of business papancha and was remorseful afterwards similarly the proud"
+  },
+  {
+   "t": 3417.72,
+   "end": 3424.68,
+   "text": "milkmaid in english literature dropped a bucket of milk on her head in a daydream of a rosy future"
+  },
+  {
+   "t": 3425.5,
+   "end": 3430.22,
+   "text": "in all these cases one takes as present something that is to come in the future"
+  },
+  {
+   "t": 3430.96,
+   "end": 3435.32,
+   "text": "this is a serious confusion between the three periods of time"
+  },
+  {
+   "t": 3435.32,
+   "end": 3442.94,
+   "text": "the perception of permanence characteristic of concepts lures one away from reality into a world"
+  },
+  {
+   "t": 3442.94,
+   "end": 3451.06,
+   "text": "of fantasy with the result that one is overwhelmed and obsessed by it so this is what is meant by papancha"
+  },
+  {
+   "t": 3453.1,
+   "end": 3458.34,
+   "text": "sannyasangasamodachara so overwhelming are reckonings born of prolific perception"
+  },
+  {
+   "t": 3459.48,
+   "end": 3464.2,
+   "text": "as we saw above the word sangha is therefore nearer to the idea of reckoning"
+  },
+  {
+   "t": 3464.2,
+   "end": 3471.74,
+   "text": "than that of part or portion the targeters are free from such reckonings born of prolific perception"
+  },
+  {
+   "t": 3471.74,
+   "end": 3479.38,
+   "text": "papancha sannyasamka because they make use of worldly linguistic usages conventions and designations"
+  },
+  {
+   "t": 3479.38,
+   "end": 3485.84,
+   "text": "being fully aware of their worldly origin as if they were using a child's language"
+  },
+  {
+   "t": 3487.5,
+   "end": 3495.72,
+   "text": "when an adult uses a child's language he is not bound by it likewise the buddhas and arahans do not forget"
+  },
+  {
+   "t": 3496.24,
+   "end": 3503.3,
+   "text": "that these are worldly usages they do not draw any distinction between the relative and the absolute with"
+  },
+  {
+   "t": 3503.3,
+   "end": 3509.56,
+   "text": "regard to those concepts for them they are merely concepts and designations in worldly usage"
+  },
+  {
+   "t": 3510.34,
+   "end": 3516.74,
+   "text": "that is why the tathagatas are said to be free from papancha that is to say they are nippapancha"
+  },
+  {
+   "t": 3516.74,
+   "end": 3524.44,
+   "text": "whereas the world delights in papancha this fact is clearly expressed in the following words in the dhammapada"
+  },
+  {
+   "t": 3534.44,
+   "end": 3542.54,
+   "text": "no trek is there in the air and no recluse elsewhere this populace delights in prolificity"
+  },
+  {
+   "t": 3542.54,
+   "end": 3551.38,
+   "text": "but thus gone ones are non-prolific comment translation by k.r norman but there is no footprint in the sky"
+  },
+  {
+   "t": 3551.38,
+   "end": 3560.22,
+   "text": "there is no ascetic outside our order ordinary people rejoice in the diversified world tathagatas are free"
+  },
+  {
+   "t": 3560.22,
+   "end": 3570.7,
+   "text": "from the diversified world yeah i wanted to follow up an aspect of this the the first part of this verse"
+  },
+  {
+   "t": 3570.7,
+   "end": 3579.54,
+   "text": "which is not directly related to what venable is discussing now this idea there is no recluse outside"
+  },
+  {
+   "t": 3581.6,
+   "end": 3590.96,
+   "text": "and i checked the chinese dhammapadas and they both have the same reading which i'm giving here in"
+  },
+  {
+   "t": 3590.96,
+   "end": 3599.64,
+   "text": "chinese and then the translation of g210 by dhamma jyoti there is no trek in the sky"
+  },
+  {
+   "t": 3600.0,
+   "end": 3602.6,
+   "text": "There are no outside thoughts for a sramana."
+  },
+  {
+   "t": 3603.72,
+   "end": 3607.66,
+   "text": "And translation by Willemann, Charles Willemann of T213."
+  },
+  {
+   "t": 3608.14,
+   "end": 3612.94,
+   "text": "In the air there is no trace and a sramana has no heretical ideas."
+  },
+  {
+   "t": 3614.28,
+   "end": 3619.1,
+   "text": "And I found it interesting that the Chinese Dhammapadas have this different reading."
+  },
+  {
+   "t": 3619.78,
+   "end": 3628.44,
+   "text": "Because if we think about it, I mean this is quite a negative statement."
+  },
+  {
+   "t": 3628.44,
+   "end": 3631.36,
+   "text": "There is no recluse outside."
+  },
+  {
+   "t": 3632.9,
+   "end": 3638.38,
+   "text": "And it is certainly not something as self-evident as the idea that there are no tracks in the sky."
+  },
+  {
+   "t": 3640.76,
+   "end": 3651.38,
+   "text": "And the commentary relates this statement to a statement that the Mahaparinibbana Sutta and its parallels attribute to the Buddha."
+  },
+  {
+   "t": 3651.38,
+   "end": 3665.5,
+   "text": "And at the time, just before his passing away, there was somebody, Subhanda, an ascetic, who wanted to ask a last question."
+  },
+  {
+   "t": 3665.68,
+   "end": 3669.1,
+   "text": "And Ananda was first not willing to let him through."
+  },
+  {
+   "t": 3669.1,
+   "end": 3670.52,
+   "text": "But then the Buddha said, let him come."
+  },
+  {
+   "t": 3671.68,
+   "end": 3681.06,
+   "text": "And Subhanda wanted to know if other well-known teachers living at the Buddhist time, if they were also awakened ones."
+  },
+  {
+   "t": 3681.96,
+   "end": 3699.12,
+   "text": "And the story was that the Buddha set aside this question and made a statement that in whatever practice tradition, the Noble Eightfold Path is found there, one can find the first, second, third, and fourth recluse."
+  },
+  {
+   "t": 3699.12,
+   "end": 3704.98,
+   "text": "So they are recluse as used as a synonym for the four levels of awakening."
+  },
+  {
+   "t": 3706.1,
+   "end": 3713.84,
+   "text": "And then he is on record for saying that in his teaching, the Noble Eightfold Path was found."
+  },
+  {
+   "t": 3715.7,
+   "end": 3727.22,
+   "text": "So the impression is that the original statement could have been something of the type, like, I'm not making any statement about, like, so on, so, and so on, so."
+  },
+  {
+   "t": 3727.46,
+   "end": 3729.88,
+   "text": "But I'm just saying, clarifying a principle."
+  },
+  {
+   "t": 3730.14,
+   "end": 3738.54,
+   "text": "And that principle is that if you have the Noble Eightfold Path, then that can lead to awakening."
+  },
+  {
+   "t": 3741.38,
+   "end": 3747.94,
+   "text": "And we have another passage related to that in the Chula Sihanada Sutta."
+  },
+  {
+   "t": 3748.14,
+   "end": 3758.34,
+   "text": "And this is the second article that I would like to offer for download for those of you who have the time to, or interest to follow this up."
+  },
+  {
+   "t": 3758.82,
+   "end": 3765.86,
+   "text": "The Lion's Roar in Early Buddhism, a study based on the Ekotarika Agama parallel to the Chula Sihanada Sutta."
+  },
+  {
+   "t": 3766.72,
+   "end": 3774.22,
+   "text": "Because in the Chula Sihanada Sutta, we get this, in the Pali version, and also one of the two Chinese parallels,"
+  },
+  {
+   "t": 3774.5,
+   "end": 3786.84,
+   "text": "we get, again, this same impression that I also get from this Dhammapada verse as being, making, like, dismissive statements about other traditions."
+  },
+  {
+   "t": 3787.78,
+   "end": 3791.0,
+   "text": "And this is not the case for the Ekotarika Agama parallel."
+  },
+  {
+   "t": 3793.9,
+   "end": 3806.24,
+   "text": "So my personal feeling, impression, is that statements that were not originally breathing a sectarian spirit"
+  },
+  {
+   "t": 3806.24,
+   "end": 3812.0,
+   "text": "have acquired this during the oral transmission."
+  },
+  {
+   "t": 3814.96,
+   "end": 3820.8,
+   "text": "understandably, in the situation of the Buddhists having to stand their ground against other traditions."
+  },
+  {
+   "t": 3821.12,
+   "end": 3834.32,
+   "text": "But I think it would be, we need to be careful not to easily attribute such competitiveness to the Buddha himself."
+  },
+  {
+   "t": 3839.86,
+   "end": 3849.18,
+   "text": "It is because the Tathagatas are non-prolific that Nippapancha is regarded as one of the epithets of Nibbāna in a long list of 33."
+  },
+  {
+   "t": 3849.18,
+   "end": 3861.68,
+   "text": "The Tathagatas are free, like Dukkupasama, quelling of suffering, Papancha-vupasama, quelling of prolificity, is also recognized as an epithet of Nibbāna."
+  },
+  {
+   "t": 3861.68,
+   "end": 3867.98,
+   "text": "It is also referred to as Papancha-vupasama, cessation of prolificity."
+  },
+  {
+   "t": 3868.46,
+   "end": 3873.22,
+   "text": "We come across such references to Nibbāna in terms of Papancha quite often."
+  },
+  {
+   "t": 3874.44,
+   "end": 3882.8,
+   "text": "The Tathagatas are free from Papancha-sanya-sankhā, although they make use of worldly concepts and designations."
+  },
+  {
+   "t": 3882.8,
+   "end": 3896.04,
+   "text": "In the Kalahavivada-sutta, we come across the dictum Sanya-nidāna-hipapancha-sankhā, according to which reckonings through prolificity arise from perception."
+  },
+  {
+   "t": 3899.36,
+   "end": 3904.0,
+   "text": "Now, the Tathagatas have gone beyond the pale of perception in attaining wisdom."
+  },
+  {
+   "t": 3904.46,
+   "end": 3911.3,
+   "text": "That is why they are free from Papancha-sanya-sankhā, reckonings born of prolific perception."
+  },
+  {
+   "t": 3912.24,
+   "end": 3919.06,
+   "text": "Such reckonings are the lot of those who grope in the murk of ignorance, under the influence of perception."
+  },
+  {
+   "t": 3920.14,
+   "end": 3926.16,
+   "text": "Since Buddhas and Arahams are enlightened with wisdom and released from the limitations of perception,"
+  },
+  {
+   "t": 3926.46,
+   "end": 3930.82,
+   "text": "they do not entertain such reckonings born of prolific perception."
+  },
+  {
+   "t": 3931.42,
+   "end": 3934.58,
+   "text": "Hence, we find the following statement in the Udāna,"
+  },
+  {
+   "t": 3943.08,
+   "end": 3951.82,
+   "text": "And at that time, the Exalted One was seated contemplating his own abandonment of reckonings born of prolific perception."
+  },
+  {
+   "t": 3951.82,
+   "end": 3955.78,
+   "text": "The allusion here is to the bliss of emancipation."
+  },
+  {
+   "t": 3956.62,
+   "end": 3960.66,
+   "text": "Quite a meaningful verse also occurs in this particular context."
+  },
+  {
+   "t": 3960.66,
+   "end": 3965.0,
+   "text": "Yassapapancha-tittichanatti-sankhā,"
+  },
+  {
+   "t": 3965.0,
+   "end": 3967.76,
+   "text": "Sandhāna-ng-parigancha-vitivattō,"
+  },
+  {
+   "t": 3968.54,
+   "end": 3970.66,
+   "text": "Thang-nittan-hang-morning-charantang,"
+  },
+  {
+   "t": 3971.58,
+   "end": 3974.26,
+   "text": "Nāva-jā-nādi-sadeva-kopilōko,"
+  },
+  {
+   "t": 3974.26,
+   "end": 3979.66,
+   "text": "To whom there are no proliferations and standstills,"
+  },
+  {
+   "t": 3980.04,
+   "end": 3983.24,
+   "text": "Who has gone beyond the bond and the deadlock."
+  },
+  {
+   "t": 3983.62,
+   "end": 3987.34,
+   "text": "In that craving-free sage, as he fares along,"
+  },
+  {
+   "t": 3987.7,
+   "end": 3990.96,
+   "text": "The world with its gods sees nothing to decry."
+  },
+  {
+   "t": 3991.58,
+   "end": 3993.4,
+   "text": "Common translation by Ireland,"
+  },
+  {
+   "t": 3993.4,
+   "end": 3997.28,
+   "text": "Who has no concepts, no standpoints,"
+  },
+  {
+   "t": 3997.42,
+   "end": 4000.0,
+   "text": "Who has overcome the tai and the bar."
+  },
+  {
+   "t": 4000.32,
+   "end": 4003.72,
+   "text": "The world with its devas does not despise"
+  },
+  {
+   "t": 4003.72,
+   "end": 4007.34,
+   "text": "The conduct of that craving-free sage."
+  },
+  {
+   "t": 4007.92,
+   "end": 4008.42,
+   "text": "End of comment."
+  },
+  {
+   "t": 4010.44,
+   "end": 4014.18,
+   "text": "The two words Papancha and Titti in juxtaposition"
+  },
+  {
+   "t": 4014.18,
+   "end": 4019.04,
+   "text": "Highlight the primary sense of Papancha as a rambling or a straying away."
+  },
+  {
+   "t": 4019.04,
+   "end": 4022.34,
+   "text": "According to the Netantipa-kārāna,"
+  },
+  {
+   "t": 4022.62,
+   "end": 4027.24,
+   "text": "The idiomatic standstill mentioned here refers to the latencies, Anusaya."
+  },
+  {
+   "t": 4027.76,
+   "end": 4032.04,
+   "text": "So the rumbling Papanchas and doggedly persisting Anusayas"
+  },
+  {
+   "t": 4032.58,
+   "end": 4033.92,
+   "text": "Are no longer there."
+  },
+  {
+   "t": 4034.66,
+   "end": 4037.46,
+   "text": "The two words Sandhāna-ng and Paligan"
+  },
+  {
+   "t": 4037.46,
+   "end": 4040.46,
+   "text": "Are also metaphorically used in the Dhamma."
+  },
+  {
+   "t": 4041.22,
+   "end": 4042.98,
+   "text": "Views Ndipti are the bond"
+  },
+  {
+   "t": 4042.98,
+   "end": 4045.72,
+   "text": "And ignorance, avidya, is the deadlock."
+  },
+  {
+   "t": 4048.64,
+   "end": 4052.54,
+   "text": "The fact that Papancha is characteristic of worldly thoughts,"
+  },
+  {
+   "t": 4052.78,
+   "end": 4054.5,
+   "text": "Connected with the household life,"
+  },
+  {
+   "t": 4054.88,
+   "end": 4059.92,
+   "text": "Emerges from the following verse in the Sallāyātana-sangyutta of the Samyutta Nikaya."
+  },
+  {
+   "t": 4059.92,
+   "end": 4071.74,
+   "text": "Papancha-sanya-i-taritara-nara Papancha-yanta Obayanti-sangyino Manomayam Gihasitanca-sabban Panunjya-nekamasitang Iriyati."
+  },
+  {
+   "t": 4071.74,
+   "end": 4076.52,
+   "text": "The common run of humanity, impelled by prolific perception,"
+  },
+  {
+   "t": 4077.08,
+   "end": 4079.7,
+   "text": "Approach their objects with rambling thoughts,"
+  },
+  {
+   "t": 4080.26,
+   "end": 4083.24,
+   "text": "Limited by perception as they are."
+  },
+  {
+   "t": 4084.1,
+   "end": 4087.68,
+   "text": "Dispelling all what is mind-made and connected with the household,"
+  },
+  {
+   "t": 4088.02,
+   "end": 4091.2,
+   "text": "One moves towards that which is connected with renunciation."
+  },
+  {
+   "t": 4092.12,
+   "end": 4094.26,
+   "text": "Common translation by Bikoboli"
+  },
+  {
+   "t": 4094.26,
+   "end": 4099.26,
+   "text": "When common people of proliferated perception perceive and proliferate,"
+  },
+  {
+   "t": 4100.1,
+   "end": 4101.32,
+   "text": "They become engaged."
+  },
+  {
+   "t": 4101.92,
+   "end": 4105.04,
+   "text": "Having dispelled every mind-state bound to the homeland,"
+  },
+  {
+   "t": 4105.42,
+   "end": 4107.26,
+   "text": "One travels on the road of renunciation."
+  },
+  {
+   "t": 4110.66,
+   "end": 4111.88,
+   "text": "End of comment."
+  },
+  {
+   "t": 4112.64,
+   "end": 4117.68,
+   "text": "The approach meant here is comparable to the approach of that imaginative poet"
+  },
+  {
+   "t": 4117.68,
+   "end": 4119.76,
+   "text": "Towards the ruby shining in moonlight,"
+  },
+  {
+   "t": 4119.96,
+   "end": 4122.32,
+   "text": "Only to discover a spittle of beetle."
+  },
+  {
+   "t": 4123.56,
+   "end": 4127.04,
+   "text": "The last two lines of the verse bring out the correct approach"
+  },
+  {
+   "t": 4127.04,
+   "end": 4129.08,
+   "text": "Of one who is aiming at Nibbana."
+  },
+  {
+   "t": 4129.8,
+   "end": 4134.66,
+   "text": "It requires the dispelling of such daydreams connected with the household"
+  },
+  {
+   "t": 4134.66,
+   "end": 4138.08,
+   "text": "As entertained by the nephew of Enabha Sangha, Rakitatera."
+  },
+  {
+   "t": 4139.04,
+   "end": 4142.78,
+   "text": "Whirlings are in the habit of constructing speculative views"
+  },
+  {
+   "t": 4142.78,
+   "end": 4146.94,
+   "text": "By taking too seriously linguistic usage and grammatical structure."
+  },
+  {
+   "t": 4148.08,
+   "end": 4151.62,
+   "text": "All pre-Buddhistic philosophers made such blunders"
+  },
+  {
+   "t": 4151.62,
+   "end": 4154.08,
+   "text": "As the confusion between milk and curd."
+  },
+  {
+   "t": 4155.72,
+   "end": 4159.24,
+   "text": "Their blunders were mainly due to two reasons,"
+  },
+  {
+   "t": 4159.48,
+   "end": 4162.4,
+   "text": "Namely the persistent latency towards perception"
+  },
+  {
+   "t": 4163.08,
+   "end": 4165.18,
+   "text": "And the dogmatic adherence to views."
+  },
+  {
+   "t": 4165.18,
+   "end": 4170.06,
+   "text": "It is precisely these two points that came up in the very first statement"
+  },
+  {
+   "t": 4170.06,
+   "end": 4173.5,
+   "text": "Of the Madhu Pindika Sutta, discussed in our previous sermon."
+  },
+  {
+   "t": 4174.1,
+   "end": 4178.72,
+   "text": "That is to say, they formed the gist of the Buddha's cursory reply"
+  },
+  {
+   "t": 4178.72,
+   "end": 4181.06,
+   "text": "To the Sakyan Dandapani's question."
+  },
+  {
+   "t": 4181.88,
+   "end": 4186.28,
+   "text": "For the latter it was a riddle, and that is why he raised his eyebrows,"
+  },
+  {
+   "t": 4186.28,
+   "end": 4188.72,
+   "text": "Wegged his tone, and shook his head."
+  },
+  {
+   "t": 4189.22,
+   "end": 4190.66,
+   "text": "The question was,"
+  },
+  {
+   "t": 4190.92,
+   "end": 4194.0,
+   "text": "What does the recluse assert, and what does he proclaim?"
+  },
+  {
+   "t": 4194.32,
+   "end": 4196.08,
+   "text": "The Buddha's reply was,"
+  },
+  {
+   "t": 4196.76,
+   "end": 4199.84,
+   "text": "According to whatever doctrine one does not quarrel,"
+  },
+  {
+   "t": 4199.84,
+   "end": 4199.96,
+   "text": ","
+  },
+  {
+   "t": 4199.96,
+   "end": 4199.98,
+   "text": "Thank you."
+  },
+  {
+   "t": 4200.0,
+   "end": 4211.84,
+   "text": "or dispute with anyone in the world such a doctrine do i preach and due to whatever statements perceptions do not underlie as latencies such statements do i proclaim"
+  },
+  {
+   "t": 4213.82,
+   "end": 4228.44,
+   "text": "this might well appear a strange paradox but since we have already made some clarification of the two terms sanya and panya we might as well bring up now an excellent quotation to distinguish the difference between these two"
+  },
+  {
+   "t": 4228.44,
+   "end": 4235.66,
+   "text": "it is in fact the last verse in the mahgandiya sutta of the sutta nipata the grand final as it were"
+  },
+  {
+   "t": 4248.98,
+   "end": 4256.96,
+   "text": "to one unattached to percepts nor bonds exist in one released through wisdom nor delusions persist"
+  },
+  {
+   "t": 4256.96,
+   "end": 4263.26,
+   "text": "but they that cling to percepts and views go about rambling in this world"
+  },
+  {
+   "t": 4264.18,
+   "end": 4272.76,
+   "text": "translation by bhikkupoli comment for one detached from perception there are no knots for one liberated by wisdom there are no delusions"
+  },
+  {
+   "t": 4272.76,
+   "end": 4279.46,
+   "text": "but those who have grasped perceptions and views wander in the world creating fiction end of comment"
+  },
+  {
+   "t": 4279.46,
+   "end": 4285.86,
+   "text": "in the pupva sutta of the kanda sanyata one comes across the following declaration of the bunda"
+  },
+  {
+   "t": 4292.82,
+   "end": 4299.26,
+   "text": "mongsa do not dispute with the world it is the world that is disputing with me common translation by"
+  },
+  {
+   "t": 4299.26,
+   "end": 4305.9,
+   "text": "bhikkupoli because i do not dispute with the world rather it is the world that disputes with me"
+  },
+  {
+   "t": 4305.9,
+   "end": 4316.86,
+   "text": "and here's my translation of the corresponding samyukta agama discourse i do not dispute with the world the world disputes with me end of comment"
+  },
+  {
+   "t": 4319.36,
+   "end": 4327.8,
+   "text": "this looks more or less like a contradictory statement as if one would say he is quarreling with me but i am not quarreling with him"
+  },
+  {
+   "t": 4328.96,
+   "end": 4334.74,
+   "text": "however the truth of the statement lies in the fact that the buddha did not hold on to any view"
+  },
+  {
+   "t": 4335.6,
+   "end": 4341.56,
+   "text": "some might think that the buddha also held on to some view or other but he was simply using the"
+  },
+  {
+   "t": 4341.56,
+   "end": 4348.62,
+   "text": "child's language for him there was nothing worth holding on to in it there's a canonical episode which"
+  },
+  {
+   "t": 4348.62,
+   "end": 4355.7,
+   "text": "is a good illustration of this fact one of the most well-known among debates the buddha had with ascetics of"
+  },
+  {
+   "t": 4355.7,
+   "end": 4362.9,
+   "text": "other sects is the debate with satchaka the ascetic an account of it is found in the chula satchaka sutta of"
+  },
+  {
+   "t": 4362.9,
+   "end": 4371.28,
+   "text": "the majjimanikaya the debate had all the outward appearance of a hot dispute however towards the end of"
+  },
+  {
+   "t": 4371.28,
+   "end": 4378.64,
+   "text": "it the buddha makes the following challenge to satchaka as for you agi vesana drops of sweat have come"
+  },
+  {
+   "t": 4378.64,
+   "end": 4385.4,
+   "text": "down from your forehead soaked through your upper robe and reached the ground but agi vesana there is no"
+  },
+  {
+   "t": 4385.4,
+   "end": 4393.08,
+   "text": "sweat on my body now so saying he uncovered his cold nude body in that assembly iti bhagava tasming"
+  },
+  {
+   "t": 4393.08,
+   "end": 4401.54,
+   "text": "parisating suvanna vannam kayang vivari even in the midst of a hot debate the buddha had no agitation"
+  },
+  {
+   "t": 4401.54,
+   "end": 4409.14,
+   "text": "because he did not adhere to any views there was for him no bondage in terms of craving conceit and views"
+  },
+  {
+   "t": 4410.02,
+   "end": 4417.42,
+   "text": "even in the thick of a heated debate the buddha was uniformly calm and cool it is the same with"
+  },
+  {
+   "t": 4417.42,
+   "end": 4425.28,
+   "text": "regard to perception percepts do not persist as a latency in him we spoke of name and form as an image"
+  },
+  {
+   "t": 4425.28,
+   "end": 4432.48,
+   "text": "or a reflection buddhas do not have the delusion arising out of name and form since they have"
+  },
+  {
+   "t": 4432.48,
+   "end": 4439.46,
+   "text": "comprehended it as a self-image there's a verse in the samiya sutta of the suttanipata which puts"
+  },
+  {
+   "t": 4439.46,
+   "end": 4459.4,
+   "text": "across this idea having understood name and form which is the product of prolificity and which is the"
+  },
+  {
+   "t": 4459.4,
+   "end": 4465.6,
+   "text": "root of all malady within and without he is released from bondage to the root of all maladies"
+  },
+  {
+   "t": 4465.6,
+   "end": 4473.58,
+   "text": "that such like one is truly known as the one who has understood comment translation by bikkoboli"
+  },
+  {
+   "t": 4474.9,
+   "end": 4481.12,
+   "text": "having known proliferation and name and form internally and externally as the root of illness"
+  },
+  {
+   "t": 4481.76,
+   "end": 4488.22,
+   "text": "freed from bondage the root of all illness such a one is truthfully said to be cognizant end of comment"
+  },
+  {
+   "t": 4490.84,
+   "end": 4491.44,
+   "text": "comment"
+  },
+  {
+   "t": 4497.28,
+   "end": 4504.18,
+   "text": "again this statement should not be taken too literal because the arahant and the buddha still have name"
+  },
+  {
+   "t": 4504.18,
+   "end": 4515.72,
+   "text": "and form it's just meant as a general correspondence i think end of comment we spoke of the reflection of a"
+  },
+  {
+   "t": 4515.72,
+   "end": 4521.96,
+   "text": "plank across the stream one's grasp of one's world of name and form is something similar"
+  },
+  {
+   "t": 4522.74,
+   "end": 4528.96,
+   "text": "now as for the buddha he has truly comprehended the nature of name and form whatever maladies"
+  },
+  {
+   "t": 4528.96,
+   "end": 4535.28,
+   "text": "complications and malignant conditions there are within beings and around them the root cause of all"
+  },
+  {
+   "t": 4535.28,
+   "end": 4544.32,
+   "text": "that malady is this papanchanama rupa to be free from it is to be such he is the one who has really"
+  },
+  {
+   "t": 4544.32,
+   "end": 4552.98,
+   "text": "understood if we are to say something in particular about the latency of perception we have to pay special"
+  },
+  {
+   "t": 4552.98,
+   "end": 4559.26,
+   "text": "attention to the first discourse in the majjimanikaya the advice usually given to one who picks up the"
+  },
+  {
+   "t": 4559.26,
+   "end": 4566.34,
+   "text": "majjimanikaya these days is to skip the very first sutra why because it is not easy to understand it"
+  },
+  {
+   "t": 4566.86,
+   "end": 4572.54,
+   "text": "even the monks to whom it was preached could not understand it and were displeased it is too deep for"
+  },
+  {
+   "t": 4572.54,
+   "end": 4579.26,
+   "text": "us leave it alone but it must be pointed out that such advice is not much different from asking one to"
+  },
+  {
+   "t": 4579.26,
+   "end": 4585.82,
+   "text": "learn a language without studying the alphabet this is because the first discourse of the majjimanikaya"
+  },
+  {
+   "t": 4585.82,
+   "end": 4592.42,
+   "text": "namely the mula pariyaya sutta enshrines an extremely vital first principle in the entire field of"
+  },
+  {
+   "t": 4592.42,
+   "end": 4599.12,
+   "text": "buddhist philosophy just as much as the first discourse of the biganikaya namely the brahma jala sutta"
+  },
+  {
+   "t": 4599.66,
+   "end": 4606.12,
+   "text": "is of great relevance to the question of views even so the mula pariyaya sutta is extremely important for"
+  },
+  {
+   "t": 4606.12,
+   "end": 4612.28,
+   "text": "its relevance to the question of perception now what is the basic theme of this discourse"
+  },
+  {
+   "t": 4613.18,
+   "end": 4619.64,
+   "text": "there's a certain pattern in the way objects occur to the mind and are perceived this discourse lays"
+  },
+  {
+   "t": 4619.64,
+   "end": 4625.04,
+   "text": "bare that elementary pattern the buddha opens this discourse with the declaration"
+  },
+  {
+   "t": 4627.42,
+   "end": 4634.5,
+   "text": "monks i shall preach to you the basic pattern of behavior of all mind objects"
+  },
+  {
+   "t": 4634.5,
+   "end": 4642.18,
+   "text": "in a nutshell the discourse deals with 24 concepts representative of concepts in the world"
+  },
+  {
+   "t": 4643.06,
+   "end": 4649.66,
+   "text": "these are fitted into a schema to illustrate the attitude of four types of persons towards them"
+  },
+  {
+   "t": 4649.66,
+   "end": 4658.66,
+   "text": "the 24 concepts mentioned in the sutta are patavi, apu, techo, vayu, bhuta, deva, pajapati, brahma,"
+  },
+  {
+   "t": 4659.3,
+   "end": 4668.14,
+   "text": "abhasara, subhakinā, vihappala, abhibhu, akāsananchayatanam, vinyānanchayatanam, akinchanyayatanam, nevasanyanasanyayatanam,"
+  },
+  {
+   "t": 4669.42,
+   "end": 4675.1,
+   "text": "dhitam suttam, vinyatam, vinyatam, ekatam, nanatam, sabbham, nipbhanam"
+  },
+  {
+   "t": 4676.72,
+   "end": 4685.7,
+   "text": "earth, water, fire, air, beings, gods, pajapati, brahma, the abhasara brahmas, the subhakinabrahmas,"
+  },
+  {
+   "t": 4685.88,
+   "end": 4691.18,
+   "text": "the vihappala brahmas, the overlord, the realm of infinite space, the realm of infinite consciousness,"
+  },
+  {
+   "t": 4691.18,
+   "end": 4695.1,
+   "text": "the realm of nothingness, the realm of neither perception or non-perception,"
+  },
+  {
+   "t": 4695.52,
+   "end": 4701.56,
+   "text": "the seen, the heard, the sense, the cognized, unity, diversity, all, and nipbhāna."
+  },
+  {
+   "t": 4703.0,
+   "end": 4708.94,
+   "text": "The discourse describes the differences of attitude in four types of persons with regard to each of"
+  },
+  {
+   "t": 4708.94,
+   "end": 4715.32,
+   "text": "these concepts. The four persons are an untaught ordinary person who has no regard for the noble"
+  },
+  {
+   "t": 4715.32,
+   "end": 4723.18,
+   "text": "ones and is unskilled in their dhamma, a suttava-potujana, a monk who is in higher training,"
+  },
+  {
+   "t": 4723.48,
+   "end": 4729.94,
+   "text": "whose mind has not yet reached the goal, and who is aspiring to the supreme security from bondage,"
+  },
+  {
+   "t": 4729.94,
+   "end": 4736.9,
+   "text": "bhikkhu sekhu apaktamānasum, an arahant with taints destroyed, who has lived the holy life,"
+  },
+  {
+   "t": 4737.4,
+   "end": 4742.96,
+   "text": "done what has to be done, laid down the burden, reached the goal, destroyed the fetters of existence,"
+  },
+  {
+   "t": 4743.42,
+   "end": 4748.44,
+   "text": "and who is completely liberated through final knowledge, arahant kīnāsavu,"
+  },
+  {
+   "t": 4748.44,
+   "end": 4754.76,
+   "text": "the tathagata, accomplished and fully enlightened, tathagata, arahant, sammāsambuddho."
+  },
+  {
+   "t": 4755.74,
+   "end": 4762.3,
+   "text": "Out of these, the second category comprises the stream-winner, the once-returner, and the non-returner."
+  },
+  {
+   "t": 4762.84,
+   "end": 4769.66,
+   "text": "Though there are four types, according to the analysis of the attitudes, the last two can be regarded as one type,"
+  },
+  {
+   "t": 4769.86,
+   "end": 4773.04,
+   "text": "since their attitudes to those concepts are the same."
+  },
+  {
+   "t": 4776.18,
+   "end": 4779.52,
+   "text": "And so we might as well speak of three kinds of attitudes."
+  },
+  {
+   "t": 4780.0,
+   "end": 4783.6,
+   "text": "Let us now try to understand the difference between them."
+  },
+  {
+   "t": 4784.3,
+   "end": 4788.64,
+   "text": "What is the worldview of the untaught ordinary person, the worldling?"
+  },
+  {
+   "t": 4789.0,
+   "end": 4791.12,
+   "text": "The Buddha describes it as follows."
+  },
+  {
+   "t": 4791.12,
+   "end": 4794.4,
+   "text": "Pataving patavito sañjānātī"
+  },
+  {
+   "t": 4794.4,
+   "end": 4796.74,
+   "text": "Pataving patavito sañjātva"
+  },
+  {
+   "t": 4796.74,
+   "end": 4798.02,
+   "text": "Pataving manyati"
+  },
+  {
+   "t": 4798.02,
+   "end": 4799.84,
+   "text": "Pataviyya manyati"
+  },
+  {
+   "t": 4811.4,
+   "end": 4825.9,
+   "text": "he perceives earth as earth having perceived earth as earth he imagines earth as such he imagines on the earth he imagines from the earth he imagines earth is mine he delights in earth"
+  },
+  {
+   "t": 4825.9,
+   "end": 4855.8,
+   "text": "why is that i say that it is because he has not fully comprehended it comment translation by nyanamoli he perceives earth as earth having perceived earth as earth he conceives himself as earth he conceives himself in earth he conceives himself apart from earth he conceives earth to be mine he delights in earth"
+  },
+  {
+   "t": 4855.8,
+   "end": 4882.42,
+   "text": "why is that because he has not fully understand it i say the untold ordinary person can do no better than to perceive earth as earth since he is simply groping in the dark so he perceives earth as earth and goes on imagining for which the word used here is manyati mythings one usually mythings when a simile or a metaphor occurs as a figure of speech"
+  },
+  {
+   "t": 4882.42,
+   "end": 4892.9,
+   "text": "but here it is something more than that here it refers to an indulgence in a deluded mode of thinking under the influence of craving conceit and views"
+  },
+  {
+   "t": 4893.64,
+   "end": 4904.96,
+   "text": "perceiving earth as earth he imagines earth to be substantially earth then he resorts to inflection to make it flexible or amenable to his myth-thinking"
+  },
+  {
+   "t": 4904.96,
+   "end": 4915.48,
+   "text": "on the earth on the earth from the earth earth is mine are so many subtle ways of me thinking with which he finally finds delight in the very concept of earth"
+  },
+  {
+   "t": 4916.1,
+   "end": 4920.5,
+   "text": "the reason for all this is the fact that he has not fully comprehended it"
+  },
+  {
+   "t": 4921.5,
+   "end": 4925.02,
+   "text": "then comes the world view of the monk who is in higher training"
+  },
+  {
+   "t": 4926.54,
+   "end": 4927.88,
+   "text": "that is the second"
+  },
+  {
+   "t": 4946.02,
+   "end": 4948.94,
+   "text": "he understands through higher knowledge earth as earth"
+  },
+  {
+   "t": 4949.74,
+   "end": 4954.86,
+   "text": "having known through higher knowledge earth as earth let him not imagine earth as such"
+  },
+  {
+   "t": 4954.86,
+   "end": 4962.06,
+   "text": "let him not imagine on the earth let him not imagine from the earth let him not imagine earth is mine"
+  },
+  {
+   "t": 4962.06,
+   "end": 4969.3,
+   "text": "let him not delight in earth why is that i say it is because it should be well comprehended by him"
+  },
+  {
+   "t": 4969.98,
+   "end": 4976.22,
+   "text": "as for the monk who is in higher training he does not merely perceive but understands through higher knowledge"
+  },
+  {
+   "t": 4976.22,
+   "end": 4978.76,
+   "text": "comment translation by nyanamoni"
+  },
+  {
+   "t": 4981.28,
+   "end": 4988.74,
+   "text": "he directly knows earth as earth having directly known earth as earth he should not conceive himself as earth"
+  },
+  {
+   "t": 4988.74,
+   "end": 4994.5,
+   "text": "he should not conceive himself in earth he should not conceive himself apart from earth"
+  },
+  {
+   "t": 4994.5,
+   "end": 5000.14,
+   "text": "he should not conceive earth to be mine he should not delight in earth why is that"
+  },
+  {
+   "t": 5000.14,
+   "end": 5004.38,
+   "text": "because he must fully understand it i say end of comment"
+  },
+  {
+   "t": 5005.74,
+   "end": 5009.86,
+   "text": "here we are against the peculiar expression which is rather problematic"
+  },
+  {
+   "t": 5009.86,
+   "end": 5011.74,
+   "text": "that is mamanyi"
+  },
+  {
+   "t": 5011.74,
+   "end": 5016.24,
+   "text": "the commentary simply glosses over with the words manyati timanyi"
+  },
+  {
+   "t": 5017.44,
+   "end": 5020.42,
+   "text": "taking it to mean the same as manyati imagines"
+  },
+  {
+   "t": 5021.06,
+   "end": 5027.94,
+   "text": "its only explanation for the use of this peculiar expression this context is that the seka or the one in higher training"
+  },
+  {
+   "t": 5027.94,
+   "end": 5032.56,
+   "text": "has already done away with titti manyana or imagining in terms of use"
+  },
+  {
+   "t": 5032.56,
+   "end": 5036.48,
+   "text": "though he still has imaginings through craving and conceit"
+  },
+  {
+   "t": 5036.48,
+   "end": 5042.84,
+   "text": "so for the commentary mamanyi is a sort of mild recognition of residual imagining"
+  },
+  {
+   "t": 5042.84,
+   "end": 5044.94,
+   "text": "a dilly dally phrase"
+  },
+  {
+   "t": 5044.94,
+   "end": 5048.54,
+   "text": "but this interpretation is not at all convincing"
+  },
+  {
+   "t": 5050.56,
+   "end": 5056.0,
+   "text": "obviously enough the particle ma has a prohibitive sense here and mamanyi means"
+  },
+  {
+   "t": 5056.0,
+   "end": 5060.9,
+   "text": "let one not imagine or let one not entertain imaginings manyana"
+  },
+  {
+   "t": 5061.66,
+   "end": 5067.92,
+   "text": "a clear instance of the use of this expression in this sense is found at the end of the samidhi sutta"
+  },
+  {
+   "t": 5067.92,
+   "end": 5079.46,
+   "text": "discussed in an earlier sermon veneral samidhi answered venerable sariputta's catechism creditably and the latter acknowledged it with a well done sadhu sadhu"
+  },
+  {
+   "t": 5079.46,
+   "end": 5082.6,
+   "text": "but cautioned him not to be proud of it"
+  },
+  {
+   "t": 5082.6,
+   "end": 5084.34,
+   "text": "tenature mamanyi"
+  },
+  {
+   "t": 5084.34,
+   "end": 5086.48,
+   "text": "but do not be vain on account of it"
+  },
+  {
+   "t": 5087.34,
+   "end": 5093.26,
+   "text": "the use of the prohibitive particle with reference to the worldview of the monk in higher training is quite apt"
+  },
+  {
+   "t": 5093.26,
+   "end": 5098.02,
+   "text": "as he has to train himself in overcoming the tendency to go on imagining"
+  },
+  {
+   "t": 5098.7,
+   "end": 5102.52,
+   "text": "for him it is a step of training towards full comprehension"
+  },
+  {
+   "t": 5103.22,
+   "end": 5105.94,
+   "text": "that is why the buddha concludes with the words"
+  },
+  {
+   "t": 5105.94,
+   "end": 5106.72,
+   "text": "why is that"
+  },
+  {
+   "t": 5106.72,
+   "end": 5111.56,
+   "text": "i say it is because it should be well comprehended by him"
+  },
+  {
+   "t": 5112.76,
+   "end": 5116.56,
+   "text": "comments over that we are at the end of sermon 12"
+  },
+  {
+   "t": 5117.42,
+   "end": 5119.42,
+   "text": "thank you very much for your attention"
+  },
+  {
+   "t": 5119.42,
+   "end": 5122.72,
+   "text": "and i look forward to the discussion in the forum"
+  },
+  {
+   "t": 5122.72,
+   "end": 5125.68,
+   "text": "and to continuing in a week's time with the next sermon"
+  },
+  {
+   "t": 5125.68,
+   "end": 5125.7,
+   "text": "and"
+  },
+  {
+   "t": 5128.4,
+   "end": 5129.8,
+   "text": "now"
+  }
+ ]
+}

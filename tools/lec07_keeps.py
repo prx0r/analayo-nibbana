@@ -1,0 +1,26 @@
+# Lecture 07 (Sermon 7: anidassana, non-manifestative consciousness) — YT seconds
+KEEPS = [
+ (596.5,663.0,1),(663.0,707.0,1),(945.5,1016.3,1),(1013.3,1154.5,1),(1189.3,1253.9,2),
+ (1255.2,1459.6,1),(1497.3,1592.1,1),(1595.3,1630.0,1),(1637.8,1660.4,2),(1663.0,1704.8,2),
+ (1816.2,1879.6,1),(1919.0,2054.4,2),(2051.6,2091.3,2),(2092.3,2136.7,2),
+ (2137.5,2190.4,1),(2191.2,2312.4,1),(2314.7,2403.2,2),(2407.0,2473.9,2),(2476.8,2530.5,1),
+ (2531.3,2725.6,1),(2754.8,2903.4,1),(2900.9,2981.8,2),(2982.6,3136.4,1),
+ (3193.0,3253.6,1),(3391.4,3461.2,1),(3472.1,3553.0,1),(3550.5,3608.2,1),
+ (3609.5,3682.9,1),(3679.2,3701.1,1),(4279.4,4343.1,2),(4364.2,4408.9,1),
+ (4524.6,4667.5,1),(4726.1,4803.7,1),(4809.7,4913.4,1),(4924.1,5007.6,2),(5008.3,5057.3,2),
+]
+MAJOR = [
+ (0.0,596.5,"logistics","forum recap (three-sankhara notes, comparative-studies essay, dog/Adyashanti, five-aggregates discussion) + one-eye/two-eyes intro"),
+ (707.0,945.5,"tangent","pabhanga-vs-luminosity textual critique over five parallels + Norman article"),
+ (1154.5,1189.3,"repetition","Chinese Maya-maga restatement of the sky-simile"),
+ (1459.6,1497.3,"repetition","established/unestablished consciousness recap (episodes 2-3)"),
+ (1704.8,1816.2,"tangent","long/short wood-framework exposition of relative concepts"),
+ (1879.6,1919.0,"tangent","pabhanga variant-reading note"),
+ (3133.8,3193.0,"filler","'difficulties decoded' meta + commentary-promised framing"),
+ (3255.7,3391.4,"tangent","verb-distinction + eight-syllable metre philology comment"),
+ (3701.8,4279.4,"tangent","entire commentary-interpretation survey: organic-scope, stature/body readings, etymologies, Buddha-Ghosha second thoughts — the driest block of the series"),
+ (4408.9,4524.6,"tangent","edition-attribution grammar workshop"),
+ (4667.5,4726.1,"tangent","Vinittaka/Beal scholarship tail"),
+ (5057.3,5095.0,"logistics","bibliography + thanks"),
+]
+SUMMARY = "cold-open motto; the Kevanda verse — non-manifestative consciousness where earth/water/fire/air find no footing; sky-pictures simile (nothing manifests in space); mirror & dog-reflection; plumb-line of unplumbed depth; Udana verses; birds-in-the-sky trackless arahant; luminous-mind sutta (defiled → purified → further development); the cinema decoded: all-sides light vs beam, the motto as film events; riddle of the four elements; ghosts of elements exorcised in consciousness; full verse rendering; Brahma's claim ≠ nibbana (the parallels thesis); does-not-partake-of-earthiness; his concluding points; close."
