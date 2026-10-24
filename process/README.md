@@ -48,6 +48,7 @@ techniques), `MISTAKES.md` (everything we got wrong + fixes),
 `08-PORTING.md` (new texts/languages, e.g. Sanskrit),
 `09-BELLS-ZOOM.md` (two-bell grammar + zoom assembly order),
 `10-MATHEMATICS.md` (measured structure: 6, 72, ~3.5×, 340, 2, 1).
+`11-STICKINESS.md` (why the format sticks: mechanisms already in the build, cheap adds, parked jokes track, portability verdict).
 
 ## What it guarantees
 
