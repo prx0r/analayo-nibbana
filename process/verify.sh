@@ -12,21 +12,26 @@ print('OK')"
 echo "== G5 provenance =="
 python3 -c "
 import json,glob,re
-src={}
+spans=set()
 for f in sorted(glob.glob('/tmp/satsang-ext/53-nibbana-scaffold/sermon-*-excavation.md')):
-  src[f]=re.sub(r'\s+',' ',re.sub(r'\*','',open(f).read())).lower()
-texts=list(src.values())
-def norm(t): return re.sub(r'\s+',' ',re.sub(r'\*','',t)).strip().lower()
+  raw=open(f).read()
+  for m in re.finditer(r'\"([^\"]{10,})\"', raw, re.S):
+    spans.add(re.sub(r'\\s+',' ',re.sub(r'\*','',m.group(1))).strip().lower())
+def normstrip(t):
+  t=re.sub(r'\s+',' ',re.sub(r'\*','',t)).strip()
+  if (t.startswith('\"') and t.endswith('\"')) or (t.startswith(chr(8220)) and t.endswith(chr(8221))): t=t[1:-1]
+  return t.strip().lower()
 bad=total=0
+miss=[]
 for s in range(1,7):
   for e in json.load(open('build/seg%d_script.json'%s)):
-    v=e.get('nanananda_verbatim',''); vs=v if isinstance(v,list) else [v]
-    for q in vs:
+    v=e.get('nanananda_verbatim','')
+    for q in (v if isinstance(v,list) else [v]):
       if not q: bad+=1; continue
       total+=1
-      if not any(norm(q) in t for t in texts): bad+=1; print('FAIL S%dc%d'%(s,e['clip']))
+      if normstrip(q) not in spans: bad+=1; miss.append((s,e['clip'],normstrip(q)[:60]))
 print('provenance %d/%d'%(total-bad,total))
-assert bad==0, 'PROVENANCE FAILURES'
+assert not bad, 'PROVENANCE FAILURES: %s' % miss[:5]
 print('OK')"
 echo "== G6 TTS scan =="
 python3 -c "

@@ -22,10 +22,13 @@
    "end": 3345,
    "dur": 101
   },
-  "nanananda_verbatim": "\"What is burning?\" \u2014 the wood\n  burns because of the fire, the fire burns because of the wood. This\n  itself shows **idappaccayata** (this-to-that relatedness). The fire\n  simile has very deep significance.\n- Upadana means BOTH fuel and grasping. The fire grasps the wood; the\n  wood grasps the fire. We call it We call it \"firewood.\"",
+  "nanananda_verbatim": [
+   "\"What is burning?\"",
+   "\"Those wise ones get extinguished even like this lamp.\""
+  ],
   "nanananda_sermon": 1,
   "match": 12,
-  "override": " What-is-burning lead + firewood close (verified contiguous)",
+  "override": "pure-quote list (hand stitches removed)",
   "plain_english_below": "\"What is burning?\" \u2014 the wood burns because of the fire, the fire burns because of the wood. This itself shows **idappaccayata (this happens because that happened)**. The fire simile has very deep significance. - Upadana (holding on) means BOTH fuel and holding on. The fire grasps the wood; the wood grasps the fire. We call it We call it \"firewood.\"",
   "tts_line": "\"What is burning?\" \u2014 the wood burns because of the fire, the fire burns because of the wood. This itself shows idappaccayata \u2014 this happens because that happened. The fire simile has very deep significance. Upadana \u2014 holding on \u2014 means BOTH fuel and holding on. The fire grasps the wood, the wood grasps the fire. We call it We call it \"firewood.\""
  },
@@ -37,10 +40,14 @@
    "end": 4230,
    "dur": 35
   },
-  "nanananda_verbatim": "\"Khayamatta na nibbanam\" \u2014 This is peaceful, this is sublime: the calming of all\nconstructions, the letting go of all supports, the extinguishing of\ncraving, dispassion, cessation, Nibbana.",
+  "nanananda_verbatim": [
+   "\"Khayamatta na nibbanam\"",
+   "\"To project Nibbana into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\"",
+   "\"To think that the destruction of craving is not sufficient is like trying to give water to one who has already quenched his thirst.\""
+  ],
   "nanananda_sermon": 1,
   "match": 5,
-  "override": "Khayamatta lead (verified contiguous)",
+  "override": "pure-quote list (hand stitches removed)",
   "plain_english_below": "\"Khayamatta na nibbanam (out, like a flame with no fuel)\" \u2014 This is peaceful, this is sublime: everything the mind builds goes quiet, the dropping everything you lean on, the ending of craving, the pull dies out, stopping, out, like a flame with no fuel.",
   "tts_line": "This is peaceful, this is sublime \u2014 everything the mind builds goes quiet, the dropping everything you lean on, the ending of craving, the pull dies out, stopping, out, like a flame with no fuel."
  },
@@ -80,11 +87,14 @@
    "end": 4274,
    "dur": 44
   },
-  "nanananda_verbatim": "\u2014 destruction alone is\n  not Nibbana. **Nanananda: this is a commentarial invention, not a\n  sutta position.**\n- Udana verse:",
+  "nanananda_verbatim": [
+   "\"What is the use of a well, if water is there all the time, having cut craving at the root, in search of what should one wander?\""
+  ],
   "nanananda_sermon": 1,
   "match": 6,
   "plain_english_below": "\u2014 destruction alone is not Nibbana (out, like a flame with no fuel). **Nanananda: this is a commentarial invention, not a sutta position.** - Udana verse:",
-  "tts_line": "\u2014 destruction alone is not Nibbana \u2014 out, like a flame with no fuel. Nanananda \u2014 this is a commentarial invention, not a sutta position. Udana verse \u2014"
+  "tts_line": "\u2014 destruction alone is not Nibbana \u2014 out, like a flame with no fuel. Nanananda \u2014 this is a commentarial invention, not a sutta position. Udana verse \u2014",
+  "override": "pure-quote list (hand stitches removed)"
  },
  {
   "clip": 7,
