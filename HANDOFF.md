@@ -130,3 +130,6 @@ Effort: ~2–3h curation. No new recording; all spans already exist.
 T1 load-bearing: 01, 04, 09, 11, 13, 21, 31 (+10 as alternate).
 T2 major: 02, 03, 05, 06, 07, 08, 12, 18, 20, 25, 30.
 T3 supporting: 14, 15, 16, 17, 19, 22, 23, 24, 26, 27, 28, 29 (+32/33 provisional).
+
+## CONDENSED BUILD (2026-10-24, in progress — see CONDENSED-BUILD-NOTES.md)
+Same 33 cutplans reorganized into 6 argument-order segments (§1 What … §6 Remains), 3 versions each: V1 pool 20.7h / V2 gold 6.3h / V3 core ~111m (82 clips + Nanananda pads from 53-nibbana-scaffold excavations). Manifests + ordered JSON in /tmp/opencode/condensed/. Render proven: §1 core 11/14 → 10.2m mp3. Blocked: 10 DS mp3s to fetch (03,06,07,14,17,20,22,24,26,27). QA flags: f1 S3 376s clip split at render, f2 S5 heavy closer, f3 S4 thin 8.8m by design, f4 S2 8m L10 weight.
