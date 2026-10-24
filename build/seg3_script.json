@@ -11,10 +11,7 @@
   "nanananda_sermon": 1,
   "cluster": 0,
   "plain_english_below": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name.",
-  "tts_line": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name."
  },
  {
   "clip": 2,
@@ -28,10 +25,7 @@
   "nanananda_sermon": 9,
   "cluster": 0,
   "plain_english_below": "It is as if one is trying to outstrip one's shadow by running towards it out of fun, while the other is trying to flee from it out of fear.",
-  "tts_line": "It is as if one is trying to outstrip one's shadow by running towards it out of fun, while the other is trying to flee from it out of fear.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "It is as if one is trying to outstrip one's shadow by running towards it out of fun, while the other is trying to flee from it out of fear."
  },
  {
   "clip": 3,
@@ -49,11 +43,9 @@
   ],
   "nanananda_sermon": "S11-Madhupindika/honey-ball (4 verified excerpts)",
   "cluster": 4,
-  "plain_english_below": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha beset him. / The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views. / Just as if a man overcome by hunger came upon a honey-ball. / When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca.",
-  "tts_line": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha beset him.. The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.. Just as if a man overcome by hunger came upon a honey-ball.. When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "override": "documented",
+  "plain_english_below": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha (spiralling stories out of everything, perceiving and counting and naming) beset him. / The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views. / Just as if a man overcome by hunger came upon a honey-ball. / When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca.",
+  "tts_line": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset him.. The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.. Just as if a man overcome by hunger came upon a honey-ball.. When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca."
  },
  {
   "clip": 4,
@@ -67,10 +59,7 @@
   "nanananda_sermon": 10,
   "cluster": 3,
   "plain_english_below": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it.",
-  "tts_line": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
  },
  {
   "clip": 5,
@@ -84,10 +73,7 @@
   "nanananda_sermon": 33,
   "cluster": 3,
   "plain_english_below": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving.",
-  "tts_line": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving."
  },
  {
   "clip": 6,
@@ -100,11 +86,8 @@
   "nanananda_verbatim": "From whatever source papa\u00f1casa\u00f1\u00f1\u0101sankh\u0101 beset a man, if, in regard to\nthat, there is nothing to be delighted in, asserted, or clung to, then\nthis itself is the end of the underlying tendencies to attachment, to\naversion, to views, to doubts, to conceit, to attachment towards\nexistence, and to ignorance.",
   "nanananda_sermon": 11,
   "cluster": 4,
-  "plain_english_below": "From whatever source papancasannasankha beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works.",
-  "tts_line": "From whatever source papancasannasankha beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "plain_english_below": "From whatever source papancasannasankha (spiralling stories out of everything, perceiving and counting and naming) beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works.",
+  "tts_line": "From whatever source papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works."
  },
  {
   "clip": 7,
@@ -118,10 +101,7 @@
   "nanananda_sermon": 10,
   "cluster": 4,
   "plain_english_below": "Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence.",
-  "tts_line": "Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence."
  },
  {
   "clip": 8,
@@ -135,10 +115,7 @@
   "nanananda_sermon": 14,
   "cluster": 5,
   "plain_english_below": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of asava, influx.",
-  "tts_line": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of asava, influx.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of asava, influx."
  },
  {
   "clip": 9,
@@ -152,10 +129,7 @@
   "nanananda_sermon": 14,
   "cluster": 5,
   "plain_english_below": "Steadied whereon the tides of imaginings no longer occur in him.",
-  "tts_line": "Steadied whereon the tides of imaginings no longer occur in him.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "Steadied whereon the tides of imaginings no longer occur in him."
  },
  {
   "clip": 10,
@@ -165,14 +139,12 @@
    "end": 2191.3,
    "dur": 61.3
   },
-  "nanananda_verbatim": "Gods and men delight in existence, they are attached to existence...\nWhen Dhamma is being preached to them for the cessation of existence,\ntheir minds do not reach out towards it.",
+  "nanananda_verbatim": "Gods and men delight in existence, they are attached to existence... When Dhamma is being preached to them for the cessation of existence, their minds do not reach out towards it.",
   "nanananda_sermon": 10,
   "cluster": 7,
+  "override": "documented",
   "plain_english_below": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it.",
-  "tts_line": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
  },
  {
   "clip": 11,
@@ -186,10 +158,7 @@
   "nanananda_sermon": 14,
   "cluster": 7,
   "plain_english_below": "He understands it to be impermanent, uninvolved, unrejoiced.",
-  "tts_line": "He understands it to be impermanent, uninvolved, unrejoiced.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "He understands it to be impermanent, uninvolved, unrejoiced."
  },
  {
   "clip": 12,
@@ -203,10 +172,7 @@
   "nanananda_sermon": 14,
   "cluster": 8,
   "plain_english_below": "The nature of consciousness in general is to abide or dwell in. That nonmanifestative consciousness, however, has got rid of the tendency to abide or dwell in.",
-  "tts_line": "The nature of consciousness in general is to abide or dwell in. That nonmanifestative consciousness, however, has got rid of the tendency to abide or dwell in.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "The nature of consciousness in general is to abide or dwell in. That nonmanifestative consciousness, however, has got rid of the tendency to abide or dwell in."
  },
  {
   "clip": 13,
@@ -220,10 +186,7 @@
   "nanananda_sermon": 25,
   "cluster": 8,
   "plain_english_below": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other.",
-  "tts_line": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other."
  },
  {
   "clip": 14,
@@ -237,10 +200,7 @@
   "nanananda_sermon": 9,
   "cluster": 9,
   "plain_english_below": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality: I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'.",
-  "tts_line": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'."
  },
  {
   "clip": 15,
@@ -254,9 +214,6 @@
   "nanananda_sermon": 10,
   "cluster": 10,
   "plain_english_below": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava (the next me forming) and vibhava, the word bhuta has some peculiarity of its own.",
-  "tts_line": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own.",
-  "provenance": "verified-exact",
-  "tts_dropped_palilead": 0,
-  "tts_dropped": 0
+  "tts_line": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own."
  }
 ]
