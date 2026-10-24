@@ -2,8 +2,8 @@
  "lecture": 13,
  "target_min": 30,
  "source_min": 81.9,
- "kept_sec": 1921.1,
- "kept_pct": 39,
+ "kept_sec": 1790.5,
+ "kept_pct": 36,
  "timebase": {
   "native": "ds",
   "yt_first": 8.24,
@@ -67,12 +67,6 @@
   },
   {
    "start": 1508.24,
-   "end": 1510.98,
-   "kind": "trim",
-   "reason": "short span inside removed region"
-  },
-  {
-   "start": 1641.64,
    "end": 1649.76,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -192,11 +186,6 @@
    "grade": "A"
   },
   {
-   "start": 1511.0,
-   "end": 1641.6,
-   "grade": "A"
-  },
-  {
    "start": 1649.8,
    "end": 1772.2,
    "grade": "A"
@@ -253,12 +242,12 @@
   }
  ],
  "grade_counts": {
-  "A": 21,
+  "A": 20,
   "B": 0,
   "C": 0
  },
  "grade_minutes": {
-  "A": 32.0,
+  "A": 29.8,
   "B": 0.0,
   "C": 0.0
  }

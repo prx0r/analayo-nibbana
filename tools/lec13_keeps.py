@@ -10,7 +10,6 @@ KEEPS = [
     (1124.2, 1257.94, 1),
     (1259.04, 1361.02, 1),
     (1377.0, 1508.24, 1),
-    (1510.98, 1641.64, 1),
     (1649.76, 1772.18, 1),
     (1778.18, 1903.22, 1),
     (1924.82, 2026.14, 1),
@@ -23,7 +22,6 @@ KEEPS = [
     (2765.2, 2881.72, 1),
     (2900.88, 2999.2, 1),
 ]
-
 MAJOR = [
     (0.0, 695.04, "forum", "course welcome + forum discussion + bridge"),
     (699.22, 710.14, "chant", "motto-to-permission gap"),
@@ -35,6 +33,7 @@ MAJOR = [
     (2191.3, 2202.12, "pali", "Pali recitation / chant gap"),
     (2717.86, 2749.34, "translation", "second translation: Comment Translation by Bhikkabodhi"),
     (2999.62, 4914.19, "closer", "comment + thanks closer"),
+    (1511.0, 1641.6, "boring", "modern cognitive-psychology parallel (C)"),
 ]
 
 SUMMARY = ("motto -> Mulapariyaya third attitude: arahant/Tathagata knows earth as earth without imagining or delighting -> genitive-possession grammar -> no craving/conceit/view entanglement -> commentary controversy -> 24 concepts + reckoning/designation synonyms -> not delighting even in nibbana -> against noun-ifying nibbana as goal-object")
