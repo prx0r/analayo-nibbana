@@ -16,10 +16,12 @@ separates Nanananda-reading from Analayo-explaining inside his audio.
 ## Who speaks what (v2)
 1. ANALAYO (archive) — BOTH voices, as cut: (a) Nanananda-reading (incl. Pali
    motto/verses + English sermon text), (b) his own unlock comments. Unchanged audio.
-2. FISH (TTS) — plain-English TRANSLATION of Nanananda, placed to make Analayo
-   followable: BEFORE dense Nanananda-reading clips (prime: "he's about to say...")
-   or AFTER (land: "in other words..."). 82 cues saved (segN_fish.json).
-   Never Pali, never meta-talk.
+2. FISH (TTS) — the KEY, nothing else. When Analayo's audio speaks a Pali term,
+   Fish says the mapped English word/phrase and stops. First hearing per section
+   only, max 2 drops per clip (23 drops across the whole ~2h core). Never a
+   sentence. Never "he's about to say", never "in other words", never narration.
+   Map: /tmp/opencode/condensed/fish_filter.py (ascii-spelling safe).
+   Drops: segN_terms.json. E.g. hears "papancha" → says "spiralling". That's it.
 3. HUMAN (you) — section intros (~40s ×6, your words: what it answers, why now)
    + bridge lines ONLY where neither Fish nor Analayo covers the join (marked
    BRIDGE in manifests — rare). Total ≈ 4-5 min raw. No Pali, no verses.
