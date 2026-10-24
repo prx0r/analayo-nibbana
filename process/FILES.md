@@ -30,3 +30,8 @@ rematch2 pool-builder).
 ## Quarantine (`/tmp/opencode/condensed/slop/` — NOT in repo, never ships)
 seg1-7_fish.json (composed Fish narration), seg1_pads.json (hand beats).
 Kept as evidence. See MISTAKES.md M1–M2.
+
+## Also part of the build
+`09-BELLS-ZOOM.md`, `10-MATHEMATICS.md`, `build/assembly_sN.json` (340
+ordered events), `build/assets/motto-bell.wav` + `zoom-bell.wav`
+(synthesized, 2.5 s / 6.0 s), `build/human-scripts.md` (6 intros, DRAFT).
