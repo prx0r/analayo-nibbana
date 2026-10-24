@@ -2,143 +2,186 @@
  "lecture": 13,
  "target_min": 30,
  "source_min": 81.9,
- "kept_sec": 1790.5,
- "kept_pct": 36,
+ "kept_sec": 2362.3,
+ "kept_pct": 48,
  "timebase": {
   "native": "ds",
   "yt_first": 8.24,
   "yt_last": 4913.48
  },
- "dropped_spans": [],
+ "dropped_spans": [
+  {
+   "start": 3374.0,
+   "end": 3626.0,
+   "rank": 2
+  },
+  {
+   "start": 3700.0,
+   "end": 3894.0,
+   "rank": 2
+  },
+  {
+   "start": 2202.1,
+   "end": 2338.0,
+   "rank": 2
+  },
+  {
+   "start": 1124.2,
+   "end": 1257.9,
+   "rank": 2
+  },
+  {
+   "start": 1377.0,
+   "end": 1508.2,
+   "rank": 2
+  },
+  {
+   "start": 995.3,
+   "end": 1122.1,
+   "rank": 2
+  }
+ ],
  "cuts": [
   {
    "start": 0.0,
-   "end": 695.04,
+   "end": 695.0,
    "kind": "forum",
-   "reason": "course welcome + forum discussion + bridge"
+   "reason": "course welcome + forum discussion (anidasana translation thread) + bridge"
   },
   {
-   "start": 699.22,
-   "end": 710.14,
+   "start": 699.2,
+   "end": 710.1,
    "kind": "chant",
    "reason": "motto-to-permission gap"
   },
   {
-   "start": 727.46,
-   "end": 769.34,
+   "start": 727.5,
+   "end": 769.3,
+   "kind": "recap",
+   "reason": "previous-sermon (Mulapariyaya setup) recap + lead-in"
+  },
+  {
+   "start": 771.2,
+   "end": 804.2,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 771.22,
-   "end": 804.16,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 833.04,
-   "end": 860.86,
+   "start": 833.0,
+   "end": 860.9,
    "kind": "translation",
-   "reason": "second translation: Commenter translation by Nyanamoli."
+   "reason": "second translation (Nyanamoli) of earth-as-earth + End"
   },
   {
-   "start": 984.96,
-   "end": 995.28,
+   "start": 985.0,
+   "end": 1259.0,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 1122.06,
-   "end": 1124.2,
+   "start": 1361.0,
+   "end": 1649.8,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1772.2,
+   "end": 1778.2,
    "kind": "trim",
    "reason": "short span inside removed region"
   },
   {
-   "start": 1257.94,
-   "end": 1259.04,
+   "start": 1903.2,
+   "end": 1924.8,
+   "kind": "academic",
+   "reason": "enumeration-of-24 method note"
+  },
+  {
+   "start": 2026.1,
+   "end": 2047.1,
    "kind": "trim",
-   "reason": "short span inside removed region"
+   "reason": "transition"
   },
   {
-   "start": 1361.02,
-   "end": 1377.0,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
-  },
-  {
-   "start": 1508.24,
-   "end": 1649.76,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 1772.18,
-   "end": 1778.18,
-   "kind": "trim",
-   "reason": "short span inside removed region"
-  },
-  {
-   "start": 1903.22,
-   "end": 1924.82,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 2026.14,
-   "end": 2047.12,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 2107.02,
+   "start": 2107.0,
    "end": 2130.0,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "kind": "translation",
+   "reason": "second translation (seka passage) + End"
   },
   {
    "start": 2191.3,
-   "end": 2202.12,
-   "kind": "pali",
-   "reason": "Pali recitation / chant gap"
-  },
-  {
-   "start": 2338.0,
-   "end": 2367.28,
+   "end": 2367.3,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2473.08,
-   "end": 2499.78,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "start": 2473.1,
+   "end": 2499.8,
+   "kind": "trim",
+   "reason": "transition"
   },
   {
-   "start": 2606.42,
-   "end": 2630.64,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "start": 2606.4,
+   "end": 2630.6,
+   "kind": "translation",
+   "reason": "second translation (genitive passage) + End"
   },
   {
-   "start": 2717.86,
+   "start": 2717.9,
    "end": 2765.2,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "kind": "translation",
+   "reason": "second translation (enumeration) + End"
   },
   {
-   "start": 2881.72,
-   "end": 2900.88,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "start": 2881.7,
+   "end": 2900.9,
+   "kind": "pali",
+   "reason": "Pali recitation + gap"
   },
   {
    "start": 2999.2,
-   "end": 4914.19,
-   "kind": "closer",
-   "reason": "comment + thanks closer"
+   "end": 3000.5,
+   "kind": "trim",
+   "reason": "break gap (thanks + restart)"
+  },
+  {
+   "start": 3102.0,
+   "end": 3163.0,
+   "kind": "pali",
+   "reason": "Pali recitation + EN fragments (litany kept EN)"
+  },
+  {
+   "start": 3214.0,
+   "end": 3894.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4029.0,
+   "end": 4073.0,
+   "kind": "translation",
+   "reason": "translation + comment block (reminder cut with it)"
+  },
+  {
+   "start": 4428.0,
+   "end": 4434.0,
+   "kind": "trim",
+   "reason": "transition applause gap"
+  },
+  {
+   "start": 4546.0,
+   "end": 4547.0,
+   "kind": "trim",
+   "reason": "transition"
+  },
+  {
+   "start": 4648.0,
+   "end": 4670.0,
+   "kind": "translation",
+   "reason": "second translation (Bikkabodi) of arahant-speech + End"
   }
  ],
- "keep_summary": "motto -> Mulapariyaya third attitude: arahant/Tathagata knows earth as earth without imagining or delighting -> genitive-possession grammar -> no craving/conceit/view entanglement -> commentary controversy -> 24 concepts + reckoning/designation synonyms -> not delighting even in nibbana -> against noun-ifying nibbana as goal-object",
+ "keep_summary": "motto -> Mulapariyaya third attitude (arahant/Tathagata) -> no-imagining/no-delighting -> 24 concepts -> not delighting in nibbana -> Yavakalapina imagining litany -> otherwise-ness/animitta -> flood crossing -> house concept -> Sakka/Moggallana urgency tale -> arahant speech -> scaffolding close",
  "kept_segments": [
   {
    "start": 695.0,
@@ -148,12 +191,12 @@
   {
    "start": 710.1,
    "end": 727.5,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 769.3,
    "end": 771.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 804.2,
@@ -163,47 +206,32 @@
   {
    "start": 860.9,
    "end": 985.0,
-   "grade": "A"
-  },
-  {
-   "start": 995.3,
-   "end": 1122.1,
-   "grade": "A"
-  },
-  {
-   "start": 1124.2,
-   "end": 1257.9,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1259.0,
    "end": 1361.0,
-   "grade": "A"
-  },
-  {
-   "start": 1377.0,
-   "end": 1508.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1649.8,
    "end": 1772.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1778.2,
    "end": 1903.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1924.8,
    "end": 2026.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2047.1,
    "end": 2107.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2130.0,
@@ -211,44 +239,119 @@
    "grade": "A"
   },
   {
-   "start": 2202.1,
-   "end": 2338.0,
-   "grade": "A"
-  },
-  {
    "start": 2367.3,
    "end": 2473.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2499.8,
    "end": 2606.4,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2630.6,
    "end": 2717.9,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2765.2,
    "end": 2881.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2900.9,
    "end": 2999.2,
+   "grade": "B"
+  },
+  {
+   "start": 3000.5,
+   "end": 3102.0,
+   "grade": "B"
+  },
+  {
+   "start": 3163.0,
+   "end": 3214.0,
+   "grade": "A"
+  },
+  {
+   "start": 3894.0,
+   "end": 3910.0,
+   "grade": "A"
+  },
+  {
+   "start": 3910.0,
+   "end": 4029.0,
+   "grade": "B"
+  },
+  {
+   "start": 4073.0,
+   "end": 4092.0,
+   "grade": "B"
+  },
+  {
+   "start": 4092.0,
+   "end": 4116.0,
+   "grade": "A"
+  },
+  {
+   "start": 4116.0,
+   "end": 4281.0,
+   "grade": "A"
+  },
+  {
+   "start": 4281.0,
+   "end": 4310.0,
+   "grade": "B"
+  },
+  {
+   "start": 4310.0,
+   "end": 4428.0,
+   "grade": "B"
+  },
+  {
+   "start": 4434.0,
+   "end": 4546.0,
+   "grade": "A"
+  },
+  {
+   "start": 4547.0,
+   "end": 4627.0,
+   "grade": "B"
+  },
+  {
+   "start": 4627.0,
+   "end": 4648.0,
+   "grade": "A"
+  },
+  {
+   "start": 4670.0,
+   "end": 4702.0,
+   "grade": "A"
+  },
+  {
+   "start": 4702.0,
+   "end": 4779.0,
+   "grade": "B"
+  },
+  {
+   "start": 4779.0,
+   "end": 4884.0,
+   "grade": "B"
+  },
+  {
+   "start": 4884.0,
+   "end": 4914.0,
    "grade": "A"
   }
  ],
  "grade_counts": {
-  "A": 20,
-  "B": 0,
+  "A": 11,
+  "B": 21,
   "C": 0
  },
  "grade_minutes": {
-  "A": 29.8,
-  "B": 0.0,
+  "A": 9.1,
+  "B": 30.3,
   "C": 0.0
  }
 }

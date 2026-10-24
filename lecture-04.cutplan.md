@@ -1,6 +1,6 @@
 # Lecture 04 — cut plan
 
-Source 93.3 min → **kept 39.7 min (43%)** · 36 cuts · band 20–40 ✓
+Source 93.3 min → **kept 39.6 min (42%)** · 36 cuts · band 20–40 ✓
 - 0:00–8:05  [ranked-out]  content ranked below the 20-40min budget
 - 10:12–14:00  [tangent]  Abhidhamma three-lives/mind-moment history + Jurevich-Vedic comment (episode 2 covered Jurevich)
 - 15:16–15:18  [trim]  short span inside removed region
@@ -34,10 +34,10 @@ Source 93.3 min → **kept 39.7 min (43%)** · 36 cuts · band 20–40 ✓
 - 71:52–71:53  [trim]  short span inside removed region
 - 72:54–72:55  [trim]  short span inside removed region
 - 75:19–76:24  [repetition]  Mara-subtle-point + prevention-list preamble (unfailing-method line kept)
-- 77:26–88:22  [tangent]  entire Satipatthana arc: refrain recital, four-modes comment, Agama parallels, internal/external-neighbours — interlocked but off-spine; anchored phrases resume cleanly at the sunrise illustration
+- 77:22–88:22  [ranked-out]  content ranked below the 20-40min budget
 - 89:22–90:37  [repetition]  refrain-outcome restatement
 - 91:33–93:20  [logistics]  four-sermons meta-recap + repeated thank-yous
 
 **Keeps:** cold-open ruler-cup demonstration (12-links don't fit time → time itself dependently arisen → change = dependent arising → akalika resolved); motto; womb as change-of-view not transmigration; Dhammapada tree of craving-latency; Sela's seed-and-moisture verses; Kaccayana: right view = just arising/ceasing of suffering, no soul to lose; middle-path formula; world arises in the sixth; two bulls; four tradesmen + Kosia rice-cakes; tug-of-war let-go; sunrise-sunset neighbours; raft & scaffolding close.
 
-Grades: A=23(27.0m) B=18(12.7m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=7(8.4m) B=34(31.2m) C=0(0.0m) · dial: A → A+B → full

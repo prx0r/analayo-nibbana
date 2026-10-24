@@ -2,8 +2,8 @@
  "lecture": 7,
  "target_min": 30,
  "source_min": 84.9,
- "kept_sec": 2375.0,
- "kept_pct": 47,
+ "kept_sec": 2228.7,
+ "kept_pct": 44,
  "timebase": {
   "native": "yt",
   "yt_first": 4.62,
@@ -11,38 +11,23 @@
  },
  "dropped_spans": [
   {
-   "start": 1919.0,
-   "end": 2054.4,
+   "start": 4524.6,
+   "end": 4667.5,
+   "rank": 3
+  },
+  {
+   "start": 4809.7,
+   "end": 4913.4,
+   "rank": 3
+  },
+  {
+   "start": 1255.2,
+   "end": 1459.6,
    "rank": 2
   },
   {
-   "start": 2314.7,
-   "end": 2403.2,
-   "rank": 2
-  },
-  {
-   "start": 4924.1,
-   "end": 5007.6,
-   "rank": 2
-  },
-  {
-   "start": 2900.9,
-   "end": 2981.8,
-   "rank": 2
-  },
-  {
-   "start": 2407.0,
-   "end": 2473.9,
-   "rank": 2
-  },
-  {
-   "start": 1189.3,
-   "end": 1253.9,
-   "rank": 2
-  },
-  {
-   "start": 4279.4,
-   "end": 4343.1,
+   "start": 2531.3,
+   "end": 2712.0,
    "rank": 2
   }
  ],
@@ -61,15 +46,15 @@
   },
   {
    "start": 1154.5,
-   "end": 1255.2,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "end": 1189.3,
+   "kind": "repetition",
+   "reason": "Chinese Maya-maga restatement of the sky-simile"
   },
   {
-   "start": 1459.6,
+   "start": 1253.9,
    "end": 1497.3,
-   "kind": "repetition",
-   "reason": "established/unestablished consciousness recap (episodes 2-3)"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1592.1,
@@ -90,16 +75,16 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 1704.8,
-   "end": 1816.2,
-   "kind": "tangent",
-   "reason": "long/short wood-framework exposition of relative concepts"
+   "start": 1690.0,
+   "end": 1840.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1879.6,
-   "end": 2051.6,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "end": 1919.0,
+   "kind": "tangent",
+   "reason": "pabhanga variant-reading note"
   },
   {
    "start": 2091.3,
@@ -121,27 +106,33 @@
   },
   {
    "start": 2312.4,
-   "end": 2476.8,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
-  },
-  {
-   "start": 2530.5,
-   "end": 2531.3,
+   "end": 2314.7,
    "kind": "trim",
    "reason": "short span inside removed region"
   },
   {
-   "start": 2725.6,
+   "start": 2403.2,
+   "end": 2407.0,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2473.9,
+   "end": 2476.8,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2530.5,
    "end": 2754.8,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 2903.4,
+   "start": 2981.8,
    "end": 2982.6,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "kind": "trim",
+   "reason": "short span inside removed region"
   },
   {
    "start": 3136.4,
@@ -150,7 +141,7 @@
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 3253.6,
+   "start": 3206.0,
    "end": 3391.4,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -169,39 +160,39 @@
   },
   {
    "start": 3701.1,
+   "end": 4279.4,
+   "kind": "tangent",
+   "reason": "entire commentary-interpretation survey: organic-scope, stature/body readings, etymologies, Buddha-Ghosha second thoughts \u2014 the driest block of the series"
+  },
+  {
+   "start": 4343.1,
    "end": 4364.2,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 4408.9,
-   "end": 4524.6,
-   "kind": "tangent",
-   "reason": "edition-attribution grammar workshop"
-  },
-  {
-   "start": 4667.5,
    "end": 4726.1,
-   "kind": "tangent",
-   "reason": "Vinittaka/Beal scholarship tail"
-  },
-  {
-   "start": 4803.7,
-   "end": 4809.7,
-   "kind": "trim",
-   "reason": "short span inside removed region"
-  },
-  {
-   "start": 4913.4,
-   "end": 5008.3,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 5057.3,
+   "start": 4803.7,
+   "end": 4924.1,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5007.6,
+   "end": 5008.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 5059.0,
    "end": 5095.98,
-   "kind": "logistics",
-   "reason": "bibliography + thanks"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   }
  ],
  "keep_summary": "cold-open motto; the Kevanda verse \u2014 non-manifestative consciousness where earth/water/fire/air find no footing; sky-pictures simile (nothing manifests in space); mirror & dog-reflection; plumb-line of unplumbed depth; Udana verses; birds-in-the-sky trackless arahant; luminous-mind sutta (defiled \u2192 purified \u2192 further development); the cinema decoded: all-sides light vs beam, the motto as film events; riddle of the four elements; ghosts of elements exorcised in consciousness; full verse rendering; Brahma's claim \u2260 nibbana (the parallels thesis); does-not-partake-of-earthiness; his concluding points; close.",
@@ -209,32 +200,32 @@
   {
    "start": 596.5,
    "end": 663.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 663.0,
    "end": 707.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 945.5,
    "end": 1016.3,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1013.3,
    "end": 1154.5,
-   "grade": "A"
+   "grade": "B"
   },
   {
-   "start": 1255.2,
-   "end": 1459.6,
-   "grade": "A"
+   "start": 1189.3,
+   "end": 1253.9,
+   "grade": "B"
   },
   {
    "start": 1497.3,
    "end": 1592.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1595.3,
@@ -248,13 +239,18 @@
   },
   {
    "start": 1663.0,
-   "end": 1704.8,
+   "end": 1690.0,
    "grade": "B"
   },
   {
-   "start": 1816.2,
+   "start": 1840.0,
    "end": 1879.6,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 1919.0,
+   "end": 2054.4,
+   "grade": "B"
   },
   {
    "start": 2051.6,
@@ -274,7 +270,17 @@
   {
    "start": 2191.2,
    "end": 2312.4,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 2314.7,
+   "end": 2403.2,
+   "grade": "B"
+  },
+  {
+   "start": 2407.0,
+   "end": 2473.9,
+   "grade": "B"
   },
   {
    "start": 2476.8,
@@ -282,34 +288,34 @@
    "grade": "A"
   },
   {
-   "start": 2531.3,
-   "end": 2725.6,
-   "grade": "A"
-  },
-  {
    "start": 2754.8,
    "end": 2903.4,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 2900.9,
+   "end": 2981.8,
+   "grade": "B"
   },
   {
    "start": 2982.6,
    "end": 3136.4,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3193.0,
-   "end": 3253.6,
-   "grade": "A"
+   "end": 3206.0,
+   "grade": "B"
   },
   {
    "start": 3391.4,
    "end": 3461.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3472.1,
    "end": 3553.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3550.5,
@@ -319,7 +325,7 @@
   {
    "start": 3609.5,
    "end": 3682.9,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3679.2,
@@ -327,39 +333,39 @@
    "grade": "A"
   },
   {
+   "start": 4279.4,
+   "end": 4343.1,
+   "grade": "B"
+  },
+  {
    "start": 4364.2,
    "end": 4408.9,
    "grade": "A"
   },
   {
-   "start": 4524.6,
-   "end": 4667.5,
-   "grade": "A"
-  },
-  {
    "start": 4726.1,
    "end": 4803.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
-   "start": 4809.7,
-   "end": 4913.4,
-   "grade": "A"
+   "start": 4924.1,
+   "end": 5007.6,
+   "grade": "B"
   },
   {
    "start": 5008.3,
-   "end": 5057.3,
+   "end": 5059.0,
    "grade": "B"
   }
  ],
  "grade_counts": {
-  "A": 24,
-  "B": 5,
+  "A": 6,
+  "B": 26,
   "C": 0
  },
  "grade_minutes": {
-  "A": 36.3,
-  "B": 3.3,
+  "A": 4.4,
+  "B": 32.7,
   "C": 0.0
  }
 }

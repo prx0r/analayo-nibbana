@@ -2,8 +2,8 @@
  "lecture": 4,
  "target_min": 30,
  "source_min": 93.3,
- "kept_sec": 2381.5,
- "kept_pct": 43,
+ "kept_sec": 2377.7,
+ "kept_pct": 42,
  "timebase": {
   "native": "ds",
   "yt_first": 8.44,
@@ -210,10 +210,10 @@
    "reason": "Mara-subtle-point + prevention-list preamble (unfailing-method line kept)"
   },
   {
-   "start": 4646.3,
+   "start": 4642.5,
    "end": 5302.3,
-   "kind": "tangent",
-   "reason": "entire Satipatthana arc: refrain recital, four-modes comment, Agama parallels, internal/external-neighbours \u2014 interlocked but off-spine; anchored phrases resume cleanly at the sunrise illustration"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 5362.7,
@@ -243,22 +243,22 @@
   {
    "start": 918.1,
    "end": 950.4,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1014.5,
    "end": 1055.5,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1057.9,
    "end": 1194.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1199.9,
    "end": 1239.5,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1240,
@@ -268,7 +268,7 @@
   {
    "start": 1325,
    "end": 1422.6,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1462.4,
@@ -278,17 +278,17 @@
   {
    "start": 1504.5,
    "end": 1566.6,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1609.2,
    "end": 1700.3,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1856.5,
    "end": 1946.3,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2028.6,
@@ -313,7 +313,7 @@
   {
    "start": 2615,
    "end": 2716,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2825.7,
@@ -333,7 +333,7 @@
   {
    "start": 3363.1,
    "end": 3440.9,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3440.9,
@@ -363,7 +363,7 @@
   {
    "start": 3797.3,
    "end": 3840,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3840,
@@ -378,7 +378,7 @@
   {
    "start": 3945.5,
    "end": 4014.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4015.8,
@@ -413,37 +413,37 @@
   {
    "start": 4402.6,
    "end": 4475.6,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4475.6,
    "end": 4519.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4584.7,
-   "end": 4646.3,
+   "end": 4642.5,
    "grade": "A"
   },
   {
    "start": 5302.3,
    "end": 5362.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5437.9,
    "end": 5493.8,
-   "grade": "A"
+   "grade": "B"
   }
  ],
  "grade_counts": {
-  "A": 23,
-  "B": 18,
+  "A": 7,
+  "B": 34,
   "C": 0
  },
  "grade_minutes": {
-  "A": 27.0,
-  "B": 12.7,
+  "A": 8.4,
+  "B": 31.2,
   "C": 0.0
  }
 }

@@ -1,0 +1,375 @@
+{
+ "lecture": 33,
+ "target_min": 30,
+ "source_min": 66.0,
+ "kept_sec": 2270.1,
+ "kept_pct": 57,
+ "timebase": {
+  "native": "ds",
+  "yt_first": null,
+  "yt_last": null
+ },
+ "dropped_spans": [
+  {
+   "start": 732.2,
+   "end": 863.1,
+   "rank": 3
+  }
+ ],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 258.11,
+   "kind": "forum",
+   "reason": "course welcome + forum discussion + bridge"
+  },
+  {
+   "start": 279.1,
+   "end": 318.34,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 419.44,
+   "end": 488.4,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 510.27,
+   "end": 595.4,
+   "kind": "translation",
+   "reason": "second translation: experiences bodily and mental happiness. Comment, translatio"
+  },
+  {
+   "start": 731.16,
+   "end": 864.18,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 927.27,
+   "end": 949.91,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 991.04,
+   "end": 1045.82,
+   "kind": "translation",
+   "reason": "second translation: Common Translation by Amy Konyanamuni"
+  },
+  {
+   "start": 1051.82,
+   "end": 1066.98,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 1091.13,
+   "end": 1188.39,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1289.19,
+   "end": 1333.14,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1413.41,
+   "end": 1427.17,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1432.13,
+   "end": 1491.31,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1586.34,
+   "end": 1657.94,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1743.2,
+   "end": 1752.48,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1877.67,
+   "end": 1918.73,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1941.13,
+   "end": 2034.45,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2058.61,
+   "end": 2136.64,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2247.2,
+   "end": 2299.38,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2465.49,
+   "end": 2476.01,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2509.34,
+   "end": 2581.44,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2607.73,
+   "end": 2646.38,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2753.49,
+   "end": 2868.7,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2901.22,
+   "end": 2919.0,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2933.37,
+   "end": 3007.95,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3101.26,
+   "end": 3105.1,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3231.13,
+   "end": 3259.04,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3498.66,
+   "end": 3503.14,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3629.82,
+   "end": 3677.33,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3790.75,
+   "end": 3805.87,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3925.55,
+   "end": 3926.5,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 3935.38,
+   "end": 3958.63,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  }
+ ],
+ "keep_summary": "motto -> craving/becoming + path -> enlightenment factors -> mirage of percepts -> unattracted/unrepelled verse -> gap in the middle -> emancipation verse -> craving seamstress -> pleasant/unpleasant -> past/future non-clinging -> consciousness as middle -> tangle knot -> no-delight in formations (close)",
+ "kept_segments": [
+  {
+   "start": 258.1,
+   "end": 279.1,
+   "grade": "A"
+  },
+  {
+   "start": 318.3,
+   "end": 419.4,
+   "grade": "B"
+  },
+  {
+   "start": 488.4,
+   "end": 510.3,
+   "grade": "A"
+  },
+  {
+   "start": 595.4,
+   "end": 731.2,
+   "grade": "B"
+  },
+  {
+   "start": 864.2,
+   "end": 927.3,
+   "grade": "A"
+  },
+  {
+   "start": 949.9,
+   "end": 991.0,
+   "grade": "A"
+  },
+  {
+   "start": 1045.8,
+   "end": 1051.8,
+   "grade": "A"
+  },
+  {
+   "start": 1067.0,
+   "end": 1091.1,
+   "grade": "A"
+  },
+  {
+   "start": 1188.4,
+   "end": 1289.2,
+   "grade": "B"
+  },
+  {
+   "start": 1333.1,
+   "end": 1413.4,
+   "grade": "B"
+  },
+  {
+   "start": 1427.2,
+   "end": 1432.1,
+   "grade": "A"
+  },
+  {
+   "start": 1491.3,
+   "end": 1586.3,
+   "grade": "B"
+  },
+  {
+   "start": 1657.9,
+   "end": 1743.2,
+   "grade": "B"
+  },
+  {
+   "start": 1752.5,
+   "end": 1877.7,
+   "grade": "B"
+  },
+  {
+   "start": 1918.7,
+   "end": 1941.1,
+   "grade": "A"
+  },
+  {
+   "start": 2034.5,
+   "end": 2058.6,
+   "grade": "A"
+  },
+  {
+   "start": 2136.6,
+   "end": 2247.2,
+   "grade": "B"
+  },
+  {
+   "start": 2299.4,
+   "end": 2465.5,
+   "grade": "B"
+  },
+  {
+   "start": 2476.0,
+   "end": 2509.3,
+   "grade": "A"
+  },
+  {
+   "start": 2581.4,
+   "end": 2607.7,
+   "grade": "A"
+  },
+  {
+   "start": 2646.4,
+   "end": 2753.5,
+   "grade": "B"
+  },
+  {
+   "start": 2868.7,
+   "end": 2901.2,
+   "grade": "A"
+  },
+  {
+   "start": 2919.0,
+   "end": 2933.4,
+   "grade": "A"
+  },
+  {
+   "start": 3007.9,
+   "end": 3101.3,
+   "grade": "B"
+  },
+  {
+   "start": 3105.1,
+   "end": 3231.1,
+   "grade": "B"
+  },
+  {
+   "start": 3259.0,
+   "end": 3366.7,
+   "grade": "B"
+  },
+  {
+   "start": 3366.7,
+   "end": 3498.7,
+   "grade": "B"
+  },
+  {
+   "start": 3503.1,
+   "end": 3629.8,
+   "grade": "B"
+  },
+  {
+   "start": 3677.3,
+   "end": 3790.8,
+   "grade": "B"
+  },
+  {
+   "start": 3805.9,
+   "end": 3925.6,
+   "grade": "B"
+  },
+  {
+   "start": 3926.5,
+   "end": 3935.4,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 14,
+  "B": 17,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 5.7,
+  "B": 32.1,
+  "C": 0.0
+ }
+}

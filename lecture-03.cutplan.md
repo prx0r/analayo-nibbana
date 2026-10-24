@@ -26,4 +26,4 @@ Source 84.8 min → **kept 38.8 min (46%)** · 22 cuts · band 20–40 ✓
 
 **Keeps:** cold-open motto; abyss-of-pain chapter (bottomless-abyss sutta, two darts); dhamma-eye + where-the-fire-gone; Vipassi's yoni-reflection (no past-lives needed); weeds-simile immediacy; stream-winner vs three-periods; Himavanta verses; banana-trunk + blood-test similes; immersion/mind-travel chapter; cheetah-sutta three instances → close.
 
-Grades: A=14(22.0m) B=14(16.8m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=5(6.5m) B=23(32.3m) C=0(0.0m) · dial: A → A+B → full

@@ -5,28 +5,28 @@
 
 KEEPS = [
     (419.36, 422.66, 1),      # motto "This is peaceful."
-    (434.98, 447.70, 1),      # permission + 10th-sermon intro
-    (537.90, 609.44, 1),      # middle-path question + Yatha-bhuta + Itivuttaka intro
-    (698.28, 782.14, 1),      # Itivuttaka EN first reading (lag/overreach/eyes)
+    (434.98, 447.70, 2),      # permission + 10th-sermon intro
+    (537.90, 609.44, 2),      # middle-path question + Yatha-bhuta + Itivuttaka intro
+    (698.28, 782.14, 2),      # Itivuttaka EN first reading (lag/overreach/eyes)
     (913.98, 941.16, 1),      # Itivuttaka verses EN
     (974.52, 1350.50, 1),     # bhuta interposed between bhava/vibhava + eternalist/annihilationist + bhavanirodha
     (1351.28, 1657.04, 2),    # upholders atti/natti + asmi-mana grammar + upadaya etymology (technical, expendable)
     (1658.12, 1974.90, 1),    # rope winding simile + upadaya relativity + Khandha EN mirror passage
     (2081.44, 2314.48, 2),    # upadaya rendering difficulty + personality-view 20-modes setup (expendable)
     (2324.00, 2476.52, 2),    # 20 modes fourfold + Mahanidana intro (expendable)
-    (2614.50, 2703.96, 1),    # Mahanidana EN contact chain (name-form condition)
+    (2614.50, 2703.96, 2),    # Mahanidana EN contact chain (name-form condition)
     (2778.58, 3088.56, 1),    # four words akhara/linga/nimitta/uddesa + name-form mutual interrelation
     (3090.22, 3401.86, 3),    # esoteric-tradition critique + carpenter attention setup (academic, drop first)
     (3401.24, 3733.80, 1),    # interest/attention/contact + sticks-fire + rupa EN definition
-    (3843.72, 3963.90, 1),    # rupa depth + sect interpretations + heedless-men verse EN
+    (3843.72, 3963.90, 2),    # rupa depth + sect interpretations + heedless-men verse EN
     (3973.00, 3980.46, 2),    # Chula Niddesa nuances (short flow)
-    (3989.76, 4052.70, 1),    # rupati afflicted + Uttana verse EN
+    (3989.76, 4052.70, 2),    # rupati afflicted + Uttana verse EN
     (4064.78, 4229.70, 1),    # heatfulness/craving + simplicity + materialists/scientists mirage + perception-of-form
     (4239.54, 4250.78, 1),    # Jatara verse EN first reading (tangle snapped)
     (4263.60, 4283.46, 1),    # samsaric problem solved + non-manifestative consciousness
     (4292.66, 4455.54, 1),    # dependent-rising interrelation + whirlpool + form-misunderstanding lead-in
     (4464.40, 4470.82, 1),    # Kalaha-Vivada couplet EN first reading
-    (4481.70, 4565.00, 1),    # conclusion inference + machine simile + perception-of-form payoff + closer lead
+    (4481.70, 4565.00, 2),    # conclusion inference + machine simile + perception-of-form payoff + closer lead
 ]
 
 MAJOR = [

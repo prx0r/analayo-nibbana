@@ -26,4 +26,4 @@ _auto-dropped to fit: 51:30-56:41(r3); 22:31-27:37(r2); 34:41-38:34(r2); 38:44-4
 
 **Keeps:** motto -> middle-path knowledge-vision -> bhuta vs bhava/vibhava (Itivuttaka) -> eternalist/annihilationist as self-love/hate -> bhavanirodha as process-stop -> rope simile (hold in the middle) + mirror I-am + contact/name-form chain -> sticks-fire + rupa affliction -> perception-of-form mirage -> tangle snapped -> kalaha-vivada absolute-views payoff
 
-Grades: A=18(37.6m) B=1(0.1m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=11(28.9m) B=8(8.9m) C=0(0.0m) · dial: A → A+B → full

@@ -40,3 +40,46 @@ Source 88.2 min → **kept 32.6 min (37%)** · 36 cuts · band ✓
 - 87:48–88:12  [logistics]  forum plug, thanks, next-week logistics
 
 **Episode keeps:** welcome+theme; motto & unlock comment incl. sankara gloss; name/form core (Sopaka, rubber-ball, four elements, tangle); fire arc (lamp, epithets, accusers, cool-body, upadana, tetralemma/Upasiva); Nibbana=extinction (Ratanasutta, 11-fold fire, Radha chain, exam/certificate); sermon close + two-point recap.
+
+Grades: A=13(9.7m) B=26(22.9m) C=0(0.0m) · dial: A → A+B → full
+
+| span | grade |
+| 0:12–0:39 | **B** |
+| 9:08–9:43 | **B** |
+| 11:35–12:29 | **A** |
+| 12:29–13:24 | **B** |
+| 25:26–25:42 | **A** |
+| 25:48–26:26 | **B** |
+| 31:12–32:48 | **B** |
+| 33:51–34:48 | **B** |
+| 35:00–35:44 | **B** |
+| 37:00–37:42 | **B** |
+| 38:16–39:28 | **B** |
+| 40:34–41:11 | **B** |
+| 41:19–41:57 | **B** |
+| 42:15–43:25 | **A** |
+| 43:25–44:03 | **B** |
+| 44:09–46:09 | **B** |
+| 46:09–46:59 | **B** |
+| 47:45–48:43 | **B** |
+| 48:44–49:17 | **B** |
+| 49:58–51:23 | **A** |
+| 51:23–51:51 | **B** |
+| 52:27–52:44 | **A** |
+| 54:03–55:45 | **A** |
+| 55:45–56:27 | **B** |
+| 57:22–57:51 | **A** |
+| 60:45–61:35 | **B** |
+| 62:23–62:40 | **A** |
+| 62:40–64:23 | **B** |
+| 69:55–70:29 | **A** |
+| 70:30–71:13 | **A** |
+| 71:13–72:00 | **B** |
+| 75:23–76:01 | **A** |
+| 76:27–76:54 | **B** |
+| 78:11–78:43 | **A** |
+| 80:32–82:48 | **B** |
+| 83:32–84:18 | **A** |
+| 84:29–85:26 | **B** |
+| 86:39–87:00 | **B** |
+| 87:22–87:48 | **B** |

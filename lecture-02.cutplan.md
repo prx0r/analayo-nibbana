@@ -39,4 +39,4 @@ _auto-dropped to fit: 55:07-55:51(r3)_
 
 **Keeps:** welcome → motto & purpose-of-Nibbana; straight path & immediacy (epithets, fetters); Nila seawater + gone-for-good; island/Kappa chapter; twelve-link formula (English); the whirlpool chapter (formation, body-automatic, dukkha etymology, thisness/other-wiseness, birthday-of-death); not-self whirlpool + anguished-world verse; cessation solution + arahant cuts the whirlpool; no-footing verse; rupa/arupa + devil simile; duality close.
 
-Grades: A=15(18.1m) B=21(21.6m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=4(4.1m) B=32(35.5m) C=0(0.0m) · dial: A → A+B → full

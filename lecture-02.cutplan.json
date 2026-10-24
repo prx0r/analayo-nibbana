@@ -221,12 +221,12 @@
   {
    "start": 3.0,
    "end": 23.3,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 770.5,
    "end": 869.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 887.1,
@@ -236,17 +236,17 @@
   {
    "start": 1016.1,
    "end": 1146.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1146.1,
    "end": 1218.9,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1457.7,
    "end": 1556.3,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1559.4,
@@ -276,17 +276,17 @@
   {
    "start": 2219.2,
    "end": 2298.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2431.0,
    "end": 2446.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2559.9,
    "end": 2664.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2819.8,
@@ -326,7 +326,7 @@
   {
    "start": 3473.4,
    "end": 3584.0,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3617.1,
@@ -336,7 +336,7 @@
   {
    "start": 3827.1,
    "end": 3901.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3903.3,
@@ -351,7 +351,7 @@
   {
    "start": 4428.2,
    "end": 4455.2,
-   "grade": "B"
+   "grade": "A"
   },
   {
    "start": 4521.6,
@@ -371,7 +371,7 @@
   {
    "start": 5007.7,
    "end": 5053.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5128.3,
@@ -396,17 +396,17 @@
   {
    "start": 5482.2,
    "end": 5494.7,
-   "grade": "A"
+   "grade": "B"
   }
  ],
  "grade_counts": {
-  "A": 15,
-  "B": 21,
+  "A": 4,
+  "B": 32,
   "C": 0
  },
  "grade_minutes": {
-  "A": 18.1,
-  "B": 21.6,
+  "A": 4.1,
+  "B": 35.5,
   "C": 0.0
  }
 }

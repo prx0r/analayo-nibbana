@@ -56,4 +56,4 @@ _auto-dropped to fit: 84:42-86:38(r2); 48:51-50:28(r2); 71:34-73:01(r2); 83:29-8
 
 **Keeps:** motto -> Satipatthana postures/dumpshaw -> hands/feet relativity -> seven suns -> impermanence to voidness to not-self -> Dhammapada verses -> King Moolaka catechism -> chanda/Unnabha iddhipada -> gem-in-rubbish-heap analysis -> Brahmachala 62 views -> Samiddhi parallel catechism -> via-media/shadow conclusion
 
-Grades: A=47(38.8m) B=2(1.0m) C=0(0.0m) · dial: A → A+B → full
+Grades: A=40(36.9m) B=9(2.9m) C=0(0.0m) · dial: A → A+B → full

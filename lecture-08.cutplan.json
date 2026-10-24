@@ -2,8 +2,8 @@
  "lecture": 8,
  "target_min": 30,
  "source_min": 97.4,
- "kept_sec": 2386.4,
- "kept_pct": 41,
+ "kept_sec": 2348.8,
+ "kept_pct": 40,
  "timebase": {
   "native": "ds",
   "yt_first": 1.2,
@@ -11,8 +11,23 @@
  },
  "dropped_spans": [
   {
+   "start": 1756.2,
+   "end": 1869.0,
+   "rank": 2
+  },
+  {
    "start": 5495.3,
    "end": 5599.1,
+   "rank": 2
+  },
+  {
+   "start": 5211.1,
+   "end": 5312.9,
+   "rank": 2
+  },
+  {
+   "start": 3601.6,
+   "end": 3698.2,
    "rank": 2
   },
   {
@@ -21,63 +36,18 @@
    "rank": 2
   },
   {
+   "start": 4958.9,
+   "end": 5050.8,
+   "rank": 2
+  },
+  {
+   "start": 3517.9,
+   "end": 3599.6,
+   "rank": 2
+  },
+  {
    "start": 3323.5,
    "end": 3403.6,
-   "rank": 2
-  },
-  {
-   "start": 5378.1,
-   "end": 5432.5,
-   "rank": 2
-  },
-  {
-   "start": 2675.1,
-   "end": 2726.7,
-   "rank": 2
-  },
-  {
-   "start": 4136.6,
-   "end": 4187.6,
-   "rank": 2
-  },
-  {
-   "start": 4718.7,
-   "end": 4768.6,
-   "rank": 2
-  },
-  {
-   "start": 5764.2,
-   "end": 5812.9,
-   "rank": 2
-  },
-  {
-   "start": 3404.6,
-   "end": 3448.3,
-   "rank": 2
-  },
-  {
-   "start": 1874.1,
-   "end": 1916.2,
-   "rank": 2
-  },
-  {
-   "start": 5171.9,
-   "end": 5210.0,
-   "rank": 2
-  },
-  {
-   "start": 2115.3,
-   "end": 2151.6,
-   "rank": 2
-  },
-  {
-   "start": 2005.4,
-   "end": 2038.0,
-   "rank": 2
-  },
-  {
-   "start": 5812.9,
-   "end": 5842.2,
    "rank": 2
   }
  ],
@@ -108,30 +78,36 @@
   },
   {
    "start": 1607.2,
-   "end": 1756.2,
-   "kind": "tangent",
-   "reason": "six-negation list + Brahma-competition exposition (declaration kept)"
-  },
-  {
-   "start": 1871.1,
-   "end": 1916.2,
+   "end": 1874.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1956.1,
+   "end": 2005.4,
+   "kind": "filler",
+   "reason": "square-brackets/oral-presentation meta comment"
+  },
+  {
+   "start": 2036.0,
    "end": 2041.9,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "kind": "trim",
+   "reason": "short span inside removed region"
   },
   {
    "start": 2113.4,
-   "end": 2156.3,
-   "kind": "ranked-out",
-   "reason": "content ranked below the 20-40min budget"
+   "end": 2115.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
   },
   {
-   "start": 2220.8,
+   "start": 2151.6,
+   "end": 2156.3,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 2224.0,
    "end": 2283.4,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -156,9 +132,15 @@
   },
   {
    "start": 2665.2,
-   "end": 2787.3,
+   "end": 2675.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2726.7,
+   "end": 2787.3,
+   "kind": "repetition",
+   "reason": "'audience produces the drama' restatement (episode 6's chapter)"
   },
   {
    "start": 2835.9,
@@ -180,27 +162,21 @@
   },
   {
    "start": 3302.7,
-   "end": 3450.6,
+   "end": 3404.6,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 3487.0,
-   "end": 3517.9,
-   "kind": "filler",
-   "reason": "rope-intro transition"
-  },
-  {
-   "start": 3599.6,
-   "end": 3601.6,
+   "start": 3448.3,
+   "end": 3450.6,
    "kind": "trim",
    "reason": "short span inside removed region"
   },
   {
-   "start": 3698.2,
+   "start": 3487.0,
    "end": 3720.2,
-   "kind": "filler",
-   "reason": "fan-in-front-of-face aside"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 3840.9,
@@ -216,12 +192,12 @@
   },
   {
    "start": 4031.6,
-   "end": 4187.6,
+   "end": 4136.6,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 4245.5,
+   "start": 4232.0,
    "end": 4287.3,
    "kind": "tangent",
    "reason": "Nitya/Sasata context list"
@@ -239,7 +215,7 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 4451.2,
+   "start": 4446.0,
    "end": 4465.8,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
@@ -258,7 +234,7 @@
   },
   {
    "start": 4706.5,
-   "end": 4768.9,
+   "end": 4718.7,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -276,9 +252,9 @@
   },
   {
    "start": 4957.0,
-   "end": 4958.9,
-   "kind": "trim",
-   "reason": "short span inside removed region"
+   "end": 5050.8,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 5085.8,
@@ -288,19 +264,19 @@
   },
   {
    "start": 5171.3,
-   "end": 5211.1,
+   "end": 5171.9,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 5210.0,
+   "end": 5335.0,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
   {
-   "start": 5312.9,
-   "end": 5340.0,
-   "kind": "filler",
-   "reason": "ambrosia/myth note"
-  },
-  {
-   "start": 5367.6,
-   "end": 5432.5,
+   "start": 5365.0,
+   "end": 5378.1,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -317,10 +293,16 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 5764.0,
-   "end": 5845.17,
+   "start": 5812.9,
+   "end": 5824.0,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 5840.0,
+   "end": 5845.17,
+   "kind": "trim",
+   "reason": "short span inside removed region"
   }
  ],
  "keep_summary": "cold-open motto; gist of non-manifestative consciousness (worldling invests essence, arahant doesn't); Bhaka-declaration + six negations; flower-I-saw; three terms craving/conceit/views; ice-heating four-elements; cardboard houses & faint smile; puppets by fetters; the baby-father rebirth ludicrousness; improvised-instruments sankhara; Itivuttaka born-made-up; Adimutta bandit + four voidness verses; speech stings because words are grasped; upadana-paccaya-bhavo pivotal; cord-winders simile; stream-winner lets go; Dhuva=irreversible, bliss-unshaken at death; conceit-I eradication IS nibbana; fear-to-let-go; ant-swarm & cinema-doors; third verse; library-shots film-ceased; sewing-machine-no-knot; ignorance first = timeless; anthill & selfless cobra; gold-silver-born; well-verse; jungle-stones gem story; mime no-bike chapter; close.",
@@ -328,7 +310,7 @@
   {
    "start": 1223.7,
    "end": 1277.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1328.1,
@@ -338,37 +320,47 @@
   {
    "start": 1382.5,
    "end": 1419.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 1554.8,
    "end": 1607.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
-   "start": 1756.2,
-   "end": 1871.1,
-   "grade": "A"
+   "start": 1874.1,
+   "end": 1916.2,
+   "grade": "B"
   },
   {
    "start": 1916.2,
    "end": 1956.1,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 2005.4,
+   "end": 2036.0,
+   "grade": "B"
   },
   {
    "start": 2041.9,
    "end": 2113.4,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 2115.3,
+   "end": 2151.6,
+   "grade": "B"
   },
   {
    "start": 2156.3,
-   "end": 2220.8,
-   "grade": "A"
+   "end": 2224.0,
+   "grade": "B"
   },
   {
    "start": 2283.4,
    "end": 2349.7,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2351.5,
@@ -383,7 +375,12 @@
   {
    "start": 2649.9,
    "end": 2665.2,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 2675.1,
+   "end": 2726.7,
+   "grade": "B"
   },
   {
    "start": 2787.3,
@@ -393,12 +390,12 @@
   {
    "start": 2842.2,
    "end": 2888.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2889.9,
    "end": 2951.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 2951.8,
@@ -408,22 +405,17 @@
   {
    "start": 3262.5,
    "end": 3302.7,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 3404.6,
+   "end": 3448.3,
+   "grade": "B"
   },
   {
    "start": 3450.6,
    "end": 3487.0,
-   "grade": "A"
-  },
-  {
-   "start": 3517.9,
-   "end": 3599.6,
-   "grade": "A"
-  },
-  {
-   "start": 3601.6,
-   "end": 3698.2,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3720.2,
@@ -433,17 +425,22 @@
   {
    "start": 3843.7,
    "end": 3906.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 3980.8,
    "end": 4031.6,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 4136.6,
+   "end": 4187.6,
+   "grade": "B"
   },
   {
    "start": 4187.6,
-   "end": 4245.5,
-   "grade": "A"
+   "end": 4232.0,
+   "grade": "B"
   },
   {
    "start": 4287.3,
@@ -453,17 +450,17 @@
   {
    "start": 4389.1,
    "end": 4414.4,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4415.3,
-   "end": 4451.2,
+   "end": 4446.0,
    "grade": "A"
   },
   {
    "start": 4465.8,
    "end": 4494.1,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4523.0,
@@ -473,12 +470,17 @@
   {
    "start": 4628.6,
    "end": 4706.5,
-   "grade": "A"
+   "grade": "B"
+  },
+  {
+   "start": 4718.7,
+   "end": 4768.6,
+   "grade": "B"
   },
   {
    "start": 4768.9,
    "end": 4826.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 4827.1,
@@ -488,37 +490,37 @@
   {
    "start": 4907.5,
    "end": 4957.0,
-   "grade": "A"
-  },
-  {
-   "start": 4958.9,
-   "end": 5050.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5050.8,
    "end": 5085.8,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5144.0,
    "end": 5171.3,
+   "grade": "B"
+  },
+  {
+   "start": 5171.9,
+   "end": 5210.0,
+   "grade": "B"
+  },
+  {
+   "start": 5335.0,
+   "end": 5365.0,
    "grade": "A"
   },
   {
-   "start": 5211.1,
-   "end": 5312.9,
-   "grade": "A"
-  },
-  {
-   "start": 5340.0,
-   "end": 5367.6,
-   "grade": "A"
+   "start": 5378.1,
+   "end": 5432.5,
+   "grade": "B"
   },
   {
    "start": 5432.5,
    "end": 5495.3,
-   "grade": "A"
+   "grade": "B"
   },
   {
    "start": 5619.0,
@@ -529,16 +531,26 @@
    "start": 5699.8,
    "end": 5764.0,
    "grade": "A"
+  },
+  {
+   "start": 5764.2,
+   "end": 5812.9,
+   "grade": "B"
+  },
+  {
+   "start": 5824.0,
+   "end": 5840.0,
+   "grade": "B"
   }
  ],
  "grade_counts": {
-  "A": 41,
-  "B": 0,
+  "A": 13,
+  "B": 34,
   "C": 0
  },
  "grade_minutes": {
-  "A": 39.8,
-  "B": 0.0,
+  "A": 12.9,
+  "B": 26.2,
   "C": 0.0
  }
 }
