@@ -2,7 +2,7 @@
  "lecture": 3,
  "target_min": 30,
  "source_min": 84.8,
- "kept_sec": 2344.1,
+ "kept_sec": 2329.3,
  "kept_pct": 46,
  "timebase": {
   "native": "yt",
@@ -37,9 +37,9 @@
   },
   {
    "start": 1572.6,
-   "end": 1615.5,
-   "kind": "tangent",
-   "reason": "Chinese/Sanskrit parallel-versions comment"
+   "end": 1618.0,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 1735.0,
@@ -72,10 +72,10 @@
    "reason": "short span inside removed region"
   },
   {
-   "start": 2415.4,
+   "start": 2413.0,
    "end": 2421.3,
-   "kind": "trim",
-   "reason": "short span inside removed region"
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
   },
   {
    "start": 2492.2,
@@ -85,7 +85,7 @@
   },
   {
    "start": 2668.8,
-   "end": 2683.1,
+   "end": 2693.0,
    "kind": "ranked-out",
    "reason": "content ranked below the 20-40min budget"
   },
@@ -172,7 +172,7 @@
    "grade": "B"
   },
   {
-   "start": 1615.5,
+   "start": 1618.0,
    "end": 1735.0,
    "grade": "A"
   },
@@ -208,7 +208,7 @@
   },
   {
    "start": 2368.9,
-   "end": 2415.4,
+   "end": 2413.0,
    "grade": "B"
   },
   {
@@ -222,7 +222,7 @@
    "grade": "B"
   },
   {
-   "start": 2683.1,
+   "start": 2693.0,
    "end": 2768.4,
    "grade": "A"
   },
@@ -293,8 +293,8 @@
   "C": 0
  },
  "grade_minutes": {
-  "A": 22.2,
-  "B": 16.9,
+  "A": 22.0,
+  "B": 16.8,
   "C": 0.0
  }
 }
