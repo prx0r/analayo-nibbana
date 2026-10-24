@@ -100,3 +100,6 @@ False positives found by eye ("cessation" -> "cesremembering-to-noticeon"): shor
 
 ## 18. Verbatim audit (2026-10-24) — user caught my hand-written S1 beats
 The flagged "Flame flung by wind..." line was MINE (first-draft beat summary), found NOWHERE in sources. Deleted. All S1 pads rebuilt mechanically like S2-6. Audit: all 73 nanananda_verbatim checked exact-substring against excavation files + transcripts — 73/73 present, 0 failures, 0 empties. Rule going forward: verbatim fields are extracted, never typed; the audit command is in notes history (rerun on any change).
+
+## 19. Blunt layer (user: plain = unmistakable, not smooth)
+Below-lines now two-pass: term key (TERM (plain)) then blunt phrase map (blunt_key.json): stilling of preparations -> everything the mind makes comes to a stop; relinquishment of assets -> letting go of everything carried; craving -> wanting ends; etc. Article pile-ups cleaned (the-the, namely-the). Verbatim fields NEVER touched by either pass (audit: separate check).
