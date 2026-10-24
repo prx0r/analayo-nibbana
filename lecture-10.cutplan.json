@@ -1,0 +1,264 @@
+{
+ "lecture": 10,
+ "target_min": 30,
+ "source_min": 76.2,
+ "kept_sec": 2262.6,
+ "kept_pct": 49,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 6.16,
+  "yt_last": 4563.88
+ },
+ "dropped_spans": [
+  {
+   "start": 3090.2,
+   "end": 3401.9,
+   "rank": 3
+  },
+  {
+   "start": 1351.3,
+   "end": 1657.0,
+   "rank": 2
+  },
+  {
+   "start": 2081.4,
+   "end": 2314.5,
+   "rank": 2
+  },
+  {
+   "start": 2324.0,
+   "end": 2476.5,
+   "rank": 2
+  }
+ ],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 419.36,
+   "kind": "forum",
+   "reason": "Burbea book critique + Kim Allen forum + bridge (early-Buddhism vs re-enchantment)"
+  },
+  {
+   "start": 422.66,
+   "end": 434.98,
+   "kind": "chant",
+   "reason": "motto-to-permission Pali chant gap"
+  },
+  {
+   "start": 447.7,
+   "end": 537.9,
+   "kind": "recap",
+   "reason": "sermon-9 gem-pond/personality-view recap + extremes lead-in"
+  },
+  {
+   "start": 609.44,
+   "end": 698.28,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 782.14,
+   "end": 913.98,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 941.16,
+   "end": 974.52,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1350.5,
+   "end": 1658.12,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1974.9,
+   "end": 2614.5,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2703.96,
+   "end": 2778.58,
+   "kind": "translation",
+   "reason": "Bodhi second contact exposition"
+  },
+  {
+   "start": 3088.56,
+   "end": 3401.24,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3733.8,
+   "end": 3843.72,
+   "kind": "translation",
+   "reason": "Mikko Mordhi second rupa + Agama parallel + footnote"
+  },
+  {
+   "start": 3963.9,
+   "end": 3973.0,
+   "kind": "translation",
+   "reason": "Bodhi second heedless-forms line + gap"
+  },
+  {
+   "start": 3980.46,
+   "end": 3989.76,
+   "kind": "pali",
+   "reason": "commentarial Pali gap"
+  },
+  {
+   "start": 4052.7,
+   "end": 4064.78,
+   "kind": "pali",
+   "reason": "Uttana verse Pali gap"
+  },
+  {
+   "start": 4229.7,
+   "end": 4239.54,
+   "kind": "pali",
+   "reason": "Jatara verse Pali gap"
+  },
+  {
+   "start": 4250.78,
+   "end": 4263.6,
+   "kind": "translation",
+   "reason": "Bigham Padi second tangle verse"
+  },
+  {
+   "start": 4283.46,
+   "end": 4292.66,
+   "kind": "pali",
+   "reason": "dependent-rising transition gap"
+  },
+  {
+   "start": 4455.54,
+   "end": 4464.4,
+   "kind": "pali",
+   "reason": "Kalaha-Vivada Pali gap"
+  },
+  {
+   "start": 4470.82,
+   "end": 4481.7,
+   "kind": "translation",
+   "reason": "Bhikkapoli second Kalaha-Vivada couplet"
+  },
+  {
+   "start": 4565.0,
+   "end": 4574.75,
+   "kind": "closer",
+   "reason": "comment + thanks closer"
+  }
+ ],
+ "keep_summary": "motto -> middle-path knowledge-vision -> bhuta vs bhava/vibhava (Itivuttaka) -> eternalist/annihilationist as self-love/hate -> bhavanirodha as process-stop -> rope simile (hold in the middle) + mirror I-am + contact/name-form chain -> sticks-fire + rupa affliction -> perception-of-form mirage -> tangle snapped -> kalaha-vivada absolute-views payoff",
+ "kept_segments": [
+  {
+   "start": 419.4,
+   "end": 422.7,
+   "grade": "A"
+  },
+  {
+   "start": 435.0,
+   "end": 447.7,
+   "grade": "A"
+  },
+  {
+   "start": 537.9,
+   "end": 609.4,
+   "grade": "A"
+  },
+  {
+   "start": 698.3,
+   "end": 782.1,
+   "grade": "A"
+  },
+  {
+   "start": 914.0,
+   "end": 941.2,
+   "grade": "A"
+  },
+  {
+   "start": 974.5,
+   "end": 1350.5,
+   "grade": "A"
+  },
+  {
+   "start": 1658.1,
+   "end": 1974.9,
+   "grade": "A"
+  },
+  {
+   "start": 2614.5,
+   "end": 2704.0,
+   "grade": "A"
+  },
+  {
+   "start": 2778.6,
+   "end": 3088.6,
+   "grade": "A"
+  },
+  {
+   "start": 3401.2,
+   "end": 3733.8,
+   "grade": "A"
+  },
+  {
+   "start": 3843.7,
+   "end": 3963.9,
+   "grade": "A"
+  },
+  {
+   "start": 3973.0,
+   "end": 3980.5,
+   "grade": "B"
+  },
+  {
+   "start": 3989.8,
+   "end": 4052.7,
+   "grade": "A"
+  },
+  {
+   "start": 4064.8,
+   "end": 4229.7,
+   "grade": "A"
+  },
+  {
+   "start": 4239.5,
+   "end": 4250.8,
+   "grade": "A"
+  },
+  {
+   "start": 4263.6,
+   "end": 4283.5,
+   "grade": "A"
+  },
+  {
+   "start": 4292.7,
+   "end": 4455.5,
+   "grade": "A"
+  },
+  {
+   "start": 4464.4,
+   "end": 4470.8,
+   "grade": "A"
+  },
+  {
+   "start": 4481.7,
+   "end": 4565.0,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 18,
+  "B": 1,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 37.6,
+  "B": 0.1,
+  "C": 0.0
+ }
+}

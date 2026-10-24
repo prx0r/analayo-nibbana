@@ -1,0 +1,211 @@
+{
+ "lecture": 13,
+ "target_min": 30,
+ "source_min": 81.9,
+ "kept_sec": 2140.9,
+ "kept_pct": 44,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 8.24,
+  "yt_last": 4913.48
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 695.04,
+   "kind": "forum",
+   "reason": "course welcome + forum discussion + bridge"
+  },
+  {
+   "start": 699.22,
+   "end": 710.14,
+   "kind": "chant",
+   "reason": "motto-to-permission gap"
+  },
+  {
+   "start": 733.72,
+   "end": 769.34,
+   "kind": "recap",
+   "reason": "previous-sermon recap + lead-in (capped)"
+  },
+  {
+   "start": 784.28,
+   "end": 804.16,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 833.04,
+   "end": 860.86,
+   "kind": "translation",
+   "reason": "second translation: Commenter translation by Nyanamoli."
+  },
+  {
+   "start": 991.96,
+   "end": 992.4,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1123.4,
+   "end": 1124.2,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1257.94,
+   "end": 1259.04,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  },
+  {
+   "start": 1361.02,
+   "end": 1377.0,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2119.72,
+   "end": 2130.0,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2191.3,
+   "end": 2202.12,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2717.86,
+   "end": 2747.78,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2999.62,
+   "end": 4914.19,
+   "kind": "closer",
+   "reason": "comment + thanks closer"
+  }
+ ],
+ "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "kept_segments": [
+  {
+   "start": 695.0,
+   "end": 699.2,
+   "grade": "A"
+  },
+  {
+   "start": 710.1,
+   "end": 733.7,
+   "grade": "A"
+  },
+  {
+   "start": 769.3,
+   "end": 784.3,
+   "grade": "A"
+  },
+  {
+   "start": 804.2,
+   "end": 833.0,
+   "grade": "A"
+  },
+  {
+   "start": 860.9,
+   "end": 992.0,
+   "grade": "A"
+  },
+  {
+   "start": 992.4,
+   "end": 1123.4,
+   "grade": "A"
+  },
+  {
+   "start": 1124.2,
+   "end": 1257.9,
+   "grade": "A"
+  },
+  {
+   "start": 1259.0,
+   "end": 1361.0,
+   "grade": "A"
+  },
+  {
+   "start": 1377.0,
+   "end": 1508.2,
+   "grade": "A"
+  },
+  {
+   "start": 1508.2,
+   "end": 1641.6,
+   "grade": "A"
+  },
+  {
+   "start": 1641.6,
+   "end": 1772.2,
+   "grade": "A"
+  },
+  {
+   "start": 1772.2,
+   "end": 1903.2,
+   "grade": "A"
+  },
+  {
+   "start": 1903.2,
+   "end": 2034.3,
+   "grade": "A"
+  },
+  {
+   "start": 2034.4,
+   "end": 2119.7,
+   "grade": "A"
+  },
+  {
+   "start": 2130.0,
+   "end": 2191.3,
+   "grade": "A"
+  },
+  {
+   "start": 2202.1,
+   "end": 2338.0,
+   "grade": "A"
+  },
+  {
+   "start": 2338.0,
+   "end": 2473.1,
+   "grade": "A"
+  },
+  {
+   "start": 2473.1,
+   "end": 2606.4,
+   "grade": "A"
+  },
+  {
+   "start": 2606.4,
+   "end": 2717.9,
+   "grade": "A"
+  },
+  {
+   "start": 2747.8,
+   "end": 2881.7,
+   "grade": "A"
+  },
+  {
+   "start": 2881.7,
+   "end": 2999.6,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 21,
+  "B": 0,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 35.7,
+  "B": 0.0,
+  "C": 0.0
+ }
+}

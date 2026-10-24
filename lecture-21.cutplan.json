@@ -1,0 +1,330 @@
+{
+ "lecture": 21,
+ "target_min": 30,
+ "source_min": 75.4,
+ "kept_sec": 1814.4,
+ "kept_pct": 40,
+ "timebase": {
+  "native": "ds",
+  "yt_first": 5.44,
+  "yt_last": 4548.76
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 165.42,
+   "kind": "forum",
+   "reason": "course welcome + forum discussion + bridge"
+  },
+  {
+   "start": 221.38,
+   "end": 2005.64,
+   "kind": "recap",
+   "reason": "previous-sermon recap + extremes lead-in"
+  },
+  {
+   "start": 2151.4,
+   "end": 2179.98,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2208.28,
+   "end": 2290.52,
+   "kind": "translation",
+   "reason": "second translation: Comment translation by Bhikkobodhi"
+  },
+  {
+   "start": 2356.66,
+   "end": 2366.2,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2391.98,
+   "end": 2417.78,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2599.08,
+   "end": 2625.72,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2748.58,
+   "end": 2758.12,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2901.4,
+   "end": 2923.1,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2943.48,
+   "end": 2955.96,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): comment translation by Bhikkhu Bodhi"
+  },
+  {
+   "start": 3016.94,
+   "end": 3044.08,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3046.92,
+   "end": 3063.0,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3287.08,
+   "end": 3392.2,
+   "kind": "translation",
+   "reason": "second translation: Translation by Bikoboli."
+  },
+  {
+   "start": 3403.96,
+   "end": 3428.64,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3455.72,
+   "end": 3522.84,
+   "kind": "translation",
+   "reason": "second translation: Translation by Bhikkhu Bodhi."
+  },
+  {
+   "start": 3647.34,
+   "end": 3656.9,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3668.98,
+   "end": 3682.9,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): Common translation by Bikobody."
+  },
+  {
+   "start": 3861.48,
+   "end": 3872.52,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3882.26,
+   "end": 3894.22,
+   "kind": "translation",
+   "reason": "second translation: Comment translation by Bikkavodhi."
+  },
+  {
+   "start": 4049.26,
+   "end": 4067.04,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 4091.88,
+   "end": 4120.52,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4165.54,
+   "end": 4181.48,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 4199.98,
+   "end": 4248.16,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4312.2,
+   "end": 4413.72,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4418.74,
+   "end": 4435.9,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 4463.92,
+   "end": 4486.28,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): Comment, translation by Bikoboni."
+  },
+  {
+   "start": 4518.8,
+   "end": 4522.98,
+   "kind": "trim",
+   "reason": "short span inside removed region"
+  }
+ ],
+ "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "kept_segments": [
+  {
+   "start": 165.4,
+   "end": 221.4,
+   "grade": "A"
+  },
+  {
+   "start": 2005.6,
+   "end": 2151.4,
+   "grade": "B"
+  },
+  {
+   "start": 2180.0,
+   "end": 2208.3,
+   "grade": "A"
+  },
+  {
+   "start": 2290.5,
+   "end": 2356.7,
+   "grade": "A"
+  },
+  {
+   "start": 2366.2,
+   "end": 2392.0,
+   "grade": "A"
+  },
+  {
+   "start": 2417.8,
+   "end": 2549.0,
+   "grade": "B"
+  },
+  {
+   "start": 2549.0,
+   "end": 2599.1,
+   "grade": "A"
+  },
+  {
+   "start": 2625.7,
+   "end": 2748.6,
+   "grade": "C"
+  },
+  {
+   "start": 2758.1,
+   "end": 2901.4,
+   "grade": "B"
+  },
+  {
+   "start": 2923.1,
+   "end": 2943.5,
+   "grade": "A"
+  },
+  {
+   "start": 2956.0,
+   "end": 3016.9,
+   "grade": "A"
+  },
+  {
+   "start": 3044.1,
+   "end": 3046.9,
+   "grade": "A"
+  },
+  {
+   "start": 3063.0,
+   "end": 3196.7,
+   "grade": "B"
+  },
+  {
+   "start": 3196.7,
+   "end": 3287.1,
+   "grade": "A"
+  },
+  {
+   "start": 3392.2,
+   "end": 3404.0,
+   "grade": "A"
+  },
+  {
+   "start": 3428.6,
+   "end": 3455.7,
+   "grade": "A"
+  },
+  {
+   "start": 3522.8,
+   "end": 3647.3,
+   "grade": "B"
+  },
+  {
+   "start": 3656.9,
+   "end": 3669.0,
+   "grade": "A"
+  },
+  {
+   "start": 3682.9,
+   "end": 3861.5,
+   "grade": "C"
+  },
+  {
+   "start": 3872.5,
+   "end": 3882.3,
+   "grade": "A"
+  },
+  {
+   "start": 3894.2,
+   "end": 4049.3,
+   "grade": "B"
+  },
+  {
+   "start": 4067.0,
+   "end": 4091.9,
+   "grade": "A"
+  },
+  {
+   "start": 4120.5,
+   "end": 4165.5,
+   "grade": "A"
+  },
+  {
+   "start": 4181.5,
+   "end": 4200.0,
+   "grade": "A"
+  },
+  {
+   "start": 4248.2,
+   "end": 4312.2,
+   "grade": "A"
+  },
+  {
+   "start": 4413.7,
+   "end": 4418.7,
+   "grade": "A"
+  },
+  {
+   "start": 4435.9,
+   "end": 4463.9,
+   "grade": "A"
+  },
+  {
+   "start": 4486.3,
+   "end": 4518.8,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 20,
+  "B": 6,
+  "C": 2
+ },
+ "grade_minutes": {
+  "A": 11.3,
+  "B": 13.9,
+  "C": 5.0
+ }
+}

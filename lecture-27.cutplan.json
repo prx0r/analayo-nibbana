@@ -1,0 +1,381 @@
+{
+ "lecture": 27,
+ "target_min": 30,
+ "source_min": 75.5,
+ "kept_sec": 2278.2,
+ "kept_pct": 50,
+ "timebase": {
+  "native": "yt",
+  "yt_first": 13.2,
+  "yt_last": 4531.32
+ },
+ "dropped_spans": [
+  {
+   "start": 896.0,
+   "end": 1065.8,
+   "rank": 2
+  },
+  {
+   "start": 1180.2,
+   "end": 1332.5,
+   "rank": 2
+  },
+  {
+   "start": 3763.1,
+   "end": 3909.0,
+   "rank": 2
+  },
+  {
+   "start": 4348.7,
+   "end": 4484.0,
+   "rank": 2
+  },
+  {
+   "start": 2057.8,
+   "end": 2190.2,
+   "rank": 2
+  }
+ ],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 634.0,
+   "kind": "forum",
+   "reason": "course welcome + forum discussion + bridge"
+  },
+  {
+   "start": 838.8,
+   "end": 855.91,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 879.52,
+   "end": 1074.56,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1095.12,
+   "end": 1359.52,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1487.32,
+   "end": 1503.44,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): comment translation by walsh of the"
+  },
+  {
+   "start": 1538.72,
+   "end": 1657.44,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 1703.6,
+   "end": 1720.24,
+   "kind": "translation",
+   "reason": "second translation: common translation by amigoboni"
+  },
+  {
+   "start": 1988.72,
+   "end": 2013.36,
+   "kind": "translation",
+   "reason": "second translation: common translation by abikunyanomori"
+  },
+  {
+   "start": 2043.2,
+   "end": 2199.04,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 2212.84,
+   "end": 2229.6,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): world common translation by a big body"
+  },
+  {
+   "start": 2307.64,
+   "end": 2325.04,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2354.16,
+   "end": 2433.28,
+   "kind": "translation",
+   "reason": "second translation: comment translation by bikonyano molly"
+  },
+  {
+   "start": 2760.44,
+   "end": 2800.96,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2839.28,
+   "end": 2913.12,
+   "kind": "translation",
+   "reason": "second translation: comment the translation by picobody"
+  },
+  {
+   "start": 2929.8,
+   "end": 2941.77,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 2987.12,
+   "end": 3000.32,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): common translation by a bigger body"
+  },
+  {
+   "start": 3256.88,
+   "end": 3274.16,
+   "kind": "translation",
+   "reason": "second translation: common translation by norman"
+  },
+  {
+   "start": 3331.52,
+   "end": 3435.44,
+   "kind": "translation",
+   "reason": "second translation: common translation by norman"
+  },
+  {
+   "start": 3558.6,
+   "end": 3569.1,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3601.12,
+   "end": 3616.72,
+   "kind": "translation",
+   "reason": "second translation: common translation by bhikkhu bodhi"
+  },
+  {
+   "start": 3702.34,
+   "end": 3723.6,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3748.16,
+   "end": 3921.28,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3935.2,
+   "end": 3955.04,
+   "kind": "translation",
+   "reason": "second translation: common translation by picobody what is"
+  },
+  {
+   "start": 3960.48,
+   "end": 3986.54,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 4037.52,
+   "end": 4090.88,
+   "kind": "translation",
+   "reason": "second translation: common translation by a bigger body"
+  },
+  {
+   "start": 4349.68,
+   "end": 4481.6,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4527.52,
+   "end": 4532.32,
+   "kind": "closer",
+   "reason": "comment + thanks closer"
+  }
+ ],
+ "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "kept_segments": [
+  {
+   "start": 634.0,
+   "end": 764.4,
+   "grade": "A"
+  },
+  {
+   "start": 760.6,
+   "end": 838.8,
+   "grade": "A"
+  },
+  {
+   "start": 855.9,
+   "end": 879.5,
+   "grade": "A"
+  },
+  {
+   "start": 1074.6,
+   "end": 1095.1,
+   "grade": "A"
+  },
+  {
+   "start": 1359.5,
+   "end": 1487.3,
+   "grade": "B"
+  },
+  {
+   "start": 1503.4,
+   "end": 1538.7,
+   "grade": "A"
+  },
+  {
+   "start": 1657.4,
+   "end": 1703.6,
+   "grade": "A"
+  },
+  {
+   "start": 1720.2,
+   "end": 1851.7,
+   "grade": "B"
+  },
+  {
+   "start": 1847.7,
+   "end": 1978.5,
+   "grade": "B"
+  },
+  {
+   "start": 1977.0,
+   "end": 1988.7,
+   "grade": "A"
+  },
+  {
+   "start": 2013.4,
+   "end": 2043.2,
+   "grade": "A"
+  },
+  {
+   "start": 2199.0,
+   "end": 2212.8,
+   "grade": "A"
+  },
+  {
+   "start": 2229.6,
+   "end": 2307.6,
+   "grade": "A"
+  },
+  {
+   "start": 2325.0,
+   "end": 2354.2,
+   "grade": "A"
+  },
+  {
+   "start": 2433.3,
+   "end": 2565.0,
+   "grade": "B"
+  },
+  {
+   "start": 2563.0,
+   "end": 2695.4,
+   "grade": "B"
+  },
+  {
+   "start": 2692.6,
+   "end": 2760.4,
+   "grade": "A"
+  },
+  {
+   "start": 2801.0,
+   "end": 2839.3,
+   "grade": "A"
+  },
+  {
+   "start": 2913.1,
+   "end": 2929.8,
+   "grade": "A"
+  },
+  {
+   "start": 2941.8,
+   "end": 2987.1,
+   "grade": "A"
+  },
+  {
+   "start": 3000.3,
+   "end": 3131.5,
+   "grade": "B"
+  },
+  {
+   "start": 3129.0,
+   "end": 3256.9,
+   "grade": "B"
+  },
+  {
+   "start": 3274.2,
+   "end": 3331.5,
+   "grade": "A"
+  },
+  {
+   "start": 3435.4,
+   "end": 3558.6,
+   "grade": "B"
+  },
+  {
+   "start": 3569.1,
+   "end": 3601.1,
+   "grade": "A"
+  },
+  {
+   "start": 3616.7,
+   "end": 3702.3,
+   "grade": "A"
+  },
+  {
+   "start": 3723.6,
+   "end": 3748.2,
+   "grade": "A"
+  },
+  {
+   "start": 3921.3,
+   "end": 3935.2,
+   "grade": "A"
+  },
+  {
+   "start": 3955.0,
+   "end": 3960.5,
+   "grade": "A"
+  },
+  {
+   "start": 3986.5,
+   "end": 4037.5,
+   "grade": "A"
+  },
+  {
+   "start": 4090.9,
+   "end": 4221.8,
+   "grade": "B"
+  },
+  {
+   "start": 4219.4,
+   "end": 4349.7,
+   "grade": "B"
+  },
+  {
+   "start": 4481.6,
+   "end": 4527.5,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 23,
+  "B": 10,
+  "C": 0
+ },
+ "grade_minutes": {
+  "A": 16.3,
+  "B": 21.6,
+  "C": 0.0
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "lecture": 29,
+ "target_min": 30,
+ "source_min": 76.7,
+ "kept_sec": 1252.4,
+ "kept_pct": 27,
+ "timebase": {
+  "native": "ds",
+  "yt_first": null,
+  "yt_last": null
+ },
+ "dropped_spans": [],
+ "cuts": [
+  {
+   "start": 0.0,
+   "end": 722.42,
+   "kind": "forum",
+   "reason": "course welcome + forum discussion + bridge"
+  },
+  {
+   "start": 761.34,
+   "end": 2904.08,
+   "kind": "recap",
+   "reason": "previous-sermon recap + extremes lead-in"
+  },
+  {
+   "start": 3068.48,
+   "end": 3082.86,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3183.82,
+   "end": 3197.4,
+   "kind": "translation",
+   "reason": "second translation: Comment translation by Bikavuli, where name in form ceases, "
+  },
+  {
+   "start": 3366.9,
+   "end": 3381.32,
+   "kind": "translation",
+   "reason": "second translation: Comment, translation by Pico Bodhi."
+  },
+  {
+   "start": 3432.66,
+   "end": 3496.38,
+   "kind": "translation",
+   "reason": "second translation: Comment, translation by Pico Bodhi."
+  },
+  {
+   "start": 3560.48,
+   "end": 3569.46,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3585.0,
+   "end": 3659.56,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 3711.34,
+   "end": 3720.78,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3772.78,
+   "end": 3803.36,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 3863.88,
+   "end": 3896.3,
+   "kind": "translation",
+   "reason": "second translation (unclosed, 4-seg cap): translation by bhikkavoti it is said noble silence noble s"
+  },
+  {
+   "start": 4081.6,
+   "end": 4116.24,
+   "kind": "ranked-out",
+   "reason": "content ranked below the 20-40min budget"
+  },
+  {
+   "start": 4255.82,
+   "end": 4263.92,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 4272.42,
+   "end": 4393.64,
+   "kind": "translation",
+   "reason": "second translation: thoughtless comment translation by bikkubodhi"
+  },
+  {
+   "start": 4395.42,
+   "end": 4435.62,
+   "kind": "pali",
+   "reason": "Pali recitation / chant gap"
+  },
+  {
+   "start": 4462.18,
+   "end": 4474.3,
+   "kind": "translation",
+   "reason": "second translation: comment translation by bhikavodi"
+  },
+  {
+   "start": 4595.92,
+   "end": 4599.76,
+   "kind": "closer",
+   "reason": "comment + thanks closer"
+  }
+ ],
+ "keep_summary": "AUTO DRAFT \u2014 review skeleton before ship",
+ "kept_segments": [
+  {
+   "start": 722.4,
+   "end": 761.3,
+   "grade": "A"
+  },
+  {
+   "start": 2904.1,
+   "end": 3068.5,
+   "grade": "C"
+  },
+  {
+   "start": 3082.9,
+   "end": 3183.8,
+   "grade": "B"
+  },
+  {
+   "start": 3197.4,
+   "end": 3366.9,
+   "grade": "B"
+  },
+  {
+   "start": 3381.3,
+   "end": 3432.7,
+   "grade": "A"
+  },
+  {
+   "start": 3496.4,
+   "end": 3560.5,
+   "grade": "A"
+  },
+  {
+   "start": 3569.5,
+   "end": 3585.0,
+   "grade": "A"
+  },
+  {
+   "start": 3659.6,
+   "end": 3711.3,
+   "grade": "A"
+  },
+  {
+   "start": 3720.8,
+   "end": 3772.8,
+   "grade": "A"
+  },
+  {
+   "start": 3803.4,
+   "end": 3863.9,
+   "grade": "A"
+  },
+  {
+   "start": 3896.3,
+   "end": 4030.2,
+   "grade": "B"
+  },
+  {
+   "start": 4030.2,
+   "end": 4081.6,
+   "grade": "A"
+  },
+  {
+   "start": 4116.2,
+   "end": 4255.8,
+   "grade": "B"
+  },
+  {
+   "start": 4263.9,
+   "end": 4272.4,
+   "grade": "A"
+  },
+  {
+   "start": 4393.6,
+   "end": 4395.4,
+   "grade": "A"
+  },
+  {
+   "start": 4435.6,
+   "end": 4462.2,
+   "grade": "A"
+  },
+  {
+   "start": 4474.3,
+   "end": 4595.9,
+   "grade": "A"
+  }
+ ],
+ "grade_counts": {
+  "A": 12,
+  "B": 4,
+  "C": 1
+ },
+ "grade_minutes": {
+  "A": 9.1,
+  "B": 9.1,
+  "C": 2.7
+ }
+}
