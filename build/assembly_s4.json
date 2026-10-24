@@ -1,18 +1,24 @@
 [
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md S4"
- },
- {
   "t": "motto-bell"
  },
  {
-  "t": "motto"
+  "t": "analayo",
+  "lec": 8,
+  "start": 1382.0,
+  "end": 1419.3,
+  "dur": 37.3,
+  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+ },
+ {
+  "t": "verbatim",
+  "text": "The sun, the moon and the stars shine precisely because of the presence\nof darkness. In the non-manifestative consciousness there is absolutely\nno darkness for them to shine forth.",
+  "sermon": 16
  },
  {
   "t": "fish",
   "beat": 1,
-  "text": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative \u2014 with nowhere to land \u2014 consciousness there is absolutely no darkness for them to shine forth."
+  "say": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative \u2014 with nowhere to land \u2014 consciousness there is absolutely no darkness for them to shine forth."
  },
  {
   "t": "fish-term",
@@ -24,20 +30,22 @@
   "dur": 1.5
  },
  {
-  "t": "analayo",
-  "lec": 8,
-  "start": 1382.0,
-  "end": 1419.3,
-  "dur": 37.3
+  "t": "note",
+  "text": "beat 1 Analayo already played as cold open - no repeat"
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The boys scatter them with their hands and feet, demolish them,\ndismantle them and render them unplayable. Even so, R\u0101dha, you all\nscatter form, feeling, perception, preparations, consciousness.\nPractise for the destruction of craving.",
+  "sermon": 21
+ },
+ {
   "t": "fish",
   "beat": 2,
-  "text": "The boys scatter them with their hands and feet, demolish them, dismantle them and render them unplayable. Even so, Radha, you all scatter form, pleasant-or-unpleasant tone, perception, things the mind makes, consciousness. Practise for the wanting ends."
+  "say": "The boys scatter them with their hands and feet, demolish them, dismantle them and render them unplayable. Even so, Radha, you all scatter form, pleasant-or-unpleasant tone, perception, things the mind makes, consciousness. Practise for the wanting ends."
  },
  {
   "t": "breath",
@@ -55,9 +63,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Now that the five elements have been totally removed, the residual\nfunction of consciousness amounts to a discrimination between the three\ngrades of feelings.",
+  "sermon": 14
+ },
+ {
   "t": "fish",
   "beat": 3,
-  "text": "Now that the five elements have been totally removed, the residual function of consciousness amounts to a discrimination between the three grades of pleasant-or-unpleasant tone."
+  "say": "Now that the five elements have been totally removed, the residual function of consciousness amounts to a discrimination between the three grades of pleasant-or-unpleasant tone."
  },
  {
   "t": "breath",
@@ -75,9 +88,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "With the cessation of that concept of a gem as some special thing, a\nvaluable thing, separate from the rest of the world... the gem ceases\nto exist. That itself is the deliverance.",
+  "sermon": 9
+ },
+ {
   "t": "fish",
   "beat": 4,
-  "text": "With the stopping of that concept of a gem as some special thing, a valuable thing, separate from the rest of the world... the gem ceases to exist. That itself is the deliverance."
+  "say": "With the stopping of that concept of a gem as some special thing, a valuable thing, separate from the rest of the world... the gem ceases to exist. That itself is the deliverance."
  },
  {
   "t": "breath",
@@ -95,9 +113,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "He declares that he has seen well in advance 'the barb on which\nmankind is hooked impaled'. The barb is none other than the dogmatic\nassertion, 'I know, I see, it is verily so'.",
+  "sermon": 25
+ },
+ {
   "t": "fish",
   "beat": 5,
-  "text": "He declares that he has seen well in advance 'the barb on which mankind is hooked impaled'. The barb is none other than the dogmatic assertion, 'I know, I see, it is verily so'."
+  "say": "He declares that he has seen well in advance 'the barb on which mankind is hooked impaled'. The barb is none other than the dogmatic assertion, 'I know, I see, it is verily so'."
  },
  {
   "t": "breath",

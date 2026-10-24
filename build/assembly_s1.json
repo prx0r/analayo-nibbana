@@ -1,41 +1,49 @@
 [
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md S1"
- },
- {
   "t": "motto-bell"
- },
- {
-  "t": "motto"
- },
- {
-  "t": "motto-bell"
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "text": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
- },
- {
-  "t": "breath",
-  "dur": 1.5
  },
  {
   "t": "analayo",
   "lec": 1,
   "start": 696,
   "end": 749,
-  "dur": 53
+  "dur": 53,
+  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+ },
+ {
+  "t": "verbatim",
+  "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
+  "sermon": 1
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "say": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "note",
+  "text": "beat 1 Analayo already played as cold open - no repeat"
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": [
+   "\"What is burning?\"",
+   "\"Those wise ones get extinguished even like this lamp.\""
+  ],
+  "sermon": 1
+ },
+ {
   "t": "fish",
   "beat": 2,
-  "text": "\"What is burning?\" \u2014 the wood burns because of the fire, the fire burns because of the wood. This itself shows idappaccayata \u2014 this happens because that happened. The fire simile has very deep significance. Upadana \u2014 holding on \u2014 means BOTH fuel and holding on. The fire grasps the wood, the wood grasps the fire. We call it \"firewood.\""
+  "say": "\"What is burning?\". \"Those wise ones get extinguished even like this lamp.\""
  },
  {
   "t": "fish-term",
@@ -58,9 +66,18 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": [
+   "\"Khayamatta na nibbanam\"",
+   "\"To project Nibbana into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\"",
+   "\"To think that the destruction of craving is not sufficient is like trying to give water to one who has already quenched his thirst.\""
+  ],
+  "sermon": 1
+ },
+ {
   "t": "fish",
   "beat": 3,
-  "text": "destruction alone is not Nibbana \u2014 out, like a flame with no fuel. Nanananda \u2014 this is a commentarial invention, not a sutta position."
+  "say": "\"To project Nibbana \u2014 out, like a flame with no fuel \u2014 into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\". \"To think that the wanting ends is not sufficient is like trying to give water to one who has already quenched his wanting.\""
  },
  {
   "t": "breath",
@@ -78,9 +95,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "That form by which one designating the Tathagata might designate him,\nthat has been abandoned by him, cut off at the root, made like an\nuprooted palm tree. The Tathagata is free from reckoning in terms of\nform, deep, immeasurable and hard to fathom, like the great ocean.",
+  "sermon": 21
+ },
+ {
   "t": "fish",
   "beat": 4,
-  "text": "That form by which one designating the Tathagata might designate him, that has been abandoned by him, cut off at the root, made like an uprooted palm tree. The Tathagata is past all counting in terms of form, so deep you cannot measure it, like the great ocean."
+  "say": "That form by which one designating the Tathagata might designate him, that has been abandoned by him, cut off at the root, made like an uprooted palm tree. The Tathagata is past all counting in terms of form, so deep you cannot measure it, like the great ocean."
  },
  {
   "t": "breath",
@@ -98,9 +120,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "It can in no way be compared to the extinction\n  and the cooling down of the Arahants.",
+  "sermon": 1
+ },
+ {
   "t": "fish",
   "beat": 5,
-  "text": "It can in no way be compared to going out, like a flame with no fuel and the cooling down of the Arahants."
+  "say": "It can in no way be compared to going out, like a flame with no fuel and the cooling down of the Arahants."
  },
  {
   "t": "breath",
@@ -118,12 +145,16 @@
   "dur": 2.5
  },
  {
-  "t": "motto-bell"
+  "t": "verbatim",
+  "text": [
+   "\"What is the use of a well, if water is there all the time, having cut craving at the root, in search of what should one wander?\""
+  ],
+  "sermon": 1
  },
  {
   "t": "fish",
   "beat": 6,
-  "text": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
+  "say": "\"What is the use of a well, if water is there all the time, having cut craving at the root, in search of what should one wander?\""
  },
  {
   "t": "breath",
@@ -141,9 +172,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "One who has quenched his thirst for good is aware of that blissful\n  experience. When he sees the world running here and there in search\n  of water, he looks within and sees the well-spring of his bliss.",
+  "sermon": 1
+ },
+ {
   "t": "fish",
   "beat": 7,
-  "text": "One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss."
+  "say": "One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss."
  },
  {
   "t": "breath",
@@ -161,12 +197,14 @@
   "dur": 2.5
  },
  {
-  "t": "motto-bell"
+  "t": "verbatim",
+  "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
+  "sermon": 1
  },
  {
   "t": "fish",
   "beat": 8,
-  "text": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
+  "say": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
  },
  {
   "t": "fish-term",
@@ -181,17 +219,22 @@
   "t": "analayo",
   "lec": 19,
   "start": 348,
-  "end": 522,
-  "dur": 174
+  "end": 359,
+  "dur": 11
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Sa-upadisesa: the arahant is free from fresh graspings, lust, hate\nand delusions do not flare up. But so long as he has to bear the burden\nof this organic combination, the arahant has to experience certain\nafflictions.",
+  "sermon": 19
+ },
+ {
   "t": "fish",
   "beat": 9,
-  "text": "Sa-upadisesa \u2014 with fuel still left \u2014 \u2014 the arahant is free from fresh holding on, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions."
+  "say": "the arahant is free from fresh holding on, lust, hate and delusions do not flare up. But so long as he has to bear the burden of this organic combination, the arahant has to experience certain afflictions."
  },
  {
   "t": "breath",
@@ -200,18 +243,23 @@
  {
   "t": "analayo",
   "lec": 19,
-  "start": 371,
+  "start": 390,
   "end": 522,
-  "dur": 151
+  "dur": 132
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "When he feels a feeling limited to the body, he understands 'I feel\na feeling limited to the body'... he understands 'on the breaking up\nof this body, before life becomes extinct, even here itself, all that\nis felt, not being delighted in, will become cool'.",
+  "sermon": 19
+ },
+ {
   "t": "fish",
   "beat": 10,
-  "text": "When he feels a pleasant-or-unpleasant tone limited to the body, he understands 'I feel a pleasant-or-unpleasant tone limited to the body'... he understands 'on the breaking up of this body, before life becomes extinct, even here itself, all that is felt, not being delighted in, will become cool'."
+  "say": "When he feels a pleasant-or-unpleasant tone limited to the body, he understands 'I feel a pleasant-or-unpleasant tone limited to the body'... he understands 'on the breaking up of this body, before life becomes extinct, even here itself, all that is felt, not being delighted in, will become cool'."
  },
  {
   "t": "breath",
@@ -229,29 +277,17 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": [
+   "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma and its result, it is a debt that keeps on gathering an interminable interest.",
+   "Even from this debt the arahants have won freedom by destroying the seeds of kamma, by rendering them infertile."
+  ],
+  "sermon": 20
+ },
+ {
   "t": "fish",
   "beat": 11,
-  "text": "This is the highest knowledge, this is the unsurpassed bliss, this sorrow-less, taintless security, is the supreme debtless-ness."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 20,
-  "start": 721,
-  "end": 728,
-  "dur": 7
- },
- {
-  "t": "water",
-  "dur": 2.5
- },
- {
-  "t": "fish",
-  "beat": 12,
-  "text": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma \u2014 what you do and what comes back \u2014 and its result, it is a debt that keeps on gathering an interminable interest.. Even from this debt the arahants have won freedom by destroying the seeds of kamma \u2014 what you do and what comes back \u2014, by rendering them infertile."
+  "say": "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma \u2014 what you do and what comes back \u2014 and its result, it is a debt that keeps on gathering an interminable interest.. Even from this debt the arahants have won freedom by destroying the seeds of kamma \u2014 what you do and what comes back \u2014, by rendering them infertile."
  },
  {
   "t": "breath",

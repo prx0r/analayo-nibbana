@@ -1,38 +1,46 @@
 [
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md S6"
- },
- {
   "t": "motto-bell"
- },
- {
-  "t": "motto"
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "text": "Now, for the arahant, the whole world appears like a chessboard."
- },
- {
-  "t": "breath",
-  "dur": 1.5
  },
  {
   "t": "analayo",
   "lec": 27,
   "start": 675,
   "end": 760.6,
-  "dur": 85.6
+  "dur": 85.6,
+  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+ },
+ {
+  "t": "verbatim",
+  "text": "Now, for the arahant, the whole world appears like a chessboard.",
+  "sermon": 27
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "say": "Now, for the arahant, the whole world appears like a chessboard."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "note",
+  "text": "beat 1 Analayo already played as cold open - no repeat"
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Unravelling of knots and rest.",
+  "sermon": 33
+ },
+ {
   "t": "fish",
   "beat": 2,
-  "text": "Unravelling of knots and rest."
+  "say": "Unravelling of knots and rest."
  },
  {
   "t": "breath",
@@ -50,9 +58,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Let a myriad arahant lotuses, unsmeared by water and mud, bright\npetalled and sweet scented, bloom all over the forest hermitage pond.",
+  "sermon": 33
+ },
+ {
   "t": "fish",
   "beat": 3,
-  "text": "Let a myriad arahant lotuses, unsmeared by water and mud, bright petalled and sweet scented, bloom all over the forest hermitage pond."
+  "say": "Let a myriad arahant lotuses, unsmeared by water and mud, bright petalled and sweet scented, bloom all over the forest hermitage pond."
  },
  {
   "t": "breath",
@@ -70,9 +83,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "It is as if the unending game of chess with all its vicissitudes has\nended in a peaceful draw.",
+  "sermon": 28
+ },
+ {
   "t": "fish",
   "beat": 4,
-  "text": "It is as if the unending game of chess with all its vicissitudes has ended in a peaceful draw."
+  "say": "It is as if the unending game of chess with all its vicissitudes has ended in a peaceful draw."
  },
  {
   "t": "breath",
@@ -90,9 +108,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Unravelling the tangled knot of grasping, they form no desire\nanywhere in the world.",
+  "sermon": 33
+ },
+ {
   "t": "fish",
   "beat": 5,
-  "text": "Unravelling the tangled knot of holding on, they form no desire anywhere in the world."
+  "say": "Unravelling the tangled knot of holding on, they form no desire anywhere in the world."
  },
  {
   "t": "breath",
@@ -110,9 +133,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "He experiences bodily and mental happiness.",
+  "sermon": 33
+ },
+ {
   "t": "fish",
   "beat": 6,
-  "text": "He experiences bodily and mental happiness."
+  "say": "He experiences bodily and mental happiness."
  },
  {
   "t": "breath",
@@ -130,9 +158,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Are released in the experience of cessation, it is they that are the\ndispellers of death.",
+  "sermon": 33
+ },
+ {
   "t": "fish",
   "beat": 7,
-  "text": "Are released in the experience of stopping, it is they that are the dispellers of death."
+  "say": "Are released in the experience of stopping, it is they that are the dispellers of death."
  },
  {
   "t": "breath",
@@ -150,9 +183,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The arahant is at peace, having given up victory and defeat. Isn't it\nenough for him to give up victory? Why is it said that he gives up\nboth victory and defeat? These two go as a pair.",
+  "sermon": 27
+ },
+ {
   "t": "fish",
   "beat": 8,
-  "text": "The arahant is at peace, having given up victory and defeat. Isn't it enough for him to give up victory? Why is it said that he gives up both victory and defeat? These two go as a pair."
+  "say": "The arahant is at peace, having given up victory and defeat. Isn't it enough for him to give up victory? Why is it said that he gives up both victory and defeat? These two go as a pair."
  },
  {
   "t": "fish-term",
@@ -180,9 +218,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Whatever is prepared is not worthwhile, and yet, it is by means of\nthis prepared noble eightfold path that the Buddha clears the path to\nthe unprepared.",
+  "sermon": 32
+ },
+ {
   "t": "fish",
   "beat": 9,
-  "text": "Whatever is prepared is not worthwhile, and yet, it is by means of this prepared noble eightfold path that the Buddha clears the path to the unprepared."
+  "say": "Whatever is prepared is not worthwhile, and yet, it is by means of this prepared noble eightfold path that the Buddha clears the path to the unprepared."
  },
  {
   "t": "breath",
@@ -200,9 +243,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The arahant has no such distinction [between this shore and the\nfarther shore]. Once gone beyond, the emancipated one has no more use\nof these concepts.",
+  "sermon": 18
+ },
+ {
   "t": "fish",
   "beat": 10,
-  "text": "The arahant has no such distinction [between this shore and the farther shore]. Once gone beyond, the emancipated one has no more use of these concepts."
+  "say": "The arahant has no such distinction [between this shore and the farther shore]. Once gone beyond, the emancipated one has no more use of these concepts."
  },
  {
   "t": "fish-term",
@@ -225,9 +273,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "All those who came out of that hall, except this discerning one, were\nspectators. He was not one of the audience, because he had an insight\ninto the magic show from his hiding place on the stage.",
+  "sermon": 26
+ },
+ {
   "t": "fish",
   "beat": 11,
-  "text": "All those who came out of that hall, except this discerning one, were spectators. He was not one of the audience, because he had an insight into the magic show from his hiding place on the stage."
+  "say": "All those who came out of that hall, except this discerning one, were spectators. He was not one of the audience, because he had an insight into the magic show from his hiding place on the stage."
  },
  {
   "t": "breath",
@@ -245,9 +298,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "He knows that, given ignorance, they are true, and that they are\nfalsified only when ignorance fades away in one who sees the cessation.\nFortified with that understanding, he does not categorically assert the\nsense-data as true, nor does he reprimand those who assert them as the\ntruth. That is why the Buddha advocates a tolerant attitude in this\ndiscourse.",
+  "sermon": 26
+ },
+ {
   "t": "fish",
   "beat": 12,
-  "text": "He knows that, given not seeing how it works, they are true, and that they are falsified only when not seeing how it works fades away in one who sees the stopping. Fortified with that understanding, he does not categorically assert the sense-data as true, nor does he reprimand those who assert them as the truth. That is why the Buddha advocates a tolerant attitude in this discourse."
+  "say": "He knows that, given not seeing how it works, they are true, and that they are falsified only when not seeing how it works fades away in one who sees the stopping. Fortified with that understanding, he does not categorically assert the sense-data as true, nor does he reprimand those who assert them as the truth. That is why the Buddha advocates a tolerant attitude in this discourse."
  },
  {
   "t": "breath",
@@ -265,9 +323,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "To one detached from percepts there are no bonds, to one released\nthrough wisdom there are no delusions, those who hold on to percepts\nand views, go about wrangling in this world.",
+  "sermon": 27
+ },
+ {
   "t": "fish",
   "beat": 13,
-  "text": "To one detached from percepts there are no bonds, to one released through wisdom there are no delusions, those who hold on to percepts and views, go about wrangling in this world."
+  "say": "To one detached from percepts there are no bonds, to one released through wisdom there are no delusions, those who hold on to percepts and views, go about wrangling in this world."
  },
  {
   "t": "breath",

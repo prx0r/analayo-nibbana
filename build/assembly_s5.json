@@ -1,18 +1,24 @@
 [
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md S5"
- },
- {
   "t": "motto-bell"
  },
  {
-  "t": "motto"
+  "t": "analayo",
+  "lec": 16,
+  "start": 935.8,
+  "end": 1066.7,
+  "dur": 130.9,
+  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+ },
+ {
+  "t": "verbatim",
+  "text": "Herein, Ananda, a monk is thus conscious: 'This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction.'",
+  "sermon": 16
  },
  {
   "t": "fish",
   "beat": 1,
-  "text": "It is in the same manner that the razor of insight wisdom has to be whetted on the sharpening stone of the Satipatthana \u2014 four ways of paying attention \u2014 sutta."
+  "say": "Herein, Ananda, a monk is thus conscious \u2014 'This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.'"
  },
  {
   "t": "fish-term",
@@ -29,20 +35,22 @@
   "dur": 1.5
  },
  {
-  "t": "analayo",
-  "lec": 16,
-  "start": 935.8,
-  "end": 1066.7,
-  "dur": 130.9
+  "t": "note",
+  "text": "beat 1 Analayo already played as cold open - no repeat"
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Dhono na hi tena man\u00f1ati yadidam ditthasutam mutesu va \u2014 the arahant does not imagine 'thereby', namely by whatever is seen, heard and sensed.",
+  "sermon": 15
+ },
+ {
   "t": "fish",
   "beat": 2,
-  "text": "Dhono na hi tena mannati yadidam ditthasutam mutesu va \u2014 the arahant does not imagine 'thereby', namely, by whatever is seen, heard and sensed."
+  "say": "Dhono na hi tena mannati yadidam ditthasutam mutesu va \u2014 the arahant does not imagine 'thereby', namely, by whatever is seen, heard and sensed."
  },
  {
   "t": "breath",
@@ -60,9 +68,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+  "sermon": 15
+ },
+ {
   "t": "fish",
   "beat": 3,
-  "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering."
+  "say": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering."
  },
  {
   "t": "breath",
@@ -80,9 +93,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "With the idea of sharpening the razor, if one grabs it tightly and\nrubs it on the sharpening stone, it will only become blunt. Paramasana,\ngrasping, grabbing, is something like that.",
+  "sermon": 5
+ },
+ {
   "t": "fish",
   "beat": 4,
-  "text": "With the idea of sharpening the razor, if one grabs it tightly and rubs it on the sharpening stone, it will only become blunt. Paramasana, holding on, grabbing, is something like that."
+  "say": "With the idea of sharpening the razor, if one grabs it tightly and rubs it on the sharpening stone, it will only become blunt. Paramasana, holding on, grabbing, is something like that."
  },
  {
   "t": "breath",
@@ -100,9 +118,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "What tranquillity meditation does, is to temporarily calm them down and\nderive some sort of happiness. That too is necessary from the point of\nview of concentration, to do away with restlessness and the like, but\nit does not dispel ignorance. That is why, in insight meditation, one\ntries to understand preparations for what they are by dispelling\nignorance. The more one sees preparations as preparations, ignorance is\ndispelled, and the more one dispels ignorance, the preparations lose\ntheir significance as preparations.",
+  "sermon": 6
+ },
+ {
   "t": "fish",
   "beat": 5,
-  "text": "What tranquillity meditation does, is to temporarily calm them down and derive some sort of happiness. That too is necessary from the point of view of concentration, to do away with restlessness and the like, but it does not dispel not seeing how it works. That is why, in insight meditation, one tries to understand things the mind makes for what they are by dispelling not seeing how it works. The more one sees things the mind makes as things the mind makes, not seeing how it works is dispelled, and the more one dispels not seeing how it works, the things the mind makes lose their significance as things the mind makes."
+  "say": "What tranquillity meditation does, is to temporarily calm them down and derive some sort of happiness. That too is necessary from the point of view of concentration, to do away with restlessness and the like, but it does not dispel not seeing how it works. That is why, in insight meditation, one tries to understand things the mind makes for what they are by dispelling not seeing how it works. The more one sees things the mind makes as things the mind makes, not seeing how it works is dispelled, and the more one dispels not seeing how it works, the things the mind makes lose their significance as things the mind makes."
  },
  {
   "t": "breath",
@@ -120,9 +143,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "It is said that the wandering ascetic Upatissa was able to arouse the\npath of Stream-winning on hearing just the first two lines.",
+  "sermon": 5
+ },
+ {
   "t": "fish",
   "beat": 6,
-  "text": "It is said that the wandering ascetic Upatissa was able to arouse the path of Stream-winning on hearing just the first two lines."
+  "say": "It is said that the wandering ascetic Upatissa was able to arouse the path of Stream-winning on hearing just the first two lines."
  },
  {
   "t": "breath",
@@ -140,9 +168,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "When walking, he understands: 'I am walking'; when standing, he\nunderstands: 'I am standing'; when sitting, he understands: 'I am\nsitting'; when lying down, he understands: 'I am lying down'. While\nkeeping one's postures in this manner, one sees in outline one's own\nform as if one were acting in a monodrama.",
+  "sermon": 8
+ },
+ {
   "t": "fish",
   "beat": 7,
-  "text": "When walking, he understands \u2014 'I am walking', when standing, he understands \u2014 'I am standing', when sitting, he understands \u2014 'I am sitting', when lying down, he understands \u2014 'I am lying down'. While keeping one's postures in this manner, one sees in outline one's own form as if one were acting in a monodrama."
+  "say": "When walking, he understands \u2014 'I am walking', when standing, he understands \u2014 'I am standing', when sitting, he understands \u2014 'I am sitting', when lying down, he understands \u2014 'I am lying down'. While keeping one's postures in this manner, one sees in outline one's own form as if one were acting in a monodrama."
  },
  {
   "t": "fish-term",
@@ -165,9 +198,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "First: up, up, up, then: down, down, down, and then: up down, up down,\nup down. The third combined movement ensures that those parts of the\nblade still untouched by the stone will also get duly sharpened.",
+  "sermon": 5
+ },
+ {
   "t": "fish",
   "beat": 8,
-  "text": "The third combined movement ensures that those parts of the blade still untouched by the stone will also get duly sharpened."
+  "say": "The third combined movement ensures that those parts of the blade still untouched by the stone will also get duly sharpened."
  },
  {
   "t": "breath",
@@ -185,9 +223,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The purpose is the breaking up of the foundation for cravings,\nconceits and views. For 'me' to acquire some object out of craving\nthat object has to exist apart from 'me'... The statement 'this is\nmine' presupposes a duality between 'me' and 'mine'.",
+  "sermon": 28
+ },
+ {
   "t": "fish",
   "beat": 9,
-  "text": "The purpose is the breaking up of the foundation for cravings, conceits and views. For 'me' to acquire some object out of craving that object has to exist apart from 'me'... The statement 'this is mine' presupposes a duality between 'me' and 'mine'."
+  "say": "The purpose is the breaking up of the foundation for cravings, conceits and views. For 'me' to acquire some object out of craving that object has to exist apart from 'me'... The statement 'this is mine' presupposes a duality between 'me' and 'mine'."
  },
  {
   "t": "breath",
@@ -205,9 +248,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "First of all one has to mindfully scan or scrutinize it... But based\non that scrutiny, the four right endeavours play their role in regard\nto unskilful and skilful mental states.",
+  "sermon": 31
+ },
+ {
   "t": "fish",
   "beat": 10,
-  "text": "First of all one has to mindfully scan or scrutinize it... But based on that scrutiny, the four right endeavours play their role in regard to unskilful and skilful mental states."
+  "say": "First of all one has to mindfully scan or scrutinize it... But based on that scrutiny, the four right endeavours play their role in regard to unskilful and skilful mental states."
  },
  {
   "t": "fish-term",
@@ -235,9 +283,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "These seven tool-kits are interconnected. From the satipa\u1e6d\u1e6dh\u0101na\ntool-kit, the sammappadh\u0101na tool-kit comes out as a matter of course.",
+  "sermon": 31
+ },
+ {
   "t": "fish",
   "beat": 11,
-  "text": "These seven tool-kits are interconnected. From the satipatthana tool-kit, the sammappadhana tool-kit comes out as a matter of course."
+  "say": "These seven tool-kits are interconnected. From the satipatthana tool-kit, the sammappadhana tool-kit comes out as a matter of course."
  },
  {
   "t": "breath",
@@ -255,9 +308,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Here we have a wonderful technique, based on the twin principles of\npragmatism and relativity.",
+  "sermon": 30
+ },
+ {
   "t": "fish",
   "beat": 12,
-  "text": "Here we have a wonderful technique, based on the twin principles of pragmatism and relativity."
+  "say": "Here we have a wonderful technique, based on the twin principles of pragmatism and relativity."
  },
  {
   "t": "breath",
@@ -275,9 +333,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Just as a blue lotus, born in the water, rises well above the water\nand remains unsmeared \u2014 so the Tathagata dwells detached from ten\nthings with a mind unrestricted.",
+  "sermon": 18
+ },
+ {
   "t": "fish",
   "beat": 13,
-  "text": "Just as a blue lotus, born in the water, rises well above the water and remains unsmeared \u2014 so the Tathagata dwells detached from ten things with a mind unrestricted."
+  "say": "Just as a blue lotus, born in the water, rises well above the water and remains unsmeared \u2014 so the Tathagata dwells detached from ten things with a mind unrestricted."
  },
  {
   "t": "breath",
@@ -295,9 +358,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "One comes to know one's strongpoint, where one's forte lies...\nOne might recognize chanda, desire or interest, as one's strongpoint...\nAnother might discover that his true personality emerges in the thick\nof striving... One who belongs to the wisdom category is never tired of\ninvestigation.",
+  "sermon": 31
+ },
+ {
   "t": "fish",
   "beat": 14,
-  "text": "One comes to know one's strongpoint, where one's forte lies... One might recognize chanda, desire or interest, as one's strongpoint... Another might discover that his true personality emerges in the thick of striving... One who belongs to the wisdom category is never tired of investigation."
+  "say": "One comes to know one's strongpoint, where one's forte lies... One might recognize chanda, desire or interest, as one's strongpoint... Another might discover that his true personality emerges in the thick of striving... One who belongs to the wisdom category is never tired of investigation."
  },
  {
   "t": "breath",

@@ -27,16 +27,15 @@ no library bells, no variation. Recognition IS the function.
 ## Beat grammar (inside every section)
 1. Human intro (section open only, ~40s, from `build/human-scripts.md`)
 2. MOTTO bell + motto (cold open of every section)
-3. Per beat: Fish pad (plain English, TTS) → 1.5s breath → Analayo clip
-   (reading + explanation, verbatim on screen) → Fish term-drops where
-   Pali is heard → 2.5s water → [ZOOM bell at section thresholds only]
+3. Per beat: Nanananda verbatim on screen → Fish speaks the plain English
+   → 1.5s breath → [term drops if Pali is heard] → Analayo clip plays
+   → 2.5s water.
 4. Internal motto refrains get the motto bell, never the zoom bell.
    The two bells never sound within 30s of each other.
 
 ## Assembly manifests
 `build/assembly_sN.json`: ordered event lists —
-{human-intro} {motto-bell, motto} [{fish, breathe, analayo, terms,
-water} × beats] {zoom-bell at section end, except §6 → {seed reprise,
+{human-intro, pending} {motto-bell + Analayo cold-open (motto, no Fish first)} [{verbatim on screen, fish (plain English), breath, [fish-terms], analayo, water} per beat] {zoom-bell at section end, except §6 → {seed reprise,
 motto-bell, silence}}. `build/assets/motto-bell.wav`,
 `build/assets/zoom-bell.wav`. Human intros referenced from
 `build/human-scripts.md` (recorded separately, dropped in).

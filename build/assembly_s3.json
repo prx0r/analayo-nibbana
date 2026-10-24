@@ -1,38 +1,46 @@
 [
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md S3"
- },
- {
   "t": "motto-bell"
- },
- {
-  "t": "motto"
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name."
- },
- {
-  "t": "breath",
-  "dur": 1.5
  },
  {
   "t": "analayo",
   "lec": 1,
   "start": 2998.9,
   "end": 3083.0,
-  "dur": 84.1
+  "dur": 84.1,
+  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+ },
+ {
+  "t": "verbatim",
+  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name.\n  'Form' in 'name-and-form' is a nominal form. It is a form only in\n  name.",
+  "sermon": 1
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "say": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "note",
+  "text": "beat 1 Analayo already played as cold open - no repeat"
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "It is as if one is trying to outstrip one's shadow by running towards\nit out of fun, while the other is trying to flee from it out of fear.",
+  "sermon": 9
+ },
+ {
   "t": "fish",
   "beat": 2,
-  "text": "It is as if one is trying to outstrip one's shadow by running towards it out of fun, while the other is trying to flee from it out of fear."
+  "say": "It is as if one is trying to outstrip one's shadow by running towards it out of fun, while the other is trying to flee from it out of fear."
  },
  {
   "t": "fish-term",
@@ -55,9 +63,19 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": [
+   "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is contact. Because of contact, feeling. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papa\u00f1ca. What one turns into papa\u00f1ca, owing to that papa\u00f1casa\u00f1\u00f1\u0101sankh\u0101 beset him.",
+   "The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.",
+   "Just as if a man overcome by hunger came upon a honey-ball.",
+   "When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca."
+  ],
+  "sermon": "S11-Madhupindika/honey-ball (4 verified excerpts)"
+ },
+ {
   "t": "fish",
   "beat": 3,
-  "text": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset him.. The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.. Just as if a man overcome by hunger came upon a honey-ball.. When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca."
+  "say": "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is where senses hit the world. Because of where senses hit the world, pleasant-or-unpleasant tone. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papanca. What one turns into papanca, owing to that papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset him.. The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.. Just as if a man overcome by hunger came upon a honey-ball.. When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca."
  },
  {
   "t": "fish-term",
@@ -80,9 +98,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Gods and men delight in existence, they are attached to existence...\nWhen Dhamma is being preached to them for the cessation of existence,\ntheir minds do not reach out towards it.",
+  "sermon": 10
+ },
+ {
   "t": "fish",
   "beat": 4,
-  "text": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
+  "say": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
  },
  {
   "t": "breath",
@@ -100,9 +123,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
+  "sermon": 33
+ },
+ {
   "t": "fish",
   "beat": 5,
-  "text": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving."
+  "say": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving."
  },
  {
   "t": "breath",
@@ -120,9 +148,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "From whatever source papa\u00f1casa\u00f1\u00f1\u0101sankh\u0101 beset a man, if, in regard to\nthat, there is nothing to be delighted in, asserted, or clung to, then\nthis itself is the end of the underlying tendencies to attachment, to\naversion, to views, to doubts, to conceit, to attachment towards\nexistence, and to ignorance.",
+  "sermon": 11
+ },
+ {
   "t": "fish",
   "beat": 6,
-  "text": "From whatever source papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works."
+  "say": "From whatever source papancasannasankha \u2014 spiralling stories out of everything, perceiving and counting and naming \u2014 beset a man, if, in regard to that, there is nothing to be delighted in, asserted, or clung to, then this itself is the end of the underlying tendencies to attachment, to aversion, to views, to doubts, to conceit, to attachment towards existence, and to not seeing how it works."
  },
  {
   "t": "fish-term",
@@ -150,9 +183,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Being troubled, ashamed, and disgusted of existence as such, some\ndelight in non-existence.",
+  "sermon": 10
+ },
+ {
   "t": "fish",
   "beat": 7,
-  "text": "Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence."
+  "say": "Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence."
  },
  {
   "t": "fish-term",
@@ -175,9 +213,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The idea behind this occurrence of tides of imaginings is quite often\nrepresented by the concept of asava, influx.",
+  "sermon": 14
+ },
+ {
   "t": "fish",
   "beat": 8,
-  "text": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of asava, influx."
+  "say": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of asava, influx."
  },
  {
   "t": "breath",
@@ -195,9 +238,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Steadied whereon the tides of imaginings no longer occur in him.",
+  "sermon": 14
+ },
+ {
   "t": "fish",
   "beat": 9,
-  "text": "Steadied whereon the tides of imaginings no longer occur in him."
+  "say": "Steadied whereon the tides of imaginings no longer occur in him."
  },
  {
   "t": "breath",
@@ -215,9 +263,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Gods and men delight in existence, they are attached to existence... When Dhamma is being preached to them for the cessation of existence, their minds do not reach out towards it.",
+  "sermon": 10
+ },
+ {
   "t": "fish",
   "beat": 10,
-  "text": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
+  "say": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
  },
  {
   "t": "fish-term",
@@ -240,9 +293,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "He understands it to be impermanent, uninvolved, unrejoiced.",
+  "sermon": 14
+ },
+ {
   "t": "fish",
   "beat": 11,
-  "text": "He understands it to be impermanent, uninvolved, unrejoiced."
+  "say": "He understands it to be impermanent, uninvolved, unrejoiced."
  },
  {
   "t": "breath",
@@ -260,9 +318,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The nature of consciousness in general is to abide or dwell in. That\nnonmanifestative consciousness, however, has got rid of the tendency to\nabide or dwell in.",
+  "sermon": 14
+ },
+ {
   "t": "fish",
   "beat": 12,
-  "text": "The nature of consciousness in general is to abide or dwell in. That nonmanifestative consciousness, however, has got rid of the tendency to abide or dwell in."
+  "say": "The nature of consciousness in general is to abide or dwell in. That nonmanifestative consciousness, however, has got rid of the tendency to abide or dwell in."
  },
  {
   "t": "breath",
@@ -280,9 +343,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Worldings in general are in the habit of asserting dogmatically 'I\nknow, I see, it is verily so', j\u0101n\u0101mi pass\u0101mi tath' eva eta\u1e43, when\nthey have a special knowledge or understanding of something or other.",
+  "sermon": 25
+ },
+ {
   "t": "fish",
   "beat": 13,
-  "text": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other."
+  "say": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other."
  },
  {
   "t": "breath",
@@ -300,9 +368,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The discrimination between an 'internal' and an 'external' is the\noutcome of the inability to penetrate name-and-form, to see through it.\nThere is an apparent duality: I, as one who sees, and name-and-form, as\nthe objects seen. Between them there is a dichotomy as internal and\nexternal. It is on this very dichotomy that the six sense-bases are\n'based'.",
+  "sermon": 9
+ },
+ {
   "t": "fish",
   "beat": 14,
-  "text": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'."
+  "say": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'."
  },
  {
   "t": "breath",
@@ -320,9 +393,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "There is a certain deep significance in the word yathabhuta. In\ncontradistinction to the two words bhava and vibhava, the word bhuta\nhas some peculiarity of its own.",
+  "sermon": 10
+ },
+ {
   "t": "fish",
   "beat": 15,
-  "text": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own."
+  "say": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own."
  },
  {
   "t": "fish-term",

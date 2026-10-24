@@ -1,38 +1,46 @@
 [
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md S2"
- },
- {
   "t": "motto-bell"
- },
- {
-  "t": "motto"
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "text": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
- },
- {
-  "t": "breath",
-  "dur": 1.5
  },
  {
   "t": "analayo",
   "lec": 3,
   "start": 363.5,
   "end": 411.4,
-  "dur": 47.9
+  "dur": 47.9,
+  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+ },
+ {
+  "t": "verbatim",
+  "text": "And this point, too, is hard to see, namely the stilling\n   of all preparations, the relinquishment of all assets, the destruction\n   of craving, detachment, cessation, extinction.",
+  "sermon": 2
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "say": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "note",
+  "text": "beat 1 Analayo already played as cold open - no repeat"
  },
  {
   "t": "water",
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Just as a woman or a man, youthful and fond of adornment, in looking\nat her or his facial image in a mirror or in a bowl filled with pure,\nclear, clean water, would be seeing it with dependence and not without\ndependence.",
+  "sermon": 10
+ },
+ {
   "t": "fish",
   "beat": 2,
-  "text": "Just as a woman or a man, youthful and fond of adornment, in looking at her or his facial image in a mirror or in a bowl filled with pure, clear, clean water, would be seeing it with dependence and not without dependence."
+  "say": "Just as a woman or a man, youthful and fond of adornment, in looking at her or his facial image in a mirror or in a bowl filled with pure, clear, clean water, would be seeing it with dependence and not without dependence."
  },
  {
   "t": "fish-term",
@@ -60,9 +68,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "sorrows, grieves, and laments;\nhe weeps and beats his breast and becomes distraught. This is called an\nuninstructed worldling who has not risen up in the bottomless abyss, one\nwho has not gained a foothold.",
+  "sermon": 3
+ },
+ {
   "t": "fish",
   "beat": 3,
-  "text": "sorrows, grieves, and laments, he weeps and beats his breast and becomes distraught. This is called an uninstructed worldling who has not risen up in the bottomless abyss, one who has not gained a foothold."
+  "say": "sorrows, grieves, and laments, he weeps and beats his breast and becomes distraught. This is called an uninstructed worldling who has not risen up in the bottomless abyss, one who has not gained a foothold."
  },
  {
   "t": "breath",
@@ -80,9 +93,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The world arises in the six sense-bases. It is at the same time the\narising of suffering... The law of dependent arising is an explanation\nof the way a concept of the world comes about. This is an extremely\nsubtle point.",
+  "sermon": 23
+ },
+ {
   "t": "fish",
   "beat": 4,
-  "text": "The world arises in the six sense-bases. It is at the same time the arising of suffering... The law of dependent arising is an explanation of the way a concept of the world comes about. This is an extremely subtle point."
+  "say": "The world arises in the six sense-bases. It is at the same time the arising of suffering... The law of dependent arising is an explanation of the way a concept of the world comes about. This is an extremely subtle point."
  },
  {
   "t": "breath",
@@ -100,9 +118,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "The deepest point of the entire formula of paticca samuppada is\ntraceable to the interrelation that obtains between name and form on\nthe one hand, and between name-and-form and consciousness on the other.",
+  "sermon": 10
+ },
+ {
   "t": "fish",
   "beat": 5,
-  "text": "The deepest point of the entire formula of paticca samuppada is traceable to the interrelation that obtains between name and form on the one hand, and between name-and-form and consciousness on the other."
+  "say": "The deepest point of the entire formula of paticca samuppada is traceable to the interrelation that obtains between name and form on the one hand, and between name-and-form and consciousness on the other."
  },
  {
   "t": "fish-term",
@@ -125,9 +148,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Like an expert physician, who treats the germ of a disease and\nimmunizes the patient, the Buddha effected a breach in the sa\u1e43s\u0101ric\nvortex by concentrating on its epicycle within this fathom-long body.",
+  "sermon": 23
+ },
+ {
   "t": "fish",
   "beat": 6,
-  "text": "Like an expert physician, who treats the germ of a disease and immunizes the patient, the Buddha effected a breach in the samsaric vortex by concentrating on its epicycle within this fathom-long body."
+  "say": "Like an expert physician, who treats the germ of a disease and immunizes the patient, the Buddha effected a breach in the samsaric vortex by concentrating on its epicycle within this fathom-long body."
  },
  {
   "t": "fish-term",
@@ -150,9 +178,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "All the twelve links are dependently arisen, and avijj\u0101 is no\nexception. Even ignorance arises with the arising of influxes,\n\u0101savasamuday\u0101 avijj\u0101samudayo. So even ignorance is not the cause. The\ncause is the underlying principle itself.",
+  "sermon": 26
+ },
+ {
   "t": "fish",
   "beat": 7,
-  "text": "All the twelve links are dependently arisen, and avijja is no exception. Even not seeing how it works arises with the arising of influxes, asavasamudaya avijjasamudayo. So even not seeing how it works is not the cause. The cause is the underlying principle itself."
+  "say": "All the twelve links are dependently arisen, and avijja is no exception. Even not seeing how it works arises with the arising of influxes, asavasamudaya avijjasamudayo. So even not seeing how it works is not the cause. The cause is the underlying principle itself."
  },
  {
   "t": "breath",
@@ -170,9 +203,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "What is called the cessation of consciousness has a deeper sense here.\nIt means the cessation of the specifically prepared consciousness,\nabhisaikhata vinnana. An arahant's experience of the cessation of\nconsciousness is at the same time the experience of the cessation of\nname-and-form.",
+  "sermon": 4
+ },
+ {
   "t": "fish",
   "beat": 8,
-  "text": "What is called the stopping of consciousness has a deeper sense here. It means the stopping of the specifically prepared consciousness, abhisaikhata vinnana \u2014 just knowing, before words. An arahant's experience of the stopping of consciousness is at the same time the experience of the stopping of name-and-form."
+  "say": "What is called the stopping of consciousness has a deeper sense here. It means the stopping of the specifically prepared consciousness, abhisaikhata vinnana \u2014 just knowing, before words. An arahant's experience of the stopping of consciousness is at the same time the experience of the stopping of name-and-form."
  },
  {
   "t": "breath",
@@ -190,9 +228,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "True to the qualities of the Dhamma \u2014 to be seen here and now, not\ninvolving time, and inviting to come and see \u2014 the entire mass of samsaric\nsuffering ceases immediately.",
+  "sermon": 3
+ },
+ {
   "t": "fish",
   "beat": 9,
-  "text": "True to the qualities of the Dhamma \u2014 to be seen here and now, not involving time, and inviting to come and see \u2014 the entire mass of samsaric suffering ceases immediately."
+  "say": "True to the qualities of the Dhamma \u2014 to be seen here and now, not involving time, and inviting to come and see \u2014 the entire mass of samsaric suffering ceases immediately."
  },
  {
   "t": "breath",
@@ -210,9 +253,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "In order to ascertain whether a banana trunk is pith-less, it is not\nnecessary to go on removing its bark, layer after layer, from top to\nbottom. We only have to take a sharp sword and cut the trunk in the\nmiddle, so that the cross-section will reveal to us its pith-less nature.\nSimilarly, if we cut in the middle the banana trunk of preparations with\nthe sharp sword of wisdom, its internal structure as revealed by the\ncross-section will convince us of the essence-less nature of the group\nof preparations.",
+  "sermon": 3
+ },
+ {
   "t": "fish",
   "beat": 10,
-  "text": "In order to ascertain whether a banana trunk is pith-less, it is not necessary to go on removing its bark, layer after layer, from top to bottom. We only have to take a sharp sword and cut the trunk in the middle, so that the cross-section will reveal to us its pith-less nature. Similarly, if we cut in the middle the banana trunk of things the mind makes with the sharp sword of wisdom, its internal structure as revealed by the cross-section will convince us of the essence-less nature of the group of things the mind makes."
+  "say": "In order to ascertain whether a banana trunk is pith-less, it is not necessary to go on removing its bark, layer after layer, from top to bottom. We only have to take a sharp sword and cut the trunk in the middle, so that the cross-section will reveal to us its pith-less nature. Similarly, if we cut in the middle the banana trunk of things the mind makes with the sharp sword of wisdom, its internal structure as revealed by the cross-section will convince us of the essence-less nature of the group of things the mind makes."
  },
  {
   "t": "breath",
@@ -230,9 +278,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "According to the accepted interpretation, presented by the venerable\nauthor of the Visuddhimagga, the first two links of the formula belong to\nthe past, and the last two links belong to the future. The remaining\neight links in the middle are taken to represent the present. That means,\nwe have here the three periods of time. So it is not \u2014 timeless.",
+  "sermon": 3
+ },
+ {
   "t": "fish",
   "beat": 11,
-  "text": "According to the accepted interpretation, presented by the venerable author of the Visuddhimagga, the first two links of the formula belong to the past, and the last two links belong to the future. The remaining eight links in the middle are taken to represent the present. That means, we have here the three periods of time. So it is not \u2014 timeless."
+  "say": "According to the accepted interpretation, presented by the venerable author of the Visuddhimagga, the first two links of the formula belong to the past, and the last two links belong to the future. The remaining eight links in the middle are taken to represent the present. That means, we have here the three periods of time. So it is not \u2014 timeless."
  },
  {
   "t": "breath",
@@ -250,9 +303,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "Sometimes we happen to buy from a shop an extremely rickety machine\ndeceived by its paint and polish, and take it home as a brand new\nthing. The very next day it goes out of order... So is our birth with\nits unpredictable vicissitudes... This is the price we pay for this\nbrand new body we are blessed with in this existence.",
+  "sermon": 26
+ },
+ {
   "t": "fish",
   "beat": 12,
-  "text": "Sometimes we happen to buy from a shop an extremely rickety machine deceived by its paint and polish, and take it home as a brand new thing. The very next day it goes out of order... So is our birth with its unpredictable vicissitudes... This is the price we pay for this brand new body we are blessed with in this existence."
+  "say": "Sometimes we happen to buy from a shop an extremely rickety machine deceived by its paint and polish, and take it home as a brand new thing. The very next day it goes out of order... So is our birth with its unpredictable vicissitudes... This is the price we pay for this brand new body we are blessed with in this existence."
  },
  {
   "t": "fish-term",
@@ -275,9 +333,14 @@
   "dur": 2.5
  },
  {
+  "t": "verbatim",
+  "text": "In such discourses as the Bahudh\u0101tukasutta the twelve-linked formula\nis introduced with a set of these thematic phrases, which is then\nrelated to the formula proper with the conjunctive 'that is to say',\nyadida\u1e43. This conjunctive clearly indicates that the twelve-linked\nformula is an illustration. The twelve links are therefore things\ndependently arisen, pa\u1e6dicca samuppann\u0101 dhamm\u0101.",
+  "sermon": 26
+ },
+ {
   "t": "fish",
   "beat": 13,
-  "text": "In such discourses as the Bahudhatukasutta the twelve-linked formula is introduced with a set of these thematic phrases, which is then related to the formula proper with the conjunctive 'that is to say', yadidam. This conjunctive clearly indicates that the twelve-linked formula is an illustration. The twelve links are therefore things dependently arisen, paticca samuppanna dhamma."
+  "say": "In such discourses as the Bahudhatukasutta the twelve-linked formula is introduced with a set of these thematic phrases, which is then related to the formula proper with the conjunctive 'that is to say', yadidam. This conjunctive clearly indicates that the twelve-linked formula is an illustration. The twelve links are therefore things dependently arisen, paticca samuppanna dhamma."
  },
  {
   "t": "breath",
