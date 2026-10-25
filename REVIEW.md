@@ -316,5 +316,25 @@ DOC PASS (after the above):
  11. Reconcile beat count to 71 everywhere; re-run verify.sh; commit
      only when build/ and docs agree.
 
+## Queue status (added later — the review text above stays untouched)
+The amendment pass and A-pass executed against this queue; all items
+resolved except the declared hold-outs. Evidence: CONDENSED-BUILD-NOTES
+§25 (must-fix 1–4) and §26 (should-fix 5–8 + nice-to-fix 9 partial),
+commits 5d90720 / 2a97b2c / cacadfd.
+- 1–4 DONE: S6 opener (clean start 661.84 + sourced S26 quote), S3b10
+  duplicate (sourced S13 quote), S5b2 Pali lead-drop, G6 hardened
+  (G6b + embedded canary).
+- 5–8 DONE: S6b8→faculties chain (S31), S6b6→Tissametteyya verse
+  (S33), S2b12→Channa riddle (S04), S5b12→longing question (S30).
+- 9 PARTIAL: S2b2→S06 winding (rope not in S10 — sourced where it
+  actually lives), S2b13→full dog simile (S25), S6b2→chessboard
+  (from the earlier fix). REMAINS as accepted: S2b4 rupati pairing
+  (adjacent-not-priming, documented).
+- 10 REMAINS by design: YT-only cold opens (S3b1, S6b1 after fix) —
+  ears required; transcripts cannot arbitrate ASR seams.
+- 11 DONE: beat count 71 reconciled everywhere; gates green.
+Gate evolution since this review: G5 rewritten as semantic
+quote-anchor (M-A7), G6b added — D-list class now auto-caught.
+
 ---
 END OF REVIEW. No content was amended in this pass, per instruction.

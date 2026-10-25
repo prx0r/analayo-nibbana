@@ -38,11 +38,16 @@ section), human intro per segment, bells + pauses per the flow grammar.
 04 PAD+GLOSS+VOICE verbatim assignment w/ provenance -> key gloss -> TTS lines -> 3 speakers
 05 QA              gates at every stage (provenance, flow, hold-up, TTS)
 06 RENDER          ffmpeg assembly, loudnorm, bells, cough cover
+--- between 05 and 06 lives the FINAL LOOKOVER: REVIEW.md (read every
+    beat as a first-time listener, findings only, then an amendment
+    pass that fixes with sourced quotes — logs in CONDENSED-BUILD-NOTES)
 ```
 
 Supporting files: `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
 techniques), `MISTAKES.md` (everything we got wrong + fixes),
-`REPRODUCE.md` (exact rerun), `FILES.md` (artifact map), `scripts/`
+`REPRODUCE.md` (exact rerun), `FILES.md` (artifact map),
+`12-ARGUMENT.md` (constructed order + question ritual), `REVIEW.md`
+(root: the final lookover itself), `scripts/`
 (the deterministic tooling), `verify.sh` (one-command audit),
 `07-PLAIN-ENGLISH-STANDARD.md` (testable plainness + blunting),
 `08-PORTING.md` (new texts/languages, e.g. Sanskrit),

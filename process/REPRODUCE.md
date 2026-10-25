@@ -1,8 +1,12 @@
 # REPRODUCE — exact rerun, top to bottom.
 
-Prerequisites: repo + `/tmp/satsang-ext` (51/52/53 packs) + transcripts
-(`lecture-*.transcript.cf.json`, `yt-subs/`) + 23 DS mp3s present
-(10 missing = audio-only gap, text pipeline unaffected).
+Prerequisites: repo + `/tmp/satsang-ext` (51/52/53 packs, verbatim
+home) + transcripts (`lecture-*.transcript.cf.json`, `yt-subs/`) +
+all 33 DS mp3s (10 fetched this session from dharmaseed retreat 4373,
+talk IDs 58720+N, symlinked as `analayo-nibbana-lecture-NN.mp3`).
+`build/` is the LIVE data directory — builders (rebuild_text.py,
+make_assembly.py) read AND write it directly; /tmp is scratch only
+(axiom 13).
 
 ## Stage order (deterministic unless marked ✎ human)
 1. Cutplans exist already (`lecture-*.cutplan.json`; regenerate via
@@ -24,10 +28,22 @@ Prerequisites: repo + `/tmp/satsang-ext` (51/52/53 packs) + transcripts
 6. Below-lines: `fish_filter.PALI2EN` then `blunt_key.json`, then
    TTS transform (parentheses→dashes, English-first lead-drop,
    artifact cleanup). Deterministic — hash must match notes.
-7. Run `process/verify.sh` — G1/G5/G6 + file presence. ALL PASS or stop.
+7. Run `process/verify.sh` — G1 totals, G5 semantic quote-anchor,
+   G6 punctuation/Pali, G6b hardened (leading-run + term-attachment +
+   embedded canary), file presence. ALL PASS or stop. If a gate
+   fails, fix the DATA or the KEY — never relax the gate (axiom 12).
+7b. FINAL LOOKOVER (done once per major pass; see REVIEW.md): read
+   every beat as a first-time listener → findings-only REVIEW →
+   amendment pass with sourced quotes, logged in
+   CONDENSED-BUILD-NOTES §25/§26. Amendments are recorded as
+   `amendment` fields on the affected script entries — reruns inherit
+   them because build/ is source of truth.
 8. Render (audio present): per-manifest `ffmpeg -ss/-to` cuts,
    concat with breath/water beds + bells, `loudnorm`, `afade 0.15s`.
 9. QA listen (ears, unskippable): fixed cores + flags f1–f4.
+   NOTE: quotes for amendment swaps were all sourced from the 33
+   sermon-excavations (A-pass, notes §26) — never invent a quote;
+   the G5 anchor gate rejects anything not literally quoted.
 
 ## What is NOT reproducible (human by design, marked ✎)
 Targeted pad overrides, flow-audit verdicts, hand-fix list, human

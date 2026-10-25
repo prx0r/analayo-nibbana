@@ -38,3 +38,19 @@
     Gaps are declared (missing mp3s, YT-only timebases) with owners.
 12. **Every fix is logged with cause.** No silent edits. MISTAKES.md grows;
     the pipeline only changes by adding checks, never by relaxing them.
+
+13. **Audit the path you write.** A checker reading a different path
+    than its writer produces vacuous passes on stale data (happened
+    three times: /tmp vs build/). Builders and gates read and write
+    `build/` directly; a check whose input path differs from the
+    writer's output path is void until proven same-file.
+14. **Gate logic runs as files, never inline in shell.** Complex
+    python in `python3 -c "..."` inside bash dies on quote-escaping
+    (twice: M-A4, M-A7). Write the gate as `process/scripts/*.py`,
+    RUN it standalone first, then wire it into verify.sh.
+15. **Detectors carry their own canary.** A detection rule embeds a
+    known-bad input it must flag (G6b: the pre-fix S5b2 line); if the
+    detector stops flagging it, the gate fails. A detector that cannot
+    fail its own test is not a gate. Provenance-style checks get the
+    dual: semantic anchors over derived indexes (M-A7: naive quote
+    pairing rejected valid quotes).

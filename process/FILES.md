@@ -32,6 +32,17 @@ seg1-7_fish.json (composed Fish narration), seg1_pads.json (hand beats).
 Kept as evidence. See MISTAKES.md M1–M2.
 
 ## Also part of the build
-`09-BELLS-ZOOM.md`, `10-MATHEMATICS.md`, `build/assembly_sN.json` (340
-ordered events), `build/assets/motto-bell.wav` + `zoom-bell.wav`
-(synthesized, 2.5 s / 6.0 s), `build/human-scripts.md` (6 intros, DRAFT).
+- `09-BELLS-ZOOM.md`, `10-MATHEMATICS.md`, `11-STICKINESS.md`,
+  `12-ARGUMENT.md` (constructed order + bell-question-pause ritual).
+- `REVIEW.md` (repo root): the final lookover — per-beat findings,
+  D-list TTS violations, amendment queue + status (amended: see
+  CONDENSED-BUILD-NOTES §25/26).
+- `process/scripts/`: `g5_provenance.py` (semantic quote-anchor),
+  `g6_tts_check.py` (hardened TTS gate, embedded canary),
+  `make_assembly.py` + `rebuild_text.py` (both target `build/`
+  directly — axiom 13), `rematch2.py` (pool builder),
+  `fish_filter.py`/`blunt_key.json` copies (keys).
+- `build/assembly_sN.json`: 416 ordered events after the question
+  ritual (63/76/88/32/81/76), `build/assets/motto-bell.wav` +
+  `zoom-bell.wav` (synthesized, 2.5 s / 6.0 s),
+  `build/human-scripts.md` (6 intros, DRAFT — human recording pending).
