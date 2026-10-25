@@ -63,16 +63,34 @@ The stack on screen mirrors it: his words on top, plain English
 underneath, his voice last. The plain English never replaces the
 verbatim — it translates it, directly below, in the same moment.
 
-### Essay-0 candidates per section (notes, not yet enforced)
-S1 motto (in place, cold-open clip). S2 opening refrain line (check:
-it echoes S1's motto — ideal S2 essay 0 is the mechanism one-liner,
-"this happens because that happened" / twelve links in one moment).
-S3 "name is a formal name... form only in name". S4 stars/moon/no-
-darkness or the self-as-construction line. S5 Bahiya "in the seen only
-the seen" (likely; confirm vs current opener). S6 embers/the going-out
-line (confirm vs current magic-show opener). Reassigning an opening
-beat = edit make_assembly essay-0 pick per section; source only, never
-invent.
+### The chain (why these six questions, in this order)
+The questions are not labels — they are a logical progression where
+each answer IS the next question's premise, and a verb-thread ties
+them: suffering gets **made** (2) → the made feels real (3) → the
+self is **made of** signs (4) → unsee the making (5) → when the
+making stops, what remains (6). Sequence logic:
+
+  1 defines the destination (the motto IS the answer)
+  2 to reach it you must know the machine that produces the opposite
+  3 the machine hides because its output feels given, not made
+  4 its masterwork is the self — the biggest thing it made
+  5 practice is unmaking that: stop adding yourself
+  6 when adding stops, what was always there is all that is left
+
+A question that cannot be answered by the next question's material
+does not belong in the chain. Replacing one question means re-checking
+all six edges.
+
+### Essay-0 status (ESSAY0 dict in make_assembly.py — ENFORCED, not candidates)
+S1=beat 1 (motto). S2=beat 7 (twelve-links/principle — mechanism;
+replaces the motto-echo that answered the wrong question). S3=beat 1
+(name is a formal name — why it feels real). S4=beat 2 (painter/
+scatter — what the self is made of; the stars-line demoted to a
+regular beat: anidassana is depth material, not the answer). S5=beat 3
+(Bahiya instruction; head may land on the "cognized" fragment — snap
+to pause at render). S6=beat 1 (magic-show — the seeing remains).
+
+
 
 ## The ritual (bell → question → pause → answer)
 

@@ -24,13 +24,23 @@ td = '/root/analayo-nibbana/build'
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
 QUESTIONS = {
+    # The chain (process/12-ARGUMENT.md): each answer IS the next
+    # question's premise. Thread: what ends it -> how suffering gets
+    # made -> why the made feels real -> what the self is made of ->
+    # how to unmake-see it -> what remains.
     1: "What is Nibbana?",
-    2: "How does suffering actually run?",
-    3: "Why do we stay stuck?",
-    4: "What does the mechanism build?",
-    5: "How do you see through it?",
+    2: "How does suffering get made?",
+    3: "Why does this feel real?",
+    4: "What is the self made of?",
+    5: "How do you see through the self?",
     6: "What remains when it stops?",
 }
+# Which beat is each section's essay 0 (the compressed answer)?
+# Default 1. Overrides where beat 1 does not answer the question:
+# S2 b7 = twelve-links/principle (mechanism, not motto-echo);
+# S5 b3 = Bahiya instruction (the practice, not motto);
+# S4 b2 = painter/scatter (what the self is made of, not the stars-line).
+ESSAY0 = {1: 1, 2: 7, 3: 1, 4: 2, 5: 3, 6: 1}
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}
@@ -44,7 +54,8 @@ for s in range(1, 7):
     byclip = {e['clip']: e for e in sc}
 
     # ---- OPENING: question -> essay 0 (text on screen, archive voice answers)
-    b1 = core[0]
+    oi = ESSAY0[s] - 1
+    b1 = core[oi]
     b1e = byclip.get(b1.get('clip'))
     if b1e is None:
         b1e = next((y for y in sc
@@ -70,7 +81,9 @@ for s in range(1, 7):
     ]
 
     # ---- BEATS 2..N: fixed stack TEXT VERBATIM -> PLAIN ENGLISH -> AUDIO
-    for x in core[1:]:
+    for i, x in enumerate(core):
+        if i == oi:          # essay-0 beat already consumed by the opening
+            continue
         e = byclip.get(x.get('clip'))
         if e is None:
             e = next((y for y in sc
