@@ -28,7 +28,7 @@ FUNC = set('the,a,an,is,are,was,were,be,and,or,but,of,to,in,on,for,with,'
            'as,at,this,that,it,he,she,they,we,you,not,no,so,if,then,than,'
            'there,here,when,where,which,who,what,how,all,do,does,did,have,'
            'has,had,will,would,can,could,shall,should,may,might,must,by,'
-           'from,into,its,itself,them,his,her,our,your,my'.split(','))
+           'from,into,its,itself,them,his,her,our,your,my,i,am,me,us'.split(','))
 
 PALI = re.compile(
     r'\b(asavasamudaya|avijjasamudayo|avijja|paticca|samuppada|samuppanna|'

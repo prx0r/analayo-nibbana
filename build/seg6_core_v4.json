@@ -1,12 +1,12 @@
 [
  {
-  "lec": 27,
-  "start": 661.84,
-  "end": 760.6,
+  "lec": 1,
+  "start": 3995.7,
+  "end": 4048.0,
   "grade": "A",
-  "dur": 98.8,
+  "dur": 52.3,
   "ci": 10,
-  "ismotto": true
+  "ismotto": false
  },
  {
   "lec": 8,

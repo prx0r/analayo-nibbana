@@ -346,3 +346,26 @@ build_film_manifest.py (no more inline re-pastes, R6). Repack:
 0=6.7 A=33.5 B=90.0 C=167.9 screening=298.1m, ALL GATES PASS incl G5
 on the new quote. Backup candidate if owner dislikes: the dog quote
 (L25 window).
+
+## 32c. All six essay-0 units repaired (2026-10-25, owner: "ensure all of them are fixed")
+Per-unit heard-content audit (transcript inside every window) found:
+U3 heard Mara's-oxen story + closed on "foreign/[Music]" (the spoken
+gap-craving line actually lives in L33 — the scorer had that span in
+2); U4 heard board/cloth/dye junk (never spoke its quote); U5 opened
+on the Bahiya formula but ran 60s into Dona etymology; U6 opened on
+"this is the 27th sermon..." serial announcement. Fixes:
+- U3: pool-move L33 [1752.5-1877.7] 2->3 (ci=8), window -> [1851.8-
+  1877.7] where "The gap is ignored... craving" is actually spoken.
+- U4: scatter (L06, never spoken) -> MIRROR stack: sermon-10 "It is
+  when one looks into a mirror ... 'Ah, here I am!'" + L10 [2203.1-
+  2233.0] where Analayo speaks it verbatim; pool-added to 4 (A, ci3).
+- U5: window trimmed to [4440.5-4462.3] = formula start -> "This
+  itself is the end of suffering." (21.8s, under budget).
+- U6: magic-show clip -> GROWN COOL stack: sermon-01 "I am grown
+  cool, extinguished as I am." + L01 [3995.7-4048.0] (spoken, plus
+  bliss-of-appeasement); pool-added to 6 (A, ci10).
+- G6b false-positive fixed: FUNC lacked i/am/me/us -> "I am grown
+  cool" zero-function-word run flagged; canary still armed (green).
+- U1 untouched (heard: full refrain both renderings). U2/U3 passes.
+Rung-0 now: 53/65/26/30/22/52s; ONLY warn left = ch1 atomic refrain.
+Screening 295.4m. ALL GATES PASS (G5 78/78 on new quotes).

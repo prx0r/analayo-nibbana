@@ -2,17 +2,18 @@
  {
   "clip": 1,
   "analayo": {
-   "lec": 27,
-   "start": 661.84,
-   "end": 760.6,
-   "dur": 98.2
+   "lec": 1,
+   "start": 3995.7,
+   "end": 4048.0,
+   "dur": 52.3
   },
-  "nanananda_verbatim": "In short, he has seen the magic show so well as to miss the show.",
-  "nanananda_sermon": 26,
+  "nanananda_verbatim": "I am grown cool, extinguished as I am.",
+  "nanananda_sermon": 1,
   "cluster": 10,
-  "plain_english_below": "In short, he has seen the magic show so well as to miss the show.",
-  "tts_line": "In short, he has seen the magic show so well as to miss the show.",
-  "amendment": "S6 opener: clip -> clean sentence start (661.84), verbatim -> sourced S26 magic-show quote; chessboard moved to b2; fragment dropped"
+  "plain_english_below": "I am grown cool, extinguished as I am.",
+  "tts_line": "I am grown cool, extinguished as I am.",
+  "amendment": "S6 opener: clip -> clean sentence start (661.84), verbatim -> sourced S26 magic-show quote; chessboard moved to b2; fragment dropped",
+  "match": "grown-cool L01 spoken in-window (replaces magic-show clip that opened on 27th-sermon announcement)"
  },
  {
   "clip": 2,
@@ -108,11 +109,11 @@
    "end": 4689.4,
    "dur": 84.8
   },
-  "nanananda_verbatim": "It could indeed be expected of a noble disciple who has faith that he\nwill dwell with energy... that he will be mindful... that he will gain\nconcentration, will gain one-pointedness of mind, having made release\nthe object... that he will understand thus: 'This sa\u1e43s\u0101ra is without a\nconceivable beginning... But the remainderless fading away and\ncessation of ignorance... the stilling of all preparations... the\ndestruction of craving, detachment, cessation, extinction.' That\nwisdom of his, Venerable Sir, is his faculty of wisdom.",
+  "nanananda_verbatim": "It could indeed be expected of a noble disciple who has faith that he\nwill dwell with energy... that he will be mindful... that he will gain\nconcentration, will gain one-pointedness of mind, having made release\nthe object... that he will understand thus: 'This saṃsāra is without a\nconceivable beginning... But the remainderless fading away and\ncessation of ignorance... the stilling of all preparations... the\ndestruction of craving, detachment, cessation, extinction.' That\nwisdom of his, Venerable Sir, is his faculty of wisdom.",
   "nanananda_sermon": 31,
   "cluster": 3,
   "plain_english_below": "It could indeed be expected of a noble disciple who has faith that he will dwell with energy... that he will be mindful... that he will gain concentration, will gain one-pointedness of mind, having made release the object... that he will understand thus: 'This samsara is without a conceivable beginning... But the remainderless going out and stopping of not seeing how it works... everything the mind makes comes to a stop... the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.' That wisdom of his, Venerable Sir, is his faculty of wisdom.",
-  "tts_line": "It could indeed be expected of a noble disciple who has faith that he will dwell with energy... that he will be mindful... that he will gain concentration, will gain one-pointedness of mind, having made release the object... that he will understand thus \u2014 'This samsara is without a conceivable beginning... But the remainderless going out and stopping of not seeing how it works... everything the mind makes comes to a stop... the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.' That wisdom of his, Venerable Sir, is his faculty of wisdom.",
+  "tts_line": "It could indeed be expected of a noble disciple who has faith that he will dwell with energy... that he will be mindful... that he will gain concentration, will gain one-pointedness of mind, having made release the object... that he will understand thus — 'This samsara is without a conceivable beginning... But the remainderless going out and stopping of not seeing how it works... everything the mind makes comes to a stop... the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.' That wisdom of his, Venerable Sir, is his faculty of wisdom.",
   "amendment": "A-pass: Sariputta faculties chain matches L31 bases->faculties chain"
  },
  {
