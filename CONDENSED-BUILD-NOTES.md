@@ -225,3 +225,28 @@ line but Q4 asks construction — candidates in seg4_script: beat 4
 barb: "I know, I see") or scaffold answer_p1 mirror "Ah, here I
 am!" — owner ear. Spelling: "Nibbana" (project ASCII), owner typed
 "nirvana" once.
+
+## 30. Containment audit — 0 ⊂ a ⊂ b ⊂ c (2026-10-25, owner ask)
+Method: span-interval coverage (same lec, sup ⊇ sub, exact then ±1s),
+seed quotes/ windows checked against section scripts + core clips.
+- c(pool) ⊇ b(gold): PASS 6/6 — 590/590 gold spans inside pool, exact.
+- 0 ⊂ a: PASS — 6/6 seed quotes in section scripts, 6/6 audio windows
+  inside core clips, questions sync seed==assembly==make_assembly.
+- b(gold) ⊇ a(core): 67/71 exact; 4 exceptions + 6 sub-second drifts:
+  (1) S1 L19 [348-359] core head extends 7.8s before gold [355.8..]
+      (the "extend L19 head to motto" fix never back-ported to gold);
+  (2) S6 L27 [661.84-760.6] core head extends 13.5s before gold
+      [675.3..] (the 675->661.84 clean-sentence move, same);
+  (3) S3 L12 [1299-1431] B* — documented honey-ball B-promotion,
+      disjoint from gold's A spans by 35s;
+  (4) S4 L8 [1382-1419.3] B* — documented anidassana anchor, no L8
+      span in gold at all;
+  (5) six S1 clips overhang gold by 0.2-0.8s (sentence-snap drift).
+- LEDGER DRIFT: notes claimed core=72 clips; files say 71 (S1=11,
+  §13 "S1 12" vs §11 "S1 11" — §11 matches the file). Pool 1193 /
+  gold 590 match notes exactly.
+- Recommended (owner call, not touched): back-port the two A-grade
+  head-extensions into gold (widen 2 windows) so a⊆b is exact for
+  A material; keep the two B* as the documented project exception
+  ("core is A-only except where the definitional reading lives in B");
+  leave the sub-second snaps. Manifests regenerate if gold moves.
