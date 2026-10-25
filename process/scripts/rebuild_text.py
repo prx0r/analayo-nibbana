@@ -6,7 +6,7 @@ import re
 import unicodedata
 
 D = '/root/analayo-nibbana'
-td = '/tmp/opencode/condensed'
+td = D + '/build'  # axiom 13: builders target build/, not /tmp
 
 exec(open(D + '/build/fish_filter.py').read().split('# below-line')[0])
 blunt = json.load(open(D + '/build/blunt_key.json'))

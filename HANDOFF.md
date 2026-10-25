@@ -1,3 +1,9 @@
+# SUPERSEDED — see HANDOVER.md (2026-10-25)
+
+This was the era-1 cutplan handoff. All 33 cutplans are done and
+pushing works now (its 'push impossible' note is stale). Kept for
+the cutplan method only.
+
 # HANDOFF — Nibbāna lecture cut plans (for finishing agent)
 
 ## Task

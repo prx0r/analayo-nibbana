@@ -1,2 +1,4 @@
 # keep all media + transcripts for handoff
 *.pdf
+process/scripts/__pycache__
+build/__pycache__

@@ -12,7 +12,7 @@ produces 3 versions of the same material:
 - **V1 Pool** — everything kept, reordered from sermon order into *argument
   order* (6 segments here, ~20.7h). The archive. Navigable, nothing wasted.
 - **V2 Gold** — the A-grade spine only (~6.3h). The deep dive.
-- **V3 Core** — one killer beat per cluster (~96 min Analayo + pads/pauses
+- **V3 Core** — one killer beat per cluster (71 clips, ~93 min Analayo + pads/pauses
   ≈ 2h). The clearest explanation. Self-contained movies, one per segment.
 
 Each core beat is a fixed 3-layer stack:
@@ -42,6 +42,15 @@ section), human intro per segment, bells + pauses per the flow grammar.
     beat as a first-time listener, findings only, then an amendment
     pass that fixes with sourced quotes — logs in CONDENSED-BUILD-NOTES)
 ```
+
+## The film layer (added 2026-10-25, see HANDOVER.md at repo root)
+Same material, four cumulative rungs for one five-hour screening:
+**0 (seed, 6 questions) ⊂ A (33m) ⊂ B (90m) ⊂ C (168m)** — membership
+in `build/film_manifest.json`, budgets from `visuals/FIVE-HOUR-CUT.md`,
+gates: G8 (nesting + ceilings + provenance + chain). The visual design
+canon lives in `visuals/` (11 docs; index in HANDOVER). The next build
+artifacts: the cue sheet (VISUAL-MASTER-PLAN §7 schema) and Fish
+speaking the plain line after each clip.
 
 Supporting files: `RECURRING-MISTAKES.md` (the patterns I keep
 repeating — read FIRST, before touching anything), `AXIOMS.md` (binding rules), `SKILLS.md` (reusable

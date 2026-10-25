@@ -369,3 +369,16 @@ on the Bahiya formula but ran 60s into Dona etymology; U6 opened on
 - U1 untouched (heard: full refrain both renderings). U2/U3 passes.
 Rung-0 now: 53/65/26/30/22/52s; ONLY warn left = ch1 atomic refrain.
 Screening 295.4m. ALL GATES PASS (G5 78/78 on new quotes).
+
+## 33. Handover + organization pass (2026-10-25)
+Wrote HANDOVER.md (next agent entry point: read-order, branch
+topology main/lab/c-split/baseline-tag, where-everything-is maps for
+root/build/process/visuals/external, locked decisions, true numbers,
+next queue, traps). Rewrote process/FILES.md (71 not 73, film files,
+builders vs gates, visuals index), process/README.md (film layer +
+four rungs), process/REPRODUCE.md (stages 6b/6c + G7/G8 + the §32
+data patches), superseded HANDOFF.md (era-1 cutplans, push note
+stale), .gitignore += pycache, fixed rebuild_text td -> build/
+(axiom 13). Stale-string sweep: old chain strings absent from live
+scripts/build; tracked pyc = 0. visuals/ = 11 docs, indexed in
+HANDOVER. Repo organized; all gates run before push.

@@ -28,9 +28,16 @@ make_assembly.py) read AND write it directly; /tmp is scratch only
 6. Below-lines: `fish_filter.PALI2EN` then `blunt_key.json`, then
    TTS transform (parentheses→dashes, English-first lead-drop,
    artifact cleanup). Deterministic — hash must match notes.
+6b. Seed: `python3 process/scripts/build_seed.py` (reads assemblies).
+6c. Film manifest: `python3 process/scripts/build_film_manifest.py`
+   (four-depth membership, budgets, flags cache /tmp/film_flags.json).
+   Data patches that must be present (logged notes §32-32c): head-
+   back-ports (S1 L19->348, S6 L27->661.84), pool-move L33 2->3,
+   pool-adds L10->4 and L01->6, six essay-0 stacks.
 7. Run `process/verify.sh` — G1 totals, G5 semantic quote-anchor,
    G6 punctuation/Pali, G6b hardened (leading-run + term-attachment +
-   embedded canary), file presence. ALL PASS or stop. If a gate
+   embedded canary), G7 essay/chain/seed, G8 film manifest (nesting,
+   budgets, provenance, chain, pool-membership), file presence. ALL PASS or stop. If a gate
    fails, fix the DATA or the KEY — never relax the gate (axiom 12).
 7b. FINAL LOOKOVER (done once per major pass; see REVIEW.md): read
    every beat as a first-time listener → findings-only REVIEW →
