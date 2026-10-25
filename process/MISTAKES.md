@@ -87,3 +87,15 @@
   Lesson: sources are mixed-unicode; normalizing late means patterns
   silently never fire.
 
+- **M-A7 gate-implementing sins (two at once).** (a) Rewrote the G5
+  provenance check inline in verify.sh — broke on shell quote-escaping,
+  the SECOND casualty of the same M-A4 rule I had just written.
+  (b) The old G5 span-set used naive quote pairing; sermon-30 has an
+  off-by-one quote earlier in the file, which paired labels instead of
+  content — a semantically valid quote would have been REJECTED by its
+  own gate. Fix: semantic anchor test (quote+text+quote in normalized
+  source), standalone script, file-mode tested before wiring in.
+  Bonus: my first draft of that script called .values() on a list —
+  caught by running it. Lesson (relearned): write gate logic as a
+  runnable file and RUN it before wiring; never inline; never trust
+  pairing-derived indexes when a direct search exists.

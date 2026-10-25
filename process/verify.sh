@@ -9,30 +9,8 @@ pool=sum(sum(x['dur'] for x in json.load(open('build/seg%d_pool.json'%s))) for s
 print('pool total h: %.2f (expect ~20.70)'%(pool/3600))
 assert 20.0 < pool/3600 < 21.5, 'TOTALS DO NOT RECONCILE'
 print('OK')"
-echo "== G5 provenance =="
-python3 -c "
-import json,glob,re
-spans=set()
-for f in sorted(glob.glob('/tmp/satsang-ext/53-nibbana-scaffold/sermon-*-excavation.md')):
-  raw=open(f).read()
-  for m in re.finditer(r'\"([^\"]{10,})\"', raw, re.S):
-    spans.add(re.sub(r'\\s+',' ',re.sub(r'\*','',m.group(1))).strip().lower())
-def normstrip(t):
-  t=re.sub(r'\s+',' ',re.sub(r'\*','',t)).strip()
-  if (t.startswith('\"') and t.endswith('\"')) or (t.startswith(chr(8220)) and t.endswith(chr(8221))): t=t[1:-1]
-  return t.strip().lower()
-bad=total=0
-miss=[]
-for s in range(1,7):
-  for e in json.load(open('build/seg%d_script.json'%s)):
-    v=e.get('nanananda_verbatim','')
-    for q in (v if isinstance(v,list) else [v]):
-      if not q: bad+=1; continue
-      total+=1
-      if normstrip(q) not in spans: bad+=1; miss.append((s,e['clip'],normstrip(q)[:60]))
-print('provenance %d/%d'%(total-bad,total))
-assert not bad, 'PROVENANCE FAILURES: %s' % miss[:5]
-print('OK')"
+echo "== G5 provenance (semantic quote-anchor) =="
+python3 process/scripts/g5_provenance.py || exit 1
 echo "== G6 TTS scan =="
 python3 -c "
 import json,re

@@ -151,3 +151,26 @@ Scope: review's queue items 1–4 only. All changes logged with cause.
 - Build-path fix: builders now target build/ directly (M-A2).
 - Provenance re-verified after swaps: 78/78 exact-quoted. verify.sh
   ALL GATES PASS with the hardened G6b.
+
+## 26. A-pass (2026-10-24, after amendment pass) — REVIEW queue items 5–8 + 2 nice-to-fix
+All six weak pairings re-sourced from the sermon excavations (whole sermons on
+disk — no external lookup needed). Every quote verified semantically-quoted in
+its source + zero duplicates + asserted against the old verbatim before swap:
+- S2b2 mirror -> S06 winding/rewinding (rope motif; rope NOT in S10 pool,
+  found in S06 — documented rather than forced into the wrong sermon)
+- S2b12 rickety-machine -> S04 Channa riddle (verbatim = the very riddle
+  the L04 clip reads: wavering->calm->no coming and going)
+- S2b13 formal Bahudhatuka framing -> S25 full dog simile (L25 clip
+  alludes to the dog; now it is primed)
+- S5b12 generic framing -> S30 longing question ('When shall I enter...') —
+  the exact question the L30 clip performs
+- S6b6 one-line happiness -> S33 Tissametteyya verse = the exact verse
+  the L33 clip reads and translates (tightest prime in the build)
+- S6b8 victory/defeat -> S31 Sariputta faculties chain (faith->energy->
+  mindfulness->concentration->wisdom = the chain the L31 clip explains)
+Gate upgrade: G5 provenance rewritten as semantic quote-anchor test
+(verbatim must sit between quotes in normalized source) — the old
+set-membership version depended on naive "..." pairing, and sermon-30's
+quote-parity shift would have rejected valid quotes. Now standalone
+script process/scripts/g5_provenance.py (see MISTAKES M-A7).
+verify.sh ALL GATES PASS after rebuild (G5 78/78 + G6 + G6b canary).
