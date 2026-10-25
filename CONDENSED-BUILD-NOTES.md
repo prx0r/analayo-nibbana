@@ -310,3 +310,21 @@ for section 3 re-fit — current name-and-form quote answered the old
 question; candidates from seg3_script: B05 craving-impelled gap,
 B04 delight-in-existence, B08 asava-tides. Lead-in edge A3->Q4
 re-run in 12-ARGUMENT (feeds -> builds "me").
+
+## 32. Film cut v1 built on lab/c-split (2026-10-25)
+Owner: "work autonomously creating this movie version" (per
+visuals/FIVE-HOUR-CUT.md: 6+36+90+168=300m ceiling). Built:
+build/film_manifest.json — every core clip + selected gold assigned to
+earliest depth (0/A/B/C), per chapter, greedy: unflagged>flagged
+(the 333m D-pool), core>gold, cluster caps A2/B5, gold-vs-core overlap
+deduped. Gates: process/scripts/g8_film_check.py (nesting E0⊂EA⊂EB⊂EC,
+A/B/C budget ceilings hard-fail, provenance fields, pool-membership
+overlap>=50%, chain==make_assembly, screening<=305m) wired as G8.
+Result: screening 298.3m (4h58m) — 0=6.4 A=34.1 B=89.9 C=167.9;
+unique 167.9 / re-encountered 130.4; flagged in C only 21/225 clips.
+G8's first run FAILED on S1 L19 [348-359] pool-membership -> applied
+the F1 back-port (pool+gold start 355.8->348.0 and 675.3->661.84):
+containment exceptions 1&2 CLOSED (A-grade core⊆gold now exact; the
+two B* remain the documented exception). Rung-0 overruns (ch1/4/5/6)
+= documented WARNs (atomic seed windows). ALL GATES PASS incl G8.
+Next: cue sheet (intra-cell order + shots + music passages), renders.

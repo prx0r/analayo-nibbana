@@ -27,9 +27,11 @@ echo "== G6b hardened TTS gate (leading-Pali + term-attachment + canary) =="
 python3 process/scripts/g6_tts_check.py || exit 1
 echo "== G7 essay gates (structure + chain + essay-0 gold-dust) =="
 python3 process/scripts/g7_essay_check.py || exit 1
+echo "== G8 film manifest (nesting + budgets + provenance + chain) =="
+python3 process/scripts/g8_film_check.py || exit 1
 echo "== files =="
 
-for f in build/seg1_script.json build/seg6_script.json build/manifest_index.json build/fish_filter.py build/blunt_key.json SPEAKER-RULES.md; do
+for f in build/seg1_script.json build/seg6_script.json build/manifest_index.json build/film_manifest.json FILM-CUT.md build/fish_filter.py build/blunt_key.json SPEAKER-RULES.md; do
   [ -f "$f" ] || { echo "MISSING $f"; exit 1; }
 done
 echo "ALL GATES PASS"
