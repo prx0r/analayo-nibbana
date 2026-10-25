@@ -54,3 +54,15 @@
     fail its own test is not a gate. Provenance-style checks get the
     dual: semantic anchors over derived indexes (M-A7: naive quote
     pairing rejected valid quotes).
+
+16. **Presentation order is gospel: TEXT VERBATIM → PLAIN ENGLISH →
+    AUDIO.** Every beat shows Nanananda's words first, then Fish speaks
+    the plain-English underneath, then the Analayo clip plays. Never
+    reorder — the listener reads the claim, hears the translation in
+    English, then hears the teacher. The section opening follows the
+    same spine: bell → Fish asks the question → 3s recollect → ESSAY 0
+    (the compressed answer) on screen → the archive voice answers it
+    directly. Nothing wedges between question and answer (no intro
+    bridges there; a human intro, if used at all, comes AFTER the
+    answer — see 12-ARGUMENT.md).
+

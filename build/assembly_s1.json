@@ -11,13 +11,15 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect",
-  "note": "listener tries to answer before the intro - this pause IS the learning"
+  "note": "listener tries to answer first - this pause IS the learning"
  },
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md section 1",
-  "status": "pending-recording",
-  "note": "the human answers the question in their own words, then Analayo unfolds"
+  "t": "verbatim",
+  "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
+  "plain": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "sermon": 1,
+  "essay": 0,
+  "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
@@ -25,29 +27,13 @@
   "start": 696,
   "end": 749,
   "dur": 53,
-  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+  "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
-  "t": "verbatim",
-  "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
-  "sermon": 1
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "say": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "note",
-  "text": "beat 1 Analayo already played as cold open - no repeat"
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "t": "human-intro",
+  "ref": "human-scripts.md section 1",
+  "status": "optional-pending",
+  "note": "only if used: AFTER the answer, never between question and motto"
  },
  {
   "t": "verbatim",

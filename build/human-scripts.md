@@ -1,4 +1,4 @@
-# HUMAN RECORDING SCRIPT — DRAFT for your voice/approval. ~4 min total. No Pali (Analayo owns it).
+# HUMAN RECORDING SCRIPT (position: AFTER the answer, optional) — DRAFT for your voice/approval. ~4 min total. No Pali (Analayo owns it).
 
 Read each cold, one breath between sentences. These open their section, then the bell, then Fish + Analayo take over.
 

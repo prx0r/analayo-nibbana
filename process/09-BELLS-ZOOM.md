@@ -28,8 +28,10 @@ no library bells, no variation. Recognition IS the function.
 1. RITUAL (the repetition IS the learning, process/12-ARGUMENT.md):
    MOTTO bell → Fish asks the section question ("What is Nibbana?") →
    3s recollect pause (the listener tries to answer first) →
-   human intro answers in their own words (pending recording,
-   build/human-scripts.md) → Analayo cold-opens.
+   ESSAY 0 on screen (verbatim + plain english — the compressed
+   answer) → the archive voice answers it (the motif). A human intro,
+   if used, comes AFTER the answer, never between question and motto.
+   Beats then run the fixed stack: verbatim → plain english → Analayo.
 2. Per beat: Nanananda verbatim on screen → Fish speaks the plain English
    → 1.5s breath → [term drops if Pali is heard] → Analayo clip plays
    → 2.5s water.

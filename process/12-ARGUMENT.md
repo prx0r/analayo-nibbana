@@ -39,6 +39,41 @@ The order is constrained, not decorated: 1 anchors everything;
 intelligible after 1–4; 6 must close, never open. Reorder at will —
 if the argument still stands, the template was wrong about that text.
 
+## The four essays (0, a, b, c) — one question, four depths
+
+Each section's question gets FOUR layers of answer, all present in the
+build, all in the fixed presentation order (AXIOM 16):
+
+- **Essay 0 — the compressed answer.** The most concise response that
+  still explains the question fully. Tight, exact, no words wasted.
+  For §1 it is the motto itself: *"This is peaceful, this is excellent,
+  namely the stilling of all preparations..."* — one sentence that IS
+  the answer. Essay 0 opens every section: the question is asked, the
+  compressed answer goes on screen, the archive voice speaks it (the
+  motif). It is the answer first, the expansion later.
+- **Essays a/b/c — the expansion.** The graded material already in the
+  data (A = gold spine, B = flow, C = depth), heard at expanding
+  complexity across the zoom layers: seed → core → gold → pool. Every
+  layer is the same argument at greater width; essay 0 never changes,
+  it is the seed of all three.
+
+Presentation order inside every layer (bible, do not reorder):
+    Nanananda verbatim (text) → plain English (Fish) → Analayo (audio)
+The stack on screen mirrors it: his words on top, plain English
+underneath, his voice last. The plain English never replaces the
+verbatim — it translates it, directly below, in the same moment.
+
+### Essay-0 candidates per section (notes, not yet enforced)
+S1 motto (in place, cold-open clip). S2 opening refrain line (check:
+it echoes S1's motto — ideal S2 essay 0 is the mechanism one-liner,
+"this happens because that happened" / twelve links in one moment).
+S3 "name is a formal name... form only in name". S4 stars/moon/no-
+darkness or the self-as-construction line. S5 Bahiya "in the seen only
+the seen" (likely; confirm vs current opener). S6 embers/the going-out
+line (confirm vs current magic-show opener). Reassigning an opening
+beat = edit make_assembly essay-0 pick per section; source only, never
+invent.
+
 ## The ritual (bell → question → pause → answer)
 
 Each section opens the same way, every time, no exceptions:

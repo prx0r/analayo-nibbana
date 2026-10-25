@@ -42,7 +42,7 @@ Kept as evidence. See MISTAKES.md M1–M2.
   `make_assembly.py` + `rebuild_text.py` (both target `build/`
   directly — axiom 13), `rematch2.py` (pool builder),
   `fish_filter.py`/`blunt_key.json` copies (keys).
-- `build/assembly_sN.json`: 416 ordered events after the question
-  ritual (63/76/88/32/81/76), `build/assets/motto-bell.wav` +
+- `build/assembly_sN.json`: 389 ordered events after the corrected
+  opening (59/72/84/27/75/72; beat 1 = essay 0 consumed by intro), `build/assets/motto-bell.wav` +
   `zoom-bell.wav` (synthesized, 2.5 s / 6.0 s),
   `build/human-scripts.md` (6 intros, DRAFT — human recording pending).

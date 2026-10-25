@@ -11,13 +11,15 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect",
-  "note": "listener tries to answer before the intro - this pause IS the learning"
+  "note": "listener tries to answer first - this pause IS the learning"
  },
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md section 4",
-  "status": "pending-recording",
-  "note": "the human answers the question in their own words, then Analayo unfolds"
+  "t": "verbatim",
+  "text": "The sun, the moon and the stars shine precisely because of the presence\nof darkness. In the non-manifestative consciousness there is absolutely\nno darkness for them to shine forth.",
+  "plain": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative \u2014 with nowhere to land \u2014 consciousness there is absolutely no darkness for them to shine forth.",
+  "sermon": 16,
+  "essay": 0,
+  "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
@@ -25,34 +27,13 @@
   "start": 1382.0,
   "end": 1419.3,
   "dur": 37.3,
-  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+  "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
-  "t": "verbatim",
-  "text": "The sun, the moon and the stars shine precisely because of the presence\nof darkness. In the non-manifestative consciousness there is absolutely\nno darkness for them to shine forth.",
-  "sermon": 16
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "say": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative \u2014 with nowhere to land \u2014 consciousness there is absolutely no darkness for them to shine forth."
- },
- {
-  "t": "fish-term",
-  "say": "with nowhere to land",
-  "hears": "non-manifestative"
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "note",
-  "text": "beat 1 Analayo already played as cold open - no repeat"
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "t": "human-intro",
+  "ref": "human-scripts.md section 4",
+  "status": "optional-pending",
+  "note": "only if used: AFTER the answer, never between question and motto"
  },
  {
   "t": "verbatim",

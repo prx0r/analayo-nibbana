@@ -11,13 +11,15 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect",
-  "note": "listener tries to answer before the intro - this pause IS the learning"
+  "note": "listener tries to answer first - this pause IS the learning"
  },
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md section 5",
-  "status": "pending-recording",
-  "note": "the human answers the question in their own words, then Analayo unfolds"
+  "t": "verbatim",
+  "text": "Herein, Ananda, a monk is thus conscious: 'This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction.'",
+  "plain": "Herein, Ananda, a monk is thus conscious \u2014 'This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.'",
+  "sermon": 16,
+  "essay": 0,
+  "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
@@ -25,39 +27,13 @@
   "start": 935.8,
   "end": 1066.7,
   "dur": 130.9,
-  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+  "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
-  "t": "verbatim",
-  "text": "Herein, Ananda, a monk is thus conscious: 'This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction.'",
-  "sermon": 16
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "say": "Herein, Ananda, a monk is thus conscious \u2014 'This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.'"
- },
- {
-  "t": "fish-term",
-  "say": "not spiralling",
-  "hears": "nippapancha"
- },
- {
-  "t": "fish-term",
-  "say": "the going-out",
-  "hears": "nibbano"
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "note",
-  "text": "beat 1 Analayo already played as cold open - no repeat"
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "t": "human-intro",
+  "ref": "human-scripts.md section 5",
+  "status": "optional-pending",
+  "note": "only if used: AFTER the answer, never between question and motto"
  },
  {
   "t": "verbatim",

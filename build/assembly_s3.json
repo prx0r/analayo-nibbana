@@ -11,13 +11,15 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect",
-  "note": "listener tries to answer before the intro - this pause IS the learning"
+  "note": "listener tries to answer first - this pause IS the learning"
  },
  {
-  "t": "human-intro",
-  "ref": "human-scripts.md section 3",
-  "status": "pending-recording",
-  "note": "the human answers the question in their own words, then Analayo unfolds"
+  "t": "verbatim",
+  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name.\n  'Form' in 'name-and-form' is a nominal form. It is a form only in\n  name.",
+  "plain": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name.",
+  "sermon": 1,
+  "essay": 0,
+  "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
@@ -25,29 +27,13 @@
   "start": 2998.9,
   "end": 3083.0,
   "dur": 84.1,
-  "note": "COLD OPEN: Analayo reads the motto first - no Fish before him"
+  "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
-  "t": "verbatim",
-  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name.\n  'Form' in 'name-and-form' is a nominal form. It is a form only in\n  name.",
-  "sermon": 1
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "say": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "note",
-  "text": "beat 1 Analayo already played as cold open - no repeat"
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "t": "human-intro",
+  "ref": "human-scripts.md section 3",
+  "status": "optional-pending",
+  "note": "only if used: AFTER the answer, never between question and motto"
  },
  {
   "t": "verbatim",
