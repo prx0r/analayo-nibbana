@@ -27,7 +27,7 @@ PALI2EN=[
  ('yathabhuta', 'seeing things as they are'),  # PROPOSED gloss - pending owner veto (veto list)
  (r'\bbhava\b', 'the next moment of me'),
  (r'\bjati\b', 'a self being born'),
- ('avijja', 'not-seeing'),
+ (r'\bavijja\b', 'not-seeing'),
  (r'\bnirodha\b', 'stopping'),
  (r'\bsamatha\b', 'stilling'),
  ('vipassana', 'seeing clearly'),

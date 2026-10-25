@@ -1,2 +1,50 @@
-# KEY v2 (word-boundary safe): term -> plain English. Below-lines: TERM (plain) first-use. Fish speaks the (plain) part only, max ~5 words, never sentences.
-PALI2EN=[('tanhakkhayo hi nibbanam', 'the ending of thirst is the going-out'), ('idappaccayata', 'this-to-that connection'), ('sankhara', 'preparations'), ('upadana', 'grasping'), ('\\bupadhi\\b', 'baggage'), ('\\btanha\\b', 'thirst'), ('vedana', 'tone of experience'), ('\\bphassa\\b', 'contact'), ('vinnana', 'bare knowing'), ('namarupa|nama-rupa', 'the labelled world'), ('\\bnibbida\\b', 'seeing through it'), ('\\bviraga\\b', 'the pull fading'), ('\\bvimutti\\b', 'letting go'), ('nibban\\w*', 'the going-out'), ('\\banimitta\\b', 'without labels'), ('sunnata', 'nothing to hold onto'), ('paticcasamuppada', 'everything arising because of something else'), ('\\bbhava\\b', 'the next moment of me'), ('\\bjati\\b', 'a self being born'), ('avijja', 'not-seeing'), ('\\bnirodha\\b', 'stopping'), ('\\bsamatha\\b', 'stilling'), ('vipassana', 'seeing clearly'), ('satipatthana', 'four ways of paying attention'), ('\\bjhana\\b', 'deep collected stillness'), ('\\bsamadhi\\b', 'gathered attention'), ('\\bsati\\b', 'remembering to notice'), ('papancha', 'spiralling'), ('nippapancha', 'not spiralling'), ('\\bnimitta\\b', 'the label'), ('kamatthana', 'something to sit with'), ('upasamanussati', 'reflection on peace'), ('\\bsatta\\b', 'a being'), ('\\bkamma\\b', 'actions and their results'), ('\\bayatana\\b', 'sense sphere'), ('\\bdhatu\\b', 'element'), ('\\bkhandha\\b', 'bundle of grasping'), ('\\bmula\\b', 'root'), ('non-manifestative', 'with nowhere to land')]
+# KEY v3 (word-boundary safe): Pali/term -> plain English.
+# Below-lines: TERM (plain) first-use. TTS lines: plain only, English-first.
+# Fish speaks mapped words/phrases (max ~5 words), never sentences, never Pali.
+# Regen is deterministic; verify.sh checks the hash. Edit the MAP, never outputs.
+PALI2EN=[
+ ('tanhakkhayo hi nibbanam', 'the ending of thirst is the going-out'),
+ ('idappaccayata', 'this-to-that connection'),
+ ('sankhara', 'preparations'),
+ ('upadana', 'grasping'),
+ ('sa-upadisesa', 'with fuel still left'),
+ ('anupadisesa', 'with no fuel left'),
+ ('papancasannasankha|papañcasaññāsankhā', 'spiralling, perceiving and reckoning'),
+ (r'\bupadhi\b', 'baggage'),
+ (r'\btanha\b', 'thirst'),
+ ('vedana', 'tone of experience'),
+ (r'\bphassa\b', 'contact'),
+ ('vinnana', 'bare knowing'),
+ ('namarupa|nama-rupa', 'the labelled world'),
+ (r'\bnibbida\b', 'seeing through it'),
+ (r'\bviraga\b', 'the pull fading'),
+ (r'\bvimutti\b', 'letting go'),
+ (r'nibban\w*', 'the going-out'),
+ (r'\banimitta\b', 'without labels'),
+ ('sunnata', 'nothing to hold onto'),
+ ('paticcasamuppada', 'everything arising because of something else'),
+ ('paticca samuppada', 'everything arising because of something else'),
+ ('yathabhuta', 'seeing things as they are'),  # PROPOSED gloss - pending owner veto (veto list)
+ (r'\bbhava\b', 'the next moment of me'),
+ (r'\bjati\b', 'a self being born'),
+ (r'\bavijja\b', 'not-seeing'),
+ (r'\bnirodha\b', 'stopping'),
+ (r'\bsamatha\b', 'stilling'),
+ ('vipassana', 'seeing clearly'),
+ ('satipatthana', 'four ways of paying attention'),
+ (r'\bjhana\b', 'deep collected stillness'),
+ (r'\bsamadhi\b', 'gathered attention'),
+ (r'\bsati\b', 'remembering to notice'),
+ ('papancha', 'spiralling'),
+ ('nippapancha', 'not spiralling'),
+ (r'\bnimitta\b', 'the label'),
+ ('kamatthana', 'something to sit with'),
+ ('upasamanussati', 'reflection on peace'),
+ (r'\bsatta\b', 'a being'),
+ (r'\bkamma\b', 'actions and their results'),
+ (r'\bayatana\b', 'sense sphere'),
+ (r'\bdhatu\b', 'element'),
+ (r'\bkhandha\b', 'bundle of grasping'),
+ (r'\bmula\b', 'root'),
+ ('non-manifestative', 'with nowhere to land'),
+]
