@@ -88,6 +88,23 @@ Edge test (two checks): (a) A(n) answers Q(n) aloud with no leap;
 (b) Q(n+1)'s pronoun resolves inside A(n). Fail either → rewrite
 that question. Section content is fixed; only questions bend.
 
+### From essay 0 to essay a (how expansion works)
+The chain breathes only when micro-sessions are adjacent, so the
+LISTEN order is: SEED first (assembly_s0_seed — all six Q->A units
+chained, ~4 min; pronouns resolve locally), then ZOOM into each
+section, which re-opens with its own question + its essay 0 (the
+pair is adjacent again) and grows a -> b -> c from it:
+
+    seed:   [Q1 A1][Q2 A2][Q3 A3][Q4 A4][Q5 A5][Q6 A6]   (the argument)
+    zoom:   section n: Qn -> An (anchor) -> essay a -> b -> c (the width)
+
+Never open a section with a question whose referent sits in a
+different section's expansion ("part 1 fully expanded, then 'what
+keeps IT all going?' = out of context" — the seed carries that edge).
+Section openings are self-contained: Qn and An are adjacent, so even
+cold listeners re-anchor in one beat. Repetition of Qn at its section
+open is deliberate (recognition, not redundancy).
+
 ### Build order: ESSAY 0 FIRST (the lesson, learned the hard way)
 We built cores first and retrofitted the openers — the seams showed
 (Q and A were authored in different sessions and didn't answer each

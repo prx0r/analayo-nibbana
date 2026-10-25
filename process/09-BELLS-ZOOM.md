@@ -13,7 +13,10 @@ Both are synthesized (see `build/assets/`), same two sounds everywhere —
 no library bells, no variation. Recognition IS the function.
 
 ## The zoom order (one timeline, four layers)
-- **L0 SEED** = §1 core as cold open (~10 min Analayo + pads).
+- **L0 SEED** = ALL SIX micro-sessions chained (assembly_s0_seed.json,
+  ~4 min): question -> pause -> essay 0 -> archive voice, six times.
+  The chain lives HERE — pronouns resolve because the Q->A pairs are
+  adjacent. Then ZOOM bell into the full sections.
   No title, no intro. Straight into "This is peaceful, this is excellent."
 - **ZOOM bell** → **L1 CORE** = all 6 section cores in order (~96 min
   Analayo + pads + human intros). §1 replays here — that's intentional:

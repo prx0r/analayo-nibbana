@@ -116,6 +116,22 @@ def main():
     tg = sum(sum(x['dur'] for x in json.load(open('%s/seg%d_gold.json' % (D, s)))) for s in range(1, 7)) / 60
     tp = sum(sum(x['dur'] for x in json.load(open('%s/seg%d_pool.json' % (D, s)))) for s in range(1, 7)) / 60
     print('  ALL: a=%.1fm  b=%.1fm  c=%.1fh' % (tc, tg, tp / 60))
+    # G7d seed layer: all six micro-sessions chained in order
+    import os as _os
+    sp = _os.path.join(D, 'assembly_s0_seed.json')
+    if not _os.path.exists(sp):
+        bad.append(('seed', 'missing', sp))
+    else:
+        sd = json.load(open(sp))
+        uq = [e for e in sd if e.get('role') == 'question']
+        uv = [e for e in sd if e.get('t') == 'verbatim']
+        ua = [e for e in sd if e.get('t') == 'analayo']
+        if [e.get('say') for e in uq] != [QUESTIONS_EXPECTED[i] for i in range(1, 7)]:
+            bad.append(('seed', 'questions-unsynced', len(uq)))
+        if len(uv) != 6 or len(ua) != 6 or any(e.get('essay') != 0 for e in uv):
+            bad.append(('seed', 'units-incomplete', (len(uv), len(ua))))
+        print('  SEED: %d units chained, %d events (chain lives here)' % (len(uq), len(sd)))
+
     if bad:
         for b in bad:
             print('  FAIL', b)
