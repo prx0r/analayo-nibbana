@@ -6,7 +6,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "What does \"this is peaceful\" mean?",
+  "say": "What is Nibbana?",
   "unit": 1
  },
  {
@@ -99,7 +99,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "Am I real too?",
+  "say": "Does the self survive Nibbana?",
   "unit": 4
  },
  {
@@ -130,7 +130,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "How do I stop adding myself?",
+  "say": "How do I reach Nibbana?",
   "unit": 5
  },
  {
@@ -161,7 +161,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "What's left when the world stops?",
+  "say": "What is Nibbana like?",
   "unit": 6
  },
  {

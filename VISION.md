@@ -53,8 +53,8 @@ Sections are questions, not topics. A spine question passes the FORMULA
 Chained, they form ONE enquiry (each answer is the next question's
 premise; pronouns resolve in-chain). Current chain:
 What is Nibbana? → Why don't I see Nibbana right now? → Why does the
-world feel real? → Am I real too? → How do I stop adding myself? →
-What's left when the world stops?
+world feel real? → Does the self survive Nibbana? → How do I reach
+Nibbana? → What is Nibbana like?
 
 Questions are the ONE thing humans author (owner picks; tests inform,
 never decide — *"they aren't hard gates come on be smart"*). Answers are
@@ -149,13 +149,15 @@ the pick; the four tests live in judgment, run by humans.
 
 - Chain locked (6 questions, formula-tested); seed built (31 events);
   questions synced across assembly/seed/g7/human-scripts; gates green.
-- Essay-0 pick CLOSED (final): **Q: What does "this is peaceful"
-  mean? → the standard motto → built plain → audio L01[696-749].**
-  Grounds: the commentary designates the motto heading+theme; the Q
-  quotes the motif (bell lockstep + pre-echo of the answer's first
-  words); passes all four tests. V3 ("What does Nibbana end?" +
-  destruction-of-this-mass) archived as approved alternate; V2 died
-  as category error. Remaining: gold/pool openings still need the
-  recurrence audit (essay-0-first).
+- Chain LOCKED by owner 2026-10-25: What is Nibbana? · Why don't I
+  see Nibbana right now? · Why does the world feel real? · Does the
+  self survive Nibbana? · How do I reach Nibbana? · What is Nibbana
+  like? Every question relates to Nibbana (owner rule); "me in
+  nibbana" rejected as category error. My "this is peaceful" Q1
+  override REVERTED to the owner-approved "What is Nibbana?".
+  human-scripts intros: my composed prose STRIPPED, slots are the
+  owner's. Remaining: answer-6 fit check for "What is Nibbana like?"
+  (magic-show line vs grown-cool line — owner ear), gold/pool
+  question re-sync, ears listen pass, renders.
 - Remaining to a finished artifact: owner pick → seed/gold/pool
   essay-0 pass → human intros (~4 min) → ear listen → render.

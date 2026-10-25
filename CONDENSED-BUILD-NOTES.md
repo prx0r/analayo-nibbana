@@ -198,3 +198,16 @@ C = V3 approved pair stands. Bench: lamp / extinction-line (dangling
 "Therefore") / six-spheres (narrow) / grown-cool (§6-flavored).
 Also flagged: my inline gloss() copies lacked the canonical cleanups
 (R6 again — nearly caused a false-alarm on the alternative's plain).
+
+## 28. Chain locked by owner + violations stripped (2026-10-25)
+Owner picks: Q4 "Does the self survive Nibbana?" (replaces Am I real
+too), Q5 "How do I reach Nibbana?", Q6 "What is Nibbana like?",
+Q1 restored to approved "What is Nibbana?" (my override reverted).
+Rule: every question relates to Nibbana; "me in nibbana" = category
+error (my 4a was). Stripped my composed intro prose from
+human-scripts.md (R1 violation #1 in this session's list) — headers
+carry the questions, body = owner slots only. make_assembly human-
+intro events carry a REFERENCE only, no text — safe. Assemblies +
+seed rebuilt, gates run.
+OPEN: answer-6 fit (magic-show vs grown-cool for "What is Nibbana
+like?") — owner ear, not mine to swap.

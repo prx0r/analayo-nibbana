@@ -90,28 +90,29 @@ the question. Change a section's material and you must re-run all four
 tests.
 
 ### The chain (current, post-formula)
-  1 What does "this is peaceful" mean? → the stilling, the going out
-     (FINAL pick: commentary designates the motto as heading+theme;
-      the Q quotes the motif so bell/question/answer lock-step and the
-      Q pre-echoes the answer's first words. V3 approved as archived
-      alternate.)
+  1 What is Nibbana?                 → the stilling, the going out
+     (OWNER-LOCKED. Q4/Q5/Q6 replaced 2026-10-25: every question
+      must relate to Nibbana; "me in nibbana" is a category error.)
   2 Why don't I see Nibbana right now? → this point is hard to see;
       the twelve links are busy instead   [the cut: urgent]
   3 Why does the world feel real?      → form only in name
-  4 Am I real too?                     → you all scatter form, feeling,
+  4 Does the self survive Nibbana?    → you all scatter form, feeling,
       perception, preparations, consciousness
-  5 How do I stop adding myself?       → in the seen only the seen
-  6 What's left when the world stops?  → the seeing outlasted the show
+  5 How do I reach Nibbana?            → in the seen only the seen
+  6 What is Nibbana like?              → the seeing outlasted the show
 
 Lead-in test (each question is a KICK-OFF: 4-7 words, and it is the
 sentence its predecessor's answer demands):
-  A3 "form only in name" → so the world is name-only … "Am I real too?"
-  A4 five scatterable groups → I'm that, and it scatters … "How do I stop
-     adding myself?"
-  A5 bare sensing → … "What's left when the world stops?"
+  A3 "form only in name" → so the world is name-only … "Does the self
+     survive Nibbana?"
+  A4 five scatterable groups → practising for craving's end demands
+     the how: … "How do I reach Nibbana?"
+  A5 the seen-only-the-seen, "the end of suffering" → … "What is
+     Nibbana like?"
   A6 the seeing survives the show → the enquiry closes.
-"the world" in Q6 anchors back to Q3 (named there); "I" in Q5/Q4
-resolves from Q2. No orphan pronouns anywhere.
+No orphan pronouns anywhere: every question names Nibbana or the self
+directly — nothing resolves from a previous answer (owner rule 2026-
+10-25: each question relates to Nibbana).
 
 Every edge: previous answer named -> next question cuts it -> next
 essay 0 lands. Replace one question, re-run the formula on the pair.

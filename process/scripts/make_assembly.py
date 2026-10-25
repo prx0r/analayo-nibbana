@@ -32,12 +32,12 @@ QUESTIONS = {
     # now), CONTENT-FIT (that section's essay 0 answers it directly),
     # PLAIN (kick-off: 4-7 words, Fish speaks it flat — each question
     # is the next sentence the previous answer demands).
-    1: "What does \"this is peaceful\" mean?",
+    1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
-    4: "Am I real too?",
-    5: "How do I stop adding myself?",
-    6: "What's left when the world stops?",
+    4: "Does the self survive Nibbana?",
+    5: "How do I reach Nibbana?",
+    6: "What is Nibbana like?",
 }
 # Essay 0 per section (the beat whose answer IS the question's reply).
 # S2 b1 "this point is hard to see, namely the stilling..." DIRECTLY

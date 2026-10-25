@@ -29,12 +29,12 @@ import sys
 
 D = '/root/analayo-nibbana/build'
 QUESTIONS_EXPECTED = {
-    1: "What does \"this is peaceful\" mean?",
+    1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
-    4: "Am I real too?",
-    5: "How do I stop adding myself?",
-    6: "What's left when the world stops?",
+    4: "Does the self survive Nibbana?",
+    5: "How do I reach Nibbana?",
+    6: "What is Nibbana like?",
 }
 # essay 0 lengths (soft budget)
 PLAIN_MAX_WORDS = 80
