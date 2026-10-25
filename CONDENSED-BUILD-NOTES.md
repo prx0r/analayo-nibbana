@@ -250,3 +250,54 @@ seed quotes/ windows checked against section scripts + core clips.
   A material; keep the two B* as the documented project exception
   ("core is A-only except where the definitional reading lives in B");
   leave the sub-second snaps. Manifests regenerate if gold moves.
+
+## 31. Line-by-line flow audit — all four essays (2026-10-25)
+Method: full 71-beat quote+plain read (a); all 590 gold span edges
+extracted from transcripts (CF seconds / YT-cue fallback) + all 46
+cluster-boundary joins read + every-7th within-block join sampled;
+pool edge detector + samples; core-vs-gold order compared (exact then
++/-2s tolerant); detector categories: artifact (narration machinery:
+"Comment, translation by...", "thank you...", [Music], "um"),
+fragment (<=3-word edges), foreign-script, asr-loop, lower-open
+(marginal), no-end-stop (marginal).
+
+VERDICTS
+- essay 0: chain flows edge-to-edge; 2 Q->A seams (Q4 construction
+  vs scatter-answer; Q6 like vs show-answer) + A1~A2 formula near-
+  duplicate. Answer picks pending (gem/barb/mirror candidates).
+- essay a: arguments read clean quote-to-quote in all six; S3
+  exemplary (nominal-world -> contact -> delight -> proliferation ->
+  influx -> steadied -> non-delight -> "I know I see" -> see-through).
+  Warts: S1 motto TWICE (B01+B08, motto-cap rule=1); S2 B03 opens
+  mid-litany; S4 order back-loaded for construction-question + only
+  5 beats; S5 razor simile split B04..B08; S6 chess pair split by
+  lotus + B08-B09 doctrinal detour. Plain layer: ~30 honest no-ops
+  (allowed) + conjugation bugs: delight->"liking that grabs" breaks
+  verbs ("He does not liking that grabs in Nibbana", "Gods and men
+  liking that grabs in existence"), "Practise for the wanting ends",
+  S1 B03 gloss inserted mid-phrase ("project Nibbana (gloss) into").
+- essay b: skeleton sound (contiguous cluster blocks, 0 re-entries,
+  46 boundaries mostly sensible). EDGES: ~109 artifact + ~89 fragment
+  + 3 foreign = ~200 of 590 spans (a THIRD) open or close on
+  machinery/word-fragments; sampled joins confirm most opens are not
+  following thoughts. Never heard: render/ears pass never happened.
+  ALSO: gold sequence != a sequence in 5/6 sections (flow fixes went
+  to core only — notes said "gold files unchanged") — content nests,
+  sequence does NOT (except S3).
+- essay c: same construction, 720 hard edge defects of 2386; pool-only
+  sample shows same classes (machinery/fragments, some clean thoughts).
+
+FIX QUEUE (order = impact)
+F1 mechanical edge re-snap: move span boundaries off artifact/
+  fragment sentences to the next clean sentence (gold+pool, ~560
+  edges; regenerates manifests). Same seam rule doctrine, never run.
+F2 decide sequence law: re-apply a's flow order to b, or document
+  that dolls nest by content and b plays cluster-order (FORMULA says
+  A inside B unchanged -> implies re-order gold).
+F3 essay-0 answer picks (S4: gem/barb/"Ah, here I am!"; S6: grown-
+  cool vs magic-show) — owner ear.
+F4 a text warts: S1 motto dup keep-as-refrain or swap B08; S4
+  reorder; split-similes audible returns (optional).
+F5 plain conjugation fixes (key = owner veto): delight mapping,
+  "Practise for the wanting ends", S1 B03 insert.
+F6 ledger: core=71 not 72 (notes §13 wrong, §11 right).
