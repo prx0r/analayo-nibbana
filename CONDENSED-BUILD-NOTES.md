@@ -174,3 +174,27 @@ set-membership version depended on naive "..." pairing, and sermon-30's
 quote-parity shift would have rejected valid quotes. Now standalone
 script process/scripts/g5_provenance.py (see MISTAKES M-A7).
 verify.sh ALL GATES PASS after rebuild (G5 78/78 + G6 + G6b canary).
+
+## 27. Essay-0 crack attempt (re-read pass, 2026-10-25)
+Evidence dug from the sources (not memory):
+- Analayo L01 transcript: "make use of THIS as both the heading and
+  the theme of these sermons" — the commentary itself designates the
+  motto = thesis (external validation of motto-as-essay-0).
+- scaffold answer_p1 §1 (the machine's own four sharpest): motto |
+  lamp | "best rendered by extinction" | cessation of six sense-spheres.
+- Nanananda's OWN alternative motto rendering is quoted in S01
+  ("calming of all constructions, letting go of all supports,
+  extinguishing of craving, dispassion, cessation, Nibbana") AND the
+  same audio window (L01 696-749) reads standard + alternative +
+  heading-theme comment. blunt_key was already tuned to the
+  alternative's words (calming/letting-go/extinguishing entries).
+- "I am grown cool, extinguished as I am" — 6 words, quoted, READ at
+  L01 t≈4010 (in pool, not core; window audition if picked).
+Candidates delivered to owner: A "What does 'this is peaceful'
+mean?" + standard motto (commentary-endorsed, text-object cut);
+B same + alternative rendering (plainest words, needs article-fix:
+blunt output "the dropping everything..." — key hygiene flag);
+C = V3 approved pair stands. Bench: lamp / extinction-line (dangling
+"Therefore") / six-spheres (narrow) / grown-cool (§6-flavored).
+Also flagged: my inline gloss() copies lacked the canonical cleanups
+(R6 again — nearly caused a false-alarm on the alternative's plain).
