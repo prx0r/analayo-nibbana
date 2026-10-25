@@ -29,8 +29,8 @@ import sys
 
 D = '/root/analayo-nibbana/build'
 QUESTIONS_EXPECTED = {
-    1: "What is Nibbana, and why would I want it?",
-    2: "What keeps it going?",
+    1: "What is Nibbana?",
+    2: "What keeps it all going?",
     3: "Is any of it real?",
     4: "What am I made of?",
     5: "How do I see through it?",

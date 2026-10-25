@@ -63,29 +63,30 @@ The stack on screen mirrors it: his words on top, plain English
 underneath, his voice last. The plain English never replaces the
 verbatim — it translates it, directly below, in the same moment.
 
-### The chain (the basic questions, in the order a listener asks them)
-Register law: PLAIN, FIRST-PERSON. The questions are the ones a real
-person asks, not writer-scaffolding. Each answer IS the next
-question's premise; replace one question and re-check all six edges.
+### The chain (spoken in order; every pronoun has an antecedent)
+THE ANTECEDENT RULE: a pronoun in Q(n) must point at words A(n-1)
+just said. Read the six as dialogue — dangling "it" = broken edge =
+rewrite OUR question, never the verbatim (this exact break: "What is
+Nibbana?" → "What keeps it going?" — *it* had no referent; fixed to
+"it all" = Q1's stilling-of-everything).
 
-  1 What is Nibbana, and why would I want it?   (define + pull:
-     the motto answers BOTH — "peaceful, sublime" is the want,
-     "stilling of preparations" is the what; "why do I want it"
-     lives here and pays off again in 6)
-  2 Why do I suffer?                             (the machine:
-     dependent arising — because this, because that, the whirlpool)
-  3 Why can't I see it?                          (the cover:
-     naming, reckoning, proliferation — real-feeling is added)
-  4 What am I made of?                           (the diagnosis:
-     scattered groups, a painted figure — the self is construction)
-  5 How do I see through it?                     (the way:
-     in the seen only the seen — stop adding yourself)
-  6 What's left when it stops?                   (the payoff:
-     embers, ocean, seeing that outlasts the show)
+  1 What is Nibbana?                    → the stilling of everything,
+     the going out (the motto; the want is inside the answer:
+     "peaceful, sublime" — no need to ask for it separately)
+  2 What keeps it all going?            → [it all = everything Q1
+     just named] the twelve links, arise-in-dependence, no first cause
+  3 Is any of it real?                  → [it = this dependent stuff]
+     form only in name — real-feeling is added, not found
+  4 What am I made of?                  → [if it's all names, am I?]
+     the five groups — scatter them and see
+  5 How do I see through it?            → [it = what I'm made of]
+     in the seen only the seen — stop adding yourself
+  6 What's left when the show stops?    → [the constructed show]
+     the seeing that outlasted it
 
-Edge test: an edge holds only if the answer to Q(n) contains the
-reason Q(n+1) is the right next question. Fail an edge, rewrite that
-question — never the sections.
+Edge test (two checks): (a) A(n) answers Q(n) aloud with no leap;
+(b) Q(n+1)'s pronoun resolves inside A(n). Fail either → rewrite
+that question. Section content is fixed; only questions bend.
 
 ### Build order: ESSAY 0 FIRST (the lesson, learned the hard way)
 We built cores first and retrofitted the openers — the seams showed

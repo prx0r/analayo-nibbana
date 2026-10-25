@@ -24,12 +24,13 @@ td = '/root/analayo-nibbana/build'
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
 QUESTIONS = {
-    # The micro-session chain (process/12-ARGUMENT.md): each Q was
-    # written/adjusted TO its extracted answer — read Q then A aloud;
-    # any leap means the question is wrong, never the verbatim.
-    # Basic register, first-person, content-fit per section.
-    1: "What is Nibbana, and why would I want it?",
-    2: "What keeps it going?",
+    # The micro-session chain (process/12-ARGUMENT.md):
+    # THE ANTECEDENT RULE — a pronoun in Q(n) must point at words in
+    # A(n-1). "It all" = Q1's stilling-of-everything; read the six in
+    # order; any dangling referent = rewrite OUR question, never the
+    # verbatim (M-A9).
+    1: "What is Nibbana?",
+    2: "What keeps it all going?",
     3: "Is any of it real?",
     4: "What am I made of?",
     5: "How do I see through it?",

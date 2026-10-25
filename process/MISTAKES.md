@@ -110,3 +110,11 @@
   pass: S2 "What keeps it going?", S3 "Is any of it real?",
   S6 "What's left when the show stops?" (each closes a concrete leap).
 
+- **M-A9 dangling pronoun in the chain.** Chained Q1 "What is Nibbana?"
+  → Q2 "What keeps it going?" — *it* referenced nothing: Q1 is about
+  the goal, Q2 silently switched to samsara without naming it. User
+  caught it as nonsense. Fix: THE ANTECEDENT RULE (12-ARGUMENT) —
+  pronoun in Q(n) must resolve inside A(n-1); Q2 reworded to "What
+  keeps it all going?" where "it all" = Q1's answer. Added to the
+  chain's edge test (b).
+
