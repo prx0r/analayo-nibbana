@@ -53,8 +53,8 @@ Sections are questions, not topics. A spine question passes the FORMULA
 Chained, they form ONE enquiry (each answer is the next question's
 premise; pronouns resolve in-chain). Current chain:
 What is Nibbana? → Why don't I see Nibbana right now? → Why does the
-world feel real? → Does the self survive Nibbana? → How do I reach
-Nibbana? → What is Nibbana like?
+world feel real? → How is the sense of self constructed? → How is
+Nibbana attained? → What is Nibbana like?
 
 Questions are the ONE thing humans author (owner picks; tests inform,
 never decide — *"they aren't hard gates come on be smart"*). Answers are
@@ -149,11 +149,13 @@ the pick; the four tests live in judgment, run by humans.
 
 - Chain locked (6 questions, formula-tested); seed built (31 events);
   questions synced across assembly/seed/g7/human-scripts; gates green.
-- Chain LOCKED by owner 2026-10-25: What is Nibbana? · Why don't I
-  see Nibbana right now? · Why does the world feel real? · Does the
-  self survive Nibbana? · How do I reach Nibbana? · What is Nibbana
-  like? Every question relates to Nibbana (owner rule); "me in
-  nibbana" rejected as category error. My "this is peaceful" Q1
+- Chain LOCKED by owner 2026-10-25 (FINAL): What is Nibbana? ·
+  Why don't I see Nibbana right now? · Why does the world feel real?
+  · How is the sense of self constructed? · How is Nibbana attained?
+  · What is Nibbana like? Questions are POINTERS into sections (owner
+  word); "me in nibbana" = category error. SECTION TITLES canonical
+  in 12-ARGUMENT (six movements — screen frames, they point, they
+  don't cut: titles=screen, questions=Fish). My "this is peaceful" Q1
   override REVERTED to the owner-approved "What is Nibbana?".
   human-scripts intros: my composed prose STRIPPED, slots are the
   owner's. Remaining: answer-6 fit check for "What is Nibbana like?"

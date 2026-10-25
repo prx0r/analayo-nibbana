@@ -91,28 +91,30 @@ tests.
 
 ### The chain (current, post-formula)
   1 What is Nibbana?                 → the stilling, the going out
-     (OWNER-LOCKED. Q4/Q5/Q6 replaced 2026-10-25: every question
-      must relate to Nibbana; "me in nibbana" is a category error.)
+     (OWNER-LOCKED 2026-10-25, final: Q4/Q5 taken from the section
+      titles the owner liked, Q6 "What is Nibbana like?" preferred;
+      Q2 kept. Questions are POINTERS — the anchor rule serves the
+      owner's ear, not the reverse. "me in nibbana" = category error.)
   2 Why don't I see Nibbana right now? → this point is hard to see;
       the twelve links are busy instead   [the cut: urgent]
   3 Why does the world feel real?      → form only in name
-  4 Does the self survive Nibbana?    → you all scatter form, feeling,
+  4 How is the sense of self
+     constructed?                → you all scatter form, feeling,
       perception, preparations, consciousness
-  5 How do I reach Nibbana?            → in the seen only the seen
+  5 How is Nibbana attained?          → in the seen only the seen
   6 What is Nibbana like?              → the seeing outlasted the show
 
 Lead-in test (each question is a KICK-OFF: 4-7 words, and it is the
 sentence its predecessor's answer demands):
-  A3 "form only in name" → so the world is name-only … "Does the self
-     survive Nibbana?"
-  A4 five scatterable groups → practising for craving's end demands
-     the how: … "How do I reach Nibbana?"
+  A3 "form only in name" → the world is built of names … "How is the
+     sense of self constructed?"
+  A4 five scatterable groups, practising for craving's end → the how:
+     … "How is Nibbana attained?"
   A5 the seen-only-the-seen, "the end of suffering" → … "What is
      Nibbana like?"
   A6 the seeing survives the show → the enquiry closes.
-No orphan pronouns anywhere: every question names Nibbana or the self
-directly — nothing resolves from a previous answer (owner rule 2026-
-10-25: each question relates to Nibbana).
+No orphan pronouns anywhere. Each question is a POINTER into its
+section (owner): name the move, hand the cut to the answer.
 
 Every edge: previous answer named -> next question cuts it -> next
 essay 0 lands. Replace one question, re-run the formula on the pair.
@@ -204,3 +206,25 @@ the glosses. What is BUILT onto it (constructed): the slot order, the
 questions, the bridges, the bells. Never confuse the two. The
 verify.sh gate enforces the boundary: verbatim must be found,
 everything else must be built — and labeled as such.
+
+### Section titles (CANONICAL, owner 2026-10-25)
+
+The essay's six movements — read back OUT of the build by an outside
+read, kept verbatim as the on-screen frames. Two jobs, two homes:
+**titles = screen (framing/pointers), questions = Fish (the cut).**
+
+1. What — What is Nibbana?
+2. Mechanism — How does experience acquire its apparent structure?
+3. Keeps Running — What perpetuates the process?
+4. Builds — How is the observer or sense of self constructed?
+5. See Through — What changes when that construction is understood?
+6. Remains — What, if anything, can be said afterward?
+
+Why canonical: (a) each names its section's MOVE in one line — the
+essay's own table of contents; (b) as pointers they deliberately do
+NOT cut — a title that interrogates would duplicate Fish's job;
+(c) they were derived from the finished structure itself, so they
+describe what the build does, not what we intended. The owner's word:
+"they are basically pointers." Note Q4 in the chain borrowed the
+title's wording because the owner liked it — titles feed questions
+when the ear says so.

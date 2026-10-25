@@ -211,3 +211,17 @@ intro events carry a REFERENCE only, no text — safe. Assemblies +
 seed rebuilt, gates run.
 OPEN: answer-6 fit (magic-show vs grown-cool for "What is Nibbana
 like?") — owner ear, not mine to swap.
+
+## 29. Final chain + canonical titles (2026-10-25, owner)
+Owner: the six outside-read movements are canonical as SECTION
+TITLES (process/12-ARGUMENT "Section titles" block — why: they name
+the move, they point, they don't cut; titles=screen, questions=Fish).
+Chain final: Q4 -> "How is the sense of self constructed?" (title
+wording the owner liked), Q5 -> "How is Nibbana attained?", Q6
+"What is Nibbana like?" preferred, Q2 kept ("they are basically
+pointers"). OPEN: essay-0 for section 4 now answers the scatter
+line but Q4 asks construction — candidates in seg4_script: beat 4
+(the gem ceases to exist when the concept ceases) or beat 5 (the
+barb: "I know, I see") or scaffold answer_p1 mirror "Ah, here I
+am!" — owner ear. Spelling: "Nibbana" (project ASCII), owner typed
+"nirvana" once.

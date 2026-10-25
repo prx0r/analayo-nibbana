@@ -35,8 +35,8 @@ QUESTIONS = {
     1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
-    4: "Does the self survive Nibbana?",
-    5: "How do I reach Nibbana?",
+    4: "How is the sense of self constructed?",
+    5: "How is Nibbana attained?",
     6: "What is Nibbana like?",
 }
 # Essay 0 per section (the beat whose answer IS the question's reply).

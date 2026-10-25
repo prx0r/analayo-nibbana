@@ -17,12 +17,12 @@ YOUR LINE (1–2 sentences, your words):
 YOUR LINE (1–2 sentences, your words):
 
 
-## §4 — Does the self survive Nibbana?
+## §4 — How is the sense of self constructed?
 
 YOUR LINE (1–2 sentences, your words):
 
 
-## §5 — How do I reach Nibbana?
+## §5 — How is Nibbana attained?
 
 YOUR LINE (1–2 sentences, your words):
 
