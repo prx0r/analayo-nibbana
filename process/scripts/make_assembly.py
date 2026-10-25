@@ -30,13 +30,14 @@ QUESTIONS = {
     # pronouns),
     # THE CUT (turns the previous answer into tension for THIS listener,
     # now), CONTENT-FIT (that section's essay 0 answers it directly),
-    # PLAIN (everyday words, <=9, Fish speaks it flat).
+    # PLAIN (kick-off: 4-7 words, Fish speaks it flat — each question
+    # is the next sentence the previous answer demands).
     1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
-    4: "What is the self made of?",
-    5: "How does anyone actually wake up?",
-    6: "What's left when everything stops?",
+    4: "Am I real too?",
+    5: "How do I stop adding myself?",
+    6: "What's left when the world stops?",
 }
 # Essay 0 per section (the beat whose answer IS the question's reply).
 # S2 b1 "this point is hard to see, namely the stilling..." DIRECTLY

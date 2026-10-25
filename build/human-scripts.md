@@ -11,14 +11,14 @@ Why don't I see Nibbana right now? Because the machine runs in this moment first
 ## §3 — Why does the world feel real? (~40s)
 Why does the world feel real? Because the mind names, reckons, and proliferates — honey-ball delight, wrong-turn roads, imagining earth as mine. Listen for how delight becomes grasping, and grasping becomes the next moment of me.
 
-## §4 — What is the self made of? (~40s)
-What is the self made of? Mirror-images, signs, and the last hiding place: the watcher itself. Listen for the consciousness with nowhere to land, and what happens when you look for the observer and don't find one.
+## §4 — Am I real too? (~40s)
+Am I real too? Mirror-images, signs, and the last hiding place: the watcher itself. Listen for the consciousness with nowhere to land, and what happens when you look for the observer and don't find one.
 
-## §5 — How does anyone actually wake up? (~45s)
-How does anyone actually wake up? Bare sensing — in the seen, only the seen — held lightly like a razor, practised as mindfulness, until even the raft gets left behind. This is the practice section. Listen with your hands, not just your ears.
+## §5 — How do I stop adding myself? (~45s)
+How do I stop adding myself? Bare sensing — in the seen, only the seen — held lightly like a razor, practised as mindfulness, until even the raft gets left behind. This is the practice section. Listen with your hands, not just your ears.
 
-## §6 — What's left when everything stops (~35s)
-What's left when everything stops? Embers cooling to ash, an ocean too deep to measure, a lotus out of a cesspool, faculties brought to completion. Listen for an ending that isn't an ending — and then silence.
+## §6 — What's left when the world stops? (~35s)
+What's left when the world stops? Embers cooling to ash, an ocean too deep to measure, a lotus out of a cesspool, faculties brought to completion. Listen for an ending that isn't an ending — and then silence.
 
 ## Bridges
 None scripted. Mark at listen pass ONLY where a join genuinely doesn't land (format: "BRIDGE §N after clip K: [one sentence]"). Default is pause, not words.

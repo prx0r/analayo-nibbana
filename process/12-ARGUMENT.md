@@ -90,13 +90,24 @@ the question. Change a section's material and you must re-run all four
 tests.
 
 ### The chain (current, post-formula)
-  1 What is Nibbana?                 → the stilling, the going out
+  1 What is Nibbana?                  → the stilling, the going out
   2 Why don't I see Nibbana right now? → this point is hard to see;
-     the twelve links are busy instead  [the cut: urgent]
+      the twelve links are busy instead   [the cut: urgent]
   3 Why does the world feel real?      → form only in name
-  4 What is the self made of?         → five scatterable groups
-  5 How does anyone actually wake up?  → in the seen only the seen
-  6 What's left when everything stops? → the seeing outlasted the show
+  4 Am I real too?                     → you all scatter form, feeling,
+      perception, preparations, consciousness
+  5 How do I stop adding myself?       → in the seen only the seen
+  6 What's left when the world stops?  → the seeing outlasted the show
+
+Lead-in test (each question is a KICK-OFF: 4-7 words, and it is the
+sentence its predecessor's answer demands):
+  A3 "form only in name" → so the world is name-only … "Am I real too?"
+  A4 five scatterable groups → I'm that, and it scatters … "How do I stop
+     adding myself?"
+  A5 bare sensing → … "What's left when the world stops?"
+  A6 the seeing survives the show → the enquiry closes.
+"the world" in Q6 anchors back to Q3 (named there); "I" in Q5/Q4
+resolves from Q2. No orphan pronouns anywhere.
 
 Every edge: previous answer named -> next question cuts it -> next
 essay 0 lands. Replace one question, re-run the formula on the pair.

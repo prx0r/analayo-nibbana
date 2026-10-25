@@ -99,7 +99,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "What is the self made of?",
+  "say": "Am I real too?",
   "unit": 4
  },
  {
@@ -130,7 +130,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "How does anyone actually wake up?",
+  "say": "How do I stop adding myself?",
   "unit": 5
  },
  {
@@ -161,7 +161,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "What's left when everything stops?",
+  "say": "What's left when the world stops?",
   "unit": 6
  },
  {
