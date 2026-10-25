@@ -25,6 +25,8 @@ assert not bad, 'TTS SCAN FAILURES'
 print('OK')"
 echo "== G6b hardened TTS gate (leading-Pali + term-attachment + canary) =="
 python3 process/scripts/g6_tts_check.py || exit 1
+echo "== G7 essay gates (structure + chain + essay-0 gold-dust) =="
+python3 process/scripts/g7_essay_check.py || exit 1
 echo "== files =="
 
 for f in build/seg1_script.json build/seg6_script.json build/manifest_index.json build/fish_filter.py build/blunt_key.json SPEAKER-RULES.md; do

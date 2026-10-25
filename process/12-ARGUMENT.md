@@ -63,23 +63,29 @@ The stack on screen mirrors it: his words on top, plain English
 underneath, his voice last. The plain English never replaces the
 verbatim — it translates it, directly below, in the same moment.
 
-### The chain (why these six questions, in this order)
-The questions are not labels — they are a logical progression where
-each answer IS the next question's premise, and a verb-thread ties
-them: suffering gets **made** (2) → the made feels real (3) → the
-self is **made of** signs (4) → unsee the making (5) → when the
-making stops, what remains (6). Sequence logic:
+### The chain (the basic questions, in the order a listener asks them)
+Register law: PLAIN, FIRST-PERSON. The questions are the ones a real
+person asks, not writer-scaffolding. Each answer IS the next
+question's premise; replace one question and re-check all six edges.
 
-  1 defines the destination (the motto IS the answer)
-  2 to reach it you must know the machine that produces the opposite
-  3 the machine hides because its output feels given, not made
-  4 its masterwork is the self — the biggest thing it made
-  5 practice is unmaking that: stop adding yourself
-  6 when adding stops, what was always there is all that is left
+  1 What is Nibbana, and why would I want it?   (define + pull:
+     the motto answers BOTH — "peaceful, sublime" is the want,
+     "stilling of preparations" is the what; "why do I want it"
+     lives here and pays off again in 6)
+  2 Why do I suffer?                             (the machine:
+     dependent arising — because this, because that, the whirlpool)
+  3 Why can't I see it?                          (the cover:
+     naming, reckoning, proliferation — real-feeling is added)
+  4 What am I made of?                           (the diagnosis:
+     scattered groups, a painted figure — the self is construction)
+  5 How do I see through it?                     (the way:
+     in the seen only the seen — stop adding yourself)
+  6 What's left when it stops?                   (the payoff:
+     embers, ocean, seeing that outlasts the show)
 
-A question that cannot be answered by the next question's material
-does not belong in the chain. Replacing one question means re-checking
-all six edges.
+Edge test: an edge holds only if the answer to Q(n) contains the
+reason Q(n+1) is the right next question. Fail an edge, rewrite that
+question — never the sections.
 
 ### Essay-0 status (ESSAY0 dict in make_assembly.py — ENFORCED, not candidates)
 S1=beat 1 (motto). S2=beat 7 (twelve-links/principle — mechanism;
