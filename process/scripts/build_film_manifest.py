@@ -18,6 +18,19 @@ D = '/root/analayo-nibbana'
 CACHE = '/tmp/film_flags.json'
 BUD = {1: (30, 240, 600, 1500), 2: (90, 420, 1080, 1980), 3: (75, 420, 1200, 2040),
        4: (45, 240, 480, 780), 5: (45, 420, 1140, 2100), 6: (75, 420, 900, 1680)}
+# Documented hand-picks (REVIEW pass: highest-signal A composition).
+# out = weaker A slot (still available to B/C); in = its replacement.
+FORCE_IN  = {1: [(1, 3244.0), (1, 4524.0)],   # fire + well-spring
+             4: [(25, 711.0)],                 # barb ("I know, I see")
+             6: [(33, 1918.7)]}                # great man beyond both ends
+FORCE_OUT = {1: [(19, 390.0)],                 # sa-upadisesa -> B
+             4: [(8, 1382.0)],                 # sun/moon backdrop -> B
+             6: [(31, 4604.6)]}                # faculties formula -> B
+def _key(c):
+    return (1 if c['_flags'] else 0, 0 if c.get('grade') == 'A' else 1, c['_fi'])
+def _in(s, c, table):
+    return any(c['lec'] == l and abs(c['start'] - st) < 1 for l, st in table.get(s, []))
+
 QS = {1: 'What is Nibbana?', 2: "Why don't I see Nibbana right now?", 3: 'What keeps it going?',
       4: 'How is the sense of self constructed?', 5: 'How is Nibbana attained?', 6: 'What is Nibbana like?'}
 YTSUB = {3, 6, 7, 14, 17, 20, 22, 24, 26, 27}
@@ -123,14 +136,21 @@ for s in range(1, 7):
     b0, ba, bb, bc = BUD[s]
     A = [e0]
     takA = {e0.get('ci', -1): 1}
-    poolA = sorted([c for c in core if c is not e0], key=lambda c: (1 if c['_flags'] else 0, c['_fi']))
-    A += greedy(poolA, ba - d(e0), takA, 2)
+    forced = [c for c in core if c is not e0 and _in(s, c, FORCE_IN)]
+    outl = [c for c in core if _in(s, c, FORCE_OUT)]
+    for f in forced:
+        if not any(f is x for x in A):
+            A.append(f)
+            takA[f.get('ci', -1)] = takA.get(f.get('ci', -1), 0) + 1
+    poolA = sorted([c for c in core if c is not e0 and c not in forced and c not in outl],
+                   key=_key)
+    A += greedy(poolA, ba - dcell(A), takA, 2)
 
     B = list(A)
     takB = {}
     for x in B:
         takB[x.get('ci', -1)] = takB.get(x.get('ci', -1), 0) + 1
-    remB = sorted([c for c in core if not any(c is x for x in B)], key=lambda c: (1 if c['_flags'] else 0, c['_fi']))
+    remB = sorted([c for c in core if not any(c is x for x in B)], key=_key)
     B += greedy(remB, bb - dcell(B), takB, 5)
     B += greedy([g for g in gkeep if not g['_flags']], bb - dcell(B), takB, 6)
 
@@ -138,7 +158,7 @@ for s in range(1, 7):
     takC = {}
     for x in C:
         takC[x.get('ci', -1)] = takC.get(x.get('ci', -1), 0) + 1
-    remC = sorted([c for c in core if not any(c is x for x in C)], key=lambda c: (1 if c['_flags'] else 0, c['_fi']))
+    remC = sorted([c for c in core if not any(c is x for x in C)], key=_key)
     C += greedy(remC, bc - dcell(C), takC, 99)
     C += greedy([g for g in gkeep if not g['_flags'] and not any(g is x for x in C)], bc - dcell(C), takC, 99)
     C += greedy([g for g in gkeep if g['_flags'] and not any(g is x for x in C)], bc - dcell(C), takC, 99)
