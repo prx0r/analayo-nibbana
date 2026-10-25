@@ -139,12 +139,13 @@
    "end": 2191.3,
    "dur": 61.3
   },
-  "nanananda_verbatim": "Gods and men delight in existence, they are attached to existence... When Dhamma is being preached to them for the cessation of existence, their minds do not reach out towards it.",
-  "nanananda_sermon": 10,
+  "nanananda_verbatim": "He does not delight in Nibbana. Why so? Because he knows that delighting is the root of suffering, and from becoming comes birth and to the one become there is decay-and-death.",
+  "nanananda_sermon": 13,
   "cluster": 7,
   "override": "documented",
-  "plain_english_below": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it.",
-  "tts_line": "Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not reach out towards it."
+  "plain_english_below": "He does not liking that grabs in Nibbana (out, like a flame with no fuel). Why so? Because he knows that delighting is the root of suffering, and from the next me forming comes birth and to the one become there is decay-and-death.",
+  "tts_line": "He does not liking that grabs in Nibbana \u2014 out, like a flame with no fuel. Why so? Because he knows that delighting is the root of suffering, and from the next me forming comes birth and to the one become there is decay-and-death.",
+  "amendment": "S3b10 duplicate resolved: sourced S13 no-delight quote (contiguous verified) matches L13 Analayo"
  },
  {
   "clip": 11,
@@ -213,7 +214,7 @@
   "nanananda_verbatim": "There is a certain deep significance in the word yathabhuta. In\ncontradistinction to the two words bhava and vibhava, the word bhuta\nhas some peculiarity of its own.",
   "nanananda_sermon": 10,
   "cluster": 10,
-  "plain_english_below": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava (the next me forming) and vibhava, the word bhuta has some peculiarity of its own.",
-  "tts_line": "There is a certain deep significance in the word yathabhuta. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own."
+  "plain_english_below": "There is a certain deep significance in the word yathabhuta (seeing things as they are). In contradistinction to the two words bhava (the next me forming) and vibhava, the word bhuta has some peculiarity of its own.",
+  "tts_line": "There is a certain deep significance in the word yathabhuta \u2014 seeing things as they are. In contradistinction to the two words bhava \u2014 the next me forming \u2014 and vibhava, the word bhuta has some peculiarity of its own."
  }
 ]

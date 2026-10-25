@@ -23,6 +23,8 @@ PALI2EN=[
  (r'\banimitta\b', 'without labels'),
  ('sunnata', 'nothing to hold onto'),
  ('paticcasamuppada', 'everything arising because of something else'),
+ ('paticca samuppada', 'everything arising because of something else'),
+ ('yathabhuta', 'seeing things as they are'),  # PROPOSED gloss - pending owner veto (veto list)
  (r'\bbhava\b', 'the next moment of me'),
  (r'\bjati\b', 'a self being born'),
  ('avijja', 'not-seeing'),

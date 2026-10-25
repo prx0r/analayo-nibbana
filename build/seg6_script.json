@@ -3,15 +3,16 @@
   "clip": 1,
   "analayo": {
    "lec": 27,
-   "start": 675,
+   "start": 661.84,
    "end": 760.6,
-   "dur": 85.6
+   "dur": 98.2
   },
-  "nanananda_verbatim": "Now, for the arahant, the whole world appears like a chessboard.",
-  "nanananda_sermon": 27,
+  "nanananda_verbatim": "In short, he has seen the magic show so well as to miss the show.",
+  "nanananda_sermon": 26,
   "cluster": 10,
-  "plain_english_below": "Now, for the arahant, the whole world appears like a chessboard.",
-  "tts_line": "Now, for the arahant, the whole world appears like a chessboard."
+  "plain_english_below": "In short, he has seen the magic show so well as to miss the show.",
+  "tts_line": "In short, he has seen the magic show so well as to miss the show.",
+  "amendment": "S6 opener: clip -> clean sentence start (661.84), verbatim -> sourced S26 magic-show quote; chessboard moved to b2; fragment dropped"
  },
  {
   "clip": 2,
@@ -21,11 +22,12 @@
    "end": 2835.9,
    "dur": 48.6
   },
-  "nanananda_verbatim": "Unravelling of knots and rest.",
-  "nanananda_sermon": 33,
+  "nanananda_verbatim": "Now, for the arahant, the whole world appears like a chessboard.",
+  "nanananda_sermon": 27,
   "cluster": 3,
-  "plain_english_below": "Unravelling of knots and rest.",
-  "tts_line": "Unravelling of knots and rest."
+  "plain_english_below": "Now, for the arahant, the whole world appears like a chessboard.",
+  "tts_line": "Now, for the arahant, the whole world appears like a chessboard.",
+  "amendment": "S6b2: chessboard full sentence replaces 4-word fragment; film-reel Analayo retained (constructed-world pair)"
  },
  {
   "clip": 3,

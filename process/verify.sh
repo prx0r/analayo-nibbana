@@ -45,7 +45,10 @@ for s in range(1,7):
 print('tts issues:', bad if bad else 'none')
 assert not bad, 'TTS SCAN FAILURES'
 print('OK')"
+echo "== G6b hardened TTS gate (leading-Pali + term-attachment + canary) =="
+python3 process/scripts/g6_tts_check.py || exit 1
 echo "== files =="
+
 for f in build/seg1_script.json build/seg6_script.json build/manifest_index.json build/fish_filter.py build/blunt_key.json SPEAKER-RULES.md; do
   [ -f "$f" ] || { echo "MISSING $f"; exit 1; }
 done

@@ -128,3 +128,26 @@ Audited all ~100 mappings as swaps vs explanations. Dropped 3 lateral moves with
 Read-through of 6 sampled beats found 4 real mismatches (Bahiya pads on earth litany, chessboard on magic-show opener, missing honey/delight anchors). Fixed via: same-cluster constraint on matching, motto beats always get the English refrain, 7 documented single-beat overrides (WHATBURN/KHAYA prepends, HONEY×4, DELIGHT, NAPO, NATEN). Raw word-overlap still flags ~40 beats — that metric can't see thematic priming (concentrated verse vs discursive clip), so it nominates, reading disposes. verify.sh green: provenance 75/75, TTS clean.
 
 ## 24. Audio complete (2026-10-24) — all 33 DS mp3s present (23 native + 10 fetched from dharmaseed retreat 4373, talk IDs 58722-58752; durations match cutplans within 0.5min). Symlinked as analayo-nibbana-lecture-NN.mp3; binaries committed per repo media policy. S1 core full render: 12/12 clips, 723s. Audio QA on S1 clips: mean -19..-24dB, peaks ≤-0.4dB, no clipping, no dead air. Remaining: human intros (build/human-scripts.md drafted), ears listen pass, final assembly (pauses/bells/loudnorm/cough cover).
+
+## 25. Amendment pass (2026-10-24, after REVIEW.md)
+Scope: review's queue items 1–4 only. All changes logged with cause.
+- (1) S6 opener: clip moved 675→661.84 (clean sentence start on YT
+  cues), verbatim → sourced S26 magic-show quote (contiguous verified),
+  chessboard quote moved to b2 replacing the 4-word fragment. No quote
+  invented; both replacement quotes verified as whole quoted strings in
+  the excavation files before swap.
+- (2) S3 b10 duplicate: replaced with sourced S13 no-delight quote
+  (contiguous verified); pre-swap assert confirmed b4/b10 were true
+  duplicates (whitespace-only diff, 98.88%).
+- (3) S5b2 Pali-in-TTS: lead-drop generalized (unquoted leading run +
+  English-tail guard); key gained space-variant 'paticca samuppada'
+  + PROPOSED 'yathabhuta → seeing things as they are' (veto-flagged).
+- (4) G6 hardened: process/scripts/g6_tts_check.py = G6a punctuation/
+  diacritics + G6b leading-run detector WITH EMBEDDED CANARY (the
+  pre-fix S5b2 line; gate fails loud if detector stops flagging it) +
+  G6c term attachment (marker ±40 both directions) vs APPROVED list
+  (12 terms, every entry carries its reason). Retro-test done: detector
+  flags the old line, passes the fixed line.
+- Build-path fix: builders now target build/ directly (M-A2).
+- Provenance re-verified after swaps: 78/78 exact-quoted. verify.sh
+  ALL GATES PASS with the hardened G6b.

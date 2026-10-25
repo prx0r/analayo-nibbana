@@ -29,13 +29,13 @@
  },
  {
   "t": "verbatim",
-  "text": "Now, for the arahant, the whole world appears like a chessboard.",
-  "sermon": 27
+  "text": "",
+  "sermon": null
  },
  {
   "t": "fish",
-  "beat": 1,
-  "say": "Now, for the arahant, the whole world appears like a chessboard."
+  "beat": null,
+  "say": ""
  },
  {
   "t": "breath",
@@ -51,13 +51,13 @@
  },
  {
   "t": "verbatim",
-  "text": "Unravelling of knots and rest.",
-  "sermon": 33
+  "text": "Now, for the arahant, the whole world appears like a chessboard.",
+  "sermon": 27
  },
  {
   "t": "fish",
   "beat": 2,
-  "say": "Unravelling of knots and rest."
+  "say": "Now, for the arahant, the whole world appears like a chessboard."
  },
  {
   "t": "breath",
