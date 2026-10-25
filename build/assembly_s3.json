@@ -15,18 +15,18 @@
  },
  {
   "t": "verbatim",
-  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name.\n  'Form' in 'name-and-form' is a nominal form. It is a form only in\n  name.",
-  "plain": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name.",
-  "sermon": 1,
+  "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
+  "plain": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving.",
+  "sermon": 33,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
-  "lec": 1,
-  "start": 2998.9,
-  "end": 3083.0,
-  "dur": 84.1,
+  "lec": 24,
+  "start": 1038,
+  "end": 1100.2,
+  "dur": 62.2,
   "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
@@ -34,6 +34,31 @@
   "ref": "human-scripts.md section 3",
   "status": "optional-pending",
   "note": "only if used: AFTER the answer, never between question and motto"
+ },
+ {
+  "t": "verbatim",
+  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name.\n  'Form' in 'name-and-form' is a nominal form. It is a form only in\n  name.",
+  "sermon": 1
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "say": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 1,
+  "start": 2998.9,
+  "end": 3083.0,
+  "dur": 84.1
+ },
+ {
+  "t": "water",
+  "dur": 2.5
  },
  {
   "t": "verbatim",
@@ -120,31 +145,6 @@
   "start": 984.3,
   "end": 1003.2,
   "dur": 18.9
- },
- {
-  "t": "water",
-  "dur": 2.5
- },
- {
-  "t": "verbatim",
-  "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
-  "sermon": 33
- },
- {
-  "t": "fish",
-  "beat": 5,
-  "say": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 24,
-  "start": 1038,
-  "end": 1100.2,
-  "dur": 62.2
  },
  {
   "t": "water",

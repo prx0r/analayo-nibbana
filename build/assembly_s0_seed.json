@@ -75,18 +75,18 @@
  },
  {
   "t": "verbatim",
-  "text": "'Name' in 'name-and-form' is a formal name. It is an apparent name.\n  'Form' in 'name-and-form' is a nominal form. It is a form only in\n  name.",
-  "plain": "'Name' in 'name-and-form' is a formal name. It is an apparent name. 'Form' in 'name-and-form' is a nominal form. It is a form only in name.",
-  "sermon": 1,
+  "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
+  "plain": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving.",
+  "sermon": 33,
   "essay": 0,
   "unit": 3
  },
  {
   "t": "analayo",
-  "lec": 1,
-  "start": 2998.9,
-  "end": 3083.0,
-  "dur": 84.1
+  "lec": 24,
+  "start": 1038,
+  "end": 1100.2,
+  "dur": 62.2
  },
  {
   "t": "water",

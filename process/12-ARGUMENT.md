@@ -97,11 +97,8 @@ tests.
       owner's ear, not the reverse. "me in nibbana" = category error.)
   2 Why don't I see Nibbana right now? → this point is hard to see;
       the twelve links are busy instead   [the cut: urgent]
-  3 What keeps it going?             → form only in name
-     [owner correction 2026-10-25: Q3 = the keeps-going slot;
-      essay-0 ANSWER re-fit pending — current name-and-form
-      quote answered the old question; candidates: craving-
-      impelled gap / delight-in-existence / asava-tides]
+  3 What keeps it going?             → craving impels the gap that
+      is ignored ("What impels one to ignore that gap is craving")
   4 How is the sense of self
      constructed?                → you all scatter form, feeling,
       perception, preparations, consciousness

@@ -40,10 +40,11 @@ QUESTIONS = {
     6: "What is Nibbana like?",
 }
 # Essay 0 per section (the beat whose answer IS the question's reply).
-# S2 b1 "this point is hard to see, namely the stilling..." DIRECTLY
-# answers "why don't I see Nibbana right now?" — the old motto-echo
-# was right CONTENT with a wrong question pointing at it.
-ESSAY0 = {1: 1, 2: 1, 3: 1, 4: 2, 5: 3, 6: 1}
+# S2 b1 "this point is hard to see..." answers "why don't I see
+# Nibbana right now?". S3 b5 "What impels one to ignore that gap is
+# craving" answers "What keeps it going?" (owner pick, replaces the
+# name-and-form quote that answered the OLD Q3).
+ESSAY0 = {1: 1, 2: 1, 3: 5, 4: 2, 5: 3, 6: 1}
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}
