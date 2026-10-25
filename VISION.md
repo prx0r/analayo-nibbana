@@ -98,7 +98,26 @@ phrase stilling right thats the most compressed form of what it is"*)
 and zoom-bell (6s, layer change). Repetition happens at three scales:
 the seed chain, each section's re-open, each layer's recurrence.
 
-## 6. The depths
+## 6. The depths — the owner's four rungs (Russian dolls)
+
+**essay 0 = the spine → essay a = expansion of that → essay b =
+expansion of a → essay c = full.** Nested: a ⊂ b ⊂ c, every rung
+starting from the spine (why the spine is heard at each rung's head —
+the 4× recurrence law).
+
+ONE glossary, no aliases from here on — these are the only names:
+
+| rung | name | §1 example | total |
+|---|---|---|---|
+| 0 | spine | the Q+A, ~20s | 6 micro-sessions |
+| a | expansion | the core beats unpacking each phrase | 93m |
+| b | expansion of a | the A-grade argument spans | 6.3h |
+| c | full | everything kept | 20.7h |
+
+RETIRED aliases (mine, do not reintroduce): V1/V2/V3, core/gold/pool,
+seed, zoom layers, "L0–L3". Map only: seed=0, core=a, gold=b, pool=c.
+
+## 6b. Earlier formulation (kept for history)
 
 essay 0 (the seed, ~20s) → essay **a** (core, ~93m total) → essay
 **b** (gold, 6.3h) → essay **c** (pool, 20.7h) — same argument at
