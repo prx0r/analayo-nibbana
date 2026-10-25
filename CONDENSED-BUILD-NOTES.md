@@ -382,3 +382,17 @@ stale), .gitignore += pycache, fixed rebuild_text td -> build/
 (axiom 13). Stale-string sweep: old chain strings absent from live
 scripts/build; tracked pyc = 0. visuals/ = 11 docs, indexed in
 HANDOVER. Repo organized; all gates run before push.
+
+## 34. Sermon readings + storyboard tool (2026-10-25)
+OpenShotDesigner cloned to /root/OpenShotDesigner, npm install, dev
+server running :3000 (storyboard/shot-list editor for the owner).
+Sermon READINGS landed: mediafire folder obg343v943luq ->
+"Nibbana - The Mind Stilled" (uudqwtf9aflpg), 33/33 mp3s downloaded
+(412.2MB) via api/1.4 get_content listing + /file/KEY/name/download
+page scrape (api get_links = Insufficient Permissions; page method
+works). Timestamping: tools/sermon_transcribe.py (faster-whisper
+small.en, CF schema output -> sermon-readings/*.json), background
+log /tmp/sermon_tr.log. Sermon-01 YT transcript saved word-for-word
+(sermon-readings/SERMON-01-youtube-transcript.md, video OiduBXAHtUA).
+Implication: verbatim layer has native narration — Fish not needed
+for quoting; next = quote-to-reading alignment.

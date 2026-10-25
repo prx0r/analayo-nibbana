@@ -80,6 +80,17 @@ where things are, why, and what's next. Nothing here is decoration.
 | `FIVE-HOUR-CUT.md` | 6+36+90+168=300m budget table (drives film_manifest) |
 | `VISUAL-MASTER-PLAN.md` | THE production doc: 24-part storyboard, 65–100 shot inventory, `source_clip/shot_id/...` schema, binding three-rule test |
 
+### Sermon readings (2026-10-25) — the verbatim voice
+`sermon-audio/` = all 33 "Nibbana: The Mind Stilled" READINGS (412MB,
+from the mediafire folder, key uudqwtf9aflpg via api/1.4/folder/
+get_content + file-page scrape). `sermon-readings/` = timestamped
+transcripts (faster-whisper small.en, CF schema) via
+`tools/sermon_transcribe.py` (background, /tmp/sermon_tr.log) +
+SERMON-01-youtube-transcript.md (word-for-word, YT OiduBXAHtUA).
+WHY IT MATTERS: the sermon text has its own narration — the verbatim
+layer can be HEARD; Fish is not needed for quoting. Quote-align =
+match excavation quotes against sermon-readings JSONs (next queue item).
+
 ### External dependency (NOT in repo — G5 dies without it)
 `/tmp/satsang-ext/53-nibbana-scaffold/` = the 33 sermon excavations =
 **the only verbatim home** (G5 anchors quotes there). The audio source
