@@ -43,7 +43,8 @@ section), human intro per segment, bells + pauses per the flow grammar.
     pass that fixes with sourced quotes — logs in CONDENSED-BUILD-NOTES)
 ```
 
-Supporting files: `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
+Supporting files: `RECURRING-MISTAKES.md` (the patterns I keep
+repeating — read FIRST, before touching anything), `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
 techniques), `MISTAKES.md` (everything we got wrong + fixes),
 `REPRODUCE.md` (exact rerun), `FILES.md` (artifact map),
 `12-ARGUMENT.md` (constructed order + question ritual), `REVIEW.md`

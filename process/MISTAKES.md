@@ -1,5 +1,10 @@
 # MISTAKES — everything we got wrong, with cause + fix. Read before touching the pipeline.
 
+> Also read `RECURRING-MISTAKES.md` — the META patterns (R1–R8) that
+> produced most of the incidents below (slop reflex, wrong-path writes,
+> memory-claims, happy-path gates). This file logs WHAT happened;
+> that file says WHAT KEEPS HAPPENING.
+
 ## Slop (writing things that aren't his)
 - **M1. Hand-written S1 beats.** Six beat quotes typed from memory instead
   of extracted. One ("Itself a meditation subject") was excavator prose,
