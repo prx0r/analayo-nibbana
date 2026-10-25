@@ -99,3 +99,14 @@
   caught by running it. Lesson (relearned): write gate logic as a
   runnable file and RUN it before wiring; never inline; never trust
   pairing-derived indexes when a direct search exists.
+
+- **M-A8 retrofitted openers leaked seams.** Built cores first, bolted
+  questions on later: Q and A came from different sessions, so pairs
+  didn't answer each other ("Why do I suffer?" over a verbatim that
+  never says suffer). User caught it as "it doesn't really make sense".
+  Fix: essay-0-first build order (12-ARGUMENT) — write the micro-session
+  (Q+A as dialogue, oral test) BEFORE any beat; adjust OUR question to
+  the extracted answer, never the verbatim. Question rewrites this
+  pass: S2 "What keeps it going?", S3 "Is any of it real?",
+  S6 "What's left when the show stops?" (each closes a concrete leap).
+

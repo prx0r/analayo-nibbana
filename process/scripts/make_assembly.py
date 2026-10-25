@@ -24,15 +24,16 @@ td = '/root/analayo-nibbana/build'
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
 QUESTIONS = {
-    # The basic-human chain (process/12-ARGUMENT.md): the questions a
-    # listener actually asks, in the order they ask them, each answer
-    # = the next question's premise. Register: plain, first-person.
+    # The micro-session chain (process/12-ARGUMENT.md): each Q was
+    # written/adjusted TO its extracted answer — read Q then A aloud;
+    # any leap means the question is wrong, never the verbatim.
+    # Basic register, first-person, content-fit per section.
     1: "What is Nibbana, and why would I want it?",
-    2: "Why do I suffer?",
-    3: "Why can't I see it?",
+    2: "What keeps it going?",
+    3: "Is any of it real?",
     4: "What am I made of?",
     5: "How do I see through it?",
-    6: "What's left when it stops?",
+    6: "What's left when the show stops?",
 }# Which beat is each section's essay 0 (the compressed answer)?
 # Default 1. Overrides where beat 1 does not answer the question:
 # S2 b7 = twelve-links/principle (mechanism, not motto-echo);

@@ -87,6 +87,29 @@ Edge test: an edge holds only if the answer to Q(n) contains the
 reason Q(n+1) is the right next question. Fail an edge, rewrite that
 question — never the sections.
 
+### Build order: ESSAY 0 FIRST (the lesson, learned the hard way)
+We built cores first and retrofitted the openers — the seams showed
+(Q and A were authored in different sessions and didn't answer each
+other: "Why do I suffer?" sitting over a verbatim that never says
+suffer). Next time, and as the rule for any rebuild:
+
+1. Write each section's MICRO-SESSION first: the question and its
+   compressed answer TOGETHER, as one unit of dialogue.
+2. The test is oral: read Q aloud, then A aloud. Any leap = the
+   question is wrong (adjust OUR question to the extracted answer —
+   never the verbatim; if no extracted answer fits, the section's
+   question changes, not the source).
+3. Only then build outward: beats, pads, glosses, audio. The essay 0
+   is the seed; essays a/b/c grow from it, never the other way.
+4. The chain edge-test (above) runs on the micro-sessions, not on
+   abstract question labels.
+
+Current six (post-fix, all Q→A leaps closed by question rewrites):
+Q "What keeps it going?" ← twelve-links dependent-arisen (never said
+"suffer", so the old Q was wrong); Q "Is any of it real?" ← form only
+in name (answers reality directly); Q "What's left when the show
+stops?" ← the magic-show quote (primes "show", closes the leap).
+
 ### Essay-0 status (ESSAY0 dict in make_assembly.py — ENFORCED, not candidates)
 S1=beat 1 (motto). S2=beat 7 (twelve-links/principle — mechanism;
 replaces the motto-echo that answered the wrong question). S3=beat 1

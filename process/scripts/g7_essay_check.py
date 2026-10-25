@@ -30,12 +30,13 @@ import sys
 D = '/root/analayo-nibbana/build'
 QUESTIONS_EXPECTED = {
     1: "What is Nibbana, and why would I want it?",
-    2: "Why do I suffer?",
-    3: "Why can't I see it?",
+    2: "What keeps it going?",
+    3: "Is any of it real?",
     4: "What am I made of?",
     5: "How do I see through it?",
-    6: "What's left when it stops?",
-}# essay 0 lengths (soft budget)
+    6: "What's left when the show stops?",
+}
+# essay 0 lengths (soft budget)
 PLAIN_MAX_WORDS = 80
 VERBATIM_MAX_CHARS = 600
 
