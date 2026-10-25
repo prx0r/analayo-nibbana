@@ -67,9 +67,11 @@ verbatim — it translates it, directly below, in the same moment.
 A spine question must pass FOUR tests — all human-judged, all fail
 fast:
 
-1. **STANDALONE.** Read cold, zero context: the subject must be
-   NAMED ("Nibbana", "the world", "I", "everything"). Naked pronouns
-   fail — the original sin: "Is any of it real?" *is any of WHAT?*
+1. **STANDALONE + PRECISE.** Read cold, zero context: the subject
+   must be NAMED, and named exactly as that section answers it.
+   Naked pronouns fail ("Is any of it real?" - any of what?); so does
+   vagueness ("What am I made of?" - body? character? when the
+   material dissects the SELF, the question must say "the self"). — the original sin: "Is any of it real?" *is any of WHAT?*
    (M-A10; generalizes M-A9's antecedent rule: no pronoun may need a
    previous answer to resolve).
 2. **THE CUT.** The question takes the previous answer and turns it
@@ -92,7 +94,7 @@ tests.
   2 Why don't I see Nibbana right now? → this point is hard to see;
      the twelve links are busy instead  [the cut: urgent]
   3 Why does the world feel real?      → form only in name
-  4 What am I made of?                 → five scatterable groups
+  4 What is the self made of?         → five scatterable groups
   5 How does anyone actually wake up?  → in the seen only the seen
   6 What's left when everything stops? → the seeing outlasted the show
 

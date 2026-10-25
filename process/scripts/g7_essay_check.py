@@ -32,7 +32,7 @@ QUESTIONS_EXPECTED = {
     1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
-    4: "What am I made of?",
+    4: "What is the self made of?",
     5: "How does anyone actually wake up?",
     6: "What's left when everything stops?",
 }

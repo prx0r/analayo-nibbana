@@ -11,8 +11,8 @@ Why don't I see Nibbana right now? Because the machine runs in this moment first
 ## §3 — Why does the world feel real? (~40s)
 Why does the world feel real? Because the mind names, reckons, and proliferates — honey-ball delight, wrong-turn roads, imagining earth as mine. Listen for how delight becomes grasping, and grasping becomes the next moment of me.
 
-## §4 — What am I made of (~40s)
-What am I made of? Mirror-images, signs, and the last hiding place: the watcher itself. Listen for the consciousness with nowhere to land, and what happens when you look for the observer and don't find one.
+## §4 — What is the self made of? (~40s)
+What is the self made of? Mirror-images, signs, and the last hiding place: the watcher itself. Listen for the consciousness with nowhere to land, and what happens when you look for the observer and don't find one.
 
 ## §5 — How does anyone actually wake up? (~45s)
 How does anyone actually wake up? Bare sensing — in the seen, only the seen — held lightly like a razor, practised as mindfulness, until even the raft gets left behind. This is the practice section. Listen with your hands, not just your ears.

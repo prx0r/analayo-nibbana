@@ -25,14 +25,16 @@ td = '/root/analayo-nibbana/build'
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
 QUESTIONS = {
     # THE FORMULA (process/12-ARGUMENT.md): every spine question passes
-    # 4 tests — STANDALONE (subject named, zero naked pronouns),
+    # 4 tests — STANDALONE+PRECISE (subject named, named exactly as
+    # the section answers it: "the self", not vague "I"; zero naked
+    # pronouns),
     # THE CUT (turns the previous answer into tension for THIS listener,
     # now), CONTENT-FIT (that section's essay 0 answers it directly),
     # PLAIN (everyday words, <=9, Fish speaks it flat).
     1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
-    4: "What am I made of?",
+    4: "What is the self made of?",
     5: "How does anyone actually wake up?",
     6: "What's left when everything stops?",
 }

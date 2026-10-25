@@ -122,8 +122,10 @@
   no standalone referent (user: "is any of WHAT real?"). M-A9's
   antecedent patch ("it all" resolving into the previous answer) was
   still a bandage: questions must not lean on ANY previous beat at all.
-  Fix: THE FORMULA (12-ARGUMENT) — 4 tests (standalone / cut /
-  content-fit / plain). New questions written to it: Q2 from user's
+  Fix: THE FORMULA (12-ARGUMENT) — 4 tests (standalone+precise /
+  cut / content-fit / plain). Precision sub-clause followed: "What
+  am I made of?" was vague (body? character?) while the material
+  dissects the self -> "What is the self made of?". New questions written to it: Q2 from user's
   example ("Why don't I see Nibbana right now?" — which turned out to
   make the OLD motto-echo beat the RIGHT essay 0, "this point is hard
   to see"), Q3 "Why does the world feel real?", Q5 "How does anyone
