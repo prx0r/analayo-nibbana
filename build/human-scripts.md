@@ -12,7 +12,7 @@ YOUR LINE (1–2 sentences, your words):
 YOUR LINE (1–2 sentences, your words):
 
 
-## §3 — Why does the world feel real?
+## §3 — What keeps it going?
 
 YOUR LINE (1–2 sentences, your words):
 

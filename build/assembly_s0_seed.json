@@ -1,7 +1,6 @@
 [
  {
-  "t": "motto-bell",
-  "note": "SEED opens on the refrain bell"
+  "t": "motto-bell"
  },
  {
   "t": "fish",
@@ -27,8 +26,7 @@
   "lec": 1,
   "start": 696,
   "end": 749,
-  "dur": 53,
-  "note": "essay-0 unit 1"
+  "dur": 53
  },
  {
   "t": "water",
@@ -58,8 +56,7 @@
   "lec": 3,
   "start": 363.5,
   "end": 411.4,
-  "dur": 47.9,
-  "note": "essay-0 unit 2"
+  "dur": 47.9
  },
  {
   "t": "water",
@@ -68,7 +65,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "Why does the world feel real?",
+  "say": "What keeps it going?",
   "unit": 3
  },
  {
@@ -89,8 +86,7 @@
   "lec": 1,
   "start": 2998.9,
   "end": 3083.0,
-  "dur": 84.1,
-  "note": "essay-0 unit 3"
+  "dur": 84.1
  },
  {
   "t": "water",
@@ -120,8 +116,7 @@
   "lec": 6,
   "start": 1346,
   "end": 1393.6,
-  "dur": 47.6,
-  "note": "essay-0 unit 4"
+  "dur": 47.6
  },
  {
   "t": "water",
@@ -151,8 +146,7 @@
   "lec": 14,
   "start": 4478.1,
   "end": 4553,
-  "dur": 74.9,
-  "note": "essay-0 unit 5"
+  "dur": 74.9
  },
  {
   "t": "water",
@@ -182,11 +176,9 @@
   "lec": 27,
   "start": 661.84,
   "end": 760.6,
-  "dur": 98.8,
-  "note": "essay-0 unit 6"
+  "dur": 98.8
  },
  {
-  "t": "zoom-bell",
-  "note": "SEED done -> zoom into section 1"
+  "t": "zoom-bell"
  }
 ]

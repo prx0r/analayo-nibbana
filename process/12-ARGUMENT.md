@@ -97,7 +97,11 @@ tests.
       owner's ear, not the reverse. "me in nibbana" = category error.)
   2 Why don't I see Nibbana right now? → this point is hard to see;
       the twelve links are busy instead   [the cut: urgent]
-  3 Why does the world feel real?      → form only in name
+  3 What keeps it going?             → form only in name
+     [owner correction 2026-10-25: Q3 = the keeps-going slot;
+      essay-0 ANSWER re-fit pending — current name-and-form
+      quote answered the old question; candidates: craving-
+      impelled gap / delight-in-existence / asava-tides]
   4 How is the sense of self
      constructed?                → you all scatter form, feeling,
       perception, preparations, consciousness
@@ -106,8 +110,8 @@ tests.
 
 Lead-in test (each question is a KICK-OFF: 4-7 words, and it is the
 sentence its predecessor's answer demands):
-  A3 "form only in name" → the world is built of names … "How is the
-     sense of self constructed?"
+  A3 (answer 3 pending re-fit) → what feeds it builds "me" …
+     "How is the sense of self constructed?"
   A4 five scatterable groups, practising for craving's end → the how:
      … "How is Nibbana attained?"
   A5 the seen-only-the-seen, "the end of suffering" → … "What is

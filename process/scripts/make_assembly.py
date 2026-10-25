@@ -34,7 +34,7 @@ QUESTIONS = {
     # is the next sentence the previous answer demands).
     1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",
-    3: "Why does the world feel real?",
+    3: "What keeps it going?",
     4: "How is the sense of self constructed?",
     5: "How is Nibbana attained?",
     6: "What is Nibbana like?",
