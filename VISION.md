@@ -130,9 +130,13 @@ the pick; the four tests live in judgment, run by humans.
 
 - Chain locked (6 questions, formula-tested); seed built (31 events);
   questions synced across assembly/seed/g7/human-scripts; gates green.
-- Essay-0 pick OPEN: V1 (motto, built) vs V3 (owner-approved);
-  V2 slot open for a replacement that survives standalone+category.
-  Pick re-chains the seed; then gold/pool openings get the recurrence
-  audit (they're not yet guaranteed to lead with essay-0).
+- Essay-0 pick CLOSED (final): **Q: What does "this is peaceful"
+  mean? → the standard motto → built plain → audio L01[696-749].**
+  Grounds: the commentary designates the motto heading+theme; the Q
+  quotes the motif (bell lockstep + pre-echo of the answer's first
+  words); passes all four tests. V3 ("What does Nibbana end?" +
+  destruction-of-this-mass) archived as approved alternate; V2 died
+  as category error. Remaining: gold/pool openings still need the
+  recurrence audit (essay-0-first).
 - Remaining to a finished artifact: owner pick → seed/gold/pool
   essay-0 pass → human intros (~4 min) → ear listen → render.

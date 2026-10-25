@@ -90,7 +90,11 @@ the question. Change a section's material and you must re-run all four
 tests.
 
 ### The chain (current, post-formula)
-  1 What is Nibbana?                  → the stilling, the going out
+  1 What does "this is peaceful" mean? → the stilling, the going out
+     (FINAL pick: commentary designates the motto as heading+theme;
+      the Q quotes the motif so bell/question/answer lock-step and the
+      Q pre-echoes the answer's first words. V3 approved as archived
+      alternate.)
   2 Why don't I see Nibbana right now? → this point is hard to see;
       the twelve links are busy instead   [the cut: urgent]
   3 Why does the world feel real?      → form only in name

@@ -32,7 +32,7 @@ QUESTIONS = {
     # now), CONTENT-FIT (that section's essay 0 answers it directly),
     # PLAIN (kick-off: 4-7 words, Fish speaks it flat — each question
     # is the next sentence the previous answer demands).
-    1: "What is Nibbana?",
+    1: "What does \"this is peaceful\" mean?",
     2: "Why don't I see Nibbana right now?",
     3: "Why does the world feel real?",
     4: "Am I real too?",
