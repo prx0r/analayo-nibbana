@@ -301,3 +301,12 @@ F4 a text warts: S1 motto dup keep-as-refrain or swap B08; S4
 F5 plain conjugation fixes (key = owner veto): delight mapping,
   "Practise for the wanting ends", S1 B03 insert.
 F6 ledger: core=71 not 72 (notes §13 wrong, §11 right).
+
+## 30b. Q3 corrected to canon (2026-10-25, owner)
+"q3 is what keeps it going" -> chain slot 3 = "What keeps it going?"
+(replaces "Why does the world feel real?"). Other locked picks (1,2,4,
+5,6) stand; other canon alt titles NOT adopted. OPEN: essay-0 answer
+for section 3 re-fit — current name-and-form quote answered the old
+question; candidates from seg3_script: B05 craving-impelled gap,
+B04 delight-in-existence, B08 asava-tides. Lead-in edge A3->Q4
+re-run in 12-ARGUMENT (feeds -> builds "me").

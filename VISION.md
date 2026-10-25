@@ -52,8 +52,8 @@ Sections are questions, not topics. A spine question passes the FORMULA
 
 Chained, they form ONE enquiry (each answer is the next question's
 premise; pronouns resolve in-chain). Current chain:
-What is Nibbana? → Why don't I see Nibbana right now? → Why does the
-world feel real? → How is the sense of self constructed? → How is
+What is Nibbana? → Why don't I see Nibbana right now? → What keeps
+it going? → How is the sense of self constructed? → How is
 Nibbana attained? → What is Nibbana like?
 
 Questions are the ONE thing humans author (owner picks; tests inform,
@@ -150,18 +150,22 @@ the pick; the four tests live in judgment, run by humans.
 - Chain locked (6 questions, formula-tested); seed built (31 events);
   questions synced across assembly/seed/g7/human-scripts; gates green.
 - Chain LOCKED by owner 2026-10-25 (FINAL): What is Nibbana? ·
-  Why don't I see Nibbana right now? · Why does the world feel real?
-  · How is the sense of self constructed? · How is Nibbana attained?
+  Why don't I see Nibbana right now? · What keeps it going? (Q3
+  corrected to canon wording 2026-10-25 — owner: "q3 IS what
+  keeps it going") · How is the sense of self constructed? · How
+  is Nibbana attained?
   · What is Nibbana like? Questions are POINTERS into sections (owner
   word); "me in nibbana" = category error. SECTION TITLES canonical
   in 12-ARGUMENT (six movements — screen frames, they point, they
   don't cut: titles=screen, questions=Fish). My "this is peaceful" Q1
   override REVERTED to the owner-approved "What is Nibbana?".
   human-scripts intros: my composed prose STRIPPED, slots are the
-  owner's. Re-confirmed after the 6-path visual canon save: the
-  canon's alternative titles do NOT replace the chain — visuals
-  (visuals/6-PATH-CANON.md) hang beneath the locked questions. Remaining: answer-6 fit check for "What is Nibbana like?"
-  (magic-show line vs grown-cool line — owner ear), gold/pool
-  question re-sync, ears listen pass, renders.
+  owner's. Other canon alt titles NOT adopted — owner's 4/5/6
+  picks stand; visuals (visuals/6-PATH-CANON.md) hang beneath the
+  locked questions. OPEN answer fits: §3 (name-and-form quote
+  answered the OLD Q3 — candidates: craving-gap / delight-in-
+  existence / asava-tides), §6 (magic-show vs grown-cool), §4
+  (scatter vs construction — gem/barb/mirror candidates). Also:
+  gold/pool question re-sync, ears listen pass, renders.
 - Remaining to a finished artifact: owner pick → seed/gold/pool
   essay-0 pass → human intros (~4 min) → ear listen → render.
