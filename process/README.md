@@ -1,5 +1,8 @@
 # The Process: sermon series → condensed explainers
 
+> **Next agent: read `../HANDOVER.md` first** (repo map, locks,
+> branch topology — the current film work lives on `lab/c-split`).
+
 Turn a long recorded teaching series into short self-contained explainers
 without writing a single word of doctrine yourself.
 
