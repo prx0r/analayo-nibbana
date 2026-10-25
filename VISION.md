@@ -158,7 +158,9 @@ the pick; the four tests live in judgment, run by humans.
   don't cut: titles=screen, questions=Fish). My "this is peaceful" Q1
   override REVERTED to the owner-approved "What is Nibbana?".
   human-scripts intros: my composed prose STRIPPED, slots are the
-  owner's. Remaining: answer-6 fit check for "What is Nibbana like?"
+  owner's. Re-confirmed after the 6-path visual canon save: the
+  canon's alternative titles do NOT replace the chain — visuals
+  (visuals/6-PATH-CANON.md) hang beneath the locked questions. Remaining: answer-6 fit check for "What is Nibbana like?"
   (magic-show line vs grown-cool line — owner ear), gold/pool
   question re-sync, ears listen pass, renders.
 - Remaining to a finished artifact: owner pick → seed/gold/pool
