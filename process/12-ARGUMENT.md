@@ -63,30 +63,41 @@ The stack on screen mirrors it: his words on top, plain English
 underneath, his voice last. The plain English never replaces the
 verbatim — it translates it, directly below, in the same moment.
 
-### The chain (spoken in order; every pronoun has an antecedent)
-THE ANTECEDENT RULE: a pronoun in Q(n) must point at words A(n-1)
-just said. Read the six as dialogue — dangling "it" = broken edge =
-rewrite OUR question, never the verbatim (this exact break: "What is
-Nibbana?" → "What keeps it going?" — *it* had no referent; fixed to
-"it all" = Q1's stilling-of-everything).
+### The formula (how to write a spine question)
+A spine question must pass FOUR tests — all human-judged, all fail
+fast:
 
-  1 What is Nibbana?                    → the stilling of everything,
-     the going out (the motto; the want is inside the answer:
-     "peaceful, sublime" — no need to ask for it separately)
-  2 What keeps it all going?            → [it all = everything Q1
-     just named] the twelve links, arise-in-dependence, no first cause
-  3 Is any of it real?                  → [it = this dependent stuff]
-     form only in name — real-feeling is added, not found
-  4 What am I made of?                  → [if it's all names, am I?]
-     the five groups — scatter them and see
-  5 How do I see through it?            → [it = what I'm made of]
-     in the seen only the seen — stop adding yourself
-  6 What's left when the show stops?    → [the constructed show]
-     the seeing that outlasted it
+1. **STANDALONE.** Read cold, zero context: the subject must be
+   NAMED ("Nibbana", "the world", "I", "everything"). Naked pronouns
+   fail — the original sin: "Is any of it real?" *is any of WHAT?*
+   (M-A10; generalizes M-A9's antecedent rule: no pronoun may need a
+   previous answer to resolve).
+2. **THE CUT.** The question takes the previous answer and turns it
+   into tension for THIS listener, now. Q1 gives you Nibbana — Q2
+   doesn't shrug, it pounces: *why don't I see Nibbana right now?*
+   A definition answered by a shrug is waste.
+3. **CONTENT-FIT.** That section's essay 0 must answer it directly —
+   read Q aloud, then A aloud: no leap (the oral test).
+4. **PLAIN.** Everyday words, <=9, Fish speaks it flat. Cutting, not
+   clever. No doctrine in the question — doctrine lives in the answer.
 
-Edge test (two checks): (a) A(n) answers Q(n) aloud with no leap;
-(b) Q(n+1)'s pronoun resolves inside A(n). Fail either → rewrite
-that question. Section content is fixed; only questions bend.
+Method: (a) what did A(n-1) just establish? (b) what is the most
+uncomfortable thing to ask ABOUT it right now? (c) does this
+section's material answer that? Name the subject from (b) and you have
+the question. Change a section's material and you must re-run all four
+tests.
+
+### The chain (current, post-formula)
+  1 What is Nibbana?                 → the stilling, the going out
+  2 Why don't I see Nibbana right now? → this point is hard to see;
+     the twelve links are busy instead  [the cut: urgent]
+  3 Why does the world feel real?      → form only in name
+  4 What am I made of?                 → five scatterable groups
+  5 How does anyone actually wake up?  → in the seen only the seen
+  6 What's left when everything stops? → the seeing outlasted the show
+
+Every edge: previous answer named -> next question cuts it -> next
+essay 0 lands. Replace one question, re-run the formula on the pair.
 
 ### From essay 0 to essay a (how expansion works)
 The chain breathes only when micro-sessions are adjacent, so the

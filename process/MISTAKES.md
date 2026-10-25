@@ -118,3 +118,14 @@
   keeps it all going?" where "it all" = Q1's answer. Added to the
   chain's edge test (b).
 
+- **M-A10 naked-pronoun questions.** "Is any of it real?" — *it* has
+  no standalone referent (user: "is any of WHAT real?"). M-A9's
+  antecedent patch ("it all" resolving into the previous answer) was
+  still a bandage: questions must not lean on ANY previous beat at all.
+  Fix: THE FORMULA (12-ARGUMENT) — 4 tests (standalone / cut /
+  content-fit / plain). New questions written to it: Q2 from user's
+  example ("Why don't I see Nibbana right now?" — which turned out to
+  make the OLD motto-echo beat the RIGHT essay 0, "this point is hard
+  to see"), Q3 "Why does the world feel real?", Q5 "How does anyone
+  actually wake up?", Q6 "What's left when everything stops?".
+

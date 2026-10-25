@@ -5,20 +5,20 @@ Read each cold, one breath between sentences. These open their section, then the
 ## §1 — What it is (~35s)
 What is Nibbana? Not a place, and not annihilation — an extinction, like a fire going out for lack of fuel. This section is the definition everything else hangs on. Listen for the fire, the thirst quenched, and what remains when grasping stops.
 
-## §2 — What keeps it all going (~40s)
-What keeps it all going? Not across lifetimes first — in this moment: consciousness and name-and-form leaning on each other like two bundles of reeds. Listen for the whirlpool, the ruler that doesn't fit inside time, and the middle way between "it exists" and "it doesn't".
+## §2 — Why don't I see Nibbana right now? (~40s)
+Why don't I see Nibbana right now? Because the machine runs in this moment first, not across lifetimes: consciousness and name-and-form leaning on each other like two bundles of reeds. Listen for the whirlpool, the ruler that doesn't fit inside time, and the middle way between "it exists" and "it doesn't".
 
-## §3 — Is any of it real (~40s)
-Is any of it real? Because the mind names, reckons, and proliferates — honey-ball delight, wrong-turn roads, imagining earth as mine. Listen for how delight becomes grasping, and grasping becomes the next moment of me.
+## §3 — Why does the world feel real? (~40s)
+Why does the world feel real? Because the mind names, reckons, and proliferates — honey-ball delight, wrong-turn roads, imagining earth as mine. Listen for how delight becomes grasping, and grasping becomes the next moment of me.
 
 ## §4 — What am I made of (~40s)
 What am I made of? Mirror-images, signs, and the last hiding place: the watcher itself. Listen for the consciousness with nowhere to land, and what happens when you look for the observer and don't find one.
 
-## §5 — How do I see through it (~45s)
-How do I see through it? Bare sensing — in the seen, only the seen — held lightly like a razor, practised as mindfulness, until even the raft gets left behind. This is the practice section. Listen with your hands, not just your ears.
+## §5 — How does anyone actually wake up? (~45s)
+How does anyone actually wake up? Bare sensing — in the seen, only the seen — held lightly like a razor, practised as mindfulness, until even the raft gets left behind. This is the practice section. Listen with your hands, not just your ears.
 
-## §6 — What's left when the show stops (~35s)
-What's left when the show stops? Embers cooling to ash, an ocean too deep to measure, a lotus out of a cesspool, faculties brought to completion. Listen for an ending that isn't an ending — and then silence.
+## §6 — What's left when everything stops (~35s)
+What's left when everything stops? Embers cooling to ash, an ocean too deep to measure, a lotus out of a cesspool, faculties brought to completion. Listen for an ending that isn't an ending — and then silence.
 
 ## Bridges
 None scripted. Mark at listen pass ONLY where a join genuinely doesn't land (format: "BRIDGE §N after clip K: [one sentence]"). Default is pause, not words.

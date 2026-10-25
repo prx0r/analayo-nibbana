@@ -24,23 +24,23 @@ td = '/root/analayo-nibbana/build'
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
 QUESTIONS = {
-    # The micro-session chain (process/12-ARGUMENT.md):
-    # THE ANTECEDENT RULE — a pronoun in Q(n) must point at words in
-    # A(n-1). "It all" = Q1's stilling-of-everything; read the six in
-    # order; any dangling referent = rewrite OUR question, never the
-    # verbatim (M-A9).
+    # THE FORMULA (process/12-ARGUMENT.md): every spine question passes
+    # 4 tests — STANDALONE (subject named, zero naked pronouns),
+    # THE CUT (turns the previous answer into tension for THIS listener,
+    # now), CONTENT-FIT (that section's essay 0 answers it directly),
+    # PLAIN (everyday words, <=9, Fish speaks it flat).
     1: "What is Nibbana?",
-    2: "What keeps it all going?",
-    3: "Is any of it real?",
+    2: "Why don't I see Nibbana right now?",
+    3: "Why does the world feel real?",
     4: "What am I made of?",
-    5: "How do I see through it?",
-    6: "What's left when the show stops?",
-}# Which beat is each section's essay 0 (the compressed answer)?
-# Default 1. Overrides where beat 1 does not answer the question:
-# S2 b7 = twelve-links/principle (mechanism, not motto-echo);
-# S5 b3 = Bahiya instruction (the practice, not motto);
-# S4 b2 = painter/scatter (what the self is made of, not the stars-line).
-ESSAY0 = {1: 1, 2: 7, 3: 1, 4: 2, 5: 3, 6: 1}
+    5: "How does anyone actually wake up?",
+    6: "What's left when everything stops?",
+}
+# Essay 0 per section (the beat whose answer IS the question's reply).
+# S2 b1 "this point is hard to see, namely the stilling..." DIRECTLY
+# answers "why don't I see Nibbana right now?" — the old motto-echo
+# was right CONTENT with a wrong question pointing at it.
+ESSAY0 = {1: 1, 2: 1, 3: 1, 4: 2, 5: 3, 6: 1}
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}

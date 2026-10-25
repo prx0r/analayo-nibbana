@@ -5,7 +5,7 @@
  {
   "t": "fish",
   "role": "question",
-  "say": "What keeps it all going?"
+  "say": "Why don't I see Nibbana right now?"
  },
  {
   "t": "pause",
@@ -15,18 +15,18 @@
  },
  {
   "t": "verbatim",
-  "text": "All the twelve links are dependently arisen, and avijj\u0101 is no\nexception. Even ignorance arises with the arising of influxes,\n\u0101savasamuday\u0101 avijj\u0101samudayo. So even ignorance is not the cause. The\ncause is the underlying principle itself.",
-  "plain": "All the twelve links are dependently arisen, and avijja \u2014 not seeing how it works \u2014 is no exception. Even not seeing how it works arises with the arising of influxes, asavasamudaya avijjasamudayo. So even not seeing how it works is not the cause. The cause is the underlying principle itself.",
-  "sermon": 26,
+  "text": "And this point, too, is hard to see, namely the stilling\n   of all preparations, the relinquishment of all assets, the destruction\n   of craving, detachment, cessation, extinction.",
+  "plain": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "sermon": 2,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
-  "lec": 28,
-  "start": 786.3,
-  "end": 838.5,
-  "dur": 52.2,
+  "lec": 3,
+  "start": 363.5,
+  "end": 411.4,
+  "dur": 47.9,
   "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
@@ -34,31 +34,6 @@
   "ref": "human-scripts.md section 2",
   "status": "optional-pending",
   "note": "only if used: AFTER the answer, never between question and motto"
- },
- {
-  "t": "verbatim",
-  "text": "And this point, too, is hard to see, namely the stilling\n   of all preparations, the relinquishment of all assets, the destruction\n   of craving, detachment, cessation, extinction.",
-  "sermon": 2
- },
- {
-  "t": "fish",
-  "beat": 1,
-  "say": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 3,
-  "start": 363.5,
-  "end": 411.4,
-  "dur": 47.9
- },
- {
-  "t": "water",
-  "dur": 2.5
  },
  {
   "t": "verbatim",
@@ -200,6 +175,31 @@
   "start": 5131.5,
   "end": 5259.3,
   "dur": 127.8
+ },
+ {
+  "t": "water",
+  "dur": 2.5
+ },
+ {
+  "t": "verbatim",
+  "text": "All the twelve links are dependently arisen, and avijj\u0101 is no\nexception. Even ignorance arises with the arising of influxes,\n\u0101savasamuday\u0101 avijj\u0101samudayo. So even ignorance is not the cause. The\ncause is the underlying principle itself.",
+  "sermon": 26
+ },
+ {
+  "t": "fish",
+  "beat": 7,
+  "say": "All the twelve links are dependently arisen, and avijja \u2014 not seeing how it works \u2014 is no exception. Even not seeing how it works arises with the arising of influxes, asavasamudaya avijjasamudayo. So even not seeing how it works is not the cause. The cause is the underlying principle itself."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 28,
+  "start": 786.3,
+  "end": 838.5,
+  "dur": 52.2
  },
  {
   "t": "water",

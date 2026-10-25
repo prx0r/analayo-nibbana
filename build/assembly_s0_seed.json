@@ -28,17 +28,16 @@
   "start": 696,
   "end": 749,
   "dur": 53,
-  "note": "essay-0 unit 1: archive voice answers"
+  "note": "essay-0 unit 1"
  },
  {
   "t": "water",
-  "dur": 2.5,
-  "note": "between micro-sessions"
+  "dur": 2.5
  },
  {
   "t": "fish",
   "role": "question",
-  "say": "What keeps it all going?",
+  "say": "Why don't I see Nibbana right now?",
   "unit": 2
  },
  {
@@ -48,29 +47,28 @@
  },
  {
   "t": "verbatim",
-  "text": "All the twelve links are dependently arisen, and avijj\u0101 is no\nexception. Even ignorance arises with the arising of influxes,\n\u0101savasamuday\u0101 avijj\u0101samudayo. So even ignorance is not the cause. The\ncause is the underlying principle itself.",
-  "plain": "All the twelve links are dependently arisen, and avijja \u2014 not seeing how it works \u2014 is no exception. Even not seeing how it works arises with the arising of influxes, asavasamudaya avijjasamudayo. So even not seeing how it works is not the cause. The cause is the underlying principle itself.",
-  "sermon": 26,
+  "text": "And this point, too, is hard to see, namely the stilling\n   of all preparations, the relinquishment of all assets, the destruction\n   of craving, detachment, cessation, extinction.",
+  "plain": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "sermon": 2,
   "essay": 0,
   "unit": 2
  },
  {
   "t": "analayo",
-  "lec": 28,
-  "start": 786.3,
-  "end": 838.5,
-  "dur": 52.2,
-  "note": "essay-0 unit 2: archive voice answers"
+  "lec": 3,
+  "start": 363.5,
+  "end": 411.4,
+  "dur": 47.9,
+  "note": "essay-0 unit 2"
  },
  {
   "t": "water",
-  "dur": 2.5,
-  "note": "between micro-sessions"
+  "dur": 2.5
  },
  {
   "t": "fish",
   "role": "question",
-  "say": "Is any of it real?",
+  "say": "Why does the world feel real?",
   "unit": 3
  },
  {
@@ -92,12 +90,11 @@
   "start": 2998.9,
   "end": 3083.0,
   "dur": 84.1,
-  "note": "essay-0 unit 3: archive voice answers"
+  "note": "essay-0 unit 3"
  },
  {
   "t": "water",
-  "dur": 2.5,
-  "note": "between micro-sessions"
+  "dur": 2.5
  },
  {
   "t": "fish",
@@ -124,17 +121,16 @@
   "start": 1346,
   "end": 1393.6,
   "dur": 47.6,
-  "note": "essay-0 unit 4: archive voice answers"
+  "note": "essay-0 unit 4"
  },
  {
   "t": "water",
-  "dur": 2.5,
-  "note": "between micro-sessions"
+  "dur": 2.5
  },
  {
   "t": "fish",
   "role": "question",
-  "say": "How do I see through it?",
+  "say": "How does anyone actually wake up?",
   "unit": 5
  },
  {
@@ -156,17 +152,16 @@
   "start": 4478.1,
   "end": 4553,
   "dur": 74.9,
-  "note": "essay-0 unit 5: archive voice answers"
+  "note": "essay-0 unit 5"
  },
  {
   "t": "water",
-  "dur": 2.5,
-  "note": "between micro-sessions"
+  "dur": 2.5
  },
  {
   "t": "fish",
   "role": "question",
-  "say": "What's left when the show stops?",
+  "say": "What's left when everything stops?",
   "unit": 6
  },
  {
@@ -188,7 +183,7 @@
   "start": 661.84,
   "end": 760.6,
   "dur": 98.8,
-  "note": "essay-0 unit 6: archive voice answers"
+  "note": "essay-0 unit 6"
  },
  {
   "t": "zoom-bell",
