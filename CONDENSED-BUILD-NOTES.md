@@ -328,3 +328,21 @@ containment exceptions 1&2 CLOSED (A-grade core⊆gold now exact; the
 two B* remain the documented exception). Rung-0 overruns (ch1/4/5/6)
 = documented WARNs (atomic seed windows). ALL GATES PASS incl G8.
 Next: cue sheet (intra-cell order + shots + music passages), renders.
+
+## 32b. Essay-0 unit 2 replaced (2026-10-25, owner caught the bug)
+"2 doesnt answer the question for 2 it repeats the answer to 1" —
+correct: old b1 = the motto-echo ("And this point, too, is hard to
+see, namely [full formula]"). REPLACED with the whirlpool stack:
+TEXT = sermon-02 "The basic principle underlying this whirlpool is to
+be found in our bodies... blood circulation is in fact a whirling
+round" (G5 anchor byte-exact, extracted not typed); AUDIO = L02
+[5128.3-5193.5] where Analayo says the answer aloud ("Samsara is a
+whirlpool as far as the ordinary beings caught up in it are concerned
+... for them there is no whirling round"). Plain/tts = honest no-ops.
+Old motto-echo demoted to pool (was A-only). Cluster 1 both sides,
+grade B (documented definitional exception, third B* promotion).
+Builders made canonical: process/scripts/build_seed.py +
+build_film_manifest.py (no more inline re-pastes, R6). Repack:
+0=6.7 A=33.5 B=90.0 C=167.9 screening=298.1m, ALL GATES PASS incl G5
+on the new quote. Backup candidate if owner dislikes: the dog quote
+(L25 window).

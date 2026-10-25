@@ -19,14 +19,14 @@ gates: `process/scripts/g8_film_check.py` (wired into verify.sh as G8).
 | ch | question (locked chain) | actual | budget | clips 0/A/B/C |
 |---|---|---|---|---|
 | 1 | What is Nibbana? | 53 / 220 / 600 / 1499 | 30 / 240 / 600 / 1500 | 1/3/20/47 |
-| 2 | Why don't I see Nibbana right now? | 48 / 417 / 1077 / 1978 | 90 / 420 / 1080 / 1980 | 1/3/13/26 |
+| 2 | Why don't I see Nibbana right now? | 65 / 402 / 1077 / 1978 | 90 / 420 / 1080 / 1980 | 1/3/13/26 |
 | 3 | What keeps it going? | 62 / 398 / 1200 / 2040 | 75 / 420 / 1200 / 2040 | 1/5/18/32 |
 | 4 | How is the sense of self constructed? | 48 / 210 / 480 / 779 | 45 / 240 / 480 / 780 | 1/4/16/36 |
 | 5 | How is Nibbana attained? | 75 / 382 / 1140 / 2100 | 45 / 420 / 1140 / 2100 | 1/5/19/40 |
 | 6 | What is Nibbana like? | 99 / 418 / 899 / 1680 | 75 / 420 / 900 / 1680 | 1/7/17/44 |
-| **total** | | **6.4 / 34.1 / 89.9 / 167.9 min** | **6 / 36 / 90 / 168** | 1/27/103/225 |
+| **total** | | **6.7 / 33.5 / 90.0 / 167.9 min** | **6 / 36 / 90 / 168** | 1/27/103/225 |
 
-**Screening: 298.3 min ≈ 4h 58m** (ceiling 300 + 5m tolerance).
+**Screening: 298.1 min ≈ 4h 58m** (ceiling 300 + 5m tolerance).
 Unique timeline material (C) = 167.9m; re-encountered = 130.4m (the
 nesting repetition the doc budgeted at 132m).
 

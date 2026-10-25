@@ -95,8 +95,8 @@ tests.
       titles the owner liked, Q6 "What is Nibbana like?" preferred;
       Q2 kept. Questions are POINTERS — the anchor rule serves the
       owner's ear, not the reverse. "me in nibbana" = category error.)
-  2 Why don't I see Nibbana right now? → this point is hard to see;
-      the twelve links are busy instead   [the cut: urgent]
+  2 Why don't I see Nibbana right now? → the whirlpool is found in
+      our own bodies; ordinary beings are caught up in it [urgent cut]
   3 What keeps it going?             → craving impels the gap that
       is ignored ("What impels one to ignore that gap is craving")
   4 How is the sense of self

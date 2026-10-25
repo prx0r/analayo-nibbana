@@ -856,31 +856,27 @@
    "question": "Why don't I see Nibbana right now?",
    "0": [
     {
-     "lec": 3,
-     "start": 363.5,
-     "end": 411.4,
-     "dur": 47.9,
+     "lec": 2,
+     "start": 5128.3,
+     "end": 5193.5,
+     "dur": 65.2,
      "src": "core",
      "ci": 1,
-     "grade": "A",
-     "flags": [
-      "refrain"
-     ],
+     "grade": "B",
+     "flags": [],
      "depth": "0"
     }
    ],
    "A": [
     {
-     "lec": 3,
-     "start": 363.5,
-     "end": 411.4,
-     "dur": 47.9,
+     "lec": 2,
+     "start": 5128.3,
+     "end": 5193.5,
+     "dur": 65.2,
      "src": "core",
      "ci": 1,
-     "grade": "A",
-     "flags": [
-      "refrain"
-     ],
+     "grade": "B",
+     "flags": [],
      "depth": "A"
     },
     {
@@ -890,17 +886,6 @@
      "dur": 316.8,
      "src": "core",
      "ci": 0,
-     "grade": "A",
-     "flags": [],
-     "depth": "A"
-    },
-    {
-     "lec": 28,
-     "start": 786.3,
-     "end": 838.5,
-     "dur": 52.2,
-     "src": "core",
-     "ci": 2,
      "grade": "A",
      "flags": [],
      "depth": "A"
@@ -908,16 +893,14 @@
    ],
    "B": [
     {
-     "lec": 3,
-     "start": 363.5,
-     "end": 411.4,
-     "dur": 47.9,
+     "lec": 2,
+     "start": 5128.3,
+     "end": 5193.5,
+     "dur": 65.2,
      "src": "core",
      "ci": 1,
-     "grade": "A",
-     "flags": [
-      "refrain"
-     ],
+     "grade": "B",
+     "flags": [],
      "depth": "B"
     },
     {
@@ -927,17 +910,6 @@
      "dur": 316.8,
      "src": "core",
      "ci": 0,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 28,
-     "start": 786.3,
-     "end": 838.5,
-     "dur": 52.2,
-     "src": "core",
-     "ci": 2,
      "grade": "A",
      "flags": [],
      "depth": "B"
@@ -976,6 +948,17 @@
      "depth": "B"
     },
     {
+     "lec": 28,
+     "start": 786.3,
+     "end": 838.5,
+     "dur": 52.2,
+     "src": "core",
+     "ci": 2,
+     "grade": "A",
+     "flags": [],
+     "depth": "B"
+    },
+    {
      "lec": 4,
      "start": 485.5,
      "end": 612.2,
@@ -998,17 +981,6 @@
      "depth": "B"
     },
     {
-     "lec": 6,
-     "start": 3954.5,
-     "end": 3962.0,
-     "dur": 7.5,
-     "src": "gold",
-     "ci": 0,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
      "lec": 26,
      "start": 2392.3,
      "end": 2396.0,
@@ -1026,28 +998,6 @@
      "dur": 2.0,
      "src": "gold",
      "ci": 7,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 26,
-     "start": 4070.2,
-     "end": 4074.0,
-     "dur": 3.8,
-     "src": "gold",
-     "ci": 8,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 27,
-     "start": 1085.1,
-     "end": 1089.4,
-     "dur": 4.3,
-     "src": "gold",
-     "ci": 10,
      "grade": "A",
      "flags": [],
      "depth": "B"
@@ -1055,16 +1005,14 @@
    ],
    "C": [
     {
-     "lec": 3,
-     "start": 363.5,
-     "end": 411.4,
-     "dur": 47.9,
+     "lec": 2,
+     "start": 5128.3,
+     "end": 5193.5,
+     "dur": 65.2,
      "src": "core",
      "ci": 1,
-     "grade": "A",
-     "flags": [
-      "refrain"
-     ],
+     "grade": "B",
+     "flags": [],
      "depth": "C"
     },
     {
@@ -1074,17 +1022,6 @@
      "dur": 316.8,
      "src": "core",
      "ci": 0,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
-     "lec": 28,
-     "start": 786.3,
-     "end": 838.5,
-     "dur": 52.2,
-     "src": "core",
-     "ci": 2,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -1123,6 +1060,17 @@
      "depth": "C"
     },
     {
+     "lec": 28,
+     "start": 786.3,
+     "end": 838.5,
+     "dur": 52.2,
+     "src": "core",
+     "ci": 2,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
      "lec": 4,
      "start": 485.5,
      "end": 612.2,
@@ -1145,17 +1093,6 @@
      "depth": "C"
     },
     {
-     "lec": 6,
-     "start": 3954.5,
-     "end": 3962.0,
-     "dur": 7.5,
-     "src": "gold",
-     "ci": 0,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
      "lec": 26,
      "start": 2392.3,
      "end": 2396.0,
@@ -1173,28 +1110,6 @@
      "dur": 2.0,
      "src": "gold",
      "ci": 7,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
-     "lec": 26,
-     "start": 4070.2,
-     "end": 4074.0,
-     "dur": 3.8,
-     "src": "gold",
-     "ci": 8,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
-     "lec": 27,
-     "start": 1085.1,
-     "end": 1089.4,
-     "dur": 4.3,
-     "src": "gold",
-     "ci": 10,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -1272,12 +1187,34 @@
      "depth": "C"
     },
     {
+     "lec": 6,
+     "start": 3954.5,
+     "end": 3962.0,
+     "dur": 7.5,
+     "src": "gold",
+     "ci": 0,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
      "lec": 22,
      "start": 246.4,
      "end": 358.0,
      "dur": 111.6,
      "src": "gold",
      "ci": 1,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 26,
+     "start": 4070.2,
+     "end": 4074.0,
+     "dur": 3.8,
+     "src": "gold",
+     "ci": 8,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -1327,12 +1264,12 @@
      "depth": "C"
     },
     {
-     "lec": 6,
-     "start": 3503.0,
-     "end": 3548.5,
-     "dur": 45.5,
+     "lec": 27,
+     "start": 1085.1,
+     "end": 1089.4,
+     "dur": 4.3,
      "src": "gold",
-     "ci": 11,
+     "ci": 10,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -1342,6 +1279,28 @@
      "start": 419.4,
      "end": 422.7,
      "dur": 3.3,
+     "src": "gold",
+     "ci": 11,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 10,
+     "start": 4464.4,
+     "end": 4470.8,
+     "dur": 6.4,
+     "src": "gold",
+     "ci": 11,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 11,
+     "start": 2171.7,
+     "end": 2193.8,
+     "dur": 22.1,
      "src": "gold",
      "ci": 11,
      "grade": "A",

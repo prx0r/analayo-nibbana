@@ -40,10 +40,12 @@ QUESTIONS = {
     6: "What is Nibbana like?",
 }
 # Essay 0 per section (the beat whose answer IS the question's reply).
-# S2 b1 "this point is hard to see..." answers "why don't I see
-# Nibbana right now?". S3 b5 "What impels one to ignore that gap is
-# craving" answers "What keeps it going?" (owner pick, replaces the
-# name-and-form quote that answered the OLD Q3).
+# S2 b1 = the whirlpool-in-our-bodies quote on the L02 [5128-5193]
+# window (Analayo speaks the answer aloud: "Samsara is a whirlpool as
+# far as the ordinary beings caught up in it are concerned"). Replaced
+# the motto-echo that merely repeated essay-0 unit 1 (owner: "2 doesnt
+# answer the question for 2"). S3 b5 "What impels one to ignore that
+# gap is craving" answers "What keeps it going?".
 ESSAY0 = {1: 1, 2: 1, 3: 5, 4: 2, 5: 3, 6: 1}
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}

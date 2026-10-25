@@ -1,6 +1,7 @@
 [
  {
-  "t": "motto-bell"
+  "t": "motto-bell",
+  "note": "SEED opens on the refrain bell"
  },
  {
   "t": "fish",
@@ -26,7 +27,8 @@
   "lec": 1,
   "start": 696,
   "end": 749,
-  "dur": 53
+  "dur": 53,
+  "note": "essay-0 unit 1"
  },
  {
   "t": "water",
@@ -45,18 +47,19 @@
  },
  {
   "t": "verbatim",
-  "text": "And this point, too, is hard to see, namely the stilling\n   of all preparations, the relinquishment of all assets, the destruction\n   of craving, detachment, cessation, extinction.",
-  "plain": "And this point, too, is hard to see, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "text": "The basic principle underlying this whirlpool is to be found in our\nbodies. What we call 'breathing' is a continuous process of emptying and\nfilling up. So even the so-called 'life-principle' is not much different\nfrom the activity of a whirlpool. The functioning of the lungs and the\nheart is based on the same principle and the blood circulation is in fact\na whirling round.",
+  "plain": "The basic principle underlying this whirlpool is to be found in our bodies. What we call 'breathing' is a continuous process of emptying and filling up. So even the so-called 'life-principle' is not much different from the activity of a whirlpool. The functioning of the lungs and the heart is based on the same principle and the blood circulation is in fact a whirling round.",
   "sermon": 2,
   "essay": 0,
   "unit": 2
  },
  {
   "t": "analayo",
-  "lec": 3,
-  "start": 363.5,
-  "end": 411.4,
-  "dur": 47.9
+  "lec": 2,
+  "start": 5128.3,
+  "end": 5193.5,
+  "dur": 65.2,
+  "note": "essay-0 unit 2"
  },
  {
   "t": "water",
@@ -86,7 +89,8 @@
   "lec": 24,
   "start": 1038,
   "end": 1100.2,
-  "dur": 62.2
+  "dur": 62.2,
+  "note": "essay-0 unit 3"
  },
  {
   "t": "water",
@@ -116,7 +120,8 @@
   "lec": 6,
   "start": 1346,
   "end": 1393.6,
-  "dur": 47.6
+  "dur": 47.6,
+  "note": "essay-0 unit 4"
  },
  {
   "t": "water",
@@ -146,7 +151,8 @@
   "lec": 14,
   "start": 4478.1,
   "end": 4553,
-  "dur": 74.9
+  "dur": 74.9,
+  "note": "essay-0 unit 5"
  },
  {
   "t": "water",
@@ -176,9 +182,11 @@
   "lec": 27,
   "start": 661.84,
   "end": 760.6,
-  "dur": 98.8
+  "dur": 98.8,
+  "note": "essay-0 unit 6"
  },
  {
-  "t": "zoom-bell"
+  "t": "zoom-bell",
+  "note": "SEED done -> zoom into section 1"
  }
 ]
