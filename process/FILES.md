@@ -21,7 +21,11 @@ Derived (never hand-edit — regenerate):
 - `manifest_*.txt` (ffmpeg lists), `manifest_index.json`
 
 Other: `human-scripts.md` (questions + EMPTY owner slots — never write
-content there), `assets/` (motto-bell 2.5s, zoom-bell 6s).
+content there), `assets/` (motto-bell 2.5s, zoom-bell 6s),
+`assets/sfx/` (bowls/ding/long-break/blocks kit, not yet wired),
+`STORYBOARD.md` (A as shooting script, via tools/build_storyboard.py),
+`essay_a_analayo_transcript.md` (every core clip's spoken words),
+`EAR_REPORT.md` (machine listen-back verdicts per round).
 
 ## Process (`process/` — you are here)
 README (where-things-live index), 00..11 stage docs, 12-ARGUMENT
@@ -30,7 +34,9 @@ MISTAKES, SKILLS, REPRODUCE, FILES (this), REVIEW (root), `verify.sh`
 (G1/G5/G6/G6b/G7/G8), `scripts/`:
 - builders: make_assembly, build_seed, build_film_manifest,
   rebuild_text (gloss+tts functions; its main() td path is stale —
-  import functions, write build/ explicitly), rematch2 (pool, legacy)
+  import functions, write build/ explicitly), rematch2 (pool, legacy),
+  sharpen_gold (B sequence law + edge re-snap + motto-cap manifests;
+  log: build/gold_fix_log.json)
 - gates: g5_provenance (semantic quote-anchor), g6_tts (hardened +
   canary), g7_essay (chain/seed), g8_film (nesting/budgets/provenance)
 

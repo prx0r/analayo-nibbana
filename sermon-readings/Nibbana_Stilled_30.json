@@ -1,0 +1,3592 @@
+{
+ "source": "/root/analayo-nibbana/sermon-audio/Nibbana_Stilled_30.mp3",
+ "duration": 3266.76898,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 0.0,
+   "end": 14.7,
+   "text": "The 33 sermons on Nibbana were delivered by the Venerable Bhikkhu Katukurunde Jnanananda in Sinhala at Mitrigala Nisarnavanaya Forest Hermitage."
+  },
+  {
+   "t": 15.0,
+   "end": 27.62,
+   "text": "They were translated into English by the same Venerable monk, presently residing at Potkulkala Forest Hermitage in Khandagedra, Devalagam."
+  },
+  {
+   "t": 27.62,
+   "end": 36.82,
+   "text": "Namo Tase Bhagavato Arahato Samma Sambuddhase"
+  },
+  {
+   "t": 36.82,
+   "end": 45.7,
+   "text": "Namo Tase Bhagavato Arahato Samma Sambuddhase"
+  },
+  {
+   "t": 45.7,
+   "end": 54.52,
+   "text": "Namo Tase Bhagavato Arahato Samma Sambuddhase"
+  },
+  {
+   "t": 68.0,
+   "end": 80.22,
+   "text": "This is peaceful, this is excellent, namely the stealing of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 81.08,
+   "end": 88.62,
+   "text": "With the permission of the assembly of the Venerable Meditative Monks, this is the 30th sermon in the series of sermons on Nibbana."
+  },
+  {
+   "t": 89.44,
+   "end": 105.2,
+   "text": "In our previous sermon, we discussed the way of liberating the mind from the grip of thoughts which are comparable to the army of Mars by means of the gradual and systematic mode of practice based on the twin principles of pragmatism and relativity."
+  },
+  {
+   "t": 105.2,
+   "end": 122.8,
+   "text": "He also made an attempt to understand why the Arahato Samadhi of the Aram, who arrives at the non-prolific state by gradually attenuating cravings, conceits and films, comes to be called Avitaka Samadhi, thoughtless concentration."
+  },
+  {
+   "t": 122.8,
+   "end": 128.76,
+   "text": "This Avitaka Samadhi is the noble silence in its highest sense."
+  },
+  {
+   "t": 129.66,
+   "end": 135.44,
+   "text": "It is not the temporary subsidence of thinking and pondering as in tranquility meditation."
+  },
+  {
+   "t": 135.44,
+   "end": 143.14,
+   "text": "It goes deeper in that it routs the hosts of Mara at their very citadel, as it were, by penetrative vista."
+  },
+  {
+   "t": 143.14,
+   "end": 157.12,
+   "text": "The other day, with special reference to the Sakha Panya Sutra in the Deeganikai, we outlined in brief a path of practice gradually tending towards the cessation of reckonings born of prolific perception."
+  },
+  {
+   "t": 157.96,
+   "end": 170.98,
+   "text": "That discourse expounds a happiness and unhappiness and an equanimity to be pursued, and a happiness and unhappiness and an equanimity not to be pursued."
+  },
+  {
+   "t": 170.98,
+   "end": 180.46,
+   "text": "We get a clear enunciation of these two kinds of happiness, unhappiness and equanimity, in the Salayadhani Bhangasutta of the Madhyamika."
+  },
+  {
+   "t": 181.04,
+   "end": 194.6,
+   "text": "In that discourse, the Buddha gives an exposition of 36 pathways of thoughts of beings, under the heading Chattingsasattapada, literally 36 steps of beings."
+  },
+  {
+   "t": 195.1,
+   "end": 197.18,
+   "text": "They are listed as follows."
+  },
+  {
+   "t": 221.92,
+   "end": 226.42,
+   "text": "1. Chagyeha Sittani Somanasthani"
+  },
+  {
+   "t": 226.42,
+   "end": 255.44,
+   "text": "6. Chagyeha Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sittani Sitt"
+  },
+  {
+   "t": 260.36,
+   "end": 265.46,
+   "text": "Now in order to acquaint ourselves with the six kinds of happiness based on the household"
+  },
+  {
+   "t": 265.46,
+   "end": 270.9,
+   "text": "life, let us try to understand the definition of the first kind, that is to say, formed"
+  },
+  {
+   "t": 270.9,
+   "end": 272.26,
+   "text": "as the object of the eye."
+  },
+  {
+   "t": 298.16,
+   "end": 301.44,
+   "text": "When one regards as an acquisition,"
+  },
+  {
+   "t": 301.44,
+   "end": 308.8,
+   "text": "an acquisition of forms cognizable by the eye, that are desirable, charming, agreeable,"
+  },
+  {
+   "t": 309.4,
+   "end": 316.66,
+   "text": "delightful, connected with worldly gains, or when one recalls what was formerly acquired"
+  },
+  {
+   "t": 316.66,
+   "end": 320.92,
+   "text": "that has passed, ceased, and changed, happiness arises."
+  },
+  {
+   "t": 321.46,
+   "end": 326.02,
+   "text": "Such happiness as this is called happiness based on the household life."
+  },
+  {
+   "t": 327.0,
+   "end": 330.56,
+   "text": "The happiness based on renunciation is defined as follows."
+  },
+  {
+   "t": 361.44,
+   "end": 369.3,
+   "text": "And cessation of forms, one sees as it actually is the trite wisdom, that forms both formerly"
+  },
+  {
+   "t": 369.3,
+   "end": 373.8,
+   "text": "and now, are all impermanent, suffering, and subject to change."
+  },
+  {
+   "t": 374.22,
+   "end": 375.18,
+   "text": "Happiness arises."
+  },
+  {
+   "t": 375.6,
+   "end": 379.58,
+   "text": "Such happiness as this is called happiness based on renunciation."
+  },
+  {
+   "t": 380.96,
+   "end": 386.1,
+   "text": "Then the unhappiness based on the household life is explained in the following verse."
+  },
+  {
+   "t": 412.72,
+   "end": 416.08,
+   "text": "When one regards as a non-acquisition, the non-acquisition, the non-acquisition, the non-acquisition, the non-acquisition,"
+  },
+  {
+   "t": 416.08,
+   "end": 422.46,
+   "text": "non-acquisition of forms cognizable by the eye that are desirable, charming, agreeable,"
+  },
+  {
+   "t": 422.56,
+   "end": 428.56,
+   "text": "delightful, connected with worldly gains. For when one recalls what was formerly not acquired"
+  },
+  {
+   "t": 428.56,
+   "end": 435.94,
+   "text": "that has passed, ceased and changed, unhappiness arises. Such unhappiness as this is called"
+  },
+  {
+   "t": 435.94,
+   "end": 442.16,
+   "text": "unhappiness based on the household life. The description of unhappiness based on renunciation"
+  },
+  {
+   "t": 442.16,
+   "end": 446.88,
+   "text": "has a special significance to inside meditation. It runs,"
+  },
+  {
+   "t": 446.88,
+   "end": 454.04,
+   "text": "and in the form of unhappiness based on bhanamam, can check the most atención to this"
+  },
+  {
+   "t": 454.04,
+   "end": 474.88,
+   "text": "as well as that is in the form of unhappiness. And in the form of unhappiness, we are"
+  },
+  {
+   "t": 490.68,
+   "end": 504.8,
+   "text": "When by knowing the impermanence, change, fading away, and cessation of forms, one sees as it actually is the trite system that forms both formerly and now are all impermanent."
+  },
+  {
+   "t": 504.88,
+   "end": 531.3,
+   "text": "Suffering and subject to change, one arouses a longing for the supreme deliverances. Thus, when shall I enter upon and abide in that sphere that the noble ones now enter upon and abide in? In one who arouses such a longing for the supreme deliverances, unhappiness arises, conditioned by that longing. Such unhappiness as this is called unhappiness based on renounces."
+  },
+  {
+   "t": 531.3,
+   "end": 543.1,
+   "text": "The description of unhappiness based on renunciation brings up some important terms worth discussing."
+  },
+  {
+   "t": 543.1,
+   "end": 555.36,
+   "text": "Anuttarese Vimokkesu is a reference to the three supreme deliverances known as Animitta, the signless, Appanimitta, the undirected, and Sunyata, the void."
+  },
+  {
+   "t": 556.28,
+   "end": 563.18,
+   "text": "The reference to an ayatana, sphere, in this passage is particularly noteworthy."
+  },
+  {
+   "t": 564.32,
+   "end": 575.26,
+   "text": "The sphere that the noble ones enter upon and abiding is none other than the sphere alluded to in the famous Sutton Nibbana in the Udana, beginning with"
+  },
+  {
+   "t": 575.26,
+   "end": 579.62,
+   "text": "atti bhi kriyata da ayatana, yatha neema patavina apu, etc."
+  },
+  {
+   "t": 580.62,
+   "end": 584.68,
+   "text": "Amongst there is that sphere in which there is neither earth nor water, etc."
+  },
+  {
+   "t": 585.82,
+   "end": 591.58,
+   "text": "We have pointed out that it is a reference to the cessation of the six-sense spheres as a realization."
+  },
+  {
+   "t": 592.52,
+   "end": 599.1,
+   "text": "So the sphere that the noble ones enter on and abiding is the very cessation of the six-sense spheres."
+  },
+  {
+   "t": 600.0,
+   "end": 605.52,
+   "text": "In the same Sutra passage in the Udhāna, we came across the three terms"
+  },
+  {
+   "t": 605.52,
+   "end": 613.08,
+   "text": "the unestablished, the non-continuing, and the objectless,"
+  },
+  {
+   "t": 613.28,
+   "end": 617.16,
+   "text": "which we identified as allusions to the three deliverances."
+  },
+  {
+   "t": 618.34,
+   "end": 625.2,
+   "text": "The word vyā, Sanskrit spruha, longing, desire, occurring in this context,"
+  },
+  {
+   "t": 625.2,
+   "end": 632.52,
+   "text": "shows that there need not be any hesitation in using words implying desire in connection with nībhāna."
+  },
+  {
+   "t": 633.68,
+   "end": 637.44,
+   "text": "It is true that such a desire or longing for nībhāna makes one unhappy,"
+  },
+  {
+   "t": 637.7,
+   "end": 642.76,
+   "text": "but that unhappiness is preferable to the unhappiness based on the household life."
+  },
+  {
+   "t": 643.24,
+   "end": 647.88,
+   "text": "That is why it is upgraded here as unhappiness based on renunciation."
+  },
+  {
+   "t": 649.26,
+   "end": 655.12,
+   "text": "So far we have quoted instances of the six kinds of happiness based on the household life"
+  },
+  {
+   "t": 658.02,
+   "end": 661.52,
+   "text": "The six kinds of happiness based on renunciation"
+  },
+  {
+   "t": 661.52,
+   "end": 667.98,
+   "text": "The six kinds of unhappiness based on the household life"
+  },
+  {
+   "t": 667.98,
+   "end": 673.54,
+   "text": "And the six kinds of unhappiness based on renunciation"
+  },
+  {
+   "t": 676.5,
+   "end": 680.38,
+   "text": "The six innate case refers to the objects of the six senses."
+  },
+  {
+   "t": 681.1,
+   "end": 687.04,
+   "text": "Now let us take up a paradigm to understand the six kinds of humanity based on the household life"
+  },
+  {
+   "t": 711.58,
+   "end": 716.66,
+   "text": "On seeing a form with yā, equanimity arises in a foolish,"
+  },
+  {
+   "t": 717.88,
+   "end": 722.72,
+   "text": "infatuated whirling, in an untaught whirling who has not conquered his limitations,"
+  },
+  {
+   "t": 723.34,
+   "end": 728.04,
+   "text": "who has not conquered the results of kham, and who is not aware of the danger."
+  },
+  {
+   "t": 728.54,
+   "end": 735.32,
+   "text": "Such equanimity as this does not transcend form, that is why it is called equanimity based on the household life."
+  },
+  {
+   "t": 736.3,
+   "end": 742.6,
+   "text": "The equanimity of a whirling, untaught in the dham, who has not conquered limitations and defilements,"
+  },
+  {
+   "t": 742.82,
+   "end": 748.48,
+   "text": "and who has not conquered the results of kham, is incapable of transcending form."
+  },
+  {
+   "t": 749.04,
+   "end": 751.7,
+   "text": "This equanimity is accompanied by ignorance."
+  },
+  {
+   "t": 753.12,
+   "end": 756.5,
+   "text": "Then comes the description of equanimity based on renunciation"
+  },
+  {
+   "t": 758.5,
+   "end": 786.48,
+   "text": "which is the same, it is called equanimity based on renunciation"
+  },
+  {
+   "t": 786.48,
+   "end": 792.68,
+   "text": "fading away, and cessation of forms. One sees as it actually is with right wisdom,"
+  },
+  {
+   "t": 793.58,
+   "end": 799.02,
+   "text": "that forms both formerly and now are all impermanent, suffering, and subject to change."
+  },
+  {
+   "t": 799.68,
+   "end": 805.6,
+   "text": "Equanimity arises. Such equanimity as this transcends form. That is why it is called"
+  },
+  {
+   "t": 805.6,
+   "end": 812.6,
+   "text": "equanimity based on realization. The same kind of reflection on impermanence upon occasion gives"
+  },
+  {
+   "t": 812.6,
+   "end": 818.64,
+   "text": "rise to happiness, unhappiness, and equanimity, according to the attitude taken now."
+  },
+  {
+   "t": 819.48,
+   "end": 825.64,
+   "text": "Unlike the equanimity born of ignorance, this equanimity born of right wisdom transcends form."
+  },
+  {
+   "t": 826.12,
+   "end": 829.04,
+   "text": "That is why it is called equanimity based on renunciation."
+  },
+  {
+   "t": 830.64,
+   "end": 837.68,
+   "text": "The Buddha speaks about all the 36 objects of sense, out of which we brought up as a paradigm,"
+  },
+  {
+   "t": 837.68,
+   "end": 846.64,
+   "text": "illustration given about the visual object form. These 36 are called the 36 pathways of beings,"
+  },
+  {
+   "t": 846.94,
+   "end": 852.2,
+   "text": "chhattinsa sattapada, in the sense that they depict the thought patterns of beings."
+  },
+  {
+   "t": 853.0,
+   "end": 859.3,
+   "text": "In this discourse, the Buddha proclaims the basic maxim he employs in gradually channeling the thought"
+  },
+  {
+   "t": 859.3,
+   "end": 868.24,
+   "text": "processes of being towards nimbana, along these 36 pathways. The maxim is summed up in the following words."
+  },
+  {
+   "t": 872.8,
+   "end": 880.88,
+   "text": "Therein, depending on this, abandon this. This maxim has some affinity to the"
+  },
+  {
+   "t": 880.88,
+   "end": 889.02,
+   "text": "path of the formula. This being, this arises. In fact, this is a practical application of the same formula."
+  },
+  {
+   "t": 889.72,
+   "end": 896.66,
+   "text": "In the context of the path of practice, the dependence on one thing is for the purpose of abandoning another."
+  },
+  {
+   "t": 897.64,
+   "end": 905.26,
+   "text": "There is an attitude of detachment in this cause of practice. Based on this maxim, the Buddha outlines"
+  },
+  {
+   "t": 905.26,
+   "end": 913.22,
+   "text": "the way in which he guides one towards Nibbana in four stages. The first stage in the gradual path"
+  },
+  {
+   "t": 913.22,
+   "end": 915.92,
+   "text": "towards Nibbana is described as follows."
+  },
+  {
+   "t": 936.92,
+   "end": 943.78,
+   "text": "Therein marks, by depending on and relying on the six kinds of happiness based on renunciation,"
+  },
+  {
+   "t": 944.56,
+   "end": 950.62,
+   "text": "Abandon and transcend the six kinds of happiness based on the household life. That is how they"
+  },
+  {
+   "t": 950.62,
+   "end": 957.84,
+   "text": "are abandoned. That is how they are transcended. In the same way, by depending on the six kinds of"
+  },
+  {
+   "t": 957.84,
+   "end": 965.4,
+   "text": "unhappiness based on renunciation, the six kinds of unhappiness based on the household life are abandoned."
+  },
+  {
+   "t": 966.44,
+   "end": 976.1,
+   "text": "Also, by depending on the six kinds of equanimity based on the household life are abandoned."
+  },
+  {
+   "t": 977.74,
+   "end": 985.12,
+   "text": "So, at the end of the first stage, what are left with? All what is based on the household life is left"
+  },
+  {
+   "t": 985.12,
+   "end": 992.9,
+   "text": "behind. And only the six kinds of happiness based on renunciation, the six kinds of unhappiness based on"
+  },
+  {
+   "t": 992.9,
+   "end": 1000.84,
+   "text": "renunciation and the six kinds of equanimity based on renunciation remain. This is the position at the"
+  },
+  {
+   "t": 1000.84,
+   "end": 1008.02,
+   "text": "end of the first stage. Then in the second stage, a subtler and more refined level of experience is"
+  },
+  {
+   "t": 1008.02,
+   "end": 1017.68,
+   "text": "in that. Out of the three types of mental states based on renunciation, firstly, the six kinds of unhappiness"
+  },
+  {
+   "t": 1017.68,
+   "end": 1025.28,
+   "text": "based on renunciation are abandoned by the six kinds of happiness based on renunciation. Then the six"
+  },
+  {
+   "t": 1025.28,
+   "end": 1031.8,
+   "text": "kinds of happiness based on renunciation are abandoned by the six kinds of equanimity based on renunciation."
+  },
+  {
+   "t": 1033.04,
+   "end": 1040.2,
+   "text": "To the extent that all the above three mental states are based on renunciation, they are of a peace with"
+  },
+  {
+   "t": 1040.2,
+   "end": 1049.24,
+   "text": "each other. Also, it is the same mode of insightful reflection that gives rise to them. However, as"
+  },
+  {
+   "t": 1049.24,
+   "end": 1057.36,
+   "text": "attitudes, happiness is subtler and more excellent than unhappiness and equanimity is subtler and more"
+  },
+  {
+   "t": 1057.36,
+   "end": 1066.18,
+   "text": "excellent than happiness since it is nearer to wisdom. So, in the second stage, we see a gradual procedure"
+  },
+  {
+   "t": 1066.18,
+   "end": 1073.7,
+   "text": "arriving at a subtler and more excellent stage even in the case of those three mental states based on"
+  },
+  {
+   "t": 1073.7,
+   "end": 1080.46,
+   "text": "renunciation. By the end of the second stage, only equanimity based on renunciation remains."
+  },
+  {
+   "t": 1082.14,
+   "end": 1088.94,
+   "text": "Now comes the third stage. Here the Buddha points out that in the case of equanimity there can be two"
+  },
+  {
+   "t": 1090.08,
+   "end": 1098.08,
+   "text": "varieties. Ativikve upekha nanata nanata sita, ativikve upekha ekata ekata sita."
+  },
+  {
+   "t": 1099.66,
+   "end": 1106.8,
+   "text": "There is months an equanimity that is diversified based on diversity and there is an equanimity that is"
+  },
+  {
+   "t": 1106.8,
+   "end": 1116.48,
+   "text": "unified based on unity. What is that equanimity that is diversified? It is defined as equanimity"
+  },
+  {
+   "t": 1116.48,
+   "end": 1122.94,
+   "text": "regarding the objects of the five external senses, that is to say equanimity regarding forms,"
+  },
+  {
+   "t": 1123.54,
+   "end": 1133.48,
+   "text": "sounds, smells, flavors and tangibles. Equanimity that is unified is defined with reference to the"
+  },
+  {
+   "t": 1133.48,
+   "end": 1140.74,
+   "text": "immaterial realms, namely the sphere of infinity of space, the sphere of infinity of consciousness,"
+  },
+  {
+   "t": 1140.74,
+   "end": 1146.86,
+   "text": "the sphere of nothingness and the sphere of neither perception nor non-perception."
+  },
+  {
+   "t": 1148.64,
+   "end": 1155.22,
+   "text": "Now in the case of these two types of equanimity, the Buddha points out a way of abandoning the"
+  },
+  {
+   "t": 1155.22,
+   "end": 1159.68,
+   "text": "equanimity based on diversity with the help of the equanimity based on unity."
+  },
+  {
+   "t": 1161.36,
+   "end": 1168.92,
+   "text": "As equanimity both types are commendable but that which is diversified and based on diversity is"
+  },
+  {
+   "t": 1168.92,
+   "end": 1178.14,
+   "text": "grosser. Equanimity that is unified and based on unity is subtler and more excellent. So the equanimity"
+  },
+  {
+   "t": 1178.14,
+   "end": 1185.26,
+   "text": "based on diversity is abandoned and transcended by the equanimity that is unified based on unity."
+  },
+  {
+   "t": 1186.66,
+   "end": 1194.5,
+   "text": "This is the end of the third stage. In the fourth stage we are left with only that equanimity that is"
+  },
+  {
+   "t": 1194.5,
+   "end": 1199.28,
+   "text": "based on unity. It is experienced in the higher ranks of meditation."
+  },
+  {
+   "t": 1199.28,
+   "end": 1199.68,
+   "text": "Last stage we are left with only that..."
+  },
+  {
+   "t": 1199.68,
+   "end": 1199.98,
+   "text": "is"
+  },
+  {
+   "t": 1200.0,
+   "end": 1203.9,
+   "text": "But here too, the Buddha adopates the prudent cause of action."
+  },
+  {
+   "t": 1204.76,
+   "end": 1208.24,
+   "text": "In fact, it is here that the deepest practical hint is given."
+  },
+  {
+   "t": 1225.12,
+   "end": 1234.5,
+   "text": "Months, by depending and relying on non-identification, abandon and transcend the equanimity that is unified, based on unity."
+  },
+  {
+   "t": 1234.74,
+   "end": 1236.46,
+   "text": "That is how it is abandoned."
+  },
+  {
+   "t": 1236.62,
+   "end": 1237.88,
+   "text": "That is how it is transcend."
+  },
+  {
+   "t": 1239.62,
+   "end": 1244.52,
+   "text": "Atam-meta is a term we have already discussed at length in our earlier sermons."
+  },
+  {
+   "t": 1245.04,
+   "end": 1249.14,
+   "text": "Its importance has not been sufficiently recognized in our tradition."
+  },
+  {
+   "t": 1250.56,
+   "end": 1263.32,
+   "text": "As we pointed out, the word tammayo, literally of deadness, could be explained with reference to such usages as suvandamaya and rajatamaya, golden and silver."
+  },
+  {
+   "t": 1263.98,
+   "end": 1266.84,
+   "text": "How does this of deadness come by?"
+  },
+  {
+   "t": 1269.16,
+   "end": 1278.52,
+   "text": "If, for instance, one who has attained the infinity of space as a meditative experience identifies himself with it, with the conceit,"
+  },
+  {
+   "t": 1278.52,
+   "end": 1283.72,
+   "text": "esu hamasmi, this am I, there is that tammeta coming in."
+  },
+  {
+   "t": 1283.72,
+   "end": 1292.76,
+   "text": "It is a subtle grasping. It is a subtle grasping, or in other words, a me-thinking, manyana, imagining oneself to be one with dyadic experience."
+  },
+  {
+   "t": 1292.76,
+   "end": 1303.52,
+   "text": "So the Buddha's advice is to abandon and transcend even the equanimity based on unity, by resorting to the maximum of atam-meta, non-identification."
+  },
+  {
+   "t": 1305.46,
+   "end": 1316.08,
+   "text": "The subtle conceit M, asmi, is that trace of grasping, which one tries to sit pretty on that which is impermanent and changing."
+  },
+  {
+   "t": 1316.08,
+   "end": 1320.34,
+   "text": "It is the most fundamental assertion of existence, which is the most fundamental assertion of existence."
+  },
+  {
+   "t": 1321.64,
+   "end": 1331.38,
+   "text": "In the Sappurisa Sutta of Dhammajimani Kaya, we get a good illustration of the application of this principle of retouchment, made known by the Buddha."
+  },
+  {
+   "t": 1333.38,
+   "end": 1361.26,
+   "text": "Sappurisa Sutta of Dhammajimani Kaya, we get a good illustration of the Buddha."
+  },
+  {
+   "t": 1362.54,
+   "end": 1365.3,
+   "text": "But a good man, monks, considers that."
+  },
+  {
+   "t": 1365.9,
+   "end": 1374.46,
+   "text": "Non-identification, even with the attainment of the sphere of neither perception nor perception, has been declared by the fortunate one,"
+  },
+  {
+   "t": 1374.68,
+   "end": 1380.28,
+   "text": "in such terms as, in whatever way they imagine, thereby it turns otherwise."
+  },
+  {
+   "t": 1380.28,
+   "end": 1394.7,
+   "text": "So he takes into account that very non-identification and neither exalts himself nor disparages others because of his attainment of the sphere of neither perception nor non-perception."
+  },
+  {
+   "t": 1394.96,
+   "end": 1397.24,
+   "text": "This two monks is the nature of a good man."
+  },
+  {
+   "t": 1397.24,
+   "end": 1403.52,
+   "text": "In the Sappurisa Sutta, the Buddha expounds the characteristics of a good man."
+  },
+  {
+   "t": 1404.56,
+   "end": 1412.62,
+   "text": "In this context, the term Sappurisa, a good man, is used exclusively to represent a noble disciple, Ariya Sava."
+  },
+  {
+   "t": 1413.28,
+   "end": 1420.98,
+   "text": "A noble disciple does not look upon his jhanic attainment in the same way as an ordinary meditator attaining jhanu."
+  },
+  {
+   "t": 1420.98,
+   "end": 1423.42,
+   "text": "His point of view is different."
+  },
+  {
+   "t": 1424.36,
+   "end": 1426.82,
+   "text": "This discourse explains this viewpoint."
+  },
+  {
+   "t": 1427.9,
+   "end": 1439.96,
+   "text": "A good man reflects wisely, according to the advice given by the Buddha, to the effect that even to the higher jhanic attainment of neither perception nor non-perception,"
+  },
+  {
+   "t": 1439.96,
+   "end": 1443.86,
+   "text": "the principle of non-identification must be applied."
+  },
+  {
+   "t": 1444.4,
+   "end": 1447.0,
+   "text": "Recalling the maxim made known by the Buddha,"
+  },
+  {
+   "t": 1447.84,
+   "end": 1451.34,
+   "text": "jena jena hi manyanti tato taṅho ti anyata."
+  },
+  {
+   "t": 1451.64,
+   "end": 1455.46,
+   "text": "In whatever way they imagine, thereby it turns otherwise."
+  },
+  {
+   "t": 1456.76,
+   "end": 1459.48,
+   "text": "This is a maxim we had discussed earlier too."
+  },
+  {
+   "t": 1460.44,
+   "end": 1462.18,
+   "text": "Manyana is egoistic imagining."
+  },
+  {
+   "t": 1462.18,
+   "end": 1469.18,
+   "text": "When one thinks in egoistic terms about something, by that very me-thinking it turns otherwise."
+  },
+  {
+   "t": 1470.42,
+   "end": 1472.9,
+   "text": "Due to egoistic imagining, it becomes a thing."
+  },
+  {
+   "t": 1473.54,
+   "end": 1479.12,
+   "text": "And once it becomes a thing, it is bound to change and become another."
+  },
+  {
+   "t": 1481.2,
+   "end": 1491.18,
+   "text": "The good man calls to mind that mixing, that no, and refrains from exalting himself and disparaging others on account of his attainment."
+  },
+  {
+   "t": 1491.7,
+   "end": 1494.24,
+   "text": "He does not identify himself with it."
+  },
+  {
+   "t": 1494.6,
+   "end": 1502.0,
+   "text": "From this it becomes clear that atamyattha, or non-identification, is the path to nipa."
+  },
+  {
+   "t": 1504.1,
+   "end": 1511.84,
+   "text": "So the Buddha gradually channelizes the pathways of thoughts of beings from the grosser to the subtler levels,"
+  },
+  {
+   "t": 1512.04,
+   "end": 1519.38,
+   "text": "and finally tops up by directing them to nibbana through non-identification, atamyata."
+  },
+  {
+   "t": 1519.94,
+   "end": 1523.78,
+   "text": "Non-identification is the watchword for clinging tree, parinibbana."
+  },
+  {
+   "t": 1525.2,
+   "end": 1531.92,
+   "text": "The dictum, tatra idam nissa idam pajahata, therein, depending on this, abandon this,"
+  },
+  {
+   "t": 1532.68,
+   "end": 1535.72,
+   "text": "which the Buddha expounds in the Salahat Nabi Bhangasutta,"
+  },
+  {
+   "t": 1536.16,
+   "end": 1542.66,
+   "text": "portrays a duality between attention, manasikara, and inattention, amanasikara."
+  },
+  {
+   "t": 1543.9,
+   "end": 1551.12,
+   "text": "That is to say, the basic principle in this dictum is the method of encouraging inattention to grosser things"
+  },
+  {
+   "t": 1551.12,
+   "end": 1554.32,
+   "text": "by recommending a way of attending to subtler things."
+  },
+  {
+   "t": 1555.56,
+   "end": 1562.28,
+   "text": "So it seems both attention and inattention are given an importance in this procedure."
+  },
+  {
+   "t": 1563.02,
+   "end": 1568.54,
+   "text": "In order to eliminate one thing by inattention, attention to some other thing is recommended."
+  },
+  {
+   "t": 1569.2,
+   "end": 1574.7,
+   "text": "For the purpose of inattention to something gross, attention to something subtle is taken off."
+  },
+  {
+   "t": 1574.7,
+   "end": 1577.28,
+   "text": "But that is not the end of it."
+  },
+  {
+   "t": 1577.54,
+   "end": 1580.6,
+   "text": "Even that is expelled with the help of something subtle."
+  },
+  {
+   "t": 1581.76,
+   "end": 1587.92,
+   "text": "Here we have a wonderful technique based on the twin principles of pragmatism and relativity."
+  },
+  {
+   "t": 1589.64,
+   "end": 1594.16,
+   "text": "These two terms comprehend the entire gamut of the path of practicing Buddhism."
+  },
+  {
+   "t": 1596.2,
+   "end": 1598.74,
+   "text": "Pragmatic means for some practical purpose."
+  },
+  {
+   "t": 1599.22,
+   "end": 1601.84,
+   "text": "Relative means in relation to something else."
+  },
+  {
+   "t": 1601.84,
+   "end": 1607.22,
+   "text": "That is, as a means to a name, and not absolutely as an ending itself."
+  },
+  {
+   "t": 1608.0,
+   "end": 1613.38,
+   "text": "So in this system of practice, everything has a pragmatic and a relative value."
+  },
+  {
+   "t": 1615.34,
+   "end": 1620.9,
+   "text": "A question of attention and inattention has also to be understood in that background."
+  },
+  {
+   "t": 1621.56,
+   "end": 1626.6,
+   "text": "A clear illustration of the method of elimination of grosser mental states"
+  },
+  {
+   "t": 1626.6,
+   "end": 1632.02,
+   "text": "with the help of subtler mental states by attention and inattention"
+  },
+  {
+   "t": 1632.02,
+   "end": 1635.58,
+   "text": "comes in the Vitakasantana Sutra of the Majjhmanikara."
+  },
+  {
+   "t": 1637.14,
+   "end": 1641.6,
+   "text": "There the Buddha explains this method making use of a simile of a carpenter."
+  },
+  {
+   "t": 1643.26,
+   "end": 1646.76,
+   "text": "When the thought of the Buddha is present, this is a simple subject to one another."
+  },
+  {
+   "t": 1648.56,
+   "end": 1655.0,
+   "text": "Even the truth and the truth in the world is a problem."
+  },
+  {
+   "t": 1655.54,
+   "end": 1656.02,
+   "text": "However, there is no human being on the inside of the tribune."
+  },
+  {
+   "t": 1656.02,
+   "end": 1661.92,
+   "text": "There is a human being on the inside of the family."
+  },
+  {
+   "t": 1662.04,
+   "end": 1665.46,
+   "text": "There is aguard in the inside of the bodies that we have not to be understood in their bodies."
+  },
+  {
+   "t": 1665.46,
+   "end": 1666.3,
+   "text": "Here is a good intention of the nature,"
+  },
+  {
+   "t": 1666.4,
+   "end": 1669.88,
+   "text": "but could not be understood as an individual being,"
+  },
+  {
+   "t": 1669.88,
+   "end": 1671.38,
+   "text": "but that is not that way in the body of the body that is in the body of the body,"
+  },
+  {
+   "t": 1677.84,
+   "end": 1687.76,
+   "text": "Just as monks, a skilled carpenter or his apprentice might knock out, draw out and remove a cause"
+  },
+  {
+   "t": 1687.76,
+   "end": 1695.56,
+   "text": "pegged by means of a fine monk. Even so monks, when a monk finds that due to some sign, by"
+  },
+  {
+   "t": 1695.56,
+   "end": 1704.48,
+   "text": "attending to some sign, there arise in him evil unskillful thoughts connected with desire, with hate and with delusion,"
+  },
+  {
+   "t": 1705.26,
+   "end": 1712.56,
+   "text": "that monk, monks should attend to some other sign in its stead, one that has to do with skillful."
+  },
+  {
+   "t": 1713.56,
+   "end": 1716.36,
+   "text": "Now let us try to understand the point of this image."
+  },
+  {
+   "t": 1717.34,
+   "end": 1723.54,
+   "text": "When for instance a carpenter in fitting out a dog finds that he is driving a blunt nail,"
+  },
+  {
+   "t": 1723.54,
+   "end": 1726.74,
+   "text": "he extracts it with the help of a sharper one."
+  },
+  {
+   "t": 1727.34,
+   "end": 1732.22,
+   "text": "He takes up the sharper nail just for the purpose of extracting the blunt nail."
+  },
+  {
+   "t": 1732.66,
+   "end": 1739.58,
+   "text": "So also one resorts to a skillful thought to expel the unskillful thought as a means to an end."
+  },
+  {
+   "t": 1740.72,
+   "end": 1747.24,
+   "text": "This kind of pragmatic and relative approach avoids tenacious grasping and dogmatic involvement."
+  },
+  {
+   "t": 1749.12,
+   "end": 1754.46,
+   "text": "The spirit of the law of dependent arising runs through the entire course of Buddhist practice,"
+  },
+  {
+   "t": 1754.98,
+   "end": 1758.42,
+   "text": "culminating in Atam-meta, non-identification."
+  },
+  {
+   "t": 1760.38,
+   "end": 1765.58,
+   "text": "The two terms, kusala and nakusala, also deserve our special attention in this context."
+  },
+  {
+   "t": 1767.64,
+   "end": 1772.88,
+   "text": "The basic meaning of kusala is skillful, and nakusala means unskillful."
+  },
+  {
+   "t": 1773.86,
+   "end": 1775.98,
+   "text": "Here again we have something relative."
+  },
+  {
+   "t": 1777.28,
+   "end": 1781.7,
+   "text": "Skillful presupposes unskillful and gets a value in relation to the latter."
+  },
+  {
+   "t": 1782.62,
+   "end": 1784.56,
+   "text": "It has no absolute value."
+  },
+  {
+   "t": 1785.9,
+   "end": 1789.9,
+   "text": "We make use of the skillful in order to push away the unskillful."
+  },
+  {
+   "t": 1790.74,
+   "end": 1794.88,
+   "text": "That done, there is no further involvement with it,"
+  },
+  {
+   "t": 1795.26,
+   "end": 1799.42,
+   "text": "as one's last resort is Atam-meta, non-identification."
+  },
+  {
+   "t": 1800.0,
+   "end": 1803.16,
+   "text": "That is why there is no problem of a clogging kanuni."
+  },
+  {
+   "t": 1804.7,
+   "end": 1811.2,
+   "text": "Our discussion of the Salayatana Bhangasutta brings to light another unique feature of this dhamma."
+  },
+  {
+   "t": 1812.36,
+   "end": 1817.74,
+   "text": "In other religious systems, the question of reality is resolved by a timing recourse to unity."
+  },
+  {
+   "t": 1818.74,
+   "end": 1821.46,
+   "text": "Oneness is supposed to be the ultimate goal."
+  },
+  {
+   "t": 1822.7,
+   "end": 1829.04,
+   "text": "In our analysis of the samsaric problem, we often refer to a duality or a dichotomy."
+  },
+  {
+   "t": 1830.42,
+   "end": 1833.08,
+   "text": "Everywhere we were confronted with a duality."
+  },
+  {
+   "t": 1833.94,
+   "end": 1838.56,
+   "text": "But to grasp the two as one in some form of oneness is not the way out."
+  },
+  {
+   "t": 1840.04,
+   "end": 1849.54,
+   "text": "Instead we have here as the final solution, Atam-meta or non-identification, a clinging-free approach in the last analysis."
+  },
+  {
+   "t": 1851.02,
+   "end": 1857.64,
+   "text": "It is in the nature of samsaric existence that beings find themselves bound and fettered."
+  },
+  {
+   "t": 1858.48,
+   "end": 1861.22,
+   "text": "These fetters are called sanjyo-janani."
+  },
+  {
+   "t": 1861.52,
+   "end": 1866.9,
+   "text": "A binding of a fetter implies two, as when two bulls are tied together."
+  },
+  {
+   "t": 1868.0,
+   "end": 1871.44,
+   "text": "The term upadana is also used quite often."
+  },
+  {
+   "t": 1872.3,
+   "end": 1874.76,
+   "text": "It implies holding on to something."
+  },
+  {
+   "t": 1875.84,
+   "end": 1878.02,
+   "text": "There too, the notion of a duality comes in."
+  },
+  {
+   "t": 1878.6,
+   "end": 1880.82,
+   "text": "One who holds and the thing held."
+  },
+  {
+   "t": 1881.98,
+   "end": 1887.94,
+   "text": "It is not at all easy to transcend this duality, characteristic of samsaric existence."
+  },
+  {
+   "t": 1888.62,
+   "end": 1890.9,
+   "text": "This is the crux of the whole problem."
+  },
+  {
+   "t": 1891.9,
+   "end": 1894.1,
+   "text": "Unity of oneness is not the solution."
+  },
+  {
+   "t": 1894.62,
+   "end": 1897.78,
+   "text": "It has to be solved with extreme judiciousness."
+  },
+  {
+   "t": 1899.2,
+   "end": 1903.48,
+   "text": "In the very first discourse of the samyata-nikai, we get a solution to the problem."
+  },
+  {
+   "t": 1903.94,
+   "end": 1904.64,
+   "text": "Briefly stated."
+  },
+  {
+   "t": 1905.86,
+   "end": 1909.7,
+   "text": "The discourse is called Ogha-Tarna-Sutta, crossing the flag."
+  },
+  {
+   "t": 1911.28,
+   "end": 1915.0,
+   "text": "And it was given pride of place probably because of its importance."
+  },
+  {
+   "t": 1916.8,
+   "end": 1918.54,
+   "text": "A deity comes and asks the Buddha,"
+  },
+  {
+   "t": 1919.16,
+   "end": 1921.14,
+   "text": "Atam-ma-twang-maris-a-Ogha-ngatari."
+  },
+  {
+   "t": 1922.0,
+   "end": 1924.56,
+   "text": "How did you, sir, cross the flag?"
+  },
+  {
+   "t": 1925.82,
+   "end": 1927.3,
+   "text": "And the Buddha answers,"
+  },
+  {
+   "t": 1932.46,
+   "end": 1936.52,
+   "text": "Without tearing friend and without hurrying did I cross the flag?"
+  },
+  {
+   "t": 1938.36,
+   "end": 1942.08,
+   "text": "But the deity finding the answer too enigmatic asks,"
+  },
+  {
+   "t": 1947.36,
+   "end": 1950.1,
+   "text": "But how exactly is it, sir,"
+  },
+  {
+   "t": 1950.1,
+   "end": 1953.84,
+   "text": "That you cross the flag without tearing and without hurrying?"
+  },
+  {
+   "t": 1954.92,
+   "end": 1957.78,
+   "text": "Then the Buddha makes an explanatory statement."
+  },
+  {
+   "t": 1959.0,
+   "end": 1961.36,
+   "text": "Yadaswa-hang-a-uso-santittami"
+  },
+  {
+   "t": 1961.36,
+   "end": 1963.34,
+   "text": "Tadaso-sansidami"
+  },
+  {
+   "t": 1963.34,
+   "end": 1965.96,
+   "text": "Yadaswa-hang-a-uso-ayuhami"
+  },
+  {
+   "t": 1965.96,
+   "end": 1967.8,
+   "text": "Tadaso-nibbuihami"
+  },
+  {
+   "t": 1967.8,
+   "end": 1972.84,
+   "text": "Evankwa-hang-a-uso-appakittam-anayuham-ogha-ngatari"
+  },
+  {
+   "t": 1974.42,
+   "end": 1976.5,
+   "text": "When my friend tarried"
+  },
+  {
+   "t": 1976.5,
+   "end": 1978.58,
+   "text": "I found myself sinking"
+  },
+  {
+   "t": 1978.58,
+   "end": 1980.92,
+   "text": "When my friend hurried"
+  },
+  {
+   "t": 1980.92,
+   "end": 1982.38,
+   "text": "I got swept away"
+  },
+  {
+   "t": 1982.38,
+   "end": 1983.7,
+   "text": "And so, friend,"
+  },
+  {
+   "t": 1984.14,
+   "end": 1986.22,
+   "text": "Without tearing and without hurrying"
+  },
+  {
+   "t": 1986.22,
+   "end": 1987.32,
+   "text": "Did I cross the flag"
+  },
+  {
+   "t": 1988.64,
+   "end": 1990.44,
+   "text": "Then the deity being pleased"
+  },
+  {
+   "t": 1990.44,
+   "end": 1992.6,
+   "text": "Uttered the following verse in approbation"
+  },
+  {
+   "t": 2005.1,
+   "end": 2006.88,
+   "text": "Oh, what length of time"
+  },
+  {
+   "t": 2006.88,
+   "end": 2007.96,
+   "text": "Since I beheld"
+  },
+  {
+   "t": 2007.96,
+   "end": 2009.96,
+   "text": "A saint with all his passion's quill"
+  },
+  {
+   "t": 2009.96,
+   "end": 2011.42,
+   "text": "Who neither tearing"
+  },
+  {
+   "t": 2011.42,
+   "end": 2012.54,
+   "text": "Know it, hurrying"
+  },
+  {
+   "t": 2012.54,
+   "end": 2014.5,
+   "text": "Has crossed the world's viscosity"
+  },
+  {
+   "t": 2014.5,
+   "end": 2015.2,
+   "text": "Grave"
+  },
+  {
+   "t": 2017.22,
+   "end": 2019.3,
+   "text": "This discourse on crossing the flag"
+  },
+  {
+   "t": 2019.3,
+   "end": 2021.24,
+   "text": "Reveals some salient features"
+  },
+  {
+   "t": 2021.24,
+   "end": 2022.14,
+   "text": "Of the middle path"
+  },
+  {
+   "t": 2023.26,
+   "end": 2025.68,
+   "text": "If a person caught up in a water current"
+  },
+  {
+   "t": 2025.68,
+   "end": 2026.82,
+   "text": "Tries to stay still"
+  },
+  {
+   "t": 2026.82,
+   "end": 2027.78,
+   "text": "He will sink"
+  },
+  {
+   "t": 2029.06,
+   "end": 2031.2,
+   "text": "If he simply struggles to escape"
+  },
+  {
+   "t": 2031.2,
+   "end": 2032.46,
+   "text": "He will get swept away"
+  },
+  {
+   "t": 2032.46,
+   "end": 2034.56,
+   "text": "So, like a good swimmer"
+  },
+  {
+   "t": 2034.56,
+   "end": 2036.8,
+   "text": "He has to avoid both extremes"
+  },
+  {
+   "t": 2036.8,
+   "end": 2039.06,
+   "text": "And by means of a mindful"
+  },
+  {
+   "t": 2039.06,
+   "end": 2040.88,
+   "text": "And systematic gradual effort"
+  },
+  {
+   "t": 2040.88,
+   "end": 2042.48,
+   "text": "Work out his freedom"
+  },
+  {
+   "t": 2043.32,
+   "end": 2044.48,
+   "text": "In other words"
+  },
+  {
+   "t": 2044.48,
+   "end": 2045.98,
+   "text": "He has to strive"
+  },
+  {
+   "t": 2045.98,
+   "end": 2046.92,
+   "text": "Not struggle"
+  },
+  {
+   "t": 2048.54,
+   "end": 2050.0,
+   "text": "So, we can understand"
+  },
+  {
+   "t": 2050.0,
+   "end": 2050.86,
+   "text": "Why the Buddha"
+  },
+  {
+   "t": 2050.86,
+   "end": 2052.14,
+   "text": "In his very first sermon"
+  },
+  {
+   "t": 2052.14,
+   "end": 2054.32,
+   "text": "Dhamma-chakka-puh-atana-sut"
+  },
+  {
+   "t": 2054.32,
+   "end": 2056.62,
+   "text": "Discourse on the turning of the wheel"
+  },
+  {
+   "t": 2056.62,
+   "end": 2057.3,
+   "text": "Of Dhamma"
+  },
+  {
+   "t": 2057.3,
+   "end": 2059.38,
+   "text": "Proclaimed as the middle path"
+  },
+  {
+   "t": 2059.38,
+   "end": 2060.82,
+   "text": "The noble eightfold path"
+  },
+  {
+   "t": 2060.82,
+   "end": 2062.72,
+   "text": "Avoiding both extremes"
+  },
+  {
+   "t": 2062.72,
+   "end": 2064.36,
+   "text": "Of attachment to sensuality"
+  },
+  {
+   "t": 2064.36,
+   "end": 2066.44,
+   "text": "Kama-sukhandi-kani-ur"
+  },
+  {
+   "t": 2066.44,
+   "end": 2068.5,
+   "text": "And self-mortification"
+  },
+  {
+   "t": 2068.5,
+   "end": 2069.62,
+   "text": "Of the kilowatt-hawing"
+  },
+  {
+   "t": 2070.3,
+   "end": 2071.1,
+   "text": "Here too"
+  },
+  {
+   "t": 2071.1,
+   "end": 2072.18,
+   "text": "The implication is"
+  },
+  {
+   "t": 2072.18,
+   "end": 2074.28,
+   "text": "That the entire round of existence"
+  },
+  {
+   "t": 2074.28,
+   "end": 2075.42,
+   "text": "Is a water current"
+  },
+  {
+   "t": 2075.42,
+   "end": 2076.84,
+   "text": "To be crossed over"
+  },
+  {
+   "t": 2076.84,
+   "end": 2078.52,
+   "text": "By means of a systematic"
+  },
+  {
+   "t": 2078.52,
+   "end": 2080.22,
+   "text": "And gradual effort"
+  },
+  {
+   "t": 2081.96,
+   "end": 2083.98,
+   "text": "In some of our earlier sermons"
+  },
+  {
+   "t": 2083.98,
+   "end": 2086.18,
+   "text": "While analyzing the law"
+  },
+  {
+   "t": 2086.18,
+   "end": 2087.38,
+   "text": "Of dependent horizon"
+  },
+  {
+   "t": 2087.38,
+   "end": 2089.62,
+   "text": "He made use of the simile"
+  },
+  {
+   "t": 2089.62,
+   "end": 2090.24,
+   "text": "Of the vortex"
+  },
+  {
+   "t": 2090.24,
+   "end": 2091.54,
+   "text": "For easy comprehension"
+  },
+  {
+   "t": 2092.6,
+   "end": 2094.66,
+   "text": "Now, if he are to take it up again"
+  },
+  {
+   "t": 2094.66,
+   "end": 2095.96,
+   "text": "He may say"
+  },
+  {
+   "t": 2095.96,
+   "end": 2098.04,
+   "text": "That it is in the nature of beings"
+  },
+  {
+   "t": 2098.04,
+   "end": 2098.9,
+   "text": "In samsara"
+  },
+  {
+   "t": 2099.54,
+   "end": 2100.88,
+   "text": "To get drifted"
+  },
+  {
+   "t": 2100.88,
+   "end": 2102.18,
+   "text": "By the talent of preparation"
+  },
+  {
+   "t": 2102.18,
+   "end": 2103.1,
+   "text": "Sankhara"
+  },
+  {
+   "t": 2103.1,
+   "end": 2104.56,
+   "text": "Or into ignorance"
+  },
+  {
+   "t": 2104.56,
+   "end": 2105.44,
+   "text": "Aditya"
+  },
+  {
+   "t": 2105.44,
+   "end": 2107.6,
+   "text": "And go on revolving"
+  },
+  {
+   "t": 2107.6,
+   "end": 2108.7,
+   "text": "Between consciousness"
+  },
+  {
+   "t": 2108.7,
+   "end": 2109.7,
+   "text": "Pinyana"
+  },
+  {
+   "t": 2109.7,
+   "end": 2111.04,
+   "text": "And name and form"
+  },
+  {
+   "t": 2111.04,
+   "end": 2114.52,
+   "text": "This ignorance"
+  },
+  {
+   "t": 2114.52,
+   "end": 2115.82,
+   "text": "In the form of the four"
+  },
+  {
+   "t": 2115.82,
+   "end": 2117.12,
+   "text": "Pervert perceptions"
+  },
+  {
+   "t": 2117.12,
+   "end": 2118.14,
+   "text": "Namely"
+  },
+  {
+   "t": 2118.14,
+   "end": 2120.52,
+   "text": "The perception of permanence"
+  },
+  {
+   "t": 2120.52,
+   "end": 2121.6,
+   "text": "In the impermanent"
+  },
+  {
+   "t": 2121.6,
+   "end": 2123.48,
+   "text": "The perception of pleasure"
+  },
+  {
+   "t": 2123.48,
+   "end": 2124.42,
+   "text": "In the painful"
+  },
+  {
+   "t": 2124.42,
+   "end": 2126.36,
+   "text": "The perception of beauty"
+  },
+  {
+   "t": 2126.36,
+   "end": 2127.3,
+   "text": "In the repulsive"
+  },
+  {
+   "t": 2127.3,
+   "end": 2129.16,
+   "text": "And the perception of self"
+  },
+  {
+   "t": 2129.16,
+   "end": 2130.3,
+   "text": "In the not-self"
+  },
+  {
+   "t": 2130.3,
+   "end": 2132.9,
+   "text": "Gives rise to the runaway"
+  },
+  {
+   "t": 2132.9,
+   "end": 2134.12,
+   "text": "Current of water"
+  },
+  {
+   "t": 2134.12,
+   "end": 2136.64,
+   "text": "Which keeps running round and round"
+  },
+  {
+   "t": 2136.64,
+   "end": 2138.38,
+   "text": "Between consciousness and human"
+  },
+  {
+   "t": 2139.16,
+   "end": 2141.06,
+   "text": "This is the samsaric vortex"
+  },
+  {
+   "t": 2142.14,
+   "end": 2142.78,
+   "text": "Samsaravatta"
+  },
+  {
+   "t": 2144.6,
+   "end": 2145.82,
+   "text": "Now, for instance"
+  },
+  {
+   "t": 2146.48,
+   "end": 2148.62,
+   "text": "If we throw even a small leaf"
+  },
+  {
+   "t": 2148.62,
+   "end": 2149.28,
+   "text": "To a spot"
+  },
+  {
+   "t": 2149.28,
+   "end": 2150.74,
+   "text": "Where there is a vortex"
+  },
+  {
+   "t": 2150.74,
+   "end": 2152.98,
+   "text": "It also keeps revolving"
+  },
+  {
+   "t": 2154.22,
+   "end": 2154.86,
+   "text": "Similarly"
+  },
+  {
+   "t": 2154.86,
+   "end": 2157.5,
+   "text": "All over this samsaric existence"
+  },
+  {
+   "t": 2157.5,
+   "end": 2159.54,
+   "text": "Duality holds free"
+  },
+  {
+   "t": 2160.78,
+   "end": 2162.32,
+   "text": "Therefore freedom from it"
+  },
+  {
+   "t": 2162.32,
+   "end": 2163.0,
+   "text": "Can be won"
+  },
+  {
+   "t": 2163.0,
+   "end": 2165.7,
+   "text": "Only by a subtle form of strife"
+  },
+  {
+   "t": 2166.88,
+   "end": 2168.26,
+   "text": "That is why the Buddha"
+  },
+  {
+   "t": 2168.26,
+   "end": 2169.38,
+   "text": "Used the two terms"
+  },
+  {
+   "t": 2170.28,
+   "end": 2170.92,
+   "text": "Appadittam"
+  },
+  {
+   "t": 2170.92,
+   "end": 2171.98,
+   "text": "And Anāluha"
+  },
+  {
+   "t": 2172.9,
+   "end": 2174.26,
+   "text": "Avoiding the two extremes"
+  },
+  {
+   "t": 2174.26,
+   "end": 2175.82,
+   "text": "Of stagnation and struggle"
+  },
+  {
+   "t": 2175.82,
+   "end": 2177.72,
+   "text": "One has to cross the flood"
+  },
+  {
+   "t": 2177.72,
+   "end": 2179.26,
+   "text": "Going the middle way"
+  },
+  {
+   "t": 2180.76,
+   "end": 2182.38,
+   "text": "When the Buddha proclaimed"
+  },
+  {
+   "t": 2182.38,
+   "end": 2184.16,
+   "text": "That freedom can be won"
+  },
+  {
+   "t": 2184.16,
+   "end": 2186.04,
+   "text": "Only by the middle way"
+  },
+  {
+   "t": 2186.04,
+   "end": 2187.76,
+   "text": "Avoiding both extremes"
+  },
+  {
+   "t": 2187.76,
+   "end": 2189.6,
+   "text": "The extremist philosophers"
+  },
+  {
+   "t": 2189.6,
+   "end": 2190.38,
+   "text": "Of his day"
+  },
+  {
+   "t": 2190.38,
+   "end": 2192.36,
+   "text": "Criticised and disparaging"
+  },
+  {
+   "t": 2192.36,
+   "end": 2192.86,
+   "text": "Saying"
+  },
+  {
+   "t": 2193.54,
+   "end": 2194.78,
+   "text": "Then you are preaching"
+  },
+  {
+   "t": 2194.78,
+   "end": 2195.86,
+   "text": "A doctrine of the wilderness"
+  },
+  {
+   "t": 2198.82,
+   "end": 2200.54,
+   "text": "We find such an instance"
+  },
+  {
+   "t": 2200.54,
+   "end": 2201.5,
+   "text": "Of accusation"
+  },
+  {
+   "t": 2201.5,
+   "end": 2203.04,
+   "text": "In the Magandiya Sutta"
+  },
+  {
+   "t": 2203.04,
+   "end": 2203.38,
+   "text": "Of the"
+  },
+  {
+   "t": 2203.38,
+   "end": 2204.44,
+   "text": "Atthaka Vagva"
+  },
+  {
+   "t": 2204.44,
+   "end": 2205.3,
+   "text": "Of the Sutta Nipad"
+  },
+  {
+   "t": 2205.98,
+   "end": 2207.54,
+   "text": "The Brahmin Magandiya"
+  },
+  {
+   "t": 2207.54,
+   "end": 2208.7,
+   "text": "Poses the following question"
+  },
+  {
+   "t": 2208.7,
+   "end": 2209.26,
+   "text": "To the Buddha"
+  },
+  {
+   "t": 2218.74,
+   "end": 2220.08,
+   "text": "That which they call"
+  },
+  {
+   "t": 2220.08,
+   "end": 2221.12,
+   "text": "In what terms"
+  },
+  {
+   "t": 2222.14,
+   "end": 2223.14,
+   "text": "Shall the wise"
+  },
+  {
+   "t": 2223.14,
+   "end": 2224.2,
+   "text": "Proclaim that peace"
+  },
+  {
+   "t": 2226.46,
+   "end": 2227.98,
+   "text": "The Buddha's answer"
+  },
+  {
+   "t": 2227.98,
+   "end": 2229.24,
+   "text": "Took the following form"
+  },
+  {
+   "t": 2260.14,
+   "end": 2266.62,
+   "text": "Neither can it come by without peace, learning and knowledge, without virtue and holibus."
+  },
+  {
+   "t": 2267.14,
+   "end": 2275.32,
+   "text": "Letting go of them all and grasping not one, a peaceful one leaning on none would hanker no more who existed."
+  },
+  {
+   "t": 2277.0,
+   "end": 2282.86,
+   "text": "At this reply, the Brahmin Magandhi was puzzled and accuses the Buddha of prevarication."
+  },
+  {
+   "t": 2301.64,
+   "end": 2308.86,
+   "text": "If not by weeps, nor by learning, nor by knowledge, nor yet by virtue and holy works can purely be one."
+  },
+  {
+   "t": 2308.86,
+   "end": 2315.64,
+   "text": "If it comes not without weeps, learning and knowledge, without virtue and holy works,"
+  },
+  {
+   "t": 2316.18,
+   "end": 2319.9,
+   "text": "well then, the will demon itself, I think, is this dumb."
+  },
+  {
+   "t": 2320.3,
+   "end": 2322.94,
+   "text": "For there are some who claim purity by ways."
+  },
+  {
+   "t": 2325.1,
+   "end": 2327.68,
+   "text": "Now these two verses call for some comments."
+  },
+  {
+   "t": 2328.44,
+   "end": 2331.38,
+   "text": "Firstly, there is a minor problem about variant readings."
+  },
+  {
+   "t": 2332.9,
+   "end": 2339.38,
+   "text": "In both these verses, we follow the reading Visuddhi, whereas some editions accept the reading Nasuddhimah."
+  },
+  {
+   "t": 2340.84,
+   "end": 2345.68,
+   "text": "Where the negative seems superfluous, Visuddhi seems more meaningful here."
+  },
+  {
+   "t": 2346.94,
+   "end": 2352.06,
+   "text": "The commentarial explanation of these two verses seems to go off at a tangent."
+  },
+  {
+   "t": 2353.36,
+   "end": 2364.68,
+   "text": "It says that the negatives in the first two lines of the Buddha's reply refer to wrong views, wrong learning, wrong knowledge, wrong knowledge, wrong virtue and wrong works."
+  },
+  {
+   "t": 2365.04,
+   "end": 2372.38,
+   "text": "And that the third and fourth lines refer to right view, right learning, right knowledge, right virtue and right works."
+  },
+  {
+   "t": 2373.44,
+   "end": 2378.44,
+   "text": "In other words, it is only a question of wrong view, mitya, ditti and right view, somehow."
+  },
+  {
+   "t": 2380.86,
+   "end": 2384.62,
+   "text": "This interpretation misses the subtle point at issue in this dialogue."
+  },
+  {
+   "t": 2385.56,
+   "end": 2390.44,
+   "text": "If it is as simple as that, there is no ground for Mahgandhi's accusation."
+  },
+  {
+   "t": 2391.6,
+   "end": 2399.66,
+   "text": "Other religious teachers, who disputed with each other, used to assert that purity is attained only by their views, learning."
+  },
+  {
+   "t": 2400.0,
+   "end": 2401.54,
+   "text": "Knowledge, Virtue and Boss."
+  },
+  {
+   "t": 2404.32,
+   "end": 2409.54,
+   "text": "Here then, it is not a question of difference between Mityaditya and Samaditya."
+  },
+  {
+   "t": 2410.5,
+   "end": 2414.46,
+   "text": "Here is something more radical concerning Samaditya itself."
+  },
+  {
+   "t": 2416.16,
+   "end": 2418.32,
+   "text": "According to this enlightened approach,"
+  },
+  {
+   "t": 2419.16,
+   "end": 2421.7,
+   "text": "gifts etc. cannot totally be dispensable."
+  },
+  {
+   "t": 2422.3,
+   "end": 2423.78,
+   "text": "No are they to be grasped."
+  },
+  {
+   "t": 2424.26,
+   "end": 2427.28,
+   "text": "Come back now to the two key words,"
+  },
+  {
+   "t": 2427.8,
+   "end": 2429.16,
+   "text": "Pragmatic and Relative."
+  },
+  {
+   "t": 2430.0,
+   "end": 2431.5,
+   "text": "That is why the Buddha declared"
+  },
+  {
+   "t": 2431.5,
+   "end": 2434.08,
+   "text": "that purity cannot be attained by gifts,"
+  },
+  {
+   "t": 2434.68,
+   "end": 2437.24,
+   "text": "learning, knowledge, virtue and boss."
+  },
+  {
+   "t": 2437.46,
+   "end": 2439.58,
+   "text": "No in the absence of these qualities."
+  },
+  {
+   "t": 2440.82,
+   "end": 2443.44,
+   "text": "This is an apparently contradictory statement"
+  },
+  {
+   "t": 2444.48,
+   "end": 2448.18,
+   "text": "which however puts in a nutshell the essence of the middle part."
+  },
+  {
+   "t": 2449.38,
+   "end": 2453.44,
+   "text": "The inward piece mentioned in the above context"
+  },
+  {
+   "t": 2453.44,
+   "end": 2457.8,
+   "text": "is nothing other than the clinging free perfect extinction."
+  },
+  {
+   "t": 2461.48,
+   "end": 2465.04,
+   "text": "That becomes clear by the last three lines of the Buddha's reply."
+  },
+  {
+   "t": 2472.38,
+   "end": 2474.96,
+   "text": "Letting go of them all and grasping not one,"
+  },
+  {
+   "t": 2475.22,
+   "end": 2477.04,
+   "text": "that peaceful one leaning on none,"
+  },
+  {
+   "t": 2477.26,
+   "end": 2479.22,
+   "text": "would hanker no more for existence."
+  },
+  {
+   "t": 2481.6,
+   "end": 2486.14,
+   "text": "We came across the word Anisita in our discussions about Nibibaba."
+  },
+  {
+   "t": 2487.0,
+   "end": 2489.36,
+   "text": "For instance, in the cryptic formula,"
+  },
+  {
+   "t": 2489.8,
+   "end": 2493.04,
+   "text": "Anisita se chalitam, Anisita se chalitam nati."
+  },
+  {
+   "t": 2493.7,
+   "end": 2495.88,
+   "text": "To the one attacked, there is wavering."
+  },
+  {
+   "t": 2496.14,
+   "end": 2498.6,
+   "text": "To the unattacked one, there is no wavering."
+  },
+  {
+   "t": 2499.46,
+   "end": 2502.66,
+   "text": "Being unattacked, there is no hankering for existence."
+  },
+  {
+   "t": 2503.66,
+   "end": 2506.68,
+   "text": "Where there is grasping, there is existence."
+  },
+  {
+   "t": 2508.1,
+   "end": 2511.16,
+   "text": "We may revert to our simile of sharpening a razor."
+  },
+  {
+   "t": 2512.82,
+   "end": 2515.8,
+   "text": "The constituents of the path have to be taken up"
+  },
+  {
+   "t": 2515.8,
+   "end": 2519.44,
+   "text": "as one takes up a razor for sharpening,"
+  },
+  {
+   "t": 2519.74,
+   "end": 2521.02,
+   "text": "ready to let go."
+  },
+  {
+   "t": 2521.88,
+   "end": 2525.0,
+   "text": "Once the purpose is served, they have to be given up."
+  },
+  {
+   "t": 2525.82,
+   "end": 2530.06,
+   "text": "That is the dictum underlying this dialogue in the Maga and Yusuf."
+  },
+  {
+   "t": 2531.26,
+   "end": 2536.04,
+   "text": "Now we come to a discourse which clearly and unmistakably presents"
+  },
+  {
+   "t": 2536.04,
+   "end": 2538.58,
+   "text": "this extraordinary first principle."
+  },
+  {
+   "t": 2539.82,
+   "end": 2542.74,
+   "text": "The discourse is the Rathavineta Sutta of the Manchmanaka."
+  },
+  {
+   "t": 2544.76,
+   "end": 2547.02,
+   "text": "Here it is not a case of arguing with the Brahman."
+  },
+  {
+   "t": 2547.52,
+   "end": 2552.32,
+   "text": "The interlocutors in this discourse are two stalwarts of this dispensation,"
+  },
+  {
+   "t": 2552.58,
+   "end": 2554.38,
+   "text": "namely Venerable Sathputta,"
+  },
+  {
+   "t": 2555.28,
+   "end": 2557.62,
+   "text": "Venerable Punda Mantaniputta."
+  },
+  {
+   "t": 2558.28,
+   "end": 2560.76,
+   "text": "Their long discussion on the path of practice"
+  },
+  {
+   "t": 2560.76,
+   "end": 2563.7,
+   "text": "unfolding itself in dialogue form"
+  },
+  {
+   "t": 2563.7,
+   "end": 2567.68,
+   "text": "was not meant for any clarification of doubts for themselves."
+  },
+  {
+   "t": 2568.84,
+   "end": 2571.48,
+   "text": "It was probably inspired by a benefit and wish"
+  },
+  {
+   "t": 2571.48,
+   "end": 2574.46,
+   "text": "to help those Madhavis in the world"
+  },
+  {
+   "t": 2574.46,
+   "end": 2577.06,
+   "text": "who are ignorant of the pragmatic nature"
+  },
+  {
+   "t": 2577.06,
+   "end": 2579.58,
+   "text": "and relative value of the Buddha's mental path."
+  },
+  {
+   "t": 2580.78,
+   "end": 2582.2,
+   "text": "For easy comprehension,"
+  },
+  {
+   "t": 2582.44,
+   "end": 2584.48,
+   "text": "we shall present this discourse in three parts."
+  },
+  {
+   "t": 2587.02,
+   "end": 2588.26,
+   "text": "First of all,"
+  },
+  {
+   "t": 2588.34,
+   "end": 2590.6,
+   "text": "Venerable Sathputta poses the following question"
+  },
+  {
+   "t": 2590.6,
+   "end": 2592.36,
+   "text": "to Venerable Punda Mantaniputta."
+  },
+  {
+   "t": 2599.94,
+   "end": 2603.22,
+   "text": "What friend is it for the sake of purification of virtue"
+  },
+  {
+   "t": 2603.22,
+   "end": 2606.12,
+   "text": "that the holy life is lived under the fortunate one?"
+  },
+  {
+   "t": 2607.3,
+   "end": 2609.68,
+   "text": "And Venerable Punda Mantaniputta replies,"
+  },
+  {
+   "t": 2609.68,
+   "end": 2610.9,
+   "text": "No friend."
+  },
+  {
+   "t": 2612.62,
+   "end": 2615.64,
+   "text": "Then is it for the sake of purification of mind"
+  },
+  {
+   "t": 2615.64,
+   "end": 2618.6,
+   "text": "that the holy life is lived under the fortunate one?"
+  },
+  {
+   "t": 2619.44,
+   "end": 2620.38,
+   "text": "No friend."
+  },
+  {
+   "t": 2621.18,
+   "end": 2623.64,
+   "text": "Then is it for the sake of purification of view"
+  },
+  {
+   "t": 2623.64,
+   "end": 2626.72,
+   "text": "that the holy life is lived under the fortunate one?"
+  },
+  {
+   "t": 2627.2,
+   "end": 2628.06,
+   "text": "No friend."
+  },
+  {
+   "t": 2628.06,
+   "end": 2640.96,
+   "text": "Then is it for the sake of purification of knowledge and vision of what is the path"
+  },
+  {
+   "t": 2640.96,
+   "end": 2642.7,
+   "text": "and what is not the path"
+  },
+  {
+   "t": 2642.7,
+   "end": 2645.32,
+   "text": "that the holy life is lived under the fortunate one?"
+  },
+  {
+   "t": 2646.1,
+   "end": 2646.84,
+   "text": "No friend."
+  },
+  {
+   "t": 2647.88,
+   "end": 2651.44,
+   "text": "Then is it for the sake of purification by knowledge and vision of the way"
+  },
+  {
+   "t": 2651.44,
+   "end": 2654.2,
+   "text": "that the holy life is lived under the fortunate one?"
+  },
+  {
+   "t": 2654.6,
+   "end": 2655.26,
+   "text": "No friend."
+  },
+  {
+   "t": 2656.46,
+   "end": 2659.2,
+   "text": "Then is it for the sake of purification by knowledge and vision"
+  },
+  {
+   "t": 2659.2,
+   "end": 2661.96,
+   "text": "that the holy life is lived under the fortunate one?"
+  },
+  {
+   "t": 2662.1,
+   "end": 2662.48,
+   "text": "No friend."
+  },
+  {
+   "t": 2662.94,
+   "end": 2664.44,
+   "text": "The Venerable Sathputta asks,"
+  },
+  {
+   "t": 2664.44,
+   "end": 2666.94,
+   "text": "For the sake of what then friend"
+  },
+  {
+   "t": 2666.94,
+   "end": 2669.46,
+   "text": "is the holy life lived under the fortunate one?"
+  },
+  {
+   "t": 2670.3,
+   "end": 2670.9,
+   "text": "Friend."
+  },
+  {
+   "t": 2671.16,
+   "end": 2674.82,
+   "text": "It is for the sake of perfect Nibbana without clinging"
+  },
+  {
+   "t": 2674.82,
+   "end": 2678.52,
+   "text": "that the holy life is lived under the fortunate one."
+  },
+  {
+   "t": 2680.66,
+   "end": 2684.22,
+   "text": "So the ensemble of part one of the dialogue"
+  },
+  {
+   "t": 2684.22,
+   "end": 2687.64,
+   "text": "is that the holy life is not lived under the fortunate one"
+  },
+  {
+   "t": 2688.26,
+   "end": 2690.68,
+   "text": "for the sake of any of those purifications"
+  },
+  {
+   "t": 2690.68,
+   "end": 2694.88,
+   "text": "but for something called Anupadha Parimpa"
+  },
+  {
+   "t": 2694.88,
+   "end": 2697.32,
+   "text": "Perfect Nibbana without clinging."
+  },
+  {
+   "t": 2698.44,
+   "end": 2702.84,
+   "text": "Now in what we would call part two of the dialogue"
+  },
+  {
+   "t": 2702.84,
+   "end": 2706.28,
+   "text": "Venerable Sathputta highlights the contradictions"
+  },
+  {
+   "t": 2706.28,
+   "end": 2708.0,
+   "text": "in the answers given so far."
+  },
+  {
+   "t": 2708.58,
+   "end": 2710.04,
+   "text": "Somewhat like Mahatandhi."
+  },
+  {
+   "t": 2710.94,
+   "end": 2713.32,
+   "text": "Apparently there is some need for clarification."
+  },
+  {
+   "t": 2713.88,
+   "end": 2714.86,
+   "text": "He asks,"
+  },
+  {
+   "t": 2715.42,
+   "end": 2717.94,
+   "text": "But friend, is purification of virtue"
+  },
+  {
+   "t": 2717.94,
+   "end": 2719.58,
+   "text": "perfect Nibbana without clinging?"
+  },
+  {
+   "t": 2721.02,
+   "end": 2721.9,
+   "text": "No friend."
+  },
+  {
+   "t": 2722.54,
+   "end": 2723.62,
+   "text": "In this way he asks,"
+  },
+  {
+   "t": 2723.94,
+   "end": 2726.26,
+   "text": "Were there any of the other stages of purification"
+  },
+  {
+   "t": 2726.26,
+   "end": 2728.7,
+   "text": "up to and including purification"
+  },
+  {
+   "t": 2728.7,
+   "end": 2729.84,
+   "text": "by knowledge and mission"
+  },
+  {
+   "t": 2729.84,
+   "end": 2732.06,
+   "text": "is perfect Nibbana without clinging?"
+  },
+  {
+   "t": 2732.9,
+   "end": 2734.82,
+   "text": "Venerable Punna answers in the negative."
+  },
+  {
+   "t": 2736.2,
+   "end": 2737.84,
+   "text": "Then Venerable Sathputta asks,"
+  },
+  {
+   "t": 2738.84,
+   "end": 2742.32,
+   "text": "Khin panao so anyatraimehi dhammehi anupadha par nibbana?"
+  },
+  {
+   "t": 2743.84,
+   "end": 2746.44,
+   "text": "But friend, is perfect Nibbana without clinging"
+  },
+  {
+   "t": 2746.44,
+   "end": 2748.5,
+   "text": "to be attained without these states?"
+  },
+  {
+   "t": 2749.14,
+   "end": 2749.88,
+   "text": "No friend."
+  },
+  {
+   "t": 2750.68,
+   "end": 2753.04,
+   "text": "So then it looks as if the trend of contradictions"
+  },
+  {
+   "t": 2753.56,
+   "end": 2754.6,
+   "text": "has come to a head."
+  },
+  {
+   "t": 2757.06,
+   "end": 2759.06,
+   "text": "Now in part three of the dialogue"
+  },
+  {
+   "t": 2759.06,
+   "end": 2761.56,
+   "text": "we find Venerable Sathputta"
+  },
+  {
+   "t": 2762.6,
+   "end": 2764.58,
+   "text": "rhetorically summing up the previous section"
+  },
+  {
+   "t": 2764.58,
+   "end": 2765.2,
+   "text": "of the dialogue."
+  },
+  {
+   "t": 2766.6,
+   "end": 2767.72,
+   "text": "When asked,"
+  },
+  {
+   "t": 2768.18,
+   "end": 2769.98,
+   "text": "But friend, is purification of virtue"
+  },
+  {
+   "t": 2769.98,
+   "end": 2771.42,
+   "text": "perfect Nibbana without clinging?"
+  },
+  {
+   "t": 2771.62,
+   "end": 2772.5,
+   "text": "You replied,"
+  },
+  {
+   "t": 2772.68,
+   "end": 2773.02,
+   "text": "No friend."
+  },
+  {
+   "t": 2773.4,
+   "end": 2774.42,
+   "text": "And so on."
+  },
+  {
+   "t": 2775.12,
+   "end": 2777.22,
+   "text": "Citing even the last negative response"
+  },
+  {
+   "t": 2777.22,
+   "end": 2778.32,
+   "text": "and when asked,"
+  },
+  {
+   "t": 2778.44,
+   "end": 2778.86,
+   "text": "But friend,"
+  },
+  {
+   "t": 2779.32,
+   "end": 2781.04,
+   "text": "is perfect Nibbana without clinging"
+  },
+  {
+   "t": 2781.04,
+   "end": 2783.48,
+   "text": "to be attained without these states?"
+  },
+  {
+   "t": 2783.76,
+   "end": 2784.58,
+   "text": "You replied,"
+  },
+  {
+   "t": 2784.72,
+   "end": 2785.06,
+   "text": "No friend."
+  },
+  {
+   "t": 2785.42,
+   "end": 2787.1,
+   "text": "And rounds up by asking"
+  },
+  {
+   "t": 2787.1,
+   "end": 2788.7,
+   "text": "with apparent exasperation."
+  },
+  {
+   "t": 2789.76,
+   "end": 2790.92,
+   "text": "Sathatatangpa nao so"
+  },
+  {
+   "t": 2790.92,
+   "end": 2792.42,
+   "text": "imasa basita sa"
+  },
+  {
+   "t": 2792.42,
+   "end": 2793.46,
+   "text": "Tothatthapo"
+  },
+  {
+   "t": 2793.46,
+   "end": 2795.0,
+   "text": "How then friend,"
+  },
+  {
+   "t": 2795.16,
+   "end": 2796.0,
+   "text": "can one understand"
+  },
+  {
+   "t": 2796.0,
+   "end": 2797.16,
+   "text": "the meaning of this statement?"
+  },
+  {
+   "t": 2798.44,
+   "end": 2800.2,
+   "text": "So rather dramatically"
+  },
+  {
+   "t": 2800.2,
+   "end": 2801.92,
+   "text": "the stage is now set"
+  },
+  {
+   "t": 2801.92,
+   "end": 2803.74,
+   "text": "for Venerable Bunda Mantanikutta"
+  },
+  {
+   "t": 2803.74,
+   "end": 2805.9,
+   "text": "to come out with the deepest point"
+  },
+  {
+   "t": 2805.9,
+   "end": 2806.56,
+   "text": "in the description."
+  },
+  {
+   "t": 2820.6,
+   "end": 2821.28,
+   "text": "Friend,"
+  },
+  {
+   "t": 2821.76,
+   "end": 2823.12,
+   "text": "if the fortunate one"
+  },
+  {
+   "t": 2823.12,
+   "end": 2824.12,
+   "text": "had designated"
+  },
+  {
+   "t": 2824.82,
+   "end": 2826.14,
+   "text": "purification of virtue"
+  },
+  {
+   "t": 2826.14,
+   "end": 2828.52,
+   "text": "as perfect Nibbana without clinging,"
+  },
+  {
+   "t": 2828.8,
+   "end": 2830.06,
+   "text": "he would have designated"
+  },
+  {
+   "t": 2830.06,
+   "end": 2831.96,
+   "text": "what is still accompanied by clinging"
+  },
+  {
+   "t": 2831.96,
+   "end": 2833.94,
+   "text": "as perfect Nibbana without clinging."
+  },
+  {
+   "t": 2835.06,
+   "end": 2836.6,
+   "text": "In the same strain,"
+  },
+  {
+   "t": 2836.92,
+   "end": 2838.34,
+   "text": "he goes on to apply"
+  },
+  {
+   "t": 2838.34,
+   "end": 2839.16,
+   "text": "this criterion"
+  },
+  {
+   "t": 2839.16,
+   "end": 2840.6,
+   "text": "to the other stages"
+  },
+  {
+   "t": 2840.6,
+   "end": 2841.36,
+   "text": "of purification"
+  },
+  {
+   "t": 2841.36,
+   "end": 2843.32,
+   "text": "and finally brings out"
+  },
+  {
+   "t": 2843.32,
+   "end": 2844.32,
+   "text": "the absurdity"
+  },
+  {
+   "t": 2844.32,
+   "end": 2845.74,
+   "text": "of the other extreme"
+  },
+  {
+   "t": 2845.74,
+   "end": 2846.92,
+   "text": "in the following words."
+  },
+  {
+   "t": 2860.42,
+   "end": 2861.7,
+   "text": "And if friend,"
+  },
+  {
+   "t": 2861.88,
+   "end": 2863.5,
+   "text": "perfect Nibbana without clinging"
+  },
+  {
+   "t": 2863.5,
+   "end": 2864.64,
+   "text": "were to be attained"
+  },
+  {
+   "t": 2864.64,
+   "end": 2865.8,
+   "text": "without these stakes,"
+  },
+  {
+   "t": 2866.14,
+   "end": 2868.24,
+   "text": "then even an ordinary whirling"
+  },
+  {
+   "t": 2868.24,
+   "end": 2869.1,
+   "text": "would have attained"
+  },
+  {
+   "t": 2869.1,
+   "end": 2870.5,
+   "text": "perfect Nibbana without clinging."
+  },
+  {
+   "t": 2870.5,
+   "end": 2872.42,
+   "text": "For an ordinary whirling"
+  },
+  {
+   "t": 2872.42,
+   "end": 2873.88,
+   "text": "friend is without those stakes."
+  },
+  {
+   "t": 2875.26,
+   "end": 2876.52,
+   "text": "Now we can see"
+  },
+  {
+   "t": 2876.52,
+   "end": 2878.18,
+   "text": "how subtle this question is."
+  },
+  {
+   "t": 2878.86,
+   "end": 2880.56,
+   "text": "Simply because it was said"
+  },
+  {
+   "t": 2880.56,
+   "end": 2882.12,
+   "text": "that none of the above states"
+  },
+  {
+   "t": 2882.12,
+   "end": 2884.38,
+   "text": "is perfect Nibbana without clinging,"
+  },
+  {
+   "t": 2885.24,
+   "end": 2886.64,
+   "text": "they cannot be dispensable."
+  },
+  {
+   "t": 2888.02,
+   "end": 2889.26,
+   "text": "We have already discussed"
+  },
+  {
+   "t": 2889.26,
+   "end": 2890.74,
+   "text": "the significance of the"
+  },
+  {
+   "t": 2890.74,
+   "end": 2892.12,
+   "text": "Alagaddu Pamasutta"
+  },
+  {
+   "t": 2892.12,
+   "end": 2892.9,
+   "text": "in this concern."
+  },
+  {
+   "t": 2894.5,
+   "end": 2895.98,
+   "text": "There we came across"
+  },
+  {
+   "t": 2895.98,
+   "end": 2896.68,
+   "text": "two similes,"
+  },
+  {
+   "t": 2896.68,
+   "end": 2898.48,
+   "text": "the simile of the raft"
+  },
+  {
+   "t": 2898.48,
+   "end": 2899.34,
+   "text": "and the simile"
+  },
+  {
+   "t": 2899.34,
+   "end": 2900.24,
+   "text": "of the water snake."
+  },
+  {
+   "t": 2901.32,
+   "end": 2902.62,
+   "text": "To carry the raft"
+  },
+  {
+   "t": 2902.62,
+   "end": 2903.66,
+   "text": "on one's shoulder"
+  },
+  {
+   "t": 2903.66,
+   "end": 2904.5,
+   "text": "after crossing"
+  },
+  {
+   "t": 2904.5,
+   "end": 2905.5,
+   "text": "is one extreme."
+  },
+  {
+   "t": 2905.86,
+   "end": 2907.54,
+   "text": "To take the water snake"
+  },
+  {
+   "t": 2907.54,
+   "end": 2908.36,
+   "text": "by its tail"
+  },
+  {
+   "t": 2908.36,
+   "end": 2909.56,
+   "text": "is the other extreme."
+  },
+  {
+   "t": 2910.02,
+   "end": 2911.34,
+   "text": "The middle part"
+  },
+  {
+   "t": 2911.34,
+   "end": 2912.1,
+   "text": "lies between"
+  },
+  {
+   "t": 2912.1,
+   "end": 2913.18,
+   "text": "these two extremes."
+  },
+  {
+   "t": 2914.06,
+   "end": 2915.42,
+   "text": "That is the implication"
+  },
+  {
+   "t": 2915.42,
+   "end": 2916.48,
+   "text": "of the above statement"
+  },
+  {
+   "t": 2916.48,
+   "end": 2918.28,
+   "text": "that if perfect Nibbana"
+  },
+  {
+   "t": 2918.28,
+   "end": 2918.92,
+   "text": "without clinging"
+  },
+  {
+   "t": 2918.92,
+   "end": 2919.82,
+   "text": "is attained"
+  },
+  {
+   "t": 2919.82,
+   "end": 2920.9,
+   "text": "without these stakes,"
+  },
+  {
+   "t": 2921.12,
+   "end": 2923.3,
+   "text": "then even an ordinary whirling"
+  },
+  {
+   "t": 2923.3,
+   "end": 2924.4,
+   "text": "would have attained it"
+  },
+  {
+   "t": 2924.4,
+   "end": 2925.9,
+   "text": "for he has none of them."
+  },
+  {
+   "t": 2927.6,
+   "end": 2928.74,
+   "text": "Four further"
+  },
+  {
+   "t": 2928.74,
+   "end": 2929.3,
+   "text": "clarification"
+  },
+  {
+   "t": 2929.3,
+   "end": 2930.12,
+   "text": "of this point."
+  },
+  {
+   "t": 2931.18,
+   "end": 2932.18,
+   "text": "Venerable Punna"
+  },
+  {
+   "t": 2932.18,
+   "end": 2932.9,
+   "text": "Mantani Putta"
+  },
+  {
+   "t": 2932.9,
+   "end": 2933.4,
+   "text": "comes out"
+  },
+  {
+   "t": 2933.4,
+   "end": 2934.0,
+   "text": "with the simile"
+  },
+  {
+   "t": 2934.0,
+   "end": 2935.38,
+   "text": "of the relay of chariots."
+  },
+  {
+   "t": 2936.84,
+   "end": 2938.12,
+   "text": "King Pasenadhyo"
+  },
+  {
+   "t": 2938.12,
+   "end": 2938.72,
+   "text": "of Kosala"
+  },
+  {
+   "t": 2938.72,
+   "end": 2940.8,
+   "text": "while living in Savadhi"
+  },
+  {
+   "t": 2940.8,
+   "end": 2942.88,
+   "text": "has some urgent business"
+  },
+  {
+   "t": 2942.88,
+   "end": 2944.14,
+   "text": "to settle at Savadhi."
+  },
+  {
+   "t": 2945.76,
+   "end": 2947.04,
+   "text": "Between Savadhi"
+  },
+  {
+   "t": 2947.04,
+   "end": 2947.66,
+   "text": "and Savadhi"
+  },
+  {
+   "t": 2948.36,
+   "end": 2949.84,
+   "text": "seven relay chariots"
+  },
+  {
+   "t": 2949.84,
+   "end": 2951.0,
+   "text": "are kept ready for him."
+  },
+  {
+   "t": 2952.16,
+   "end": 2953.36,
+   "text": "The king mounts"
+  },
+  {
+   "t": 2953.36,
+   "end": 2954.48,
+   "text": "the first relay chariot"
+  },
+  {
+   "t": 2954.48,
+   "end": 2955.86,
+   "text": "and by means of it"
+  },
+  {
+   "t": 2955.86,
+   "end": 2956.76,
+   "text": "rides at the"
+  },
+  {
+   "t": 2956.76,
+   "end": 2957.7,
+   "text": "second relay chariot."
+  },
+  {
+   "t": 2958.38,
+   "end": 2959.7,
+   "text": "Then he dismounts"
+  },
+  {
+   "t": 2959.7,
+   "end": 2960.92,
+   "text": "from the first relay chariot"
+  },
+  {
+   "t": 2960.92,
+   "end": 2961.84,
+   "text": "and mounts"
+  },
+  {
+   "t": 2961.84,
+   "end": 2962.64,
+   "text": "the second chariot."
+  },
+  {
+   "t": 2963.06,
+   "end": 2964.02,
+   "text": "By means of"
+  },
+  {
+   "t": 2964.02,
+   "end": 2964.82,
+   "text": "the second chariot"
+  },
+  {
+   "t": 2964.82,
+   "end": 2965.74,
+   "text": "he arrives at"
+  },
+  {
+   "t": 2965.74,
+   "end": 2966.66,
+   "text": "the third chariot."
+  },
+  {
+   "t": 2966.98,
+   "end": 2967.7,
+   "text": "In this way"
+  },
+  {
+   "t": 2967.7,
+   "end": 2968.76,
+   "text": "finally he arrives"
+  },
+  {
+   "t": 2968.76,
+   "end": 2969.48,
+   "text": "at Sargata"
+  },
+  {
+   "t": 2969.48,
+   "end": 2970.74,
+   "text": "by means"
+  },
+  {
+   "t": 2970.74,
+   "end": 2972.26,
+   "text": "of the seventh chariot."
+  },
+  {
+   "t": 2973.2,
+   "end": 2974.4,
+   "text": "Then when his friends"
+  },
+  {
+   "t": 2974.4,
+   "end": 2974.98,
+   "text": "and relatives"
+  },
+  {
+   "t": 2974.98,
+   "end": 2975.68,
+   "text": "in Sargata"
+  },
+  {
+   "t": 2975.68,
+   "end": 2976.3,
+   "text": "ask him"
+  },
+  {
+   "t": 2976.3,
+   "end": 2977.4,
+   "text": "Sahel"
+  },
+  {
+   "t": 2977.4,
+   "end": 2978.26,
+   "text": "did you come"
+  },
+  {
+   "t": 2978.26,
+   "end": 2979.08,
+   "text": "from Savadhi"
+  },
+  {
+   "t": 2979.08,
+   "end": 2979.64,
+   "text": "to Sargata"
+  },
+  {
+   "t": 2979.64,
+   "end": 2980.84,
+   "text": "by means of this chariot?"
+  },
+  {
+   "t": 2981.94,
+   "end": 2983.26,
+   "text": "He cannot reply"
+  },
+  {
+   "t": 2983.26,
+   "end": 2983.88,
+   "text": "in the affirmative."
+  },
+  {
+   "t": 2984.38,
+   "end": 2985.3,
+   "text": "He has to relate"
+  },
+  {
+   "t": 2985.3,
+   "end": 2986.08,
+   "text": "the whole story"
+  },
+  {
+   "t": 2986.08,
+   "end": 2986.7,
+   "text": "of passing"
+  },
+  {
+   "t": 2986.7,
+   "end": 2987.5,
+   "text": "from chariot"
+  },
+  {
+   "t": 2987.5,
+   "end": 2988.04,
+   "text": "to chariot"
+  },
+  {
+   "t": 2989.34,
+   "end": 2990.26,
+   "text": "having given"
+  },
+  {
+   "t": 2990.26,
+   "end": 2991.0,
+   "text": "this similias"
+  },
+  {
+   "t": 2991.0,
+   "end": 2991.62,
+   "text": "and illustration."
+  },
+  {
+   "t": 2992.34,
+   "end": 2993.54,
+   "text": "Venerable Purnamantani"
+  },
+  {
+   "t": 2993.54,
+   "end": 2994.3,
+   "text": "put the sums up"
+  },
+  {
+   "t": 2994.3,
+   "end": 2995.34,
+   "text": "the correct solution"
+  },
+  {
+   "t": 2995.34,
+   "end": 2996.36,
+   "text": "to the point"
+  },
+  {
+   "t": 2996.36,
+   "end": 2996.92,
+   "text": "at issue"
+  },
+  {
+   "t": 2996.92,
+   "end": 2997.98,
+   "text": "in the following"
+  },
+  {
+   "t": 2997.98,
+   "end": 2998.94,
+   "text": "memorable words."
+  },
+  {
+   "t": 3000.0,
+   "end": 3005.22,
+   "text": "Ivanima Kohāošo Sīla Visuddhi Yāva Deva Chitta Visuddhattā"
+  },
+  {
+   "t": 3005.84,
+   "end": 3009.0,
+   "text": "Chitta Visuddhi Yāva Deva Dipdi Visuddhattā"
+  },
+  {
+   "t": 3009.0,
+   "end": 3012.6,
+   "text": "Dipdi Visuddhi Yāva Deva Kankāvitarno Visuddhattā"
+  },
+  {
+   "t": 3012.6,
+   "end": 3016.9,
+   "text": "Kankāvitarno Visuddhi Yāva Deva Magga Magga Jánadasana Visuddha"
+  },
+  {
+   "t": 3016.9,
+   "end": 3025.96,
+   "text": "Para Dānadasana Visuddhi Yāva Deva J magga Jānadasana Visuddha"
+  },
+  {
+   "t": 3025.96,
+   "end": 3029.22,
+   "text": "Jnāadasana Visuddhi Yāva Deva Anupādā"
+  },
+  {
+   "t": 3030.36,
+   "end": 3031.04,
+   "text": "parinibbana"
+  },
+  {
+   "t": 3032.14,
+   "end": 3033.5,
+   "text": "anupada parinibbana"
+  },
+  {
+   "t": 3033.5,
+   "end": 3034.44,
+   "text": "thankho"
+  },
+  {
+   "t": 3035.22,
+   "end": 3036.96,
+   "text": "bhagavati drachma chalangus"
+  },
+  {
+   "t": 3038.86,
+   "end": 3040.12,
+   "text": "even so friend"
+  },
+  {
+   "t": 3040.12,
+   "end": 3042.92,
+   "text": "purification of virtue is purposeful"
+  },
+  {
+   "t": 3042.92,
+   "end": 3045.1,
+   "text": "as far as purification"
+  },
+  {
+   "t": 3045.1,
+   "end": 3045.76,
+   "text": "of the mind"
+  },
+  {
+   "t": 3046.98,
+   "end": 3049.24,
+   "text": "purification of the mind is purposeful"
+  },
+  {
+   "t": 3049.24,
+   "end": 3051.18,
+   "text": "as far as purification of"
+  },
+  {
+   "t": 3051.18,
+   "end": 3051.44,
+   "text": "view"
+  },
+  {
+   "t": 3052.68,
+   "end": 3054.82,
+   "text": "purification of view is purposeful"
+  },
+  {
+   "t": 3054.82,
+   "end": 3056.98,
+   "text": "as far as purification"
+  },
+  {
+   "t": 3056.98,
+   "end": 3058.16,
+   "text": "by overcoming doubt"
+  },
+  {
+   "t": 3059.44,
+   "end": 3061.04,
+   "text": "purification by overcoming doubt"
+  },
+  {
+   "t": 3061.04,
+   "end": 3061.96,
+   "text": "is purposeful"
+  },
+  {
+   "t": 3062.66,
+   "end": 3064.82,
+   "text": "as far as purification"
+  },
+  {
+   "t": 3064.82,
+   "end": 3066.36,
+   "text": "by knowledge and vision"
+  },
+  {
+   "t": 3066.36,
+   "end": 3067.86,
+   "text": "of what is the path"
+  },
+  {
+   "t": 3067.86,
+   "end": 3069.72,
+   "text": "and what is not the path"
+  },
+  {
+   "t": 3070.56,
+   "end": 3072.28,
+   "text": "purification by knowledge and vision"
+  },
+  {
+   "t": 3072.28,
+   "end": 3074.42,
+   "text": "of what is the path and what is not the path"
+  },
+  {
+   "t": 3074.42,
+   "end": 3076.82,
+   "text": "is purposeful as far as"
+  },
+  {
+   "t": 3076.82,
+   "end": 3078.22,
+   "text": "purification by knowledge"
+  },
+  {
+   "t": 3078.22,
+   "end": 3079.86,
+   "text": "and vision of the way"
+  },
+  {
+   "t": 3081.26,
+   "end": 3082.9,
+   "text": "purification by knowledge and vision"
+  },
+  {
+   "t": 3082.9,
+   "end": 3084.6,
+   "text": "of the way is purposeful"
+  },
+  {
+   "t": 3084.6,
+   "end": 3086.52,
+   "text": "as far as purification"
+  },
+  {
+   "t": 3086.52,
+   "end": 3087.62,
+   "text": "by knowledge and vision"
+  },
+  {
+   "t": 3088.72,
+   "end": 3096.44,
+   "text": "Purification by knowledge and vision is purposeful as far as perfect Nibbana without clinging."
+  },
+  {
+   "t": 3097.3,
+   "end": 3105.12,
+   "text": "It is for perfect Nibbana without clinging that the holy life is lived under the fortunate one."
+  },
+  {
+   "t": 3106.44,
+   "end": 3113.22,
+   "text": "The key word in this grand final of this dramatic exposition is Yana Deer."
+  },
+  {
+   "t": 3113.96,
+   "end": 3116.22,
+   "text": "Simply rendered it means just for."
+  },
+  {
+   "t": 3117.04,
+   "end": 3120.12,
+   "text": "That is the sufficing condition for something else."
+  },
+  {
+   "t": 3120.94,
+   "end": 3127.62,
+   "text": "Properly understood, it is a watchword upholding the twin principles of pragmatism and relativity."
+  },
+  {
+   "t": 3129.36,
+   "end": 3142.98,
+   "text": "In the light of the illustration by relay chariots, this watchword stands for that impersonal momentum or impetus required for any gradual cause of purposive action according to the law of dependent relation."
+  },
+  {
+   "t": 3144.36,
+   "end": 3152.94,
+   "text": "So we see how the Buddha discovered and laid bare the first principles of a universal law conducive to one's emancipation."
+  },
+  {
+   "t": 3154.56,
+   "end": 3164.9,
+   "text": "Here is a series of states in which one state is to be made use of for reaching another and that for reaching yet another but none of which is to be grasped per se."
+  },
+  {
+   "t": 3164.9,
+   "end": 3174.12,
+   "text": "This is the distinction between what is called upadhi or sansaric asset and nirupadi or the assetless Nibbana."
+  },
+  {
+   "t": 3175.26,
+   "end": 3183.98,
+   "text": "In the case of those meritorious deeds productive of sansaric assets, one goes on accumulating and amassing them."
+  },
+  {
+   "t": 3183.98,
+   "end": 3190.34,
+   "text": "But for the nibbana state of nirupadi, the assetless, there is a different approach."
+  },
+  {
+   "t": 3191.48,
+   "end": 3200.9,
+   "text": "One state leads up to another and that to yet another in accordance with the simile of the relay chariots, but none of them is to be grasped per se."
+  },
+  {
+   "t": 3201.88,
+   "end": 3211.28,
+   "text": "One grasps neither purification of virtue, nor purification of the mind, nor purification of view, nay not even purification by knowledge and mission."
+  },
+  {
+   "t": 3211.28,
+   "end": 3224.18,
+   "text": "Leaving them all behind and reaching the subtlest of them all, there comes the final let go to attain that perfect extinction without linging, anupada-paremba."
+  },
+  {
+   "t": 3224.36,
+   "end": 3227.22,
+   "text": "This is the subtlest trick in this thumb."
+  },
+  {
+   "t": 3228.54,
+   "end": 3245.22,
+   "text": "Dear listeners, it is our sincere wish to make these sermons accessible, free of charge, to all who like to listen to them, because the gift of the Dhamma excels all other gifts."
+  },
+  {
+   "t": 3246.62,
+   "end": 3256.5,
+   "text": "We therefore encourage you to copy these sermons and share them with others, but kindly note that they should not be reproduced for sale."
+  },
+  {
+   "t": 3257.24,
+   "end": 3260.6,
+   "text": "May the blessings of the Triple Gem be with you."
+  }
+ ]
+}

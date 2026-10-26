@@ -396,3 +396,160 @@ log /tmp/sermon_tr.log. Sermon-01 YT transcript saved word-for-word
 (sermon-readings/SERMON-01-youtube-transcript.md, video OiduBXAHtUA).
 Implication: verbatim layer has native narration — Fish not needed
 for quoting; next = quote-to-reading alignment.
+
+## 35. p0 essay-A render: two voices, no plain, no bells + the silence incident (2026-10-26)
+Owner draft rules: plain OUT (verbatim -> Analayo direct, Fish questions
+only), bells OUT (p0 timing/voice check; belled v1 untouched in
+build/audio_v1/, p0 lives in build/audio_p0/). Voice-match: Analayo
+(44.1k stereo, -20.4 LUFS) vs sermon readings (22k mono, -18.6 LUFS,
+hotter peaks) through one identical chain (highpass 80 / lowpass 12k /
+2:1 glue / per-slice loudnorm -19; VTAG normv2, cache-busting).
+Alignment rewrite (tools/align_verbatim_audio.py): coverage scoring
+(matched/len — longest-run collapsed on 100+ word quotes under whisper
+noise: 17 false misses) + cross-sermon fallback (70/71) + 1 evidence-
+logged manual PIN (Khayamatta Pali chant lives in a 4.2s transcript gap
+whisper dropped, sermon-01 2173.0-2177.2) + string-sermon→int fix in
+render (honey-ball "S11-…" tag failed int-key lookup: 4 robot fallbacks).
+Final: 71/71 beats, 84/84 parts real voices, 0 robot, 12 Fish questions,
+88 plain skipped. SFX kit imported from vatulanatha@8cda10b (bowls/ding/
+long-break/2 blocks + pause-grammar README) to build/assets/sfx/ —
+not yet wired (p1).
+THE INCIDENT (M-R1/R2, R9): every shipped slice was a 30ms blip +
+silence — afade=t=out:st=0 fades to zero and stays there — and SIX
+verifications passed anyway (LUFS on target via master loudnorm on the
+noise floor, clean decodes, CBR sizes, byte-identical downloads, HTTP
+200s). Owner's ear caught it across three hosts. Fix: fade_tail(dur)
++ assert_audible() render abort + VTAG normv3. Post-fix seed timeline:
+-17..-18 dB every 20s window (was -80 dB). Hosting: catbox truncates
+egress (1.1MB of 6.3MB, still returns URL+200 — re-download-check
+mandatory); R2 presigns need --region auto (SigV4); uguu.se works, 3h
+retention. p0 = build/audio_p0/{seed,s1..s6,full_a_essay}.mp3 (132m).
+
+## 36. Essay-0 direct + chant-head trim (2026-10-26, owner's ear)
+Owner: seed must open Q -> ANALAYO essay-0 answer ("this is peaceful..."),
+not Q -> Pali chant -> motto twice. Two fixes: (1) DIRECT_ESSAY0 render
+flag — essay-0 positions (6 seed units + 6 section openers) skip the
+sermon-reader verbatim; archive voice answers directly (12 direct).
+Beat verbatims keep the sermon voice. (2) aligner head-trim — verbatim
+windows dropped leading zero-overlap sentences: seed U1 window had
+opened on the Namotasya chant (45.2-52.2) 20s before the motto (64.8).
+M-R7: windows must never cold-open on chant/preamble — trim to first
+quote-token sentence. Seed 6.7 -> 4.7m. Fish questions still espeak —
+owner ordered Fish-audio MCP voice; blocked on API key (MCP probes
+401/unauthorized, no key on machine or vault).
+
+## 37. A-sharpening pass (2026-10-26, owner: A first, 0 distills from it)
+Autonomous read-through of all 71 beats in heard order. S1 + S4 stand
+untouched (fire arc; mirror arc both cohere). Four minimal moves:
+- S2: three-periods (c11) BEFORE banana (c10) — akalika claim, then its
+  warrant (why the temporal reading is wrong), then the demo, then
+  Channa payoff, dog twist. Was: demo splitting claim from warrant.
+- S3: barb (c13) CLOSES — terms (yathabhuta) -> structure (duality) ->
+  hook (assertion). Was: 376s word-study as closer.
+- S5: honing (c8) directly after razor (c4) — warning, then technique.
+  Was: split across tranquillity/Upatissa/postures (F4).
+- S6: chess-draw (c4) adjacent to chessboard (c2) — board appears, game
+  ends, lotuses bloom. Was: lotus splitting the chess pair.
+Core manifests reordered to match; assemblies/seed/film/storyboard
+rebuilt; verify.sh ALL PASS (film budgets identical).
+Essay-0 re-derivation test: each section's A compresses to its current
+essay-0 (motto / whirlpool / craving-gap / mirror / Bahiya / grown-cool)
+— the 32b/c set stands as the roots, no swaps forced. U2 text-weakness
+(audio rescues) + U6 callback-gamble stand as judged.
+Pausing law encoded in make_assembly: water = 2.5 + dur/60 capped 6s;
+6s settle pause after zoom-bell at S1–S5 closes (S6 keeps 30s silence).
+Not yet rendered (render = final).
+
+## 38. B-sharpening pass (2026-10-26, owner: perfect B, same mindset)
+Method written first as process/13-SHARPENING.md (A first -> distill 0
+-> B/C by sequence law; minimal moves; essay-0 re-derivation; edges last
+sampled never blind). Executed by process/scripts/sharpen_gold.py:
+- SEQUENCE LAW: all 590 gold spans reordered into A-flow neighborhoods
+  (nearest core-clip overlap anchor; unanchored keep cluster order).
+  Content-identical, totals unchanged (590 spans, 6.32h).
+- EDGE RE-SNAP, calibrated: ismotto exempt (motto opens legitimate);
+  first detector pass overstated (~160 flags incl. rounding noise) —
+  tolerance rule (>=0.5s or keep) reduced applied snaps to 0 real moves;
+  45 sub-0.5s HEAD-REVIEW notes accepted as inaudible; 25 slivers/
+  marker-spans marked DEMOTE-CANDIDATE (kept everywhere, owner call).
+  Lesson: the era-1 seam audit had already done this job; detectors
+  without tolerance re-find ghosts (R9 again).
+- MOTTO-CAP MANIFESTS: S1 10->1, S5 5->1, S2 2->1 (spaced >=N/3 rule;
+  stacked lecture-open mottos collapse to the cold open). Data keeps all;
+  manifests (the listenable B) enforce. S1 manifest 190->181 lines.
+Film manifest rebuilt (budgets identical), verify.sh ALL PASS.
+VERSION AUDIT (all structures that exist): A/core-v4 BEST (flow-fixed,
+71/71 aligned, storyboarded); 0/seed current BEST of 12 (direct essay-0,
+locked chain); B/gold now BEST (sequenced, capped, edge-audited);
+C/pool archive-complete 1195 spans 20.73h, sequence NOT law-aligned
+(queued next, same script shape); core-v3 (/tmp, 73 clips) SUPERSEDED by
+v4 (pre-amendment, motto-echo essay-0s — do not use); film manifest =
+membership view, current. Demote-candidates (25) + YT anchor-maps +
+ears pass remain before any B render.
+
+## 39. Gold refresh: essay-0 anchors promoted, snapper guarded (2026-10-26)
+Containment proof (built to answer "0-A-B flowing?") showed A⊂B at 65/71:
+gold was STALE after the 32b/c essay-0 repairs — missing whirlpool (S2),
+craving-gap (S3), mirror (S4), grown-cool (S6) + the 2 B* (honey, anidassana).
+Fix: 6 windows promoted into gold (2 stale-A copied straight; 4 B-grade as
+essay0-anchor exceptions — the strongest promotion case there is). A⊂B now
+71/71; film unchanged (dedupes core overlaps); verify.sh ALL PASS.
+Snapper then misfired twice on the new spans (ate mirror's "Even / if one
+already" split across CF sentences; drifted craving head backward through
+overlapping timestamps) — both reverted to atomic core windows. Guards added:
+essay0-anchor/B* exempt like mottos (ATOMIC); fragment-head rule YT-only
+(CF short openers are quote content); snaps only SHRINK (never expand).
+Demotes 25->16 (9 CF false demotes gone). Lesson logged as M-R8.
+
+## 40. Q4 seam closed with evidence (2026-10-26, owner caught a stale claim)
+Owner: I relayed §31's "Q4 construction vs scatter-answer" seam and then
+passed the mirror answer without closing it (R4: note-as-proof). The §31
+seam predates the §32c repair (scatter L06 was never spoken in-window;
+mirror replaced it) — the note was stale, my pass verdict was asserted.
+Evidence now, from lecture-10.transcript.cf.json L10 [2208.9-2233.0]:
+"Even if one already has no such notion, the moment one looks into a
+mirror one is suddenly reminded of it as if to exclaim Ah! Here I am!
+This is the gist of what [Puṇṇa Mantāniputta] is trying to put across
+through this discourse. This shows that the conceit 'I' arises due to
+the five grasping groups." Closes cleanly before Pali philology (2233+).
+Oral test vs "How is the sense of self constructed?": the answer shows
+the construction event (no notion -> looking -> sudden "here I am") AND
+names the mechanism (conceit-I arises from the five grasping groups).
+Verdict stands, this time on transcript, not memory. Window opens on a
+sentence start ("Even..."); essay-0 anchors stay exempt from fragment
+trims for exactly this reason.
+
+## 41. Machine ears protocol (2026-10-26, owner: use YOUR ears, not mine)
+Owner redirected listening to the agent. Two layers, both local, no uploads:
+(a) faster-whisper transcription of every render -> verify questions in
+order, essay-0 key phrases present, no robot remnants, pause counts vs
+assembly (breath 1.5 / water scaled / settle 6 / recollect 3). (b) Qwen
+Omni critique: DashScope key (vault DASHSCOPE_API_KEY), model
+qwen3-omni-flash (cheapest omni, verified working), input_audio.data =
+PUBLIC URL (base64 rejected; {"type":"audio"} rejected — URL string in
+data field is the working shape, ~12.5 tok/s). Prompt: speaker turns,
+Q->A fit, dead air, voice mismatch, seam clicks, pace. Owner listens
+ONLY for taste locks (essay-0 picks, voice approval, demotes). Render
+stays local until a lock needs ears; links expire, masters don't.
+
+## 42. Ear-pass round 1 (2026-10-26, machine ears, Qwen qwen3-omni-flash)
+Heard all 132 p0 minutes in 12 chunks + seed Q->A audit. Results in
+build/EAR_REPORT.md: seed 6/6 direct (U2/U3 partly, matching text read);
+S1 two editorial joints (one fixed: post-essay-0 stillness in
+make_assembly; one by design); S2-S6 all CLEAN — no mid-thought cuts,
+no dead air >5s, no clicks, no volume jumps, Fish voice passes as
+natural. One fix applied, zero defects outstanding that a meter can
+catch. Human-only remainder: timbre, YT anchors, voice taste, essay-0
+picks, demotes. Omni limits learned: ~15min max audio per call (chunk
+with overlap); input_audio.data takes a PUBLIC URL (base64 rejected).
+
+## 43. Listening doctrine written (2026-10-26, owner: what is the listen FOR)
+process/14-LISTENING.md: text gates prove words, listening proves
+experience (cuts inside windows, felt fit, fatigue, blend, arc). Two
+ears with separated jobs (audit: defects+timestamps only; critic:
+1-5 on directness/flow/pace/arc/blend + 3 timestamped notes + 1
+structural advice, advisory until read-through confirms). Meters beside
+ears (LUFS/peak/silence/dropouts per render). Limits: qwen3-omni-flash,
+~12.5 tok/s, 15min/call chunked with overlap, URL-in-data shape, same-day
+critique (temp hosts expire). Re-listens scoped to fixes + seed. Taste
+locks enumerated, human-only.

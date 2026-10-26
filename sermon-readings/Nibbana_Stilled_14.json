@@ -1,0 +1,2202 @@
+{
+ "source": "/root/analayo-nibbana/sermon-audio/Nibbana_Stilled_14.mp3",
+ "duration": 3314.677551,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 3.1,
+   "end": 12.6,
+   "text": "The 33 sermons on Nibbana were delivered by the Venerable Bhikkhu Katukurunde Jnanananda"
+  },
+  {
+   "t": 12.6,
+   "end": 18.08,
+   "text": "in Sinhala at Mitrigala Nisarana Vinaya Forest Hermitage."
+  },
+  {
+   "t": 18.38,
+   "end": 23.4,
+   "text": "They were translated into English by the same Venerable monk,"
+  },
+  {
+   "t": 23.4,
+   "end": 30.96,
+   "text": "presently residing at Potkulkala Forest Hermitage in Khandagedra, Devalagam."
+  },
+  {
+   "t": 67.08,
+   "end": 72.62,
+   "text": "This is peaceful, this is excellent, namely the stealing of all preparations, the relinquishment"
+  },
+  {
+   "t": 72.62,
+   "end": 77.24,
+   "text": "of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 77.24,
+   "end": 81.8,
+   "text": "With the permission of the Most Penerable Great Preceptor and the assembly of the Venerable"
+  },
+  {
+   "t": 81.8,
+   "end": 86.5,
+   "text": "Meditative Monks, this is the fourteenth sermon in the series of sermons on Nibbana."
+  },
+  {
+   "t": 86.88,
+   "end": 92.74,
+   "text": "In our last sermon, we gave a description of the forms of imaginings or meetingings which"
+  },
+  {
+   "t": 92.74,
+   "end": 96.38,
+   "text": "the Buddha had compared to an extremely subtle bondage of Mara."
+  },
+  {
+   "t": 97.32,
+   "end": 103.96,
+   "text": "The Yavakalapi Sutta of the Salayatana Sanyutta in the Sanyutta Nikkaya has shown us that all"
+  },
+  {
+   "t": 103.96,
+   "end": 111.42,
+   "text": "kinds of thoughts concerning existence that stem from this subtle conceit M are mere imaginings"
+  },
+  {
+   "t": 111.42,
+   "end": 117.8,
+   "text": "or meetingings and that they are called a bondage of Mara because they have the power to keep"
+  },
+  {
+   "t": 117.8,
+   "end": 119.62,
+   "text": "beings shackled to existence."
+  },
+  {
+   "t": 120.02,
+   "end": 127.92,
+   "text": "We have seen how they follow a dichotomy even like the dilemma posed by the fivefold bondage"
+  },
+  {
+   "t": 127.92,
+   "end": 130.3,
+   "text": "of Vepachitti, the king of demons."
+  },
+  {
+   "t": 131.92,
+   "end": 137.32,
+   "text": "Whether one thinks I shall be or I shall not be, one is in bondage tomorrow."
+  },
+  {
+   "t": 138.14,
+   "end": 144.4,
+   "text": "Whether one thinks I shall be percipient or I shall be non-percipient or I shall be neither"
+  },
+  {
+   "t": 144.92,
+   "end": 148.74,
+   "text": "percipient nor non-percipient, one is still in bondage tomorrow."
+  },
+  {
+   "t": 148.74,
+   "end": 151.94,
+   "text": "There is a dichotomy involved here."
+  },
+  {
+   "t": 152.22,
+   "end": 159.82,
+   "text": "The fact that these imaginings which follow a dichotomy must be transcended completely"
+  },
+  {
+   "t": 160.38,
+   "end": 166.1,
+   "text": "as well as the way to transcend them has been preached by the Buddha to venerable Pukkasati"
+  },
+  {
+   "t": 166.1,
+   "end": 169.12,
+   "text": "in the Dhatu Ibangasutta of the Majjumanikaya."
+  },
+  {
+   "t": 169.12,
+   "end": 176.78,
+   "text": "There is a Priti passage forming the grand final of this discourse in which the Buddha gives"
+  },
+  {
+   "t": 176.78,
+   "end": 178.02,
+   "text": "a resume."
+  },
+  {
+   "t": 179.64,
+   "end": 187.68,
+   "text": "We propose to court this passage at the very outset as it scintillates with the majestic fervor"
+  },
+  {
+   "t": 187.68,
+   "end": 188.54,
+   "text": "of the Dhamma."
+  },
+  {
+   "t": 190.16,
+   "end": 190.94,
+   "text": "ParagraphStores."
+  },
+  {
+   "t": 190.94,
+   "end": 193.62,
+   "text": "Here are the three examples of the children."
+  },
+  {
+   "t": 193.62,
+   "end": 198.0,
+   "text": "The Lord is up for the Mataji so that the Buddha shall be on the interests of the Buddha."
+  },
+  {
+   "t": 198.26,
+   "end": 204.96,
+   "text": "To give to God as the Spirit shall be this."
+  },
+  {
+   "t": 205.16,
+   "end": 205.6,
+   "text": "The Buddha shall be called."
+  },
+  {
+   "t": 205.6,
+   "end": 208.7,
+   "text": "The Buddha shall be the power of both brought over the Moon and that are over the fires and"
+  },
+  {
+   "t": 217.74,
+   "end": 218.52,
+   "text": "these are the ones who are captured and the other ones."
+  },
+  {
+   "t": 246.74,
+   "end": 248.48,
+   "text": "Asanyi bhavissanti mannyita metang."
+  },
+  {
+   "t": 248.52,
+   "end": 264.5,
+   "text": "Asanyi bhavissanti amiya manu kinkuppissati akuppa manu kissapihissati yathathitang mannyusava napavattanti mannyusavekhopana napavattamani munisantuti buccati itiyangtaṃ buddhaṃ vidametaṃ takicya buddhaṃ."
+  },
+  {
+   "t": 264.5,
+   "end": 281.3,
+   "text": "In the dhāta vibhanga sutta we find the buddha presenting some points as the theme and gradually developing it, analyzing, clarifying and expatiating as the discourse proceeds."
+  },
+  {
+   "t": 281.3,
+   "end": 294.76,
+   "text": "The opening sentence in the above paragraph is a quotation of a part of that original statement of the buddha which forms the theme."
+  },
+  {
+   "t": 294.76,
+   "end": 296.44,
+   "text": "Here is the rendering."
+  },
+  {
+   "t": 297.1,
+   "end": 302.36,
+   "text": "Steady whereon the tides of imaginings no longer occur in him."
+  },
+  {
+   "t": 302.72,
+   "end": 310.16,
+   "text": "And when the tides of imaginings occur no more in him, he is called a sage stilled."
+  },
+  {
+   "t": 310.16,
+   "end": 315.28,
+   "text": "So it was said, and with reference to what was this said,"
+  },
+  {
+   "t": 316.32,
+   "end": 319.04,
+   "text": "Am monk is something imagined."
+  },
+  {
+   "t": 319.46,
+   "end": 322.42,
+   "text": "I am this is something imagined."
+  },
+  {
+   "t": 322.72,
+   "end": 325.48,
+   "text": "I shall be is something imagined."
+  },
+  {
+   "t": 325.8,
+   "end": 328.48,
+   "text": "I shall not be is something imagined."
+  },
+  {
+   "t": 328.48,
+   "end": 332.44,
+   "text": "I shall be possessed of form is something imagined."
+  },
+  {
+   "t": 332.92,
+   "end": 335.82,
+   "text": "I shall be formless is something imagined."
+  },
+  {
+   "t": 336.32,
+   "end": 339.2,
+   "text": "I shall be percipient is something imagined."
+  },
+  {
+   "t": 339.52,
+   "end": 342.82,
+   "text": "I shall be non-percipient is something imagined."
+  },
+  {
+   "t": 343.14,
+   "end": 347.94,
+   "text": "I shall be neither percipient nor non-percipient is something imagined."
+  },
+  {
+   "t": 348.54,
+   "end": 350.24,
+   "text": "The imagined is a disease."
+  },
+  {
+   "t": 351.02,
+   "end": 352.54,
+   "text": "The imagined is an abscess."
+  },
+  {
+   "t": 353.02,
+   "end": 354.32,
+   "text": "The imagined is a doubt."
+  },
+  {
+   "t": 354.32,
+   "end": 362.24,
+   "text": "It is with the surmounting of all what is imagined, Mark, that a sage is called stilled."
+  },
+  {
+   "t": 362.62,
+   "end": 371.84,
+   "text": "The sage who is stilled is not born, nor does he age, nor does he die, nor is he shaken,"
+  },
+  {
+   "t": 372.12,
+   "end": 378.68,
+   "text": "and he has no longing. Even that is not in him whereby he might be born."
+  },
+  {
+   "t": 378.68,
+   "end": 388.08,
+   "text": "Not being born, how shall he age? Not aging, how shall he die? Not dying, how shall he be shaken?"
+  },
+  {
+   "t": 388.64,
+   "end": 396.54,
+   "text": "Being unshaken, what shall he long for? So it was with reference to this that it was said,"
+  },
+  {
+   "t": 396.82,
+   "end": 404.24,
+   "text": "steadied whereon the tides of imaginings no longer occur in him, he is called a sage stilled."
+  },
+  {
+   "t": 404.24,
+   "end": 411.78,
+   "text": "All this goes to show how relevant the question of imaginings is to the path leading to Nimbana."
+  },
+  {
+   "t": 412.58,
+   "end": 417.84,
+   "text": "This pithy passage which brings the discourse to a climax,"
+  },
+  {
+   "t": 418.14,
+   "end": 426.4,
+   "text": "portrays how the sage is at peace when his mind is released by stemming the tides of imaginings."
+  },
+  {
+   "t": 426.4,
+   "end": 437.94,
+   "text": "He attains release from birth, decay and death, here and now, because he has realized the cessation of existence in this very world."
+  },
+  {
+   "t": 437.94,
+   "end": 443.76,
+   "text": "It is in this light that we have to interpret the above statement."
+  },
+  {
+   "t": 444.2,
+   "end": 451.76,
+   "text": "Even that is not in him whereby he might be born, dependent on existence is birth."
+  },
+  {
+   "t": 452.26,
+   "end": 460.38,
+   "text": "Due to whatever postulate of existence one can speak of a birth, even that existence is not in him."
+  },
+  {
+   "t": 461.12,
+   "end": 468.12,
+   "text": "Not being born, how can he age? How can he grow old or decay?"
+  },
+  {
+   "t": 469.16,
+   "end": 474.5,
+   "text": "This is because of the implicit interrelation between conditions."
+  },
+  {
+   "t": 474.94,
+   "end": 480.1,
+   "text": "Here we can flash back to our analogy of a tree mentioned earlier."
+  },
+  {
+   "t": 480.1,
+   "end": 487.44,
+   "text": "In order to explain the mutual interrelation between the concepts of birth, decay and death,"
+  },
+  {
+   "t": 487.7,
+   "end": 491.58,
+   "text": "we brought up a simile which, however, is not canonical."
+  },
+  {
+   "t": 492.08,
+   "end": 502.26,
+   "text": "That is to say, supposing there is some kind of tree, the buds, the leaves, the flowers, the fruits and the wood of which"
+  },
+  {
+   "t": 502.26,
+   "end": 506.76,
+   "text": "could be sold for making one's livelihood."
+  },
+  {
+   "t": 507.18,
+   "end": 518.64,
+   "text": "If five men, trading in each of those items respectively, are made to line up at some particular stage in the growth of a tree,"
+  },
+  {
+   "t": 520.26,
+   "end": 524.14,
+   "text": "and asked whether the tree is too young or too old,"
+  },
+  {
+   "t": 524.14,
+   "end": 531.92,
+   "text": "the answers given might differ according to the individual standpoint grasped in each case."
+  },
+  {
+   "t": 532.32,
+   "end": 535.44,
+   "text": "It turns out to be a difference of viewpoint."
+  },
+  {
+   "t": 535.86,
+   "end": 542.04,
+   "text": "For instance, the man who makes his living by selling the buds would reply"
+  },
+  {
+   "t": 542.04,
+   "end": 546.4,
+   "text": "that the tree is too old when the buds turn into leaves."
+  },
+  {
+   "t": 547.18,
+   "end": 552.84,
+   "text": "Similarly, when it is the season for the leaves to fall and the flowers to bloom,"
+  },
+  {
+   "t": 552.84,
+   "end": 558.14,
+   "text": "one who trades in leaves might say that the tree is too old,"
+  },
+  {
+   "t": 558.64,
+   "end": 565.9,
+   "text": "and when flowers turn into fruits, the florist's viewpoint would be similar."
+  },
+  {
+   "t": 566.58,
+   "end": 575.66,
+   "text": "In this way, one can understand how this concept changes according to what one grasps,"
+  },
+  {
+   "t": 575.9,
+   "end": 579.2,
+   "text": "that there is an implicit relativity about it."
+  },
+  {
+   "t": 579.2,
+   "end": 584.94,
+   "text": "Now, as for this sage, he has given up everything that he had grasped."
+  },
+  {
+   "t": 585.66,
+   "end": 587.92,
+   "text": "Grasping has been given up completely."
+  },
+  {
+   "t": 589.68,
+   "end": 592.66,
+   "text": "Imagining too has been abandoned."
+  },
+  {
+   "t": 593.22,
+   "end": 597.26,
+   "text": "Hence, not being born, how shall he age?"
+  },
+  {
+   "t": 597.26,
+   "end": 599.72,
+   "text": "He has no possibility and will not be,"
+  },
+  {
+   "t": 599.72,
+   "end": 599.9,
+   "text": "My husband, I am not sure."
+  },
+  {
+   "t": 599.9,
+   "end": 599.98,
+   "text": "Thank you."
+  },
+  {
+   "t": 600.0,
+   "end": 606.56,
+   "text": "of existence. Since there is no existence, there is no birth. Because there is no birth,"
+  },
+  {
+   "t": 606.76,
+   "end": 614.94,
+   "text": "there is no decay. It is a well-known fact that the term jara implies both growth and decay."
+  },
+  {
+   "t": 616.08,
+   "end": 623.6,
+   "text": "It is after setting a limit that we speak of a process of decay after growth. This limit,"
+  },
+  {
+   "t": 623.6,
+   "end": 629.68,
+   "text": "however, varies according to our individual standpoint grasped, according to our point"
+  },
+  {
+   "t": 629.68,
+   "end": 638.04,
+   "text": "of view. That is, what we have tried to illustrate by this analogy. Then we have the statement,"
+  },
+  {
+   "t": 638.44,
+   "end": 646.1,
+   "text": "not aging, how shall he die? Since decay is an approach to death, where there is no decay,"
+  },
+  {
+   "t": 646.36,
+   "end": 653.26,
+   "text": "there is no death. The fact that there is no death, we have already seen in our exposition"
+  },
+  {
+   "t": 653.26,
+   "end": 661.16,
+   "text": "of the significance of the verses quoted above from Adimutta Theragatha. When the bandits"
+  },
+  {
+   "t": 661.16,
+   "end": 665.52,
+   "text": "got round to kill the Venerable Adimutta, he declared,"
+  },
+  {
+   "t": 666.38,
+   "end": 676.2,
+   "text": "Nami hoti ahosinti bhavishanti nahoti me saṅkhāra vibhavishanti tathaka paridevana. It does not occur"
+  },
+  {
+   "t": 676.2,
+   "end": 684.76,
+   "text": "to me, I was, nor does it occur to me, I shall be. Mere preparations will get destroyed. What"
+  },
+  {
+   "t": 684.76,
+   "end": 692.72,
+   "text": "is there to lament? This declaration exemplifies the above statement. When all graspings are"
+  },
+  {
+   "t": 692.72,
+   "end": 701.7,
+   "text": "given up, there is no decay or death. Ami yamanu kinkuppissati, not dying, how shall he be shaken?"
+  },
+  {
+   "t": 702.14,
+   "end": 709.9,
+   "text": "The word kuppati does not necessarily mean getting annoyed. Here it means to be shaken up."
+  },
+  {
+   "t": 709.9,
+   "end": 720.52,
+   "text": "O mort, when one holds on to a standpoint, one gets shaken up, if someone else tries to dislodge"
+  },
+  {
+   "t": 720.52,
+   "end": 729.38,
+   "text": "him from that standpoint. The deliverance in Nibbana is called kuppa ceto vimutti, the unshakable"
+  },
+  {
+   "t": 729.38,
+   "end": 737.66,
+   "text": "deliverance of the mind. All other deliverances of the mind known to the world are shakeable. Kuppa,"
+  },
+  {
+   "t": 737.66,
+   "end": 748.36,
+   "text": "they are unsteady. They shake before the pain of death. Only Nibbana is called akuppa ceto vimutti,"
+  },
+  {
+   "t": 748.54,
+   "end": 758.1,
+   "text": "the unshakable deliverance of the mind. So this peaceful sage, the arahant, established in that"
+  },
+  {
+   "t": 758.1,
+   "end": 767.0,
+   "text": "concentration of the fruit of arahantship, arahattophala samadhi, which is known as the influx-free"
+  },
+  {
+   "t": 767.0,
+   "end": 774.62,
+   "text": "deliverance of the mind, anasava ceto vimutti, and is endowed with the wisdom proper to arahantship,"
+  },
+  {
+   "t": 774.78,
+   "end": 784.46,
+   "text": "panya vimutti, deliverance through wisdom, is unshaken before death. His mind remains unshaken."
+  },
+  {
+   "t": 784.46,
+   "end": 792.88,
+   "text": "That is why the arahantthera venerable adhimutti fearlessly made the above declaration to the"
+  },
+  {
+   "t": 792.88,
+   "end": 802.06,
+   "text": "bandits. Now as to the significance of the buddha statement, amiyamano kinkuppissati, akuppamano kisspissati,"
+  },
+  {
+   "t": 803.21,
+   "end": 812.31,
+   "text": "not dying, how shall he be shaken? And being unshaken, what shall he long for? When there is no shock,"
+  },
+  {
+   "t": 813.47,
+   "end": 823.43,
+   "text": "no agitation or trembling, what does one long for? Piham means longing, desiring for something or other."
+  },
+  {
+   "t": 824.39,
+   "end": 832.03,
+   "text": "In this context, it refers to that longing which arises at the moment of death in one who has not"
+  },
+  {
+   "t": 832.03,
+   "end": 839.63,
+   "text": "destroyed craving. It is as a consequence of that longing that he enters some form of existence"
+  },
+  {
+   "t": 839.63,
+   "end": 848.49,
+   "text": "according to his common. That longing is not there in this sage for the simple reason that he is"
+  },
+  {
+   "t": 848.49,
+   "end": 855.95,
+   "text": "unshaken before death. He has nothing to look forward to. No desires or longings."
+  },
+  {
+   "t": 858.69,
+   "end": 866.43,
+   "text": "Being unshaken, what shall he long for? It is obvious therefore that the concepts of birth,"
+  },
+  {
+   "t": 866.65,
+   "end": 874.47,
+   "text": "decay and death become meaningless to this sage. That is precisely why he is at peace having"
+  },
+  {
+   "t": 874.47,
+   "end": 882.97,
+   "text": "transcended all imaginings. All this goes to show that Nibbana is a state beyond decay and death."
+  },
+  {
+   "t": 884.47,
+   "end": 891.69,
+   "text": "We can clearly understand from this discourse why Nibbana is known as a decayless, deathless state,"
+  },
+  {
+   "t": 892.31,
+   "end": 901.45,
+   "text": "realizable in this very world. That sage has conquered decay and death here and now because he has"
+  },
+  {
+   "t": 901.45,
+   "end": 909.77,
+   "text": "realized the cessation of existence here and now. This is something extremely wonderful about the Arahant."
+  },
+  {
+   "t": 910.13,
+   "end": 920.03,
+   "text": "He realizes the cessation of existence in his attainment to the fruit of Arahant. How does he come to realize"
+  },
+  {
+   "t": 920.03,
+   "end": 929.83,
+   "text": "the cessation of existence? Craving is extinct in him, hence there is no grasping. Where there is no grasping,"
+  },
+  {
+   "t": 929.83,
+   "end": 937.95,
+   "text": "there is no existence. Precisely because there is no existence, birth, decay and death along with sorrow and lamentation"
+  },
+  {
+   "t": 937.95,
+   "end": 947.73,
+   "text": "cease altogether. From the foregoing we could well infer that all those concepts like birth, decay, death,"
+  },
+  {
+   "t": 948.05,
+   "end": 956.09,
+   "text": "sorrow, lamentation, pain, grief and despair come about as a result of a heap of pervert perceptions,"
+  },
+  {
+   "t": 956.09,
+   "end": 964.87,
+   "text": "pervert thoughts, pervert thoughts and pervert views based on the conceit of an existence, the conceit M."
+  },
+  {
+   "t": 966.25,
+   "end": 974.39,
+   "text": "The three kinds of perversions known as sanya viparlase, chitta viparlase and dithi viparlase"
+  },
+  {
+   "t": 974.39,
+   "end": 983.43,
+   "text": "give rise to a mass of concepts of an imaginary nature. The entire mass of suffering summed up by the terms"
+  },
+  {
+   "t": 983.43,
+   "end": 990.79,
+   "text": "birth, decay, death, sorrow, lamentation, pain, grief and despair are basically of a mental origin."
+  },
+  {
+   "t": 991.35,
+   "end": 999.69,
+   "text": "For an illustration of this fact we can go back to our analogy of winding some strands into a rope"
+  },
+  {
+   "t": 999.69,
+   "end": 1007.91,
+   "text": "mentioned earlier. He pointed out that in the case of some strands that are being mistakenly wound"
+  },
+  {
+   "t": 1007.91,
+   "end": 1016.05,
+   "text": "in the same direction, it is the grasp in the middle that gives at least the semblance of a rope to it."
+  },
+  {
+   "t": 1016.53,
+   "end": 1023.91,
+   "text": "So long as there is no such grasping, the strands do not become knotty or tense as they go round and"
+  },
+  {
+   "t": 1023.91,
+   "end": 1032.29,
+   "text": "round. It is only when someone grasps it in the middle that the strands begin to get winded up,"
+  },
+  {
+   "t": 1032.55,
+   "end": 1042.57,
+   "text": "knotty and tense. What is called existence or becoming, bhava, follows the same norm. True to the law of"
+  },
+  {
+   "t": 1042.57,
+   "end": 1049.55,
+   "text": "impermanence, everything in the world changes. But there is something innocent in this change."
+  },
+  {
+   "t": 1050.37,
+   "end": 1058.23,
+   "text": "Impermanence is innocuous in itself. We say it is innocuous because it means no harm to anyone."
+  },
+  {
+   "t": 1058.75,
+   "end": 1068.21,
+   "text": "It is simply the nature of this world, the suchness, the known. It can do us harm only when we grasp,"
+  },
+  {
+   "t": 1068.47,
+   "end": 1077.19,
+   "text": "just as in the case of that krasi rope. The tenseness between winding and unwinding arising out of that"
+  },
+  {
+   "t": 1077.19,
+   "end": 1085.03,
+   "text": "grasp in the middle is comparable to what is called bhava-sankhara, preparations for existence."
+  },
+  {
+   "t": 1086.55,
+   "end": 1096.33,
+   "text": "Sankhara or preparations are said to be dependent on abhijja or ignorance. Now we can form an idea of"
+  },
+  {
+   "t": 1096.33,
+   "end": 1101.75,
+   "text": "the relationship between these two even from this analogy of the rope."
+  },
+  {
+   "t": 1103.21,
+   "end": 1113.21,
+   "text": "The grasp in the middle creates two ends giving rise to a dilemma. In the case of existence too,"
+  },
+  {
+   "t": 1114.05,
+   "end": 1123.61,
+   "text": "grasping leads to an antinomian conflict. To become a thing is to disintegrate into another thing. On a"
+  },
+  {
+   "t": 1123.61,
+   "end": 1129.83,
+   "text": "previous occasion we happened to discuss the significance of the term manyana, me thinking or imagining,"
+  },
+  {
+   "t": 1130.15,
+   "end": 1136.35,
+   "text": "with reference to the verse, ena ena hi manyanti, tato tanhoti, anyatha, etc."
+  },
+  {
+   "t": 1138.01,
+   "end": 1146.01,
+   "text": "Manyana itself gives rise to a thing which from its very inception goes on disintegrating into another"
+  },
+  {
+   "t": 1146.01,
+   "end": 1154.49,
+   "text": "thing. Just as much as grasping leads to the concept of two ends to become a thing is to start"
+  },
+  {
+   "t": 1155.29,
+   "end": 1161.69,
+   "text": "changing into another thing. That is, it comes under the sphere of the law of impermanence."
+  },
+  {
+   "t": 1162.59,
+   "end": 1170.55,
+   "text": "Illustrations of this norm are sometimes to be met with in the discourses, but their significance is"
+  },
+  {
+   "t": 1170.55,
+   "end": 1178.09,
+   "text": "often ignored. The idea of the two ends and the middle sometimes finds expression in the reference"
+  },
+  {
+   "t": 1178.09,
+   "end": 1187.45,
+   "text": "to an above, below and across in the middle, uddham, adho, tiriyaan, majje, or in the terms before,"
+  },
+  {
+   "t": 1187.73,
+   "end": 1196.31,
+   "text": "behind and middle, puri, paccha, majja. Such references deal with some deep aspects of the dhamma"
+  },
+  {
+   "t": 1196.31,
+   "end": 1199.61,
+   "text": "relating to nibbara. As a good illustration,"
+  },
+  {
+   "t": 1200.0,
+   "end": 1208.22,
+   "text": "We may take up the following two verses from the Mettagu Manava Pucca in the Parayana Vag of the Sutta Nipad."
+  },
+  {
+   "t": 1232.76,
+   "end": 1246.34,
+   "text": "Whatever you may know to be above, below and across in the middle, dispel the delight and the tendency to dwell in them. Then your consciousness will not remain in existence."
+  },
+  {
+   "t": 1246.34,
+   "end": 1263.68,
+   "text": "A monk endowed with understanding, thus dwelling mindful and heedful, as he fares along giving up all possessions, would abandon even here and now, birth, decay, sorrow, lamentation and suffering."
+  },
+  {
+   "t": 1263.68,
+   "end": 1278.42,
+   "text": "The word idheva occurring in the second verse is highly significant in that it means the abandonment of all those things here and now, not leaving it for an existence to come."
+  },
+  {
+   "t": 1280.34,
+   "end": 1289.8,
+   "text": "In the Mahavihuha Sutta of the Sutta Nipad, also a similar emphasis is laid on this idea of here and now."
+  },
+  {
+   "t": 1290.52,
+   "end": 1295.98,
+   "text": "About the Arahant it is said that he has no death or birth here and now."
+  },
+  {
+   "t": 1296.46,
+   "end": 1302.68,
+   "text": "Chutu Papato Idha Yasa Natti, to whom even here there is no death or birth."
+  },
+  {
+   "t": 1302.68,
+   "end": 1310.64,
+   "text": "In this very world, he has transcended them by making those two concepts meaningless."
+  },
+  {
+   "t": 1311.8,
+   "end": 1316.18,
+   "text": "The word Nimesana occurring in the first verse is also significant."
+  },
+  {
+   "t": 1316.56,
+   "end": 1317.86,
+   "text": "It means dwelling."
+  },
+  {
+   "t": 1318.38,
+   "end": 1321.8,
+   "text": "In consciousness there is a tendency to dwelling."
+  },
+  {
+   "t": 1322.18,
+   "end": 1329.54,
+   "text": "That is why in some contexts it is said that form is the abode or dwelling place of consciousness."
+  },
+  {
+   "t": 1329.54,
+   "end": 1334.0,
+   "text": "Rupa Dhatu Kho Ghaapati Vinyanas Oko"
+  },
+  {
+   "t": 1334.0,
+   "end": 1338.86,
+   "text": "The form element householder is the abode of consciousness."
+  },
+  {
+   "t": 1340.1,
+   "end": 1344.82,
+   "text": "The terms Oko, Niketa and Nimesana are synonymous."
+  },
+  {
+   "t": 1346.5,
+   "end": 1349.64,
+   "text": "Meaning, abode, home or dwelling place."
+  },
+  {
+   "t": 1350.66,
+   "end": 1355.44,
+   "text": "The nature of consciousness in general is to abide or dwelling."
+  },
+  {
+   "t": 1356.4,
+   "end": 1366.36,
+   "text": "That non-manifestative consciousness, Anidasana Vinyana, however, has got rid of the tendency to abide or dwell in."
+  },
+  {
+   "t": 1367.02,
+   "end": 1377.2,
+   "text": "Now we can revert to the passage in the Dhatu Vibhanga Sutta, which speaks of an occurrence of tides of imaginings."
+  },
+  {
+   "t": 1377.2,
+   "end": 1380.68,
+   "text": "The passage, the passage actually begins with the words,"
+  },
+  {
+   "t": 1381.4,
+   "end": 1383.88,
+   "text": "Yathathetam Manyusava Nappavattanti"
+  },
+  {
+   "t": 1383.88,
+   "end": 1389.02,
+   "text": "Studied whereon, the tides of imaginings occur no more in him."
+  },
+  {
+   "t": 1389.7,
+   "end": 1398.78,
+   "text": "The idea behind this occurrence of tides of imaginings is quite often represented by the concept of Asava, influx."
+  },
+  {
+   "t": 1399.72,
+   "end": 1412.6,
+   "text": "Sensuality, karma, existence, power, vives, ditthi and ignorance, avijja, are referred to as influxes, asava, okhaj, okhaj."
+  },
+  {
+   "t": 1412.6,
+   "end": 1420.36,
+   "text": "These are the four kinds of samsaric habits that continuously flow into the minds of beings."
+  },
+  {
+   "t": 1421.3,
+   "end": 1430.58,
+   "text": "The above-mentioned sutta passage refers to a place steadied whereon the tides of imaginings do not occur or flowy,"
+  },
+  {
+   "t": 1430.98,
+   "end": 1433.72,
+   "text": "a place that is free from their influence."
+  },
+  {
+   "t": 1434.48,
+   "end": 1442.98,
+   "text": "This is none other than Nibbana, for which one of the epithets used is Deepa, or Island."
+  },
+  {
+   "t": 1443.52,
+   "end": 1450.76,
+   "text": "Since Nibbana is called an Island, some might take it literally to mean some sort of a place in this world."
+  },
+  {
+   "t": 1451.24,
+   "end": 1455.1,
+   "text": "In fact, this is the general concept of Nibbana."
+  },
+  {
+   "t": 1455.5,
+   "end": 1460.18,
+   "text": "Some are prone to uphold in their interpretation of Nibbana."
+  },
+  {
+   "t": 1460.18,
+   "end": 1473.32,
+   "text": "But why it is called an Island is clearly explained for us by a discourse in the Parayana Vag of the Sutta Nipata, namely Kappamānava Puccha."
+  },
+  {
+   "t": 1474.22,
+   "end": 1480.4,
+   "text": "In this Sutta, the Brahmin youth, Kappa, poses the following question to the Buddha."
+  },
+  {
+   "t": 1494.78,
+   "end": 1503.8,
+   "text": "To them that stand midstream, so said the Venerable Kappa, when the frightful floods flow forth,"
+  },
+  {
+   "t": 1504.92,
+   "end": 1513.9,
+   "text": "To them in decay and death forlorn, an Island sire, may you proclaim, an Island which none else excels."
+  },
+  {
+   "t": 1514.4,
+   "end": 1516.9,
+   "text": "Ya, such an Isle, pray tell me sire."
+  },
+  {
+   "t": 1517.54,
+   "end": 1520.04,
+   "text": "And this is the Buddha's reply to it."
+  },
+  {
+   "t": 1529.44,
+   "end": 1534.98,
+   "text": "Owning note, clasping note, the Isle is this, none else decides."
+  },
+  {
+   "t": 1535.62,
+   "end": 1538.22,
+   "text": "Nibbana, that's how I call that Isle."
+  },
+  {
+   "t": 1539.06,
+   "end": 1542.96,
+   "text": "Very, decay is decayed and death is dead."
+  },
+  {
+   "t": 1542.96,
+   "end": 1552.18,
+   "text": "The Buddha's reply makes it clear that the term Nibbana stands for the extinction of craving and grasping."
+  },
+  {
+   "t": 1552.7,
+   "end": 1559.34,
+   "text": "The ideal of owning note and grasping note is itself Nibbana and nothing else."
+  },
+  {
+   "t": 1560.22,
+   "end": 1565.46,
+   "text": "If the term had any other connotation, the Buddha would have mentioned it in this context."
+  },
+  {
+   "t": 1565.46,
+   "end": 1575.52,
+   "text": "It is indubitably clear then, that the epithet Thipan, or Island, has to be understood in a deeper sense, when it refers to Nibbana."
+  },
+  {
+   "t": 1575.9,
+   "end": 1581.3,
+   "text": "It is that owning nothing and grasping nothing, that puts an end to decay and death."
+  },
+  {
+   "t": 1581.9,
+   "end": 1586.1,
+   "text": "Though we have yet to finish the discussion of the Dhatu Ibangasutta,"
+  },
+  {
+   "t": 1586.1,
+   "end": 1595.2,
+   "text": "the stage is already set now, to understand the significance of a certain brief discourse in the Udana,"
+  },
+  {
+   "t": 1595.9,
+   "end": 1599.32,
+   "text": "which is very often quartered in discussions on Nibbana."
+  },
+  {
+   "t": 1600.32,
+   "end": 1606.8,
+   "text": "For the facility of understanding, we shall take it up now, as it somehow fits into the context."
+  },
+  {
+   "t": 1606.8,
+   "end": 1611.86,
+   "text": "Atthi bhikave ajatang, abhutang, akatang, asankhatang."
+  },
+  {
+   "t": 1612.16,
+   "end": 1617.72,
+   "text": "Nocetang bhikave abhavis, ajatang, abhutang, akatang, asankhatang."
+  },
+  {
+   "t": 1618.1,
+   "end": 1624.64,
+   "text": "Nayidh, jatas, bhutas, katas, sankhatas, nisar nangpanyayet."
+  },
+  {
+   "t": 1637.64,
+   "end": 1643.58,
+   "text": "Monks, there is a not born, a not become, a not made, a not compounded."
+  },
+  {
+   "t": 1643.58,
+   "end": 1650.06,
+   "text": "Monks, if that not born, a not become, a not made, a not compounded were not,"
+  },
+  {
+   "t": 1650.84,
+   "end": 1657.84,
+   "text": "there would be no stepping out here from what is born, become, made, and compounded."
+  },
+  {
+   "t": 1658.26,
+   "end": 1664.64,
+   "text": "But since monks, the eyes are not born, a not become, a not made, a not compounded,"
+  },
+  {
+   "t": 1664.8,
+   "end": 1670.4,
+   "text": "therefore the eyes are stepping out from what is born, become, made, compounded."
+  },
+  {
+   "t": 1670.4,
+   "end": 1680.08,
+   "text": "The terms ajatang, not born, abhutang, not become, akatang, not made, and asankhatang, not compounded,"
+  },
+  {
+   "t": 1680.24,
+   "end": 1682.66,
+   "text": "are all epithets for nibbara."
+  },
+  {
+   "t": 1683.1,
+   "end": 1689.36,
+   "text": "The Buddha declares that if not for this, not born, not become, not made, not compounded,"
+  },
+  {
+   "t": 1689.52,
+   "end": 1696.46,
+   "text": "there would be no possibility of stepping out or release here, that is in this very world,"
+  },
+  {
+   "t": 1696.46,
+   "end": 1700.54,
+   "text": "from the born, the become, the made, and the compounded."
+  },
+  {
+   "t": 1701.06,
+   "end": 1707.56,
+   "text": "The second half of the passage rhetorically reiterates and emphasizes the same fact."
+  },
+  {
+   "t": 1708.14,
+   "end": 1713.08,
+   "text": "Now as to the significance of this profound declaration of the Buddha,"
+  },
+  {
+   "t": 1713.48,
+   "end": 1720.3,
+   "text": "we may point out that the terms not born, not become, not made, not compounded,"
+  },
+  {
+   "t": 1720.3,
+   "end": 1728.06,
+   "text": "suggest the emancipation of the arahan's mind from birth, becoming, and preparations, sankhara."
+  },
+  {
+   "t": 1729.04,
+   "end": 1735.04,
+   "text": "They refer to the cessation of birth, becoming, and preparations realized by the arahan."
+  },
+  {
+   "t": 1736.08,
+   "end": 1740.02,
+   "text": "So then the significance of these terms are purely psychological."
+  },
+  {
+   "t": 1741.1,
+   "end": 1749.42,
+   "text": "But the commentator, the venerable Dhammapala, pays little attention to the word idha, here, in this passage,"
+  },
+  {
+   "t": 1749.68,
+   "end": 1751.06,
+   "text": "which needs to be emphasized."
+  },
+  {
+   "t": 1751.62,
+   "end": 1758.64,
+   "text": "The fact that there is a possibility, here and now, of stepping out from the state of born,"
+  },
+  {
+   "t": 1759.16,
+   "end": 1763.02,
+   "text": "become, made, and compounded, surely deserves emphasis,"
+  },
+  {
+   "t": 1763.76,
+   "end": 1769.94,
+   "text": "since, until then, release from decay and death was thought to be possible"
+  },
+  {
+   "t": 1769.94,
+   "end": 1774.7,
+   "text": "only in another dimension of existence, that is, after death."
+  },
+  {
+   "t": 1775.06,
+   "end": 1781.08,
+   "text": "The prospect of stepping out from decay and death, here and now, in this very world,"
+  },
+  {
+   "t": 1782.22,
+   "end": 1785.94,
+   "text": "has to be asserted for its novelty,"
+  },
+  {
+   "t": 1786.34,
+   "end": 1791.44,
+   "text": "which is why the declaration opens with the word atthi, there is."
+  },
+  {
+   "t": 1791.44,
+   "end": 1798.44,
+   "text": "However, most of the scholars would try to interpret this passage in their discussions on Nibbana."
+  },
+  {
+   "t": 1800.0,
+   "end": 1815.5,
+   "text": "Instead of laying stress on the word idha, here, emphasize the opening word atthi, there is, to prove that Nibbana is some form of reality absolutely existing somewhere."
+  },
+  {
+   "t": 1816.42,
+   "end": 1830.72,
+   "text": "As that passage from the Dhatu Vibhanga Sutra on Manyana, which we discussed, has shown us, the terms Ajātaṁ, Abhotaṁ, Akataṁ and Asaṅkhaṁ have to be understood in a deeper sense."
+  },
+  {
+   "t": 1831.7,
+   "end": 1839.04,
+   "text": "Existence is a conceit deep rooted in the mind which gives rise to a heap of pervert notions."
+  },
+  {
+   "t": 1839.04,
+   "end": 1846.76,
+   "text": "Its cessation, therefore, has also to be accomplished in the mind and by the mind."
+  },
+  {
+   "t": 1847.26,
+   "end": 1850.06,
+   "text": "This is the gist of the Buddha's exhortation."
+  },
+  {
+   "t": 1850.76,
+   "end": 1856.82,
+   "text": "Let us now come back to the Dhatu Vibhanga Sutra to discuss another facet of it."
+  },
+  {
+   "t": 1857.12,
+   "end": 1865.46,
+   "text": "We started our discussion with the grand final of that discourse because of its relevance to the question of Manyana."
+  },
+  {
+   "t": 1865.46,
+   "end": 1879.7,
+   "text": "However, as a matter of fact, this discourse preached by the Buddha to the venerable Kusāti is an exposition of a systematic path of practice for the emancipation of the mind from imaginings of Manyana."
+  },
+  {
+   "t": 1880.14,
+   "end": 1883.02,
+   "text": "The discourse begins with the declaration,"
+  },
+  {
+   "t": 1883.02,
+   "end": 1885.74,
+   "text": "Chaddha Thuro Ayangbhik Puriso."
+  },
+  {
+   "t": 1886.78,
+   "end": 1891.72,
+   "text": "Monk, man as such, is a combination of six elements."
+  },
+  {
+   "t": 1892.62,
+   "end": 1902.2,
+   "text": "The whirling thinks that a being, Satya, Sanskrit Satya, exists at a higher level of reality than inanimate objects."
+  },
+  {
+   "t": 1902.2,
+   "end": 1909.46,
+   "text": "Now what did the Buddha do to explore this concept of a being in his discourse to venerable Kusāti?"
+  },
+  {
+   "t": 1909.76,
+   "end": 1923.88,
+   "text": "He literally thrashed out that concept by breaking up this man into his basic elements and defining him as a bundle of six elements."
+  },
+  {
+   "t": 1923.88,
+   "end": 1932.04,
+   "text": "Namely, earth, water, fire, air, space and consciousness."
+  },
+  {
+   "t": 1933.04,
+   "end": 1943.68,
+   "text": "As the discourse proceeds, he explains it in an extremely lucid manner how one can detach one's mind from each of these elements."
+  },
+  {
+   "t": 1943.68,
+   "end": 1956.92,
+   "text": "We happen to mention at the very outset that the depth of the dharma has to be seen through lucidity and not through complicated over drawings."
+  },
+  {
+   "t": 1957.48,
+   "end": 1962.02,
+   "text": "In fact, this discourse exhibits such a lucidity."
+  },
+  {
+   "t": 1962.02,
+   "end": 1970.34,
+   "text": "The meditation subject of elements which grew in complexity at the hands of the later Buddhist philosophers,"
+  },
+  {
+   "t": 1971.2,
+   "end": 1975.4,
+   "text": "who took to atomistic analysis of a speculative sort,"
+  },
+  {
+   "t": 1975.66,
+   "end": 1981.48,
+   "text": "is presented here in this Dhatavibhanga Sutra with a refreshing clarity and lucidity."
+  },
+  {
+   "t": 1981.76,
+   "end": 1986.5,
+   "text": "Here it is explained in such a way that one can directly experience it."
+  },
+  {
+   "t": 1986.5,
+   "end": 2003.18,
+   "text": "For instance, in describing the earth element, the Buddha gives as examples of the internal earth element such parts of the body as head hairs, body hairs, nails and teeth."
+  },
+  {
+   "t": 2003.56,
+   "end": 2012.48,
+   "text": "Because the external earth element hardly needs illustrations, nothing in particular has been mentioned as to that aspect."
+  },
+  {
+   "t": 2012.48,
+   "end": 2016.32,
+   "text": "Anyone can easily understand what is meant by it."
+  },
+  {
+   "t": 2016.76,
+   "end": 2020.48,
+   "text": "There is no attempt at atomistic analysis."
+  },
+  {
+   "t": 2020.92,
+   "end": 2027.46,
+   "text": "However, the Buddha draws special attention to a certain first principle of great significance."
+  },
+  {
+   "t": 2052.64,
+   "end": 2057.32,
+   "text": "That which is the internal earth element, and that which is the internal earth element."
+  },
+  {
+   "t": 2057.32,
+   "end": 2063.9,
+   "text": "The external earth element, they are both just the earth element itself."
+  },
+  {
+   "t": 2064.36,
+   "end": 2069.76,
+   "text": "And that should be seen as it is with right wisdom thus."
+  },
+  {
+   "t": 2070.28,
+   "end": 2071.72,
+   "text": "This is not mine."
+  },
+  {
+   "t": 2072.18,
+   "end": 2073.6,
+   "text": "I am not this."
+  },
+  {
+   "t": 2073.82,
+   "end": 2075.64,
+   "text": "This is not myself."
+  },
+  {
+   "t": 2076.62,
+   "end": 2083.28,
+   "text": "Having seen thus with right wisdom as it is, he becomes dejected with the earth element."
+  },
+  {
+   "t": 2083.28,
+   "end": 2086.44,
+   "text": "He detaches his mind from the earth element."
+  },
+  {
+   "t": 2086.82,
+   "end": 2094.1,
+   "text": "It is this first principle that is truly important and not any kind of atomic theory."
+  },
+  {
+   "t": 2094.1,
+   "end": 2105.76,
+   "text": "This resolution of the internal-external conflict has in it the secret of stopping the samsaric vortex of reiterated becoming samsaravatta."
+  },
+  {
+   "t": 2107.02,
+   "end": 2115.76,
+   "text": "It is due to the very discrimination between an internal and an external that this samsaric vortex is kept going."
+  },
+  {
+   "t": 2115.76,
+   "end": 2124.86,
+   "text": "Now, in the case of a vortex, what is found inside and outside is simply water."
+  },
+  {
+   "t": 2125.52,
+   "end": 2133.18,
+   "text": "But all the same, there is such a vehement speed and activity and a volley of changes going on there."
+  },
+  {
+   "t": 2133.48,
+   "end": 2135.92,
+   "text": "So it is the case with this man."
+  },
+  {
+   "t": 2136.7,
+   "end": 2139.88,
+   "text": "What is found in his body is the earth element."
+  },
+  {
+   "t": 2140.24,
+   "end": 2143.46,
+   "text": "What is to be found outside is also the earth element."
+  },
+  {
+   "t": 2143.76,
+   "end": 2148.18,
+   "text": "And yet the ordinary person sees quite a wide disparity between the two."
+  },
+  {
+   "t": 2148.44,
+   "end": 2149.4,
+   "text": "Why is that?"
+  },
+  {
+   "t": 2149.68,
+   "end": 2152.68,
+   "text": "That is because of the illusory nature of consciousness."
+  },
+  {
+   "t": 2153.16,
+   "end": 2159.16,
+   "text": "We have devoted a number of sermons to explain the relationship between consciousness and name and form."
+  },
+  {
+   "t": 2159.16,
+   "end": 2163.98,
+   "text": "We happen to speak of name and form as a reflection of a self-image."
+  },
+  {
+   "t": 2164.6,
+   "end": 2170.7,
+   "text": "Even as one who comes before a mirror, on seeing his reflection on it, would say,"
+  },
+  {
+   "t": 2170.86,
+   "end": 2173.86,
+   "text": "This is mine, this am I, this is myself."
+  },
+  {
+   "t": 2174.4,
+   "end": 2179.74,
+   "text": "The worldling is in the habit of entertaining cravings, conceits and views."
+  },
+  {
+   "t": 2179.74,
+   "end": 2188.5,
+   "text": "In fact, the purpose of cravings, conceits and views is to reinforce the distinction between an internal and an external."
+  },
+  {
+   "t": 2188.86,
+   "end": 2196.9,
+   "text": "Already when one says, This is mine, one discriminates between the this and I, taking them to be separate realities."
+  },
+  {
+   "t": 2197.9,
+   "end": 2202.78,
+   "text": "This am I and this is myself betray the same tacit assumption."
+  },
+  {
+   "t": 2203.94,
+   "end": 2216.06,
+   "text": "Just as by looking at a mirror, one may like or dislike the image appearing on it, these three points of view give rise to various pervert notions."
+  },
+  {
+   "t": 2216.52,
+   "end": 2227.1,
+   "text": "All this because of the perpetuation of the distinction between an internal and an external, which is the situation with the ordinary worldling."
+  },
+  {
+   "t": 2227.1,
+   "end": 2242.02,
+   "text": "Since cravings, conceits and views thus reinforce the dichotomy between an internal and an external, the Buddha has upheld this principle underlying the meditation on the four elements to resolve this conflict."
+  },
+  {
+   "t": 2242.02,
+   "end": 2256.8,
+   "text": "The fact that, with the resolution of this conflict between the internal and the external concerning the four elements, the mind becomes emancipated, is put across to us in the following verse in the Thalaputa Theragata."
+  },
+  {
+   "t": 2269.2,
+   "end": 2275.94,
+   "text": "This verse gives expression to Venerable Theragata's aspiration to become an Ahant."
+  },
+  {
+   "t": 2275.94,
+   "end": 2291.46,
+   "text": "It says, When shall I weigh as equal all these limitless things, both internal and external, twigs, grass, creepers, and these aggregates, or when shall that be for me?"
+  },
+  {
+   "t": 2291.46,
+   "end": 2294.12,
+   "text": "It is at the stage of Arant."
+  },
+  {
+   "t": 2294.16,
+   "end": 2294.42,
+   "text": "It is at the stage of Arant."
+  },
+  {
+   "t": 2294.42,
+   "end": 2294.64,
+   "text": "It is at the stage of Arant."
+  },
+  {
+   "t": 2294.64,
+   "end": 2297.46,
+   "text": "That the internal and the external appear alike."
+  },
+  {
+   "t": 2298.46,
+   "end": 2306.2,
+   "text": "That is precisely why the Venerable Adhimutta Theragata, whom we quoted earlier, uttered the lines,"
+  },
+  {
+   "t": 2309.68,
+   "end": 2323.36,
+   "text": "When one sees through wisdom the world to be comparable to grass and twigs, the comparison is between the internal world of the five aggregates, or this conscious body, and the inanimate objects outside."
+  },
+  {
+   "t": 2323.36,
+   "end": 2336.26,
+   "text": "Just as in the case of the four elements, earth, water, fire, and air, the Buddha pointed out a way of liberating one's mind from the space element with the help of similar illustrations."
+  },
+  {
+   "t": 2336.26,
+   "end": 2342.14,
+   "text": "In explaining the space element too, he gives easily intelligible examples."
+  },
+  {
+   "t": 2342.58,
+   "end": 2356.46,
+   "text": "The internal space element is explained in terms of some apertures in the body that are well known, namely those in the ears, nose, and the mouth."
+  },
+  {
+   "t": 2357.34,
+   "end": 2368.28,
+   "text": "Apart from such instances, he did not speak of any microscopic space element, as in scientific explanations, probably because it is irrelevant."
+  },
+  {
+   "t": 2368.76,
+   "end": 2372.74,
+   "text": "Such an analysis is irrelevant for this kind of reflection."
+  },
+  {
+   "t": 2373.18,
+   "end": 2378.96,
+   "text": "Here we have to bear in mind the fact that perception as such is a mirage."
+  },
+  {
+   "t": 2378.96,
+   "end": 2388.6,
+   "text": "However far one may go on analyzing, form and space are relative to each other, like a picture and its background."
+  },
+  {
+   "t": 2389.2,
+   "end": 2393.6,
+   "text": "A picture is weaved against its background, which is relative to it."
+  },
+  {
+   "t": 2394.14,
+   "end": 2398.48,
+   "text": "So also are these two concepts of form and space."
+  },
+  {
+   "t": 2398.48,
+   "end": 2398.5,
+   "text": "so there is also a better way around being 땡wish in one's eyes."
+  },
+  {
+   "t": 2398.52,
+   "end": 2398.54,
+   "text": "Unfortunately, as when someone should take a picture of the espíritus報 and so forth,"
+  },
+  {
+   "t": 2398.66,
+   "end": 2398.84,
+   "text": "All that können them love us both ЕстьADs and makean grass nei sighs"
+  },
+  {
+   "t": 2398.84,
+   "end": 2398.86,
+   "text": "So weaver physically will move in and for the figure tremenda,"
+  },
+  {
+   "t": 2398.86,
+   "end": 2398.88,
+   "text": "This shows us all of our body."
+  },
+  {
+   "t": 2398.98,
+   "end": 2399.16,
+   "text": "I started recurring in the lightizes the detail."
+  },
+  {
+   "t": 2399.16,
+   "end": 2399.56,
+   "text": "The third step is in the tam admiration."
+  },
+  {
+   "t": 2399.56,
+   "end": 2399.78,
+   "text": "products."
+  },
+  {
+   "t": 2400.0,
+   "end": 2417.84,
+   "text": "It's the framework for the entire picture. By way of clarification, we may allude to the pre-Buddhistic attempts of yogins to solve this problem solely through the method of serenity, samatha, ignoring the method of insight, vipassana."
+  },
+  {
+   "t": 2418.56,
+   "end": 2443.52,
+   "text": "The procedure they followed was somewhat on these lines. They would first of all surmount the concept of form or matter through the first four mental absorptions or jhanas. Then as they inclined towards the formless, what confronted them first was space."
+  },
+  {
+   "t": 2443.52,
+   "end": 2461.08,
+   "text": "A very appropriate illustration in this context would be the method of removing the sign of the kasina and attending to the space left by that removal as infinite or boundless in order to arouse the base of infinity of space."
+  },
+  {
+   "t": 2461.08,
+   "end": 2470.9,
+   "text": "This mode of contemplation of space betrays the fact that space is also something made of, O prepared, saṅkhata."
+  },
+  {
+   "t": 2471.36,
+   "end": 2478.2,
+   "text": "Whatever is prepared, saṅkhata, is thought out and mind made, abhi-saṅkhataṁ abhi-saṅceteṁ."
+  },
+  {
+   "t": 2478.2,
+   "end": 2484.9,
+   "text": "The Buddha proclaimed that there is only one asaṅkhataṁ, unprepared, i.e. Nibbāṁ."
+  },
+  {
+   "t": 2485.1,
+   "end": 2492.36,
+   "text": "But later philosophers confounded the issue by taking space also to be asaṅkhataṁ."
+  },
+  {
+   "t": 2493.64,
+   "end": 2502.38,
+   "text": "They seem to have ignored its relation to the mind in regarding causes and conditions as purely external things."
+  },
+  {
+   "t": 2502.38,
+   "end": 2506.58,
+   "text": "Here we see the relativity between form and space."
+  },
+  {
+   "t": 2507.56,
+   "end": 2513.04,
+   "text": "Like the picture and its background, form and space stand relative to each other."
+  },
+  {
+   "t": 2513.38,
+   "end": 2516.28,
+   "text": "All this is presented to us by attention."
+  },
+  {
+   "t": 2517.12,
+   "end": 2519.4,
+   "text": "Manasikāra, sambhava, sabbe, dhamma."
+  },
+  {
+   "t": 2519.64,
+   "end": 2522.16,
+   "text": "All things originate from attention."
+  },
+  {
+   "t": 2523.0,
+   "end": 2533.58,
+   "text": "Some of the later speculations about the nature of the space element are not in consonance with the basic principles outlined in the dhamma."
+  },
+  {
+   "t": 2534.48,
+   "end": 2540.16,
+   "text": "Such a confusion arose, probably due to a lack of understanding of the term asaṅkhataṁ."
+  },
+  {
+   "t": 2540.21,
+   "end": 2556.19,
+   "text": "Now, if we are to say something more about this particular discourse, what remains after detaching one's mind from these five elements, namely earth, water, fire, air and space, is a consciousness that is extremely pure."
+  },
+  {
+   "t": 2557.21,
+   "end": 2560.19,
+   "text": "The basic function of consciousness is discrimination."
+  },
+  {
+   "t": 2560.19,
+   "end": 2568.75,
+   "text": "It distinguishes between the bitter and the sweet, for instance, to say this is bitter, that is sweet."
+  },
+  {
+   "t": 2569.11,
+   "end": 2577.75,
+   "text": "Or else it distinguishes between the pleasant, the unpleasant and the neutral with regard to feelings."
+  },
+  {
+   "t": 2578.47,
+   "end": 2582.99,
+   "text": "This is pleasant, this is unpleasant, this is neither pleasant nor unpleasant."
+  },
+  {
+   "t": 2582.99,
+   "end": 2596.55,
+   "text": "Now that the five elements, earth, water, fire, air and space, which create discrete objects as the outward manifestation of consciousness, have been totally removed,"
+  },
+  {
+   "t": 2596.93,
+   "end": 2603.75,
+   "text": "the residual function of consciousness amounts to a discrimination between the three grades of feeling."
+  },
+  {
+   "t": 2603.75,
+   "end": 2616.71,
+   "text": "The sage who has arrived at this stage of progress on the path to Nibbana, takes the next step by observing these three kinds of feelings, pleasant, unpleasant and either pleasant nor unpleasant,"
+  },
+  {
+   "t": 2617.45,
+   "end": 2625.27,
+   "text": "as they arise and cease, dependent on specific contacts, thereby gradually bringing the mind to equanimity."
+  },
+  {
+   "t": 2625.45,
+   "end": 2628.99,
+   "text": "He brings his mind to a stage of radiant equanimity."
+  },
+  {
+   "t": 2628.99,
+   "end": 2635.47,
+   "text": "But even this equanimity he does not grasp by way of nithinking or imagining."
+  },
+  {
+   "t": 2635.71,
+   "end": 2641.93,
+   "text": "The phrase used in this connection is visanyutto nang navedeti."
+  },
+  {
+   "t": 2642.31,
+   "end": 2646.15,
+   "text": "Being detached, he does not experience it."
+  },
+  {
+   "t": 2646.91,
+   "end": 2653.37,
+   "text": "There is a detachment, an aloofness, even in going through those sensations."
+  },
+  {
+   "t": 2653.93,
+   "end": 2656.57,
+   "text": "This is clearly expressed in that context."
+  },
+  {
+   "t": 2656.57,
+   "end": 2660.75,
+   "text": "For instance, in the case of a pleasant feeling, it is said,"
+  },
+  {
+   "t": 2660.89,
+   "end": 2666.57,
+   "text": "Aniccati pajanati, anajhositati pajanati, anabhinanditati pajanati."
+  },
+  {
+   "t": 2667.33,
+   "end": 2670.63,
+   "text": "He understands it to be impermanent."
+  },
+  {
+   "t": 2670.75,
+   "end": 2673.39,
+   "text": "He understands it to be uninvolved."
+  },
+  {
+   "t": 2673.55,
+   "end": 2676.49,
+   "text": "He understands it to be unrejoiced."
+  },
+  {
+   "t": 2677.07,
+   "end": 2681.31,
+   "text": "With the understanding of impermanence, conceit goes down."
+  },
+  {
+   "t": 2681.65,
+   "end": 2684.65,
+   "text": "The non-involvement does away with the views."
+  },
+  {
+   "t": 2684.65,
+   "end": 2690.15,
+   "text": "The absence of rejoicing suggests the extinction of craving."
+  },
+  {
+   "t": 2691.51,
+   "end": 2696.83,
+   "text": "So the attainment of arhantud is in effect the cessation of that consciousness itself."
+  },
+  {
+   "t": 2697.17,
+   "end": 2703.87,
+   "text": "That consciousness is divested of its most primary function of discriminating between the three grades of feeling."
+  },
+  {
+   "t": 2704.09,
+   "end": 2707.41,
+   "text": "Pleasant, unpleasant and neither unpleasant nor pleasant."
+  },
+  {
+   "t": 2707.41,
+   "end": 2713.51,
+   "text": "The term visanyutto connotes disjunction suggestive of dispassion and detachment."
+  },
+  {
+   "t": 2713.81,
+   "end": 2722.23,
+   "text": "In this way, Dhatavibhanga-sutta clearly brings out the relevance of the question of manana to the path leading to nimbana."
+  },
+  {
+   "t": 2722.23,
+   "end": 2730.89,
+   "text": "In some contexts, this practice of desisting from me thinking or imagining is called Atam Mayata, non-identification."
+  },
+  {
+   "t": 2730.89,
+   "end": 2735.97,
+   "text": "This is the term used by the Buddha throughout the Sappurisa-sutta of the Majjhmanikāya."
+  },
+  {
+   "t": 2735.97,
+   "end": 2742.11,
+   "text": "For instance, we read the Sappuri-socha-koh-bhikkhave itipati-sankhikkhati."
+  },
+  {
+   "t": 2742.19,
+   "end": 2750.55,
+   "text": "Neva-sanyana-sanyayatana-samāpatti-aapi-atam-manyata-budta-bhagavata-yena-yenahi-manyanti-tato-taṁ-hoti-anyathāti."
+  },
+  {
+   "t": 2750.55,
+   "end": 2768.49,
+   "text": "The good man reflects thus, the principle of non-identification has been recommended by the Buddha even with regard to the attainment of the sphere of neither perception nor non-perception thus, in whatever way they imagine about it, thereby it turns otherwise."
+  },
+  {
+   "t": 2768.77,
+   "end": 2773.69,
+   "text": "The good man referred to here is the noble disciple on the supramundant path."
+  },
+  {
+   "t": 2773.93,
+   "end": 2778.93,
+   "text": "This term tammaya needs to be clarified in order to understand the significance of this state."
+  },
+  {
+   "t": 2778.93,
+   "end": 2785.05,
+   "text": "It is derived from tadmaya, literally made of that or of that stuff."
+  },
+  {
+   "t": 2785.69,
+   "end": 2791.25,
+   "text": "It is on a par with such terms as so-annamaya, golden, and rajatamaya, silvery."
+  },
+  {
+   "t": 2791.55,
+   "end": 2800.39,
+   "text": "When one has cravings, conceits and views about something, he practically becomes one with it due to that very gasping."
+  },
+  {
+   "t": 2800.55,
+   "end": 2803.71,
+   "text": "In other words, he identifies himself with it."
+  },
+  {
+   "t": 2803.71,
+   "end": 2813.67,
+   "text": "That is why the person who has imaginings about the sphere of neither perception nor non-perception, which he has attained, thinks,"
+  },
+  {
+   "t": 2813.67,
+   "end": 2819.41,
+   "text": "I am one who has a sphere of neither perception nor non-perception."
+  },
+  {
+   "t": 2819.73,
+   "end": 2825.41,
+   "text": "He thereby has conceit, which is a defilement in himself."
+  },
+  {
+   "t": 2825.75,
+   "end": 2832.37,
+   "text": "As a result, when he loses his mastery of that attainment, he becomes disconcerted."
+  },
+  {
+   "t": 2832.37,
+   "end": 2847.87,
+   "text": "It is for that reason that the Buddha has enjoined that one should cultivate the attitude of atammyata or non-identification even with regard to the attainment of the sphere of neither perception nor non-perception."
+  },
+  {
+   "t": 2848.43,
+   "end": 2855.05,
+   "text": "The arahant is called atammaya, in the sense that he does not identify himself with anything."
+  },
+  {
+   "t": 2856.13,
+   "end": 2859.93,
+   "text": "An arahant cannot be identified with what he appears to possess."
+  },
+  {
+   "t": 2860.35,
+   "end": 2867.29,
+   "text": "This is well expressed by the following verse in the Devudutavagya of the Angutranika."
+  },
+  {
+   "t": 2880.27,
+   "end": 2887.71,
+   "text": "That ardent sage who has studied the extinction of birth, having overpowered Mara and conquered the Ender,"
+  },
+  {
+   "t": 2888.23,
+   "end": 2894.51,
+   "text": "that such like one, the wise sage, the knower of the world, is eloof in regard to all phenomena."
+  },
+  {
+   "t": 2894.51,
+   "end": 2906.37,
+   "text": "The idea of this eloofness can be presented in another way, that is, as the detachment from the seen, the heard, the sensed and the cognized, ditta-sutta-mutta-vinyata."
+  },
+  {
+   "t": 2907.35,
+   "end": 2916.91,
+   "text": "One of the most important sutras that merits discussion in this respect is the Bahiya Sutra in the Bodhivagya of the Udana."
+  },
+  {
+   "t": 2917.17,
+   "end": 2921.33,
+   "text": "It is generally acclaimed as an extremely profound discourse."
+  },
+  {
+   "t": 2921.33,
+   "end": 2930.23,
+   "text": "The ascetic Bahiya Dharu Chiriya comes all the way from far off Sukhparaka to see the Buddha."
+  },
+  {
+   "t": 2930.23,
+   "end": 2937.77,
+   "text": "When he reaches Jetavana Monastery at Savatthi, he heard that the Buddha had just left on his arms round."
+  },
+  {
+   "t": 2937.77,
+   "end": 2947.35,
+   "text": "Due to his extreme eagerness, he ran behind the Buddha and, on meeting him, fell prostrate before him and begged,"
+  },
+  {
+   "t": 2947.85,
+   "end": 2950.73,
+   "text": "May the Exalted One preach to me the Dhamma."
+  },
+  {
+   "t": 2950.73,
+   "end": 2957.03,
+   "text": "The Buddha, however, seemed not so responsive when he remarked,"
+  },
+  {
+   "t": 2957.57,
+   "end": 2961.27,
+   "text": "Now it is untimely Bahiya we are on our arms round."
+  },
+  {
+   "t": 2961.69,
+   "end": 2965.01,
+   "text": "Some might be puzzled by this attitude of the Buddha."
+  },
+  {
+   "t": 2965.01,
+   "end": 2973.59,
+   "text": "But most probably it is one of those stillful means of the Buddha, suggestive of his great compassion and wisdom."
+  },
+  {
+   "t": 2974.49,
+   "end": 2984.63,
+   "text": "It served to tone down the over-enthusiastic taste of Bahiya and to arouse reverential respect for the Dhamma in him."
+  },
+  {
+   "t": 2985.85,
+   "end": 2989.71,
+   "text": "Bahiya repeated his request for the second time, adding,"
+  },
+  {
+   "t": 2990.51,
+   "end": 2996.33,
+   "text": "I do not know whether there will be a danger to the exalted one's life or to my own life."
+  },
+  {
+   "t": 2996.63,
+   "end": 2999.59,
+   "text": "For the second time, Buddha refused."
+  },
+  {
+   "t": 2999.59,
+   "end": 2999.71,
+   "text": "To be continued."
+  },
+  {
+   "t": 2999.83,
+   "end": 2999.95,
+   "text": "?"
+  },
+  {
+   "t": 2999.95,
+   "end": 2999.97,
+   "text": "?"
+  },
+  {
+   "t": 3000.0,
+   "end": 3013.14,
+   "text": "It was when Bahiya made his request for the third time that the Buddha acceded to it by giving a terse discourse, Sankhita Dhamma Desana, of extraordinary depth."
+  },
+  {
+   "t": 3013.76,
+   "end": 3025.7,
+   "text": "The exhortation, brief and deep as it is, was quite apt since Bahiya Dharacharya belonged to that rare category of persons with quick understanding, Khipabhinyam."
+  },
+  {
+   "t": 3025.7,
+   "end": 3040.3,
+   "text": "Tasmatya te bahiya evang sikhitabhvang, ditte dittamattang bhavisati, sute sutamattang bhavisati, mute mutamattang bhavisati, vinyate vinyatamattang bhavisati, evang hitte bahiya sikhitabhvang."
+  },
+  {
+   "t": 3042.02,
+   "end": 3069.0,
+   "text": "vinyatamattang bhavisati, vinyate vinyatamattang bhavisati, evang sikhitabhvang."
+  },
+  {
+   "t": 3069.0,
+   "end": 3075.08,
+   "text": "then and there. Let us now try to unravel the meaning of this abstruse discourse. The"
+  },
+  {
+   "t": 3075.08,
+   "end": 3082.36,
+   "text": "discourse starts off abruptly as if it has been wrested from the Buddha by Bahiya's repeated"
+  },
+  {
+   "t": 3082.36,
+   "end": 3083.02,
+   "text": "requests."
+  },
+  {
+   "t": 3085.86,
+   "end": 3093.78,
+   "text": "Well then Bahiya, you had better train yourself thus. And what is the training? In the scene"
+  },
+  {
+   "t": 3093.78,
+   "end": 3099.56,
+   "text": "there will be just the scene. In the heard there will be just the heard. In the sense"
+  },
+  {
+   "t": 3099.56,
+   "end": 3107.48,
+   "text": "there will be just the sensed. In the cognized there will be just the cognized. Thus Bahiya"
+  },
+  {
+   "t": 3107.48,
+   "end": 3115.52,
+   "text": "should you train yourself. It is as if the Buddha had addressed the ascetic Bahiya in the terminology"
+  },
+  {
+   "t": 3115.52,
+   "end": 3123.72,
+   "text": "of the Aryans and established him on the path to Nibbana. Here the term mutta or sensed"
+  },
+  {
+   "t": 3123.72,
+   "end": 3132.66,
+   "text": "stands for whatever is experienced through the tongue, the nose and the body. The basic"
+  },
+  {
+   "t": 3132.66,
+   "end": 3140.66,
+   "text": "principle in this training seems to be the discipline to stop short at bare awareness, ditte ditthamattam,"
+  },
+  {
+   "t": 3140.84,
+   "end": 3148.52,
+   "text": "sutte sutamattam, etc. The latter half of the discourse seems to indicate what happens when"
+  },
+  {
+   "t": 3148.52,
+   "end": 3155.94,
+   "text": "one goes through that training. The entire discourse is a presentation of the triple training of"
+  },
+  {
+   "t": 3155.94,
+   "end": 3162.94,
+   "text": "morality, concentration and wisdom in a nutshell. And when to you Bahiya, there will be in the"
+  },
+  {
+   "t": 3162.94,
+   "end": 3167.96,
+   "text": "seen, just the seen, in the heard, just the heard, in the sensed, just the sensed, in the"
+  },
+  {
+   "t": 3167.96,
+   "end": 3175.78,
+   "text": "cognized, just the cognized, then Bahiya. You are not by it. And when you are not by it,"
+  },
+  {
+   "t": 3176.68,
+   "end": 3184.58,
+   "text": "you are not in it. And when Bahiya you are not in it, then Bahiya you are neither here nor there"
+  },
+  {
+   "t": 3184.58,
+   "end": 3191.9,
+   "text": "nor in between. This itself is the end of suffering. As a literal translation, this appears cryptic"
+  },
+  {
+   "t": 3191.9,
+   "end": 3197.78,
+   "text": "enough to demand an explanation. Let us first of all give a few clues to unravel the puzzle."
+  },
+  {
+   "t": 3197.78,
+   "end": 3206.32,
+   "text": "The terms by it, tena, and in it, tatha, are rather elliptical. Though unexpressed, they seem"
+  },
+  {
+   "t": 3206.32,
+   "end": 3213.06,
+   "text": "to imply the relevance of manana to the whole problem. As we happened to mention earlier, imaginings"
+  },
+  {
+   "t": 3213.06,
+   "end": 3221.04,
+   "text": "or me-thinkings, by way of craving, conceit and views, leads to an identification, for which"
+  },
+  {
+   "t": 3221.04,
+   "end": 3228.2,
+   "text": "the term used is tamyata. Such an identification makes one unsteady, for when the thing identified"
+  },
+  {
+   "t": 3228.2,
+   "end": 3236.18,
+   "text": "with is shaken, one also gets shaken up. This kind of imagining, in terms of, is indicated"
+  },
+  {
+   "t": 3236.18,
+   "end": 3242.92,
+   "text": "by the elliptical tena, for we get a clear proof of it in the following two lines from the"
+  },
+  {
+   "t": 3242.92,
+   "end": 3250.56,
+   "text": "jara-sutta in the athaka-vabga of the sutta-nipata. Dhona nahi tena manyati yadidam ditta-suttam"
+  },
+  {
+   "t": 3250.56,
+   "end": 3259.26,
+   "text": "mutesuva. Dhona is a term for the arahant as one who has shaken off all defilements. So these lines"
+  },
+  {
+   "t": 3259.26,
+   "end": 3266.72,
+   "text": "could be rendered as follows. The arahant, the one who has shaken off, does not imagine in terms of,"
+  },
+  {
+   "t": 3266.72,
+   "end": 3272.52,
+   "text": "that is to say, in terms of, whatever is seen, heard, and sensed."
+  },
+  {
+   "t": 3278.04,
+   "end": 3296.7,
+   "text": "Dear listeners, it is our sincere wish to make these sermons accessible, free of charge, to all who like to listen to them, because the gift of the Dhamma excels all other gift. We therefore encourage you to"
+  },
+  {
+   "t": 3296.7,
+   "end": 3309.32,
+   "text": "copy these sermons and share them with others, but kindly note that they should not be reproduced for sale. May the blessings of the Triple Gem be with you."
+  }
+ ]
+}

@@ -81,6 +81,8 @@ for s in range(1, 7):
         {'t': 'analayo', 'lec': b1['lec'], 'start': b1['start'],
          'end': b1['end'], 'dur': b1.get('dur', round(b1['end'] - b1['start'], 1)),
          'note': 'ESSAY 0 AUDIO: archive voice answers the question (the motif)'},
+        {'t': 'water', 'dur': 2.5,
+         'note': 'post-answer stillness: the answer lands before beats begin (2026-10-26 ear-pass: essay-0 slammed into beat-2 verbatim with zero pause)'},
         {'t': 'human-intro', 'ref': 'human-scripts.md section %d' % s,
          'status': 'optional-pending',
          'note': 'only if used: AFTER the answer, never between question and motto'},
@@ -107,11 +109,20 @@ for s in range(1, 7):
         ev.append({'t': 'analayo', 'lec': x['lec'], 'start': x['start'],
                    'end': x['end'],
                    'dur': x.get('dur', round(x['end'] - x['start'], 1))})
-        ev.append({'t': 'water', 'dur': 2.5})
+        # Water scales with clip weight (owner 2026-10-26): flat 2.5s after
+        # a 40s clip is right; after a 5-minute exegesis the listener needs
+        # a breath. 2.5s base + 1s per 60s, capped at 6s.
+        ev.append({'t': 'water',
+                   'dur': min(6.0, round(2.5 + x.get('dur', round(x['end'] - x['start'], 1)) / 60.0, 1))})
 
     # ---- CLOSE
     if s < 6:
         ev.append({'t': 'zoom-bell'})
+        # Section-boundary stillness (owner 2026-10-26): the question
+        # changes, the listener needs a reset. 6s settle AFTER the bell —
+        # sections must not blur into each other.
+        ev.append({'t': 'pause', 'dur': 6.0, 'role': 'settle',
+                   'note': 'section boundary stillness after zoom-bell'})
     else:
         ev += [{'t': 'seed-reprise'}, {'t': 'motto-bell'}, {'t': 'silence', 'dur': 30}]
     json.dump(ev, open('%s/assembly_s%d.json' % (td, s), 'w'), indent=1)

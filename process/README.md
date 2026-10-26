@@ -64,6 +64,11 @@ techniques), `MISTAKES.md` (everything we got wrong + fixes),
 `09-BELLS-ZOOM.md` (two-bell grammar + zoom assembly order),
 `10-MATHEMATICS.md` (measured structure: 6, 72, ~3.5×, 340, 2, 1).
 `11-STICKINESS.md` (why the format sticks: mechanisms already in the build, cheap adds, parked jokes track, portability verdict).
+`13-SHARPENING.md` (the rung method: A first → distill 0 → B/C by sequence
+law; minimal moves; essay-0 re-derivation test).
+`14-LISTENING.md` (machine ears: why listen when text is proven; audit ear
+vs critic ear with ratings; meters beside ears; operating limits; taste
+locks stay human).
 
 ## What it guarantees
 

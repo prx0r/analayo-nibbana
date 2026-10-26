@@ -1,10 +1,60 @@
 # MISTAKES — everything we got wrong, with cause + fix. Read before touching the pipeline.
 
-> Also read `RECURRING-MISTAKES.md` — the META patterns (R1–R8) that
+## Render mistakes (2026-10-26, p0 — all caught by the owner's ear, not by gates)
+
+- **M-R1 afade-out at st=0 silences the whole file.** `afade=t=out:st=0:d=0.03`
+  fades to zero at 30ms and STAYS at zero — every voice slice shipped as a
+  30ms blip + digital silence, in v1 AND p0. The user heard exactly that
+  ("initial blip then no audio") across three hosts before any gate noticed.
+  Fix: `fade_tail(dur)` — fade-out starts at (dur−0.03), computed per slice
+  (probed for espeak); VTAG bumped normv2→normv3 so poisoned cache can't
+  survive. Rule: never st=0 on a fade-out; fade positions are durations,
+  not constants.
+- **M-R2 loudness verification masked silence.** Integrated LUFS (−18.7),
+  clean decode (exit 0), correct CBR file sizes, byte-identical re-downloads
+  ALL PASSED on files that were 99.9% silence — the final loudnorm pass
+  dutifully amplified the noise floor to target, so loudness *proved*
+  nothing. CBR size proves nothing (constant bitrate, silent or not).
+  Fix: `assert_audible()` in the renderer — every cut slice must show
+  peak > −60 dB or the render aborts; plus energy-timeline spot checks
+  (volumedetect per chunk), never loudnorm numbers alone. See R9.
+- **M-R3 truncated uploads present as success.** Catbox returned file URLs +
+  HTTP 200 for 1.1MB fragments of 6MB files (egress cut mid-POST). Fix:
+  re-download every upload and compare size/md5 before sending any link.
+  No link ships without a byte check.
+- **M-R4 R2 presigns need SigV4 + short links.** Default `aws s3 presign`
+  minted SigV2 URLs (R2: "SigV2 not supported"); fix `--region auto`.
+  Separately, 400-char signed URLs get mangled in chat clients — prefer
+  short direct links (uguu.se worked; note 3h retention).
+- **M-R5 string sermon tag vs int lookup.** A beat carrying
+  `nanananda_sermon` as a string ("S11-Madhupindika…") failed `in SERM`
+  (int keys) → 4 honey-ball parts fell back to robot voice. The aligner
+  already regex-extracted ints; the renderer didn't. Fix: normalize in
+  `verbatim_wavs`. Rule: IDs cross module boundaries in ONE type.
+- **M-R6 longest-run alignment under-scored long quotes.** 17/71 beats
+  "missed" although the passages were present — whisper noise breaks
+  contiguity, so longest-match/len collapsed on 100+ word quotes.
+  Fix: coverage scoring (matched tokens / quote tokens) + cross-sermon
+  fallback scan → 70/71; last fragment (Pali chant the transcriber dropped
+  as non-English, living in a 4.2s transcript gap) via evidence-logged
+  manual PIN. Final: 71/71, zero robot voices.
+
+> Also read `RECURRING-MISTAKES.md` — the META patterns (R1–R9) that
 > produced most of the incidents below (slop reflex, wrong-path writes,
 > memory-claims, happy-path gates). This file logs WHAT happened;
 > that file says WHAT KEEPS HAPPENING.
-
+- **M-R7 verbatim windows cold-opening on chant.** Seed U1's sermon window
+  (45.16–78.48) opened on the 7s Namotasya chant, 20s before the matched
+  motto — ±1-sentence expansion outran the anchor. Owner: never open on
+  Pali/preamble. Fix: head-trim to first quote-token sentence in
+  align_quote. Rule: a window's first sentence must share tokens with its
+  quote (checked, not assumed).
+- **M-R8 snapper eating quote content.** Mechanical edge-trims ate CF
+  quote-openings split across sentences (mirror's "Even / if one already")
+  and drifted a head backward through overlapping timestamps. Essay-0/B*
+  windows are atomic — exempt like mottos. Fragment-head rule is YT-only.
+  Snaps only shrink, never expand. Rule: trim markers and chants only;
+  never trim words that could be the quote.
 ## Slop (writing things that aren't his)
 - **M1. Hand-written S1 beats.** Six beat quotes typed from memory instead
   of extracted. One ("Itself a meditation subject") was excavator prose,

@@ -1,0 +1,3142 @@
+{
+ "source": "/root/analayo-nibbana/sermon-audio/Nibbana_Stilled_03.mp3",
+ "duration": 3811.604898,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 0.0,
+   "end": 15.82,
+   "text": "The 33 sermons on Nibbana were delivered by the Venerable Bhikkhu Katukurunde Jnanananda in Sinhala at Mitrigala Nisarana Vinaya Forest Hermitage."
+  },
+  {
+   "t": 16.18,
+   "end": 28.72,
+   "text": "They were translated into English by the same Venerable monk, presently residing at Potkulkala Forest Hermitage in Khandagedra Devalagam."
+  },
+  {
+   "t": 31.98,
+   "end": 38.06,
+   "text": "Namotase Bhagavadu Warahato Sama Sambuddhase"
+  },
+  {
+   "t": 38.06,
+   "end": 45.34,
+   "text": "Namotase Bhagavadu Warahato Sama Sambuddhase"
+  },
+  {
+   "t": 46.88,
+   "end": 53.24,
+   "text": "Namotase Bhagavadu Warahato Sama Sambuddhase"
+  },
+  {
+   "t": 65.78,
+   "end": 77.48,
+   "text": "This is peaceful, this is excellent, namely the stealing of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 78.6,
+   "end": 83.68,
+   "text": "With the permission of the most venerable great preceptor and the assembly of the venerable meditative monks."
+  },
+  {
+   "t": 85.0,
+   "end": 88.38,
+   "text": "Today we have before us the third sermon on Nibbana."
+  },
+  {
+   "t": 88.98,
+   "end": 103.08,
+   "text": "The other day, with the help of the simile of a whirlpool, we attempted an explanation of the terms samsara on the one hand and Nibbana on the other, that is to say, going round or samsarana and going out or nisarana."
+  },
+  {
+   "t": 103.08,
+   "end": 112.56,
+   "text": "We also cited sutras to illustrate both the arising samuddha and cessation near other aspects of the law of dependent arising."
+  },
+  {
+   "t": 114.56,
+   "end": 135.46,
+   "text": "As regards this whirlpool, to show parallel development with the links of the law of dependent arising, by way of a sustained simile, we may say that the ignorance in presuming that it is possible to go against the mainstream of the three signatars, impermanence, suffering and not self, is the place of its origin."
+  },
+  {
+   "t": 135.46,
+   "end": 142.78,
+   "text": "That heap of preparations impelled by ignorance which takes the current forward may be regarded as sankharas."
+  },
+  {
+   "t": 143.0,
+   "end": 152.92,
+   "text": "And where the current in its progress clashes with the mainstream to become a whirlpool, that pushing forward against the mainstream is vinyana or consciousness."
+  },
+  {
+   "t": 154.8,
+   "end": 161.14,
+   "text": "The outcome of the clash is now a rooper, or name and form, with its formal name and nominal form."
+  },
+  {
+   "t": 162.18,
+   "end": 170.76,
+   "text": "That link in the formula of dependent arising, called salaitana or sixth sense basis, could be regarded as the outgrowth of this name and form."
+  },
+  {
+   "t": 171.56,
+   "end": 175.72,
+   "text": "We can understand that link too, in relation to the simile of the whirlpool."
+  },
+  {
+   "t": 176.8,
+   "end": 185.94,
+   "text": "As the whirlpool goes on for a long time, an abyss is formed, the functioning of which could be compared to the sixth sense basis."
+  },
+  {
+   "t": 185.94,
+   "end": 191.22,
+   "text": "As a matter of fact, bodily pains are comparable to an abyss."
+  },
+  {
+   "t": 191.92,
+   "end": 195.08,
+   "text": "In a certain chutta in the Sanyatya Nikaya, the Buddha says,"
+  },
+  {
+   "t": 195.54,
+   "end": 200.94,
+   "text": "Sāri-ri-kānaṁ khova-e-taṁ bhikkha-vedukkha-naṁ vedrānaṁ adhivachanaṁ yadidāṁ pātāloti."
+  },
+  {
+   "t": 202.48,
+   "end": 206.82,
+   "text": "Amongst, abyss is a synonym for painful bodily feelings."
+  },
+  {
+   "t": 206.82,
+   "end": 217.4,
+   "text": "When one comes to think about that statement, it would appear that the thirst of craving arises in beings in various forms of existence because of painful feelings."
+  },
+  {
+   "t": 218.82,
+   "end": 226.84,
+   "text": "The Sallatena-sutta adds to this by stating that the uninstructed whirling on being touched by painful feelings"
+  },
+  {
+   "t": 226.84,
+   "end": 235.1,
+   "text": "lies in sense pressures because he knows no way out of painful feelings other than the sense pressures."
+  },
+  {
+   "t": 236.22,
+   "end": 242.38,
+   "text": "In the light of that statement, it seems that the abyss is the endless barrage of painful feelings."
+  },
+  {
+   "t": 243.0,
+   "end": 249.3,
+   "text": "The force of attraction that arises from the abyss is like the thirst to quell those painful feelings."
+  },
+  {
+   "t": 249.72,
+   "end": 253.96,
+   "text": "The grasping that follows is the functioning of the same force of attraction."
+  },
+  {
+   "t": 253.96,
+   "end": 264.6,
+   "text": "It attracts all the flotsam and jetsam around it as things organically appropriated upadinya to put up a show of existence or bhav."
+  },
+  {
+   "t": 265.32,
+   "end": 270.94,
+   "text": "That is a spot that can be pointed out with the help of things thus grasped by the whirlpool."
+  },
+  {
+   "t": 270.94,
+   "end": 277.62,
+   "text": "So this whirlpool or vortex similarly gives us some idea of the law of dependent arising."
+  },
+  {
+   "t": 278.32,
+   "end": 285.72,
+   "text": "The insight into the basic principle of dependent arising is in fact regarded as the arising of the eye of dhamma."
+  },
+  {
+   "t": 286.9,
+   "end": 293.12,
+   "text": "About the stream winner it is said that the dustless stainless eye of dhamma has arisen in him."
+  },
+  {
+   "t": 294.42,
+   "end": 300.72,
+   "text": "The following phrase which sums up the significance of that dhamma eye comes up quite often in his discourses."
+  },
+  {
+   "t": 301.76,
+   "end": 305.24,
+   "text": "YANG KINCHI SAMUDHE DHAMMANG SAMBAM TANG NIRODHA DHAMMANG"
+  },
+  {
+   "t": 305.24,
+   "end": 310.08,
+   "text": "Whatever is of a nature to arise, all that is of a nature to cease."
+  },
+  {
+   "t": 311.3,
+   "end": 316.28,
+   "text": "Sometimes it is briefly alluded to with the couple of terms SAMUDHE AND NIRODHA"
+  },
+  {
+   "t": 316.28,
+   "end": 319.88,
+   "text": "As SAMUDHYO SAMUDHYO AND NIRODHO NIRODHO"
+  },
+  {
+   "t": 319.88,
+   "end": 325.58,
+   "text": "It is as if the experience of that insight has formed expression as an explanation."
+  },
+  {
+   "t": 326.3,
+   "end": 329.1,
+   "text": "Arising, arising, ceasing, ceasing."
+  },
+  {
+   "t": 329.52,
+   "end": 333.44,
+   "text": "The above phrase only connects up the two aspects of that experience."
+  },
+  {
+   "t": 334.28,
+   "end": 343.38,
+   "text": "It seems then that what is called the dhamma eye is the ability to see the nibbanic solution in the very vortex of the samsaric problem."
+  },
+  {
+   "t": 344.12,
+   "end": 353.66,
+   "text": "That way of analysis which puts samsar and nibbana far apart into two watertight compartments as it were gives rise to interminable problems."
+  },
+  {
+   "t": 353.66,
+   "end": 362.9,
+   "text": "But here we see that just as much as one could realize nibbana by discovering the cause of suffering and following the path to its cessation,"
+  },
+  {
+   "t": 363.12,
+   "end": 366.5,
+   "text": "which in effect is the understanding of the Four Noble Truths,"
+  },
+  {
+   "t": 366.74,
+   "end": 373.78,
+   "text": "one could also put an end to this vortex by understanding its cause and applying the correct means for its cessation."
+  },
+  {
+   "t": 374.6,
+   "end": 382.9,
+   "text": "In the previous sermon, we happened to quote some canonical verses which declared that the vortex does not exist for and around."
+  },
+  {
+   "t": 384.6,
+   "end": 388.54,
+   "text": "Now, as regards the condition after the cessation of the vortex,"
+  },
+  {
+   "t": 388.54,
+   "end": 395.68,
+   "text": "if someone asks where the vortex or the whirlpool has gone, what sort of answer can we give?"
+  },
+  {
+   "t": 396.84,
+   "end": 402.76,
+   "text": "It is the same difficulty that comes up in answering the question, where has the fire gone when it has gone out?"
+  },
+  {
+   "t": 403.52,
+   "end": 409.34,
+   "text": "Because here too, what we call the whirlpool is that current of water which went against the main stream."
+  },
+  {
+   "t": 410.04,
+   "end": 414.16,
+   "text": "It also consists of water, like the body of water outside it."
+  },
+  {
+   "t": 414.52,
+   "end": 419.58,
+   "text": "So we cannot say that they are united, nor can we say that it went and hid somewhere."
+  },
+  {
+   "t": 420.84,
+   "end": 423.62,
+   "text": "Here we find ourselves in a queer situation."
+  },
+  {
+   "t": 424.14,
+   "end": 429.48,
+   "text": "All we can say in fairness to truth is that there had been a certain form of activity,"
+  },
+  {
+   "t": 429.96,
+   "end": 433.56,
+   "text": "a certain state of unrest due to certain causes and conditions."
+  },
+  {
+   "t": 434.1,
+   "end": 440.04,
+   "text": "Because of that activity that was going on there, it was possible to designate it, to give it a name."
+  },
+  {
+   "t": 440.5,
+   "end": 445.7,
+   "text": "By worldly convention, one could refer to it as that place or this place."
+  },
+  {
+   "t": 446.94,
+   "end": 451.78,
+   "text": "The entire field of activity was called a whirlpool by worldly convention."
+  },
+  {
+   "t": 452.88,
+   "end": 456.22,
+   "text": "But now, the so-called whirlpool is no more."
+  },
+  {
+   "t": 456.58,
+   "end": 461.22,
+   "text": "The worldly convention is no more applicable as in the case of an extinguished fire."
+  },
+  {
+   "t": 462.02,
+   "end": 463.86,
+   "text": "The word fire was introduced."
+  },
+  {
+   "t": 464.22,
+   "end": 472.58,
+   "text": "The concept of fire was created to designate a certain state of affairs that arose due to causes and conditions, due to graspings."
+  },
+  {
+   "t": 472.58,
+   "end": 479.06,
+   "text": "So from this also, we can see that it is in concepts that ignorance finds a camouflage."
+  },
+  {
+   "t": 480.58,
+   "end": 488.78,
+   "text": "Being unaware of it, the world goes on amassing concepts and even expects to see them in Nibbara."
+  },
+  {
+   "t": 489.48,
+   "end": 495.64,
+   "text": "There are some who fondly hope to get a vision of their lists of concepts when they realize Nibbara."
+  },
+  {
+   "t": 496.22,
+   "end": 499.1,
+   "text": "But that wisdom penetrates through even the concepts."
+  },
+  {
+   "t": 499.36,
+   "end": 500.84,
+   "text": "And that is why it is called,"
+  },
+  {
+   "t": 504.24,
+   "end": 507.64,
+   "text": "The Aryan penetrative wisdom that sees the rise and fall."
+  },
+  {
+   "t": 509.58,
+   "end": 513.16,
+   "text": "The idea of penetration is already implicit in the phrase,"
+  },
+  {
+   "t": 516.12,
+   "end": 519.62,
+   "text": "Whatever is of a nature to arise, all that is of a nature to seize."
+  },
+  {
+   "t": 519.62,
+   "end": 525.14,
+   "text": "If anything has the nature to arise, by that very nature, it is bound to come to its end."
+  },
+  {
+   "t": 525.5,
+   "end": 532.62,
+   "text": "And that is why the wandering Asatikupati sir, who was to become Venerable Sariputta later,"
+  },
+  {
+   "t": 533.7,
+   "end": 540.32,
+   "text": "attained the fruit of a stream in earth, even on hearing the first two lines of the verse uttered by Venerable Asat."
+  },
+  {
+   "t": 545.8,
+   "end": 550.66,
+   "text": "Of things that arise from a cause, the cause that the Thagata has told."
+  },
+  {
+   "t": 552.4,
+   "end": 556.54,
+   "text": "When a wise man hears that something has a reason due to causes and conditions,"
+  },
+  {
+   "t": 557.58,
+   "end": 562.58,
+   "text": "he immediately understands that it could be made to seize by the removal of those conditions,"
+  },
+  {
+   "t": 562.82,
+   "end": 564.36,
+   "text": "even without further explanation."
+  },
+  {
+   "t": 565.1,
+   "end": 570.72,
+   "text": "It is the dustless, stainless, dumb eye that enables one to seize the Nibbanic solution"
+  },
+  {
+   "t": 570.72,
+   "end": 573.34,
+   "text": "in the very structure of the samsaric problem."
+  },
+  {
+   "t": 574.82,
+   "end": 580.8,
+   "text": "In our quotation from the Mahanidana Sutra, it was said that all pathways for verbal expression,"
+  },
+  {
+   "t": 581.08,
+   "end": 586.6,
+   "text": "terminology and designation exist so long as the vortex of samsara is kept quiet."
+  },
+  {
+   "t": 587.64,
+   "end": 592.04,
+   "text": "The implication therefore is that they have no existence beyond it."
+  },
+  {
+   "t": 592.04,
+   "end": 597.02,
+   "text": "This is the significance of the word Tawata in so far only."
+  },
+  {
+   "t": 598.28,
+   "end": 599.98,
+   "text": "Tawata dai thawadi"
+  },
+  {
+   "t": 603.36,
+   "end": 609.42,
+   "text": "In so far only can one be born, or grow old, or die, or pass away, or reappear."
+  },
+  {
+   "t": 610.44,
+   "end": 615.92,
+   "text": "So the concepts of birth, decay and death, passing away and reappearing, are meaningful"
+  },
+  {
+   "t": 615.92,
+   "end": 621.58,
+   "text": "only in the context of the samsaric vortex, between consciousness and name and form."
+  },
+  {
+   "t": 622.4,
+   "end": 628.46,
+   "text": "If somehow or other, this interrelation could be broken, this samsaric vortex, the whirlpool,"
+  },
+  {
+   "t": 628.46,
+   "end": 633.78,
+   "text": "could be stopped. Then after that, nothing remains to be said, nothing remains to be predicated."
+  },
+  {
+   "t": 634.42,
+   "end": 637.9,
+   "text": "And as it is said in the Upasiva Sutra of the Sutra Nipath,"
+  },
+  {
+   "t": 638.7,
+   "end": 645.26,
+   "text": "Yena Nangvachyutangtasanath, that by which they would speak of him, that for him exists not."
+  },
+  {
+   "t": 646.26,
+   "end": 652.24,
+   "text": "There are a number of canonical passages that show us the relevance of this vortex simile"
+  },
+  {
+   "t": 652.24,
+   "end": 655.2,
+   "text": "to the understanding of the doctrine of Parishasamupath."
+  },
+  {
+   "t": 656.9,
+   "end": 663.94,
+   "text": "In the Mahapadana Sutra of the Dighanikaya, we find a lengthy description of the manner in which"
+  },
+  {
+   "t": 663.94,
+   "end": 668.06,
+   "text": "the Bodhisattva Vipassi got an insight into Parishasamupath."
+  },
+  {
+   "t": 669.2,
+   "end": 673.46,
+   "text": "We are told that his mode of approach was one of radical reflection,"
+  },
+  {
+   "t": 673.46,
+   "end": 678.16,
+   "text": "or Yoniso Manasikara, literally, attention by way of the matrix."
+  },
+  {
+   "t": 679.24,
+   "end": 683.1,
+   "text": "One might as well say that it is an attention by way of the vortex."
+  },
+  {
+   "t": 684.18,
+   "end": 688.56,
+   "text": "It is as if a man with keen vision, sitting under a tree by a river,"
+  },
+  {
+   "t": 688.84,
+   "end": 693.34,
+   "text": "were to watch how a fallen leaf gets carried away by the water current,"
+  },
+  {
+   "t": 693.5,
+   "end": 696.54,
+   "text": "only to get whirled up and disappear in a vortex."
+  },
+  {
+   "t": 698.06,
+   "end": 703.36,
+   "text": "It is clearly stated in the case of Vipassi Bodhisattva that his understanding through wisdom"
+  },
+  {
+   "t": 703.36,
+   "end": 705.96,
+   "text": "came as a result of radical reflection."
+  },
+  {
+   "t": 706.3,
+   "end": 707.36,
+   "text": "Yoniso Manasikara"
+  },
+  {
+   "t": 723.04,
+   "end": 724.4,
+   "text": "Yoniso Manasikara"
+  },
+  {
+   "t": 724.4,
+   "end": 728.06,
+   "text": "But always the attention has to turn towards the place of origin."
+  },
+  {
+   "t": 728.94,
+   "end": 733.1,
+   "text": "So, true to this method, he finds the Bodhisattva Vipassi"
+  },
+  {
+   "t": 733.1,
+   "end": 737.36,
+   "text": "starting his reasoning from the very end of the Parishasamupatha formula."
+  },
+  {
+   "t": 738.96,
+   "end": 743.42,
+   "text": "Kimme no khosati jaramaranam hoti kimpacchaya jaramaranam"
+  },
+  {
+   "t": 743.42,
+   "end": 746.44,
+   "text": "Given what does decay and death come to be,"
+  },
+  {
+   "t": 746.66,
+   "end": 749.44,
+   "text": "from which condition comes decay and death?"
+  },
+  {
+   "t": 749.44,
+   "end": 752.68,
+   "text": "To this question, the following answer came to him,"
+  },
+  {
+   "t": 753.56,
+   "end": 755.64,
+   "text": "Yati yaan khosati jaramaranam hoti,"
+  },
+  {
+   "t": 755.7,
+   "end": 757.28,
+   "text": "jati pacchaya jaramaranam"
+  },
+  {
+   "t": 757.28,
+   "end": 760.56,
+   "text": "Even birth does decay and death come to be,"
+  },
+  {
+   "t": 760.76,
+   "end": 763.64,
+   "text": "from birth as condition comes decay and death."
+  },
+  {
+   "t": 764.4,
+   "end": 767.04,
+   "text": "In the same manner, taking payah by payah,"
+  },
+  {
+   "t": 767.44,
+   "end": 769.1,
+   "text": "he went on reasoning progressively."
+  },
+  {
+   "t": 770.12,
+   "end": 772.6,
+   "text": "For instance, his next question was,"
+  },
+  {
+   "t": 773.46,
+   "end": 776.28,
+   "text": "Kimme no khosati jaramaranam hoti kimpacchaya jaramaranam"
+  },
+  {
+   "t": 776.96,
+   "end": 779.22,
+   "text": "Even what does birth come to be?"
+  },
+  {
+   "t": 779.44,
+   "end": 781.0,
+   "text": "From which condition comes birth?"
+  },
+  {
+   "t": 781.24,
+   "end": 782.72,
+   "text": "And the answer to it was,"
+  },
+  {
+   "t": 782.9,
+   "end": 784.7,
+   "text": "bhavekho sati jaramaranam hoti,"
+  },
+  {
+   "t": 784.78,
+   "end": 785.7,
+   "text": "bhavopatya jaramaranam"
+  },
+  {
+   "t": 786.46,
+   "end": 788.26,
+   "text": "Even becoming birth comes to be,"
+  },
+  {
+   "t": 788.6,
+   "end": 791.1,
+   "text": "from becoming as condition comes birth."
+  },
+  {
+   "t": 793.38,
+   "end": 797.82,
+   "text": "He went on reasoning like this up to and including name and form."
+  },
+  {
+   "t": 798.48,
+   "end": 800.4,
+   "text": "But when he came to consciousness,"
+  },
+  {
+   "t": 800.78,
+   "end": 801.68,
+   "text": "he had to turn down."
+  },
+  {
+   "t": 802.14,
+   "end": 804.66,
+   "text": "When he searched for the condition of consciousness,"
+  },
+  {
+   "t": 804.94,
+   "end": 808.38,
+   "text": "he found that name and form itself is the condition,"
+  },
+  {
+   "t": 808.74,
+   "end": 810.42,
+   "text": "whereby he understood their interdependence."
+  },
+  {
+   "t": 811.4,
+   "end": 816.18,
+   "text": "And then he gave expression to the significance of this discovery in the following words."
+  },
+  {
+   "t": 817.92,
+   "end": 846.16,
+   "text": "Bhavopatya jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna jayatna"
+  },
+  {
+   "t": 853.42,
+   "end": 859.42,
+   "text": "By means of radical reflection, the Bodhisattva Vipassi understood that all concepts of birth,"
+  },
+  {
+   "t": 859.54,
+   "end": 863.9,
+   "text": "decay and death, converge on the relationship between consciousness and name and form."
+  },
+  {
+   "t": 866.1,
+   "end": 868.52,
+   "text": "This consciousness turns back from name and form."
+  },
+  {
+   "t": 868.7,
+   "end": 870.06,
+   "text": "It does not go beyond."
+  },
+  {
+   "t": 870.92,
+   "end": 875.9,
+   "text": "Insofar, can one be born or grow old or die or pass away or reappear?"
+  },
+  {
+   "t": 876.5,
+   "end": 882.06,
+   "text": "Insofar as this is namely consciousness is dependent on name and form and name and form"
+  },
+  {
+   "t": 882.06,
+   "end": 882.72,
+   "text": "on consciousness."
+  },
+  {
+   "t": 883.74,
+   "end": 886.1,
+   "text": "Dependent on name and form, the sixth sense basis."
+  },
+  {
+   "t": 886.38,
+   "end": 888.22,
+   "text": "Dependent on the sixth sense basis, contact."
+  },
+  {
+   "t": 888.8,
+   "end": 890.4,
+   "text": "Dependent on contact, feeling."
+  },
+  {
+   "t": 890.62,
+   "end": 892.32,
+   "text": "Dependent on feeling, craving."
+  },
+  {
+   "t": 892.6,
+   "end": 894.14,
+   "text": "Dependent on craving, grasping."
+  },
+  {
+   "t": 895.04,
+   "end": 896.0,
+   "text": "Dependent on grasping, becoming."
+  },
+  {
+   "t": 896.92,
+   "end": 897.88,
+   "text": "Dependent on becoming, birth."
+  },
+  {
+   "t": 897.88,
+   "end": 903.22,
+   "text": "Dependent on birth, decay and death, sorrow, lamentation, pain, grief and despair come to"
+  },
+  {
+   "t": 903.22,
+   "end": 903.34,
+   "text": "be."
+  },
+  {
+   "t": 903.8,
+   "end": 906.34,
+   "text": "This is the arising of the same time as of suffering."
+  },
+  {
+   "t": 907.6,
+   "end": 912.74,
+   "text": "The fact that this understanding of Patrikya Muppada signified the arising of the Dhamma"
+  },
+  {
+   "t": 912.74,
+   "end": 915.76,
+   "text": "in Vipassi Bodhisattva is stated in the following words."
+  },
+  {
+   "t": 920.46,
+   "end": 926.32,
+   "text": "Samudhya Muppada rising!"
+  },
+  {
+   "t": 929.62,
+   "end": 930.88,
+   "text": "Arising, Arising!"
+  },
+  {
+   "t": 931.0,
+   "end": 934.14,
+   "text": "Thus O monks in regard to things unheard of before!"
+  },
+  {
+   "t": 934.14,
+   "end": 941.04,
+   "text": "they arose in the Bodhisattva Vipassi, the I, the Knowledge, the Wisdom, the Science, the Life."
+  },
+  {
+   "t": 942.1,
+   "end": 948.9,
+   "text": "In the same way, he said that the Bodhisattva clarified for himself the cessation aspect through radical reflection."
+  },
+  {
+   "t": 950.22,
+   "end": 955.84,
+   "text": "Kimmi nukho asati jaramaranam nahoti, chissa nirodha jaramaranam nirodha."
+  },
+  {
+   "t": 956.28,
+   "end": 959.54,
+   "text": "In the absence of what will decay and death not be,"
+  },
+  {
+   "t": 959.72,
+   "end": 962.88,
+   "text": "in the cessation of what is the cessation of decay and death."
+  },
+  {
+   "t": 963.58,
+   "end": 966.54,
+   "text": "And as the answer to it, the following thought occurred to him,"
+  },
+  {
+   "t": 967.38,
+   "end": 971.66,
+   "text": "jati akho asati jaramaranam nahoti, jati nirodha jaramaranam nirodha."
+  },
+  {
+   "t": 972.42,
+   "end": 975.16,
+   "text": "In the absence of birth, there is no decay and death."
+  },
+  {
+   "t": 975.46,
+   "end": 978.1,
+   "text": "With the cessation of birth, is the cessation of decay and death."
+  },
+  {
+   "t": 980.32,
+   "end": 985.92,
+   "text": "Likewise, he went on reflecting progressively until he reached the link between name and form and consciousness,"
+  },
+  {
+   "t": 986.22,
+   "end": 987.48,
+   "text": "and then he talked to him,"
+  },
+  {
+   "t": 989.28,
+   "end": 993.9,
+   "text": "nama rupa nirodha vinyana nirodha, vinyana nirodha, nama rupa nirodha."
+  },
+  {
+   "t": 994.38,
+   "end": 997.76,
+   "text": "From the cessation of name and form comes the cessation of consciousness."
+  },
+  {
+   "t": 998.08,
+   "end": 1001.2,
+   "text": "From the cessation of consciousness comes the cessation of name and form."
+  },
+  {
+   "t": 1002.2,
+   "end": 1004.36,
+   "text": "Once this vital link is broken,"
+  },
+  {
+   "t": 1005.1,
+   "end": 1008.8,
+   "text": "that is, when consciousness ceases with the cessation of name and form,"
+  },
+  {
+   "t": 1009.02,
+   "end": 1012.0,
+   "text": "and name and form ceases with the cessation of consciousness,"
+  },
+  {
+   "t": 1012.58,
+   "end": 1015.5,
+   "text": "then all the other links following name and form,"
+  },
+  {
+   "t": 1015.58,
+   "end": 1018.42,
+   "text": "such as the sixth sense basis, contact and feeling,"
+  },
+  {
+   "t": 1018.78,
+   "end": 1019.74,
+   "text": "come to cease immediately."
+  },
+  {
+   "t": 1020.94,
+   "end": 1025.8,
+   "text": "The Mahapadana Sutta goes on to say that Bodhisattva Ipassi continued to dwell,"
+  },
+  {
+   "t": 1026.36,
+   "end": 1030.12,
+   "text": "seeing the arising and passing away of the five grasping roots,"
+  },
+  {
+   "t": 1030.32,
+   "end": 1034.58,
+   "text": "and that before long his mind was fully emancipated from the infractors,"
+  },
+  {
+   "t": 1034.7,
+   "end": 1036.44,
+   "text": "and that he attained to full enlightenment."
+  },
+  {
+   "t": 1037.42,
+   "end": 1040.26,
+   "text": "It is also said in the Sutta, in this connection,"
+  },
+  {
+   "t": 1040.84,
+   "end": 1043.54,
+   "text": "that the Bodhisattva followed this mode of reflection,"
+  },
+  {
+   "t": 1043.86,
+   "end": 1047.96,
+   "text": "because he understood that it is the way of insight leading to awakening."
+  },
+  {
+   "t": 1051.56,
+   "end": 1055.32,
+   "text": "I have found this path of insight to awakening, to enlightenment."
+  },
+  {
+   "t": 1056.48,
+   "end": 1059.56,
+   "text": "And as we saw above, the most important point,"
+  },
+  {
+   "t": 1059.78,
+   "end": 1061.92,
+   "text": "the pivotal point in this path of insight,"
+  },
+  {
+   "t": 1062.16,
+   "end": 1065.28,
+   "text": "is the relationship between name and form and consciousness."
+  },
+  {
+   "t": 1066.74,
+   "end": 1068.66,
+   "text": "The commentary raises the question,"
+  },
+  {
+   "t": 1068.9,
+   "end": 1072.28,
+   "text": "why the Bodhisattva Ipassi makes no mention of the first two links,"
+  },
+  {
+   "t": 1072.38,
+   "end": 1073.6,
+   "text": "Avijjaya and Sankara,"
+  },
+  {
+   "t": 1073.9,
+   "end": 1076.68,
+   "text": "and gives the explanation that he could not see them"
+  },
+  {
+   "t": 1076.68,
+   "end": 1078.38,
+   "text": "as they belong to the past."
+  },
+  {
+   "t": 1078.88,
+   "end": 1080.42,
+   "text": "But this is not the reason."
+  },
+  {
+   "t": 1080.76,
+   "end": 1086.16,
+   "text": "The very ignorance regarding the relationship between name and form and consciousness is Avijjaya,"
+  },
+  {
+   "t": 1086.32,
+   "end": 1090.38,
+   "text": "and what accounts for the continuity of the relationship is Sankara."
+  },
+  {
+   "t": 1091.16,
+   "end": 1096.98,
+   "text": "It is because of these preparations that the vertical interplay between consciousness and name and form is kept going."
+  },
+  {
+   "t": 1098.52,
+   "end": 1101.44,
+   "text": "Simply because the first two links are not mentioned in the Sutta,"
+  },
+  {
+   "t": 1101.7,
+   "end": 1105.24,
+   "text": "the commentators give the explanation that they belong to the past."
+  },
+  {
+   "t": 1105.24,
+   "end": 1111.48,
+   "text": "But it should be clear that the Bodhisattva Ipassi could not have aroused the Dhamma without those two links."
+  },
+  {
+   "t": 1112.06,
+   "end": 1116.24,
+   "text": "Why they are not specially mentioned here is because they are in the background."
+  },
+  {
+   "t": 1116.96,
+   "end": 1121.74,
+   "text": "It is true that there is a mode of exposition in which Avijjaya ignorance takes precedence."
+  },
+  {
+   "t": 1121.74,
+   "end": 1130.6,
+   "text": "But what we have here is a different mode of exposition according to which one has to stop short at the interrelation between consciousness and name and form."
+  },
+  {
+   "t": 1132.02,
+   "end": 1137.04,
+   "text": "As to the cause of this mutual relationship, we have to go back to the vortex."
+  },
+  {
+   "t": 1139.1,
+   "end": 1144.52,
+   "text": "Usually, the progress of a current of water is visible at some distance away from the vortex."
+  },
+  {
+   "t": 1145.46,
+   "end": 1151.98,
+   "text": "In this case, the current of water forgets its own impermanent suffering and not self-nature"
+  },
+  {
+   "t": 1151.98,
+   "end": 1157.0,
+   "text": "and goes ahead in search of a permanent, pleasurable and self-nature."
+  },
+  {
+   "t": 1157.78,
+   "end": 1160.72,
+   "text": "And this itself is Avijjaya or ignorance."
+  },
+  {
+   "t": 1162.12,
+   "end": 1169.16,
+   "text": "This very tendency of the narrow water current to push on against the main body of water is itself what is called consciousness."
+  },
+  {
+   "t": 1170.6,
+   "end": 1173.5,
+   "text": "Similarly, in the context of the samsaric individual,"
+  },
+  {
+   "t": 1173.86,
+   "end": 1178.12,
+   "text": "what forms the background for the interplay between consciousness and name and form"
+  },
+  {
+   "t": 1178.12,
+   "end": 1182.96,
+   "text": "is the non-understanding that the net result of the interplay is suffering,"
+  },
+  {
+   "t": 1183.56,
+   "end": 1185.4,
+   "text": "that it only leads to suffering."
+  },
+  {
+   "t": 1185.86,
+   "end": 1192.78,
+   "text": "In other words, it is the tendency to go ahead in search of a state of permanence, pleasure and self,"
+  },
+  {
+   "t": 1193.0,
+   "end": 1197.6,
+   "text": "ignoring the three characteristics of impermanence, suffering and not self."
+  },
+  {
+   "t": 1198.54,
+   "end": 1199.98,
+   "text": "The hip-proprietism, the hip-proprietism,"
+  },
+  {
+   "t": 1200.0,
+   "end": 1207.94,
+   "text": "preparations or efforts arising out of that tendency are the Sankharvas. It is on these"
+  },
+  {
+   "t": 1207.94,
+   "end": 1215.38,
+   "text": "very preparations or efforts that consciousness depends. And then we have name and form existing"
+  },
+  {
+   "t": 1215.38,
+   "end": 1223.52,
+   "text": "in relation to it. On the side of name and form or beyond it, we have all the other links of the"
+  },
+  {
+   "t": 1223.52,
+   "end": 1229.74,
+   "text": "Patitasamuppa. So in this way we can form a mental picture of the formula of Patitasamuppa by some"
+  },
+  {
+   "t": 1229.74,
+   "end": 1236.46,
+   "text": "sort of a pictorial explanation. It seems then that this discourse is further proof of the"
+  },
+  {
+   "t": 1236.46,
+   "end": 1242.54,
+   "text": "statements found in the Mahanidana Suryodhana. There is yet another discourse, one preached by"
+  },
+  {
+   "t": 1242.54,
+   "end": 1250.08,
+   "text": "Venerable Sariputta, which supports our conclusions. It is found in the Nidana Sanyata of the Sanyata"
+  },
+  {
+   "t": 1250.08,
+   "end": 1257.62,
+   "text": "Sanyata. There, Venerable Sariputta brings out a simile that is even simpler than the vortex"
+  },
+  {
+   "t": 1257.62,
+   "end": 1266.02,
+   "text": "simile. He compares consciousness and name and form to two bundles of reeds. When two bundles"
+  },
+  {
+   "t": 1266.02,
+   "end": 1272.4,
+   "text": "of reeds stand, one supporting the other, if one of those is drawn out, the other would fall"
+  },
+  {
+   "t": 1272.4,
+   "end": 1285.16,
+   "text": "down. And if the latter is drawn out, the former will fall down. The mutual interrelation between"
+  },
+  {
+   "t": 1285.16,
+   "end": 1290.9,
+   "text": "consciousness and name and form is like that of two bundles of reeds mutually supporting each other."
+  },
+  {
+   "t": 1291.82,
+   "end": 1296.82,
+   "text": "Having given this simile, Venerable Sariputta goes on to mention the other links of the Patitasamuppa,"
+  },
+  {
+   "t": 1296.82,
+   "end": 1304.8,
+   "text": "the formula. As in the case of the Bodhisattva Vipassi's insight, it runs. Dependent on name and form,"
+  },
+  {
+   "t": 1304.9,
+   "end": 1311.0,
+   "text": "the sixth sense basis. Dependent on the sixth sense basis, contact. Dependent on contact, feelings,"
+  },
+  {
+   "t": 1311.08,
+   "end": 1318.98,
+   "text": "and so on. And then the cessation aspect of these links is also given. By way of illustration, let us"
+  },
+  {
+   "t": 1318.98,
+   "end": 1325.32,
+   "text": "suppose that the consciousness bundle of reeds is standing on the left side and the name and form bundle is on"
+  },
+  {
+   "t": 1325.32,
+   "end": 1332.36,
+   "text": "the right. Then we have a number of other bundles, such as the sixth sense basis, contact and feeling,"
+  },
+  {
+   "t": 1333.04,
+   "end": 1338.78,
+   "text": "all leaning on to the name and form bundle of reeds. These are all dependent on the name and form bundle."
+  },
+  {
+   "t": 1340.52,
+   "end": 1346.22,
+   "text": "Now, as soon as the consciousness bundle is drawn out, all the others on the right side fall down"
+  },
+  {
+   "t": 1346.22,
+   "end": 1352.78,
+   "text": "immediately. There is no interval. True to the qualities of the Dhamma, summed up in the terms"
+  },
+  {
+   "t": 1352.78,
+   "end": 1360.04,
+   "text": "sanditthika, akalika, and ehipassika, that is, to be seen here and now, not involving time and inviting"
+  },
+  {
+   "t": 1360.04,
+   "end": 1367.12,
+   "text": "to come and see, the entire mass of samsaric suffering ceases immediately. So, this discourse is"
+  },
+  {
+   "t": 1367.12,
+   "end": 1372.58,
+   "text": "further proof of the fact that we have here quite a different state of affairs than what is commonly"
+  },
+  {
+   "t": 1372.58,
+   "end": 1378.98,
+   "text": "believed to be the significance of the patichetam for the former. That is why we have pointed"
+  },
+  {
+   "t": 1378.98,
+   "end": 1386.22,
+   "text": "out that the concepts of birth, decay and death are of the nature of fading away. That is also"
+  },
+  {
+   "t": 1386.22,
+   "end": 1392.56,
+   "text": "why decay and death have been described as impermanent, made up, dependently arisen, of nature to"
+  },
+  {
+   "t": 1392.56,
+   "end": 1401.74,
+   "text": "wither away, pass away, fade away, and cease. Anikyaṁ, saṅkhaṁ, patichetam, pannāṁ, khaedhammāṁ, vayadhammāṁ, viragadhammāṁ, nirodhadhamṁ."
+  },
+  {
+   "t": 1403.06,
+   "end": 1408.86,
+   "text": "When one comes to think of it, one may find it difficult to understand why decay and death"
+  },
+  {
+   "t": 1408.86,
+   "end": 1417.1,
+   "text": "are called impermanent and withering or decaying. But the reason is that all concepts insofar as"
+  },
+  {
+   "t": 1417.1,
+   "end": 1421.88,
+   "text": "they are leaning on to the name and form muddled have to fall down when the opposite"
+  },
+  {
+   "t": 1421.88,
+   "end": 1427.1,
+   "text": "muddle of rates is drawn out. That is to say that the entire mass of saṅkhaṁic suffering"
+  },
+  {
+   "t": 1427.1,
+   "end": 1433.82,
+   "text": "ceases immediately and the whirlpool of saṅkhaṁ comes to an end. This then seems to be the"
+  },
+  {
+   "t": 1433.82,
+   "end": 1440.26,
+   "text": "most plausible conclusion. According to the interpretation we have adopted, in the Mahāṁātipā"
+  },
+  {
+   "t": 1440.26,
+   "end": 1447.28,
+   "text": "of the Mahāṁicāṁ, Venerable Sariputta brings out as a quotation a certain statement of the"
+  },
+  {
+   "t": 1447.28,
+   "end": 1450.92,
+   "text": "Buddha on patichetamukpādha. It runs,"
+  },
+  {
+   "t": 1452.9,
+   "end": 1458.6,
+   "text": "Yo patichetamukpādhaṁ pasati, so dhammāṁ pasati. Yo dhammāṁ pasati, so patichetamukpādhaṁ pasati."
+  },
+  {
+   "t": 1458.96,
+   "end": 1465.86,
+   "text": "He who sees the law of dependent arising, sees the dhamm. He who sees the dhamm, sees the law of dependent arising."
+  },
+  {
+   "t": 1466.48,
+   "end": 1472.12,
+   "text": "This shows that the quintessence of the dhamm is in fact the law of dependent arising itself."
+  },
+  {
+   "t": 1473.62,
+   "end": 1480.2,
+   "text": "Now there are these six qualities of the dhamm summed up in the well-known formula which"
+  },
+  {
+   "t": 1480.2,
+   "end": 1487.92,
+   "text": "every Buddhist believes in. This dhamm is well-pleased, svakkhato. It can be seen here and now,"
+  },
+  {
+   "t": 1487.92,
+   "end": 1496.34,
+   "text": "saṅdhīrtiko. That is, one can see it by oneself, here in this very world. It is timeless, akāliko."
+  },
+  {
+   "t": 1496.54,
+   "end": 1504.32,
+   "text": "It invites one to come and see, eipāsiko. It leads one on, upanayiko. It can be realised by the wise,"
+  },
+  {
+   "t": 1504.32,
+   "end": 1508.08,
+   "text": "as each one by himself, patichetamukpādhaṁ pasati."
+  },
+  {
+   "t": 1509.26,
+   "end": 1515.06,
+   "text": "Though we all have faith in these qualities of the dhamm, let us see whether the traditionally accepted"
+  },
+  {
+   "t": 1515.06,
+   "end": 1521.3,
+   "text": "interpretation of patichamukpādha is faithful to these qualities, particularly to the two qualities,"
+  },
+  {
+   "t": 1521.3,
+   "end": 1528.32,
+   "text": "saṅdhīrtiko and nakālpa. According to that accepted interpretation, presented by the Venerable"
+  },
+  {
+   "t": 1528.32,
+   "end": 1533.84,
+   "text": "Author of the Mukisuddhimagga, the first two links of the formula belong to the past, and"
+  },
+  {
+   "t": 1533.84,
+   "end": 1539.06,
+   "text": "the last two links belong to the future. The remaining eight links in the middle are taken"
+  },
+  {
+   "t": 1539.06,
+   "end": 1545.62,
+   "text": "to represent the present. That means, we have here the three periods of time. So it is not"
+  },
+  {
+   "t": 1545.62,
+   "end": 1551.0,
+   "text": "timeless. That is why they explained that the Bodhisattva-vipāsi did not see the first"
+  },
+  {
+   "t": 1551.0,
+   "end": 1557.1,
+   "text": "two links. Perhaps the presumption is that since these two links belong to the past, they"
+  },
+  {
+   "t": 1557.1,
+   "end": 1562.78,
+   "text": "can be seen only by the knowledge of the recollection of past life. But on the other hand, the suttas"
+  },
+  {
+   "t": 1562.78,
+   "end": 1566.62,
+   "text": "tell us that even the stream-winner has a clear understanding of patichamukpādhaṁ."
+  },
+  {
+   "t": 1571.8,
+   "end": 1578.6,
+   "text": "By him the noble gnome is well seen and well penetrated through with wisdom. The noble gnome is"
+  },
+  {
+   "t": 1578.6,
+   "end": 1584.74,
+   "text": "none other than the law of dependent arising, and the stream-winner has seen it well, penetrated"
+  },
+  {
+   "t": 1584.74,
+   "end": 1591.68,
+   "text": "into it well with wisdom. The prefix su implies the clarity of the attrition. The question then"
+  },
+  {
+   "t": 1591.68,
+   "end": 1596.7,
+   "text": "is how a stream-winner, who has no knowledge of the recollection of past lives, can get"
+  },
+  {
+   "t": 1596.7,
+   "end": 1603.76,
+   "text": "this insight? Whatever it may be, the accepted interpretation, as already mentioned, puts"
+  },
+  {
+   "t": 1603.76,
+   "end": 1609.26,
+   "text": "the first two links into the past. That is to say, ignorance and preparations are referred"
+  },
+  {
+   "t": 1609.26,
+   "end": 1615.72,
+   "text": "to the past. Birth, decay and death are referred to the future. The eight links in between are"
+  },
+  {
+   "t": 1615.72,
+   "end": 1620.46,
+   "text": "explained with reference to the present. Thus the formula is divided into three periods."
+  },
+  {
+   "t": 1621.42,
+   "end": 1626.64,
+   "text": "Not only that, in the attempt to interpret the formula as referring to three stages in the"
+  },
+  {
+   "t": 1626.64,
+   "end": 1632.74,
+   "text": "samsaric journey of an individual, additional links had to be interposed to prop up the interpretation."
+  },
+  {
+   "t": 1634.26,
+   "end": 1640.9,
+   "text": "Ignorance, preparations, craving, grasping and becoming are regarded as the past causes."
+  },
+  {
+   "t": 1642.8,
+   "end": 1648.96,
+   "text": "Depending on these past causes, consciousness, name and form, sixth sense basis, contact and"
+  },
+  {
+   "t": 1648.96,
+   "end": 1655.24,
+   "text": "feeling are said to arise as results in the present. And again, with ignorance, preparations,"
+  },
+  {
+   "t": 1655.54,
+   "end": 1660.72,
+   "text": "craving, grasping and becoming as present causes, consciousness, name and form, sixth sense"
+  },
+  {
+   "t": 1660.72,
+   "end": 1668.88,
+   "text": "basis, contact and feeling arise as results in the future. This kind of interpretation is also advanced."
+  },
+  {
+   "t": 1669.52,
+   "end": 1675.1,
+   "text": "But this interpretation, in terms of pentads, violates the interrelatedness between the twelve"
+  },
+  {
+   "t": 1675.1,
+   "end": 1681.12,
+   "text": "links in the formula. We have already drawn attention to the effect of interrelation between"
+  },
+  {
+   "t": 1681.12,
+   "end": 1687.36,
+   "text": "the two links in each pair. In fact, that itself has to be taken as the law of dependent arising."
+  },
+  {
+   "t": 1688.24,
+   "end": 1695.36,
+   "text": "That is the basic principle itself. Because of one, the other arises. With its cessation, the"
+  },
+  {
+   "t": 1695.36,
+   "end": 1702.44,
+   "text": "other ceases. There is this mode of analysis. But then it is disrupted by the attempt to smuggle"
+  },
+  {
+   "t": 1702.44,
+   "end": 1709.16,
+   "text": "in additional links into the formula. Furthermore, according to this accepted commentarial exegesis,"
+  },
+  {
+   "t": 1709.16,
+   "end": 1717.9,
+   "text": "even the term bhava or becoming is given a two-fold interpretation. As kama process becoming and rebirth"
+  },
+  {
+   "t": 1717.9,
+   "end": 1726.84,
+   "text": "process becoming. In the context upadana pachya bhavo, dependent on rasping is becoming. It is explained"
+  },
+  {
+   "t": 1726.84,
+   "end": 1737.12,
+   "text": "as rebirth process becoming. While in the case of the other context bhapachya jati, dependent on birth becoming is birth. It is taken to mean kama process becoming."
+  },
+  {
+   "t": 1738.96,
+   "end": 1749.86,
+   "text": "So, the same term is explained in two ways. Similarly, the term jati, which generally means birth, is said to imply rebirth in the context of the formula of dependent"
+  },
+  {
+   "t": 1749.86,
+   "end": 1762.02,
+   "text": "arising. There are many such weak points in the accepted interpretation. Quite a number of authoritative modern scholars have pointed this out. Now all these shortcomings could be"
+  },
+  {
+   "t": 1762.02,
+   "end": 1775.9,
+   "text": "sidetracked if we grant the fact as already mentioned that the secret of the entire samsaric vortix is traceable to the two links, consciousness and name and form. As a matter of fact, the purpose of the formula of dependent"
+  },
+  {
+   "t": 1775.9,
+   "end": 1791.8,
+   "text": "arising is to show the way of arising and cessation of the entire mass of suffering, and not to illustrate three stages in the samsaric journey of an individual. The distinctive feature of this law of dependent arising is its demonstrability in the"
+  },
+  {
+   "t": 1791.8,
+   "end": 1799.98,
+   "text": "present. As suggested by the term to be seen, here and now, and timeless, even as the Bodhisattva Vipassi discalmed."
+  },
+  {
+   "t": 1800.0,
+   "end": 1806.7,
+   "text": "through radical reflection itself. The salient characteristic of the teaching of the Buddha"
+  },
+  {
+   "t": 1806.7,
+   "end": 1813.28,
+   "text": "is its visibility here and now and timelessness. This fact is well revealed by the Hemakasutta"
+  },
+  {
+   "t": 1813.28,
+   "end": 1819.46,
+   "text": "of the Suttaniparatha. The Brahmin youth Hemakas sings praise of the Buddha in the following"
+  },
+  {
+   "t": 1820.94,
+   "end": 1846.7,
+   "text": "verses. Those who explained to me before outside the"
+  },
+  {
+   "t": 1846.7,
+   "end": 1854.28,
+   "text": "dispensation of Gautama, all of them said, so it was and so it will be. But all that is so and so"
+  },
+  {
+   "t": 1854.28,
+   "end": 1862.86,
+   "text": "talk, all that is productive of logic, I did not delight therein. But now to me, O sage, proclaim"
+  },
+  {
+   "t": 1862.86,
+   "end": 1868.44,
+   "text": "your Dhamma. That is destructive of clearing by knowing which and mindfully faring along"
+  },
+  {
+   "t": 1868.44,
+   "end": 1878.14,
+   "text": "one might get beyond the world's viscosity. Now to paraphrase, whatever teachers explain"
+  },
+  {
+   "t": 1878.14,
+   "end": 1883.66,
+   "text": "to me their teachings outside your dispensation used to bring in the past and the future in"
+  },
+  {
+   "t": 1883.66,
+   "end": 1890.12,
+   "text": "their explanations, saying so it was and so it will be. That is, they were always referring"
+  },
+  {
+   "t": 1890.12,
+   "end": 1896.48,
+   "text": "to a past and a future. But all they can be summed up as so and so talk. By the way, the"
+  },
+  {
+   "t": 1896.48,
+   "end": 1903.44,
+   "text": "term Itihidya had already become a technical term for hearsay among the ascetics. Such teachings"
+  },
+  {
+   "t": 1903.44,
+   "end": 1910.24,
+   "text": "based on hearsay were productive of logic as, for instance, testified by the Sambhasva Sutta"
+  },
+  {
+   "t": 1910.24,
+   "end": 1918.04,
+   "text": "of the Manjmanikaya. Was I in the past? Was I not in the past? What was I in the past? How"
+  },
+  {
+   "t": 1918.04,
+   "end": 1923.1,
+   "text": "was I in the past? Having been what, what did I become in the past? Shall I be in the future?"
+  },
+  {
+   "t": 1923.32,
+   "end": 1927.86,
+   "text": "Shall I not be in the future? What shall I be in the future? How shall I be in the future?"
+  },
+  {
+   "t": 1928.28,
+   "end": 1934.78,
+   "text": "Having been what, what shall I become in the future? And so on. But I was not pleased with"
+  },
+  {
+   "t": 1934.78,
+   "end": 1940.78,
+   "text": "such teachings, says Hemaka. It is only you, O sage, who teaches the Dhamma that destroys"
+  },
+  {
+   "t": 1940.78,
+   "end": 1945.5,
+   "text": "the craving in the present, understanding which and mindfully following it accordingly,"
+  },
+  {
+   "t": 1945.86,
+   "end": 1951.88,
+   "text": "one could go beyond the sticky craving in the world. Hemaka's praise of the Buddha was inspired"
+  },
+  {
+   "t": 1951.88,
+   "end": 1959.74,
+   "text": "by this most distinctive feature in the Dhamma. We have already stated that by Dhamma is mental"
+  },
+  {
+   "t": 1959.74,
+   "end": 1965.36,
+   "text": "of dependent arising. This is further proof that the basic principle underlying the formula"
+  },
+  {
+   "t": 1965.36,
+   "end": 1970.0,
+   "text": "of dependent arising could be traced to the constant relationship between consciousness"
+  },
+  {
+   "t": 1970.0,
+   "end": 1976.3,
+   "text": "and name and form, already present in one's mental continuum without running into the past"
+  },
+  {
+   "t": 1976.3,
+   "end": 1983.18,
+   "text": "or leaping towards the future. We know that in order to ascertain whether a banana trunk is pitless,"
+  },
+  {
+   "t": 1983.18,
+   "end": 1991.48,
+   "text": "it is not necessary to remove its bark layer after layer from top to bottom. We only have to take a sharp"
+  },
+  {
+   "t": 1991.48,
+   "end": 1998.7,
+   "text": "sword and cut the trunk in the middle so that the cross section will reveal to us its pitless nature."
+  },
+  {
+   "t": 1999.58,
+   "end": 2005.86,
+   "text": "Similarly, if we cut in the middle the banana trunk of preparations with a sharp sword of wisdom,"
+  },
+  {
+   "t": 2007.04,
+   "end": 2013.64,
+   "text": "Panyamyam Tikhinamasiṁ Gahita, its internal structure as revealed by the cross section will convince us"
+  },
+  {
+   "t": 2013.64,
+   "end": 2020.64,
+   "text": "of the essenceless nature of the group of preparation. Whatever existence there was in the past that too"
+  },
+  {
+   "t": 2020.64,
+   "end": 2027.28,
+   "text": "had the same essenceless nature. And whatever existence there will be in the future will have"
+  },
+  {
+   "t": 2027.28,
+   "end": 2034.56,
+   "text": "this same essencelessness. And I see it now in my own mental continuum as something visible here and now,"
+  },
+  {
+   "t": 2034.8,
+   "end": 2041.28,
+   "text": "not involving time. It is with such a conviction that the noble disciple utters the words,"
+  },
+  {
+   "t": 2042.12,
+   "end": 2049.36,
+   "text": "Arising, rising, cessation, cessation. It is how we arise at the realization summed up in the phrase"
+  },
+  {
+   "t": 2049.98,
+   "end": 2055.4,
+   "text": "yankinche samdhi dhammang, samdhi dhammang, samdhi dhammang. Whatever is of the nature to arise,"
+  },
+  {
+   "t": 2055.64,
+   "end": 2061.98,
+   "text": "all that is of the nature to arise. All this goes to show that the accepted interpretation has certain"
+  },
+  {
+   "t": 2061.98,
+   "end": 2069.58,
+   "text": "shortcomings. To take up another simile, we have already alluded to the fact that the Buddha has been"
+  },
+  {
+   "t": 2069.58,
+   "end": 2076.68,
+   "text": "compared to a precision. Though this might well sound a modernism, we may say that a specialist doctor"
+  },
+  {
+   "t": 2076.68,
+   "end": 2082.36,
+   "text": "today needs only a drop of blood for blood tissue for a full diagnosis of a patient's disease."
+  },
+  {
+   "t": 2082.82,
+   "end": 2087.82,
+   "text": "When seen under the microscope, that blood tissue reveals the pathological condition of the patient."
+  },
+  {
+   "t": 2088.26,
+   "end": 2092.4,
+   "text": "Even the patient himself could be invited to see for himself the result of the blood test."
+  },
+  {
+   "t": 2093.48,
+   "end": 2099.48,
+   "text": "But once the disease has been cured, the doctor could invite the patient again to undergo a blood test"
+  },
+  {
+   "t": 2099.48,
+   "end": 2104.62,
+   "text": "if he lies to assure himself of the fact that that disease has been effectively treated."
+  },
+  {
+   "t": 2105.42,
+   "end": 2109.64,
+   "text": "The Buddha's teaching has a similar here and now and timeless quality."
+  },
+  {
+   "t": 2110.48,
+   "end": 2115.02,
+   "text": "What is not worthy is that this quality is found in the law of dependent arising."
+  },
+  {
+   "t": 2116.78,
+   "end": 2120.94,
+   "text": "Then there is another question that pops up out of this traditional interpretation"
+  },
+  {
+   "t": 2120.94,
+   "end": 2126.5,
+   "text": "of the formula of dependent arising. That is, the reason why the two links,"
+  },
+  {
+   "t": 2126.52,
+   "end": 2128.88,
+   "text": "ignorance and preparations are referred to the past."
+  },
+  {
+   "t": 2130.98,
+   "end": 2137.1,
+   "text": "In some discourses, like the Mahanidana Sutra, there is a discussion about a descent of consciousness"
+  },
+  {
+   "t": 2137.1,
+   "end": 2143.34,
+   "text": "into a mother's womb. Simply because there is such a discussion, one might think that the law of"
+  },
+  {
+   "t": 2143.34,
+   "end": 2148.0,
+   "text": "dependent arising has reference to a period beyond one's conception in a mother's womb."
+  },
+  {
+   "t": 2148.82,
+   "end": 2155.44,
+   "text": "But if we carefully examine the trend of this discussion and analyze its purpose, such a conclusion"
+  },
+  {
+   "t": 2155.44,
+   "end": 2161.44,
+   "text": "will appear to be groundless. The point which the Buddha was trying to drive home into Venerable"
+  },
+  {
+   "t": 2161.44,
+   "end": 2167.24,
+   "text": "Ananda by his Catechism is that the constant interrelation that exists between consciousness"
+  },
+  {
+   "t": 2167.24,
+   "end": 2174.14,
+   "text": "and name and form is present even during one's life in the mother's womb. This Catechism can be analyzed"
+  },
+  {
+   "t": 2174.14,
+   "end": 2176.54,
+   "text": "into four parts. The first question is"
+  },
+  {
+   "t": 2187.28,
+   "end": 2189.84,
+   "text": "And Venerable Ananda's answer is"
+  },
+  {
+   "t": 2192.7,
+   "end": 2198.96,
+   "text": "If Ananda consciousness were not to descend into a mother's womb, would name and form remain there? It would"
+  },
+  {
+   "t": 2198.96,
+   "end": 2204.86,
+   "text": "not be said, Lord. The Buddha is asking whether name and form can persist in remaining"
+  },
+  {
+   "t": 2204.86,
+   "end": 2210.76,
+   "text": "inside the mother's womb if consciousness refuses to descend into it, so to say."
+  },
+  {
+   "t": 2211.92,
+   "end": 2219.58,
+   "text": "The word Samuchisata presents a difficulty as regards etymology, but it is quite likely that it has to"
+  },
+  {
+   "t": 2219.58,
+   "end": 2225.82,
+   "text": "do with the idea of remaining, as it has an affinity to the word Uchittha, left of remnant."
+  },
+  {
+   "t": 2226.98,
+   "end": 2232.74,
+   "text": "So, the point raised here is that in the event of a non-descent of consciousness into the mother's womb,"
+  },
+  {
+   "t": 2233.52,
+   "end": 2239.26,
+   "text": "name and form will not be left remaining there. Name and form has to have the support of consciousness."
+  },
+  {
+   "t": 2240.08,
+   "end": 2246.86,
+   "text": "However, in this interrelation, it is consciousness that decides the issue. If consciousness does not"
+  },
+  {
+   "t": 2246.86,
+   "end": 2254.1,
+   "text": "descend, name and form will not remain there. So, even if at the moment of death one has a thought of"
+  },
+  {
+   "t": 2254.1,
+   "end": 2259.78,
+   "text": "some other's womb, if consciousness does not descend into the proper deep manner, name and form cannot"
+  },
+  {
+   "t": 2259.78,
+   "end": 2265.12,
+   "text": "stay there. Name and form has always to be understood in relation to consciousness."
+  },
+  {
+   "t": 2266.38,
+   "end": 2272.66,
+   "text": "It is not something that is to be found in trees and rocks. It always goes hand in hand with consciousness."
+  },
+  {
+   "t": 2273.46,
+   "end": 2279.32,
+   "text": "So, the upshot of the above discussion is that name and form will not remain there without the support of"
+  },
+  {
+   "t": 2279.32,
+   "end": 2287.66,
+   "text": "consciousness. Venerable Ananda's response to the first question then is, that indeed is not the case,"
+  },
+  {
+   "t": 2287.84,
+   "end": 2289.88,
+   "text": "O Lord? Then the Buddha asks,"
+  },
+  {
+   "t": 2311.12,
+   "end": 2318.06,
+   "text": "Venerable Ananda's reply to it is again that indeed is not the case, Lord. Now, the question is,"
+  },
+  {
+   "t": 2319.0,
+   "end": 2324.96,
+   "text": "Ananda, if for some reason or other, consciousness having descended into the mother's womb slips out of"
+  },
+  {
+   "t": 2324.96,
+   "end": 2332.8,
+   "text": "it, will name and form secure birth as a thisness or a thatta. We have mentioned above that thatta is a term"
+  },
+  {
+   "t": 2332.8,
+   "end": 2340.9,
+   "text": "with some special significance. That is, how a there becomes a here, when a person takes birth in a"
+  },
+  {
+   "t": 2340.9,
+   "end": 2348.62,
+   "text": "particular form of existence. In short, what it implies is that a person comes to be born. In other"
+  },
+  {
+   "t": 2348.62,
+   "end": 2354.42,
+   "text": "words, if consciousness having descended into the mother's womb slips out of it, that name and form"
+  },
+  {
+   "t": 2354.42,
+   "end": 2362.46,
+   "text": "will not mature into a thisness and be born into a thisness. There is no possibility of the thisness"
+  },
+  {
+   "t": 2362.46,
+   "end": 2368.42,
+   "text": "coming into being. For there to be a thisness, both consciousness and name and form must be there."
+  },
+  {
+   "t": 2369.22,
+   "end": 2372.8,
+   "text": "We can understand then why Venerable Ananda replied in the negative."
+  },
+  {
+   "t": 2373.9,
+   "end": 2377.52,
+   "text": "The next question the Buddha puts is, this,"
+  },
+  {
+   "t": 2390.0,
+   "end": 2396.02,
+   "text": "Venerable Ananda, the consciousness of a boy or girl will cut off when he or she is still young."
+  },
+  {
+   "t": 2397.0,
+   "end": 2399.52,
+   "text": "He'll name and form come to growth and maturity."
+  },
+  {
+   "t": 2399.52,
+   "end": 2399.58,
+   "text": "me."
+  },
+  {
+   "t": 2399.76,
+   "end": 2399.98,
+   "text": "You"
+  },
+  {
+   "t": 2400.7,
+   "end": 2405.66,
+   "text": "To that question too, Udendrupal Ānanda replies that indeed is not the case, Lord."
+  },
+  {
+   "t": 2407.6,
+   "end": 2416.72,
+   "text": "Now that the preliminary questions have been correctly answered, the Buddha then comes out with the following conclusion, since the necessary premises are complete."
+  },
+  {
+   "t": 2426.28,
+   "end": 2433.48,
+   "text": "Therefore Ānanda, this itself is the cause, this is the reason, origin and condition for name and form, namely consciousness."
+  },
+  {
+   "t": 2435.56,
+   "end": 2438.82,
+   "text": "What is emphasized here is the importance of consciousness."
+  },
+  {
+   "t": 2440.56,
+   "end": 2446.1,
+   "text": "Out of the two, namely consciousness and name and form, what carries more weight with it is consciousness."
+  },
+  {
+   "t": 2446.1,
+   "end": 2448.84,
+   "text": "Even if there be a trace of name and form."
+  },
+  {
+   "t": 2450.06,
+   "end": 2456.3,
+   "text": "What the above question IA makes clear is that name and form arises in a mother's womb because of consciousness."
+  },
+  {
+   "t": 2457.02,
+   "end": 2462.1,
+   "text": "But that name and form will not remain there if consciousness does not properly descend into the womb."
+  },
+  {
+   "t": 2463.72,
+   "end": 2470.38,
+   "text": "Also, if consciousness after its descent were to slip out, name and form will not treat the state of a business."
+  },
+  {
+   "t": 2471.1,
+   "end": 2475.1,
+   "text": "So much so that even after one's birth as a boy or a girl."
+  },
+  {
+   "t": 2476.5,
+   "end": 2482.36,
+   "text": "If consciousness gets cut off in some way or other, name and form will not reach growth and maturity."
+  },
+  {
+   "t": 2482.92,
+   "end": 2489.4,
+   "text": "So from all this it is clear that consciousness is an essential condition for there to be name and form."
+  },
+  {
+   "t": 2489.4,
+   "end": 2492.6,
+   "text": "Then the Buddha introduces the fourth step."
+  },
+  {
+   "t": 2505.18,
+   "end": 2516.96,
+   "text": "If ananda consciousness was not to find a footing or get established in name and form, would there be an arising origin of birth, decay, death and suffering in the future?"
+  },
+  {
+   "t": 2516.96,
+   "end": 2520.1,
+   "text": "No indeed Lord, says Sr. V. Rana."
+  },
+  {
+   "t": 2522.76,
+   "end": 2525.86,
+   "text": "Now this fourth point is extremely important."
+  },
+  {
+   "t": 2526.18,
+   "end": 2532.62,
+   "text": "What it implies is that though the aforesaid is the normal state of affairs in samsara,"
+  },
+  {
+   "t": 2533.24,
+   "end": 2538.64,
+   "text": "if for some reason or other, consciousness does not get established on name and form."
+  },
+  {
+   "t": 2539.08,
+   "end": 2545.5,
+   "text": "If at all such a contrivance were possible, there will not be any samsaric suffering again."
+  },
+  {
+   "t": 2546.34,
+   "end": 2549.16,
+   "text": "And this position too went about on on the grounds."
+  },
+  {
+   "t": 2551.74,
+   "end": 2558.56,
+   "text": "So from this discussion too, it is obvious that simply because there is a reference to a mother's womb in it,"
+  },
+  {
+   "t": 2558.96,
+   "end": 2562.46,
+   "text": "we cannot conclude that ignorance and preparations are past causes."
+  },
+  {
+   "t": 2563.32,
+   "end": 2567.84,
+   "text": "It only highlights the mutual relationship between consciousness and name and form."
+  },
+  {
+   "t": 2567.84,
+   "end": 2575.1,
+   "text": "Now the question that comes up next is, how does consciousness not get established on name and form?"
+  },
+  {
+   "t": 2575.82,
+   "end": 2579.46,
+   "text": "In what respects does it not get established on name and form?"
+  },
+  {
+   "t": 2582.6,
+   "end": 2587.26,
+   "text": "The consciousness of a samsaric individual is always an established consciousness."
+  },
+  {
+   "t": 2588.0,
+   "end": 2592.18,
+   "text": "It is in the nature of this consciousness to find a footing on name and form."
+  },
+  {
+   "t": 2592.8,
+   "end": 2594.24,
+   "text": "These two go together."
+  },
+  {
+   "t": 2595.5,
+   "end": 2599.48,
+   "text": "That is why, in the Sampasadhaniya Sutta of the Diganikaal,"
+  },
+  {
+   "t": 2600.08,
+   "end": 2605.32,
+   "text": "it is mentioned in the discussion on the attainments to Vishen, Dhasana Samapati,"
+  },
+  {
+   "t": 2605.32,
+   "end": 2612.8,
+   "text": "that a person with such entertainment sees a mainstream of consciousness that is not cut off on either side,"
+  },
+  {
+   "t": 2613.38,
+   "end": 2615.54,
+   "text": "established in this world and in the next."
+  },
+  {
+   "t": 2625.66,
+   "end": 2628.9,
+   "text": "What is implied here is the established nature of consciousness."
+  },
+  {
+   "t": 2630.66,
+   "end": 2635.66,
+   "text": "The consciousness of a samsaric individual is established both in this world and in the next."
+  },
+  {
+   "t": 2637.12,
+   "end": 2639.94,
+   "text": "Another attainment of Vishen, mentioned in the Suttya,"
+  },
+  {
+   "t": 2640.06,
+   "end": 2642.74,
+   "text": "concerns the seeing of a mainstream of consciousness,"
+  },
+  {
+   "t": 2643.4,
+   "end": 2648.26,
+   "text": "not cut off on either side, and not established in this world or in the next."
+  },
+  {
+   "t": 2649.36,
+   "end": 2652.14,
+   "text": "And that is a reference to the consciousness of an arahant."
+  },
+  {
+   "t": 2653.12,
+   "end": 2656.54,
+   "text": "So an arahant's consciousness is an unestablished consciousness,"
+  },
+  {
+   "t": 2656.54,
+   "end": 2661.06,
+   "text": "whereas the consciousness of the samsaric individual is an established consciousness."
+  },
+  {
+   "t": 2663.5,
+   "end": 2670.28,
+   "text": "That is precisely why, in the Sagatha Varga of the Samhya Teri Kaaya and in the Sarathapakasini,"
+  },
+  {
+   "t": 2671.56,
+   "end": 2675.2,
+   "text": "where the episode of Venerable Godika's suicide is mentioned,"
+  },
+  {
+   "t": 2675.2,
+   "end": 2680.86,
+   "text": "it is said that though he cut his own neck intending to commit suicide,"
+  },
+  {
+   "t": 2681.3,
+   "end": 2687.04,
+   "text": "he was able to attain Parinibhanas and arahant by radically attending to the deadly pain."
+  },
+  {
+   "t": 2687.58,
+   "end": 2694.3,
+   "text": "But Mari took him to be an ordinary person and hovered around in search of his consciousness in vain."
+  },
+  {
+   "t": 2695.78,
+   "end": 2701.62,
+   "text": "The Buddha, on the other hand, declared that Venerable Godika passed away with an unestablished consciousness."
+  },
+  {
+   "t": 2702.42,
+   "end": 2706.98,
+   "text": "Apatitthi te neche vittare vinyan yana Godika Kulaputta Parinibhuto."
+  },
+  {
+   "t": 2707.78,
+   "end": 2712.42,
+   "text": "O monks, the clansman Godika passed away with an unestablished consciousness."
+  },
+  {
+   "t": 2714.8,
+   "end": 2719.08,
+   "text": "The consciousness of an ordinary samsaric individual is always established."
+  },
+  {
+   "t": 2720.2,
+   "end": 2722.94,
+   "text": "The above-mentioned relationship is always there."
+  },
+  {
+   "t": 2724.04,
+   "end": 2729.38,
+   "text": "Because of this we can say that there is always a knot in the consciousness of the samsaric individual."
+  },
+  {
+   "t": 2730.24,
+   "end": 2734.42,
+   "text": "For him, this world and the next world are tied together in a knot."
+  },
+  {
+   "t": 2735.18,
+   "end": 2739.42,
+   "text": "In this case, what is needed is only the untying of the knot."
+  },
+  {
+   "t": 2739.74,
+   "end": 2743.78,
+   "text": "There is no need of a fresh tying up as the knot is already there."
+  },
+  {
+   "t": 2746.44,
+   "end": 2752.36,
+   "text": "But the term Patisandhi Vinyana or rebirth linking consciousness is now so widely used"
+  },
+  {
+   "t": 2752.36,
+   "end": 2757.18,
+   "text": "that we cannot help making use of it, even in relating a Jataka story."
+  },
+  {
+   "t": 2757.82,
+   "end": 2762.84,
+   "text": "The idea is that after the death consciousness there occurs a rebirth linking consciousness."
+  },
+  {
+   "t": 2763.64,
+   "end": 2770.9,
+   "text": "However, some scholars even raise the question why a term considered so important is not to be found in the discourses."
+  },
+  {
+   "t": 2772.48,
+   "end": 2777.16,
+   "text": "On many an occasion, the Buddha speaks about the descent into a boom."
+  },
+  {
+   "t": 2777.48,
+   "end": 2786.2,
+   "text": "But apart from using such terms as Okkanti descent, Dabha Savarkanti descent into the boom and Upati rising,"
+  },
+  {
+   "t": 2786.54,
+   "end": 2788.8,
+   "text": "he does not seem to have used the term Patisandhi."
+  },
+  {
+   "t": 2790.24,
+   "end": 2792.34,
+   "text": "What is meant by this term Patisandhi?"
+  },
+  {
+   "t": 2793.08,
+   "end": 2796.04,
+   "text": "It seems to imply a tying up of two existences."
+  },
+  {
+   "t": 2797.0,
+   "end": 2798.52,
+   "text": "After death there is a relinking."
+  },
+  {
+   "t": 2799.26,
+   "end": 2803.08,
+   "text": "We have mentioned above and in connection with the simile of the bundles of reads,"
+  },
+  {
+   "t": 2803.08,
+   "end": 2809.38,
+   "text": "that when the consciousness bundle of reads is drawn, the name and form bundle of reads falls."
+  },
+  {
+   "t": 2810.24,
+   "end": 2815.32,
+   "text": "And when the name and form bundle of reads is drawn, the consciousness bundle of reads falls."
+  },
+  {
+   "t": 2815.78,
+   "end": 2819.7,
+   "text": "And that there is a relationship of mutuality condition between them."
+  },
+  {
+   "t": 2821.12,
+   "end": 2827.42,
+   "text": "The question then is why a tying up is brought in while granting the relationship by mutuality condition."
+  },
+  {
+   "t": 2828.66,
+   "end": 2837.28,
+   "text": "Because going by the same simile, it would be tantamount to saying that rebirth linking consciousness straightens up when death consciousness falls."
+  },
+  {
+   "t": 2837.28,
+   "end": 2841.8,
+   "text": "As if, when one bundle of reads is drawn, the other straightens up."
+  },
+  {
+   "t": 2842.14,
+   "end": 2845.04,
+   "text": "This contradicts the nature of mutuality condition."
+  },
+  {
+   "t": 2846.24,
+   "end": 2848.3,
+   "text": "There is no timelessness here."
+  },
+  {
+   "t": 2848.98,
+   "end": 2852.28,
+   "text": "Therefore, Patisandhi is a term that needs critical scrutiny."
+  },
+  {
+   "t": 2853.88,
+   "end": 2860.08,
+   "text": "The mental continuum of a samsaric being is always knotted with a tangle within and a tangle without."
+  },
+  {
+   "t": 2861.0,
+   "end": 2865.5,
+   "text": "And it is already implicit in the relationship between consciousness and name and form."
+  },
+  {
+   "t": 2866.44,
+   "end": 2870.4,
+   "text": "What happens at the dying moment is usually posed as a deep problem."
+  },
+  {
+   "t": 2870.98,
+   "end": 2875.34,
+   "text": "But if we carefully examine the situation in the light of the canonical discourses,"
+  },
+  {
+   "t": 2875.34,
+   "end": 2880.18,
+   "text": "we could see here an illustration of the law of dependent arising itself."
+  },
+  {
+   "t": 2881.96,
+   "end": 2887.22,
+   "text": "Now, where as far as this established consciousness and the unestablished consciousness are concerned,"
+  },
+  {
+   "t": 2887.58,
+   "end": 2892.72,
+   "text": "we have already drawn attention to the relationship between here and there."
+  },
+  {
+   "t": 2893.16,
+   "end": 2897.38,
+   "text": "We came across the term ithat, otherwise called ithabhava."
+  },
+  {
+   "t": 2897.82,
+   "end": 2901.46,
+   "text": "As a rendering point, we have used the term thisness."
+  },
+  {
+   "t": 2902.32,
+   "end": 2911.34,
+   "text": "And then we have already pointed out that this ithabhava or thisness goes hand in hand with anyathabhava or otherwise."
+  },
+  {
+   "t": 2912.86,
+   "end": 2918.32,
+   "text": "That is to say, wherever thisness arises, wherever a concept of something arises,"
+  },
+  {
+   "t": 2918.86,
+   "end": 2923.6,
+   "text": "has a rule that itself is the setting in of transformation or change."
+  },
+  {
+   "t": 2926.34,
+   "end": 2930.94,
+   "text": "Thisness and otherwiseness are therefore to be found in a pairwise combination."
+  },
+  {
+   "t": 2931.84,
+   "end": 2935.36,
+   "text": "Wherever there is a thisness, there itself is an otherwiseness."
+  },
+  {
+   "t": 2935.96,
+   "end": 2940.7,
+   "text": "So in this way, because of the fact that due to this thisness itself,"
+  },
+  {
+   "t": 2941.4,
+   "end": 2945.96,
+   "text": "wherever thisness arises, otherwiseness arises, together with it,"
+  },
+  {
+   "t": 2946.44,
+   "end": 2949.32,
+   "text": "wherever there is a there, there is always a here."
+  },
+  {
+   "t": 2949.86,
+   "end": 2953.68,
+   "text": "This then is how the consciousness of the samsari being functions."
+  },
+  {
+   "t": 2955.2,
+   "end": 2961.68,
+   "text": "As far as one's everyday life is concerned, what is called the conscious body is the body with consciousness."
+  },
+  {
+   "t": 2963.22,
+   "end": 2966.52,
+   "text": "Generally, we regard this body as something really our own."
+  },
+  {
+   "t": 2967.46,
+   "end": 2972.94,
+   "text": "Not only that, we can also objectify things outside us, beyond our range of vision,"
+  },
+  {
+   "t": 2972.94,
+   "end": 2976.22,
+   "text": "things that are objects of thought or are imagined."
+  },
+  {
+   "t": 2977.12,
+   "end": 2979.68,
+   "text": "That is what is meant by the canonical phrase,"
+  },
+  {
+   "t": 2986.86,
+   "end": 2996.48,
+   "text": "There are no latencies to concede by way of eye-making and mind-making regarding his conscious body and all outside science."
+  },
+  {
+   "t": 2998.48,
+   "end": 2999.98,
+   "text": "What does it imply is that the person who will design his bloodline?"
+  },
+  {
+   "t": 3000.0,
+   "end": 3009.94,
+   "text": "that one can have latencies to concede by way of eye-making and mind-making regarding this conscious body as well as all outside science."
+  },
+  {
+   "t": 3010.56,
+   "end": 3022.12,
+   "text": "Now if we consider the deeper implications of this statement, we can get at some new perspective for understanding the nature of the relationship between consciousness and name and form."
+  },
+  {
+   "t": 3023.12,
+   "end": 3048.82,
+   "text": "If someone deeply attached to a person who is not near him, but living somewhere far, far away, is heavily immersed in some deep thought, then even if there is some painful contact such as the prick of a fly or the bite of a mosquito or even if another comes and shakes him by the shoulder, he might not feel it because he is so immersed in thought."
+  },
+  {
+   "t": 3049.86,
+   "end": 3055.58,
+   "text": "Now why is that? Normally the rightful place for consciousness is this body."
+  },
+  {
+   "t": 3056.48,
+   "end": 3065.36,
+   "text": "But what has happened now is that it has gone away temporarily and united with the name and form outside with that object far away."
+  },
+  {
+   "t": 3065.92,
+   "end": 3069.58,
+   "text": "But it can be awakened. This is the way the mind travels."
+  },
+  {
+   "t": 3071.42,
+   "end": 3079.24,
+   "text": "It is due to a lack of clear understanding about the journey of the mind that the concept of a reading in consciousness was found to be necessary."
+  },
+  {
+   "t": 3081.0,
+   "end": 3085.06,
+   "text": "The way the mind travels is quite different from the way the body travels."
+  },
+  {
+   "t": 3086.16,
+   "end": 3089.64,
+   "text": "The journey of the body is a case of leaving one place to go to another."
+  },
+  {
+   "t": 3090.94,
+   "end": 3092.92,
+   "text": "But the mind's journey is not like that."
+  },
+  {
+   "t": 3094.46,
+   "end": 3099.26,
+   "text": "It is a sort of whirling or turning round as in the case of a whirlpool or a vortex."
+  },
+  {
+   "t": 3100.98,
+   "end": 3111.8,
+   "text": "That is to say, just as in the case of a rubber band which could be straight lengthwise or crosswise, there is a certain whirling round going on between consciousness and name and form."
+  },
+  {
+   "t": 3112.84,
+   "end": 3126.48,
+   "text": "It is because of that whirling motion which could either be circular or oval shaped that consciousness and name and form could either get drawn apart or drawn in as they go round and round in a kind of vertical interface."
+  },
+  {
+   "t": 3128.92,
+   "end": 3135.18,
+   "text": "So, in a situation like the one mentioned above, for that person the distance has become near."
+  },
+  {
+   "t": 3136.3,
+   "end": 3144.62,
+   "text": "At the start when he fell to thinking it was a there for him, then it became a here and the here became a there."
+  },
+  {
+   "t": 3146.12,
+   "end": 3154.64,
+   "text": "This brings out in a subtle way the relevance of these concepts to the question of understanding such teachings as the law of dependent arising."
+  },
+  {
+   "t": 3156.54,
+   "end": 3160.24,
+   "text": "The concepts of a here and a there are in a way relative."
+  },
+  {
+   "t": 3162.02,
+   "end": 3163.88,
+   "text": "They presuppose each other."
+  },
+  {
+   "t": 3165.44,
+   "end": 3170.76,
+   "text": "Ittabhava, thisness and anyatabhava, otherwiseness, referred to above, mean the same thing."
+  },
+  {
+   "t": 3172.08,
+   "end": 3174.8,
+   "text": "Ittabhava was hand in hand with anyatabhava."
+  },
+  {
+   "t": 3175.34,
+   "end": 3177.74,
+   "text": "They are bound in a fairwise combination."
+  },
+  {
+   "t": 3178.28,
+   "end": 3181.54,
+   "text": "When you drag in one, the other follows of necessity."
+  },
+  {
+   "t": 3182.54,
+   "end": 3189.9,
+   "text": "It is the same in the case of the relationship between birth on the one hand and decay and death on the other, as already mentioned."
+  },
+  {
+   "t": 3191.58,
+   "end": 3195.8,
+   "text": "Also, consciousness and name and form always move in an orbit."
+  },
+  {
+   "t": 3196.5,
+   "end": 3199.0,
+   "text": "It is not something like the journey of the body."
+  },
+  {
+   "t": 3199.76,
+   "end": 3202.48,
+   "text": "Thought goes but it rests on consciousness."
+  },
+  {
+   "t": 3202.48,
+   "end": 3204.86,
+   "text": "It gravitates towards consciousness."
+  },
+  {
+   "t": 3206.12,
+   "end": 3212.74,
+   "text": "It is because consciousness also has gone there that we say someone is immersed or engrossed in something."
+  },
+  {
+   "t": 3213.92,
+   "end": 3216.48,
+   "text": "It is consciousness that carries more weight."
+  },
+  {
+   "t": 3219.44,
+   "end": 3224.24,
+   "text": "This is sufficiently clear even from the Dhamma discussion of the Buddha quoted above."
+  },
+  {
+   "t": 3225.62,
+   "end": 3230.34,
+   "text": "If consciousness does not descend into a mother's womb, name and form will not remain there."
+  },
+  {
+   "t": 3231.08,
+   "end": 3235.6,
+   "text": "If consciousness does not join in to provide the opportunity, it will not grow."
+  },
+  {
+   "t": 3236.02,
+   "end": 3238.78,
+   "text": "This is the nature of the relationship between them."
+  },
+  {
+   "t": 3239.96,
+   "end": 3251.68,
+   "text": "Though not well authenticated, cases have been reported of persons on the verge of death going through such unusual experiences as visualizing their own body from some outside standpoint."
+  },
+  {
+   "t": 3253.16,
+   "end": 3257.9,
+   "text": "Taking into consideration the above mentioned relationship, this is quite understandable."
+  },
+  {
+   "t": 3258.64,
+   "end": 3268.1,
+   "text": "That external standpoint might not be a place which has the ability to sustain that consciousness or which is capable of creating a new body out of the four primary elements."
+  },
+  {
+   "t": 3268.84,
+   "end": 3277.98,
+   "text": "All the same, it temporarily escapes and goes there and is now wavering to decide whether or not to come back to the body as it were."
+  },
+  {
+   "t": 3278.56,
+   "end": 3283.34,
+   "text": "It is on such occasions that one visualizes one's own body from outside."
+  },
+  {
+   "t": 3284.92,
+   "end": 3287.64,
+   "text": "So here we have the norm of the mind's behavior."
+  },
+  {
+   "t": 3288.64,
+   "end": 3296.26,
+   "text": "Seen in this way, there is no need for a fresh tying up or reading it because it is the same vortex that is going on all the time."
+  },
+  {
+   "t": 3297.24,
+   "end": 3305.78,
+   "text": "In the context of this samsaric vortex, the there becomes a here and a here becomes a there."
+  },
+  {
+   "t": 3307.32,
+   "end": 3310.88,
+   "text": "The distant becomes a near and a near becomes a distant."
+  },
+  {
+   "t": 3312.42,
+   "end": 3319.48,
+   "text": "It is showing to this state of affairs that the consciousness of the samsaric individual is said to be always established."
+  },
+  {
+   "t": 3319.48,
+   "end": 3322.68,
+   "text": "There is a certain quid character about it."
+  },
+  {
+   "t": 3323.92,
+   "end": 3332.86,
+   "text": "Whenever consciousness leaves this body for good, it goes and rests on the name and form object which it had already taken up."
+  },
+  {
+   "t": 3334.56,
+   "end": 3343.18,
+   "text": "In other words, this is why the Buddha did not find it necessary to find a new train to express the idea of conception in some mother's womb."
+  },
+  {
+   "t": 3346.34,
+   "end": 3349.48,
+   "text": "Consciousness has as its object name and form."
+  },
+  {
+   "t": 3350.76,
+   "end": 3355.62,
+   "text": "It is precisely because of consciousness that one can speak of it as a name and form."
+  },
+  {
+   "t": 3356.22,
+   "end": 3359.08,
+   "text": "It is like the shadow that falls on consciousness."
+  },
+  {
+   "t": 3360.3,
+   "end": 3362.78,
+   "text": "Name and form is like an image."
+  },
+  {
+   "t": 3364.7,
+   "end": 3369.1,
+   "text": "Now in taking a photograph, there is a similar turn of events."
+  },
+  {
+   "t": 3370.78,
+   "end": 3374.48,
+   "text": "Even if one does not pose for the photograph with so much makeup."
+  },
+  {
+   "t": 3375.18,
+   "end": 3382.78,
+   "text": "Even if one turns one's back to the camera, at least the shade of his shape will be photographed as an image, if not his form."
+  },
+  {
+   "t": 3383.88,
+   "end": 3398.18,
+   "text": "Similarly, in the case of the samsaric individual, even if he does not entertain any intention or thought construct, if he has at least the latency unsealed, that is enough for him to be reborn in some form of existence or other."
+  },
+  {
+   "t": 3399.74,
+   "end": 3408.66,
+   "text": "That is why the Buddha has preached such an important discourse as the Chetana Sutra of the Nidana Samyatta in the Samyatta Nikaya. It runs."
+  },
+  {
+   "t": 3410.0,
+   "end": 3411.82,
+   "text": "But otherwise, what is the nature of the"
+  },
+  {
+   "t": 3411.82,
+   "end": 3415.68,
+   "text": "This is way for the nature."
+  },
+  {
+   "t": 3417.24,
+   "end": 3418.64,
+   "text": "For example, if Hmmayo into this food prompts,"
+  },
+  {
+   "t": 3428.7,
+   "end": 3430.02,
+   "text": "Yes, from these questions."
+  },
+  {
+   "t": 3430.98,
+   "end": 3440.82,
+   "text": "Vedna Pachya Tanna Tanna Pachya Upadana Pachya Bhavu Pachya Jati Jati Pachya Jaravarana Sopaparideva Dukkha Domana Supayasa Sambhadhi"
+  },
+  {
+   "t": 3440.82,
+   "end": 3444.18,
+   "text": "Eumetas Kevalasa Dukkha Kantas Samudhi Hoti"
+  },
+  {
+   "t": 3445.72,
+   "end": 3454.02,
+   "text": "Monks, whatever one intends, whatever one mentally constructs, whatever lies latent, that becomes an object for the stationing of consciousness."
+  },
+  {
+   "t": 3454.92,
+   "end": 3458.84,
+   "text": "There being an object, there comes to be an establishment of consciousness."
+  },
+  {
+   "t": 3459.56,
+   "end": 3464.02,
+   "text": "When that consciousness is established and drawn, there is the descent of name and form."
+  },
+  {
+   "t": 3464.92,
+   "end": 3467.86,
+   "text": "Dependent on name and form, the sixth sense basis come to be."
+  },
+  {
+   "t": 3468.58,
+   "end": 3471.04,
+   "text": "Dependent on the sixth sense basis arises contact."
+  },
+  {
+   "t": 3471.7,
+   "end": 3473.72,
+   "text": "And dependent on contact arises feeling."
+  },
+  {
+   "t": 3474.18,
+   "end": 3475.64,
+   "text": "Dependent on feeling craving."
+  },
+  {
+   "t": 3476.06,
+   "end": 3477.62,
+   "text": "Dependent on craving grasping."
+  },
+  {
+   "t": 3478.0,
+   "end": 3479.4,
+   "text": "Dependent on grasping becoming."
+  },
+  {
+   "t": 3479.9,
+   "end": 3481.32,
+   "text": "Dependent on becoming birth."
+  },
+  {
+   "t": 3481.86,
+   "end": 3487.04,
+   "text": "Dependent on birth, decay and death, sorrow, lamentation, pain, grief and despair come to be."
+  },
+  {
+   "t": 3487.04,
+   "end": 3490.36,
+   "text": "Such is the arising of this entire mass of suffering."
+  },
+  {
+   "t": 3490.86,
+   "end": 3492.26,
+   "text": "Then comes the second instance."
+  },
+  {
+   "t": 3494.06,
+   "end": 3498.64,
+   "text": "Nooche Bikaveceteti, nooche Pakaappeti, attacet anuseti."
+  },
+  {
+   "t": 3499.54,
+   "end": 3501.48,
+   "text": "Arammanangetanghoti vinyanasrtitia."
+  },
+  {
+   "t": 3503.5,
+   "end": 3504.44,
+   "text": "Arammanesadipatidhavinyanasuhoti."
+  },
+  {
+   "t": 3504.98,
+   "end": 3506.9,
+   "text": "Tasmingpatidhithe vinyaniviruli."
+  },
+  {
+   "t": 3507.5,
+   "end": 3508.44,
+   "text": "Namrupasavakantihoti."
+  },
+  {
+   "t": 3509.84,
+   "end": 3510.78,
+   "text": "Namrupasyalayetanang."
+  },
+  {
+   "t": 3510.82,
+   "end": 3511.62,
+   "text": "Salayetanapachya."
+  },
+  {
+   "t": 3511.76,
+   "end": 3512.42,
+   "text": "Phasopasya."
+  },
+  {
+   "t": 3512.42,
+   "end": 3512.7,
+   "text": "Phasopasya."
+  },
+  {
+   "t": 3512.94,
+   "end": 3513.12,
+   "text": "Vedana."
+  },
+  {
+   "t": 3513.2,
+   "end": 3513.44,
+   "text": "Vedana."
+  },
+  {
+   "t": 3513.52,
+   "end": 3514.16,
+   "text": "Pachyatanna."
+  },
+  {
+   "t": 3515.1,
+   "end": 3525.76,
+   "text": "Sannapachya upadana, upadana, bhao, bhao, bhao, jati, jati, bhao, ramana, soka, parideva, dukkha, pomana, supaharasa, sambhavanti, yonetasa kevalasa, dukkha, kandasa, amudhiyo, hodhi."
+  },
+  {
+   "t": 3526.9,
+   "end": 3535.2,
+   "text": "Monks, even if one does not intend or construct mentally but has a latency, that becomes an object for the stationing of consciousness."
+  },
+  {
+   "t": 3536.38,
+   "end": 3539.66,
+   "text": "There being an object, there comes to be the establishment of consciousness."
+  },
+  {
+   "t": 3540.7,
+   "end": 3545.06,
+   "text": "When that consciousness is established and drawn, there is the descent of name and form."
+  },
+  {
+   "t": 3545.82,
+   "end": 3548.58,
+   "text": "Dependent on name and form, the sixth sense basis come to be."
+  },
+  {
+   "t": 3549.18,
+   "end": 3551.58,
+   "text": "Dependent on the sixth sense basis arises contact."
+  },
+  {
+   "t": 3552.24,
+   "end": 3553.7,
+   "text": "Dependent on contact, feeling."
+  },
+  {
+   "t": 3553.96,
+   "end": 3555.2,
+   "text": "Dependent on feeling, craving."
+  },
+  {
+   "t": 3556.06,
+   "end": 3557.54,
+   "text": "Dependent on craving, grasping."
+  },
+  {
+   "t": 3557.76,
+   "end": 3558.9,
+   "text": "Dependent on grasping, becoming."
+  },
+  {
+   "t": 3559.5,
+   "end": 3560.86,
+   "text": "Dependent on becoming, birth."
+  },
+  {
+   "t": 3561.4,
+   "end": 3566.54,
+   "text": "Dependent on birth, decay and death, sorrow, lamentation, pain, grief and despair come to be."
+  },
+  {
+   "t": 3566.54,
+   "end": 3569.7,
+   "text": "Such is the arising of the sentinas of savari."
+  },
+  {
+   "t": 3571.28,
+   "end": 3580.92,
+   "text": "The significance of this second paragraph is that it speaks of a person who, at the time of death, has no intentions or thought constructs as such."
+  },
+  {
+   "t": 3581.3,
+   "end": 3582.98,
+   "text": "But he has the latency."
+  },
+  {
+   "t": 3583.4,
+   "end": 3587.88,
+   "text": "This itself is sufficient as an object for the stationing of consciousness."
+  },
+  {
+   "t": 3588.78,
+   "end": 3595.1,
+   "text": "It is as if he has turned his back to the camera but got photographed all the same due to his very presence there."
+  },
+  {
+   "t": 3595.82,
+   "end": 3597.42,
+   "text": "Now comes the third instance."
+  },
+  {
+   "t": 3598.08,
+   "end": 3598.66,
+   "text": "E Facborg Concord of Mark Marie?"
+  },
+  {
+   "t": 3598.66,
+   "end": 3599.4,
+   "text": "To bexo,"
+  },
+  {
+   "t": 3599.64,
+   "end": 3599.88,
+   "text": "detilla…"
+  },
+  {
+   "t": 3599.88,
+   "end": 3599.98,
+   "text": "…"
+  },
+  {
+   "t": 3600.0,
+   "end": 3600.7,
+   "text": "If you are not aware of the"
+  },
+  {
+   "t": 3600.7,
+   "end": 3602.48,
+   "text": "way, because we lack everyday"
+  },
+  {
+   "t": 3602.48,
+   "end": 3605.72,
+   "text": "that we don't exist,"
+  },
+  {
+   "t": 3606.88,
+   "end": 3607.98,
+   "text": "that doesn't exist,"
+  },
+  {
+   "t": 3608.2,
+   "end": 3608.82,
+   "text": "You don't exist in a family."
+  },
+  {
+   "t": 3609.1,
+   "end": 3612.28,
+   "text": "We don't exist in a family."
+  },
+  {
+   "t": 3612.28,
+   "end": 3612.96,
+   "text": "We don't exist in a family,"
+  },
+  {
+   "t": 3612.96,
+   "end": 3613.1,
+   "text": "because we don't exist,"
+  },
+  {
+   "t": 3613.1,
+   "end": 3614.5,
+   "text": "we don't exist in a family,"
+  },
+  {
+   "t": 3618.32,
+   "end": 3625.36,
+   "text": "but we don't exist in a family,"
+  },
+  {
+   "t": 3642.08,
+   "end": 3653.04,
+   "text": "But, monks, when one neither intends nor constructs mentally and has no latency either, then there is not that object for the stationing of consciousness."
+  },
+  {
+   "t": 3653.66,
+   "end": 3657.28,
+   "text": "There being no object, there is no establishment of consciousness."
+  },
+  {
+   "t": 3658.02,
+   "end": 3663.5,
+   "text": "When consciousness is not established and not grown up, there is no descent of name and form."
+  },
+  {
+   "t": 3664.5,
+   "end": 3669.34,
+   "text": "And with the cessation of name and form, there comes to be the cessation of the six sense spaces."
+  },
+  {
+   "t": 3669.72,
+   "end": 3673.96,
+   "text": "With the cessation of the six sense spaces, the cessation of contact."
+  },
+  {
+   "t": 3674.36,
+   "end": 3677.42,
+   "text": "With the cessation of contact, the cessation of feeling."
+  },
+  {
+   "t": 3678.14,
+   "end": 3681.0,
+   "text": "With the cessation of feeling, the cessation of craving."
+  },
+  {
+   "t": 3681.76,
+   "end": 3686.84,
+   "text": "With the cessation of craving, the cessation of grasping. With the cessation of grasping,"
+  },
+  {
+   "t": 3686.94,
+   "end": 3692.18,
+   "text": "the cessation of becoming. With the cessation of becoming, the cessation of birth. With the"
+  },
+  {
+   "t": 3692.18,
+   "end": 3698.76,
+   "text": "cessation of birth, the cessation of decay and death, sorrow, lamentation, pain, grief and despair"
+  },
+  {
+   "t": 3698.76,
+   "end": 3705.86,
+   "text": "come to sleep. Thus is the cessation of this entire mass of sorrow. This third instance is"
+  },
+  {
+   "t": 3705.86,
+   "end": 3713.42,
+   "text": "the most significant. In the first instance, there were the intentions, thought constructs"
+  },
+  {
+   "t": 3713.42,
+   "end": 3720.96,
+   "text": "and latency. In the second instance, that person had no intentions or thought constructs but"
+  },
+  {
+   "t": 3720.96,
+   "end": 3729.26,
+   "text": "only latency was there. In this third instance, there is neither an intention, no thought constructs"
+  },
+  {
+   "t": 3729.26,
+   "end": 3736.82,
+   "text": "and not even a latency. It is then that there comes to be no object for the stationing of"
+  },
+  {
+   "t": 3736.82,
+   "end": 3743.4,
+   "text": "consciousness. There being no object, there is no establishment of consciousness. And when"
+  },
+  {
+   "t": 3743.4,
+   "end": 3749.86,
+   "text": "consciousness is unestablished and not grown, there is no descent of name and form. Where"
+  },
+  {
+   "t": 3749.86,
+   "end": 3755.92,
+   "text": "there is no descent of name and form, there at last comes to be that cessation of name and"
+  },
+  {
+   "t": 3755.92,
+   "end": 3762.06,
+   "text": "form, which takes the sixth sense basis and all the rest of it, down to the entire mass of"
+  },
+  {
+   "t": 3762.06,
+   "end": 3766.46,
+   "text": "samsaric suffering, cease altogether, then and there."
+  },
+  {
+   "t": 3769.92,
+   "end": 3777.26,
+   "text": "Dear listeners, it is our sincere wish to make these sermons accessible, free of charge,"
+  },
+  {
+   "t": 3777.26,
+   "end": 3787.48,
+   "text": "to all who like to listen to them, because the gift of the Dhamma excels all other gifts. We"
+  },
+  {
+   "t": 3787.48,
+   "end": 3794.88,
+   "text": "therefore encourage you to copy these sermons and share them with others, but kindly note that they"
+  },
+  {
+   "t": 3794.88,
+   "end": 3801.28,
+   "text": "should not be reproduced for sale. May the blessings of the Triple Gem be with you."
+  },
+  {
+   "t": 3809.98,
+   "end": 3811.26,
+   "text": "Thank you."
+  }
+ ]
+}

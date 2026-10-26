@@ -68,7 +68,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 6.0
  },
  {
   "t": "verbatim",
@@ -93,7 +93,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.7
  },
  {
   "t": "verbatim",
@@ -118,7 +118,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 5.2
  },
  {
   "t": "verbatim",
@@ -148,7 +148,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 5.2
  },
  {
   "t": "verbatim",
@@ -178,7 +178,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.6
  },
  {
   "t": "verbatim",
@@ -203,7 +203,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.4
  },
  {
   "t": "verbatim",
@@ -228,7 +228,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.6
  },
  {
   "t": "verbatim",
@@ -253,32 +253,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
- },
- {
-  "t": "verbatim",
-  "text": "In order to ascertain whether a banana trunk is pith-less, it is not\nnecessary to go on removing its bark, layer after layer, from top to\nbottom. We only have to take a sharp sword and cut the trunk in the\nmiddle, so that the cross-section will reveal to us its pith-less nature.\nSimilarly, if we cut in the middle the banana trunk of preparations with\nthe sharp sword of wisdom, its internal structure as revealed by the\ncross-section will convince us of the essence-less nature of the group\nof preparations.",
-  "sermon": 3
- },
- {
-  "t": "fish",
-  "beat": 10,
-  "say": "In order to ascertain whether a banana trunk is pith-less, it is not necessary to go on removing its bark, layer after layer, from top to bottom. We only have to take a sharp sword and cut the trunk in the middle, so that the cross-section will reveal to us its pith-less nature. Similarly, if we cut in the middle the banana trunk of things the mind makes with the sharp sword of wisdom, its internal structure as revealed by the cross-section will convince us of the essence-less nature of the group of things the mind makes."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 3,
-  "start": 2906.5,
-  "end": 2994.7,
-  "dur": 88.2
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "dur": 3.4
  },
  {
   "t": "verbatim",
@@ -303,7 +278,32 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.5
+ },
+ {
+  "t": "verbatim",
+  "text": "In order to ascertain whether a banana trunk is pith-less, it is not\nnecessary to go on removing its bark, layer after layer, from top to\nbottom. We only have to take a sharp sword and cut the trunk in the\nmiddle, so that the cross-section will reveal to us its pith-less nature.\nSimilarly, if we cut in the middle the banana trunk of preparations with\nthe sharp sword of wisdom, its internal structure as revealed by the\ncross-section will convince us of the essence-less nature of the group\nof preparations.",
+  "sermon": 3
+ },
+ {
+  "t": "fish",
+  "beat": 10,
+  "say": "In order to ascertain whether a banana trunk is pith-less, it is not necessary to go on removing its bark, layer after layer, from top to bottom. We only have to take a sharp sword and cut the trunk in the middle, so that the cross-section will reveal to us its pith-less nature. Similarly, if we cut in the middle the banana trunk of things the mind makes with the sharp sword of wisdom, its internal structure as revealed by the cross-section will convince us of the essence-less nature of the group of things the mind makes."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 3,
+  "start": 2906.5,
+  "end": 2994.7,
+  "dur": 88.2
+ },
+ {
+  "t": "water",
+  "dur": 4.0
  },
  {
   "t": "verbatim",
@@ -333,7 +333,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.2
  },
  {
   "t": "verbatim",
@@ -358,9 +358,15 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.0
  },
  {
   "t": "zoom-bell"
+ },
+ {
+  "t": "pause",
+  "dur": 6.0,
+  "role": "settle",
+  "note": "section boundary stillness after zoom-bell"
  }
 ]

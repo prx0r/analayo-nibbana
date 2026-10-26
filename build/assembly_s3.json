@@ -58,7 +58,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.9
  },
  {
   "t": "verbatim",
@@ -88,7 +88,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.4
  },
  {
   "t": "verbatim",
@@ -123,7 +123,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.7
  },
  {
   "t": "verbatim",
@@ -148,7 +148,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 2.8
  },
  {
   "t": "verbatim",
@@ -183,7 +183,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.5
  },
  {
   "t": "verbatim",
@@ -213,7 +213,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.0
  },
  {
   "t": "verbatim",
@@ -238,7 +238,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.0
  },
  {
   "t": "verbatim",
@@ -263,7 +263,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.8
  },
  {
   "t": "verbatim",
@@ -293,7 +293,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.5
  },
  {
   "t": "verbatim",
@@ -318,7 +318,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.8
  },
  {
   "t": "verbatim",
@@ -343,57 +343,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
- },
- {
-  "t": "verbatim",
-  "text": "Worldings in general are in the habit of asserting dogmatically 'I\nknow, I see, it is verily so', j\u0101n\u0101mi pass\u0101mi tath' eva eta\u1e43, when\nthey have a special knowledge or understanding of something or other.",
-  "sermon": 25
- },
- {
-  "t": "fish",
-  "beat": 13,
-  "say": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 24,
-  "start": 4305.6,
-  "end": 4437.4,
-  "dur": 131.8
- },
- {
-  "t": "water",
-  "dur": 2.5
- },
- {
-  "t": "verbatim",
-  "text": "The discrimination between an 'internal' and an 'external' is the\noutcome of the inability to penetrate name-and-form, to see through it.\nThere is an apparent duality: I, as one who sees, and name-and-form, as\nthe objects seen. Between them there is a dichotomy as internal and\nexternal. It is on this very dichotomy that the six sense-bases are\n'based'.",
-  "sermon": 9
- },
- {
-  "t": "fish",
-  "beat": 14,
-  "say": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 29,
-  "start": 953.3,
-  "end": 992.2,
-  "dur": 38.9
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "dur": 3.6
  },
  {
   "t": "verbatim",
@@ -423,9 +373,65 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 6.0
+ },
+ {
+  "t": "verbatim",
+  "text": "The discrimination between an 'internal' and an 'external' is the\noutcome of the inability to penetrate name-and-form, to see through it.\nThere is an apparent duality: I, as one who sees, and name-and-form, as\nthe objects seen. Between them there is a dichotomy as internal and\nexternal. It is on this very dichotomy that the six sense-bases are\n'based'.",
+  "sermon": 9
+ },
+ {
+  "t": "fish",
+  "beat": 14,
+  "say": "The discrimination between an 'internal' and an 'external' is the outcome of the inability to penetrate name-and-form, to see through it. There is an apparent duality \u2014 I, as one who sees, and name-and-form, as the objects seen. Between them there is a dichotomy as internal and external. It is on this very dichotomy that the six sense-bases are 'based'."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 29,
+  "start": 953.3,
+  "end": 992.2,
+  "dur": 38.9
+ },
+ {
+  "t": "water",
+  "dur": 3.1
+ },
+ {
+  "t": "verbatim",
+  "text": "Worldings in general are in the habit of asserting dogmatically 'I\nknow, I see, it is verily so', j\u0101n\u0101mi pass\u0101mi tath' eva eta\u1e43, when\nthey have a special knowledge or understanding of something or other.",
+  "sermon": 25
+ },
+ {
+  "t": "fish",
+  "beat": 13,
+  "say": "Worldings in general are in the habit of asserting dogmatically 'I know, I see, it is verily so', janami passami tath' eva etam, when they have a special knowledge or understanding of something or other."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 24,
+  "start": 4305.6,
+  "end": 4437.4,
+  "dur": 131.8
+ },
+ {
+  "t": "water",
+  "dur": 4.7
  },
  {
   "t": "zoom-bell"
+ },
+ {
+  "t": "pause",
+  "dur": 6.0,
+  "role": "settle",
+  "note": "section boundary stillness after zoom-bell"
  }
 ]

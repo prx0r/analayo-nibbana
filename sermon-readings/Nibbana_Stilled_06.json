@@ -1,0 +1,3487 @@
+{
+ "source": "/root/analayo-nibbana/sermon-audio/Nibbana_Stilled_06.mp3",
+ "duration": 3433.351837,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 0.0,
+   "end": 15.56,
+   "text": "The 33 sermons on Nibbana were delivered by the Venerable Bhikkhu Katukurunde Jnanananda in Sinhala at Mitrigala Nisarana Vinaya Forest Hermitage."
+  },
+  {
+   "t": 15.84,
+   "end": 28.44,
+   "text": "They were translated into English by the same Venerable monk, presently residing at Potkulkala Forest Hermitage in Khandagedra Devalagam."
+  },
+  {
+   "t": 31.38,
+   "end": 33.68,
+   "text": "Nibbana, Sermon No. 6"
+  },
+  {
+   "t": 33.68,
+   "end": 51.68,
+   "text": "Namo Tatcha Bhagavato Arahato Sammasambuddhacca Namo Tatcha Bhagavato Arahato Sammasambuddhacca"
+  },
+  {
+   "t": 51.68,
+   "end": 61.74,
+   "text": "Namo Tatcha Bhagavato Arahato Sammasambuddhacca"
+  },
+  {
+   "t": 61.74,
+   "end": 73.12,
+   "text": "Etaṃsantaṃ, Etaṃpanītaṃ, Yadidhaṃsabvasaṅkhāra Samatho, Svavvopadhipati nissaggo, Tannakhyo, Virago, Nirodho, Nibbanaṃ."
+  },
+  {
+   "t": 73.12,
+   "end": 86.98,
+   "text": "This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 88.58,
+   "end": 107.3,
+   "text": "With the permission of the most venerable great preceptor and the assembly of the venerable meditative monks, in our last sermon we happened to discuss how the concept of existence built up with the help of ignorance and influxes comes to cease with the cessation of ignorance and influxes."
+  },
+  {
+   "t": 107.3,
+   "end": 115.34,
+   "text": "We explained it by means of similes and illustrations based on the film show and the drama."
+  },
+  {
+   "t": 116.24,
+   "end": 125.58,
+   "text": "As the starting point we took up the simile of the picture called Charana, which the Buddha had made use of in the Gadhula Sutta of the Sanyutta Nikāya."
+  },
+  {
+   "t": 125.58,
+   "end": 137.54,
+   "text": "With reference to a picture called Charana, popular in contemporary India, the Buddha has declared that the mind is more picturesque than that Charana picture."
+  },
+  {
+   "t": 138.82,
+   "end": 150.92,
+   "text": "As an adaptation of that Charana picture for the modern day, we referred to the movie film and the drama in connection with our discussion of Sankhāras in particular and Tattitya Samuppāda in general."
+  },
+  {
+   "t": 151.52,
+   "end": 155.24,
+   "text": "Today, let us try to move a little forward in the same direction."
+  },
+  {
+   "t": 157.12,
+   "end": 166.42,
+   "text": "In the latter part of the second Gadhula Sutta of the Sanyutta Nikāya, Khanda Sanyutta, the Buddha gives a simile of a painter."
+  },
+  {
+   "t": 167.42,
+   "end": 169.5,
+   "text": "Translated, it would read as follows."
+  },
+  {
+   "t": 170.98,
+   "end": 190.02,
+   "text": "Just as a dyer or a painter would fashion the likeness of a woman or of a man, complete in all its major and minor parts, on a well-plained board or wall or on a strip of cloth, with dye or lac or turmeric or indigo or madder,"
+  },
+  {
+   "t": 190.02,
+   "end": 199.58,
+   "text": "Even so, the untaught whirling creates, as it were, his own form, feelings, perceptions, preparations and consciousness."
+  },
+  {
+   "t": 200.34,
+   "end": 213.7,
+   "text": "What the Buddha wants to convey to us by this comparison of the five grasping groups to an artifact done by a painter is the insubstantiality and the vanity of those five groups."
+  },
+  {
+   "t": 213.7,
+   "end": 219.28,
+   "text": "It brings out their compound and made-up nature."
+  },
+  {
+   "t": 220.52,
+   "end": 227.38,
+   "text": "This essencelessness and emptiness is more clearly expressed in the Phenasutta of the Khanda Sanyutta."
+  },
+  {
+   "t": 227.82,
+   "end": 232.5,
+   "text": "The summary verse at the end of that discourse would suffice for the present."
+  },
+  {
+   "t": 248.94,
+   "end": 260.3,
+   "text": "It says that the Buddha, the Kinsman of the Sun, has compared form to a mass of form, feeling to a water bubble, perception to a mirage,"
+  },
+  {
+   "t": 260.3,
+   "end": 265.1,
+   "text": "preparations to a banana trunk, and consciousness to a magic show."
+  },
+  {
+   "t": 265.84,
+   "end": 271.9,
+   "text": "These five similes bring out the insubstantiality of the five grasping groups."
+  },
+  {
+   "t": 272.32,
+   "end": 276.6,
+   "text": "Their simulating and deceptive nature is indicated by the similes."
+  },
+  {
+   "t": 277.26,
+   "end": 282.36,
+   "text": "Not only the magic show, but even the other similes, like the mass of form,"
+  },
+  {
+   "t": 282.8,
+   "end": 287.74,
+   "text": "are suggestive of simulation in giving a false notion of compactness."
+  },
+  {
+   "t": 287.74,
+   "end": 292.66,
+   "text": "They all convey the idea of insubstantiality and deceptiveness."
+  },
+  {
+   "t": 293.46,
+   "end": 300.44,
+   "text": "Consciousness, in particular, is described in that context as a conjurous trick."
+  },
+  {
+   "t": 301.36,
+   "end": 308.72,
+   "text": "In the course of our discussion, we happen to touch upon the significance of sankharas or preparations."
+  },
+  {
+   "t": 308.72,
+   "end": 314.46,
+   "text": "As far as their relevance to films and dramas is concerned,"
+  },
+  {
+   "t": 315.84,
+   "end": 323.22,
+   "text": "they impart an appearance of reality to parts and acts which make up a film or a drama."
+  },
+  {
+   "t": 323.98,
+   "end": 328.6,
+   "text": "Realism, in the context of art and drama, amounts to an apparent reality."
+  },
+  {
+   "t": 328.6,
+   "end": 332.08,
+   "text": "It connotes the skill in deceiving the audience."
+  },
+  {
+   "t": 333.76,
+   "end": 336.12,
+   "text": "It is, in fact, only a show of reality."
+  },
+  {
+   "t": 336.48,
+   "end": 340.98,
+   "text": "A successful drama is one that effectively hoodwinks an audience."
+  },
+  {
+   "t": 341.62,
+   "end": 346.04,
+   "text": "So realism, in that context, means appearing as real."
+  },
+  {
+   "t": 346.3,
+   "end": 348.6,
+   "text": "It, therefore, has a nuance of deception."
+  },
+  {
+   "t": 348.6,
+   "end": 354.46,
+   "text": "Now, what supports this deceptive and delusive quality of preparations is ignorant."
+  },
+  {
+   "t": 355.72,
+   "end": 360.96,
+   "text": "All this acting that is going on in the world is kept up by ignorance and preparations,"
+  },
+  {
+   "t": 360.98,
+   "end": 363.98,
+   "text": "which provide the background for it."
+  },
+  {
+   "t": 364.48,
+   "end": 368.48,
+   "text": "Just as in a drama, such preparations as change of dress,"
+  },
+  {
+   "t": 369.26,
+   "end": 372.6,
+   "text": "make-up contrivances, character portrayal and stagecraft"
+  },
+  {
+   "t": 372.65,
+   "end": 375.35,
+   "text": "create an atmosphere of delusion,"
+  },
+  {
+   "t": 375.69,
+   "end": 379.59,
+   "text": "so also are the sankharas or preparations instrumental"
+  },
+  {
+   "t": 379.59,
+   "end": 382.53,
+   "text": "in building up these five grasping groups."
+  },
+  {
+   "t": 383.29,
+   "end": 386.91,
+   "text": "So all this goes to show that the term sankhara"
+  },
+  {
+   "t": 386.91,
+   "end": 389.73,
+   "text": "has the sense of preparing or producing."
+  },
+  {
+   "t": 391.11,
+   "end": 393.85,
+   "text": "The realistic appearance of a film or drama"
+  },
+  {
+   "t": 393.85,
+   "end": 397.77,
+   "text": "is capable of creating a delusion in an audience."
+  },
+  {
+   "t": 398.77,
+   "end": 401.85,
+   "text": "Similarly, the apparent reality of the animate"
+  },
+  {
+   "t": 401.85,
+   "end": 404.13,
+   "text": "and the inanimate objects in the world"
+  },
+  {
+   "t": 404.13,
+   "end": 407.31,
+   "text": "creates delusion in the worldlings."
+  },
+  {
+   "t": 408.67,
+   "end": 413.13,
+   "text": "Now, to hark back to two lines of a verse we had quoted earlier,"
+  },
+  {
+   "t": 414.03,
+   "end": 417.95,
+   "text": "moha sambandhino loko bhabba roopo ova disati."
+  },
+  {
+   "t": 418.23,
+   "end": 422.27,
+   "text": "The world appears as real to one who is fettered to delusion."
+  },
+  {
+   "t": 422.65,
+   "end": 425.97,
+   "text": "This means that the world has an apparent reality"
+  },
+  {
+   "t": 425.97,
+   "end": 429.19,
+   "text": "that it merely gives the impression of something real"
+  },
+  {
+   "t": 429.19,
+   "end": 430.93,
+   "text": "to one who is deluded."
+  },
+  {
+   "t": 432.11,
+   "end": 435.71,
+   "text": "It is clear, therefore, that sankharas are responsible"
+  },
+  {
+   "t": 435.71,
+   "end": 440.39,
+   "text": "for some sort of preparation or concoction."
+  },
+  {
+   "t": 440.71,
+   "end": 442.95,
+   "text": "What serves as the background for it"
+  },
+  {
+   "t": 442.95,
+   "end": 444.59,
+   "text": "is the darkness of ignorance."
+  },
+  {
+   "t": 445.57,
+   "end": 448.21,
+   "text": "This preparation, this concoction,"
+  },
+  {
+   "t": 448.21,
+   "end": 451.15,
+   "text": "goes on behind the veil of ignorance."
+  },
+  {
+   "t": 452.07,
+   "end": 456.01,
+   "text": "We come across a discourse in the Sanyutta Nikaya"
+  },
+  {
+   "t": 456.01,
+   "end": 459.05,
+   "text": "in which this primary sense of preparation"
+  },
+  {
+   "t": 459.05,
+   "end": 463.21,
+   "text": "in the word Sankhara is explicitly stated,"
+  },
+  {
+   "t": 463.55,
+   "end": 465.71,
+   "text": "namely the Kajjaniya Sutta."
+  },
+  {
+   "t": 466.03,
+   "end": 467.49,
+   "text": "In that discourse,"
+  },
+  {
+   "t": 467.77,
+   "end": 470.73,
+   "text": "each of the five grasping groups is defined"
+  },
+  {
+   "t": 470.73,
+   "end": 473.67,
+   "text": "and the term Sankhara is defined as follows."
+  },
+  {
+   "t": 473.67,
+   "end": 477.37,
+   "text": "Kinchya bhikkavi saṅkhare vadethya"
+  },
+  {
+   "t": 477.37,
+   "end": 482.49,
+   "text": "saṅkhataṁ abhisaṅkarunti ti bhikkavi tashma saṅkhārāti bhuchyanti."
+  },
+  {
+   "t": 483.51,
+   "end": 485.43,
+   "text": "Kinchya saṅkhataṁ abhisaṅkarunti."
+  },
+  {
+   "t": 485.87,
+   "end": 488.53,
+   "text": "Rūpang rūpattāya saṅkhataṁ abhisaṅkarunti."
+  },
+  {
+   "t": 488.79,
+   "end": 492.83,
+   "text": "Vedanaṁ vedanaṁ vedanaṁ tāya saṅkhataṁ abhisaṅkarunti."
+  },
+  {
+   "t": 493.71,
+   "end": 496.65,
+   "text": "Sanyam sanyattāya saṅkhataṁ abhisaṅkarunti."
+  },
+  {
+   "t": 497.41,
+   "end": 500.67,
+   "text": "Sankhare saṅkhārattāya saṅkhataṁ abhisaṅkarunti."
+  },
+  {
+   "t": 501.29,
+   "end": 504.45,
+   "text": "Vinyanam vinyanattāya saṅkhataṁ abhisaṅkarunti."
+  },
+  {
+   "t": 504.57,
+   "end": 510.07,
+   "text": "Saṅkhataṁ abhisaṅkarunti ti kho bhikkave tashma saṅkhārāti bhuchyanti."
+  },
+  {
+   "t": 511.11,
+   "end": 513.77,
+   "text": "And what monks would you say are preparations?"
+  },
+  {
+   "t": 514.65,
+   "end": 516.11,
+   "text": "They prepare the prepared."
+  },
+  {
+   "t": 516.41,
+   "end": 519.05,
+   "text": "That monks is why they are called preparations."
+  },
+  {
+   "t": 519.39,
+   "end": 521.75,
+   "text": "And what is the prepared that they prepare?"
+  },
+  {
+   "t": 522.61,
+   "end": 526.27,
+   "text": "They prepare as a prepared form into the state of form."
+  },
+  {
+   "t": 526.47,
+   "end": 530.69,
+   "text": "They prepare as a prepared feeling into the state of feeling."
+  },
+  {
+   "t": 531.09,
+   "end": 535.25,
+   "text": "They prepare as a prepared perception into the state of perception."
+  },
+  {
+   "t": 535.89,
+   "end": 539.91,
+   "text": "They prepare as a prepared preparations into the state of preparation."
+  },
+  {
+   "t": 540.71,
+   "end": 544.23,
+   "text": "They prepare as a prepared consciousness into the state of consciousness."
+  },
+  {
+   "t": 544.67,
+   "end": 546.47,
+   "text": "They prepare the prepared."
+  },
+  {
+   "t": 546.73,
+   "end": 549.71,
+   "text": "So that is why monks, they are called preparations."
+  },
+  {
+   "t": 550.69,
+   "end": 554.39,
+   "text": "This explains why saṅkhāras are so called."
+  },
+  {
+   "t": 554.73,
+   "end": 558.61,
+   "text": "That is to say, the sense in which they are called saṅkhāras."
+  },
+  {
+   "t": 559.11,
+   "end": 563.83,
+   "text": "They prepare the prepared, saṅkhata, into that state."
+  },
+  {
+   "t": 563.83,
+   "end": 570.39,
+   "text": "And the prepared is form, feeling, perception, preparations, and consciousness."
+  },
+  {
+   "t": 571.21,
+   "end": 576.21,
+   "text": "Sāṅkhāras are therefore instrumental in building up each of these grasping groups."
+  },
+  {
+   "t": 576.63,
+   "end": 582.17,
+   "text": "The most intriguing statement is that even the saṅkhāras are built up by saṅkhāras."
+  },
+  {
+   "t": 583.03,
+   "end": 588.37,
+   "text": "They play the part of preparing a sort of make-believe activity."
+  },
+  {
+   "t": 590.61,
+   "end": 598.73,
+   "text": "In this sense, it is associated with the idea of intention, as being produced by intention."
+  },
+  {
+   "t": 600.0,
+   "end": 608.4,
+   "text": "The two terms abhisankhata and abhisanchetaita are often found in juxtaposition as if they are synonymous."
+  },
+  {
+   "t": 609.06,
+   "end": 615.48,
+   "text": "Abhisankhata means specially prepared and abhisanchetaita means thought out or intended."
+  },
+  {
+   "t": 616.24,
+   "end": 621.08,
+   "text": "Here we see the relationship of saṅkhāras to intention."
+  },
+  {
+   "t": 622.72,
+   "end": 625.8,
+   "text": "The preparation is done by means of intentions."
+  },
+  {
+   "t": 626.8,
+   "end": 630.84,
+   "text": "The two words chetaiti-pakappeti are also found used together."
+  },
+  {
+   "t": 631.7,
+   "end": 635.46,
+   "text": "Intention and imagination play their part in this matter of preparation."
+  },
+  {
+   "t": 635.92,
+   "end": 640.1,
+   "text": "So in the last analysis it is something constructed by imagination."
+  },
+  {
+   "t": 640.7,
+   "end": 643.88,
+   "text": "All these five groups are thought constructs."
+  },
+  {
+   "t": 644.62,
+   "end": 647.48,
+   "text": "As suggested by the similes of the picture and the painter,"
+  },
+  {
+   "t": 647.76,
+   "end": 652.78,
+   "text": "these five groups in the final reckoning turn out to be the products of imagination."
+  },
+  {
+   "t": 653.6,
+   "end": 657.08,
+   "text": "As far as the nature of these preparations is concerned,"
+  },
+  {
+   "t": 658.04,
+   "end": 662.12,
+   "text": "there are these three kinds of preparations mentioned in the Dhamma,"
+  },
+  {
+   "t": 662.36,
+   "end": 666.98,
+   "text": "namely kaya-sankhara, vachi-sankhara and mano-sankhara."
+  },
+  {
+   "t": 667.84,
+   "end": 671.28,
+   "text": "Body preparations, verbal preparations and mental preparations."
+  },
+  {
+   "t": 672.22,
+   "end": 675.16,
+   "text": "These terms have to do with merit and demerit."
+  },
+  {
+   "t": 675.16,
+   "end": 678.14,
+   "text": "They are cited in connection with kamma,"
+  },
+  {
+   "t": 678.36,
+   "end": 682.44,
+   "text": "implying that beings accumulate kamma by means of body, word and mind."
+  },
+  {
+   "t": 682.82,
+   "end": 686.96,
+   "text": "What supports this heaping of preparations is ignorance."
+  },
+  {
+   "t": 687.64,
+   "end": 692.54,
+   "text": "Ignorance provides the background as in the case of the drama and the movie."
+  },
+  {
+   "t": 692.54,
+   "end": 701.04,
+   "text": "This relationship between ignorance and preparations is clearly brought out in the Sanchetana Sutta of the Anguttarnikara."
+  },
+  {
+   "t": 701.86,
+   "end": 710.3,
+   "text": "According to that sutta, the world attributes an activity to something by regarding it as a unit,"
+  },
+  {
+   "t": 710.3,
+   "end": 713.34,
+   "text": "by perceiving it as a compact unit."
+  },
+  {
+   "t": 713.76,
+   "end": 715.02,
+   "text": "In other words,"
+  },
+  {
+   "t": 715.96,
+   "end": 720.78,
+   "text": "it is the way of the world to superimpose the concept of a unit or self-agency"
+  },
+  {
+   "t": 720.78,
+   "end": 725.48,
+   "text": "to wherever there appears to be some sort of activity."
+  },
+  {
+   "t": 726.14,
+   "end": 729.4,
+   "text": "As we mentioned in connection with the simile of the whirlpool,"
+  },
+  {
+   "t": 730.14,
+   "end": 731.18,
+   "text": "pivot from a distance,"
+  },
+  {
+   "t": 731.4,
+   "end": 734.66,
+   "text": "the whirlpool appears as a center or a base."
+  },
+  {
+   "t": 734.96,
+   "end": 736.12,
+   "text": "In the same way,"
+  },
+  {
+   "t": 737.78,
+   "end": 741.02,
+   "text": "wherever there appears to be some form of activity,"
+  },
+  {
+   "t": 741.02,
+   "end": 743.28,
+   "text": "we tend to bring in the concept of a unit."
+  },
+  {
+   "t": 744.02,
+   "end": 746.02,
+   "text": "Now it is this very ignorance,"
+  },
+  {
+   "t": 746.32,
+   "end": 747.22,
+   "text": "this ignoring,"
+  },
+  {
+   "t": 747.62,
+   "end": 749.98,
+   "text": "that becomes the seedbed for preparations."
+  },
+  {
+   "t": 751.16,
+   "end": 757.56,
+   "text": "The basic presumption of this ignorance is that preparations must originate from a unitary center."
+  },
+  {
+   "t": 758.68,
+   "end": 762.12,
+   "text": "And the Buddha also points out in the Sanchetanya Sutta"
+  },
+  {
+   "t": 762.12,
+   "end": 767.38,
+   "text": "that the root cause of bodily, verbal and mental preparations is ignorance."
+  },
+  {
+   "t": 768.22,
+   "end": 770.48,
+   "text": "Since the discourse is rather lengthy,"
+  },
+  {
+   "t": 770.8,
+   "end": 775.34,
+   "text": "we propose to analyze it in three sections for facility of understanding."
+  },
+  {
+   "t": 797.66,
+   "end": 799.48,
+   "text": "Monks, when the body is there,"
+  },
+  {
+   "t": 799.66,
+   "end": 800.84,
+   "text": "due to bodily intention,"
+  },
+  {
+   "t": 801.16,
+   "end": 803.98,
+   "text": "there arises inward pleasure and pain."
+  },
+  {
+   "t": 804.92,
+   "end": 806.74,
+   "text": "Monks, when speech is there,"
+  },
+  {
+   "t": 806.88,
+   "end": 807.96,
+   "text": "due to verbal intention,"
+  },
+  {
+   "t": 808.3,
+   "end": 810.58,
+   "text": "there arises inward pleasure and pain."
+  },
+  {
+   "t": 811.4,
+   "end": 813.08,
+   "text": "Monks, when mind is there,"
+  },
+  {
+   "t": 813.16,
+   "end": 814.42,
+   "text": "due to mental intention,"
+  },
+  {
+   "t": 814.7,
+   "end": 817.04,
+   "text": "there arises inward pleasure and pain."
+  },
+  {
+   "t": 817.48,
+   "end": 819.48,
+   "text": "All conditioned by ignorance."
+  },
+  {
+   "t": 820.14,
+   "end": 822.48,
+   "text": "Now let us take this as the first section"
+  },
+  {
+   "t": 822.48,
+   "end": 824.3,
+   "text": "and try to get at its meaning."
+  },
+  {
+   "t": 824.96,
+   "end": 826.64,
+   "text": "Given the concept of a body,"
+  },
+  {
+   "t": 827.06,
+   "end": 830.28,
+   "text": "due to intentions based on that concept of a body,"
+  },
+  {
+   "t": 830.82,
+   "end": 833.36,
+   "text": "there arises inwardly pleasure and pain."
+  },
+  {
+   "t": 833.36,
+   "end": 834.52,
+   "text": "That is,"
+  },
+  {
+   "t": 834.78,
+   "end": 837.64,
+   "text": "when one imagines that there is a body,"
+  },
+  {
+   "t": 838.0,
+   "end": 840.82,
+   "text": "due to thoughts which take body as its object,"
+  },
+  {
+   "t": 841.18,
+   "end": 843.62,
+   "text": "one experiences pleasure and pain."
+  },
+  {
+   "t": 844.16,
+   "end": 847.98,
+   "text": "What is called the body is a huge mass of activity,"
+  },
+  {
+   "t": 848.44,
+   "end": 851.04,
+   "text": "something like a big workshop or factory."
+  },
+  {
+   "t": 851.78,
+   "end": 854.22,
+   "text": "But because of ignorance,"
+  },
+  {
+   "t": 855.22,
+   "end": 858.38,
+   "text": "if one takes it as one thing,"
+  },
+  {
+   "t": 859.44,
+   "end": 860.66,
+   "text": "that is, as a unit,"
+  },
+  {
+   "t": 861.54,
+   "end": 864.84,
+   "text": "then there is room for bodily intention to come in."
+  },
+  {
+   "t": 865.4,
+   "end": 867.54,
+   "text": "One can objectify the body"
+  },
+  {
+   "t": 867.54,
+   "end": 869.82,
+   "text": "and arouse thoughts of the body."
+  },
+  {
+   "t": 870.22,
+   "end": 872.96,
+   "text": "Thereby one experiences pleasure and pain."
+  },
+  {
+   "t": 872.96,
+   "end": 876.08,
+   "text": "This is the implication of the above statement."
+  },
+  {
+   "t": 877.38,
+   "end": 878.02,
+   "text": "Similarly,"
+  },
+  {
+   "t": 878.46,
+   "end": 879.48,
+   "text": "in the case of speech,"
+  },
+  {
+   "t": 879.74,
+   "end": 880.66,
+   "text": "it may be said"
+  },
+  {
+   "t": 880.66,
+   "end": 883.94,
+   "text": "that language is a conglomeration of letters and words."
+  },
+  {
+   "t": 884.58,
+   "end": 887.18,
+   "text": "But when speech is taken as a real unit,"
+  },
+  {
+   "t": 888.06,
+   "end": 890.36,
+   "text": "one can form intentions about speech"
+  },
+  {
+   "t": 890.36,
+   "end": 893.26,
+   "text": "and inwardly experience pleasure and pain."
+  },
+  {
+   "t": 894.12,
+   "end": 895.04,
+   "text": "So also,"
+  },
+  {
+   "t": 895.04,
+   "end": 896.22,
+   "text": "in the case of the mind,"
+  },
+  {
+   "t": 896.98,
+   "end": 898.7,
+   "text": "it is not an entity by itself,"
+  },
+  {
+   "t": 898.92,
+   "end": 900.04,
+   "text": "like a soul,"
+  },
+  {
+   "t": 900.18,
+   "end": 902.26,
+   "text": "or as postulated by other religions."
+  },
+  {
+   "t": 902.86,
+   "end": 903.96,
+   "text": "It is again"
+  },
+  {
+   "t": 903.96,
+   "end": 905.66,
+   "text": "only a heap of thoughts."
+  },
+  {
+   "t": 906.1,
+   "end": 907.48,
+   "text": "But if one grants"
+  },
+  {
+   "t": 907.48,
+   "end": 908.68,
+   "text": "that there is a mind,"
+  },
+  {
+   "t": 909.2,
+   "end": 910.84,
+   "text": "due to that very presumption,"
+  },
+  {
+   "t": 911.1,
+   "end": 913.78,
+   "text": "one experiences inwardly pleasure and pain,"
+  },
+  {
+   "t": 913.78,
+   "end": 915.76,
+   "text": "with mind as its subject."
+  },
+  {
+   "t": 916.3,
+   "end": 918.08,
+   "text": "The concluding phrase"
+  },
+  {
+   "t": 918.08,
+   "end": 919.36,
+   "text": "of that paragraph"
+  },
+  {
+   "t": 919.36,
+   "end": 921.22,
+   "text": "is particularly significant."
+  },
+  {
+   "t": 921.6,
+   "end": 922.52,
+   "text": "It says"
+  },
+  {
+   "t": 922.52,
+   "end": 924.5,
+   "text": "that all this is conditioned by ignorance."
+  },
+  {
+   "t": 925.58,
+   "end": 927.32,
+   "text": "Let us now take up the second part."
+  },
+  {
+   "t": 956.74,
+   "end": 957.3,
+   "text": "The question is"
+  },
+  {
+   "t": 957.3,
+   "end": 962.14,
+   "text": "Abhisham Kharoti yang Pachyasatang Upajyati Ajhatang Sukadukha."
+  },
+  {
+   "t": 962.62,
+   "end": 970.1,
+   "text": "Either he himself prepares that bodily preparation, owing to which there would be that inward pleasure and pain,"
+  },
+  {
+   "t": 970.34,
+   "end": 978.06,
+   "text": "or else others prepare for him that bodily preparation, owing to which there would be for him inward pleasure and pain."
+  },
+  {
+   "t": 978.66,
+   "end": 985.52,
+   "text": "Either he being fully aware prepares that bodily preparation, owing to which there would be for him inward pleasure and pain,"
+  },
+  {
+   "t": 985.52,
+   "end": 994.12,
+   "text": "or else he being fully unaware prepares that bodily preparation, owing to which there would be for him that inward pleasure and pain."
+  },
+  {
+   "t": 994.38,
+   "end": 1005.48,
+   "text": "The substance of this paragraph seems to be that one by oneself prepares the bodily preparation that brings one pleasure or pain inwardly,"
+  },
+  {
+   "t": 1005.72,
+   "end": 1009.42,
+   "text": "and that others also prepare for him such a bodily preparation."
+  },
+  {
+   "t": 1009.42,
+   "end": 1016.06,
+   "text": "It is also said that the bodily preparation can occur either with or without awareness."
+  },
+  {
+   "t": 1017.18,
+   "end": 1021.9,
+   "text": "About the verbal and mental preparations too, a similar specification is made."
+  },
+  {
+   "t": 1022.26,
+   "end": 1024.42,
+   "text": "This is the summary of the second section."
+  },
+  {
+   "t": 1024.7,
+   "end": 1027.92,
+   "text": "The third and final section is the most significant."
+  },
+  {
+   "t": 1027.92,
+   "end": 1035.24,
+   "text": "Imeesu Bhikave Dhammesu Avijjaya Anupatita, Avijjaya Teva Asesavirag Nirodha,"
+  },
+  {
+   "t": 1035.62,
+   "end": 1040.56,
+   "text": "Sokayo Nahoti Yampachya Satang Upajyati Ajhatang Sukadukha."
+  },
+  {
+   "t": 1063.58,
+   "end": 1070.44,
+   "text": "Monks, in all these cases, ignorance hangs on, but with the remainder less fading away and cessation,"
+  },
+  {
+   "t": 1070.56,
+   "end": 1076.86,
+   "text": "of ignorance, of ignorance, that body is not there, owing to which there can arise for him inward pleasure and pain."
+  },
+  {
+   "t": 1077.3,
+   "end": 1082.82,
+   "text": "That speech is not there, owing to which there can arise for him inward pleasure and pain."
+  },
+  {
+   "t": 1083.84,
+   "end": 1088.4,
+   "text": "That mind is not there, owing to which there can arise for him inward pleasure and pain."
+  },
+  {
+   "t": 1088.9,
+   "end": 1095.24,
+   "text": "That field is not there, that sight is not there, that base is not there, that reason is not there,"
+  },
+  {
+   "t": 1095.42,
+   "end": 1098.92,
+   "text": "owing to which there can arise for him inward pleasure or pain."
+  },
+  {
+   "t": 1099.8,
+   "end": 1116.0,
+   "text": "Since all the instances mentioned earlier are accompanied by ignorance, the utter fading away and cessation of that very ignorance prevents as it were the crystallization of that body, speech and mind due to which inward pleasure and pain can arise."
+  },
+  {
+   "t": 1116.34,
+   "end": 1123.72,
+   "text": "In other words, it removes the field, the ground, the base and provenance for the arising of inward pleasure and pain."
+  },
+  {
+   "t": 1123.72,
+   "end": 1149.96,
+   "text": "This shows that once the existence of a body is granted with that concept of a body as its object, bodily preparations come to be built up or in other words, given the concept of a body and due to bodily intention, that is by treating it as a real unit, one experiences inwardly pleasure and pain because of thoughts concerning the body."
+  },
+  {
+   "t": 1149.96,
+   "end": 1158.44,
+   "text": "So also in regard to speech and mind, it is emphatically stated that all this occurs because of ignorance."
+  },
+  {
+   "t": 1158.78,
+   "end": 1165.88,
+   "text": "What confers on them all the status of a unit through the perception of the compact is this very ignorance."
+  },
+  {
+   "t": 1166.68,
+   "end": 1180.42,
+   "text": "As for the second pera, what it says is simply that those bodily preparations and the like can be made by oneself as well as by others and that too either being aware or unaware."
+  },
+  {
+   "t": 1180.42,
+   "end": 1183.42,
+   "text": "Now all these are related to ignorance."
+  },
+  {
+   "t": 1184.3,
+   "end": 1199.02,
+   "text": "Therefore, at whatever point of time this ignorance ceases completely in someone, then for him there is no consciousness of a body, though from an outside point of view he appears to have a body."
+  },
+  {
+   "t": 1199.02,
+   "end": 1199.2,
+   "text": "Thank you very much."
+  },
+  {
+   "t": 1199.34,
+   "end": 1199.68,
+   "text": "Thank you very much."
+  },
+  {
+   "t": 1200.0,
+   "end": 1206.64,
+   "text": "He may use words, he may speak, but for him there is nothing substantial in linguistic usage."
+  },
+  {
+   "t": 1207.3,
+   "end": 1215.36,
+   "text": "He seems to be making use of a mind. Mind objects also come up, but he does not regard it as a unit."
+  },
+  {
+   "t": 1216.08,
+   "end": 1220.46,
+   "text": "Therefore, inwardly, no pleasures and pains come up."
+  },
+  {
+   "t": 1221.1,
+   "end": 1225.24,
+   "text": "With the cessation of ignorance comes the cessation of preparations."
+  },
+  {
+   "t": 1226.12,
+   "end": 1229.64,
+   "text": "Thereby, all pleasures and pains cease."
+  },
+  {
+   "t": 1230.34,
+   "end": 1233.34,
+   "text": "This, in other words, is the state of Nibbana."
+  },
+  {
+   "t": 1233.9,
+   "end": 1239.38,
+   "text": "It appears then that this discourse gives us a clue to the state of Nibbana."
+  },
+  {
+   "t": 1239.92,
+   "end": 1243.72,
+   "text": "It says something about bodily, verbal and mental preparations."
+  },
+  {
+   "t": 1244.86,
+   "end": 1252.62,
+   "text": "If we try to understand its message in relation to the analogy of the film show and the drama mentioned earlier,"
+  },
+  {
+   "t": 1252.9,
+   "end": 1255.06,
+   "text": "we may offer the following explanation."
+  },
+  {
+   "t": 1256.42,
+   "end": 1265.52,
+   "text": "Now, in the case of a film show or drama, the preparations remain as preparations so long as there is that darkness of ignorance."
+  },
+  {
+   "t": 1266.12,
+   "end": 1272.64,
+   "text": "The realism or the realistic appearance of the acting of actors and actresses,"
+  },
+  {
+   "t": 1273.4,
+   "end": 1277.78,
+   "text": "of the roles and guises they assume in dress and speech,"
+  },
+  {
+   "t": 1278.24,
+   "end": 1283.1,
+   "text": "depends on the veil of ignorance that conceals their true nature."
+  },
+  {
+   "t": 1283.1,
+   "end": 1293.26,
+   "text": "Similarly, here too, the implication is that it is ignorance which invests these preparations with a realistic appearance."
+  },
+  {
+   "t": 1293.26,
+   "end": 1302.1,
+   "text": "If at any point of time that ignorance happens to cease, then there will be no pleasure or unpleasure for the audience,"
+  },
+  {
+   "t": 1302.4,
+   "end": 1305.34,
+   "text": "however much make-up and pretension there is."
+  },
+  {
+   "t": 1305.34,
+   "end": 1318.42,
+   "text": "It is such a situation of non-enjoyment that we happen to mention in the previous sermon with reference to the witnessing of the Hilltop Festival by Patissa and Khalid."
+  },
+  {
+   "t": 1319.12,
+   "end": 1326.72,
+   "text": "They had a flash of insight due to the light that came from within, not due to any illumination from outside."
+  },
+  {
+   "t": 1327.62,
+   "end": 1331.7,
+   "text": "Because of it, those preparations cease to be preparations."
+  },
+  {
+   "t": 1331.7,
+   "end": 1342.2,
+   "text": "From this, we can understand that the term Sankhara becomes meaningful only against the background of ignorance."
+  },
+  {
+   "t": 1342.64,
+   "end": 1352.48,
+   "text": "To move a step further, it is against the background of both ignorance and preparations that all the subsequent links in the formula become meaningful."
+  },
+  {
+   "t": 1353.26,
+   "end": 1370.94,
+   "text": "As far as the interrelation between consciousness and name and form is concerned, all what we have said about regarding the reflection of name and form on consciousness become meaningful only so long as the reality of the preparations is granted."
+  },
+  {
+   "t": 1370.94,
+   "end": 1375.74,
+   "text": "That is, only so far as their deceptive nature is maintained, that is only so far as their deceptive nature is maintained."
+  },
+  {
+   "t": 1376.06,
+   "end": 1380.24,
+   "text": "But that deceptive nature orbs its existence to ignorance."
+  },
+  {
+   "t": 1381.1,
+   "end": 1386.26,
+   "text": "This way, we can unravel one aspect of the essential significance of the term Sankhara."
+  },
+  {
+   "t": 1387.14,
+   "end": 1390.3,
+   "text": "Then there is another point worth considering in this respect."
+  },
+  {
+   "t": 1391.3,
+   "end": 1399.76,
+   "text": "Sankhara as the second link in the Patithya Sampada formula is defined by the Buddha in the Vibhanga Sutta in the Nidana Sanyutta."
+  },
+  {
+   "t": 1399.76,
+   "end": 1411.5,
+   "text": "Not in terms of Kaya Sankhara, Vaci Sankhara and Mano Sankhara, but as Kaya Sankharo, Vaci Sankharo and Chitta Sankharo."
+  },
+  {
+   "t": 1411.8,
+   "end": 1414.14,
+   "text": "This might seem rather intriguing."
+  },
+  {
+   "t": 1415.3,
+   "end": 1422.76,
+   "text": "Kattamica Bhikkave Sankhara, Tayomi Bhikkave Sankhara, Kaya Sankharo, Vaci Sankharo, Chitta Sankharo."
+  },
+  {
+   "t": 1422.76,
+   "end": 1425.14,
+   "text": "What monks are preparations?"
+  },
+  {
+   "t": 1425.58,
+   "end": 1431.88,
+   "text": "Monks, there are these three preparations, body preparation, speech preparation and mind preparation."
+  },
+  {
+   "t": 1432.3,
+   "end": 1437.02,
+   "text": "Also, it is not worthy that here the term is given in the singular."
+  },
+  {
+   "t": 1437.7,
+   "end": 1441.8,
+   "text": "In the majority of instances, it is found in the plural number."
+  },
+  {
+   "t": 1441.8,
+   "end": 1449.86,
+   "text": "But here in the definition of the term, the singular is used as Kaya Sankharo, Vaci Sankharo and Mano Sankharo."
+  },
+  {
+   "t": 1449.86,
+   "end": 1462.42,
+   "text": "The significance of this usage is explained for us by the Chula Vedala Sutta in the Dhamma discussion between the Arantan Dhamma Dinna and the Le Disciple Visakh."
+  },
+  {
+   "t": 1462.42,
+   "end": 1471.58,
+   "text": "There, the venerable theory, in answer to a question raised by the Le Disciple, comes out with the definition of these three terms."
+  },
+  {
+   "t": 1473.54,
+   "end": 1482.3,
+   "text": "Asasapasasako avusu visakha kaika, ete Dhamma Kaya Patibadha, tasma asasapasasa Kaya Sankharo."
+  },
+  {
+   "t": 1483.3,
+   "end": 1493.34,
+   "text": "Friend visakha, in-breaths and out-breaths are bodily. These things are bound up with the body. That is why in-breaths and out-breaths are a body preparation."
+  },
+  {
+   "t": 1494.48,
+   "end": 1503.84,
+   "text": "According to this interpretation, in-breathing and out-breathing are a body preparation in the sense that their activity is connected with the body."
+  },
+  {
+   "t": 1504.28,
+   "end": 1507.48,
+   "text": "There is no explicit mention of karma here."
+  },
+  {
+   "t": 1509.34,
+   "end": 1513.22,
+   "text": "Then the definition of vaci-sankhara is as follows."
+  },
+  {
+   "t": 1514.04,
+   "end": 1522.04,
+   "text": "Pubbeko avuso visakha vitaketva vicharetva pachhavachang bhintati tasma vitak vichara vaci-sankharo."
+  },
+  {
+   "t": 1522.9,
+   "end": 1530.72,
+   "text": "Friend visakha, first having thought and pondered, one breaks into speech. That is why thinking and pondering are a speech preparation."
+  },
+  {
+   "t": 1530.72,
+   "end": 1539.28,
+   "text": "Here vaci-sankhara is defined as thinking and pondering, not in terms of karma such as abusive speech and the like."
+  },
+  {
+   "t": 1539.28,
+   "end": 1543.64,
+   "text": "Then as the third, chitta-sankhara is given the following definition."
+  },
+  {
+   "t": 1544.32,
+   "end": 1552.02,
+   "text": "Sanyacha vedanacha cheta-sika ete dhamma chitta-patibadha tasma sanyacha vedanacha chitta-sankharo."
+  },
+  {
+   "t": 1552.56,
+   "end": 1560.24,
+   "text": "Perception and feeling are mental. They are bound up with the mind. That is why perception and feeling are a mind preparation."
+  },
+  {
+   "t": 1561.08,
+   "end": 1569.08,
+   "text": "Perception and feeling are called mind preparation because they are mental and have to do with the mind."
+  },
+  {
+   "t": 1569.66,
+   "end": 1584.8,
+   "text": "According to this definition, it appears then that what the Buddha had indicated as the second link of the formula of dependent arising is in-breathing and out-breathing, thinking and pondering and perception and feeling."
+  },
+  {
+   "t": 1584.8,
+   "end": 1598.16,
+   "text": "The mode of interpretation we have adopted shows us that the word sankhara in the context of a drama, for instance, can mean preparations or some sort of preliminary arrangement or fashioning."
+  },
+  {
+   "t": 1598.16,
+   "end": 1603.48,
+   "text": "Now this sense of preparation is applicable to in-breaths and out-breaths too."
+  },
+  {
+   "t": 1603.86,
+   "end": 1616.42,
+   "text": "As we know, in all our bodily activities, particularly in lifting some weight and the like, or when exerting ourselves, we sometimes take a deep breath at almost impulsively."
+  },
+  {
+   "t": 1617.38,
+   "end": 1624.22,
+   "text": "That is to say, the most basic activity of this body is in-breaths and out-breaths."
+  },
+  {
+   "t": 1624.8,
+   "end": 1635.12,
+   "text": "Moreover, in the definition of vache-sankhara, it is clearly stated that one speaks out having first thought out and pondered."
+  },
+  {
+   "t": 1635.12,
+   "end": 1642.36,
+   "text": "This is a clear instance of the role of sankhara as a preparation or a preliminary activity."
+  },
+  {
+   "t": 1643.32,
+   "end": 1647.36,
+   "text": "Now, the word rehearsal is in common use in the society."
+  },
+  {
+   "t": 1648.26,
+   "end": 1655.22,
+   "text": "Sometimes, the day before a drama is staged for the society, a sort of trial performance is held."
+  },
+  {
+   "t": 1655.22,
+   "end": 1660.42,
+   "text": "Similarly, before breaking out into speech, one thinks and ponders."
+  },
+  {
+   "t": 1660.96,
+   "end": 1666.36,
+   "text": "That is why sometimes we find words issuing out before we can be aware of them."
+  },
+  {
+   "t": 1666.78,
+   "end": 1671.44,
+   "text": "Thinking and pondering is called vache-sankharo because they prepare speech."
+  },
+  {
+   "t": 1671.8,
+   "end": 1674.4,
+   "text": "The sense of preparation is therefore quite apt."
+  },
+  {
+   "t": 1675.22,
+   "end": 1682.68,
+   "text": "Then there is perception and feeling, for which the term chitta-sankharo is used here, instead of mano-sankhara."
+  },
+  {
+   "t": 1682.68,
+   "end": 1692.76,
+   "text": "The reason for it is that what we reckon as mano-sankhara is actually the more prominent level represented by intentions and the life."
+  },
+  {
+   "t": 1693.3,
+   "end": 1701.14,
+   "text": "The background for those intentions, the subliminal preparatory stage, is to be found in perception and feeling."
+  },
+  {
+   "t": 1701.42,
+   "end": 1708.86,
+   "text": "It is perception and feeling that give the impetus for the arising of the more prominent stage of intention."
+  },
+  {
+   "t": 1709.94,
+   "end": 1715.08,
+   "text": "They provide the necessary mental condition for doing evil or good deeds."
+  },
+  {
+   "t": 1716.0,
+   "end": 1720.36,
+   "text": "This way, we can get at the subtle nuances of the term sankhara."
+  },
+  {
+   "t": 1720.62,
+   "end": 1729.88,
+   "text": "Just as in the case of an iceberg floating in the ocean, the greater part is submerged and only a fraction of it shows above the surface."
+  },
+  {
+   "t": 1729.88,
+   "end": 1735.22,
+   "text": "So also, the deeper nuances of this term are rather imperceptible."
+  },
+  {
+   "t": 1735.9,
+   "end": 1746.44,
+   "text": "Beneath our heap of bodily actions, verbal actions and mental acts of feeling or intentions, lies a huge mountain of activities."
+  },
+  {
+   "t": 1747.32,
+   "end": 1751.34,
+   "text": "Breathing in and breathing out is the most basic activity in one's life."
+  },
+  {
+   "t": 1751.34,
+   "end": 1755.92,
+   "text": "It is in fact the criterion for judging whether one is alive or dead."
+  },
+  {
+   "t": 1756.48,
+   "end": 1766.08,
+   "text": "For instance, when someone falls in his wound, we examine him to see whether he is still breathing, whether this basic activity is still there in him."
+  },
+  {
+   "t": 1766.44,
+   "end": 1775.5,
+   "text": "Also, in such a case, we try to see whether he can speak and feel, whether perception and feeling are still there in him."
+  },
+  {
+   "t": 1775.5,
+   "end": 1788.8,
+   "text": "So, in this way, we can understand how these basic forms of activity decide the criterion for judging whether life is present or extinct in a person."
+  },
+  {
+   "t": 1789.44,
+   "end": 1799.26,
+   "text": "That activity is something internal but even at that level, defilements lie dormant because ignorance is hiding there too."
+  },
+  {
+   "t": 1799.26,
+   "end": 1799.46,
+   "text": "Thank you very much."
+  },
+  {
+   "t": 1800.8,
+   "end": 1804.3,
+   "text": "In fact, that is precisely why they are reckoned as Sankhara."
+  },
+  {
+   "t": 1804.78,
+   "end": 1814.08,
+   "text": "Usually one thinks in terms of I and mine, as I breathe, I speak, I see and I feel."
+  },
+  {
+   "t": 1815.54,
+   "end": 1821.04,
+   "text": "So like the submerged portion of an iceberg, these subtler layers of preparations also"
+  },
+  {
+   "t": 1821.04,
+   "end": 1823.16,
+   "text": "have ignorance hidden within them."
+  },
+  {
+   "t": 1823.16,
+   "end": 1831.74,
+   "text": "That is why the attempt of pre-Buddhistic ascetics to solve this saṃsāra cradle by tranquillity"
+  },
+  {
+   "t": 1831.74,
+   "end": 1833.84,
+   "text": "alone met with failure."
+  },
+  {
+   "t": 1834.22,
+   "end": 1840.36,
+   "text": "Pre-Buddhistic ascetics and even Nālāra Kālāma and Uddhaka Rāmputta thought that they can"
+  },
+  {
+   "t": 1840.36,
+   "end": 1845.56,
+   "text": "get out of this saṃsāra by tranquilizing the bodily activities, the verbal activities"
+  },
+  {
+   "t": 1845.56,
+   "end": 1846.98,
+   "text": "and the mental activities."
+  },
+  {
+   "t": 1847.96,
+   "end": 1852.8,
+   "text": "But they did not understand that all these are saṃsāras or preparations."
+  },
+  {
+   "t": 1853.62,
+   "end": 1857.06,
+   "text": "Therefore, they were confronted with a certain dilemma."
+  },
+  {
+   "t": 1858.36,
+   "end": 1862.5,
+   "text": "They went on calming down the bodily activities to subtler and subtler levels."
+  },
+  {
+   "t": 1863.6,
+   "end": 1866.14,
+   "text": "They calmed down the in-breaths and out-breaths."
+  },
+  {
+   "t": 1867.78,
+   "end": 1874.06,
+   "text": "They managed to suppress thinking and pondering by concentration exercises but without proper"
+  },
+  {
+   "t": 1874.06,
+   "end": 1874.74,
+   "text": "understanding."
+  },
+  {
+   "t": 1875.52,
+   "end": 1878.24,
+   "text": "It was only a temporary calming down."
+  },
+  {
+   "t": 1878.68,
+   "end": 1886.06,
+   "text": "However, once they reached the level of neither perception nor non-perception, they had to"
+  },
+  {
+   "t": 1886.06,
+   "end": 1887.24,
+   "text": "face a certain problem."
+  },
+  {
+   "t": 1888.38,
+   "end": 1893.8,
+   "text": "In fact, the very designation of that level of attainment betrays the dilemma they were"
+  },
+  {
+   "t": 1893.8,
+   "end": 1894.08,
+   "text": "in."
+  },
+  {
+   "t": 1894.96,
+   "end": 1900.88,
+   "text": "It means that one is at a loss to say definitely whether there is some perception or not."
+  },
+  {
+   "t": 1901.54,
+   "end": 1904.62,
+   "text": "The Panchattaya Sutta clearly reveals this fact."
+  },
+  {
+   "t": 1905.0,
+   "end": 1909.74,
+   "text": "It gives expression to the problem facing those ascetics in the following this significant"
+  },
+  {
+   "t": 1909.74,
+   "end": 1910.36,
+   "text": "statement."
+  },
+  {
+   "t": 1921.02,
+   "end": 1927.96,
+   "text": "Perception is a disease, perception is a void, perception is a doubt, but not to have perception"
+  },
+  {
+   "t": 1927.96,
+   "end": 1929.0,
+   "text": "is to be deluded."
+  },
+  {
+   "t": 1929.0,
+   "end": 1935.3,
+   "text": "This is peaceful, this is excellent, that is, the base of neither perception nor non-perception."
+  },
+  {
+   "t": 1936.22,
+   "end": 1942.34,
+   "text": "They understood to some extent that this perception is a disease, a trouble, a tumour, or a wound,"
+  },
+  {
+   "t": 1942.64,
+   "end": 1943.68,
+   "text": "or else a thorn."
+  },
+  {
+   "t": 1943.92,
+   "end": 1946.06,
+   "text": "They wanted to be free from perception."
+  },
+  {
+   "t": 1946.86,
+   "end": 1951.48,
+   "text": "But then on the other hand, they feared that to be totally free from perception is to"
+  },
+  {
+   "t": 1951.48,
+   "end": 1952.6,
+   "text": "be in a deluded state."
+  },
+  {
+   "t": 1952.6,
+   "end": 1959.06,
+   "text": "Therefore, they concluded, this is peaceful, this is excellent, that is, the base of neither"
+  },
+  {
+   "t": 1959.06,
+   "end": 1962.2,
+   "text": "perception nor non-perception, and came to a halt there."
+  },
+  {
+   "t": 1963.0,
+   "end": 1968.4,
+   "text": "That is why the Buddha rejected even Alara Kalama and Uddhaka Ramaputtar and went in search"
+  },
+  {
+   "t": 1968.4,
+   "end": 1970.32,
+   "text": "of the stilling of all preparations."
+  },
+  {
+   "t": 1971.18,
+   "end": 1976.2,
+   "text": "So the kind of tranquility meditation followed by the pre-Buddhistic ascetics through various"
+  },
+  {
+   "t": 1976.2,
+   "end": 1982.14,
+   "text": "higher knowledges and meditative attainments could never bring about a stilling of all preparations."
+  },
+  {
+   "t": 1982.14,
+   "end": 1983.06,
+   "text": "Why?"
+  },
+  {
+   "t": 1983.42,
+   "end": 1989.6,
+   "text": "Because the ignorance underlying those preparations were not discernible to their level of wisdom."
+  },
+  {
+   "t": 1990.0,
+   "end": 1995.36,
+   "text": "In the least, they could not even recognize their Sankhara nature."
+  },
+  {
+   "t": 1995.78,
+   "end": 2000.12,
+   "text": "They thought that these are only states of a sort."
+  },
+  {
+   "t": 2000.86,
+   "end": 2006.72,
+   "text": "Therefore, like the present day Hindu yogins following the philosophy of the Upanishads,"
+  },
+  {
+   "t": 2006.72,
+   "end": 2011.2,
+   "text": "they thought that breathing is just one layer of the Self."
+  },
+  {
+   "t": 2011.92,
+   "end": 2014.96,
+   "text": "It is one of the outer rinds of the sort."
+  },
+  {
+   "t": 2015.5,
+   "end": 2021.46,
+   "text": "In fact, the kernel of Self was supposed to have around it the four rinds,"
+  },
+  {
+   "t": 2021.68,
+   "end": 2029.12,
+   "text": "Annamaya, Pranamaya, Sanyamaya and Vijnanamaya, that is to say made out of food, breath, perception"
+  },
+  {
+   "t": 2029.12,
+   "end": 2030.12,
+   "text": "and consciousness respectively."
+  },
+  {
+   "t": 2031.14,
+   "end": 2037.48,
+   "text": "Apart from treating them as states of a self, they were not able to understand that all these"
+  },
+  {
+   "t": 2037.48,
+   "end": 2042.42,
+   "text": "activities are Sankharas and that ignorance is the springboard for them."
+  },
+  {
+   "t": 2042.42,
+   "end": 2049.74,
+   "text": "In view of the fact that Nibbāna is called the stilling of all preparations, Sabha Sankhara Samatha,"
+  },
+  {
+   "t": 2050.08,
+   "end": 2055.96,
+   "text": "one might sometimes conclude that the attainment of the cessation of perceptions and feeling,"
+  },
+  {
+   "t": 2055.96,
+   "end": 2062.9,
+   "text": "Sanya Vedaita Nirodha, is in itself Nibbāna, but it is on rising from that attainment,"
+  },
+  {
+   "t": 2063.04,
+   "end": 2068.38,
+   "text": "which is like a deep freeze, that one makes contact with the three deliverances,"
+  },
+  {
+   "t": 2068.94,
+   "end": 2074.68,
+   "text": "the signless, animita, the desireless, appanita and the void, sunyata."
+  },
+  {
+   "t": 2075.56,
+   "end": 2080.8,
+   "text": "According to the Buddhist outlook, it is wisdom that decides the issue and not tranquility."
+  },
+  {
+   "t": 2081.48,
+   "end": 2087.38,
+   "text": "Therefore, in the last analysis, preparations cease to be preparations when the tendency"
+  },
+  {
+   "t": 2087.38,
+   "end": 2093.52,
+   "text": "to grasp the sign in the preparations is got rid of and signlessness is experienced."
+  },
+  {
+   "t": 2094.14,
+   "end": 2100.1,
+   "text": "The sign stands for the notion of permanence and it accounts for the deceptive nature of"
+  },
+  {
+   "t": 2100.1,
+   "end": 2104.24,
+   "text": "preparations as in the case of an actor's make-up and stage-draft."
+  },
+  {
+   "t": 2104.92,
+   "end": 2111.72,
+   "text": "It is the sign of permanence that leads to a desire for something, to expectations and aspirations."
+  },
+  {
+   "t": 2112.24,
+   "end": 2117.2,
+   "text": "So that sign has to live together with the desire for the desireless deliverance to come about."
+  },
+  {
+   "t": 2117.76,
+   "end": 2121.24,
+   "text": "Then one has to see all this as essenceless and void."
+  },
+  {
+   "t": 2122.38,
+   "end": 2127.16,
+   "text": "It is just because of desire that we regard something as essence-shall."
+  },
+  {
+   "t": 2127.16,
+   "end": 2131.84,
+   "text": "We ask for the purpose of something when we have desire."
+  },
+  {
+   "t": 2132.28,
+   "end": 2137.16,
+   "text": "Now it is through this unique vision of the signless, the desireless and the void"
+  },
+  {
+   "t": 2137.16,
+   "end": 2141.22,
+   "text": "that the Buddha arrived at the state of stilling of all preparations."
+  },
+  {
+   "t": 2141.48,
+   "end": 2144.9,
+   "text": "We resort to the simile of the film show and the drama,"
+  },
+  {
+   "t": 2145.22,
+   "end": 2150.04,
+   "text": "not out of disregard for the precept concerning abstention from such diversions,"
+  },
+  {
+   "t": 2150.04,
+   "end": 2154.72,
+   "text": "but because the Buddha has called dancing a form of mad behaviour."
+  },
+  {
+   "t": 2156.46,
+   "end": 2159.22,
+   "text": "Ummattakamidambhikave aryasavine yadidang natcham"
+  },
+  {
+   "t": 2160.04,
+   "end": 2167.04,
+   "text": "This, monks, is a form of madness according to the noble one's discipline, namely dancing."
+  },
+  {
+   "t": 2167.58,
+   "end": 2169.98,
+   "text": "Now what is the nature of a madman?"
+  },
+  {
+   "t": 2170.26,
+   "end": 2171.66,
+   "text": "He is jumpy."
+  },
+  {
+   "t": 2171.88,
+   "end": 2175.78,
+   "text": "From the standpoint of dhamma, dancing is a form of jumpiness."
+  },
+  {
+   "t": 2175.78,
+   "end": 2178.92,
+   "text": "In fact, all preparations are that."
+  },
+  {
+   "t": 2179.38,
+   "end": 2183.3,
+   "text": "It shows a nervous stress as well as a nervous release."
+  },
+  {
+   "t": 2183.74,
+   "end": 2186.68,
+   "text": "It is an endless series of winding and unwind."
+  },
+  {
+   "t": 2187.1,
+   "end": 2191.16,
+   "text": "What makes this problem of samsara such a naughty one to solve?"
+  },
+  {
+   "t": 2191.46,
+   "end": 2194.62,
+   "text": "We go on heaping up karmic actions,"
+  },
+  {
+   "t": 2195.5,
+   "end": 2198.88,
+   "text": "but when the time comes to experience their consequences,"
+  },
+  {
+   "t": 2199.24,
+   "end": 2202.44,
+   "text": "we do not regard them as mere results of karma,"
+  },
+  {
+   "t": 2202.44,
+   "end": 2205.58,
+   "text": "but superimpose an I on that experience."
+  },
+  {
+   "t": 2206.06,
+   "end": 2213.16,
+   "text": "So we act with the notion of an I and react to the consequences again with the notion of an I."
+  },
+  {
+   "t": 2213.62,
+   "end": 2217.56,
+   "text": "Because of that egoistic reaction, we heap up fresh karma."
+  },
+  {
+   "t": 2217.86,
+   "end": 2221.92,
+   "text": "So here is a case of stress and release, of winding and rewinding."
+  },
+  {
+   "t": 2221.92,
+   "end": 2224.42,
+   "text": "This is like a tangled skein."
+  },
+  {
+   "t": 2225.04,
+   "end": 2231.02,
+   "text": "Sometimes, when an unskilled person tries to disentangle a tangled skein,"
+  },
+  {
+   "t": 2232.06,
+   "end": 2235.56,
+   "text": "while disentangling one end, the other end gets entangled."
+  },
+  {
+   "t": 2236.64,
+   "end": 2240.5,
+   "text": "So it is, in the case of this samsaric ball of thread,"
+  },
+  {
+   "t": 2241.22,
+   "end": 2245.62,
+   "text": "while doing a karma, one is conscious of it as I am doing it."
+  },
+  {
+   "t": 2245.62,
+   "end": 2249.48,
+   "text": "And when it is the trend to suffer for it,"
+  },
+  {
+   "t": 2250.56,
+   "end": 2254.44,
+   "text": "one does not think it as a result of that karma."
+  },
+  {
+   "t": 2255.86,
+   "end": 2261.4,
+   "text": "Consequently, one accumulates fresh karma through various attachments and conflicts arising out of it."
+  },
+  {
+   "t": 2261.86,
+   "end": 2263.9,
+   "text": "Here too, we see some sort of a drama."
+  },
+  {
+   "t": 2264.34,
+   "end": 2268.38,
+   "text": "Now, if one can get the opportunity to see either a rehearsal"
+  },
+  {
+   "t": 2268.38,
+   "end": 2271.1,
+   "text": "or the backstage preparations for a drama,"
+  },
+  {
+   "t": 2271.44,
+   "end": 2274.58,
+   "text": "which however is not usually accessible to the public,"
+  },
+  {
+   "t": 2275.0,
+   "end": 2277.32,
+   "text": "one would be able to see through the drama."
+  },
+  {
+   "t": 2277.8,
+   "end": 2282.16,
+   "text": "If one can steal a peep into the backstage make-up,"
+  },
+  {
+   "t": 2283.18,
+   "end": 2285.52,
+   "text": "contruences of actors and actresses,"
+  },
+  {
+   "t": 2286.3,
+   "end": 2291.66,
+   "text": "one would see how ugly persons can become comely"
+  },
+  {
+   "t": 2291.66,
+   "end": 2294.28,
+   "text": "and the wretched can appear regal."
+  },
+  {
+   "t": 2294.88,
+   "end": 2297.66,
+   "text": "One would then see what a poor show it is."
+  },
+  {
+   "t": 2297.66,
+   "end": 2302.84,
+   "text": "In the same way, there is something dramatic in these basic preparations,"
+  },
+  {
+   "t": 2303.26,
+   "end": 2305.92,
+   "text": "namely, in-breathing and out-breathing,"
+  },
+  {
+   "t": 2306.16,
+   "end": 2307.38,
+   "text": "thinking and pondering,"
+  },
+  {
+   "t": 2307.56,
+   "end": 2308.92,
+   "text": "perception and feeling."
+  },
+  {
+   "t": 2309.44,
+   "end": 2313.42,
+   "text": "If one sees this backstage preparation with wisdom,"
+  },
+  {
+   "t": 2313.74,
+   "end": 2315.4,
+   "text": "one would be disenchanted."
+  },
+  {
+   "t": 2316.08,
+   "end": 2320.48,
+   "text": "What tranquility meditation does is to temporarily calm them down"
+  },
+  {
+   "t": 2320.48,
+   "end": 2322.32,
+   "text": "and derive some sort of happiness."
+  },
+  {
+   "t": 2322.88,
+   "end": 2326.12,
+   "text": "That too is necessary from the point of view of concentration"
+  },
+  {
+   "t": 2326.12,
+   "end": 2328.98,
+   "text": "to do away with restlessness and the like."
+  },
+  {
+   "t": 2329.64,
+   "end": 2331.64,
+   "text": "But it does not dispel ignorance."
+  },
+  {
+   "t": 2331.96,
+   "end": 2334.14,
+   "text": "That is why, in insight meditation,"
+  },
+  {
+   "t": 2334.6,
+   "end": 2337.14,
+   "text": "one tries to understand preparations for what they are"
+  },
+  {
+   "t": 2337.14,
+   "end": 2338.84,
+   "text": "by dispelling ignorance."
+  },
+  {
+   "t": 2338.84,
+   "end": 2342.4,
+   "text": "The more one sees preparations as preparations,"
+  },
+  {
+   "t": 2342.8,
+   "end": 2344.58,
+   "text": "ignorance is dispelled."
+  },
+  {
+   "t": 2344.82,
+   "end": 2346.7,
+   "text": "And the more one dispels ignorance,"
+  },
+  {
+   "t": 2347.0,
+   "end": 2350.3,
+   "text": "the preparations lose their significance as preparations."
+  },
+  {
+   "t": 2351.18,
+   "end": 2354.12,
+   "text": "Then one sees the nature of preparations with wisdom"
+  },
+  {
+   "t": 2354.12,
+   "end": 2356.3,
+   "text": "as signless, desireless and void."
+  },
+  {
+   "t": 2356.3,
+   "end": 2360.22,
+   "text": "So much so that, in effect, preparations cease to be preparations."
+  },
+  {
+   "t": 2361.1,
+   "end": 2362.86,
+   "text": "This is something of a marvel."
+  },
+  {
+   "t": 2363.22,
+   "end": 2366.86,
+   "text": "If we now hark back to the two words, winding and rewinding,"
+  },
+  {
+   "t": 2367.42,
+   "end": 2369.74,
+   "text": "the entire world of samsaric existence,"
+  },
+  {
+   "t": 2370.44,
+   "end": 2371.82,
+   "text": "in its entirety,"
+  },
+  {
+   "t": 2372.64,
+   "end": 2375.14,
+   "text": "is a process of winding and rewinding."
+  },
+  {
+   "t": 2375.5,
+   "end": 2379.08,
+   "text": "Where the winding ends and the rewinding begins"
+  },
+  {
+   "t": 2379.08,
+   "end": 2381.02,
+   "text": "is a matter beyond our comprehension."
+  },
+  {
+   "t": 2381.02,
+   "end": 2382.92,
+   "text": "But one thing is clear."
+  },
+  {
+   "t": 2383.28,
+   "end": 2384.7,
+   "text": "All these come to cease"
+  },
+  {
+   "t": 2384.7,
+   "end": 2386.7,
+   "text": "when craving and grasping are abandoned."
+  },
+  {
+   "t": 2387.12,
+   "end": 2389.0,
+   "text": "It is towards such an objective"
+  },
+  {
+   "t": 2390.2,
+   "end": 2391.76,
+   "text": "that our minds turn"
+  },
+  {
+   "t": 2391.76,
+   "end": 2394.62,
+   "text": "by recognizing preparations for what they are,"
+  },
+  {
+   "t": 2394.82,
+   "end": 2397.56,
+   "text": "as a result of a deeper analysis of their nature."
+  },
+  {
+   "t": 2397.88,
+   "end": 2399.98,
+   "text": "The relation of sankharas to each other"
+  },
+  {
+   "t": 2400.0,
+   "end": 2405.72,
+   "text": "Ignorance is somewhat similar to the relation a drama has to its backstage preparations."
+  },
+  {
+   "t": 2406.12,
+   "end": 2413.7,
+   "text": "It seems then that from the standpoint of dhamma, the entire saṃsāra is a product of specifically prepared intentions,"
+  },
+  {
+   "t": 2414.06,
+   "end": 2417.34,
+   "text": "even like the drama with its backstage preparations."
+  },
+  {
+   "t": 2417.62,
+   "end": 2420.36,
+   "text": "Let us return to the simile of the cinema again."
+  },
+  {
+   "t": 2420.86,
+   "end": 2426.14,
+   "text": "The average man, when he says that he has seen a film show,"
+  },
+  {
+   "t": 2427.8,
+   "end": 2432.94,
+   "text": "what he has actually seen is just one scene flashing on the screen at a time."
+  },
+  {
+   "t": 2433.48,
+   "end": 2439.9,
+   "text": "As we happened to mention in an earlier sermon, people go to the cinema and to the theatre saying,"
+  },
+  {
+   "t": 2440.1,
+   "end": 2443.5,
+   "text": "we are going to see a film show, we are going to see a drama."
+  },
+  {
+   "t": 2444.1,
+   "end": 2448.48,
+   "text": "And they return saying, we have seen a film show, we have seen a drama."
+  },
+  {
+   "t": 2448.94,
+   "end": 2453.02,
+   "text": "But actually, they have neither seen a film nor a drama completely."
+  },
+  {
+   "t": 2453.02,
+   "end": 2455.2,
+   "text": "What really has happened?"
+  },
+  {
+   "t": 2455.44,
+   "end": 2457.38,
+   "text": "How did they see a film show?"
+  },
+  {
+   "t": 2457.72,
+   "end": 2465.12,
+   "text": "Just as much as one creates a name and form on one's screen of consciousness with the help of preparations,"
+  },
+  {
+   "t": 2465.52,
+   "end": 2471.94,
+   "text": "the film goer has created a story by putting together the series of scenes falling on the screen."
+  },
+  {
+   "t": 2472.7,
+   "end": 2474.8,
+   "text": "What we mean to say is this."
+  },
+  {
+   "t": 2474.8,
+   "end": 2482.24,
+   "text": "Now, supposing the series of consecutive frames which make up a motion picture is made to appear on the screen,"
+  },
+  {
+   "t": 2482.48,
+   "end": 2487.42,
+   "text": "when there is no spectator in the cinema hall, will there be a film at all?"
+  },
+  {
+   "t": 2488.5,
+   "end": 2495.5,
+   "text": "While such an experiment is going on, if a film goer steps in late halfway through,"
+  },
+  {
+   "t": 2495.82,
+   "end": 2499.72,
+   "text": "he would not be able to gather that portion of the film already gone."
+  },
+  {
+   "t": 2500.6,
+   "end": 2502.74,
+   "text": "It is gone, gone, gone forever."
+  },
+  {
+   "t": 2502.74,
+   "end": 2505.78,
+   "text": "However, those preparations are irrevocably passed."
+  },
+  {
+   "t": 2507.08,
+   "end": 2513.88,
+   "text": "The film show actually becomes a film show thanks to that glue used by the audience,"
+  },
+  {
+   "t": 2514.84,
+   "end": 2515.76,
+   "text": "the glue of craving."
+  },
+  {
+   "t": 2516.32,
+   "end": 2520.18,
+   "text": "The Buddha has preached that this craving has three characteristics,"
+  },
+  {
+   "t": 2520.6,
+   "end": 2526.12,
+   "text": "namely, Pono Bhavika, Nandiraga Sahagata, and Tatra Tatra Abhinandini."
+  },
+  {
+   "t": 2526.98,
+   "end": 2533.66,
+   "text": "Pono Bhavika, as a characteristic of craving, means, in its broader sense, that it leads to re-becoming."
+  },
+  {
+   "t": 2534.3,
+   "end": 2540.84,
+   "text": "One might think that by re-becoming, only the connecting up of one existence in samsara with another is meant."
+  },
+  {
+   "t": 2541.22,
+   "end": 2542.56,
+   "text": "But that is not all."
+  },
+  {
+   "t": 2542.56,
+   "end": 2547.0,
+   "text": "It is craving that connects up one moment of existence with another."
+  },
+  {
+   "t": 2547.42,
+   "end": 2554.84,
+   "text": "One who is seeing a film show, for instance, connects up the first scene with the second in order to understand the latter."
+  },
+  {
+   "t": 2555.22,
+   "end": 2558.78,
+   "text": "And that is how one sees a film show and comes back and says,"
+  },
+  {
+   "t": 2558.78,
+   "end": 2560.38,
+   "text": "I have seen a film show."
+  },
+  {
+   "t": 2561.02,
+   "end": 2563.96,
+   "text": "All the scenes do not fall on the screen at once."
+  },
+  {
+   "t": 2564.18,
+   "end": 2566.04,
+   "text": "But a connecting up goes on."
+  },
+  {
+   "t": 2566.44,
+   "end": 2569.24,
+   "text": "That is the idea behind the term Pono Bhavika."
+  },
+  {
+   "t": 2569.54,
+   "end": 2575.54,
+   "text": "In this connecting up of one scene with another, there is an element of re-becoming or re-generation."
+  },
+  {
+   "t": 2576.2,
+   "end": 2578.34,
+   "text": "Then there is the term Nandiraga Sahagata."
+  },
+  {
+   "t": 2578.34,
+   "end": 2583.0,
+   "text": "This is the other additive which should be there for one to enjoy the film show."
+  },
+  {
+   "t": 2583.52,
+   "end": 2586.76,
+   "text": "It means the nature of delighting and getting attached."
+  },
+  {
+   "t": 2587.78,
+   "end": 2590.1,
+   "text": "Craving in particular is like a glue."
+  },
+  {
+   "t": 2590.66,
+   "end": 2594.46,
+   "text": "In fact, a synonym for it is Lepa, which means a glue."
+  },
+  {
+   "t": 2595.12,
+   "end": 2600.62,
+   "text": "Another synonym is Visattika, an adhesive or a sticky substance."
+  },
+  {
+   "t": 2601.64,
+   "end": 2606.14,
+   "text": "Even the word Raga or attachment already conveys this sense."
+  },
+  {
+   "t": 2606.74,
+   "end": 2610.58,
+   "text": "So, craving or desire glues the scenes together."
+  },
+  {
+   "t": 2611.24,
+   "end": 2618.1,
+   "text": "Then comes the term Tatra Tatra Abhinandini, the nature of delighting in particular, now here, now there."
+  },
+  {
+   "t": 2619.34,
+   "end": 2625.28,
+   "text": "It is in effect the association of one scene with another in order to make up a story out of it."
+  },
+  {
+   "t": 2625.58,
+   "end": 2628.3,
+   "text": "That is why we made the statement,"
+  },
+  {
+   "t": 2628.62,
+   "end": 2634.7,
+   "text": "So far not a single cinema has shown a film show and not a single theatre has held a drama."
+  },
+  {
+   "t": 2634.7,
+   "end": 2641.38,
+   "text": "But all the same, those who went to the cinema and the theatre witnessed a show and a drama."
+  },
+  {
+   "t": 2641.7,
+   "end": 2642.16,
+   "text": "How?"
+  },
+  {
+   "t": 2642.38,
+   "end": 2647.66,
+   "text": "They produced them or prepared them with their sticky defilements on their own."
+  },
+  {
+   "t": 2648.36,
+   "end": 2656.66,
+   "text": "Now in the same way, worldly beings create a film show of name and form on the screen of consciousness"
+  },
+  {
+   "t": 2656.66,
+   "end": 2659.68,
+   "text": "with the help of preparations or sankharas."
+  },
+  {
+   "t": 2660.4,
+   "end": 2663.44,
+   "text": "Name and form is a product of imagination."
+  },
+  {
+   "t": 2663.96,
+   "end": 2671.86,
+   "text": "What insight meditators, often referred to as reflection on name and form preparations, amounts to this."
+  },
+  {
+   "t": 2673.48,
+   "end": 2676.02,
+   "text": "Is there something real in name and form?"
+  },
+  {
+   "t": 2676.72,
+   "end": 2680.76,
+   "text": "In our very first sermon, we happen to say something on this point."
+  },
+  {
+   "t": 2681.18,
+   "end": 2686.74,
+   "text": "In the Dvaitanupasana Sutta of the Sutta Nipata, the Buddha gives utterance to the following verse."
+  },
+  {
+   "t": 2696.66,
+   "end": 2702.18,
+   "text": "Just see the world with all its gods, fancying a self where none exists."
+  },
+  {
+   "t": 2702.92,
+   "end": 2707.3,
+   "text": "Entraint in name and form it holds the conceit that this is real."
+  },
+  {
+   "t": 2708.18,
+   "end": 2715.24,
+   "text": "It is as if the Buddha is pinpointing the illusory and deceptive nature of name and form."
+  },
+  {
+   "t": 2715.76,
+   "end": 2721.92,
+   "text": "As we mentioned before, scenes fall on the cinema screen only one at a time."
+  },
+  {
+   "t": 2722.16,
+   "end": 2728.6,
+   "text": "But because of the rapidity of the movie film, it is difficult for one to be aware of this fact."
+  },
+  {
+   "t": 2729.22,
+   "end": 2736.86,
+   "text": "Now, in the case of a drama, the curtain goes down between acts and the audience waits for the curtain to go up."
+  },
+  {
+   "t": 2737.4,
+   "end": 2746.2,
+   "text": "But they wait ready with their glue to connect the previous act with the one to come to construct a drama."
+  },
+  {
+   "t": 2746.7,
+   "end": 2753.14,
+   "text": "By the time a certain scene falls on the cinema screen, the previous one is gone for good."
+  },
+  {
+   "t": 2753.9,
+   "end": 2756.04,
+   "text": "Scenes to follow have not yet come."
+  },
+  {
+   "t": 2756.04,
+   "end": 2760.8,
+   "text": "Whatever scene falls on the screen now will not stay there."
+  },
+  {
+   "t": 2761.02,
+   "end": 2765.06,
+   "text": "So what we have here is something illusory, a deceptive phenomenon."
+  },
+  {
+   "t": 2765.46,
+   "end": 2768.24,
+   "text": "Let us now consider an instance like this."
+  },
+  {
+   "t": 2769.1,
+   "end": 2777.54,
+   "text": "Sometimes we see a dog crossing a plank over a stream, stopping halfway through to gaze at the water below."
+  },
+  {
+   "t": 2777.54,
+   "end": 2785.98,
+   "text": "So, it wags its tail or growls or keeps on looking at and away from the water again and again."
+  },
+  {
+   "t": 2786.38,
+   "end": 2787.84,
+   "text": "Why does it do so?"
+  },
+  {
+   "t": 2789.02,
+   "end": 2794.0,
+   "text": "Seeing its own image in the water, it imagines that to be another dog."
+  },
+  {
+   "t": 2794.78,
+   "end": 2806.94,
+   "text": "So, it either wags its tail in a friendly way or growls angrily or else it keeps on stealing glances out of curiosity, love, hate and delusion."
+  },
+  {
+   "t": 2807.92,
+   "end": 2812.08,
+   "text": "In this case, the dog thinks that it is looking because it sees a dog."
+  },
+  {
+   "t": 2813.34,
+   "end": 2814.72,
+   "text": "But what is really happening?"
+  },
+  {
+   "t": 2815.3,
+   "end": 2818.76,
+   "text": "It is just because it is looking that it sees a dog."
+  },
+  {
+   "t": 2819.16,
+   "end": 2824.68,
+   "text": "If the dog had not looked down, it would not have seen a dog looking up at it from below."
+  },
+  {
+   "t": 2825.7,
+   "end": 2827.62,
+   "text": "That is to say, it is on image."
+  },
+  {
+   "t": 2827.92,
+   "end": 2835.72,
+   "text": "Now, it is precisely this sort of illusion that is going on with regard to this name and form, the preparations and sense perception."
+  },
+  {
+   "t": 2836.42,
+   "end": 2838.96,
+   "text": "Here lies the secret of dependent arising."
+  },
+  {
+   "t": 2839.48,
+   "end": 2848.18,
+   "text": "As a flashback to our film show, it may be added that if a film reel is played at a time when there is no spectator,"
+  },
+  {
+   "t": 2848.58,
+   "end": 2854.44,
+   "text": "no film show will be registered anywhere because there is no mind to put together."
+  },
+  {
+   "t": 2854.68,
+   "end": 2857.54,
+   "text": "It merely flashed on the screen."
+  },
+  {
+   "t": 2858.0,
+   "end": 2863.52,
+   "text": "But if someone had been there to receive it, to contact with his sense bases,"
+  },
+  {
+   "t": 2864.58,
+   "end": 2870.52,
+   "text": "that is to see with his eyes, hear with his ears and make mental contact with desire,"
+  },
+  {
+   "t": 2870.98,
+   "end": 2872.86,
+   "text": "then there comes to be a film show."
+  },
+  {
+   "t": 2874.2,
+   "end": 2876.62,
+   "text": "And so also in the case of a drama."
+  },
+  {
+   "t": 2876.62,
+   "end": 2885.16,
+   "text": "Film producers and dramatists think that the production of the film and the drama is solely their work."
+  },
+  {
+   "t": 2885.46,
+   "end": 2892.48,
+   "text": "But in the last analysis, it is the audience that gives the film and the drama the finishing touch"
+  },
+  {
+   "t": 2892.48,
+   "end": 2895.08,
+   "text": "to make them finish products."
+  },
+  {
+   "t": 2895.98,
+   "end": 2902.04,
+   "text": "Similarly, we tend to think that every object in the world exists in its own right."
+  },
+  {
+   "t": 2902.66,
+   "end": 2909.92,
+   "text": "But then this is what is called Sakkayadithi, the personality view, which carries with it the self-bias."
+  },
+  {
+   "t": 2910.6,
+   "end": 2915.54,
+   "text": "It is such a view that made the dog imagine that there is another dog in the water."
+  },
+  {
+   "t": 2916.22,
+   "end": 2919.92,
+   "text": "It imagined that the dog is there even when it is not looking."
+  },
+  {
+   "t": 2920.6,
+   "end": 2924.62,
+   "text": "It may have thought, I am looking because a dog appears there."
+  },
+  {
+   "t": 2924.92,
+   "end": 2929.44,
+   "text": "But the fact is that a dog appears there because it cares to look."
+  },
+  {
+   "t": 2930.52,
+   "end": 2935.04,
+   "text": "Here then we have a case of dependent arising or Paticca Samuppad."
+  },
+  {
+   "t": 2935.42,
+   "end": 2937.8,
+   "text": "The word Paticca has a very deep meaning."
+  },
+  {
+   "t": 2938.88,
+   "end": 2943.48,
+   "text": "The Buddha borrowed many words from the existing philosophical tradition in India."
+  },
+  {
+   "t": 2944.32,
+   "end": 2948.74,
+   "text": "Sometimes he infused new meanings into them and adapted them to his terminology."
+  },
+  {
+   "t": 2949.2,
+   "end": 2953.9,
+   "text": "But the term Paticca Samuppad is not to be found in any other philosophical system."
+  },
+  {
+   "t": 2955.08,
+   "end": 2958.5,
+   "text": "The special significance of the term lies in the word Paticca."
+  },
+  {
+   "t": 2958.84,
+   "end": 2963.54,
+   "text": "On a certain occasion, the Buddha himself gave a definition to this term Paticca Samuppad."
+  },
+  {
+   "t": 2963.96,
+   "end": 2969.36,
+   "text": "Now it is fairly well known that the Buddha declared that all this suffering is dependently arisen."
+  },
+  {
+   "t": 2969.36,
+   "end": 2973.62,
+   "text": "What then is to be understood by the word Dukkha or suffering?"
+  },
+  {
+   "t": 2974.12,
+   "end": 2979.68,
+   "text": "He defines it in terms of the five grasping groups or the five aggregates of clinging."
+  },
+  {
+   "t": 2979.98,
+   "end": 2981.76,
+   "text": "As it is said,"
+  },
+  {
+   "t": 2982.26,
+   "end": 2984.8,
+   "text": "Sankhitte na Panchapadana Khandha Dukkha"
+  },
+  {
+   "t": 2985.56,
+   "end": 2988.68,
+   "text": "In short, the five grasping groups is suffering."
+  },
+  {
+   "t": 2989.0,
+   "end": 2994.78,
+   "text": "So then, suffering or the five grasping groups is something dependently arisen."
+  },
+  {
+   "t": 2995.7,
+   "end": 2999.94,
+   "text": "In one discourse in the Nidana Sankhitte of the Sankhitte ni"
+  },
+  {
+   "t": 2999.94,
+   "end": 2999.98,
+   "text": "the Wound of the Sankhitte ni"
+  },
+  {
+   "t": 3000.0,
+   "end": 3003.62,
+   "text": "we find the buddha making the following significant statement"
+  },
+  {
+   "t": 3003.62,
+   "end": 3013.8,
+   "text": "I have declared that suffering is dependent to erison"
+  },
+  {
+   "t": 3013.8,
+   "end": 3017.48,
+   "text": "dependent on what? dependent on contact"
+  },
+  {
+   "t": 3017.48,
+   "end": 3023.56,
+   "text": "so from this statement also it is clear that the five groups of grasping arise because of contact"
+  },
+  {
+   "t": 3023.56,
+   "end": 3027.28,
+   "text": "that is by contacting through the six bases"
+  },
+  {
+   "t": 3027.28,
+   "end": 3031.78,
+   "text": "considered in this way a thing is called dependently erison"
+  },
+  {
+   "t": 3031.78,
+   "end": 3035.78,
+   "text": "because it arises on being touched by the six sense bases"
+  },
+  {
+   "t": 3035.78,
+   "end": 3039.78,
+   "text": "that is why it is called anicca or impermanent"
+  },
+  {
+   "t": 3039.78,
+   "end": 3045.3,
+   "text": "the film show for instance was not something already made or ready made"
+  },
+  {
+   "t": 3045.3,
+   "end": 3048.06,
+   "text": "it arose due to contact"
+  },
+  {
+   "t": 3048.06,
+   "end": 3051.5,
+   "text": "the phrase saṅkhataṁ patichasam upannam"
+  },
+  {
+   "t": 3051.5,
+   "end": 3053.62,
+   "text": "prepared and dependently erison"
+  },
+  {
+   "t": 3053.62,
+   "end": 3058.06,
+   "text": "suggests that the prepared nature is also due to that contact"
+  },
+  {
+   "t": 3058.06,
+   "end": 3061.88,
+   "text": "it seems that what is called abhisankhata vinyana"
+  },
+  {
+   "t": 3061.88,
+   "end": 3063.82,
+   "text": "specifically prepared consciousness"
+  },
+  {
+   "t": 3063.82,
+   "end": 3065.96,
+   "text": "is that sort of consciousness"
+  },
+  {
+   "t": 3065.96,
+   "end": 3069.24,
+   "text": "which gets attached to name and form"
+  },
+  {
+   "t": 3069.24,
+   "end": 3071.32,
+   "text": "when one sees a film show"
+  },
+  {
+   "t": 3071.32,
+   "end": 3074.48,
+   "text": "one interprets a scene appearing on the screen"
+  },
+  {
+   "t": 3074.48,
+   "end": 3077.48,
+   "text": "according to one's likes and dislikes"
+  },
+  {
+   "t": 3077.48,
+   "end": 3080.4,
+   "text": "it becomes a thing of experience for him"
+  },
+  {
+   "t": 3080.4,
+   "end": 3083.64,
+   "text": "similarly by imagining a self in name and form"
+  },
+  {
+   "t": 3083.64,
+   "end": 3086.08,
+   "text": "consciousness gets attached to it"
+  },
+  {
+   "t": 3086.08,
+   "end": 3088.02,
+   "text": "it is such a consciousness"
+  },
+  {
+   "t": 3088.02,
+   "end": 3090.38,
+   "text": "which is established on name and form"
+  },
+  {
+   "t": 3090.38,
+   "end": 3093.08,
+   "text": "that is known as abhisankhata vinyana"
+  },
+  {
+   "t": 3093.62,
+   "end": 3096.02,
+   "text": "then could there be also a consciousness"
+  },
+  {
+   "t": 3096.02,
+   "end": 3098.86,
+   "text": "which does not reflect a name and form on it"
+  },
+  {
+   "t": 3098.86,
+   "end": 3100.38,
+   "text": "yes there could be"
+  },
+  {
+   "t": 3100.38,
+   "end": 3103.24,
+   "text": "that is what is known as anidassana vinyana"
+  },
+  {
+   "t": 3103.24,
+   "end": 3104.96,
+   "text": "or non-manifestative consciousness"
+  },
+  {
+   "t": 3104.96,
+   "end": 3111.06,
+   "text": "this brings us to an extremely abstruse topic in this dhamma"
+  },
+  {
+   "t": 3111.06,
+   "end": 3114.82,
+   "text": "there is a very deep verse occurring at the end of"
+  },
+  {
+   "t": 3115.94,
+   "end": 3116.74,
+   "text": "Kewadhasuttwapnatihinikaya"
+  },
+  {
+   "t": 3116.74,
+   "end": 3120.9,
+   "text": "which has been variously interpreted by scholars"
+  },
+  {
+   "t": 3120.9,
+   "end": 3122.92,
+   "text": "both eastern and western"
+  },
+  {
+   "t": 3122.92,
+   "end": 3124.46,
+   "text": "it runs"
+  },
+  {
+   "t": 3142.18,
+   "end": 3147.28,
+   "text": "The commentary advances several interpretations to this verse"
+  },
+  {
+   "t": 3147.28,
+   "end": 3150.28,
+   "text": "being unable to give one definite meaning"
+  },
+  {
+   "t": 3150.28,
+   "end": 3151.54,
+   "text": "it suggests several"
+  },
+  {
+   "t": 3152.28,
+   "end": 3152.72,
+   "text": "however"
+  },
+  {
+   "t": 3153.28,
+   "end": 3156.78,
+   "text": "since we have developed a certain mode of interpretation so far"
+  },
+  {
+   "t": 3156.78,
+   "end": 3159.36,
+   "text": "we propose to give preference to it"
+  },
+  {
+   "t": 3159.36,
+   "end": 3162.02,
+   "text": "before getting down to the commentarial interpretation"
+  },
+  {
+   "t": 3162.68,
+   "end": 3165.34,
+   "text": "now let us see whether our mode of interpretation"
+  },
+  {
+   "t": 3165.34,
+   "end": 3167.0,
+   "text": "can make this verse meaningful"
+  },
+  {
+   "t": 3167.84,
+   "end": 3168.98,
+   "text": "first of all"
+  },
+  {
+   "t": 3168.98,
+   "end": 3171.68,
+   "text": "we have to trace the circumstances"
+  },
+  {
+   "t": 3172.28,
+   "end": 3176.28,
+   "text": "which provide the setting for this verse in the Kewadhasuttwapnatih"
+  },
+  {
+   "t": 3176.28,
+   "end": 3180.36,
+   "text": "the Buddha brings out a past episode relating to the company of monks"
+  },
+  {
+   "t": 3181.14,
+   "end": 3183.38,
+   "text": "a certain monk conceived the riddle"
+  },
+  {
+   "t": 3183.38,
+   "end": 3186.04,
+   "text": "where do these four great primaries"
+  },
+  {
+   "t": 3186.04,
+   "end": 3187.62,
+   "text": "earth, water, fire and air"
+  },
+  {
+   "t": 3187.62,
+   "end": 3188.52,
+   "text": "cease altogether"
+  },
+  {
+   "t": 3189.36,
+   "end": 3192.4,
+   "text": "he did not approach the Buddha with this problem"
+  },
+  {
+   "t": 3192.4,
+   "end": 3195.98,
+   "text": "probably because he thought that somewhere in this world system"
+  },
+  {
+   "t": 3196.62,
+   "end": 3199.36,
+   "text": "those four elements could cease"
+  },
+  {
+   "t": 3199.36,
+   "end": 3201.02,
+   "text": "so what did he do"
+  },
+  {
+   "t": 3201.02,
+   "end": 3202.66,
+   "text": "as he had psychic powers"
+  },
+  {
+   "t": 3202.66,
+   "end": 3204.08,
+   "text": "he went from heaven to heaven"
+  },
+  {
+   "t": 3204.08,
+   "end": 3206.34,
+   "text": "and Brahma realm to Brahma realm"
+  },
+  {
+   "t": 3206.34,
+   "end": 3209.26,
+   "text": "asking the gods and Brahmas his question"
+  },
+  {
+   "t": 3209.26,
+   "end": 3212.78,
+   "text": "where do these four primaries cease?"
+  },
+  {
+   "t": 3213.64,
+   "end": 3216.68,
+   "text": "none among the gods and Brahmas could answer"
+  },
+  {
+   "t": 3216.68,
+   "end": 3218.04,
+   "text": "in the end"
+  },
+  {
+   "t": 3218.04,
+   "end": 3219.06,
+   "text": "Mahabrahma himself"
+  },
+  {
+   "t": 3219.62,
+   "end": 3220.36,
+   "text": "asked him"
+  },
+  {
+   "t": 3220.36,
+   "end": 3221.84,
+   "text": "why he took the trouble"
+  },
+  {
+   "t": 3221.84,
+   "end": 3223.48,
+   "text": "to come all the way there"
+  },
+  {
+   "t": 3224.04,
+   "end": 3226.34,
+   "text": "when he could have easily consulted the Buddha"
+  },
+  {
+   "t": 3227.1,
+   "end": 3229.02,
+   "text": "then that monk approached the Buddha"
+  },
+  {
+   "t": 3229.02,
+   "end": 3230.44,
+   "text": "and put the riddle to him"
+  },
+  {
+   "t": 3231.74,
+   "end": 3234.68,
+   "text": "but before answering the riddle"
+  },
+  {
+   "t": 3234.68,
+   "end": 3237.18,
+   "text": "the Buddha recommended a restatement of it"
+  },
+  {
+   "t": 3237.18,
+   "end": 3237.68,
+   "text": "saying"
+  },
+  {
+   "t": 3237.68,
+   "end": 3238.18,
+   "text": "monk"
+  },
+  {
+   "t": 3238.18,
+   "end": 3240.12,
+   "text": "that is not the way you should put it"
+  },
+  {
+   "t": 3240.7,
+   "end": 3242.74,
+   "text": "you should have worded it differently"
+  },
+  {
+   "t": 3243.74,
+   "end": 3244.88,
+   "text": "now that means"
+  },
+  {
+   "t": 3244.88,
+   "end": 3246.64,
+   "text": "that the question is wrongly put"
+  },
+  {
+   "t": 3247.64,
+   "end": 3249.1,
+   "text": "it is incorrect"
+  },
+  {
+   "t": 3249.88,
+   "end": 3250.72,
+   "text": "to ask"
+  },
+  {
+   "t": 3250.72,
+   "end": 3253.42,
+   "text": "where the four great primaries cease"
+  },
+  {
+   "t": 3253.42,
+   "end": 3256.52,
+   "text": "there is a particular way of wording it"
+  },
+  {
+   "t": 3256.52,
+   "end": 3260.18,
+   "text": "and this is how the Buddha reformulated that riddle"
+  },
+  {
+   "t": 3260.88,
+   "end": 3264.68,
+   "text": "Katha apoch pathavi tejo vayona gadhati"
+  },
+  {
+   "t": 3264.68,
+   "end": 3268.08,
+   "text": "Katha dighancha rashancha anunthulang subhasubham"
+  },
+  {
+   "t": 3268.88,
+   "end": 3271.86,
+   "text": "Katha namancharupanch asesang uparujhati"
+  },
+  {
+   "t": 3272.7,
+   "end": 3276.9,
+   "text": "where do earth and water, fire and wind, no footing find"
+  },
+  {
+   "t": 3276.9,
+   "end": 3282.06,
+   "text": "where is it that long and short, fine and coarse, pleasant and unpleasant"
+  },
+  {
+   "t": 3282.06,
+   "end": 3284.9,
+   "text": "as well as name and form are held in check"
+  },
+  {
+   "t": 3284.9,
+   "end": 3286.34,
+   "text": "in a way complete"
+  },
+  {
+   "t": 3287.06,
+   "end": 3290.68,
+   "text": "here the Buddha introduces a phrase of special significance"
+  },
+  {
+   "t": 3290.68,
+   "end": 3291.7,
+   "text": "nagadhati"
+  },
+  {
+   "t": 3291.7,
+   "end": 3293.44,
+   "text": "does not find a footing"
+  },
+  {
+   "t": 3293.44,
+   "end": 3296.86,
+   "text": "so the question as restated means"
+  },
+  {
+   "t": 3296.86,
+   "end": 3300.36,
+   "text": "where do the four primaries do not get a footing"
+  },
+  {
+   "t": 3300.36,
+   "end": 3304.62,
+   "text": "the question then is not about a cessation of the four primaries"
+  },
+  {
+   "t": 3304.62,
+   "end": 3306.52,
+   "text": "it is not a question of"
+  },
+  {
+   "t": 3306.52,
+   "end": 3310.58,
+   "text": "the cessation somewhere in the world or in the world system"
+  },
+  {
+   "t": 3312.06,
+   "end": 3314.62,
+   "text": "the correct way to put it is to ask"
+  },
+  {
+   "t": 3314.62,
+   "end": 3317.44,
+   "text": "where the four great primaries do not find a footing"
+  },
+  {
+   "t": 3317.44,
+   "end": 3321.2,
+   "text": "the Buddha adds that it may also be asked"
+  },
+  {
+   "t": 3322.24,
+   "end": 3325.7,
+   "text": "where long and short, fine and coarse, pleasant and unpleasant"
+  },
+  {
+   "t": 3326.34,
+   "end": 3329.78,
+   "text": "as well as name and form are held in check completely"
+  },
+  {
+   "t": 3330.44,
+   "end": 3333.18,
+   "text": "the word uparujhati means holding in check"
+  },
+  {
+   "t": 3334.16,
+   "end": 3336.54,
+   "text": "having first re-formulated the question"
+  },
+  {
+   "t": 3336.54,
+   "end": 3338.46,
+   "text": "the Buddha gave the answer to it"
+  },
+  {
+   "t": 3338.46,
+   "end": 3340.34,
+   "text": "in the verse previously quoted"
+  },
+  {
+   "t": 3341.06,
+   "end": 3343.92,
+   "text": "let us now try to get at the meaning of this verse"
+  },
+  {
+   "t": 3343.92,
+   "end": 3346.66,
+   "text": "we shall not translate at the very outset"
+  },
+  {
+   "t": 3346.66,
+   "end": 3349.08,
+   "text": "the first two lines of the verse"
+  },
+  {
+   "t": 3349.08,
+   "end": 3352.0,
+   "text": "vinyanam anidassanam anantam sabbatopabha"
+  },
+  {
+   "t": 3352.7,
+   "end": 3355.34,
+   "text": "these two lines convey a very deep meaning"
+  },
+  {
+   "t": 3355.34,
+   "end": 3357.4,
+   "text": "therefore to start with"
+  },
+  {
+   "t": 3357.4,
+   "end": 3359.66,
+   "text": "we shall take the expression as it is"
+  },
+  {
+   "t": 3359.66,
+   "end": 3362.02,
+   "text": "and explain its relation to what follows"
+  },
+  {
+   "t": 3362.7,
+   "end": 3364.22,
+   "text": "it is in this consciousness"
+  },
+  {
+   "t": 3364.22,
+   "end": 3366.5,
+   "text": "which is qualified by the terms"
+  },
+  {
+   "t": 3366.5,
+   "end": 3369.32,
+   "text": "anidassanam anantam and sabbatopabha"
+  },
+  {
+   "t": 3370.04,
+   "end": 3373.22,
+   "text": "that earth, water, fire and air do not find a footing"
+  },
+  {
+   "t": 3373.22,
+   "end": 3375.5,
+   "text": "also it is in this consciousness"
+  },
+  {
+   "t": 3375.5,
+   "end": 3377.46,
+   "text": "that long and short, fine and coarse"
+  },
+  {
+   "t": 3377.46,
+   "end": 3378.64,
+   "text": "and present and unpleasant"
+  },
+  {
+   "t": 3378.64,
+   "end": 3380.58,
+   "text": "as well as name and form"
+  },
+  {
+   "t": 3381.18,
+   "end": 3382.4,
+   "text": "are kept in check"
+  },
+  {
+   "t": 3383.2,
+   "end": 3385.3,
+   "text": "it is by the cessation of consciousness"
+  },
+  {
+   "t": 3385.3,
+   "end": 3387.98,
+   "text": "that all these are held in check"
+  },
+  {
+   "t": 3390.92,
+   "end": 3392.24,
+   "text": "dear listeners"
+  },
+  {
+   "t": 3392.24,
+   "end": 3395.02,
+   "text": "it is our sincere wish"
+  },
+  {
+   "t": 3395.02,
+   "end": 3397.36,
+   "text": "to make these sermons accessible"
+  },
+  {
+   "t": 3397.36,
+   "end": 3398.86,
+   "text": "free of charge"
+  },
+  {
+   "t": 3398.86,
+   "end": 3401.88,
+   "text": "to all who like to listen to them"
+  },
+  {
+   "t": 3401.88,
+   "end": 3404.76,
+   "text": "because the gift of the Dhamma"
+  },
+  {
+   "t": 3405.3,
+   "end": 3407.52,
+   "text": "excels all other gift"
+  },
+  {
+   "t": 3408.32,
+   "end": 3412.04,
+   "text": "we therefore encourage you to copy these sermons"
+  },
+  {
+   "t": 3412.04,
+   "end": 3413.86,
+   "text": "and share them with others"
+  },
+  {
+   "t": 3413.86,
+   "end": 3415.62,
+   "text": "but kindly note"
+  },
+  {
+   "t": 3415.62,
+   "end": 3418.84,
+   "text": "that they should not be reproduced for sale"
+  },
+  {
+   "t": 3418.84,
+   "end": 3422.94,
+   "text": "may the blessings of the triple gem be with you"
+  }
+ ]
+}

@@ -18,20 +18,20 @@
   "ismotto": false
  },
  {
-  "lec": 18,
-  "start": 1252.4,
-  "end": 1274.6,
-  "grade": "A",
-  "dur": 22.2,
-  "ci": 5,
-  "ismotto": false
- },
- {
   "lec": 23,
   "start": 1028.8,
   "end": 1065.5,
   "grade": "A",
   "dur": 36.7,
+  "ci": 5,
+  "ismotto": false
+ },
+ {
+  "lec": 18,
+  "start": 1252.4,
+  "end": 1274.6,
+  "grade": "A",
+  "dur": 22.2,
   "ci": 5,
   "ismotto": false
  },

@@ -68,7 +68,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.7
  },
  {
   "t": "verbatim",
@@ -93,7 +93,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.4
  },
  {
   "t": "verbatim",
@@ -118,7 +118,32 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.0
+ },
+ {
+  "t": "verbatim",
+  "text": "First: up, up, up, then: down, down, down, and then: up down, up down,\nup down. The third combined movement ensures that those parts of the\nblade still untouched by the stone will also get duly sharpened.",
+  "sermon": 5
+ },
+ {
+  "t": "fish",
+  "beat": 8,
+  "say": "The third combined movement ensures that those parts of the blade still untouched by the stone will also get duly sharpened."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 5,
+  "start": 410.3,
+  "end": 489.0,
+  "dur": 78.7
+ },
+ {
+  "t": "water",
+  "dur": 3.8
  },
  {
   "t": "verbatim",
@@ -143,7 +168,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.4
  },
  {
   "t": "verbatim",
@@ -168,7 +193,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.6
  },
  {
   "t": "verbatim",
@@ -198,32 +223,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
- },
- {
-  "t": "verbatim",
-  "text": "First: up, up, up, then: down, down, down, and then: up down, up down,\nup down. The third combined movement ensures that those parts of the\nblade still untouched by the stone will also get duly sharpened.",
-  "sermon": 5
- },
- {
-  "t": "fish",
-  "beat": 8,
-  "say": "The third combined movement ensures that those parts of the blade still untouched by the stone will also get duly sharpened."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 5,
-  "start": 410.3,
-  "end": 489.0,
-  "dur": 78.7
- },
- {
-  "t": "water",
-  "dur": 2.5
+  "dur": 3.8
  },
  {
   "t": "verbatim",
@@ -248,7 +248,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.1
  },
  {
   "t": "verbatim",
@@ -283,7 +283,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.7
  },
  {
   "t": "verbatim",
@@ -308,7 +308,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.5
  },
  {
   "t": "verbatim",
@@ -333,7 +333,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.5
  },
  {
   "t": "verbatim",
@@ -358,7 +358,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.2
  },
  {
   "t": "verbatim",
@@ -383,9 +383,15 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.5
  },
  {
   "t": "zoom-bell"
+ },
+ {
+  "t": "pause",
+  "dur": 6.0,
+  "role": "settle",
+  "note": "section boundary stillness after zoom-bell"
  }
 ]

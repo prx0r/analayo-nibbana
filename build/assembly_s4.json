@@ -63,7 +63,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.1
  },
  {
   "t": "verbatim",
@@ -88,7 +88,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.1
  },
  {
   "t": "verbatim",
@@ -113,7 +113,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.0
  },
  {
   "t": "verbatim",
@@ -138,9 +138,15 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.8
  },
  {
   "t": "zoom-bell"
+ },
+ {
+  "t": "pause",
+  "dur": 6.0,
+  "role": "settle",
+  "note": "section boundary stillness after zoom-bell"
  }
 ]

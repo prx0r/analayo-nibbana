@@ -106,3 +106,19 @@ the finding.
 **RULE:** a conclusion needs the full window (or the whole artifact),
 read once properly. Truncations are for locating, never for judging.
 Count before writing any number into a doc.
+
+## R9 — Verifying proxies instead of content
+**Evidence:** p0 shipped 99.9%-silent audio verified SIX ways that all
+passed: integrated LUFS on target, decode exit 0, CBR sizes correct,
+byte-identical re-downloads, HTTP 200s, range requests 206. The user heard
+a 30ms blip + hiss (M-R1/R2). Same class as R4 (notes-as-proof) and R5
+(green-on-clean-data): the check measured something correlated with the
+claim instead of the claim.
+**Why:** loudness/size/decodability are cheap and feel rigorous; content
+audibility needs volumedetect per slice, which nobody ran until the ear
+complained.
+**RULE:** every stage asserts the PROPERTY IT CLAIMS, on the ARTIFACT IT
+SHIPS: audio stages assert peak energy per slice (assert_audible aborts
+the render); provenance asserts substrings (G5); TTS asserts detection of
+a canary (G6b). A green proxy metric next to an unmeasured property =
+the check is void. Name the property in the gate's docstring.

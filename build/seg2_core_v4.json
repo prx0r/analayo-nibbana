@@ -81,21 +81,21 @@
   "ismotto": false
  },
  {
-  "lec": 3,
-  "start": 2906.5,
-  "end": 2994.7,
-  "grade": "A",
-  "dur": 88.2,
-  "ci": 8,
-  "ismotto": false
- },
- {
   "lec": 4,
   "start": 4313.4,
   "end": 4374.2,
   "grade": "A",
   "dur": 60.8,
   "ci": 10,
+  "ismotto": false
+ },
+ {
+  "lec": 3,
+  "start": 2906.5,
+  "end": 2994.7,
+  "grade": "A",
+  "dur": 88.2,
+  "ci": 8,
   "ismotto": false
  },
  {

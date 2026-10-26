@@ -37,6 +37,15 @@
  },
  {
   "lec": 5,
+  "start": 410.3,
+  "end": 489.0,
+  "grade": "A",
+  "dur": 78.7,
+  "ci": 4,
+  "ismotto": false
+ },
+ {
+  "lec": 5,
   "start": 4160.0,
   "end": 4273.3,
   "grade": "A",
@@ -60,15 +69,6 @@
   "grade": "A",
   "dur": 77.8,
   "ci": 3,
-  "ismotto": false
- },
- {
-  "lec": 5,
-  "start": 410.3,
-  "end": 489.0,
-  "grade": "A",
-  "dur": 78.7,
-  "ci": 4,
   "ismotto": false
  },
  {

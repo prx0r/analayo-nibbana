@@ -1,0 +1,2407 @@
+{
+ "source": "/root/analayo-nibbana/sermon-audio/Nibbana_Stilled_10.mp3",
+ "duration": 3353.469388,
+ "engine": "cf-whisper-large-v3-turbo",
+ "sentences": [
+  {
+   "t": 0.0,
+   "end": 15.5,
+   "text": "The 33 sermons on Nibbana were delivered by the Venerable Bhikkhu Katukurunde Jnanananda in Sinhala at Mitrigala Nisarana Vinaya Forest Hermitage."
+  },
+  {
+   "t": 15.84,
+   "end": 28.4,
+   "text": "They were translated into English by the same Venerable monk, presently residing at Potkulkala Forest Hermitage in Khandagedra Devalagam."
+  },
+  {
+   "t": 30.62,
+   "end": 33.4,
+   "text": "Nibbana, Sermon No. 10"
+  },
+  {
+   "t": 33.4,
+   "end": 41.56,
+   "text": "Namotas bhagavato arahato sammha sambudhase"
+  },
+  {
+   "t": 41.56,
+   "end": 49.48,
+   "text": "Namotas bhagavato arahato sammha sambudhase"
+  },
+  {
+   "t": 49.48,
+   "end": 57.7,
+   "text": "Namotas bhagavato arahato sammha sambudhase"
+  },
+  {
+   "t": 72.2,
+   "end": 85.9,
+   "text": "This is peaceful, this is excellent, namely the stealing of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessation, extinction."
+  },
+  {
+   "t": 87.48,
+   "end": 115.88,
+   "text": "With the permission of the most venerable great preceptor and the assembly of the venerable meditative monks, with the help of a parable based on the problem of the gem in Umagyajataka, we made an attempt towards the end of our last sermon to clarify to some extent how the personality view arises due to the ignorance of the fact that name and form is something reflected on content."
+  },
+  {
+   "t": 117.92,
+   "end": 137.96,
+   "text": "We mentioned in brief how a certain would be wise man took the trouble to empty a pond and even dig out the mud under the impression that there is actually a gem in it simply because there appeared to be a gem in the pond."
+  },
+  {
+   "t": 139.02,
+   "end": 161.2,
+   "text": "Similarly, by taking to be real name and form, which is only an image reflected on consciousness leading to a personality view, sakkaya ditthi, both eternalism and nihilism based on the two weaves of existence and non-existence tended towards two extremes."
+  },
+  {
+   "t": 161.2,
+   "end": 171.58,
+   "text": "Under the influence of self-love, eternalism took up the view that there is a self and looked forward to its perpetuation."
+  },
+  {
+   "t": 172.26,
+   "end": 184.7,
+   "text": "Prompted by self-hate, annihilationism or nihilism cherished the fond hope that the release from this self will occur at death."
+  },
+  {
+   "t": 185.6,
+   "end": 192.74,
+   "text": "Both these extreme fears confused the issue by not understanding the reflected image as such."
+  },
+  {
+   "t": 193.06,
+   "end": 199.12,
+   "text": "Now how did the middle path which the Buddha introduced to the world avoid these two extremes?"
+  },
+  {
+   "t": 199.88,
+   "end": 209.7,
+   "text": "It is by offering a knowledge and vision of things as they are, yatha-bhuta-nyana-dastana, in place of those two weaves of existence and non-existence."
+  },
+  {
+   "t": 209.98,
+   "end": 219.48,
+   "text": "In other words, he made known to the world the true knowledge and vision that name and form is merely an image reflected on consciousness."
+  },
+  {
+   "t": 220.16,
+   "end": 223.72,
+   "text": "There is a special significance in the word yatha-bhuta."
+  },
+  {
+   "t": 224.2,
+   "end": 233.06,
+   "text": "In contradistinction to the two words bhava and vibhava, the word bhuta has some peculiarity of its own."
+  },
+  {
+   "t": 233.74,
+   "end": 246.72,
+   "text": "In order to clarify the meaning of the term yatha-bhuta, we can draw upon a discourse in the iti-buddhaka, a few lines of which we had already quoted at the end of the previous sermon."
+  },
+  {
+   "t": 249.06,
+   "end": 260.06,
+   "text": "When presented in full, that discourse will make it clear why the Buddha introduced the word bhuta in preference to the existing usage in terms of bhava and vibhava."
+  },
+  {
+   "t": 260.06,
+   "end": 263.08,
+   "text": "This is how that discourse presides."
+  },
+  {
+   "t": 263.08,
+   "end": 271.78,
+   "text": "This is how that discourse is."
+  },
+  {
+   "t": 281.94,
+   "end": 298.48,
+   "text": "This is how that discourse is."
+  },
+  {
+   "t": 327.12,
+   "end": 327.46,
+   "text": "This is how that discourse is."
+  },
+  {
+   "t": 337.9,
+   "end": 345.4,
+   "text": "Obsessed by two thieves monks are gods and men, some of whom lag behind while others overreach."
+  },
+  {
+   "t": 345.4,
+   "end": 349.44,
+   "text": "Only they do see that have eyes to see."
+  },
+  {
+   "t": 349.98,
+   "end": 352.46,
+   "text": "How monks do some lag behind?"
+  },
+  {
+   "t": 353.3,
+   "end": 356.76,
+   "text": "Gods and men, monks delight in existence."
+  },
+  {
+   "t": 356.76,
+   "end": 359.1,
+   "text": "They are attached to existence."
+  },
+  {
+   "t": 359.56,
+   "end": 361.28,
+   "text": "They rejoice in existence."
+  },
+  {
+   "t": 361.8,
+   "end": 374.78,
+   "text": "When dhamma is being preached to them for the cessation of existence, their minds do not reach out towards it, do not get pleased in it, do not get steadied in it, do not rest confident with it."
+  },
+  {
+   "t": 374.78,
+   "end": 377.46,
+   "text": "It is thus that some lag behind."
+  },
+  {
+   "t": 377.82,
+   "end": 378.12,
+   "text": "It is thus that some lag behind."
+  },
+  {
+   "t": 378.66,
+   "end": 381.02,
+   "text": "How monks do some overreach?"
+  },
+  {
+   "t": 381.02,
+   "end": 388.14,
+   "text": "Being troubled, being troubled, being troubled, being troubled, and disgusted of existence as such, some delight in non-existence."
+  },
+  {
+   "t": 388.14,
+   "end": 399.32,
+   "text": "Since this self at the breaking of this body after death will be annihilated and destroyed, this is peace, this is excellent, this is how it should be."
+  },
+  {
+   "t": 399.32,
+   "end": 402.1,
+   "text": "Thus monks do some overreach."
+  },
+  {
+   "t": 402.38,
+   "end": 402.88,
+   "text": "Thus monks do some overreach."
+  },
+  {
+   "t": 402.88,
+   "end": 405.1,
+   "text": "And how monks do those with eyes see?"
+  },
+  {
+   "t": 405.64,
+   "end": 409.26,
+   "text": "Herein a monk sees the become as become."
+  },
+  {
+   "t": 409.66,
+   "end": 419.54,
+   "text": "Having seen the become as become, he is treading the path towards dejection, dispassion, and cessation regarding becoming."
+  },
+  {
+   "t": 419.54,
+   "end": 423.6,
+   "text": "Thus it is monks that those with eyes see."
+  },
+  {
+   "t": 424.46,
+   "end": 431.8,
+   "text": "This passage clearly brings out the extreme nature of those two waves of existence and non-existence."
+  },
+  {
+   "t": 432.06,
+   "end": 440.4,
+   "text": "The two verses occurring at the end of this sutra present the gist of the discourse even more clearly."
+  },
+  {
+   "t": 459.44,
+   "end": 470.32,
+   "text": "Those who have seen the become as become, as well as the going beyond of whatever has become, are released in regard to things as they are,"
+  },
+  {
+   "t": 471.08,
+   "end": 474.02,
+   "text": "by the exhaustion of craving for becoming."
+  },
+  {
+   "t": 474.52,
+   "end": 488.28,
+   "text": "That monk who has fully comprehended the become, who is devoid of craving for continuous becoming, by the discontinuation of what has become, will not come back again to a state of becoming."
+  },
+  {
+   "t": 488.28,
+   "end": 500.62,
+   "text": "Now it is extremely clear, even from the quotation as it stands, that the Buddha has interposed this word Bhuta between the decotonous terms Bhava and Vibhava."
+  },
+  {
+   "t": 501.44,
+   "end": 508.96,
+   "text": "In the contemporary society, these two terms were used to denote the existence and destruction of a sort."
+  },
+  {
+   "t": 508.96,
+   "end": 522.92,
+   "text": "This usage is clearly revealed by some discourses in which those who held on to similar waves express them in such terms as Bhavisāmi and Nabhavisāmi or in terms of Bhavisāmi and Vibhavisāmi."
+  },
+  {
+   "t": 523.58,
+   "end": 531.4,
+   "text": "These expressions, meaning I will be and I will not be, carry with them an implication of a person or self."
+  },
+  {
+   "t": 532.04,
+   "end": 539.48,
+   "text": "The term Bhuta, on the other hand, is not amenable to such a usage. It has the passive sense of something that has become."
+  },
+  {
+   "t": 539.48,
+   "end": 545.94,
+   "text": "Like that reflection mentioned earlier, it conveys the idea of being produced by causes and conditions."
+  },
+  {
+   "t": 546.62,
+   "end": 558.7,
+   "text": "Going by the analogy of the reflected image mentioned above, the eternalist, because of his narcissistic self-love, gets attached to his own self-image and lags behind."
+  },
+  {
+   "t": 558.7,
+   "end": 568.4,
+   "text": "When the Buddha preaches the Dhamma for the cessation of existence, he shrinks from fear that it would lead to the destruction of his self."
+  },
+  {
+   "t": 568.62,
+   "end": 574.54,
+   "text": "It is like the narcissistic attempt to embrace one's own image in water out of self-love."
+  },
+  {
+   "t": 574.86,
+   "end": 583.56,
+   "text": "The annihilationist view leads to an attitude of escapism like that of one who is obsessed by his own shadow."
+  },
+  {
+   "t": 584.34,
+   "end": 587.26,
+   "text": "One cannot outstrip one's own shadow."
+  },
+  {
+   "t": 587.96,
+   "end": 589.8,
+   "text": "It is only a way inattempt."
+  },
+  {
+   "t": 590.06,
+   "end": 597.46,
+   "text": "So also is the fond hope of the nihilist that by simply negating self, one can be free from repeated birth."
+  },
+  {
+   "t": 598.32,
+   "end": 599.98,
+   "text": "It turns out to be..."
+  },
+  {
+   "t": 600.0,
+   "end": 613.18,
+   "text": "Mere wishful thinking, because simply by virtue of the view I shall not be, after death, one cannot win delurance, so long as such defilements like ignorance and craving are there."
+  },
+  {
+   "t": 613.94,
+   "end": 621.34,
+   "text": "These were the two extremes towards which those two dogmatic fears of eternalism and annihilationism tended."
+  },
+  {
+   "t": 621.88,
+   "end": 629.42,
+   "text": "By introducing the term Bhuta, the Buddha made it known that the five groups are the product of causes and conditions."
+  },
+  {
+   "t": 630.0,
+   "end": 631.54,
+   "text": "That they are conditionally arisen."
+  },
+  {
+   "t": 631.94,
+   "end": 636.54,
+   "text": "In the Ichibuttaka for instance, one comes across the following significant lines."
+  },
+  {
+   "t": 637.44,
+   "end": 640.98,
+   "text": "Jyataṁ bhūtaṁ samukpannam, kataṁ saṅkhaṁ kataṁ madhuvaṁ."
+  },
+  {
+   "t": 641.36,
+   "end": 645.28,
+   "text": "The reference here is to the five groups of grasping."
+  },
+  {
+   "t": 646.18,
+   "end": 654.66,
+   "text": "They are born, become, arisen, that is, conditionally arisen, made up, prepared, and unstable."
+  },
+  {
+   "t": 655.06,
+   "end": 658.04,
+   "text": "These words are suggestive of some artificiality."
+  },
+  {
+   "t": 658.04,
+   "end": 663.24,
+   "text": "The word adhuvāṁ brings out their impermanence and insubstantiality."
+  },
+  {
+   "t": 663.6,
+   "end": 667.2,
+   "text": "There is no eternal essence like sat or being."
+  },
+  {
+   "t": 667.56,
+   "end": 670.54,
+   "text": "It is merely a self-image, a reflection."
+  },
+  {
+   "t": 670.98,
+   "end": 678.54,
+   "text": "So it seems that the word bhuta has connotations of being a product of causes and conditions."
+  },
+  {
+   "t": 678.54,
+   "end": 689.68,
+   "text": "Therefore, in spite of the scare it has aroused in the soul theorists, Nibbāna is not something that destroys a truly existing entity."
+  },
+  {
+   "t": 689.68,
+   "end": 703.56,
+   "text": "Though Nibbāna is called bhavanirodha, cessation of existence, according to the outlook of the Buddha, the worldlings have merely a craving for existence, bhavatanna, and not a real existence."
+  },
+  {
+   "t": 703.92,
+   "end": 706.16,
+   "text": "It is only a conceit of existence."
+  },
+  {
+   "t": 706.52,
+   "end": 708.8,
+   "text": "The conceit M, asami mana."
+  },
+  {
+   "t": 709.76,
+   "end": 719.46,
+   "text": "In reality, it amounts to a craving, and this is the significance of the term tannha-pono-bhavika, craving which makes for re-becoming."
+  },
+  {
+   "t": 720.16,
+   "end": 727.06,
+   "text": "Because of that craving, which is always bent forward, worldlings keep running round in samsara."
+  },
+  {
+   "t": 727.06,
+   "end": 737.52,
+   "text": "But on analysis, every concrete situation always reveals a state of a become, bhuta, as something produced by causes and conditions."
+  },
+  {
+   "t": 738.78,
+   "end": 745.08,
+   "text": "A donkey drags a wagon when a carrot is projected towards it from the wagon."
+  },
+  {
+   "t": 745.62,
+   "end": 750.32,
+   "text": "The journey of beings in samsara is something like that."
+  },
+  {
+   "t": 750.78,
+   "end": 757.3,
+   "text": "So what we have here is not the destruction of some existing essence of being or soul."
+  },
+  {
+   "t": 757.3,
+   "end": 771.9,
+   "text": "From the point of view of dhamma, the cessation of existence or bhavanirodha amounts to a stopping of the process of becoming by the removal of the causes leading to it, namely ignorance and craving."
+  },
+  {
+   "t": 772.22,
+   "end": 775.18,
+   "text": "It is in effect the cessation of suffering itself."
+  },
+  {
+   "t": 775.66,
+   "end": 784.5,
+   "text": "Those who held on to the annihilationist view entertained the hope that their view itself entitled them to their cherished God."
+  },
+  {
+   "t": 784.5,
+   "end": 797.92,
+   "text": "But it was in vain because the ignorance, craving, and grasping within them created for them the five groups of grasping or this mass of suffering again and again despite their view."
+  },
+  {
+   "t": 798.46,
+   "end": 800.38,
+   "text": "Upajati, dukha, mida, puna, puna."
+  },
+  {
+   "t": 800.9,
+   "end": 808.44,
+   "text": "So what we have here is a deep philosophy of things as they are which follows a certain law of causality."
+  },
+  {
+   "t": 808.82,
+   "end": 813.48,
+   "text": "The Buddha's middle path is based on this knowledge and vision of things as they are,"
+  },
+  {
+   "t": 813.48,
+   "end": 818.52,
+   "text": "avoiding both extremes of self-indulgence and self-mortification."
+  },
+  {
+   "t": 818.86,
+   "end": 823.48,
+   "text": "Let us now consider the question of existence involved in this context."
+  },
+  {
+   "t": 823.82,
+   "end": 830.32,
+   "text": "The terms bhava and vibhava are generally associated with the idea of world's existence."
+  },
+  {
+   "t": 831.28,
+   "end": 837.44,
+   "text": "Some seem to take atti or is as the basic element in the grammatical structure."
+  },
+  {
+   "t": 837.44,
+   "end": 843.02,
+   "text": "Very often those upholders of dogmatic views brought up such propositions as"
+  },
+  {
+   "t": 843.02,
+   "end": 848.02,
+   "text": "everything exists, sabbhanatthi, and nothing exists, sabbhanatthi,"
+  },
+  {
+   "t": 848.34,
+   "end": 852.7,
+   "text": "before the Buddha, expecting him to give a categorical answer."
+  },
+  {
+   "t": 853.14,
+   "end": 860.0,
+   "text": "But the Buddha pointed out that asmi-o-em is more basic than the usage of is and is not."
+  },
+  {
+   "t": 860.74,
+   "end": 864.22,
+   "text": "The most elementary concept is asmi-o-em."
+  },
+  {
+   "t": 864.56,
+   "end": 867.32,
+   "text": "Hence the term asmi-man, the conceit-em."
+  },
+  {
+   "t": 868.06,
+   "end": 874.02,
+   "text": "In the grammatical structure, the pride of place should be given to asmi-o-em."
+  },
+  {
+   "t": 874.24,
+   "end": 879.32,
+   "text": "We sometimes tend to regard atti-o-is as the primary term."
+  },
+  {
+   "t": 879.32,
+   "end": 886.28,
+   "text": "But asmi deserves pride of place in so far as it is the basic element in the grammatical structure."
+  },
+  {
+   "t": 886.64,
+   "end": 892.54,
+   "text": "It is like the central peg from which all measurings and surveyings of the world start."
+  },
+  {
+   "t": 892.7,
+   "end": 896.22,
+   "text": "Since the word mana in asmi-mana also means measuring."
+  },
+  {
+   "t": 896.84,
+   "end": 900.52,
+   "text": "Given asmi-o-em, everything else comes to be."
+  },
+  {
+   "t": 901.62,
+   "end": 903.6,
+   "text": "Let us take an illustration."
+  },
+  {
+   "t": 903.6,
+   "end": 910.58,
+   "text": "If, for instance, we say, there is something, someone will pose the question, where is it?"
+  },
+  {
+   "t": 911.68,
+   "end": 917.58,
+   "text": "It should be either here or there or yonder, that is, over there."
+  },
+  {
+   "t": 918.5,
+   "end": 920.9,
+   "text": "It can be in one of those three places."
+  },
+  {
+   "t": 921.42,
+   "end": 924.98,
+   "text": "Now, if it is here, how does that place become here?"
+  },
+  {
+   "t": 925.42,
+   "end": 927.3,
+   "text": "That is where I am."
+  },
+  {
+   "t": 928.44,
+   "end": 933.44,
+   "text": "There is where he is and yonder is where you are."
+  },
+  {
+   "t": 933.6,
+   "end": 936.94,
+   "text": "So then, we have here the framework of the grammar."
+  },
+  {
+   "t": 937.96,
+   "end": 944.58,
+   "text": "Here is the basic lining up for the formation of the grammatical structure, its most elementary pattern."
+  },
+  {
+   "t": 945.1,
+   "end": 950.18,
+   "text": "So then, I am, you are and he is."
+  },
+  {
+   "t": 950.64,
+   "end": 959.58,
+   "text": "In this way, we see that one can speak of the existence of something relative to a viewpoint represented by m-o-i-am."
+  },
+  {
+   "t": 959.58,
+   "end": 974.9,
+   "text": "That is why the Buddha rejected as extremes the two waves of absolute existence and absolute non-existence based on is, atti, and is not, nati."
+  },
+  {
+   "t": 975.64,
+   "end": 980.64,
+   "text": "Only when there is an I, can something exist relative to that I."
+  },
+  {
+   "t": 981.06,
+   "end": 988.5,
+   "text": "And that something, if it is there, it is where I am not present or at a distance from me."
+  },
+  {
+   "t": 989.0,
+   "end": 993.74,
+   "text": "If it is yonder or over there, it is before you who are in front of me."
+  },
+  {
+   "t": 994.22,
+   "end": 997.5,
+   "text": "And if it is here, it is beside me."
+  },
+  {
+   "t": 997.98,
+   "end": 1006.52,
+   "text": "From this, we can see that this conceit m is, as it were, the origin of the whole world, the origin of the world of grammar."
+  },
+  {
+   "t": 1006.52,
+   "end": 1017.44,
+   "text": "On a previous occasion too, while discussing the significance of the two terms, itthabhava and amyatabhava, we had to make a similar statement."
+  },
+  {
+   "t": 1018.28,
+   "end": 1021.98,
+   "text": "The Buddha draws our attention to a very important fact in this concern."
+  },
+  {
+   "t": 1023.0,
+   "end": 1027.82,
+   "text": "Namely, the fact that the conceit m does not arise without causes and conditions."
+  },
+  {
+   "t": 1028.82,
+   "end": 1032.92,
+   "text": "It is not something uncaused and unconditioned."
+  },
+  {
+   "t": 1033.12,
+   "end": 1037.6,
+   "text": "If it is uncaused and unconditioned, it can never be made to cease."
+  },
+  {
+   "t": 1038.38,
+   "end": 1042.12,
+   "text": "The notion m arises due to certain causes and conditions."
+  },
+  {
+   "t": 1042.88,
+   "end": 1046.68,
+   "text": "There is a word suggestive of this causal origin, namely upadaya."
+  },
+  {
+   "t": 1047.6,
+   "end": 1053.64,
+   "text": "Now, for instance, we use the term panchupadana khandha when we speak of the five groups of clasping."
+  },
+  {
+   "t": 1053.64,
+   "end": 1059.48,
+   "text": "The word upadana, upa plus a plus da, is often rendered by clasping."
+  },
+  {
+   "t": 1060.06,
+   "end": 1063.5,
+   "text": "The prefix upa is supposed to imply the tenacity of the fold."
+  },
+  {
+   "t": 1064.3,
+   "end": 1069.74,
+   "text": "One can therefore ask whether it is not sufficient to relax the fold on the five groups."
+  },
+  {
+   "t": 1070.28,
+   "end": 1077.02,
+   "text": "Strictly speaking, the prefix upa in upadana conveys the sense of proximity or nearness."
+  },
+  {
+   "t": 1077.82,
+   "end": 1082.7,
+   "text": "Sometimes the two words upeti and upadiyati are found in juxtaposition."
+  },
+  {
+   "t": 1083.7,
+   "end": 1089.88,
+   "text": "Upayati, upa plus e, to go, means coming near or approaching."
+  },
+  {
+   "t": 1090.34,
+   "end": 1094.24,
+   "text": "And upadiyati has the sense of holding on to, having come close."
+  },
+  {
+   "t": 1094.58,
+   "end": 1099.84,
+   "text": "In other words, we have here not only a case of holding, but a holding on to."
+  },
+  {
+   "t": 1099.84,
+   "end": 1108.86,
+   "text": "So, the totality of existence, from the point of view of dhamma, is dependent on holding on or grasping on."
+  },
+  {
+   "t": 1109.16,
+   "end": 1113.52,
+   "text": "It is not something uncaused and unconditioned."
+  },
+  {
+   "t": 1114.58,
+   "end": 1122.28,
+   "text": "Here, we may remind ourselves of the simile of the winding of a rope over a cord, which we brought up in a previous sermon."
+  },
+  {
+   "t": 1122.82,
+   "end": 1129.38,
+   "text": "We cannot help going back to the same simile again and again, if we are to deepen our understanding of the dhamma."
+  },
+  {
+   "t": 1130.1,
+   "end": 1142.74,
+   "text": "In that illustration, we spoke of two persons winding up several strands to make a rope or a cord, but both are winding in the same direction from either end."
+  },
+  {
+   "t": 1143.72,
+   "end": 1157.28,
+   "text": "Such an attempt at winding, however long it is continued, does not result in an actual winding for the simple reason that the winding from one end is continually unwinded from the other end."
+  },
+  {
+   "t": 1157.28,
+   "end": 1161.86,
+   "text": "But what happens if a third person catches hold of the rope in the middle?"
+  },
+  {
+   "t": 1162.88,
+   "end": 1167.6,
+   "text": "Due to that hold on the middle, something like a rope appears to get winded up."
+  },
+  {
+   "t": 1168.98,
+   "end": 1171.8,
+   "text": "Now, existence too is something similar."
+  },
+  {
+   "t": 1172.26,
+   "end": 1176.02,
+   "text": "It is because of the hold in the middle that the rope gets winded up."
+  },
+  {
+   "t": 1176.52,
+   "end": 1182.62,
+   "text": "From the point of view of an outsider, the one in the middle is holding on to a rope."
+  },
+  {
+   "t": 1182.62,
+   "end": 1189.0,
+   "text": "But the truth is that the semblance of a rope is there due to that holding on itself."
+  },
+  {
+   "t": 1189.8,
+   "end": 1192.44,
+   "text": "This then is the norm of this world."
+  },
+  {
+   "t": 1193.04,
+   "end": 1197.64,
+   "text": "Whatever is of a nature to arise, all that is of a nature to cease."
+  },
+  {
+   "t": 1198.18,
+   "end": 1199.98,
+   "text": "Yang Kinci Samuday Dhamma"
+  },
+  {
+   "t": 1201.96,
+   "end": 1218.92,
+   "text": "It is in the nature of things that every winding ends up in an unwinding, but because of that hold in the middle, the windings get accumulated. Just because of his hold in the middle, his hand is under stress and strain."
+  },
+  {
+   "t": 1220.08,
+   "end": 1230.52,
+   "text": "Similarly, the stress and strain that is existence is also due to a grasping or holding on to upadana-pachya-bhavo."
+  },
+  {
+   "t": 1231.44,
+   "end": 1240.92,
+   "text": "In fact, we have not given this illustration merely for the sake of a simile. We can adduce reasons for its validity even from the discourses."
+  },
+  {
+   "t": 1240.92,
+   "end": 1256.46,
+   "text": "This word upadaya is particularly noteworthy. As we have already shown, upadana does not simply mean grasping or grasping rigidly, but a holding on to something having come close to it."
+  },
+  {
+   "t": 1256.46,
+   "end": 1271.8,
+   "text": "In fact, this holding on creates a certain relationship which may be technically termed relativity. The two stand relative to each other. For instance, that rope exists relative to the grasping of the person who holds on to it."
+  },
+  {
+   "t": 1271.8,
+   "end": 1293.16,
+   "text": "Now, upadaya is the absolutive form of upadana. It has the implication of something relative. There is a discourse in the Khanda Samyurtha which clearly reveals this fact. It is a sermon played by Venerable Punna Mantaniputta to Venerable Anand. This is the relevant paragraph."
+  },
+  {
+   "t": 1294.46,
+   "end": 1296.6,
+   "text": "There is the word núpada which you do."
+  },
+  {
+   "t": 1298.1,
+   "end": 1299.16,
+   "text": "May God keep with Psalm Slupali Bereich noemi over надо."
+  },
+  {
+   "t": 1300.04,
+   "end": 1301.98,
+   "text": "Still, what gives me hope?"
+  },
+  {
+   "t": 1304.24,
+   "end": 1315.56,
+   "text": "Even if human listens to Venerable,괜لة,baanda,baia,ba,ba,ba,ba,ba,ba,ba,ba,ba."
+  },
+  {
+   "t": 1316.2,
+   "end": 1317.64,
+   "text": "Even if human listens to Venerable Development level, that's Akhamurtha."
+  },
+  {
+   "t": 1318.0,
+   "end": 1320.16,
+   "text": "Even if human listens to Venerable کو that excites shallgresive in thanksgiving, let's give up is possible the correct way in essence of the logic,"
+  },
+  {
+   "t": 1320.16,
+   "end": 1322.86,
+   "text": "It's a real protector i Jang wa Bha 1955 about that."
+  },
+  {
+   "t": 1349.78,
+   "end": 1351.98,
+   "text": "No Anupadaya"
+  },
+  {
+   "t": 1352.86,
+   "end": 1362.22,
+   "text": "Let us now try to get at the meaning of this important passage, which would clarify further what we have already attempted to explain through similes."
+  },
+  {
+   "t": 1363.58,
+   "end": 1369.74,
+   "text": "It is with dependence, friend Ananda, that the notion M occurs, not without dependence."
+  },
+  {
+   "t": 1370.36,
+   "end": 1376.42,
+   "text": "With dependence on what does the notion M occur, and not without dependence."
+  },
+  {
+   "t": 1376.42,
+   "end": 1381.78,
+   "text": "With dependence on form does the notion M occur, not without dependence."
+  },
+  {
+   "t": 1382.12,
+   "end": 1386.5,
+   "text": "With dependence on feeling does the notion M occur, not without dependence."
+  },
+  {
+   "t": 1387.42,
+   "end": 1391.46,
+   "text": "With dependence on perception does the notion M occur, not without dependence."
+  },
+  {
+   "t": 1392.0,
+   "end": 1396.7,
+   "text": "With dependence on preparations does the notion M occur, not without dependence."
+  },
+  {
+   "t": 1397.6,
+   "end": 1402.74,
+   "text": "With dependence on consciousness does the notion and occur not without dependence."
+  },
+  {
+   "t": 1404.22,
+   "end": 1412.5,
+   "text": "Just as Vrandananda, a woman or man, youthful and fond of adornment, in looking at her or"
+  },
+  {
+   "t": 1412.5,
+   "end": 1419.48,
+   "text": "his facial image in a mirror or in a bowl filled with pure, clear, clean water would"
+  },
+  {
+   "t": 1419.48,
+   "end": 1422.32,
+   "text": "be seeing it with dependence and not without dependence."
+  },
+  {
+   "t": 1422.32,
+   "end": 1428.48,
+   "text": "Even so, Ananda, it is with dependence that the notion occurs, not without dependence."
+  },
+  {
+   "t": 1428.94,
+   "end": 1432.32,
+   "text": "In fact, it is rather difficult to render the Vardupadaya."
+  },
+  {
+   "t": 1432.72,
+   "end": 1438.34,
+   "text": "It means independence on something and has a relative sense."
+  },
+  {
+   "t": 1439.44,
+   "end": 1445.76,
+   "text": "Reinforced with the emphatic double negative, the assertion seems to imply that the notion"
+  },
+  {
+   "t": 1445.76,
+   "end": 1451.62,
+   "text": "M is something dependent and not independent, that it arises due to causes and conditions."
+  },
+  {
+   "t": 1452.42,
+   "end": 1459.5,
+   "text": "In the explanation that follows, this dictum is substantiated by bringing in the five groups"
+  },
+  {
+   "t": 1459.5,
+   "end": 1464.78,
+   "text": "or aggregates, relative to which one posits an M."
+  },
+  {
+   "t": 1465.22,
+   "end": 1472.14,
+   "text": "The subsequent illustration serves to bring out the required nuance of the term Upadaya,"
+  },
+  {
+   "t": 1472.42,
+   "end": 1476.8,
+   "text": "which is more often connected with the rather gross idea of grasping."
+  },
+  {
+   "t": 1478.2,
+   "end": 1483.08,
+   "text": "The young woman or the young man is looking at her or his face in a mirror."
+  },
+  {
+   "t": 1483.74,
+   "end": 1490.26,
+   "text": "They can see their own face or the sign of it mukha nimitta, only with the help of a mirror,"
+  },
+  {
+   "t": 1490.46,
+   "end": 1493.24,
+   "text": "that is as an image reflected on it."
+  },
+  {
+   "t": 1493.24,
+   "end": 1500.18,
+   "text": "They are dependent on a mirror or a similar object, foreseeing their own face, not independent."
+  },
+  {
+   "t": 1501.02,
+   "end": 1508.26,
+   "text": "What Venerable Punna Mantaniputta seems to stress is that the notion M is the result of grasping"
+  },
+  {
+   "t": 1508.26,
+   "end": 1514.62,
+   "text": "or holding on to form, feeling, perceptions, preparations and consciousness."
+  },
+  {
+   "t": 1515.52,
+   "end": 1519.74,
+   "text": "It is when one looks into a mirror that one suddenly becomes self-conscious,"
+  },
+  {
+   "t": 1519.74,
+   "end": 1523.86,
+   "text": "whether one has a liking or a dislike for what one sees."
+  },
+  {
+   "t": 1524.36,
+   "end": 1527.64,
+   "text": "One gets the notion, this is me."
+  },
+  {
+   "t": 1528.72,
+   "end": 1533.04,
+   "text": "So it is by coming close to a mirror, which reflects one's facial image,"
+  },
+  {
+   "t": 1533.52,
+   "end": 1536.42,
+   "text": "that the notion M occurs depending on it."
+  },
+  {
+   "t": 1537.58,
+   "end": 1544.28,
+   "text": "The word Upadaya therefore approximates to the idea of coming close and holding on to."
+  },
+  {
+   "t": 1545.0,
+   "end": 1549.48,
+   "text": "That notion occurs due to a relationship arising from that holding on."
+  },
+  {
+   "t": 1550.22,
+   "end": 1555.76,
+   "text": "Even if one already has no such notion, the moment one looks into a mirror,"
+  },
+  {
+   "t": 1555.98,
+   "end": 1558.98,
+   "text": "one is suddenly reminded of it, as if to exclaim,"
+  },
+  {
+   "t": 1559.18,
+   "end": 1560.3,
+   "text": "Ah, here I am."
+  },
+  {
+   "t": 1561.12,
+   "end": 1567.0,
+   "text": "This is the gist of what Venerable Punna Mantaniputta is trying to put across through this discourse."
+  },
+  {
+   "t": 1568.3,
+   "end": 1573.7,
+   "text": "This shows that the conceit M arises due to the five grasping groups."
+  },
+  {
+   "t": 1574.88,
+   "end": 1581.1,
+   "text": "The absolutive Upadaya, though akin to Upadana, has a deeper significance."
+  },
+  {
+   "t": 1581.52,
+   "end": 1584.3,
+   "text": "It is a word suggestive of a relationship."
+  },
+  {
+   "t": 1584.8,
+   "end": 1593.84,
+   "text": "It does not merely mean a holding on, but also a certain necessary relationship arising out of that holding on."
+  },
+  {
+   "t": 1594.52,
+   "end": 1601.32,
+   "text": "Just as the looking into a mirror or a bowl of water gives rise to a facial image as a reflection,"
+  },
+  {
+   "t": 1602.42,
+   "end": 1607.18,
+   "text": "here too the relationship calls for the deluded reflection, here I am."
+  },
+  {
+   "t": 1608.12,
+   "end": 1613.52,
+   "text": "Given the notion, here I am, there follows the corollary, things that are mine."
+  },
+  {
+   "t": 1613.52,
+   "end": 1619.14,
+   "text": "So there is supposed to be an I in contradistinction to things that are mine."
+  },
+  {
+   "t": 1619.66,
+   "end": 1628.02,
+   "text": "It is the difficulty to demarcate the area of applicability between these two concepts that has given rise to insoluble problems."
+  },
+  {
+   "t": 1628.82,
+   "end": 1631.22,
+   "text": "Who am I and what is mine?"
+  },
+  {
+   "t": 1631.22,
+   "end": 1642.08,
+   "text": "The twenty modes of personality view, sakkaya ditthi, portrays how one is at once with same to solve this problem."
+  },
+  {
+   "t": 1642.72,
+   "end": 1647.52,
+   "text": "Let us now see how the twenty modes of personality view are made up."
+  },
+  {
+   "t": 1647.52,
+   "end": 1653.46,
+   "text": "For instance, as regards form, it is fourfold as follows."
+  },
+  {
+   "t": 1653.86,
+   "end": 1662.28,
+   "text": "Rūpaṁ atta tosa manupasati, rūpa vantaṁ vā attānaṁ, attani vā rūpaṁ, rūpa smīng vā attānaṁ."
+  },
+  {
+   "t": 1662.56,
+   "end": 1671.36,
+   "text": "He regards form as self, or self as possessing form, or form as in-self, or self as in-form."
+  },
+  {
+   "t": 1672.38,
+   "end": 1675.34,
+   "text": "It is the same with the other four groups."
+  },
+  {
+   "t": 1676.26,
+   "end": 1680.74,
+   "text": "In this way, the personality view is altogether twenty-fold."
+  },
+  {
+   "t": 1681.46,
+   "end": 1688.76,
+   "text": "All this comes about due to the ignorance that name and form is only a reflection, like that facial image."
+  },
+  {
+   "t": 1689.48,
+   "end": 1694.36,
+   "text": "In grasping this self-image of name and form, one grasps the five groups."
+  },
+  {
+   "t": 1695.78,
+   "end": 1700.16,
+   "text": "Attachment to name and form amounts to a holding on to these five groups."
+  },
+  {
+   "t": 1700.16,
+   "end": 1706.94,
+   "text": "To many, the relation between name and form and the grasping groups appears as a big puzzle."
+  },
+  {
+   "t": 1707.72,
+   "end": 1711.66,
+   "text": "Wherever one looks, one sees this self-image of name and form."
+  },
+  {
+   "t": 1712.06,
+   "end": 1721.72,
+   "text": "But when one grasps it, what comes within the grasps is a group of form, feeling, perceptions, preparations and consciousness."
+  },
+  {
+   "t": 1721.72,
+   "end": 1731.86,
+   "text": "The magical illusion created by consciousness is so complete that it is capable of playing a dual role as in double acting."
+  },
+  {
+   "t": 1733.0,
+   "end": 1739.72,
+   "text": "Because it reflects like a mirror, consciousness itself is grasped, just as one grasps the mirror."
+  },
+  {
+   "t": 1739.72,
+   "end": 1744.4,
+   "text": "Not only the reflection on the mirror, but the mirror itself is grasped."
+  },
+  {
+   "t": 1744.76,
+   "end": 1748.86,
+   "text": "The grasping group of consciousness represents such a predicament."
+  },
+  {
+   "t": 1749.84,
+   "end": 1759.24,
+   "text": "One can form an idea about the relation between name and form and consciousness by going deeper into the implications of this discourse."
+  },
+  {
+   "t": 1759.24,
+   "end": 1771.84,
+   "text": "In the discussion of the interrelation between name and form, the Buddha makes use of two highly significant terms, namely Adhivachana Sampasa and Patiga Sampasa."
+  },
+  {
+   "t": 1771.84,
+   "end": 1779.38,
+   "text": "How contact arises dependent on name and form is explained by the Buddha in the Mahanidana Sampasa."
+  },
+  {
+   "t": 1781.1,
+   "end": 1784.72,
+   "text": "It is addressed to Venerable Ananda in the form of a Catechism."
+  },
+  {
+   "t": 1785.98,
+   "end": 1794.76,
+   "text": "Thus, our contact is a sort of hybrid carrying with it the implications of both Adhivachana Sampasa and Patiga Sampasa."
+  },
+  {
+   "t": 1795.72,
+   "end": 1799.54,
+   "text": "That is to say, it partakes of the character of name."
+  },
+  {
+   "t": 1799.54,
+   "end": 1799.92,
+   "text": "No."
+  },
+  {
+   "t": 1799.92,
+   "end": 1799.98,
+   "text": "No."
+  },
+  {
+   "t": 1800.0,
+   "end": 1806.9,
+   "text": "as suggested by Adhivachana Sampasa, as well as letter form, Rupa, indicated by Patika Sampasa."
+  },
+  {
+   "t": 1807.54,
+   "end": 1812.34,
+   "text": "This will be clear from the relevant section of the Catechism in the Mahanidana Sutta."
+  },
+  {
+   "t": 1813.26,
+   "end": 1818.86,
+   "text": "From name and form as condition, contact comes to be. Thus it has been said above,"
+  },
+  {
+   "t": 1819.12,
+   "end": 1825.86,
+   "text": "and that Ananda should be understood in this manner too, as to how from name and form as condition,"
+  },
+  {
+   "t": 1825.86,
+   "end": 1835.86,
+   "text": "contact arises. If Ananda, all those modes, characteristics, signs and exponents by which"
+  },
+  {
+   "t": 1835.86,
+   "end": 1842.94,
+   "text": "the name group Namakaya is designated were absent, would there be manifest any verbal impression"
+  },
+  {
+   "t": 1842.94,
+   "end": 1850.66,
+   "text": "Adhivachana Sampasa in the form group Rupakaya? There would not, Lord, if Ananda, all those"
+  },
+  {
+   "t": 1850.66,
+   "end": 1856.5,
+   "text": "modes, characteristics, signs and exponents by which the form group is designated were"
+  },
+  {
+   "t": 1856.5,
+   "end": 1863.18,
+   "text": "absent, would there be manifest any resistance impression, Patika Sampasa, in the name group,"
+  },
+  {
+   "t": 1863.72,
+   "end": 1870.52,
+   "text": "there would not, Lord. And if Ananda, all those modes, characteristics, signs and exponents"
+  },
+  {
+   "t": 1870.52,
+   "end": 1877.32,
+   "text": "by which there is a designation of both name group and form group were absent, would there"
+  },
+  {
+   "t": 1877.32,
+   "end": 1887.8,
+   "text": "be manifest any contact? There would not, Lord. And if Ananda, all those modes, characteristics,"
+  },
+  {
+   "t": 1888.0,
+   "end": 1893.44,
+   "text": "signs and exponents by which there comes to be a designation of name and form were absent,"
+  },
+  {
+   "t": 1893.66,
+   "end": 1900.38,
+   "text": "would there be manifest any contact? There would not, Lord. Wherefore, Ananda, this itself"
+  },
+  {
+   "t": 1900.38,
+   "end": 1906.78,
+   "text": "is the cause, this is the origin, this is the condition for contact, that is to say, name"
+  },
+  {
+   "t": 1906.78,
+   "end": 1916.0,
+   "text": "and form. With the help of four words of allied sense, namely, akara, mod, linga, characteristic,"
+  },
+  {
+   "t": 1916.58,
+   "end": 1924.96,
+   "text": "nimitta, sign, and uddesar, exponent, the Buddha catachetically brings out four conclusions by"
+  },
+  {
+   "t": 1924.96,
+   "end": 1933.26,
+   "text": "this discussion. They are, one, by whatever modes, characteristics, signs and exponents, the"
+  },
+  {
+   "t": 1933.26,
+   "end": 1941.56,
+   "text": "form group is designated, in the absence, no designation of verbal impression, adhivachana"
+  },
+  {
+   "t": 1941.56,
+   "end": 1950.18,
+   "text": "sampasso, in the form group, rupakaye, is possible. Two, by whatever modes, characteristics, signs"
+  },
+  {
+   "t": 1950.18,
+   "end": 1956.94,
+   "text": "and exponents, the form group is designated, in the absence, no designation of resistance impression,"
+  },
+  {
+   "t": 1960.54,
+   "end": 1968.72,
+   "text": "is possible. Three, by whatever modes, characteristics, signs and exponents, both name group and form"
+  },
+  {
+   "t": 1968.72,
+   "end": 1976.16,
+   "text": "group are designated, in the absence, no designation of verbal impression or resistance impression,"
+  },
+  {
+   "t": 1976.46,
+   "end": 1984.06,
+   "text": "is possible. Four, by whatever modes, characteristics, signs and exponents, name and form is designated,"
+  },
+  {
+   "t": 1984.06,
+   "end": 1993.8,
+   "text": "in the absence, no designation of contact is possible. All this may well appear like a riddle, but then let"
+  },
+  {
+   "t": 1993.8,
+   "end": 2001.14,
+   "text": "us consider what name and form means to begin with. The definition we gave to nama in our very first sermon"
+  },
+  {
+   "t": 2001.14,
+   "end": 2006.54,
+   "text": "happened to be different from the well-known definition nowadays given in terms of a bending."
+  },
+  {
+   "t": 2007.64,
+   "end": 2027.94,
+   "text": "He interpreted nama in the sense of a naming. Now this term adhivachana also conveys the same idea. Adhivachana, synonym, nirutti, nomenclasha, and panyati, designation, are part and parcel of linguistic usage. In the nirutti"
+  },
+  {
+   "t": 2027.94,
+   "end": 2048.66,
+   "text": "sutta sutta sutta of the khanda sutta sutta, one comes across three terms, nirutti patha, adhivachana patha, and panyati patha, pathways of nomenclasha, pathways of synonyms, pathways of designation. These three terms are closely allied in meaning, in that they bring out in sharp relief three aspects of linguistic usage."
+  },
+  {
+   "t": 2048.66,
+   "end": 2061.78,
+   "text": "nirutti. Nirutti emphasizes the explanatory or expository function of language. Adhivachana, its symbolic and metaphorical character, while panyati brings out its dependence on convention."
+  },
+  {
+   "t": 2062.28,
+   "end": 2078.08,
+   "text": "What we have here is adhivachana sampasa. Its affinity to name is obvious, and this is precisely the meaning we attributed to nama. Therefore, what we have in this concept of nama kaya or name group,"
+  },
+  {
+   "t": 2078.08,
+   "end": 2095.54,
+   "text": "literally, name body, is a set of first principles in linguistic usage pertaining to definition. The form group or ropa kaya, literally form body, on the other hand, has something to do with resistance as suggested by the term patigha sampasa."
+  },
+  {
+   "t": 2096.32,
+   "end": 2105.58,
+   "text": "Patigha means striking against. Form or ropa has a striking quality, while name or nama has a descriptive quality."
+  },
+  {
+   "t": 2106.62,
+   "end": 2122.1,
+   "text": "Pasa or contact is a hybrid of these two. This is what gives a deeper dimension to the above discretion. The point that the Buddha seeks to drive home is the fact that the concept of contact"
+  },
+  {
+   "t": 2122.1,
+   "end": 2141.58,
+   "text": "necessarily presupposes both name and form. In other words, name and form are mutually interrelated. As already stated above, there would be no verbal impression in the form group if there were no modes, characteristics, etc. proper to name."
+  },
+  {
+   "t": 2150.24,
+   "end": 2171.5,
+   "text": "At first sight, these two may appear as totally opposed to each other. But what is implied is a case of mutual interrelation. The expression peculiar to the name group is a necessary condition for the form group, while the resistance peculiar to the form group is a necessary condition for the form group."
+  },
+  {
+   "t": 2174.14,
+   "end": 2189.78,
+   "text": "Since here we have something deep, let us go for an illustration for the sake of clarity. As we have already stated, a verbal impression in regard to the form group is there because of the constituents of the name group."
+  },
+  {
+   "t": 2189.78,
+   "end": 2212.56,
+   "text": "Now the form group consists of the form group consists of four great primaries, earth, water, fire and air. Even to distinguish between them by their qualities of hardness and softness, hotness and coolness, etc., feeling, perception, intention, contact and attention, which are the constituents of the name group, have to play their part."
+  },
+  {
+   "t": 2213.68,
+   "end": 2223.3,
+   "text": "Thus it is with the help of those members on the name side that the four basic elements associated with form receive recognition."
+  },
+  {
+   "t": 2223.66,
+   "end": 2236.2,
+   "text": "Metaphor is a figure of speech common in ornate literary language as well as in technical criminology. Here the inanimate is animated by personification."
+  },
+  {
+   "t": 2236.2,
+   "end": 2250.88,
+   "text": "What is proper to the inanimate world is superimposed on the inanimate. Now the word adhivachana is even literally a superimposition and it is a term with obvious metaphorical associations."
+  },
+  {
+   "t": 2250.88,
+   "end": 2264.24,
+   "text": "Whereas in the literary field, it has an onnate value as figurative expression. In technical usage, it serves the purpose of facility of expression by getting the tools to speak for themselves."
+  },
+  {
+   "t": 2264.88,
+   "end": 2271.8,
+   "text": "For instance, carpenter might speak of two planks touching each other as if they can actually touch and feel."
+  },
+  {
+   "t": 2272.64,
+   "end": 2281.56,
+   "text": "The concept of touch, even when it is attributed to inanimate objects, is the outcome of attention. In this case, the attention of the carpenter."
+  },
+  {
+   "t": 2281.94,
+   "end": 2292.16,
+   "text": "Here again, we are reminded of the role of attention in the origination of things as stated in the King Moolaka and Samidhisuttas discussed above."
+  },
+  {
+   "t": 2292.16,
+   "end": 2303.74,
+   "text": "In accordance with the dictum, mind is the forerunner of all things. All things are rooted in interest. They originate with attention and arise out of contact."
+  },
+  {
+   "t": 2303.74,
+   "end": 2308.28,
+   "text": "Chanda Moolaka, Chanda Moolaka, Ausosabbe, Dhamma, Manasikara, Sambhava, Phasa, Samudaya, etc."
+  },
+  {
+   "t": 2309.56,
+   "end": 2320.2,
+   "text": "Wherever the carpenter's interest went, his attention discovered and picked up the thing. And here the thing is the fact of two planks touching each other."
+  },
+  {
+   "t": 2321.56,
+   "end": 2328.24,
+   "text": "Interest, attention and contact together bring out some deeper implications of the law of dependent arisen."
+  },
+  {
+   "t": 2328.88,
+   "end": 2338.92,
+   "text": "Not only with regard to inanimate objects, but even in the case of this conscious body, the question of contact is related to the fact of attention."
+  },
+  {
+   "t": 2340.26,
+   "end": 2348.1,
+   "text": "If, for instance, I ask what I am touching now, one might say that I am touching the palm leaf fan in my hand."
+  },
+  {
+   "t": 2348.76,
+   "end": 2353.74,
+   "text": "This is because we usually associate the idea of touching with the hand that holds."
+  },
+  {
+   "t": 2354.74,
+   "end": 2362.06,
+   "text": "But suppose I put away the fan and ask again what I am touching now, one might find it difficult to answer."
+  },
+  {
+   "t": 2362.5,
+   "end": 2369.44,
+   "text": "It might not be possible for another to guess by mere external observation since it is essentially subjective."
+  },
+  {
+   "t": 2370.42,
+   "end": 2382.78,
+   "text": "It is dependent on my attention. It could even be my robe that I am touching in the sense of contact in which case I am becoming conscious of my body as apart from the robe I am wearing."
+  },
+  {
+   "t": 2383.82,
+   "end": 2390.12,
+   "text": "Consciousness follows in the wake of attention. Whatever my attention picks up, of that I am conscious."
+  },
+  {
+   "t": 2391.02,
+   "end": 2399.98,
+   "text": "Though I have in front of me so many apparently visible objects. Until my attention is focused, eye consciousness is focused."
+  },
+  {
+   "t": 2400.0,
+   "end": 2406.26,
+   "text": "does not come about. The basic function of this type of consciousness, then, is to distinguish"
+  },
+  {
+   "t": 2406.26,
+   "end": 2413.2,
+   "text": "between the I and the object seeing. It is only after the I has become conscious that"
+  },
+  {
+   "t": 2413.2,
+   "end": 2419.14,
+   "text": "other factors necessary for sense perception fall into place. The two things born of that"
+  },
+  {
+   "t": 2419.14,
+   "end": 2424.4,
+   "text": "basic discrimination, together with the discriminating consciousness itself, that is, I consciousness,"
+  },
+  {
+   "t": 2425.08,
+   "end": 2438.1,
+   "text": "make up the concept of contact. dependent on I and forms, I consciousness arises. The"
+  },
+  {
+   "t": 2438.1,
+   "end": 2444.84,
+   "text": "concurrence of the three is contact. The same principle holds good in the case of the two"
+  },
+  {
+   "t": 2444.84,
+   "end": 2450.34,
+   "text": "planks touching each other. All this goes to show that it is with the help of the factors"
+  },
+  {
+   "t": 2450.34,
+   "end": 2456.6,
+   "text": "on the name group that we can even metaphorically speak of a contact between inanimate things."
+  },
+  {
+   "t": 2457.42,
+   "end": 2464.36,
+   "text": "Let us now consider how resistance impression, patigasampasa, comes about. It is said that"
+  },
+  {
+   "t": 2464.36,
+   "end": 2471.82,
+   "text": "the factors of the form group have a part to play in producing a resistance impression on"
+  },
+  {
+   "t": 2471.82,
+   "end": 2478.92,
+   "text": "the name group. We sometimes speak of an idea striking us as if it were something material,"
+  },
+  {
+   "t": 2480.98,
+   "end": 2485.6,
+   "text": "or else an idea could be at the back of our mind, and a word at the tip of our tongue."
+  },
+  {
+   "t": 2486.62,
+   "end": 2492.3,
+   "text": "The clearest manifestation of contact is that between material objects. Their collision is"
+  },
+  {
+   "t": 2492.3,
+   "end": 2499.08,
+   "text": "suggestive of resistance, as implied by the word particle. This primary sense of striking"
+  },
+  {
+   "t": 2499.08,
+   "end": 2505.36,
+   "text": "against or striking together is implicit even in the simile given by the Buddha, in the"
+  },
+  {
+   "t": 2505.36,
+   "end": 2510.74,
+   "text": "Dhatavibhanga-sutta of the Majjama-nikaya and in the Phasamolaka-sutta of the Sanyata-nikaya,"
+  },
+  {
+   "t": 2510.94,
+   "end": 2518.44,
+   "text": "concerning two sticks being rubbed together to kindle a fire. Though as a cross-manifestation,"
+  },
+  {
+   "t": 2518.6,
+   "end": 2525.0,
+   "text": "contact is primarily associated with the form group. It is essentially connected with the"
+  },
+  {
+   "t": 2525.0,
+   "end": 2531.14,
+   "text": "name group, as we have already explained with illustrations. It is when both resistance"
+  },
+  {
+   "t": 2531.14,
+   "end": 2536.78,
+   "text": "impression and verbal impression come together, that contact arises, dependent on name and form."
+  },
+  {
+   "t": 2536.92,
+   "end": 2544.86,
+   "text": "Na-rupa-pachya-hasu. Another point that needs to be clarified in this connection is the exact"
+  },
+  {
+   "t": 2544.86,
+   "end": 2551.94,
+   "text": "significance of the word rupa. This word has been variously interpreted and explained among"
+  },
+  {
+   "t": 2551.94,
+   "end": 2559.46,
+   "text": "different Buddhist sects. How did the Buddha define rupa? In ordinary usage, it can mean"
+  },
+  {
+   "t": 2559.46,
+   "end": 2567.12,
+   "text": "either forms visible to the eye or whatever is generally spoken of as material. Its exact"
+  },
+  {
+   "t": 2567.12,
+   "end": 2575.52,
+   "text": "significance has become a subject of controversy. What precisely do we mean by rupa? The Buddha himself"
+  },
+  {
+   "t": 2575.52,
+   "end": 2582.02,
+   "text": "has explained the word, giving the following etymology in the Khajjaniya-sutta of the Khanda-Sanyata,"
+  },
+  {
+   "t": 2582.32,
+   "end": 2589.12,
+   "text": "in Sanyata-nikaya. While defining the five groups there, he defines the form group as follows."
+  },
+  {
+   "t": 2589.12,
+   "end": 2596.08,
+   "text": "Kinca bhikkave rupang vadethar. Rupati ti ikkho bhikkave tasma rupanti bucchati."
+  },
+  {
+   "t": 2596.3,
+   "end": 2604.3,
+   "text": "Kena rupati. Sitena pi rupati. Unhena pi rupati. Jighattaya pi rupati. Pipasaya pi rupati."
+  },
+  {
+   "t": 2604.54,
+   "end": 2610.94,
+   "text": "Danca makasavata tapasiringsapasampasena pi rupati. Rupati ti ikkho bhikkave tasma rupanti bucchati."
+  },
+  {
+   "t": 2611.74,
+   "end": 2620.12,
+   "text": "And what monks do you call rupati? It is affected monks, that is why it is called rupati. Affected"
+  },
+  {
+   "t": 2620.12,
+   "end": 2628.56,
+   "text": "by what? Affected by cold, affected by heat, affected by hunger, affected by thirst, affected"
+  },
+  {
+   "t": 2628.56,
+   "end": 2636.02,
+   "text": "by contact with gadflies, mosquitoes, wind, sun and serpents. It is affected monks, that is why it is"
+  },
+  {
+   "t": 2636.02,
+   "end": 2642.28,
+   "text": "called rupa. This definition seems to convey something very deep, so much so that various"
+  },
+  {
+   "t": 2642.28,
+   "end": 2649.26,
+   "text": "Buddhist sects came out with various interpretations of this passage. The Buddha departs from the way of"
+  },
+  {
+   "t": 2649.26,
+   "end": 2655.36,
+   "text": "approach taken up by the materialistic systems of thought in the world, in defining rupa with rupati,"
+  },
+  {
+   "t": 2655.56,
+   "end": 2662.18,
+   "text": "being affected. It is not the inanimate trees and rocks in the world that are said to be affected by"
+  },
+  {
+   "t": 2662.18,
+   "end": 2670.1,
+   "text": "cold and heat, but this conscious body. So this body is not conceived of as a bundle of atoms to be"
+  },
+  {
+   "t": 2670.1,
+   "end": 2677.28,
+   "text": "animated by introducing into it a life faculty, Givitindriya. What is meant by rupa?"
+  },
+  {
+   "t": 2678.54,
+   "end": 2687.92,
+   "text": "Is this same body, this body with form, that for the meditator is a fact of experience. Attempts at"
+  },
+  {
+   "t": 2687.92,
+   "end": 2694.24,
+   "text": "interpretations from a scholastic point of view created a lot of complications, but the definition"
+  },
+  {
+   "t": 2694.24,
+   "end": 2701.64,
+   "text": "as it stands is clear enough. It is directly addressed to experience. The purpose of the entire dhamma"
+  },
+  {
+   "t": 2701.64,
+   "end": 2708.76,
+   "text": "preached by the Buddha is not to encourage an academic dabbling in philosophical satellites with a mere jumble"
+  },
+  {
+   "t": 2708.76,
+   "end": 2715.86,
+   "text": "of words. The purpose is utter disenchantment, dispassion and cessation, ekantani vidaya, viragaya,"
+  },
+  {
+   "t": 2715.86,
+   "end": 2723.16,
+   "text": "nirodha. Therefore, the etymology given here in terms of rupati to be affected is in full accord with that"
+  },
+  {
+   "t": 2723.16,
+   "end": 2730.52,
+   "text": "purpose. Rupa is so called because it is affected by cold, heat, and the sting of gadflies, mosquitoes,"
+  },
+  {
+   "t": 2730.7,
+   "end": 2737.76,
+   "text": "etc., not because of any atomism we need. If we are to examine further the meaning of this verb rupati,"
+  },
+  {
+   "t": 2737.98,
+   "end": 2743.76,
+   "text": "we can count on the following quotation from the Pingya-sutta of the Parayana-vagga in Sutta Nipata."
+  },
+  {
+   "t": 2743.76,
+   "end": 2752.04,
+   "text": "It runs, Rupanti Ropesu Jana Pamatta. Heedless men are affected in regard to forms."
+  },
+  {
+   "t": 2752.7,
+   "end": 2759.38,
+   "text": "The canonical commentary Churani Desai commenting on the word brings out the various nuances connected with"
+  },
+  {
+   "t": 2766.82,
+   "end": 2773.6,
+   "text": "rupanti. Rupanti means to be adversely affected, to be afflicted, to come into conflict with, to be"
+  },
+  {
+   "t": 2773.6,
+   "end": 2781.86,
+   "text": "dis-eased and displeased. Surely it is not the trees and rocks that are affected in this manner. It is this"
+  },
+  {
+   "t": 2781.86,
+   "end": 2786.98,
+   "text": "animate body that is subject to all this. The pragmatic purpose of utter detachment,"
+  },
+  {
+   "t": 2787.28,
+   "end": 2794.16,
+   "text": "dispersion and cessation is clear enough even from this commentary. What is known as the foam group,"
+  },
+  {
+   "t": 2794.46,
+   "end": 2804.14,
+   "text": "Rupakhanda, is one vast wound with nine apertures. This wound is affected when it is tugged by cold and heat,"
+  },
+  {
+   "t": 2804.14,
+   "end": 2809.62,
+   "text": "when dead flies and mosquitoes land on it. This wound gets irritated by them."
+  },
+  {
+   "t": 2809.9,
+   "end": 2816.8,
+   "text": "We come across yet another canonical reference in support of these nuances in the following two lines"
+  },
+  {
+   "t": 2816.8,
+   "end": 2828.3,
+   "text": "in the Uttana Sutta of the Sutta Nipata. For what sleep could there be for those who are afflicted,"
+  },
+  {
+   "t": 2828.46,
+   "end": 2833.96,
+   "text": "being pierced with the dark? These two lines stress the need for heedfulness,"
+  },
+  {
+   "t": 2834.24,
+   "end": 2842.1,
+   "text": "for being pierced with the arrow of craving. Here too, the verb Rupati has the sense of being affected"
+  },
+  {
+   "t": 2842.1,
+   "end": 2850.16,
+   "text": "or afflicted. All this goes to show that the early Buddhist concept of Rupa had a striking simplicity"
+  },
+  {
+   "t": 2850.16,
+   "end": 2858.3,
+   "text": "about it. As we have already stated at the very outset, the teachings in the discourses are simple"
+  },
+  {
+   "t": 2858.3,
+   "end": 2866.02,
+   "text": "enough. But there is a certain depth in this very simplicity, for it is only when the water is lucid"
+  },
+  {
+   "t": 2866.02,
+   "end": 2872.96,
+   "text": "and limpid, yet one can see the bottom of a pond. But with the passage of time, there was a tendency"
+  },
+  {
+   "t": 2872.96,
+   "end": 2878.28,
+   "text": "to lose interest in these discourses, because of the general predilection for complexity."
+  },
+  {
+   "t": 2880.14,
+   "end": 2885.44,
+   "text": "Materialistic philosophers, in particular, were carried away by this trend, whether they were"
+  },
+  {
+   "t": 2885.44,
+   "end": 2893.58,
+   "text": "Hindus or Buddhists. Modern day scientists too got caught in this trend. They pursued the materialistic"
+  },
+  {
+   "t": 2893.58,
+   "end": 2900.76,
+   "text": "overtones of the word Rupa without realizing that they are running after a mirage. They went on"
+  },
+  {
+   "t": 2900.76,
+   "end": 2908.86,
+   "text": "analyzing matter until they ended up with anatomism and grasped a heap of concepts. The analysis of"
+  },
+  {
+   "t": 2908.86,
+   "end": 2917.08,
+   "text": "matter thus precipitated a grasping of a mass of concepts. Whether one grasps a pole or a mall,"
+  },
+  {
+   "t": 2917.08,
+   "end": 2925.22,
+   "text": "it is a grasping all the same. The Buddha's admonitions, on the contrary, point in a different"
+  },
+  {
+   "t": 2925.22,
+   "end": 2931.5,
+   "text": "direction. He pointed out that in order to be free from the burdensome oppression of form,"
+  },
+  {
+   "t": 2932.5,
+   "end": 2940.18,
+   "text": "one has to be free from the perception of form. What is of relevance here is the very"
+  },
+  {
+   "t": 2940.18,
+   "end": 2947.52,
+   "text": "perception of form, rupasanya. From the point of view of dhamma, any attempt at analysis of the"
+  },
+  {
+   "t": 2947.52,
+   "end": 2954.68,
+   "text": "materialistic concept of form or any microscopic analysis of matter would lead to a pursuit of a"
+  },
+  {
+   "t": 2954.68,
+   "end": 2962.92,
+   "text": "mirage. This fact, the modern day scientist, is now in a position to appreciate. He has found"
+  },
+  {
+   "t": 2963.7,
+   "end": 2970.96,
+   "text": "that the mind with which he carries on the analysis is influencing his findings at every level. In other"
+  },
+  {
+   "t": 2970.96,
+   "end": 2978.82,
+   "text": "words, he has been running after a mirage due to his ignorance of the mutual interrelation between"
+  },
+  {
+   "t": 2978.82,
+   "end": 2987.9,
+   "text": "name and form. One would not be in such a plight if one understands that the real problem at issue is"
+  },
+  {
+   "t": 2987.9,
+   "end": 2994.7,
+   "text": "not that of form but of the perception of form. In an earlier sermon, we happened to part a verse"
+  },
+  {
+   "t": 2994.7,
+   "end": 2999.98,
+   "text": "which makes it extremely clear. Let us now hark back to that verse."
+  },
+  {
+   "t": 3000.0,
+   "end": 3003.02,
+   "text": "which occurs in the Jata Sutra of the Sanyuttanikai."
+  },
+  {
+   "t": 3003.74,
+   "end": 3012.28,
+   "text": "Yatha namanca rupanca asesam uparujhati patigham rupasanya ca ethasach jate jata"
+  },
+  {
+   "t": 3012.28,
+   "end": 3019.44,
+   "text": "Where name and form as well as resistance and perception of form are completely cut off,"
+  },
+  {
+   "t": 3019.9,
+   "end": 3022.72,
+   "text": "it is there that the tangle gets snubbed."
+  },
+  {
+   "t": 3023.2,
+   "end": 3028.96,
+   "text": "The entire saṃsārik problem is solved when the tangle gets snubbed."
+  },
+  {
+   "t": 3029.96,
+   "end": 3035.6,
+   "text": "Name and form, resistance and perception of form are completely cut off"
+  },
+  {
+   "t": 3035.6,
+   "end": 3040.0,
+   "text": "in that non-manifestative consciousness mentioned in our earlier sermon."
+  },
+  {
+   "t": 3040.4,
+   "end": 3045.18,
+   "text": "That, in effect, is the end of the tangle within and the tangle without."
+  },
+  {
+   "t": 3046.0,
+   "end": 3050.64,
+   "text": "Our discussion of the law of dependent arising must have made it clear"
+  },
+  {
+   "t": 3050.64,
+   "end": 3056.64,
+   "text": "that there is an interrelation between name and form and consciousness on the one hand"
+  },
+  {
+   "t": 3056.64,
+   "end": 3059.8,
+   "text": "and between name and form themselves on the other."
+  },
+  {
+   "t": 3060.9,
+   "end": 3064.7,
+   "text": "This, then, is a case of a tangle within and a tangle without."
+  },
+  {
+   "t": 3065.42,
+   "end": 3067.9,
+   "text": "Like the central spot of a whirlpool,"
+  },
+  {
+   "t": 3069.06,
+   "end": 3086.62,
+   "text": "the deepest point of the entire formula of patigham uparujhati"
+  },
+  {
+   "t": 3086.62,
+   "end": 3089.12,
+   "text": "perception of form is concerned."
+  },
+  {
+   "t": 3090.22,
+   "end": 3093.24,
+   "text": "The true purpose of the spiritual endeavor, according to the Buddha,"
+  },
+  {
+   "t": 3093.56,
+   "end": 3096.44,
+   "text": "is the very freedom from this perception of form."
+  },
+  {
+   "t": 3097.18,
+   "end": 3099.66,
+   "text": "How does perception of form come about?"
+  },
+  {
+   "t": 3100.76,
+   "end": 3104.8,
+   "text": "It is due to that striking against host resistance."
+  },
+  {
+   "t": 3105.92,
+   "end": 3108.42,
+   "text": "Perception of form arises, for instance,"
+  },
+  {
+   "t": 3109.04,
+   "end": 3112.14,
+   "text": "when gadflies and mosquitoes land on this body."
+  },
+  {
+   "t": 3112.92,
+   "end": 3114.7,
+   "text": "As we have already mentioned,"
+  },
+  {
+   "t": 3115.08,
+   "end": 3117.66,
+   "text": "even the distinctions of hard and soft, etc.,"
+  },
+  {
+   "t": 3118.66,
+   "end": 3120.62,
+   "text": "with which we recognize the four elements,"
+  },
+  {
+   "t": 3120.9,
+   "end": 3122.24,
+   "text": "is a matter of touching."
+  },
+  {
+   "t": 3122.24,
+   "end": 3125.82,
+   "text": "We are only trying to measure and gauge"
+  },
+  {
+   "t": 3125.82,
+   "end": 3129.24,
+   "text": "the four great primaries with this human frame."
+  },
+  {
+   "t": 3129.62,
+   "end": 3131.96,
+   "text": "We can never, ever comprehend fully"
+  },
+  {
+   "t": 3131.96,
+   "end": 3134.22,
+   "text": "the gamut of these four great primaries."
+  },
+  {
+   "t": 3134.72,
+   "end": 3137.38,
+   "text": "But we are trying to understand them"
+  },
+  {
+   "t": 3137.38,
+   "end": 3139.02,
+   "text": "through this human frame"
+  },
+  {
+   "t": 3139.02,
+   "end": 3141.78,
+   "text": "in a way that is meaningful to our lives."
+  },
+  {
+   "t": 3142.46,
+   "end": 3146.82,
+   "text": "All kinds of beings have their own specific experience of touch"
+  },
+  {
+   "t": 3146.82,
+   "end": 3149.92,
+   "text": "in relation to their experience of the four elements."
+  },
+  {
+   "t": 3150.88,
+   "end": 3152.44,
+   "text": "So, what we have here"
+  },
+  {
+   "t": 3152.44,
+   "end": 3155.62,
+   "text": "is entirely a question of perception of form."
+  },
+  {
+   "t": 3156.44,
+   "end": 3157.94,
+   "text": "The true purpose, then,"
+  },
+  {
+   "t": 3158.4,
+   "end": 3160.16,
+   "text": "should be the release of one's mind"
+  },
+  {
+   "t": 3160.16,
+   "end": 3161.64,
+   "text": "from this perception of form."
+  },
+  {
+   "t": 3162.26,
+   "end": 3165.44,
+   "text": "It is only when the mind is freed from resistance"
+  },
+  {
+   "t": 3165.44,
+   "end": 3167.5,
+   "text": "and the perception of form,"
+  },
+  {
+   "t": 3167.68,
+   "end": 3169.84,
+   "text": "as well as from name and form,"
+  },
+  {
+   "t": 3170.22,
+   "end": 3172.26,
+   "text": "that one can win to the deliverance"
+  },
+  {
+   "t": 3172.26,
+   "end": 3176.12,
+   "text": "from this problem of the tangle within"
+  },
+  {
+   "t": 3176.12,
+   "end": 3177.88,
+   "text": "and the tangle without,"
+  },
+  {
+   "t": 3178.22,
+   "end": 3179.34,
+   "text": "that is samsara."
+  },
+  {
+   "t": 3179.92,
+   "end": 3183.06,
+   "text": "Yet another fact emerges from the above discussion."
+  },
+  {
+   "t": 3184.26,
+   "end": 3187.48,
+   "text": "The two whips of existence and non-existence,"
+  },
+  {
+   "t": 3187.6,
+   "end": 3188.66,
+   "text": "bhava vibhava,"
+  },
+  {
+   "t": 3189.36,
+   "end": 3191.32,
+   "text": "asserting an absolute existence"
+  },
+  {
+   "t": 3191.32,
+   "end": 3193.32,
+   "text": "and an absolute non-existence,"
+  },
+  {
+   "t": 3193.52,
+   "end": 3196.7,
+   "text": "seem to have posed an insoluble problem"
+  },
+  {
+   "t": 3196.7,
+   "end": 3197.68,
+   "text": "to many philosophers."
+  },
+  {
+   "t": 3199.44,
+   "end": 3201.24,
+   "text": "Concerning the origin of the world,"
+  },
+  {
+   "t": 3201.46,
+   "end": 3202.02,
+   "text": "they wondered,"
+  },
+  {
+   "t": 3202.02,
+   "end": 3207.16,
+   "text": "whether sat or being came out of asat or non-being,"
+  },
+  {
+   "t": 3207.44,
+   "end": 3208.58,
+   "text": "or vice versa."
+  },
+  {
+   "t": 3208.9,
+   "end": 3211.8,
+   "text": "All these problems arose out of a misunderstanding"
+  },
+  {
+   "t": 3211.8,
+   "end": 3214.24,
+   "text": "about form or material objects,"
+  },
+  {
+   "t": 3214.48,
+   "end": 3218.24,
+   "text": "as we may well infer from the following two lines of a verse"
+  },
+  {
+   "t": 3218.24,
+   "end": 3220.6,
+   "text": "in the Kalahayavada Sutra of the Sutra Nipata."
+  },
+  {
+   "t": 3227.38,
+   "end": 3231.78,
+   "text": "Having seen the existence and destruction of material forms,"
+  },
+  {
+   "t": 3232.16,
+   "end": 3234.68,
+   "text": "a man in this world comes to a conclusion."
+  },
+  {
+   "t": 3235.22,
+   "end": 3236.7,
+   "text": "What is the conclusion?"
+  },
+  {
+   "t": 3237.04,
+   "end": 3241.08,
+   "text": "That there is an absolute existence and an absolute non-existence."
+  },
+  {
+   "t": 3241.08,
+   "end": 3246.24,
+   "text": "One comes to this conclusion drawing an inference from the behavior of visible objects."
+  },
+  {
+   "t": 3246.46,
+   "end": 3247.44,
+   "text": "For instance,"
+  },
+  {
+   "t": 3247.98,
+   "end": 3252.46,
+   "text": "we could presume that this machine before us exists in an absolute sin,"
+  },
+  {
+   "t": 3253.22,
+   "end": 3257.3,
+   "text": "ignoring the causes and conditions underlying its existence."
+  },
+  {
+   "t": 3257.3,
+   "end": 3260.2,
+   "text": "The day this machine is destroyed,"
+  },
+  {
+   "t": 3260.58,
+   "end": 3262.6,
+   "text": "we would say it was,"
+  },
+  {
+   "t": 3262.74,
+   "end": 3263.94,
+   "text": "but now it is not."
+  },
+  {
+   "t": 3265.02,
+   "end": 3266.44,
+   "text": "The Buddha has pointed out"
+  },
+  {
+   "t": 3266.44,
+   "end": 3271.7,
+   "text": "that such absolute views of existence and non-existence"
+  },
+  {
+   "t": 3271.7,
+   "end": 3276.22,
+   "text": "are a result of an incorrect understanding about form."
+  },
+  {
+   "t": 3276.78,
+   "end": 3279.12,
+   "text": "What actually is involved here"
+  },
+  {
+   "t": 3279.12,
+   "end": 3280.9,
+   "text": "is the perception of form."
+  },
+  {
+   "t": 3281.72,
+   "end": 3284.6,
+   "text": "Due to a misconception about the perception of form,"
+  },
+  {
+   "t": 3284.6,
+   "end": 3288.32,
+   "text": "the world inclines towards two extreme views"
+  },
+  {
+   "t": 3288.32,
+   "end": 3291.92,
+   "text": "of absolute existence and absolute non-existence."
+  },
+  {
+   "t": 3292.06,
+   "end": 3294.9,
+   "text": "So the whole point of our discussion today"
+  },
+  {
+   "t": 3294.9,
+   "end": 3299.06,
+   "text": "has been the clarification of the mutual interrelation"
+  },
+  {
+   "t": 3299.06,
+   "end": 3300.26,
+   "text": "between name and form"
+  },
+  {
+   "t": 3300.26,
+   "end": 3304.26,
+   "text": "to show that name and form itself is only an image"
+  },
+  {
+   "t": 3304.26,
+   "end": 3306.88,
+   "text": "or a shadow reflected on consciousness."
+  },
+  {
+   "t": 3309.96,
+   "end": 3311.22,
+   "text": "Dear listeners,"
+  },
+  {
+   "t": 3311.7,
+   "end": 3314.0,
+   "text": "it is our sincere wish"
+  },
+  {
+   "t": 3314.0,
+   "end": 3316.34,
+   "text": "to make these sermons accessible"
+  },
+  {
+   "t": 3316.34,
+   "end": 3317.84,
+   "text": "free of charge"
+  },
+  {
+   "t": 3317.84,
+   "end": 3320.86,
+   "text": "to all who like to listen to them"
+  },
+  {
+   "t": 3320.86,
+   "end": 3323.74,
+   "text": "because the gift of the Dhamma"
+  },
+  {
+   "t": 3323.74,
+   "end": 3326.48,
+   "text": "excels all other gift."
+  },
+  {
+   "t": 3327.92,
+   "end": 3329.58,
+   "text": "We therefore encourage you"
+  },
+  {
+   "t": 3329.58,
+   "end": 3331.02,
+   "text": "to copy these sermons"
+  },
+  {
+   "t": 3331.02,
+   "end": 3332.86,
+   "text": "and share them with others,"
+  },
+  {
+   "t": 3333.14,
+   "end": 3334.58,
+   "text": "but kindly note"
+  },
+  {
+   "t": 3334.58,
+   "end": 3337.8,
+   "text": "that they should not be reproduced for sale."
+  },
+  {
+   "t": 3338.4,
+   "end": 3340.92,
+   "text": "May the blessings of the Triple Gem"
+  },
+  {
+   "t": 3340.92,
+   "end": 3341.9,
+   "text": "be with you."
+  },
+  {
+   "t": 3344.44,
+   "end": 3352.78,
+   "text": "Thank you very much."
+  },
+  {
+   "t": 3352.78,
+   "end": 3352.8,
+   "text": "Thank you."
+  }
+ ]
+}

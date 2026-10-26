@@ -1,0 +1,539 @@
+{
+ "snaps": [
+  {
+   "s": 1,
+   "lec": 19,
+   "was": [
+    717.5,
+    752.8
+   ],
+   "now": [
+    717.5,
+    752.8
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 1,
+   "lec": 8,
+   "was": [
+    1328.1,
+    1363.2
+   ],
+   "now": [
+    1328.1,
+    1363.2
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 1,
+   "lec": 10,
+   "was": [
+    2778.6,
+    3088.6
+   ],
+   "now": [
+    2778.6,
+    3088.6
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 1,
+   "lec": 27,
+   "was": [
+    3590.8,
+    3596.2
+   ],
+   "now": [
+    3590.8,
+    3596.2
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 1,
+   "lec": 5,
+   "was": [
+    2380.6,
+    2419.6
+   ],
+   "now": [
+    2380.6,
+    2419.6
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 1,
+   "lec": 21,
+   "was": [
+    2580.0,
+    2599.1
+   ],
+   "now": [
+    2580.0,
+    2599.1
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 1,
+   "lec": 22,
+   "was": [
+    4294.7,
+    4300.7
+   ],
+   "now": [
+    4294.7,
+    4300.7
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 2,
+   "lec": 26,
+   "was": [
+    547.5,
+    591.3
+   ],
+   "now": [
+    547.5,
+    591.3
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 30,
+   "was": [
+    995.7,
+    1074.0
+   ],
+   "now": [
+    995.7,
+    1074.0
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 29,
+   "was": [
+    2172.8,
+    2183.4
+   ],
+   "now": [
+    2172.8,
+    2183.4
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 29,
+   "was": [
+    2202.7,
+    2234.7
+   ],
+   "now": [
+    2202.7,
+    2234.7
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 20,
+   "was": [
+    4506.2,
+    4538.2
+   ],
+   "now": [
+    4506.2,
+    4538.2
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 12,
+   "was": [
+    2420.9,
+    2457.3
+   ],
+   "now": [
+    2420.9,
+    2457.3
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 12,
+   "was": [
+    4112.6,
+    4194.0
+   ],
+   "now": [
+    4112.6,
+    4194.0
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 3,
+   "lec": 13,
+   "was": [
+    4670.2,
+    4702.0
+   ],
+   "now": [
+    4670.2,
+    4702.0
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 4,
+   "lec": 6,
+   "was": [
+    1409.1,
+    1446.8
+   ],
+   "now": [
+    1409.1,
+    1446.8
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 4,
+   "lec": 10,
+   "was": [
+    4263.6,
+    4283.5
+   ],
+   "now": [
+    4263.6,
+    4283.5
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 4,
+   "lec": 16,
+   "was": [
+    3596.1,
+    3624.5
+   ],
+   "now": [
+    3596.1,
+    3624.5
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 4,
+   "lec": 25,
+   "was": [
+    3216.5,
+    3277.3
+   ],
+   "now": [
+    3216.5,
+    3277.3
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 5,
+   "lec": 30,
+   "was": [
+    920.3,
+    969.9
+   ],
+   "now": [
+    920.3,
+    969.9
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 5,
+   "lec": 15,
+   "was": [
+    565.2,
+    595.4
+   ],
+   "now": [
+    565.2,
+    595.4
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 5,
+   "lec": 29,
+   "was": [
+    3382.8,
+    3432.7
+   ],
+   "now": [
+    3382.8,
+    3432.7
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  },
+  {
+   "s": 5,
+   "lec": 31,
+   "was": [
+    4896.1,
+    4941.1
+   ],
+   "now": [
+    4896.1,
+    4941.1
+   ],
+   "notes": [
+    "HEAD-REVIEW: opens on flagged sentence, advance <0.5s"
+   ]
+  }
+ ],
+ "demotes": [
+  {
+   "s": 1,
+   "lec": 17,
+   "span": [
+    1414.8,
+    1417.8
+   ],
+   "note": "DEMOTE-CANDIDATE: whole span is markers/fragments"
+  },
+  {
+   "s": 1,
+   "lec": 23,
+   "span": [
+    2787.5,
+    2789.3
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 2,
+   "lec": 26,
+   "span": [
+    2392.3,
+    2396.0
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 2,
+   "lec": 22,
+   "span": [
+    866.8,
+    868.8
+   ],
+   "note": "DEMOTE-CANDIDATE: whole span is markers/fragments"
+  },
+  {
+   "s": 3,
+   "lec": 27,
+   "span": [
+    869.7,
+    876.2
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 3,
+   "lec": 17,
+   "span": [
+    3178.3,
+    3181.8
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 3,
+   "lec": 21,
+   "span": [
+    1315.3,
+    1324.5
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 4,
+   "lec": 16,
+   "span": [
+    6719.3,
+    6725.7
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 4,
+   "lec": 17,
+   "span": [
+    2266.2,
+    2269.8
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 5,
+   "lec": 30,
+   "span": [
+    1158.6,
+    1164.6
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 5,
+   "lec": 29,
+   "span": [
+    2273.4,
+    2278.5
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 5,
+   "lec": 29,
+   "span": [
+    4393.6,
+    4395.4
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 6,
+   "lec": 18,
+   "span": [
+    1646.1,
+    1663.0
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 6,
+   "lec": 27,
+   "span": [
+    2028.6,
+    2031.4
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 6,
+   "lec": 32,
+   "span": [
+    3358.3,
+    3362.5
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  },
+  {
+   "s": 6,
+   "lec": 33,
+   "span": [
+    1045.8,
+    1051.8
+   ],
+   "note": "DEMOTE-CANDIDATE: snap would sliver"
+  }
+ ],
+ "mottos": {
+  "1": {
+   "total": 10,
+   "kept": [
+    0
+   ]
+  },
+  "2": {
+   "total": 2,
+   "kept": [
+    16
+   ]
+  },
+  "3": {
+   "total": 1,
+   "kept": [
+    54
+   ]
+  },
+  "4": {
+   "total": 0,
+   "kept": []
+  },
+  "5": {
+   "total": 5,
+   "kept": [
+    0
+   ]
+  },
+  "6": {
+   "total": 1,
+   "kept": [
+    27
+   ]
+  }
+ },
+ "order": {
+  "1": "190 spans sequenced to A-flow neighborhoods",
+  "2": "63 spans sequenced to A-flow neighborhoods",
+  "3": "93 spans sequenced to A-flow neighborhoods",
+  "4": "56 spans sequenced to A-flow neighborhoods",
+  "5": "115 spans sequenced to A-flow neighborhoods",
+  "6": "79 spans sequenced to A-flow neighborhoods"
+ }
+}

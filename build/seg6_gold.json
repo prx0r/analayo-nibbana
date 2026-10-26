@@ -1,5 +1,15 @@
 [
  {
+  "lec": 1,
+  "start": 3995.7,
+  "end": 4048.0,
+  "dur": 52.3,
+  "grade": "A",
+  "ci": 10,
+  "ismotto": false,
+  "note": "essay0-anchor grown-cool (pool grade A; gold was stale)"
+ },
+ {
   "lec": 8,
   "start": 2787.3,
   "end": 2835.9,
@@ -9,47 +19,11 @@
   "ismotto": false
  },
  {
-  "lec": 19,
-  "start": 4003.5,
-  "end": 4014.7,
+  "lec": 23,
+  "start": 1028.8,
+  "end": 1065.5,
   "grade": "A",
-  "dur": 11.2,
-  "ci": 3,
-  "ismotto": false
- },
- {
-  "lec": 20,
-  "start": 721.4,
-  "end": 727.7,
-  "grade": "A",
-  "dur": 6.3,
-  "ci": 3,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 3308.7,
-  "end": 3331.5,
-  "grade": "A",
-  "dur": 22.8,
-  "ci": 3,
-  "ismotto": false
- },
- {
-  "lec": 31,
-  "start": 4604.6,
-  "end": 4689.4,
-  "grade": "A",
-  "dur": 84.8,
-  "ci": 3,
-  "ismotto": false
- },
- {
-  "lec": 18,
-  "start": 1183.3,
-  "end": 1195.9,
-  "grade": "A",
-  "dur": 12.6,
+  "dur": 36.7,
   "ci": 5,
   "ismotto": false
  },
@@ -59,15 +33,6 @@
   "end": 1274.6,
   "grade": "A",
   "dur": 22.2,
-  "ci": 5,
-  "ismotto": false
- },
- {
-  "lec": 23,
-  "start": 1028.8,
-  "end": 1065.5,
-  "grade": "A",
-  "dur": 36.7,
   "ci": 5,
   "ismotto": false
  },
@@ -99,12 +64,48 @@
   "ismotto": false
  },
  {
-  "lec": 27,
-  "start": 2207.9,
-  "end": 2212.8,
+  "lec": 31,
+  "start": 4604.6,
+  "end": 4689.4,
   "grade": "A",
-  "dur": 4.9,
-  "ci": 8,
+  "dur": 84.8,
+  "ci": 3,
+  "ismotto": false
+ },
+ {
+  "lec": 32,
+  "start": 1631.8,
+  "end": 1671.3,
+  "grade": "A",
+  "dur": 39.5,
+  "ci": 11,
+  "ismotto": false
+ },
+ {
+  "lec": 18,
+  "start": 753.8,
+  "end": 853.2,
+  "grade": "A",
+  "dur": 99.4,
+  "ci": 12,
+  "ismotto": false
+ },
+ {
+  "lec": 26,
+  "start": 1650.7,
+  "end": 1749.1,
+  "grade": "A",
+  "dur": 98.4,
+  "ci": 10,
+  "ismotto": false
+ },
+ {
+  "lec": 26,
+  "start": 1813.7,
+  "end": 1909.0,
+  "grade": "A",
+  "dur": 95.3,
+  "ci": 10,
   "ismotto": false
  },
  {
@@ -114,6 +115,51 @@
   "grade": "A",
   "dur": 39.2,
   "ci": 9,
+  "ismotto": false
+ },
+ {
+  "lec": 19,
+  "start": 4003.5,
+  "end": 4014.7,
+  "grade": "A",
+  "dur": 11.2,
+  "ci": 3,
+  "ismotto": false
+ },
+ {
+  "lec": 20,
+  "start": 721.4,
+  "end": 727.7,
+  "grade": "A",
+  "dur": 6.3,
+  "ci": 3,
+  "ismotto": false
+ },
+ {
+  "lec": 27,
+  "start": 3306.5,
+  "end": 3331.5,
+  "grade": "A",
+  "dur": 25.0,
+  "ci": 3,
+  "ismotto": false
+ },
+ {
+  "lec": 18,
+  "start": 1183.3,
+  "end": 1195.9,
+  "grade": "A",
+  "dur": 12.6,
+  "ci": 5,
+  "ismotto": false
+ },
+ {
+  "lec": 27,
+  "start": 2207.9,
+  "end": 2212.8,
+  "grade": "A",
+  "dur": 4.9,
+  "ci": 8,
   "ismotto": false
  },
  {
@@ -145,10 +191,10 @@
  },
  {
   "lec": 26,
-  "start": 892.6,
+  "start": 889.9,
   "end": 975.6,
   "grade": "A",
-  "dur": 83.0,
+  "dur": 85.7,
   "ci": 10,
   "ismotto": false
  },
@@ -163,10 +209,10 @@
  },
  {
   "lec": 26,
-  "start": 1325.0,
+  "start": 1322.5,
   "end": 1364.8,
   "grade": "A",
-  "dur": 39.8,
+  "dur": 42.3,
   "ci": 10,
   "ismotto": false
  },
@@ -176,24 +222,6 @@
   "end": 1607.8,
   "grade": "A",
   "dur": 85.8,
-  "ci": 10,
-  "ismotto": false
- },
- {
-  "lec": 26,
-  "start": 1650.7,
-  "end": 1749.1,
-  "grade": "A",
-  "dur": 98.4,
-  "ci": 10,
-  "ismotto": false
- },
- {
-  "lec": 26,
-  "start": 1813.7,
-  "end": 1909.0,
-  "grade": "A",
-  "dur": 95.3,
   "ci": 10,
   "ismotto": false
  },
@@ -240,24 +268,6 @@
   "grade": "A",
   "dur": 16.9,
   "ci": 11,
-  "ismotto": false
- },
- {
-  "lec": 32,
-  "start": 1631.8,
-  "end": 1671.3,
-  "grade": "A",
-  "dur": 39.5,
-  "ci": 11,
-  "ismotto": false
- },
- {
-  "lec": 18,
-  "start": 753.8,
-  "end": 853.2,
-  "grade": "A",
-  "dur": 99.4,
-  "ci": 12,
   "ismotto": false
  },
  {
@@ -397,10 +407,10 @@
  },
  {
   "lec": 19,
-  "start": 5164.1,
+  "start": 5169.4,
   "end": 5246.5,
   "grade": "A",
-  "dur": 82.4,
+  "dur": 77.1,
   "ci": 12,
   "ismotto": false
  },
@@ -497,9 +507,9 @@
  {
   "lec": 27,
   "start": 4519.9,
-  "end": 4527.5,
+  "end": 4531.3,
   "grade": "A",
-  "dur": 7.6,
+  "dur": 11.4,
   "ci": 12,
   "ismotto": false
  },
@@ -650,9 +660,9 @@
  {
   "lec": 32,
   "start": 5398.9,
-  "end": 5409.2,
+  "end": 5411.9,
   "grade": "A",
-  "dur": 10.3,
+  "dur": 13.0,
   "ci": 12,
   "ismotto": false
  },

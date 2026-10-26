@@ -108,12 +108,12 @@
   "ismotto": false
  },
  {
-  "lec": 24,
-  "start": 4305.6,
-  "end": 4437.4,
+  "lec": 10,
+  "start": 974.5,
+  "end": 1350.5,
   "grade": "A",
-  "dur": 131.8,
-  "ci": 8,
+  "dur": 376.0,
+  "ci": 10,
   "ismotto": false
  },
  {
@@ -126,12 +126,12 @@
   "ismotto": false
  },
  {
-  "lec": 10,
-  "start": 974.5,
-  "end": 1350.5,
+  "lec": 24,
+  "start": 4305.6,
+  "end": 4437.4,
   "grade": "A",
-  "dur": 376.0,
-  "ci": 10,
+  "dur": 131.8,
+  "ci": 8,
   "ismotto": false
  }
 ]

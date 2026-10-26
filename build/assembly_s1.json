@@ -66,7 +66,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.2
  },
  {
   "t": "verbatim",
@@ -95,7 +95,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.1
  },
  {
   "t": "verbatim",
@@ -120,7 +120,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.2
  },
  {
   "t": "verbatim",
@@ -145,7 +145,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.0
  },
  {
   "t": "verbatim",
@@ -172,7 +172,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.2
  },
  {
   "t": "verbatim",
@@ -197,7 +197,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.1
  },
  {
   "t": "verbatim",
@@ -227,7 +227,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 2.7
  },
  {
   "t": "verbatim",
@@ -252,7 +252,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 4.7
  },
  {
   "t": "verbatim",
@@ -277,7 +277,7 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 3.1
  },
  {
   "t": "verbatim",
@@ -305,9 +305,15 @@
  },
  {
   "t": "water",
-  "dur": 2.5
+  "dur": 2.7
  },
  {
   "t": "zoom-bell"
+ },
+ {
+  "t": "pause",
+  "dur": 6.0,
+  "role": "settle",
+  "note": "section boundary stillness after zoom-bell"
  }
 ]
