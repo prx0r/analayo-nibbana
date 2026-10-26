@@ -46,7 +46,7 @@ CACHE = OUT / 'cache'
 # 2026-10-26 P0 lesson (user's ear): afade=t=out:st=0 fades to zero at 30ms
 # and STAYS silent — every slice was a blip. Fade-out MUST start at
 # (duration-0.03), computed per slice. Never st=0 on a fade-out again.
-VTAG = 'normv3'
+VTAG = 'normv4'
 VOICE_AF = ('highpass=f=80,lowpass=f=12000,'
             'acompressor=threshold=-18dB:ratio=2:attack=20:release=200,'
             'loudnorm=I=-19:TP=-1.5:LRA=11')
@@ -140,6 +140,72 @@ def fish_wav(text, dst):
     assert_audible(dst, f'fish:{text[:40]}')
 
 
+def room_wav(voice):
+    """3s room tone of a voice for bridges. voice = ('lect',N) / ('serm',N)
+    / ('fish',). Lectures/sermons: longest sub--45dB stretch (their own air);
+    Fish synth has no room (digital floor) -> digital silence. Cached."""
+    key = f'{voice[0]}{voice[1] if len(voice) > 1 else ""}'
+    h = hashlib.sha1(f'{VTAG}|room|{key}'.encode()).hexdigest()[:12]
+    dst = CACHE / f'room_{h}.wav'
+    if dst.exists() and dst.stat().st_size > 0:
+        return dst
+    if voice[0] == 'fish':
+        silence(3.0, dst)
+        return dst
+    src = LECT[voice[1]] if voice[0] == 'lect' else SERM[voice[1]]
+    p = subprocess.run(['ffmpeg', '-i', str(src), '-af',
+                        'silencedetect=noise=-45dB:d=1.0', '-f', 'null', '-'],
+                       capture_output=True, text=True)
+    t = p.stdout + p.stderr
+    starts = [float(x) for x in re.findall(r'silence_start:\s*([0-9.]+)', t)]
+    ends = [float(x) for x in re.findall(r'silence_end:\s*([0-9.]+)', t)]
+    spans = sorted(zip(starts, ends), key=lambda z: z[1] - z[0], reverse=True)
+    loop = ''
+    if spans and spans[0][1] - spans[0][0] >= 3.2:
+        # cut INSIDE a long quiet span (clamped — never bleed speech in)
+        a, b = spans[0]
+        mid = (a + b) / 2
+        ss, to = round(mid - 1.5, 2), round(mid + 1.5, 2)
+    elif spans and spans[0][1] - spans[0][0] >= 1.0:
+        # short span: tile it to 3s (loop click lives at room floor;
+        # ears judge per the regression prompt)
+        a, b = spans[0]
+        ss, to, loop = round(a + 0.1, 2), round(b - 0.1, 2), ',aloop=loop=-1:size=2e9,atrim=0:3'
+    else:
+        ss, to = 0.0, 3.0
+    # NOTE: rooms keep NATURAL level (no loudnorm — normalizing room hiss
+    # to speech level peaked at -6.9dB; beds must sit ~30dB under speech).
+    if loop:
+        run('ffmpeg', '-v', 'error', '-y', '-ss', str(ss), '-to', str(to),
+            '-i', str(src), '-ar', str(SR), '-ac', '1', '-c:a', 'pcm_s16le',
+            '-af', 'aloop=loop=-1:size=2e9,atrim=0:3', str(dst))
+    else:
+        run('ffmpeg', '-v', 'error', '-y', '-ss', str(ss), '-to', str(to),
+            '-i', str(src), '-ar', str(SR), '-ac', '1', '-c:a', 'pcm_s16le', str(dst))
+    return dst
+
+
+def bridge_wav(dur, srcA, srcB):
+    """Gap bed where two rooms meet (adapted vatulanatha #4): first half
+    srcA's room, second half srcB's, 80ms crossfade — the voice change
+    arrives on continuous air instead of a floor-cliff. Same source both
+    sides: that source's room throughout."""
+    h = hashlib.sha1(
+        f'{VTAG}|bridge|{dur}|{srcA}|{srcB}'.encode()).hexdigest()[:12]
+    dst = CACHE / f'bridge_{h}.wav'
+    if dst.exists() and dst.stat().st_size > 0:
+        return dst
+    ra, rb = room_wav(srcA), room_wav(srcB)
+    half = round(dur / 2 + 0.04, 2)  # acrossfade eats 0.08 overlap -> total dur
+    run('ffmpeg', '-v', 'error', '-y', '-i', str(ra), '-i', str(rb),
+        '-filter_complex',
+        f'[0:a]atrim=0:{half},asetpts=PTS-STARTPTS[a];'
+        f'[1:a]atrim=0:{half},asetpts=PTS-STARTPTS[b];'
+        f'[a][b]acrossfade=d=0.08[out]',
+        '-map', '[out]', '-ar', str(SR), '-ac', '1', '-c:a', 'pcm_s16le', str(dst))
+    return dst
+
+
 def get_slice(kind, key, ss, to, src, text=''):
     h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
     dst = CACHE / f'{kind}_{h}.wav'
@@ -157,6 +223,7 @@ def get_slice(kind, key, ss, to, src, text=''):
 ALIGN = {}
 STATS = {'verbatim_aligned': 0, 'verbatim_placeholder': 0, 'fish_lines': 0}
 ESSAY0_WINDOWS = []
+manifest_timeline = {}
 
 
 def verbatim_wavs(s, clip, text, sermon):
@@ -180,8 +247,54 @@ def verbatim_wavs(s, clip, text, sermon):
     return out
 
 
+def verbatim_slot(events, i, e, tag, n):
+    """Resolve (s, clip) for a verbatim event (shared by render + voice-id)."""
+    if tag == 'seed':
+        return e['unit'], ESSAY0[e['unit']]
+    if i == 3:
+        return n, ESSAY0[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
+    nxt = next(x for x in events[i + 1:] if x['t'] == 'fish' and 'beat' in x)
+    return n, nxt['beat']
+
+
+def voice_after(events, i, tag, n):
+    """Next rendered voice past skips: ('lect',N)/('serm',N)/('fish',)/None.
+    Sermon number prefers the aligner's relocation, else the script tag."""
+    for j in range(i + 1, len(events)):
+        x = events[j]
+        xt = x['t']
+        if xt == 'analayo':
+            return ('lect', x['lec'])
+        if xt == 'fish' and (not NO_PLAIN or x.get('role') == 'question'):
+            return ('fish',)
+        if xt == 'verbatim':
+            s, clip = verbatim_slot(events, j, x, tag, n)
+            if DIRECT_ESSAY0 and (tag == 'seed' or j == 3):
+                continue
+            a = ALIGN.get((s, clip))
+            if not a:
+                continue
+            srm = x.get('nanananda_sermon', x.get('sermon'))
+            if isinstance(srm, str):
+                m0 = re.search(r'\d+', srm or '')
+                srm = int(m0.group()) if m0 else None
+            for p in a['parts']:
+                if p.get('sermon'):
+                    srm = p['sermon']
+                    break
+            if srm in SERM:
+                return ('serm', srm)
+            return None
+        if xt == 'seed-reprise':
+            return ('lect', ESSAY0_WINDOWS[0][0]) if ESSAY0_WINDOWS else None
+        if xt in ('motto-bell', 'zoom-bell') and not P0_NO_BELLS:
+            return None  # bells carry no voice; boundary resets past them
+    return None
+
+
 def render_section(n, events, tag):
-    wavs, log = [], []
+    prev_voice = [None]  # last rendered voice (bridges meet in the middle)
+    wavs, log, kinds = [], [], []
     for i, e in enumerate(events):
         t = e['t']
         if t in ('motto-bell', 'zoom-bell'):
@@ -189,10 +302,19 @@ def render_section(n, events, tag):
                 log.append(f'{t} SKIPPED (p0: no bells)')
                 continue
             wavs.append(CACHE / f'{t}.wav')
+            kinds.append(t)
             log.append(t)
         elif t in ('pause', 'breath', 'water', 'silence'):
-            wavs.append(get_slice('sil', f'{t}{e["dur"]}', 0, e['dur'], None))
-            log.append(f'{t} {e["dur"]}s')
+            nxt = voice_after(events, i, tag, n)
+            prv = prev_voice[0]
+            if prv is not None and nxt is not None:
+                wavs.append(bridge_wav(e['dur'], prv, nxt))
+                kinds.append(t)
+                log.append(f'{t} {e["dur"]}s bridge {prv}->{nxt}')
+            else:
+                wavs.append(get_slice('sil', f'{t}{e["dur"]}', 0, e['dur'], None))
+                kinds.append(t)
+                log.append(f'{t} {e["dur"]}s')
         elif t == 'fish':
             if NO_PLAIN and e.get('role') != 'question':
                 STATS['plain_skipped'] = STATS.get('plain_skipped', 0) + 1
@@ -201,6 +323,8 @@ def render_section(n, events, tag):
             STATS['fish_lines'] += 1
             say = e.get('say', '')
             wavs.append(get_slice('vox', f'f{n}', 0, 0, None, say))
+            kinds.append('fish')
+            prev_voice[0] = ('fish',)
             log.append(f'fish: {say[:60]}')
         elif t == 'fish-term':
             if NO_PLAIN:
@@ -209,9 +333,12 @@ def render_section(n, events, tag):
                 continue
             STATS['fish_lines'] += 1
             wavs.append(get_slice('vox', f'ft{n}', 0, 0, None, e.get('say', '')))
+            kinds.append('fish-term')
             log.append(f'fish-term: {e.get("say", "")}')
         elif t == 'analayo':
             wavs.append(get_slice('src', f'a{n}', e['start'], e['end'], LECT[e['lec']]))
+            kinds.append('analayo')
+            prev_voice[0] = ('lect', e['lec'])
             log.append(f'L{e["lec"]} {e["start"]}-{e["end"]}')
             if tag == 'seed':
                 ESSAY0_WINDOWS.append((e['lec'], e['start'], e['end']))
@@ -227,25 +354,70 @@ def render_section(n, events, tag):
                 STATS['essay0_direct'] = STATS.get('essay0_direct', 0) + 1
                 log.append(f'essay-0 DIRECT: Q -> Analayo (sermon reader skipped at S{s}B{clip})')
                 continue
+            vw = []
             for w, note in verbatim_wavs(s, clip, e.get('text', ''), e.get('sermon')):
                 wavs.append(w)
+                kinds.append('verbatim')
+                vw.append(w)
                 log.append('verbatim ' + note)
+            a = ALIGN.get((s, clip))
+            srm = e.get('nanananda_sermon', e.get('sermon'))
+            if isinstance(srm, str):
+                m0 = re.search(r'\d+', srm or '')
+                srm = int(m0.group()) if m0 else None
+            if a and a['parts'] and a['parts'][0].get('sermon'):
+                srm = a['parts'][0]['sermon']
+            prev_voice[0] = ('serm', srm) if srm in SERM else None
         elif t == 'human-intro':
             log.append('human-intro SKIPPED (owner slot)')
         elif t == 'seed-reprise':
             for j, (lec, ss, ee) in enumerate(ESSAY0_WINDOWS):
                 wavs.append(get_slice('src', 'reprise', ss, ee, LECT[lec]))
+                kinds.append('seed-reprise')
                 log.append(f'reprise essay-0 U{j + 1}: L{lec} {ss}-{ee}')
+            prev_voice[0] = ('lect', ESSAY0_WINDOWS[-1][0]) if ESSAY0_WINDOWS else None
         else:
             log.append(f'UNKNOWN {t} SKIPPED')
+    assert len(kinds) == len(wavs), f'{tag}: kinds/wavs drift'
+    tl = []
+    t0 = 0.0
+    for k, w in zip(kinds, wavs):
+        dp = subprocess.run(['ffprobe', '-v', 'error', '-show_entries',
+                             'format=duration', '-of', 'csv=p=0', str(w)],
+                            check=True, capture_output=True, text=True)
+        d = float(dp.stdout.strip())
+        tl.append({'t': k, 't0': round(t0, 2), 'dur': round(d, 2)})
+        t0 += d
+    manifest_timeline[tag] = tl
     lst = OUT / f'{tag}.lst'
     lst.write_text(''.join(f"file '{w}'\n" for w in wavs))
     wav = OUT / f'{tag}.wav'
     run('ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(lst),
         '-c:a', 'pcm_s16le', str(wav))
     mp3 = OUT / f'{tag}.mp3'
-    run('ffmpeg', '-v', 'error', '-y', '-i', str(wav), '-af',
-        'loudnorm=I=-16:TP=-1.5:LRA=11', '-c:a', 'libmp3lame', '-b:a', '128k', str(mp3))
+    # Dual-pass loudnorm (2026-10-26 ear-fix): single-pass DYNAMIC mode
+    # rides gain up inside quiet beds (room bridges pumped ~20dB, pause
+    # grammar audibly flattened). Measured pass first, then LINEAR gain —
+    # relative dynamics (speech vs stillness) preserved exactly.
+    # Pass 1 MUST run at default verbosity: loudnorm's measurement JSON
+    # prints at info level and `-v error` hides it (2026-10-26: silent
+    # fallback to dynamic mode re-pumped the beds).
+    p1 = subprocess.run(['ffmpeg', '-y', '-i', str(wav), '-af',
+                         'loudnorm=I=-16:TP=-1.5:LRA=11:print_format=json',
+                         '-f', 'null', '-'],
+                        check=True, capture_output=True, text=True)
+    m = re.search(r'\{[^{}]*"input_i"[^{}]*\}', p1.stderr, re.S)
+    measured = json.loads(m.group(0)) if m else {}
+    ln = (f'loudnorm=I=-16:TP=-1.5:LRA=11:linear=true')
+    for k in ('measured_I', 'measured_TP', 'measured_LRA', 'measured_thresh',
+              'offset'):
+        src = {'measured_I': 'input_i', 'measured_TP': 'input_tp',
+               'measured_LRA': 'input_lra', 'measured_thresh': 'input_thresh',
+               'offset': 'target_offset'}[k]
+        if src in measured:
+            ln += f':{k}={measured[src]}'
+    run('ffmpeg', '-v', 'error', '-y', '-i', str(wav), '-af', ln,
+        '-c:a', 'libmp3lame', '-b:a', '128k', str(mp3))
     dur = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries',
                                 'format=duration', '-of', 'csv=p=0', str(mp3)],
                                check=True, capture_output=True, text=True).stdout.strip())
@@ -270,11 +442,13 @@ def main():
     manifest, files = {}, {}
     mp3, dur, log = render_section(0, asm[0], 'seed')
     files['seed'] = mp3
-    manifest['seed'] = {'min': round(dur / 60, 2), 'log': log}
+    manifest['seed'] = {'min': round(dur / 60, 2), 'log': log,
+                        'timeline': manifest_timeline['seed']}
     for n in range(1, 7):
         mp3, dur, log = render_section(n, asm[n], f's{n}')
         files[f's{n}'] = mp3
-        manifest[f's{n}'] = {'min': round(dur / 60, 2), 'log': log}
+        manifest[f's{n}'] = {'min': round(dur / 60, 2), 'log': log,
+                             'timeline': manifest_timeline[f's{n}']}
     lst = OUT / 'full.lst'
     lst.write_text(''.join(f"file '{files[t]}'\n" for t in ['seed'] + [f's{n}' for n in range(1, 7)]))
     run('ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(lst),

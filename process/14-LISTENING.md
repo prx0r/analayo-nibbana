@@ -65,6 +65,12 @@ catch what ears forgive (slow level drift, sub-threshold hiss pumping
 from loudnorm on quiet tails). Ears catch what meters forgive
 (everything in §1). Both run; either can fail the build.
 
+Bed craft law (from vatulanatha ledger #4, our fix #1–3): gaps are
+room bridges, never digital cliffs — prev-room + next-room halves with
+80ms crossfade, rooms at NATURAL level (~30dB under speech, never
+loudnormed); mastering is dual-pass LINEAR (single-pass dynamic pumps
+beds ~20dB and flattens the pause grammar).
+
 ## 4. Operating limits (learned, not documented anywhere)
 
 - Models: `qwen3-omni-flash` (cheapest ear, proven on our audio) and

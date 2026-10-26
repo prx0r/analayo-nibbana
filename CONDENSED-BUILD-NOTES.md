@@ -575,3 +575,21 @@ Seed descriptive audit: 6/6 questions word-for-word, 5/6 direct (U2
 seeing-sentence exists nearby in L02: keeps disclosed). Floors written
 (build/ear_floors.json). Fresh seed+s1..s6+full uploaded + verified
 (size + energy). Whisper order-check rerunning on fresh files.
+
+## 46. Listening adoption from vatulanatha (2026-10-26, owner: compare+adopt)
+Read their 18/19/20 + DONE. Adopted, in order: (1) p0_mix_check.py —
+per-render mix proof (order/lst, positional beds, edges, levels);
+GREEN on current render. (2) Tracked ear fixtures (build/ear_fixtures,
+8 files) + runner; first calibration run 4/8 as a gate — downgraded to
+CALIBRATION instrument (midcut needs expected-text; 2s clips false-alarm;
+human reads texts each model/prompt change). (3) DONE.md with adapted
+convergence (per-section whole passes ×2 + seed) + adjudication taxonomy
++ blocking-count rule. (4) Room-bridge beds (half+half rooms, 80ms xfades,
+natural levels) replacing digital-zero beds — the physical fix for our
+00:58-class joints. (5) EAR_LEDGER.md with before/after meters.
+Two self-caught bugs this round, both in ledger: loudnormed rooms (-6.9dB
+peaks — rooms never get loudnorm) and `-v error` hiding the dual-pass JSON
+(single-pass fallback re-pumped beds — pass 1 runs loud now). Their
+takeaways for us: excerpt-edge disclaimer habit, batch discipline, fix
+ledger shape. Ours back to them: render-time audibility tripwire, A⊂B
+nesting proof, storyboard clocks.
