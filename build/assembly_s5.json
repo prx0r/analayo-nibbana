@@ -30,6 +30,11 @@
   "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
  },
  {
+  "t": "water",
+  "dur": 2.5,
+  "note": "post-answer stillness: the answer lands before beats begin (2026-10-26 ear-pass: essay-0 slammed into beat-2 verbatim with zero pause)"
+ },
+ {
   "t": "human-intro",
   "ref": "human-scripts.md section 5",
   "status": "optional-pending",
