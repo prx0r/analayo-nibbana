@@ -1,37 +1,30 @@
-# EAR REPORT — machine listen-back, p0 Essay A (2026-10-26)
+# EAR REPORT — round 2 (2026-10-26, fresh render: Fish voice, reorders, waters)
 
-Method (process notes §41): Qwen qwen3-omni-flash hears every minute in
-≤12-min chunks; faster-whisper transcribes for order checks. No owner ears.
+## Canary (new instrument calibration)
 
-## Verdicts
+Blind 5-bad/5-good battery, one call: 10/10 PASS with confabulated
+reasons. Blanket verdicts worthless. Single-clip literal description:
+excellent (blip file correctly "completely silent"; midcut transcribed
+near-verbatim). Doctrine: never PASS/FAIL; describe + one targeted
+question; mid-thought stays mechanical (whisper edges vs expected).
 
-- **Seed (4.7m): PASS.** 6/6 questions asked, each answered directly within
-  30s (U2/U3 "partly" — matches the text read: U2's text leans on its audio,
-  U3's "it" = the perceptual cycle). No dead air, no glitches.
-- **S1 (13.6m): PASS with notes.** No technical defects. Two editorial joints
-  flagged (00:58 motto→lamp voice/image switch with zero pause;
-  ~02:37 lamp→staircase thematic cut). First joint FIXED the same day:
-  2.5s post-essay-0 stillness added to make_assembly (all sections).
-  Second joint is by design (breath/water separate; bells+plain cushion in p1/video).
-  Motto opener may read as poetry-not-answer to cold audio-only ears —
-  accepted design tension (video shows text+plain; audio keeps gospel order).
-- **S2 (3 chunks): CLEAN.** No defects, no robotic voices (Fish Q passes).
-- **S3 (3 chunks): CLEAN.**
-- **S4, S5 (2 chunks), S6 (2 chunks): CLEAN.**
+## Seed descriptive audit (fresh render)
 
-## Coverage
+6/6 questions transcribed word-for-word; 6/6 answers present; 5/6 judged
+directly addressing. U2 judged "no" (whirlpool-for-beings doesn't name
+seeing) — corroborates the text read; wording is owner-locked, transcript
+around the window holds no seeing-sentence, so it stands disclosed as
+weakest-of-six. U6 opens on framing, payoff line follows in-window.
 
-132 of 132 minutes heard by Omni across 12 chunks. Whisper order-check on
-stale files was inconclusive (pre-Fish render) — rerun queued as a render
-gate (G-ear proposal), not repeated by hand.
+## Sections (previous round, unchanged audio except waters/voice)
 
-## Fix applied from this pass
+S1: two editorial joints (one fixed: post-essay-0 stillness, rendered in).
+S2–S6: CLEAN, 11 chunks. Fish voice passes as natural.
 
-1. Post-essay-0 stillness (2.5s water after every essay-0 answer, all
-   sections) — the only structural defect found by ears. Rendered in;
-   present from this build forward.
+## Floors (build/ear_floors.json)
 
-## Still human-only
-
-Timbre match sermon-vs-Analayo, YT-anchor naturalness, Fish voice taste,
-essay-0 picks (U2/U6), 16 demote calls. Everything a meter can check is checked.
+0 defects/section; directness yes on all essay-0 (U2 disclosed);
+slice peak > −60dB (coded gate); sections within ±3dB; order verified
+on fresh render; canary per prompt-change. This round: all floors hold
+except whisper-order on fresh files (transcribing) and U2-directness
+(disclosed, owner-locked).

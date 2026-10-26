@@ -44,6 +44,19 @@ cut or move?"). Advice is ADVISORY — it enters the fix queue only
 after the read-through confirms it against sources (M6: metrics and
 models nominate, reading disposes — models included).
 
+CANARY RESULT (2026-10-26, mandatory reading): a blind 5-bad/5-good
+battery scored 10/10 PASS — including 30ms of silence, a truncation,
+and a mid-sentence cold open. The critic-as-JUDGE is agreeable to the
+point of uselessness on blanket verdicts. What works: critic-as-
+DESCRIBER — literal "describe second by second" prompts return accurate
+timestamps and near-verbatim quotes (it correctly called the blip file
+"completely silent"). RULE: never ask for PASS/FAIL; ask for literal
+description + one targeted defect question at a time
+("does it start mid-thought?"). Mid-thought detection itself is
+mechanical: whisper's edge words vs transcript-expected edge words —
+no model judgment involved. A critic that hasn't failed a canary since
+its last prompt change is decoration (R5).
+
 ## 3. Technical analysis (meters beside ears)
 
 Per render, per section: integrated LUFS, peak dB, silence map

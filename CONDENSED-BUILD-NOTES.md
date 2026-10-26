@@ -553,3 +553,25 @@ ears (LUFS/peak/silence/dropouts per render). Limits: qwen3-omni-flash,
 ~12.5 tok/s, 15min/call chunked with overlap, URL-in-data shape, same-day
 critique (temp hosts expire). Re-listens scoped to fixes + seed. Taste
 locks enumerated, human-only.
+
+## 44. Canary battery: the critic fails, the describer passes (2026-10-26)
+Blind 10-clip battery (5 known-bad: blip/silence, truncation, chant,
+mid-cut, -20dB question; 5 good) in one call: 10/10 PASS with
+confabulated descriptions. Blanket PASS/FAIL verdicts from the model
+are worthless. Single-clip literal-description prompts work superbly
+(blip file correctly "completely silent"; midcut transcribed
+near-verbatim with timestamps). Doctrine updated in 14-LISTENING.md:
+never PASS/FAIL; literal description + one targeted question per call;
+mid-thought detection is mechanical (whisper edge-words vs expected).
+R5 enforced on ears: canary re-runs whenever the ear prompt changes.
+
+## 45. Beyond-doubt round (2026-10-26, owner: finish it, then I listen)
+Canary battery run first: blind 5-bad/5-good in one call scored 10/10
+PASS (confabulated) — blanket verdicts dead; single-clip literal
+description verified superb. Fresh full render afterwards (Fish voice
+via .env key, post-essay-0 waters, sharpened orders): 72/0 voices.
+Seed descriptive audit: 6/6 questions word-for-word, 5/6 direct (U2
+"no" — triple-documented softness, wording owner-locked, no
+seeing-sentence exists nearby in L02: keeps disclosed). Floors written
+(build/ear_floors.json). Fresh seed+s1..s6+full uploaded + verified
+(size + energy). Whisper order-check rerunning on fresh files.
