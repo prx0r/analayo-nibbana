@@ -3,11 +3,17 @@ Updated 2026-10-26. Entry point for agents: ../HANDOVER.md.
 
 ## Build outputs (`build/` — committed, this IS the product data)
 Sources (edit only via logged, gated fixes):
-- `segN_pool.json` (N=1..6): every kept span assigned+ordered (1195 total,
-  20.73h). Fields: lec,start,end,grade,dur,ci.
-- `segN_gold.json`: A-flow order (596 spans incl. 6 essay-0 anchors, 6.3h).
-- `segN_core_v4.json`: killer beats (**71 clips**), sharpened orders
-  (S2/S3/S5/S6 moves, §37), 93.4m raw speech.
+- `segN_pool.json` (N=1..6): **D, the archive** (1196 spans, 20.73h).
+  Reference only: provenance home, swap source, completeness proof. NOT
+  a listening pass (no sequence law, no motto-cap, no listen order).
+  Rung C is the curated deepening (film manifest C-cells); the pool
+  files keep their names for now (builders + G5 read them).
+- `segN_gold.json`: **B** (599 spans incl. 6 essay-0 anchors + 2 A-grade
+  strays promoted §58, 6.45h). A-flow order, edge-audited. Motto-cap
+  enforced in manifests, never in data.
+- `segN_core_v4.json`: **A, canonical (71 clips)**, sharpened orders
+  (§37), verified holder of every flow fix. Assemblies play 65 + 6
+  essay-0 pointers (host beats consumed by the opening).
 - `segN_script.json`: per beat {analayo clip, nanananda_verbatim
   (+provenance), plain_english_below, tts_line, match}.
 - `segN_terms.json`: Fish term-drops per clip.

@@ -858,6 +858,33 @@ this note + EAR_REPORT/LEDGER (round-3b/round-4 rows); round-5 never ran.
 DONE ears: text gates PASS + mix PASS + adjudicated rounds with zero
 open blockers; strict 2-consecutive-full-clean count NOT yet claimed —
 one full clean pass on the frozen render remains.
+## 58. A/B canonical, D=archive, C=curated (2026-10-27, owner: "merge C to B? make D the pool")
+
+A CANONICAL. Core manifests were rotten (era-1 leftovers: S1 pre-split
+merged windows + a phantom L20 line; S2 forum-recap opener; S3 untrimmed
+thank-you head + stale U3 window; S4 pre-§32c scatter; S5 pre-§32c Dona;
+S6 pre-§25 head). Nothing reads them (assemblies drive renders), but a
+lying map is a lying map: all 12 core+pool txts regenerated 1:1 from
+seg JSONs (MOTTO tag mirrors the data ismotto flag). Verified
+manifest==JSON everywhere. Doc drift fixed: 10-MATHEMATICS (72→71 beats,
+434 events recounted, bell counts from assemblies, ladder from G7),
+03-GOLD-CORE (73→71), TIMINGS (seed ~2m, A 65 heard + 6 pointers ~1h34m,
+B 599 spans, four-pass table, film decided).
+B CANONICAL. Gold manifests were clean (only motto-cap omissions, by
+design). Containment re-proved: 68/71 → exact 71/71 by back-porting 3
+A-grade head-extensions into gold (S2 winding, S5 razor ×2 — gold's
+versions cut mid-thought; core's were clean). Pool-only A-grade audit:
+all but two were near-duplicate windows; the two real strays (S5
+cinema-as-life L05, avitakka verse L29) PROMOTED to gold with logged
+reasons + sequence-law placement. Film rebuilt, budgets PASS (L05 landed
+in film B+C; L29 queued out by the 168m ceiling — swap, don't pad).
+D = ARCHIVE. Pool files (1196 spans) renamed in concept, not on disk:
+reference only, no sequence law, no listen order, never played end to
+end. VISION glossary + FILES + HANDOVER + TIMINGS updated; builders
+still read pool filenames (noted as legacy).
+C = CURATED DEEPENING (film C-cells, 167.9m). Defined, budgeted, current.
+The systematic pool-only-gem mine for film-C swaps stays queued (film-C
+curation, HANDOVER queue) — B already holds every A-grade sentence.
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)

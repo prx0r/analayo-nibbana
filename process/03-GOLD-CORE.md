@@ -7,7 +7,7 @@
 - Apply the motto-cap here (files keep full data; manifests enforce it).
 - Gold joins audit: sample cross-lecture joins, verify standalone reads.
 
-## Core (one killer per cluster, ~2h total here: 73 clips, 96m Analayo)
+## Core (one killer per cluster, ~1.5h Analayo here: 71 clips, sharpened A-flow order)
 - Per cluster, top 1–2 by duration (dense exegesis earns length), drop
   <10s slivers, motto first as cold open, end on the payoff clip.
 - Then READ THE CORE AS A SCRIPT (the textual flow audit). Fix list

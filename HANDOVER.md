@@ -126,7 +126,10 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   grown-cool. Every window opens and closes on the spoken answer. Q4 seam closed on
   transcript (notes §40).
 - **Rungs:** 0 ⊂ A ⊂ B ⊂ C (Russian dolls), verified by overlap 6/6,
-  71/71, 590/590 (notes §39); film budgets 6/36/90/168.
+  71/71, 597/597 (notes §39, §55); film budgets 6/36/90/168.
+  **D = archive** (the pool files: 1196 spans, reference only — NOT a
+  listening pass; 2026-10-27 rename, notes §58). C is the curated
+  deepening (film C-cells); D is the complete record.
 - **p0 draft rules (2026-10-26):** NO PLAIN (verbatim → Analayo direct),
   NO BELLS (timing/voice check), essay-0 DIRECT (Q → archive answer, no
   reader repeat). Fish = questions only (Fish-audio voice, free tier).
@@ -158,13 +161,15 @@ voices, Fish Qs, room-bridge beds, dual-pass linear; p0_mix_check PASS.
    human intros (slots empty by design).
 2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
    blocks per assets/sfx/README.md) + YT anchor-maps at cut.
-3. **C-sequence pass** (pool → B-flow neighborhoods, same script shape
-   as sharpen_gold) + listening C→D split (notes §31 F1).
-4. **Cue sheet** (visual-master-plan §7 schema): per beat —
+3. **Film-C curation** (pool-only gems → film C-cells; budgets are
+   ceilings — swap, don't pad. B already absorbed the 2 A-grade strays,
+   §58) + cue sheet (visual-master-plan §7 schema): per beat —
    source_clip, essay_depth, visual_motif, shot_id, audio_cue,
    duration, reuse_from. Absolute timestamps after audio master.
-5. **G-ear floors live** (build/ear_floors.json): wire floors into gates
-   once whisper-order runs on fresh renders routinely.
+4. **G-ear live** (DONE 2026-10-27: `process/scripts/ear_local.py` wired
+   as G9 — whisper order + essay-0 phrases + seam regression, zero
+   tokens, cached). Qwen reserved for critic/tie-breaks (14-LISTENING
+   free-first protocol).
 
 ## Traps (the ones that actually bit)
 - **R6 inline drift:** never paste builder code in chat/shell — use

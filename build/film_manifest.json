@@ -2974,6 +2974,17 @@
     },
     {
      "lec": 5,
+     "start": 4781.7,
+     "end": 4838.2,
+     "dur": 56.5,
+     "src": "gold",
+     "ci": 2,
+     "grade": "A",
+     "flags": [],
+     "depth": "B"
+    },
+    {
+     "lec": 5,
      "start": 4791.9,
      "end": 4838.2,
      "dur": 46.3,
@@ -2984,23 +2995,12 @@
      "depth": "B"
     },
     {
-     "lec": 6,
-     "start": 4847.5,
-     "end": 4936.5,
-     "dur": 89.0,
+     "lec": 7,
+     "start": 2476.8,
+     "end": 2530.5,
+     "dur": 53.7,
      "src": "gold",
      "ci": 2,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 30,
-     "start": 563.2,
-     "end": 584.2,
-     "dur": 21.0,
-     "src": "gold",
-     "ci": 6,
      "grade": "A",
      "flags": [],
      "depth": "B"
@@ -3228,6 +3228,17 @@
     },
     {
      "lec": 5,
+     "start": 4781.7,
+     "end": 4838.2,
+     "dur": 56.5,
+     "src": "gold",
+     "ci": 2,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 5,
      "start": 4791.9,
      "end": 4838.2,
      "dur": 46.3,
@@ -3238,23 +3249,12 @@
      "depth": "C"
     },
     {
-     "lec": 6,
-     "start": 4847.5,
-     "end": 4936.5,
-     "dur": 89.0,
+     "lec": 7,
+     "start": 2476.8,
+     "end": 2530.5,
+     "dur": 53.7,
      "src": "gold",
      "ci": 2,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
-     "lec": 30,
-     "start": 563.2,
-     "end": 584.2,
-     "dur": 21.0,
-     "src": "gold",
-     "ci": 6,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -3315,10 +3315,10 @@
      "depth": "C"
     },
     {
-     "lec": 7,
-     "start": 2476.8,
-     "end": 2530.5,
-     "dur": 53.7,
+     "lec": 6,
+     "start": 4847.5,
+     "end": 4936.5,
+     "dur": 89.0,
      "src": "gold",
      "ci": 2,
      "grade": "A",
@@ -3343,6 +3343,17 @@
      "dur": 90.8,
      "src": "gold",
      "ci": 2,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 30,
+     "start": 563.2,
+     "end": 584.2,
+     "dur": 21.0,
+     "src": "gold",
+     "ci": 6,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -3492,9 +3503,9 @@
     },
     {
      "lec": 9,
-     "start": 3150.2,
-     "end": 3344.5,
-     "dur": 194.3,
+     "start": 3516.0,
+     "end": 3562.2,
+     "dur": 46.2,
      "src": "gold",
      "ci": 9,
      "grade": "A",
@@ -3514,9 +3525,9 @@
     },
     {
      "lec": 11,
-     "start": 1522.8,
-     "end": 1534.1,
-     "dur": 11.3,
+     "start": 1278.1,
+     "end": 1371.2,
+     "dur": 93.1,
      "src": "gold",
      "ci": 9,
      "grade": "A",
@@ -3524,10 +3535,10 @@
      "depth": "C"
     },
     {
-     "lec": 30,
-     "start": 3450.6,
-     "end": 3452.7,
-     "dur": 2.1,
+     "lec": 11,
+     "start": 1522.8,
+     "end": 1534.1,
+     "dur": 11.3,
      "src": "gold",
      "ci": 9,
      "grade": "A",

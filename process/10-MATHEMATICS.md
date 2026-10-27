@@ -11,37 +11,44 @@ converged there independently of the Analayo cut plans, and the Analayo
 gold independently lands in the same six buckets. Two dissections, one
 elephant.
 
-## 72 beats
-Core beats per section: 12, 13, 15, 5, 14, 13 = **72**.
+## 71 beats (canonical, 2026-10-27 — assemblies play 65 + 6 essay-0 pointers)
+Core beats per section: 11, 13, 15, 5, 14, 13 = **71**.
 §4's 5 is the honest thin one (concentrated doctrine — anidassana,
 tetralemma, no-footing). No padding was added to round it out; the
-asymmetry is structural. Total Analayo runtime in core: 96.4 min.
+asymmetry is structural. Total Analayo runtime in core: 90.5 min.
+The essay-0 host beat of each section is consumed by the opening
+(pointer replaces it), so the heard A is 65 beats + 6 pointers.
 
 ## The nesting ratio ≈ 3.5 per layer (measured, not set)
 | layer | size | share of previous |
 |---|---|---|
-| V1 pool | 20.70 h (1,193 spans) | — |
-| V2 gold | 6.32 h (590 spans, A-only) | ÷3.28 |
-| V3 core | 1.61 h Analayo (72 clips) | ÷3.94 |
+| D archive | 20.7 h (1,196 spans) | — (reference, not a rung) |
+| V2 gold | 6.45 h (599 spans, A-only) | ÷3.21 |
+| V3 core | 1.51 h Analayo (71 clips) | ÷4.28 |
 | seed (§1 core) | ~0.21 h Analayo | — |
 | compression | ultimate (1 word: stilling) | ÷everything |
 
-Pool → core total compression ≈ **12.9×**. The grading rule (A=spine,
-B=flow, C=cut) was never tuned to hit a ratio — 3.5×/layer is the
+Pool → core total compression ≈ **13.7×**. The grading rule (A=spine,
+B=flow, C=cut) was never tuned to hit a ratio — ~3–4×/layer is the
 material's own density constant. Self-similarity across scales: the
 cluster order is IDENTICAL at pool, gold, and core (same sort key),
 so each layer is the same walk at a different resolution. That is the
 fractal property, and it is structural, not decorative.
 
-## 340 events, 2 bells
-Assembly manifests (`build/assembly_sN.json`) hold **340 events**:
-6 human-intros, 10 motto-bells, 6 mottos, 73 fish lines, 73 breaths,
-73 Analayo clips, 73 waters, 23 fish-terms, 5 zoom-bells, 1
+## 434 events, 2 bells
+Assembly manifests (`build/assembly_sN.json` + seed) hold **434 events**
+(recomputed 2026-10-27):
+77 fish lines (6 seed questions + 71 beat questions — every heard beat
+re-opens with its section question before the verbatim), 77 verbatims
+(71 beats + 6 essay-0 on-screen texts), 77 Analayo clips (71 beats + 6
+pointers), 76 waters, 65 breaths, 17 pauses, 23 fish-terms, 8
+motto-bells, 6 zoom-bells, 6 human-intro slots (empty by design), 1
 seed-reprise, 1 terminal silence.
-- **Motto bell** (880 Hz partials, 2.5 s decay): with "this is excellent".
-  S1 rings it 4× (open + 3 internal refrains), S6 twice (open + close),
-  S2–S5 once each. Total 10.
-- **Zoom bell** (220 Hz + sub, 6.0 s decay): 5 section thresholds.
+- **Motto bell** (bright, 2.5 s decay): section opens (seed + S1–S6)
+  plus the S6 close (8 total). In the p0 draft the bells are SKIPPED at
+  render (timing/voice check); they return in p1 with the sfx kit.
+- **Zoom bell** (low + sub octave, 6.0 s decay): 6 thresholds (seed +
+  S1–S5 closes; S6 closes seed-reprise + motto-bell + 30s silence).
   Bell ratio 6.0/2.5 = **2.4** — the zoom is the motto stretched in time,
   the same relationship as gold to core.
 - **Pauses**: 1.5 s breath (inside beats), 2.5 s water (between beats),
@@ -50,7 +57,7 @@ seed-reprise, 1 terminal silence.
   30 s = 20 breaths: the close is scored in the same unit as everything.
 
 ## 1 word
-20.7 h → 6.3 h → 1.6 h → 16 min (§1) → 1 sentence (the motto) → 1 word:
+20.7 h → 6.45 h → 1.5 h → 2 min (seed) → 1 sentence (the motto) → 1 word:
 **stilling.** Each layer answers the question the previous layer poses;
 the compression is lossless in meaning, lossy only in elaboration.
 

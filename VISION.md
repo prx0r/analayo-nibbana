@@ -109,13 +109,15 @@ ONE glossary, no aliases from here on — these are the only names:
 
 | rung | name | §1 example | total |
 |---|---|---|---|
-| 0 | spine | the Q+A, ~20s | 6 micro-sessions |
-| a | expansion | the core beats unpacking each phrase | 93m |
-| b | expansion of a | the A-grade argument spans | 6.3h |
-| c | full | everything kept | 20.7h |
+| 0 | spine | the Q+A, ~20s | 6 micro-sessions (~2m chained) |
+| a | expansion | the core beats unpacking each phrase | ~90m (71 clips) |
+| b | expansion of a | the A-grade argument spans | ~6.5h (599 spans) |
+| c | full | the curated deepening (film C-cells) | ~168m screening |
+| d | archive | the pool files (reference only, never played) | 20.7h, 1196 spans |
 
-RETIRED aliases (mine, do not reintroduce): V1/V2/V3, core/gold/pool,
-seed, zoom layers, "L0–L3". Map only: seed=0, core=a, gold=b, pool=c.
+RETIRED aliases (mine, do not reintroduce): V1/V2/V3,
+seed, zoom layers, "L0–L3". Map only: seed=0, core=a, gold=b,
+pool files=d (archive). c = curated, not complete.
 
 ## 6b. Earlier formulation (kept for history)
 
