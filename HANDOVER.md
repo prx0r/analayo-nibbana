@@ -50,7 +50,7 @@ where things are, why, and what's next. Nothing here is decoration.
 
 ### `build/` — THE product data (canonical; read by gates and builders)
 - **Sources (edit only via logged fixes):** `segN_pool/gold/core_v4/script.json`
-  (pool 1195 / gold 596 incl. 6 essay-0 anchors / core 71 sharpened),
+  (pool 1196 / gold 597 incl. 6 essay-0 anchors + S2 dog-arc reinstatement §52 / core 71 sharpened),
   `segN_terms.json`, keys `fish_filter.py` + `blunt_key.json`,
   `quote_pool.json`, `verbatim_audio_v1.json` (71/71 aligned),
   `gold_fix_log.json`, `ear_floors.json`.
@@ -143,12 +143,14 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   they decide.
 
 ## Numbers that are true today (recomputed, not remembered)
-Pool 1195 spans 20.73h · gold 596 (6 essay-0 anchors promoted, §39) ·
-core **71 clips** · seed 6 units, 4.7m · A 33.1m · B 89.9m · C 167.9m ·
-**screening 294.9m (~4h55)** · G8 warns only the atomic refrain (ch1
-53s>30s). Containment 0⊂A⊂B⊂C exact (6/6, 71/71, 590/590 by overlap).
-p0 audio (local-only): seed 4.7m + S1..S6, 72/72 real voices, Fish Qs,
-room-bridge beds, dual-pass linear; p0_mix_check PASS.
+Pool 1196 spans 20.73h · gold 597 (6 essay-0 anchors promoted, §39, + S2
+dog-arc reinstatement §52) ·
+core **71 clips** · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.8m ·
+C 167.9m · **screening 292.3m (~4h52)** · G8 warns only atomic rung-0
+over-targets (documented WARNs, not fails). Containment 0⊂A⊂B⊂C exact
+(6/6, 71/71, 597/597 by overlap).
+p0 audio (local-only, pre-U4-extension): seed + S1..S6, 71/71 real
+voices, Fish Qs, room-bridge beds, dual-pass linear; p0_mix_check PASS.
 
 ## Next queue (in order)
 1. **Taste locks (owner):** essay-0 picks (U2/U6 standing), Fish voice

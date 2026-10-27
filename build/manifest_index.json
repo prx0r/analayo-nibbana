@@ -1,92 +1,92 @@
 {
  "s1_pool": {
   "clips": 329,
-  "min": 325.2,
-  "audio_ok": "215/329"
+  "min": 325.3,
+  "audio_ok": "329/329"
  },
  "s1_gold": {
   "clips": 190,
-  "min": 112.1,
-  "audio_ok": "133/190"
+  "min": 112.3,
+  "audio_ok": "190/190"
  },
  "s1_core": {
-  "clips": 14,
-  "min": 10.6,
-  "audio_ok": "11/14"
+  "clips": 11,
+  "min": 8.9,
+  "audio_ok": "11/11"
  },
  "s2_pool": {
   "clips": 220,
-  "min": 252.2,
-  "audio_ok": "119/220"
+  "min": 251.4,
+  "audio_ok": "220/220"
  },
  "s2_gold": {
-  "clips": 62,
-  "min": 55.0,
-  "audio_ok": "32/62"
+  "clips": 64,
+  "min": 57.4,
+  "audio_ok": "64/64"
  },
  "s2_core": {
-  "clips": 14,
-  "min": 26.4,
-  "audio_ok": "11/14"
+  "clips": 13,
+  "min": 25.5,
+  "audio_ok": "13/13"
  },
  "s3_pool": {
-  "clips": 193,
-  "min": 223.2,
-  "audio_ok": "144/193"
+  "clips": 194,
+  "min": 225.3,
+  "audio_ok": "194/194"
  },
  "s3_gold": {
-  "clips": 91,
-  "min": 63.7,
-  "audio_ok": "67/91"
+  "clips": 93,
+  "min": 66.3,
+  "audio_ok": "93/93"
  },
  "s3_core": {
   "clips": 15,
-  "min": 23.0,
-  "audio_ok": "11/15"
+  "min": 24.0,
+  "audio_ok": "15/15"
  },
  "s4_pool": {
-  "clips": 88,
-  "min": 69.9,
-  "audio_ok": "64/88"
+  "clips": 89,
+  "min": 70.4,
+  "audio_ok": "89/89"
  },
  "s4_gold": {
-  "clips": 54,
-  "min": 22.1,
-  "audio_ok": "38/54"
+  "clips": 56,
+  "min": 23.0,
+  "audio_ok": "56/56"
  },
  "s4_core": {
-  "clips": 9,
-  "min": 8.8,
-  "audio_ok": "6/9"
+  "clips": 5,
+  "min": 4.4,
+  "audio_ok": "5/5"
  },
  "s5_pool": {
   "clips": 239,
   "min": 251.0,
-  "audio_ok": "210/239"
+  "audio_ok": "239/239"
  },
  "s5_gold": {
   "clips": 115,
-  "min": 84.7,
-  "audio_ok": "107/115"
+  "min": 84.2,
+  "audio_ok": "115/115"
  },
  "s5_core": {
-  "clips": 16,
-  "min": 23.2,
-  "audio_ok": "14/16"
+  "clips": 14,
+  "min": 16.1,
+  "audio_ok": "14/14"
  },
  "s6_pool": {
-  "clips": 124,
-  "min": 120.6,
-  "audio_ok": "83/124"
+  "clips": 125,
+  "min": 121.7,
+  "audio_ok": "125/125"
  },
  "s6_gold": {
-  "clips": 78,
-  "min": 41.5,
-  "audio_ok": "52/78"
+  "clips": 79,
+  "min": 42.8,
+  "audio_ok": "79/79"
  },
  "s6_core": {
-  "clips": 15,
-  "min": 14.1,
-  "audio_ok": "11/15"
+  "clips": 13,
+  "min": 11.7,
+  "audio_ok": "13/13"
  }
 }

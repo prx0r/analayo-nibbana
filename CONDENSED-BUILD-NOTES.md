@@ -729,6 +729,65 @@ audio_p0 seed/S4 now stale for U4 — re-render queued (local-only).
 Stumble: my first windows edit dropped the `start` key (KeyError);
 restored, re-ran all four builders in order. §40's "names the mechanism"
 claim is now true of the pointer, not just the c2 window.
+## 55. All-questions 0→C trace + repairs + fresh render (2026-10-26/27, owner: "repeat for all questions, make it work")
+
+TRACES (assembly heard order vs pointer; B = manifest head + span samples
+vs transcript; C = pool head/grades/order):
+- Q2 S2: pointer dog → whirlpool bodies (why blind → what blind are
+  caught in) → winding/rope → abyss → six-base mechanism → name-form
+  joint → physician breach → ignorance-dethroned (c7: not the cause) →
+  cessation → akalika → three-periods/banana (claim→warrant, §37) →
+  Channa calm close. B: spine-first, ci=11 flood-isle/designation facets.
+  C: 220 spans, opens winding context. WORKS.
+- Q3 S3: pointer craving-gap → nominal name-form → shadow → honey
+  contact-chain (centerpiece) → delight-existence vs delight-nonexistence
+  (contrast pair) → Upasiva formula → asava tides → steadied →
+  no-delight-in-Nibbana → dispassion → non-abiding → yathabhuta terms →
+  Kalakarama non-duality (ring back to opener c1) → barb close. B:
+  spine-first, ci=10 conceit/mechanism facets (sewing-machine, film-show
+  sankhara). WORKS, exemplary.
+- Q4 S4: pointer (§54) → anidassana → five-elements-removed (echoes the
+  five groups the pointer now names) → gem-ceases → barb. B holds the
+  full c2 24s window (event+mechanism+Pali). 4 beats, every joint lands.
+  WORKS.
+- Q5 S5: pointer Bahiya → motto-arahant (frame) → Dona story+formula
+  (refrain with new context, not repeat) → razor → honing → tranquillity
+  → Upatissa → postures → me-foundation → endeavors → toolkits →
+  longing (§26 fix) → lotus → raft/forte close. B spine-first. WORKS.
+- Q6 S6: pointer grown-cool → chessboard+draw (§37 pair) → lotus →
+  knot → Tissametteyya (§26) → dispellers → faculties (§26) → prepared
+  path → farther shore → magic-show ×2 → detached-percepts close.
+  B spine-first. WORKS.
+Re-derivation holds all six (S2's root = blindness operating everywhere).
+C state: content nests fully everywhere (S5 pool had one stray C-grade
+span, see fix); sequence still cluster-order — C-sequence pass REMAINS
+queued, the one known gap.
+
+FIXES (all mechanical, all gated after):
+F1. MISSING-AUDIO-LNN labels in 18 manifest txts → lecture-NN.mp3 (all
+10 fetched lectures symlinked since §30; labels were era-1 drift). Zero
+MISSING-AUDIO strings remain.
+F2. manifest_index.json regenerated from current segs (was era-1: s1
+core 14 clips etc.). True now: pool 1196 / gold 597 / core 71;
+HANDOVER numbers corrected to match (§52's dog-arc reinstatement was the
++1). audio_ok full everywhere (33/33 DS present).
+F3. S5 pool L05 [3727-3751] (mind-picturesque, charana passage) C→B:
+sits in S5's dominant cluster (ci=9, 86/115 gold), practice-facet, no
+structural effect (gold is A-only). Reason logged here per axiom 12.
+
+RENDER (fresh, post-U4): full p0 render — 72/72 aligned, 0 placeholders,
+12 Fish Qs, 12 essay-0 direct. p0_mix_check PASS all 7 (beds/levels).
+Whisper small.en seed audit: 5/6 Qs transcribed + all six answers
+present incl. NEW "conceit ... five grasping groups" (U4 fix audible) and
+perception-tail (U3); Q5's 2s Fish line whisper-missed but render log +
+per-slice assert_audible prove inclusion (transcript-level → mechanical
+wins, per DONE taxonomy). ear_probes seed PASS (Q1 exact + motto head).
+FOUND EN ROUTE: audio_p0 held a mixed generation (seed.mp3 §52-gen 2.0m
+vs manifest.json §45-gen 4.71m + partial s1.wav from an unlogged 01:18
+render) — the mix checker correctly FAILED seed on the mismatch (gate
+did its job); full re-render resolved. Renders stay local-only,
+uncommitted. REMAINING for DONE: 2 descriptive omni rounds on this fresh
+render (scoped: seed + S4 deltas first) + taste locks (owner).
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)
