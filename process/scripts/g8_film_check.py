@@ -44,8 +44,14 @@ for s in range(1, 7):
     if ch.get('question') != CHAIN[s]:
         fails.append('ch%d question mismatch: %r' % (s, ch.get('question')))
     sets = {d: kset(ch[d]) for d in '0ABC'}
-    if not (sets['0'] <= sets['A'] <= sets['B'] <= sets['C']):
+    if not (sets['A'] <= sets['B'] <= sets['C']):
         fails.append('ch%d nesting broken' % s)
+    # 0 (essay-0 pointer) nests by CONTAINMENT inside A, not identity:
+    # pointers live inside core clips (2026-10-26 pointers).
+    for p in ch['0']:
+        if not any(c['lec'] == p['lec'] and c['start'] - 3 <= p['start']
+                   and p['end'] <= c['end'] + 3 for c in ch['A']):
+            fails.append('ch%d essay-0 pointer outside A: L%s [%.1f]' % (s, p['lec'], p['start']))
     for depth in '0ABC':
         for c in ch[depth]:
             for f in ('lec', 'start', 'end', 'dur', 'src', 'flags', 'depth'):

@@ -15,7 +15,7 @@ from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
 B = D / 'build'
-ESSAY0 = {1: 1, 2: 1, 3: 5, 4: 2, 5: 3, 6: 1}
+ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section, TEXT identity only (audio: build/essay0_windows.json)
 QS = {1: 'What is Nibbana?', 2: "Why don't I see Nibbana right now?",
       3: 'What keeps it going?', 4: 'How is the sense of self constructed?',
       5: 'How is Nibbana attained?', 6: 'What is Nibbana like?'}
@@ -117,7 +117,7 @@ def main():
             if e is None:
                 gapflags.append(f'S{s} core L{x["lec"]} [{x["start"]}]: no script row — FLAG')
         pairs = [(x, e) for x, e in pairs if e is not None]
-        opener = next(((x, e) for x, e in pairs if e['clip'] == ESSAY0[s]), pairs[0])
+        opener = next(((x, e) for x, e in pairs if e['clip'] == ESSAY0_BEAT[s]), pairs[0])
         ordered = [opener] + [(x, e) for x, e in pairs if e['clip'] != opener[1]['clip']]
         L.append(f'- opener: essay-0 (Q -> Analayo direct, no reader)')
         for x, e in ordered:

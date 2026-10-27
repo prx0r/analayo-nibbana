@@ -7,7 +7,7 @@
   "grade": "B",
   "ci": 1,
   "ismotto": false,
-  "note": "essay0-anchor whirlpool (pool grade B)"
+  "note": "flow-exception: S2 opening doorway beat (was essay-0 anchor pre-dog-swap; demoted, kept so B opens where A opens)"
  },
  {
   "lec": 10,
@@ -110,12 +110,13 @@
  },
  {
   "lec": 25,
-  "start": 3418.8,
-  "end": 3510.7,
+  "start": 1838.0,
+  "end": 1916.0,
+  "dur": 78.0,
   "grade": "A",
-  "dur": 91.9,
   "ci": 11,
-  "ismotto": false
+  "ismotto": false,
+  "note": "essay0-anchor: dog-reading arc (pool grade A)"
  },
  {
   "lec": 1,
@@ -492,6 +493,15 @@
   "end": 2136.9,
   "grade": "A",
   "dur": 52.4,
+  "ci": 11,
+  "ismotto": false
+ },
+ {
+  "lec": 25,
+  "start": 3418.8,
+  "end": 3510.7,
+  "grade": "A",
+  "dur": 91.9,
   "ci": 11,
   "ismotto": false
  },

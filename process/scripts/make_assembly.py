@@ -20,6 +20,20 @@ from collections import Counter
 
 D = '/root/analayo-nibbana'
 td = '/root/analayo-nibbana/build'
+# Essay-0 AUDIO pointers (owner 2026-10-26: pointers, not explanations).
+# Canonical single source: build/essay0_windows.json (all other ESSAY0
+# copies were deleted — R6). TEXT still comes from the script beat
+# (ESSAY0_BEAT below); only the spoken window is the pointer.
+E0W = {int(k): v for k, v in
+       json.load(open(td + '/essay0_windows.json')).items()}
+# Essay-0 TEXT overrides (default: the essay-0 beat's verbatim). S2's text
+# is the ignorance sentence alone (independently quoted S25 lines 88-90;
+# full simile stays in S2c13 where the screen needs the dog named).
+# Owner pick 2026-10-26. Plain/tts derived deterministically below.
+ESSAY0_TEXT = {
+    2: ("Due to the very ignorance of the fact that it is seeing because "
+        "it is looking, the dog imagines another dog, there, in the water."),
+}
 
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
@@ -46,7 +60,7 @@ QUESTIONS = {
 # the motto-echo that merely repeated essay-0 unit 1 (owner: "2 doesnt
 # answer the question for 2"). S3 b5 "What impels one to ignore that
 # gap is craving" answers "What keeps it going?".
-ESSAY0 = {1: 1, 2: 1, 3: 5, 4: 2, 5: 3, 6: 1}
+ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section: TEXT identity (audio: essay0_windows.json). S2=13 dog-seeing (owner pick 2026-10-26; was 1 whirlpool)
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}
@@ -60,7 +74,7 @@ for s in range(1, 7):
     byclip = {e['clip']: e for e in sc}
 
     # ---- OPENING: question -> essay 0 (text on screen, archive voice answers)
-    oi = ESSAY0[s] - 1
+    oi = ESSAY0_BEAT[s] - 1
     b1 = core[oi]
     b1e = byclip.get(b1.get('clip'))
     if b1e is None:
@@ -73,20 +87,26 @@ for s in range(1, 7):
         {'t': 'pause', 'dur': 3.0, 'role': 'recollect',
          'note': 'listener tries to answer first - this pause IS the learning'},
         {'t': 'verbatim',
-         'text': (b1e.get('nanananda_verbatim', '') if b1e else ''),
+         'text': ESSAY0_TEXT.get(s, (b1e.get('nanananda_verbatim', '') if b1e else '')),
          'plain': (b1e.get('tts_line', '') if b1e else ''),
          'sermon': (b1e.get('nanananda_sermon') if b1e else None),
          'essay': 0,
          'note': 'ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)'},
-        {'t': 'analayo', 'lec': b1['lec'], 'start': b1['start'],
-         'end': b1['end'], 'dur': b1.get('dur', round(b1['end'] - b1['start'], 1)),
-         'note': 'ESSAY 0 AUDIO: archive voice answers the question (the motif)'},
+        {'t': 'analayo', 'lec': E0W[s]['lec'], 'start': E0W[s]['start'],
+         'end': E0W[s]['end'],
+         'dur': round(E0W[s]['end'] - E0W[s]['start'], 1),
+         'note': 'ESSAY 0 AUDIO: pointer, not explanation (essay0_windows.json)'},
         {'t': 'water', 'dur': 2.5,
          'note': 'post-answer stillness: the answer lands before beats begin (2026-10-26 ear-pass: essay-0 slammed into beat-2 verbatim with zero pause)'},
         {'t': 'human-intro', 'ref': 'human-scripts.md section %d' % s,
          'status': 'optional-pending',
          'note': 'only if used: AFTER the answer, never between question and motto'},
     ]
+    if s in ESSAY0_TEXT:  # override text: deterministic gloss (same key path as beats)
+        import sys as _sys
+        _sys.path.insert(0, '/root/analayo-nibbana/process/scripts')
+        import rebuild_text as _rt
+        ev[3]['plain'] = _rt.tts(_rt.gloss(ev[3]['text']))
 
     # ---- BEATS 2..N: fixed stack TEXT VERBATIM -> PLAIN ENGLISH -> AUDIO
     for i, x in enumerate(core):

@@ -1,0 +1,38 @@
+{
+ "1": {
+  "end": 709.8,
+  "lec": 1,
+  "note": "motto refrain complete (standard rendering only; alternative lives in A)",
+  "start": 695.5
+ },
+ "2": {
+  "lec": 25,
+  "start": 1906.7,
+  "end": 1916.0,
+  "note": "dog-ignorance sentence (independently quoted S25 lines 88-90; full simile stays in S2c13)"
+ },
+ "3": {
+  "end": 1870.6,
+  "lec": 33,
+  "note": "craving sentence (+perception tail); deer setup lives in A",
+  "start": 1864.7
+ },
+ "4": {
+  "end": 2219.3,
+  "lec": 10,
+  "note": "no-notion through Here-I-am (mechanism tail lives in A)",
+  "start": 2208.9
+ },
+ "5": {
+  "end": 4462.3,
+  "lec": 14,
+  "note": "Bahiya formula (ears-confirmed complete; YT times too coarse to tighten)",
+  "start": 4442.4
+ },
+ "6": {
+  "end": 4014.0,
+  "lec": 1,
+  "note": "they would say + grown-cool line (2s Pali inside, archive-owned)",
+  "start": 4007.2
+ }
+}

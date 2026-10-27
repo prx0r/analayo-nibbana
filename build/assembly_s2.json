@@ -15,19 +15,19 @@
  },
  {
   "t": "verbatim",
-  "text": "The basic principle underlying this whirlpool is to be found in our\nbodies. What we call 'breathing' is a continuous process of emptying and\nfilling up. So even the so-called 'life-principle' is not much different\nfrom the activity of a whirlpool. The functioning of the lungs and the\nheart is based on the same principle and the blood circulation is in fact\na whirling round.",
-  "plain": "The basic principle underlying this whirlpool is to be found in our bodies. What we call 'breathing' is a continuous process of emptying and filling up. So even the so-called 'life-principle' is not much different from the activity of a whirlpool. The functioning of the lungs and the heart is based on the same principle and the blood circulation is in fact a whirling round.",
-  "sermon": 2,
+  "text": "Due to the very ignorance of the fact that it is seeing because it is looking, the dog imagines another dog, there, in the water.",
+  "plain": "Due to the very not seeing how it works of the fact that it is seeing because it is looking, the dog imagines another dog, there, in the water.",
+  "sermon": 25,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
  },
  {
   "t": "analayo",
-  "lec": 2,
-  "start": 5128.3,
-  "end": 5193.5,
-  "dur": 65.2,
-  "note": "ESSAY 0 AUDIO: archive voice answers the question (the motif)"
+  "lec": 25,
+  "start": 1906.7,
+  "end": 1916.0,
+  "dur": 9.3,
+  "note": "ESSAY 0 AUDIO: pointer, not explanation (essay0_windows.json)"
  },
  {
   "t": "water",
@@ -39,6 +39,31 @@
   "ref": "human-scripts.md section 2",
   "status": "optional-pending",
   "note": "only if used: AFTER the answer, never between question and motto"
+ },
+ {
+  "t": "verbatim",
+  "text": "The basic principle underlying this whirlpool is to be found in our\nbodies. What we call 'breathing' is a continuous process of emptying and\nfilling up. So even the so-called 'life-principle' is not much different\nfrom the activity of a whirlpool. The functioning of the lungs and the\nheart is based on the same principle and the blood circulation is in fact\na whirling round.",
+  "sermon": 2
+ },
+ {
+  "t": "fish",
+  "beat": 1,
+  "say": "The basic principle underlying this whirlpool is to be found in our bodies. What we call 'breathing' is a continuous process of emptying and filling up. So even the so-called 'life-principle' is not much different from the activity of a whirlpool. The functioning of the lungs and the heart is based on the same principle and the blood circulation is in fact a whirling round."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 2,
+  "start": 5128.3,
+  "end": 5193.5,
+  "dur": 65.2
+ },
+ {
+  "t": "water",
+  "dur": 3.6
  },
  {
   "t": "verbatim",
@@ -339,31 +364,6 @@
  {
   "t": "water",
   "dur": 4.2
- },
- {
-  "t": "verbatim",
-  "text": "When a dog, while crossing a stream, stops halfway on the plank and\nstarts wagging its tail and peeping curiously down, the reason is the\nsight of its own image in the water. It imagines a dog there, a\n'water-dog'. The dog thinks that there is something worthwhile seeing,\napart from the seen. It is unaware of the fact that it is seeing what\nit sees because it is looking. It thinks that it is looking because\nthere is something out there to be seen. The moment it realizes that\nit is seeing because it is looking, it will stop looking at its own\nimage in the water.",
-  "sermon": 25
- },
- {
-  "t": "fish",
-  "beat": 13,
-  "say": "When a dog, while crossing a stream, stops halfway on the plank and starts wagging its tail and peeping curiously down, the reason is the sight of its own image in the water. It imagines a dog there, a 'water-dog'. The dog thinks that there is something worthwhile seeing, apart from the seen. It is unaware of the fact that it is seeing what it sees because it is looking. It thinks that it is looking because there is something out there to be seen. The moment it realizes that it is seeing because it is looking, it will stop looking at its own image in the water."
- },
- {
-  "t": "breath",
-  "dur": 1.5
- },
- {
-  "t": "analayo",
-  "lec": 25,
-  "start": 3418.8,
-  "end": 3510.7,
-  "dur": 91.9
- },
- {
-  "t": "water",
-  "dur": 4.0
  },
  {
   "t": "zoom-bell"

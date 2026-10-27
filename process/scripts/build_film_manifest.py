@@ -106,9 +106,12 @@ for s in range(1, 7):
     gold = json.load(open('%s/build/seg%d_gold.json' % (D, s)))
     for i, c in enumerate(core):
         c['_src'], c['_fi'], c['_flags'] = 'core', i, flags_of(s, c)
-    lec0, st0 = e0win[s - 1]['lec'], e0win[s - 1]['start']
-    e0 = next((c for c in core if c['lec'] == lec0 and abs(c['start'] - st0) <= 2.5), None)
-    assert e0, 'e0 clip not found in core for section %d' % s
+    lec0, st0, en0 = e0win[s - 1]['lec'], e0win[s - 1]['start'], e0win[s - 1]['end']
+    # Essay-0 pointers live INSIDE core clips (essay0_windows.json), not on
+    # their boundaries: containment, not start-identity (2026-10-26 pointers).
+    e0 = next((c for c in core if c['lec'] == lec0 and c['start'] - 3 <= st0
+               and en0 <= c['end'] + 3), None)
+    assert e0, 'e0 pointer not inside any core clip for section %d' % s
 
     gkeep = []
     for g in gold:
@@ -168,13 +171,24 @@ for s in range(1, 7):
                      src=x['_src'], ci=x.get('ci'), grade=x.get('grade'),
                      flags=x['_flags'], depth=depth) for x in items]
 
-    manifest['chapters'][str(s)] = {'question': QS[s], '0': pack([e0], '0'), 'A': pack(A, 'A'),
+    # Depth 0 = the essay-0 POINTER window (seed's atomic clip), NOT the full
+    # core beat — pointers live inside core clips (2026-10-26 pointers).
+    e0w = e0win[s - 1]
+    cell0 = [dict(lec=e0w['lec'], start=e0w['start'], end=round(e0w['end'], 2),
+                  dur=round(e0w['end'] - e0w['start'], 1), src='core',
+                  ci=e0.get('ci'), grade=e0.get('grade'), flags=[],
+                  depth='0')]
+    manifest['chapters'][str(s)] = {'question': QS[s], '0': cell0, 'A': pack(A, 'A'),
                                     'B': pack(B, 'B'), 'C': pack(C, 'C')}
-    for dep, items in (('0', [e0]), ('A', A), ('B', B), ('C', C)):
-        grand[dep] += dcell(items)
+    for dep, items in (('0', cell0), ('A', A), ('B', B), ('C', C)):
+        grand[dep] += sum(c['end'] - c['start'] for c in items)
     ks = lambda cells: {(c['lec'], round(c['start'], 1)) for c in cells}
     ch = manifest['chapters'][str(s)]
-    assert ks(ch['0']) <= ks(ch['A']) <= ks(ch['B']) <= ks(ch['C']), 'nesting s%d' % s
+    assert ks(ch['A']) <= ks(ch['B']) <= ks(ch['C']), 'nesting s%d' % s
+    p0 = ch['0'][0]
+    assert any(c['lec'] == p0['lec'] and c['start'] - 3 <= p0['start']
+               and p0['end'] <= c['end'] + 3 for c in ch['A']), \
+        'essay-0 pointer outside A for s%d' % s
 
 json.dump(manifest, open('%s/build/film_manifest.json' % D, 'w'), indent=1)
 scr = sum(grand.values())

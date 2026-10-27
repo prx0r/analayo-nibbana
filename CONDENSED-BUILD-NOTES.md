@@ -593,3 +593,113 @@ peaks — rooms never get loudnorm) and `-v error` hiding the dual-pass JSON
 takeaways for us: excerpt-edge disclaimer habit, batch discipline, fix
 ledger shape. Ours back to them: render-time audibility tripwire, A⊂B
 nesting proof, storyboard clocks.
+
+## 47. Bridge ears: model denies measurable pauses (2026-10-26)
+Fresh S1 (room bridges) to omni, two framings: quality-describe ->
+"seamless, no pauses exist"; exhaustive-list -> "NONE", duration wrong
+(1000s vs 816s). p0 check same file: 23/23 beds at position. Verdict:
+bed PERCEPTION unstable, refuted by meters — logged in ledger, feeling
+of joins stays human-only. Model Reliable so far: verbatim quotes,
+timestamps of speech events, defect absence on speech; unreliable:
+counts, durations, pause perception, blanket verdicts.
+
+## 48. Probe protocol: making ears truthful (2026-10-26, owner: how?)
+Answer: you don't make the MODEL truthful — you make LYING USELESS.
+process/scripts/ear_probes.py: engine generates checkable probes from
+ground truth it holds (windows, expected sentences); model answers with
+quotes; script fuzzy-verifies (>=0.8 Q / >=0.6 answer-head); temperature 0,
+JSON schema, short clips. Pilot on seed U1: PASS with exact quotes.
+Banned: verdicts, counts, durations, multi-clip batteries (all proven
+confabulation-positive). Reliability ledger per probe kind lives in the
+script header; promote only on canary separation.
+
+## 49. Session handover (2026-10-26, owner: handover + update all notes)
+HANDOVER.md rebuilt to current truth (branch state ef30f91→HEAD, numbers
+1195/596/71, p0 draft rules, DONE rule, refreshed queue, 7 new traps).
+FILES.md / README.md / REPRODUCE.md updated (13/14 docs, new builders,
+gates, tools, sfx, sermon-readings, TIMINGS staleness flagged, pool/gold
+counts). MISTAKES (M-R1–R8) + RECURRING-MISTAKES (R1–R9) current.
+Everything green: verify.sh ALL PASS, p0_mix_check PASS. Open: taste
+locks (U2/U6, voice, 16 demotes, intros), p1 (bells+sfx+YT maps),
+C-sequence, G-ear wiring. Renders local-only, uncommitted by rule.
+
+## 50. Essay-0 endings audit (2026-10-26, owner: show me where each ends)
+Read all six closing sentences from transcripts: U1 ends "...cessation,
+Nibbana" (clean) / U2 "...rich desirelessness" verse payoff (clean) /
+U4 "...five grasping groups" (clean) / U5 "...end of suffering" (clean) /
+U6 "...comes gratis" (payoff, clean) / U3 ENDED MID-SENTENCE ("The Buddha
+has compared—", 1877.7). Fix: U3 window trimmed to 1870.6 (answer sentence
+completes inside [1864.7-1870.6]); the seamstress tail stays in S6 where it
+belongs (no front-loading S6's motif into the seed — unfolding law).
+Applied to core + gold anchor; assemblies/seed/film/storyboard rebuilt;
+verify ALL PASS. 6/6 essay-0s now open AND close clean. Rung-0 ch3 budget
+still holds (45s vs 75s).
+
+## 51. Essay-0 pointers (2026-10-26, owner: pointers not explanations)
+Seed answers were 53/65/26/24/20/52s (3.9m of explanation). Owner: the
+motto IS the answer; Analayo must not elaborate in essay 0. New audio
+windows (build/essay0_windows.json, canonical single source — deleted
+the 3 ESSAY0 const copies): U1 refrain 14s / U2 whirlpool+both-halves
+18s / U3 craving sentence 6s / U4 mirror moment 10s / U5 Bahiya 20s
+(kept: YT too coarse, ears-confirmed) / U6 grown-cool line 7s. Total
+75s; seed ≈ 2m. TEXT layer untouched (full quotes, provenance). Film
+rung-0 now 1.3m (old over-target WARNs gone); G8 nesting adapted to
+containment (pointer inside A). 12-ARGUMENT stale essay-0 block
+rewritten to current truth. verify ALL PASS.
+
+## 52. U2 dog swap (2026-10-26, owner: "perfect lets use that")
+Whirlpool demoted with cause (answers "caught in", not "blind").
+U2 = dog-ignorance sentence (S25 independently quoted; spoken L25
+[1906.7-1916.0], 9s); TEXT = the sentence (plain 29 words, budget holds,
+no gate change); S2c13 clip -> full dog-reading arc L25 [1838-1916]
+(78s, upgrades allusion-only window); pool reinstated the cut region
+(S2 L25 [1838-1916] grade A essay0-anchor; era-1 cut as repetition, but
+the kept allusion dangled without its referent); gold mirrors it;
+whirlpool stays S2 opener (flow-exception in gold). A⊂B back to 71/71;
+film 0=1.1m; verify ALL PASS. ## 53. Essay-0 locked + how to write one for a new text (2026-10-26, owner: "lock this in")
+
+LOCK: the six in assembly_s0_seed.json / essay0_windows.json are the
+actual essay 0. U2 = dog-ignorance (owner: "perfect"). 12-ARGUMENT chain
++ current-six list corrected to match (whirlpool/scatter/show wordings
+were stale). verify ALL PASS after edit (gates read build/, not prose).
+
+WHY DOG IS U2: Q2 asks blindness ("why don't I SEE"), not location
+("what am I caught in"). Whirlpool answers the second question — bodies,
+blood, whirling round between name-form and consciousness. The dog
+answers the asked one: it is seeing because it is looking, and ignorance
+of that fact projects another dog in the water. Blindness named,
+mechanism named, in one sentence. Independently quoted (S25), spoken
+clean in 9s (L25 [1906.7-1916.0]), full simile kept in S2c13 [1838-1916]
+so the pointer has its referent. Whirlpool demoted with cause to S2
+opener (flow-exception in gold) — kept for what it is, removed from
+what it isn't.
+
+METHOD (new text in front of you, asked for an essay 0):
+1. Section first: which of the six slots does this material fill
+   (claim / mechanism / obstacle / construction / practice / remainder)?
+   If none, the sections are wrong, not the text.
+2. Hunt the sentence that IS the answer — extracted with provenance,
+   never composed. Candidates are real quotes, 1–3 per section, each
+   carrying {source, start, end}. No provenance = not a candidate.
+3. Write Q+A as ONE micro-session, in one sitting. Read Q aloud, then
+   A aloud. Any leap, vagueness, or needing the previous section to
+   parse = the QUESTION is wrong. Fix the question; the verbatim is
+   untouchable. Naked pronouns fail ("is any of WHAT real?").
+4. Run the formula (12-ARGUMENT): standalone+precise, the cut (answer
+   N-1 must demand question N), content-fit (no leap on the oral test),
+   plain (everyday words, ≤9, Fish-flat).
+5. Shrink the AUDIO to the pointer: the sentence, 6–20s, opening and
+   closing clean (no chant, no preamble, no mid-sentence). TEXT keeps
+   the full quote. If no clean window exists in the archive voice, the
+   candidate is unusable — pick another, don't pad or bridge with prose.
+6. Re-derivation test: compress the section's A to one root sentence.
+   If the root isn't your essay 0, one of them is wrong. Essay 0 is
+   distilled FROM the section, never retrofitted onto it.
+7. Owner picks among surviving candidates. Evidence informs, ear
+   decides. Losers are demoted with cause in one line each (what it
+   answers instead), never deleted silently.
+Rule of the whole thing: the answer pre-exists in the text; your only
+authorship is the question that makes it audible.
+(§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
+missed, match by window; first c13 end-typing wrote 1895 not 1916 —
+caught by film assert.)

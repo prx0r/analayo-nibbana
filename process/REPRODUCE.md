@@ -34,6 +34,21 @@ make_assembly.py) read AND write it directly; /tmp is scratch only
    Data patches that must be present (logged notes §32-32c): head-
    back-ports (S1 L19->348, S6 L27->661.84), pool-move L33 2->3,
    pool-adds L10->4 and L01->6, six essay-0 stacks.
+6d. Sharpen A (order only): edit `segN_core_v4.json` arrays + matching
+   `manifest_sN_core_v4.txt` lines, then 6e–6f.
+6e. Sharpen B: `python3 process/scripts/sharpen_gold.py` (sequence law,
+   edge re-snap, motto-cap manifests; log build/gold_fix_log.json).
+6f. Storyboard: `python3 tools/build_storyboard.py` (build/STORYBOARD.md).
+6g. Align verbatim: `python3 tools/align_verbatim_audio.py`
+   (build/verbatim_audio_v1.json; must print ok=71).
+6h. Render p0: `python3 tools/render_a_essay.py` (needs FISH_API_KEY env
+   or characters/audition/.env; free model pinned; writes build/audio_p0/
+   + manifest.json with per-slice timeline). Renders are local-only,
+   never committed.
+6i. Mix proof: `python3 process/scripts/p0_mix_check.py` (must PASS).
+6j. Ear protocol: fixtures (`ear_regression.py`, calibration only),
+   probes (`ear_probes.py`, must PASS), omni descriptive rounds per
+   14-LISTENING (scoped re-listens). Ledger: build/EAR_LEDGER.md.
 7. Run `process/verify.sh` — G1 totals, G5 semantic quote-anchor,
    G6 punctuation/Pali, G6b hardened (leading-run + term-attachment +
    embedded canary), G7 essay/chain/seed, G8 film manifest (nesting,

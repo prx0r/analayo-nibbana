@@ -18,3 +18,14 @@
 
 Taste → policy row once, never re-litigated. Transcript-level → discard
 (G5). Unstable → discard when refuted by verbatim. Mechanical → block.
+
+## Bridge perceptual check: INCONCLUSIVE (2026-10-26)
+
+Model (fresh S1, bridges in): "no pauses between clips... single
+uninterrupted flow" — then, asked to list pauses: "NONE", duration
+"1000.0s" (actual 816s). p0_mix_check on the same file: 23/23 beds
+present at position. Ruling per taxonomy: model perception of beds =
+UNSTABLE, refuted by engine → discard. Beds proven present; whether
+room-joins *feel* continuous vs cliffy stays human-only until the model
+passes a pause-counting canary. Lesson: agreeableness wears many
+costumes — "perfectly seamless" is the same disease as "all CLEAN".

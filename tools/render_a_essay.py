@@ -18,7 +18,10 @@ D = Path('/root/analayo-nibbana')
 BUILD = D / 'build'
 SR = 44100
 FISH_RATE = 150  # wpm, flat
-ESSAY0 = {1: 1, 2: 1, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section (mirror make_assembly)
+ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section, TEXT identity only.
+# Canonical essay-0 AUDIO windows live in build/essay0_windows.json and ride
+# inside assemblies (seed + section openers) — this file never defines windows
+# (single-source rule, R6; deleted the duplicate 2026-10-26 pointers).
 
 # Draft rule (owner 2026-10-26): NO PLAIN in this draft — verbatim -> Analayo
 # directly. Fish keeps questions only; beat plain lines + term drops skipped.
@@ -250,9 +253,9 @@ def verbatim_wavs(s, clip, text, sermon):
 def verbatim_slot(events, i, e, tag, n):
     """Resolve (s, clip) for a verbatim event (shared by render + voice-id)."""
     if tag == 'seed':
-        return e['unit'], ESSAY0[e['unit']]
+        return e['unit'], ESSAY0_BEAT[e['unit']]
     if i == 3:
-        return n, ESSAY0[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
+        return n, ESSAY0_BEAT[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
     nxt = next(x for x in events[i + 1:] if x['t'] == 'fish' and 'beat' in x)
     return n, nxt['beat']
 
@@ -344,9 +347,9 @@ def render_section(n, events, tag):
                 ESSAY0_WINDOWS.append((e['lec'], e['start'], e['end']))
         elif t == 'verbatim':
             if tag == 'seed':
-                s, clip = e['unit'], ESSAY0[e['unit']]
+                s, clip = e['unit'], ESSAY0_BEAT[e['unit']]
             elif i == 3:
-                s, clip = n, ESSAY0[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
+                s, clip = n, ESSAY0_BEAT[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
             else:
                 nxt = next(x for x in events[i + 1:] if x['t'] == 'fish' and 'beat' in x)
                 s, clip = n, nxt['beat']

@@ -95,15 +95,15 @@ tests.
       titles the owner liked, Q6 "What is Nibbana like?" preferred;
       Q2 kept. Questions are POINTERS — the anchor rule serves the
       owner's ear, not the reverse. "me in nibbana" = category error.)
-  2 Why don't I see Nibbana right now? → the whirlpool is found in
-      our own bodies; ordinary beings are caught up in it [urgent cut]
+  2 Why don't I see Nibbana right now? → the dog imagines another dog
+      in the water: it is seeing because it is looking [blind, not caught]
   3 What keeps it going?             → craving impels the gap that
       is ignored ("What impels one to ignore that gap is craving")
   4 How is the sense of self
-     constructed?                → you all scatter form, feeling,
-      perception, preparations, consciousness
+     constructed?                → looking in the mirror: "Ah, here I am!"
+      (the conceit "I" arising from the five grasping groups)
   5 How is Nibbana attained?          → in the seen only the seen
-  6 What is Nibbana like?              → the seeing outlasted the show
+  6 What is Nibbana like?              → grown cool, extinguished as I am
 
 Lead-in test (each question is a KICK-OFF: 4-7 words, and it is the
 sentence its predecessor's answer demands):
@@ -154,20 +154,30 @@ suffer). Next time, and as the rule for any rebuild:
 4. The chain edge-test (above) runs on the micro-sessions, not on
    abstract question labels.
 
-Current six (post-fix, all Q→A leaps closed by question rewrites):
-Q "What keeps it going?" ← twelve-links dependent-arisen (never said
-"suffer", so the old Q was wrong); Q "Is any of it real?" ← form only
-in name (answers reality directly); Q "What's left when the show
-stops?" ← the magic-show quote (primes "show", closes the leap).
+Current six (owner-locked chain; each essay 0 is the section's root,
+distilled FROM its A USING the re-derivation test, 2026-10-26):
+Q "What is Nibbana?" ← motto refrain (the definition itself);
+Q "Why don't I see Nibbana right now?" ← dog-ignorance sentence
+(owner-locked 2026-10-26: answers blindness, not caught-in; whirlpool
+demoted to S2 opener with cause, notes §52–53); Q "What keeps it going?"
+← craving-gap; Q "How is the sense of self constructed?" ← mirror
+"Ah, here I am!" + five-groups mechanism in-window (Q4 seam closed on
+transcript, notes §40); Q "How is Nibbana attained?" ← Bahiya;
+Q "What is Nibbana like?" ← grown-cool (callback gamble, disclosed).
+Older candidates (twelve-links echo, name-formal, scatter, magic-show,
+"Is any of it real?", "What's left when the show stops?") are SUPERSEDED —
+kept in notes history only, never revived without re-running the formula.
 
-### Essay-0 status (ESSAY0 dict in make_assembly.py — ENFORCED, not candidates)
-S1=beat 1 (motto). S2=beat 7 (twelve-links/principle — mechanism;
-replaces the motto-echo that answered the wrong question). S3=beat 1
-(name is a formal name — why it feels real). S4=beat 2 (painter/
-scatter — what the self is made of; the stars-line demoted to a
-regular beat: anidassana is depth material, not the answer). S5=beat 3
-(Bahiya instruction; head may land on the "cognized" fragment — snap
-to pause at render). S6=beat 1 (magic-show — the seeing remains).
+### Essay-0 status (audio: essay0_windows.json — ENFORCED pointers, not candidates)
+S1 motto refrain L01 [695.5-709.8] (14s). S2 dog-ignorance sentence L25
+[1906.7-1916.0] (9s; independently quoted S25; full simile stays in S2c13
+whose clip moved to the full reading [1838-1916]). S3 craving-gap
+L33 [1864.7-1870.6] (6s). S4 mirror L10 [2208.9-2219.3] (10s). S5 Bahiya
+L14 [4442.4-4462.3] (20s; YT times too coarse to tighten, ears-confirmed).
+S6 grown-cool L01 [4007.2-4014.0] (7s). Total ≈ 75s. Whirlpool stays S2's
+opening beat (flow-exception in gold), demoted with cause: it answers
+"what am I caught in", not "why am I blind". TEXT layer stays the
+full quotes (provenance); only the spoken window is the pointer.
 
 
 
