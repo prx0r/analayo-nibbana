@@ -156,9 +156,10 @@ p0 audio (local-only, pre-U4-extension): seed + S1..S6, 71/71 real
 voices, Fish Qs, room-bridge beds, dual-pass linear; p0_mix_check PASS.
 
 ## Next queue (in order)
-1. **Taste locks (owner):** essay-0 picks (U2/U6 standing), Fish voice
-   approval (audition sent), 16 demote calls (gold_fix_log.json),
-   human intros (slots empty by design).
+1. **Taste locks (owner):** essay-0 picks (U2 locked dog 2026-10-26; U6
+   standing), Fish voice approval (audition sent), 16 demote calls
+   (gold_fix_log.json), human intros (slots empty by design).
+   Coverage picks (REVIEW-COVERAGE.md P1–P12) join this list.
 2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
    blocks per assets/sfx/README.md) + YT anchor-maps at cut.
 3. **Film-C curation** (pool-only gems → film C-cells; budgets are
