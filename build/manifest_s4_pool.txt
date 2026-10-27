@@ -1,4 +1,5 @@
 L07 1189.3-1253.9 B lecture-07.mp3
+L07 663.0-685.5 A lecture-07.mp3
 L07 1663.0-1690.0 B lecture-07.mp3
 L07 3679.2-3701.1 A lecture-07.mp3
 L07 4726.1-4803.7 B lecture-07.mp3

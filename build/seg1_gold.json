@@ -45,13 +45,13 @@
   "ismotto": false
  },
  {
-  "lec": 33,
-  "start": 3105.1,
-  "end": 3231.1,
-  "grade": "B",
-  "dur": 126.0,
-  "ci": 8,
-  "note": "B*: consciousness-is-the-middle + sakkaya=five-groups (lands between c4 and ocean: designation -> gap -> calm)"
+  "lec": 20,
+  "start": 4044.0,
+  "end": 4115.5,
+  "grade": "A",
+  "dur": 71.5,
+  "ci": 2,
+  "note": "A+ (promoted \u00a759): fire catechism (DS-verified): question + \"wouldn't do as reply... reckoned as extinguished\" after c4"
  },
  {
   "lec": 29,
@@ -60,7 +60,16 @@
   "grade": "B",
   "dur": 151.9,
   "ci": 4,
-  "note": "B*: mid-ocean calm + carpenter gradual-path after c4 ocean (same image family)"
+  "note": "B*: mid-ocean calm + gradual carpenter path after c4 ocean (same image; \u00a759 P-review)"
+ },
+ {
+  "lec": 33,
+  "start": 3105.1,
+  "end": 3231.1,
+  "grade": "B",
+  "dur": 126.0,
+  "ci": 8,
+  "note": "B*: consciousness-is-the-middle + sakkaya=five-groups between c4 and ocean (concept -> gap -> calm)"
  },
  {
   "lec": 1,
@@ -132,7 +141,7 @@
   "grade": "B",
   "dur": 135.2,
   "ci": 19,
-  "note": "B*: Radha catechism (holy life merges into Nibbana like rivers into sea) extends c11 freedom close"
+  "note": "B*: Radha catechism (holy life merged into Nibbana, rivers into sea) extends c11 close"
  },
  {
   "lec": 9,

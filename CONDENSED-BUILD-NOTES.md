@@ -930,6 +930,44 @@ free-first ears (G9 local gate, Qwen reserved), D=archive / C=curated
 rename (TIMINGS/VISION/10-MATHEMATICS/03-GOLD-CORE/FILES/HANDOVER
 reconciled to files). verify.sh ALL PASS throughout; audio_p0 frozen
 since the U4/U3/tail/trim render (mix PASS, ear_local PASS).
+## 60. Coverage review: 33 sermons read, REVIEW-COVERAGE.md (2026-10-27, owner: "read the actual 33 sermons")
+
+All 33 excavations read in full, first-time, in 4 parallel passes. Score:
+COVERED 2 (S15 Bahiya, S18 two-elements) + spines; 1 MISSING in A/0
+(S12 nippapanca/Colombo parable); PARTIAL 30. Pattern: spine holds (all
+six questions truly answered), but 1-8 lose arguments (island, fire
+catechism, Cetasutta, cinema engine, Kevaddha verse, cord/shuttle),
+9-16 lose instruments (etiology, contact hybrid, designation-grammar,
+signless samadhi, atammayata), 25-33 lose instructions (element-body,
+signless development, peg, 36 pathways, balancing, gap mechanics).
+12 sourced promotions proposed (P1-P12, with sequence-law slots, sutta-
+list declined with reason) — none applied in this note; composition is
+the owner's call (taste lock). Full verdict + ranked gaps + adjudication
+rules live in REVIEW-COVERAGE.md (root).
+
+## 61. P1–P12 applied: coverage gaps closed with sourced promotions (2026-10-27, owner: "i trust u, go")
+
+REVIEW-COVERAGE § verdict stood one session; this pass executes the
+promotion queue (sutta-list declined, logged there). 8 existing pool
+spans promoted to gold (sequence-law neighborhoods, reasons on each):
+S1 ocean/carpenter + consciousness-middle + etymology + timeless +
+brahmacharya; S4 sankhata-debate (new closer) + anidassana-Harvey;
+S6 island + L27 proliferation. 6 new spans cut from DS-verified word
+times (pool+gold, no invented anything): S5 signless-Rahula [981.1-992.2]
++ avitakka-smoked-out [3026.2-3033.0]; S1 Kevaddha verse [663.0-685.5]
+(opens on English, no chant); S1 fire catechism [4044.0-4115.5];
+S2 murderer refrain [3281.5-3365.5] (ends on "for a long time", before
+the contrast); S2 twig intermittence [1500.0-1606.5]. Peg span extended
+[2692.7→2773.0] through the carpenter sentence (verified complete).
+All new windows open AND close clean per faster-whisper word timestamps
+(CF transcripts where native, DS audio where YT); sutta-list stays pool
+(authority-framing, not argument). Gold 597→614, pool 1196→1202. Film
+absorbed 5 into B+C cells; C stays within budget (swap logic held —
+queued L29-avijakka-style items wait for owner budget calls, per rule).
+verify.sh ALL GATES PASS. Whisper edge-verification is now G9
+(ear_local.py): every fix above is a regression test, rerun free on
+every render. No Qwen spent this pass except the already-logged rounds;
+free-first protocol holds (14-LISTENING §0).
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)

@@ -38,9 +38,11 @@ L05 3751.5-3819.1 A lecture-05.mp3
 L09 728.2-806.0 A lecture-09.mp3
 L09 1077.2-1111.3 B lecture-09.mp3
 L11 3073.8-3199.9 B lecture-11.mp3
+L29 3026.2-3033.0 B lecture-29.mp3
 L05 410.3-489.0 A lecture-05.mp3
 L05 513.2-599.5 B lecture-05.mp3
 L29 1462.9-1586.9 B lecture-29.mp3
+L29 981.1-992.2 B lecture-29.mp3
 L04 5437.9-5493.8 B lecture-04.mp3
 L05 256.8-313.6 B lecture-05.mp3
 L09 1003.9-1037.6 A lecture-09.mp3
@@ -195,7 +197,7 @@ L30 1533.3-1564.0 A lecture-30.mp3
 L30 1646.5-1687.9 A lecture-30.mp3
 L30 2545.5-2625.5 A lecture-30.mp3
 L30 2634.3-2679.0 A lecture-30.mp3
-L30 2692.7-2745.6 A lecture-30.mp3
+L30 2692.7-2773.0 A lecture-30.mp3
 L30 2773.7-2900.1 B lecture-30.mp3
 L30 3203.4-3228.8 A lecture-30.mp3
 L30 3450.6-3452.7 A lecture-30.mp3

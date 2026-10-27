@@ -19,17 +19,17 @@ asymmetry is structural. Total Analayo runtime in core: 90.5 min.
 The essay-0 host beat of each section is consumed by the opening
 (pointer replaces it), so the heard A is 65 beats + 6 pointers.
 
-## The nesting ratio ≈ 3.5 per layer (measured, not set)
+## The nesting ratio ≈ 3–4.5 per layer (measured, not set)
 | layer | size | share of previous |
 |---|---|---|
-| D archive | 20.7 h (1,196 spans) | — (reference, not a rung) |
-| V2 gold | 6.7 h (608 spans: A + anchors + documented B*) | ÷3.1 |
+| D archive | 20.84 h (1,202 spans) | — (reference, not a rung) |
+| V2 gold | 6.8 h (614 spans: A + anchors + documented B*) | ÷3.2 |
 | V3 core | 1.51 h Analayo (71 clips) | ÷4.28 |
 | seed (§1 core) | ~0.21 h Analayo | — |
 | compression | ultimate (1 word: stilling) | ÷everything |
 
-Pool → core total compression ≈ **13.7×**. The grading rule (A=spine,
-B=flow, C=cut) was never tuned to hit a ratio — ~3–4×/layer is the
+Pool → core total compression ≈ **13.8×**. The grading rule (A=spine,
+B=flow, C=cut) was never tuned to hit a ratio — ~3–4.5×/layer is the
 material's own density constant. Self-similarity across scales: the
 cluster order is IDENTICAL at pool, gold, and core (same sort key),
 so each layer is the same walk at a different resolution. That is the
@@ -57,17 +57,17 @@ seed-reprise, 1 terminal silence.
   30 s = 20 breaths: the close is scored in the same unit as everything.
 
 ## 1 word
-20.7 h → 6.45 h → 1.5 h → 2 min (seed) → 1 sentence (the motto) → 1 word:
+20.9 h → 6.8 h → 1.5 h → 2 min (seed) → 1 sentence (the motto) → 1 word:
 **stilling.** Each layer answers the question the previous layer poses;
 the compression is lossless in meaning, lossy only in elaboration.
 
 ## Invariants (what makes it mathematics, not layout)
 1. Same order at every scale (cluster sort key shared pool→gold→core).
-2. Every span in exactly one segment (totals reconcile: 20.70 h).
+2. Every span in exactly one segment (totals reconcile: 20.84 h).
 3. Every beat is the same 5-tuple (*motto-bell?*, fish, breath,
-   analayo, water) — 72 repetitions of one rhythmic cell.
+   analayo, water) — 71 repetitions of one rhythmic cell.
 4. No two bells within 30 s of each other. No motto stacking in gold.
-5. Provenance closes over everything (75/75 verified excerpts).
+5. Provenance closes over everything (78/78 verified excerpts).
 
 ## Falsifiability
 Re-grade with different thresholds and recompute: if pool/gold or

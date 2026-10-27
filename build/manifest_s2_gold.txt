@@ -7,7 +7,9 @@ L23 5132.5-5259.3 A lecture-23.mp3
 L28 786.3-838.5 A lecture-28.mp3
 L04 485.5-612.2 A lecture-04.mp3
 L04 3142.9-3199.8 A lecture-04.mp3
+L17 1500.0-1606.5 A lecture-17.mp3
 L04 4313.4-4374.2 A lecture-04.mp3
+L22 3281.5-3365.5 A lecture-22.mp3
 L03 2906.5-2994.7 A lecture-03.mp3
 L04 2129.5-2230.9 A lecture-04.mp3
 L25 1838.0-1916.0 A lecture-25.mp3

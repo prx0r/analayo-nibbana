@@ -3,8 +3,9 @@ L01 3083.6-3111.6 B lecture-01.mp3
 L01 3243.8-3345.2 A lecture-01.mp3
 L01 4195.0-4229.6 A lecture-01.mp3
 L21 412.6-455.4 A lecture-21.mp3
-L33 3105.1-3231.1 B lecture-33.mp3
+L20 4044.0-4115.5 A lecture-20.mp3
 L29 1992.8-2144.7 B lecture-29.mp3
+L33 3105.1-3231.1 B lecture-33.mp3
 L01 4691.2-4723.6 A lecture-01.mp3
 L01 4230.4-4273.6 A lecture-01.mp3
 L01 4523.9-4561.2 A lecture-01.mp3

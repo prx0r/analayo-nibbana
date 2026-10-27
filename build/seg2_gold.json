@@ -82,6 +82,15 @@
   "ismotto": false
  },
  {
+  "lec": 17,
+  "start": 1500.0,
+  "end": 1606.5,
+  "grade": "A",
+  "dur": 106.5,
+  "ci": 7,
+  "note": "A+ (promoted \u00a759): twig-fire intermittence + steadied-contemplates-passing (DS-verified) in c9 akalika neighborhood"
+ },
+ {
   "lec": 4,
   "start": 4313.4,
   "end": 4374.2,
@@ -89,6 +98,15 @@
   "dur": 60.8,
   "ci": 10,
   "ismotto": false
+ },
+ {
+  "lec": 22,
+  "start": 3281.5,
+  "end": 3365.5,
+  "grade": "A",
+  "dur": 84.0,
+  "ci": 10,
+  "note": "A+ (promoted \u00a759): murderer refrain + elevenfold cure (DS-verified) in c11 wrong-view neighborhood"
  },
  {
   "lec": 3,

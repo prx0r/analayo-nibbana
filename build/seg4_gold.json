@@ -11,12 +11,21 @@
  },
  {
   "lec": 7,
+  "start": 663.0,
+  "end": 685.5,
+  "grade": "A",
+  "dur": 22.5,
+  "ci": 0,
+  "note": "A+ (promoted \u00a759): Kevaddha charter verse (DS-verified, English open, no Pali-chant cold open) \u2014 S4 anchor"
+ },
+ {
+  "lec": 7,
   "start": 1189.3,
   "end": 1253.9,
   "grade": "B",
   "dur": 64.6,
   "ci": 0,
-  "note": "B*: anidassana epithet + Harvey/SA comparison in c1 gist neighborhood (YT timebase)"
+  "note": "B*: anidassana epithet + Harvey/SA comparison in c1 gist neighborhood (YT timebase, DS-verified)"
  },
  {
   "lec": 10,

@@ -36,6 +36,15 @@
   "ismotto": false
  },
  {
+  "lec": 29,
+  "start": 981.1,
+  "end": 992.2,
+  "grade": "B",
+  "dur": 11.1,
+  "ci": 4,
+  "note": "B*: \"Develop the signless... give up latency to conceit\" (DS-verified) in c8 honing neighborhood"
+ },
+ {
   "lec": 5,
   "start": 4160.0,
   "end": 4273.3,
@@ -43,6 +52,15 @@
   "dur": 113.3,
   "ci": 2,
   "ismotto": false
+ },
+ {
+  "lec": 29,
+  "start": 3026.2,
+  "end": 3033.0,
+  "grade": "B",
+  "dur": 6.8,
+  "ci": 2,
+  "note": "B*: avitakka smoked-out-without-residue (DS-verified) in c5 tranquillity neighborhood"
  },
  {
   "lec": 5,
@@ -796,9 +814,9 @@
  {
   "lec": 30,
   "start": 2692.7,
-  "end": 2745.6,
+  "end": 2773.0,
   "grade": "A",
-  "dur": 52.9,
+  "dur": 80.3,
   "ci": 9,
   "ismotto": false
  },
