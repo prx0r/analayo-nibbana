@@ -29,6 +29,12 @@ echo "== G7 essay gates (structure + chain + essay-0 gold-dust) =="
 python3 process/scripts/g7_essay_check.py || exit 1
 echo "== G8 film manifest (nesting + budgets + provenance + chain) =="
 python3 process/scripts/g8_film_check.py || exit 1
+echo "== G9 local ears (whisper, zero tokens; skips when audio unchanged) =="
+if [ -f build/audio_p0/seed.mp3 ]; then
+  python3 process/scripts/ear_local.py || exit 1
+else
+  echo "no audio_p0 render present — G9 SKIP (render first, then re-verify)"
+fi
 echo "== files =="
 
 for f in HANDOVER.md build/seg1_script.json build/seg6_script.json build/manifest_index.json build/film_manifest.json FILM-CUT.md build/fish_filter.py build/blunt_key.json SPEAKER-RULES.md; do

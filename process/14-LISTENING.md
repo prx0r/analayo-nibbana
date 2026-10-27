@@ -1,5 +1,20 @@
 # 14 — LISTENING. How the machine hears the build (owner method, 2026-10-26).
 
+## 0. Free-first protocol (2026-10-27, owner: save Qwen for specifics)
+
+Qwen is the LAST ear, never the first. Order of operations on any render:
+1. **Meters** (`p0_mix_check.py`): order, beds at position, edges, levels.
+2. **Local ears** (`process/scripts/ear_local.py`, G9 in verify.sh):
+   whisper small.en order-check + essay-0 phrases + seam regression
+   (every fixed defect re-verified mechanically). Zero tokens, cached.
+3. **Whisper spot-checks**: any new flag's exact seconds, transcribed.
+4. **Qwen only for**: (a) critic ratings/advice on CHANGED sections,
+   (b) tie-breaks where meters and whisper disagree, (c) canary on prompt
+   changes. Scoped re-listens, never full passes except the DONE round.
+A Qwen blanket verdict ("all clean") is decoration (canary 2026-10-26);
+a Qwen timestamped quote is evidence. A whisper-verified seam needs no
+Qwen at all.
+
 ## 1. Why listen at all (the transcript is already proven)
 
 Gates prove WORDS: provenance (right words), order (right sequence),
