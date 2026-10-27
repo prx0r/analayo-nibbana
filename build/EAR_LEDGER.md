@@ -1,5 +1,13 @@
 # EAR LEDGER — finding → evidence → change → measured after
 
+## Round 3 (2026-10-26/27, fresh post-U4 render, 14-chunk omni audit)
+
+| # | finding | evidence | change | after |
+|---|---|---|---|---|
+| 1 | 8/14 omni calls refuse ("text, not audio") while quoting content | ear_round3.json (s2×3, s3/2, s4, s5×2, s6/1); s4 retried ×3 incl. fresh upload + short re-cut, deterministic; upload re-download byte-perfect 5835308B | none to build (instrument failure, not a defect); round-3b queued with variant host/model/chunking | 6/14 descriptives clean, zero defects; mechanical (mix PASS, whisper, probes, assert_audible) covers the 8 |
+| 2 | mid-sentence flags at chunk 00:00 (s1/1, s3/1) | chunk boundaries start mid-beat by construction (≤12min +30s overlap) | discard per taxonomy (refuted by construction, not by verbatim) | no action on build |
+| 3 | Fish heard as "female voice sings" (s3/0) | descriptive quote, no defect claimed | voice-perception → owner taste lock (Fish approval pending) | no action until owner listens |
+
 ## Round 2 (2026-10-26, room bridges + linear mastering)
 
 | # | finding | evidence | change | after |

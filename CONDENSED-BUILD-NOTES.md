@@ -788,6 +788,22 @@ render) — the mix checker correctly FAILED seed on the mismatch (gate
 did its job); full re-render resolved. Renders stay local-only,
 uncommitted. REMAINING for DONE: 2 descriptive omni rounds on this fresh
 render (scoped: seed + S4 deltas first) + taste locks (owner).
+## 56. Omni round on the fresh render (2026-10-26/27, owner: "great run omni")
+
+14 chunks via process/scripts/omni_round.py (promoted from /tmp: argv
+tags, merges into build/ear_round3.json, 32KB of full texts): seed +
+S1..S6, ≤12min +30s overlap, qwen3-omni-flash, descriptive prompt only.
+6/14 returned full timestamped audits, ZERO defects (seed exemplary:
+6/6 Qs + 6/6 answers quoted incl. new U4 mechanism; chunk-start
+mid-sentence flags refuted by construction). 8/14 refused ("text, not
+audio") while quoting content — retried s4 ×3 (re-upload, shorter
+re-cut), deterministic per-chunk; upload verified byte-perfect, so
+model-side failure, not a finding. Adjudicated in EAR_REPORT (round 3)
++ EAR_LEDGER. Mechanical on this render: p0_mix_check PASS all 7,
+whisper seed content-verified, ear_probes PASS, assert_audible at render.
+DONE status: round 3 PARTIAL — round-3b queued (variant host/model for
+the 8 gaps). Audio_p0 generation mix-up resolved (§55): fresh render
+matches current assemblies + manifest.
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)
