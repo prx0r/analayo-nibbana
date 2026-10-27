@@ -979,3 +979,32 @@ Film rebuilt: budgets PASS (292.3m screening). verify.sh ALL GATES PASS.
 End state: 0/A/B canonical, pool = D archive (never played). C rung
 retired from the listening path (film keeps its cells as-is; no new C
 curation planned).
+
+## 63. Q1 full read 0→B: verdict + two fixes (2026-10-27, owner: "read through question 1 from 0 to b and ensure it flows well")
+
+Method: dumped S1 in heard order — seed unit 1, A's 10 beats (assembly),
+B's gold spans with transcript text (CF/YT) — and read all of it.
+VERDICT: 0→A flows (motto → fire → don't-project → undesignable →
+cooling → sufficiency → inner bliss → refrain → two-elements → cooling-
+at-death → debt/freedom). A→B first neighborhood flows: the 6 §59/§61
+promotions (etymology, fire-catechism, mid-ocean, consciousness-middle,
+here-now, Radha) each sit after their thematic neighbor. B's deeper
+journey (cluster order) argues coherently — but two defects found:
+FIX 1 — motto-cap false positives: B21 L23 [3848-3940] is 80s of
+arahatta-phala-samadhi content + an 11s motto tail (flagged ismotto,
+whole span dropped = 91s of teaching lost); B23 L26 [5213-5229] has no
+motto at all (false flag) but was dropped. Unflagged both, restored to
+manifest (187→189 lines). B20/B22/B24/B25 keep their flags (real
+mottos/housekeeping). Lesson: ismotto must mean "span IS a motto," not
+"span CONTAINS a motto" — check content-vs-refrain ratio before flagging.
+FIX 2 — D-grade scraps in the manifest: 43 of 187 lines were <10s;
+13 are axiom-5 cuts outright (forum lines, ASR loops like "which is the
+first step" ×3, dangling lead-ins ending "is"/"the conclusive"/"runs as
+follows", pure slivers "um"/"sachips", comment-heads, mid-thought
+opens incl. one duplicate of B86). Removed from gold JSON + manifest
+(196→183 spans, 189→176 lines). 5 short spans KEPT: real verses that
+merely end with a translation credit (comment-tail is a minor wart, not
+a flow-break; trimming would need audio-window changes). 25 other short
+spans are legit complete verses/sentences.
+Counts: gold 623→610; TIMINGS/HANDOVER/FILES/MATH reconciled (§62 had
+left them at 614 — doc-drift caught here). Film rebuilt, ALL GATES PASS.

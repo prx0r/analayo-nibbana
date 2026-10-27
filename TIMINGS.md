@@ -34,13 +34,13 @@ core files hold 71 clips; assemblies play 65 + 6 pointers).
 
 | path | spans | raw speech | assembled est |
 |---|---|---|---|
-| 1 | 196 | 122.9 min | **~129.0 min** |
-| 2 | 66 | 60.7 min | **~63.7 min** |
-| 3 | 93 | 66.1 min | **~69.4 min** |
+| 1 | 183 | 122.0 min | **~128.1 min** |
+| 2 | 70 | 64.9 min | **~68.1 min** |
+| 3 | 94 | 68.1 min | **~71.5 min** |
 | 4 | 59 | 25.5 min | **~26.8 min** |
-| 5 | 117 | 85.6 min | **~89.9 min** |
-| 6 | 81 | 46.8 min | **~49.1 min** |
-| **total** | **614** | **408.4 min** | **~428.8 min (7.1h)** |
+| 5 | 121 | 87.9 min | **~92.3 min** |
+| 6 | 83 | 50.5 min | **~53.0 min** |
+| **total** | **610** | **418.9 min** | **~439.8 min (7.3h)** |
 
 Pause model: ~+5% over raw for seams (1.5s joins, 2.5s cluster waters,
 questions, bells); exact per-render counts live in the manifests.

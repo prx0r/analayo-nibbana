@@ -8,7 +8,7 @@ Sources (edit only via logged, gated fixes):
   a listening pass (no sequence law, no motto-cap, no listen order).
   Rung C is the curated deepening (film manifest C-cells); the pool
   files keep their names for now (builders + G5 read them).
-- `segN_gold.json`: **B** (614 spans incl. 6 essay-0 anchors + 2 A-grade
+- `segN_gold.json`: **B** (610 spans incl. 6 essay-0 anchors + 2 A-grade
   strays §58 + 9 B* §59 + 12 P-picks §61, 6.8h). A-flow order, edge-audited. Motto-cap
   enforced in manifests, never in data.
 - `segN_core_v4.json`: **A, canonical (71 clips)**, sharpened orders
