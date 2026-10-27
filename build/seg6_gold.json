@@ -163,15 +163,6 @@
   "ismotto": false
  },
  {
-  "lec": 20,
-  "start": 721.4,
-  "end": 727.7,
-  "grade": "A",
-  "dur": 6.3,
-  "ci": 3,
-  "ismotto": false
- },
- {
   "lec": 27,
   "start": 3306.5,
   "end": 3331.5,
@@ -286,7 +277,7 @@
   "grade": "A",
   "dur": 98.76,
   "ci": 10,
-  "ismotto": true
+  "ismotto": false
  },
  {
   "lec": 27,
@@ -312,15 +303,6 @@
   "end": 876.0,
   "grade": "A",
   "dur": 10.8,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 18,
-  "start": 1164.1,
-  "end": 1166.9,
-  "grade": "A",
-  "dur": 2.8,
   "ci": 12,
   "ismotto": false
  },
@@ -366,15 +348,6 @@
   "end": 4099.5,
   "grade": "A",
   "dur": 9.5,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 19,
-  "start": 872.3,
-  "end": 878.4,
-  "grade": "A",
-  "dur": 6.1,
   "ci": 12,
   "ismotto": false
  },
@@ -452,100 +425,10 @@
  },
  {
   "lec": 20,
-  "start": 926.8,
-  "end": 932.2,
-  "grade": "A",
-  "dur": 5.4,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 20,
-  "start": 2868.4,
-  "end": 2872.4,
-  "grade": "A",
-  "dur": 4.0,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 20,
   "start": 2907.3,
   "end": 2953.6,
   "grade": "A",
   "dur": 46.3,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 20,
-  "start": 2970.8,
-  "end": 2975.2,
-  "grade": "A",
-  "dur": 4.4,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 20,
-  "start": 3589.6,
-  "end": 3592.6,
-  "grade": "A",
-  "dur": 3.0,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 20,
-  "start": 3632.3,
-  "end": 3638.1,
-  "grade": "A",
-  "dur": 5.8,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 20,
-  "start": 3723.8,
-  "end": 3730.0,
-  "grade": "A",
-  "dur": 6.2,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 1984.5,
-  "end": 1988.7,
-  "grade": "A",
-  "dur": 4.2,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 2028.6,
-  "end": 2031.4,
-  "grade": "A",
-  "dur": 2.8,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 2982.2,
-  "end": 2987.1,
-  "grade": "A",
-  "dur": 4.9,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 4519.9,
-  "end": 4531.3,
-  "grade": "A",
-  "dur": 11.4,
   "ci": 12,
   "ismotto": false
  },
@@ -605,24 +488,6 @@
  },
  {
   "lec": 32,
-  "start": 3032.1,
-  "end": 3037.0,
-  "grade": "A",
-  "dur": 4.9,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 32,
-  "start": 3358.3,
-  "end": 3362.5,
-  "grade": "A",
-  "dur": 4.2,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 32,
   "start": 3719.4,
   "end": 3748.3,
   "grade": "A",
@@ -650,24 +515,6 @@
  },
  {
   "lec": 32,
-  "start": 4051.4,
-  "end": 4058.8,
-  "grade": "A",
-  "dur": 7.4,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 32,
-  "start": 4132.1,
-  "end": 4135.0,
-  "grade": "A",
-  "dur": 2.9,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 32,
   "start": 4149.1,
   "end": 4191.9,
   "grade": "A",
@@ -690,15 +537,6 @@
   "end": 5169.0,
   "grade": "A",
   "dur": 36.7,
-  "ci": 12,
-  "ismotto": false
- },
- {
-  "lec": 32,
-  "start": 5398.9,
-  "end": 5411.9,
-  "grade": "A",
-  "dur": 13.0,
   "ci": 12,
   "ismotto": false
  },

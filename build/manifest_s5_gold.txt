@@ -3,6 +3,7 @@ L14 4400.8-4462.3 A lecture-14.mp3
 L05 4018.9-4111.5 A lecture-05.mp3
 L08 3843.7-3906.1 B lecture-08.mp3
 L05 410.3-489.0 A lecture-05.mp3
+L05 513.2-599.5 B lecture-05.mp3
 L29 981.1-992.2 B lecture-29.mp3
 L05 4160.0-4273.3 A lecture-05.mp3
 L29 3026.2-3033.0 B lecture-29.mp3
@@ -27,7 +28,6 @@ L16 1562.6-1653.4 A lecture-16.mp3
 L29 4063.3-4081.6 A lecture-29.mp3
 L30 563.2-584.2 A lecture-30.mp3
 L30 920.3-969.9 A lecture-30.mp3
-L30 1158.6-1164.6 A lecture-30.mp3
 L30 1616.3-1637.3 A lecture-30.mp3
 L18 2366.6-2381.3 A lecture-18.mp3
 L31 1109.9-1140.9 A lecture-31.mp3
@@ -61,12 +61,10 @@ L15 1698.0-1751.2 A lecture-15.mp3
 L15 3650.9-3728.5 A lecture-15.mp3
 L15 4258.7-4268.1 A lecture-15.mp3
 L17 1122.5-1184.7 A lecture-17.mp3
-L17 3284.7-3288.3 A lecture-17.mp3
 L28 368.5-388.0 A lecture-28.mp3
 L28 679.5-696.3 A lecture-28.mp3
 L28 1137.8-1149.7 A lecture-28.mp3
 L28 1463.2-1506.2 A lecture-28.mp3
-L28 2456.1-2464.1 A lecture-28.mp3
 L28 2517.4-2586.3 A lecture-28.mp3
 L28 3255.6-3311.5 A lecture-28.mp3
 L28 3322.9-3334.6 A lecture-28.mp3
@@ -74,7 +72,6 @@ L28 3542.1-3612.6 A lecture-28.mp3
 L28 4329.4-4349.1 A lecture-28.mp3
 L29 1668.1-1669.3 A lecture-29.mp3
 L29 1680.0-1687.1 A lecture-29.mp3
-L29 2273.4-2278.5 A lecture-29.mp3
 L29 2300.2-2321.3 A lecture-29.mp3
 L29 2337.3-2410.0 A lecture-29.mp3
 L29 2537.8-2552.0 A lecture-29.mp3
@@ -82,16 +79,13 @@ L29 3382.8-3432.7 A lecture-29.mp3
 L29 3569.5-3585.0 A lecture-29.mp3
 L29 3767.3-3772.8 A lecture-29.mp3
 L29 3840.4-3863.9 A lecture-29.mp3
-L29 4074.5-4081.6 A lecture-29.mp3
-L29 4393.6-4395.4 A lecture-29.mp3
 L30 1533.3-1564.0 A lecture-30.mp3
 L30 1646.5-1687.9 A lecture-30.mp3
 L30 2545.5-2625.5 A lecture-30.mp3
 L30 2634.3-2679.0 A lecture-30.mp3
-L30 2692.7-2773.0 A lecture-30.mp3
+L30 2692.7-2774.3 A lecture-30.mp3
 L30 3203.4-3228.8 A lecture-30.mp3
 L30 3450.6-3452.7 A lecture-30.mp3
-L30 3727.2-3732.0 A lecture-30.mp3
 L30 3858.1-3903.9 A lecture-30.mp3
 L30 4904.5-4915.6 A lecture-30.mp3
 L30 4963.6-4966.8 A lecture-30.mp3
@@ -101,7 +95,6 @@ L31 1242.4-1291.3 A lecture-31.mp3
 L31 1852.3-1856.3 A lecture-31.mp3
 L31 1882.6-1914.2 A lecture-31.mp3
 L31 2908.4-2980.9 A lecture-31.mp3
-L31 3119.2-3125.3 A lecture-31.mp3
 L31 3432.1-3442.8 A lecture-31.mp3
 L31 3471.8-3477.4 A lecture-31.mp3
 L31 4295.5-4307.7 A lecture-31.mp3

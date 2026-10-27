@@ -11,36 +11,36 @@
  {
   "lec": 14,
   "start": 4406,
-  "end": 4462.3,
+  "end": 4429.8,
   "grade": "A",
-  "dur": 56.3,
+  "dur": 23.8,
   "ci": 0,
   "ismotto": false
  },
  {
   "lec": 14,
-  "start": 4442.4,
-  "end": 4462.3,
+  "start": 4430.4,
+  "end": 4451.9,
   "grade": "A",
-  "dur": 19.9,
+  "dur": 21.5,
   "ci": 0,
   "ismotto": false
  },
  {
   "lec": 5,
-  "start": 4018.9,
-  "end": 4111.5,
+  "start": 410.3,
+  "end": 488.2,
   "grade": "A",
-  "dur": 92.6,
+  "dur": 77.9,
   "ci": 2,
   "ismotto": false
  },
  {
   "lec": 5,
-  "start": 410.3,
-  "end": 489.0,
+  "start": 513.2,
+  "end": 563.8,
   "grade": "A",
-  "dur": 78.7,
+  "dur": 50.6,
   "ci": 4,
   "ismotto": false
  },

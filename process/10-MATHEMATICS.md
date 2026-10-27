@@ -22,8 +22,8 @@ The essay-0 host beat of each section is consumed by the opening
 ## The nesting ratio ≈ 3–4.5 per layer (measured, not set)
 | layer | size | share of previous |
 |---|---|---|
-| D archive | 20.84 h (1,202 spans) | — (reference, not a rung) |
-| V2 gold | 6.8 h (610 spans: A + anchors + documented B*) | ÷3.2 |
+| D archive | 20.75 h (1,133 spans) | — (reference, not a rung) |
+| V2 gold | 6.9 h (552 spans: A + anchors + documented B*) | ÷3.0 |
 | V3 core | 1.51 h Analayo (71 clips) | ÷4.28 |
 | seed (§1 core) | ~0.21 h Analayo | — |
 | compression | ultimate (1 word: stilling) | ÷everything |
@@ -57,13 +57,13 @@ seed-reprise, 1 terminal silence.
   30 s = 20 breaths: the close is scored in the same unit as everything.
 
 ## 1 word
-20.9 h → 6.8 h → 1.5 h → 2 min (seed) → 1 sentence (the motto) → 1 word:
+20.75 h → 6.9 h → 1.5 h → 2 min (seed) → 1 sentence (the motto) → 1 word:
 **stilling.** Each layer answers the question the previous layer poses;
 the compression is lossless in meaning, lossy only in elaboration.
 
 ## Invariants (what makes it mathematics, not layout)
 1. Same order at every scale (cluster sort key shared pool→gold→core).
-2. Every span in exactly one segment (totals reconcile: 20.84 h).
+2. Every span in exactly one segment (totals reconcile: 20.75 h).
 3. Every beat is the same 5-tuple (*motto-bell?*, fish, breath,
    analayo, water) — 71 repetitions of one rhythmic cell.
 4. No two bells within 30 s of each other. No motto stacking in gold.

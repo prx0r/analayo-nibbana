@@ -34,13 +34,13 @@ core files hold 71 clips; assemblies play 65 + 6 pointers).
 
 | path | spans | raw speech | assembled est |
 |---|---|---|---|
-| 1 | 183 | 122.0 min | **~128.1 min** |
-| 2 | 70 | 64.9 min | **~68.1 min** |
-| 3 | 94 | 68.1 min | **~71.5 min** |
-| 4 | 59 | 25.5 min | **~26.8 min** |
-| 5 | 121 | 87.9 min | **~92.3 min** |
-| 6 | 83 | 50.5 min | **~53.0 min** |
-| **total** | **610** | **418.9 min** | **~439.8 min (7.3h)** |
+| 1 | 178 | 121.4 min | **~127.5 min** |
+| 2 | 61 | 64.3 min | **~67.5 min** |
+| 3 | 82 | 67.1 min | **~70.5 min** |
+| 4 | 52 | 25.1 min | **~26.4 min** |
+| 5 | 114 | 88.7 min | **~93.1 min** |
+| 6 | 65 | 48.8 min | **~51.2 min** |
+| **total** | **552** | **415.3 min** | **~436.1 min (7.3h)** |
 
 Pause model: ~+5% over raw for seams (1.5s joins, 2.5s cluster waters,
 questions, bells); exact per-render counts live in the manifests.
@@ -49,13 +49,13 @@ questions, bells); exact per-render counts live in the manifests.
 
 | path | spans | raw speech |
 |---|---|---|
-| 1 | 329 | 325.3 min |
-| 2 | 220 | 251.4 min |
-| 3 | 194 | 225.1 min |
-| 4 | 89 | 70.4 min |
-| 5 | 239 | 251.1 min |
-| 6 | 125 | 121.7 min |
-| **total** | **1196** | **~20.7h** |
+| 1 | 314 | 325.2 min |
+| 2 | 213 | 254.0 min |
+| 3 | 182 | 224.1 min |
+| 4 | 83 | 70.4 min |
+| 5 | 234 | 251.3 min |
+| 6 | 107 | 120.1 min |
+| **total** | **1133** | **~20.75h** |
 
 The pool is the reference archive (provenance home, swap source,
 completeness proof). It is NOT rung C: no sequence law, no motto-cap,

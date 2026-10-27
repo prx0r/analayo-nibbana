@@ -366,65 +366,11 @@
    "note": "DEMOTE-CANDIDATE: snap would sliver"
   },
   {
-   "s": 2,
-   "lec": 26,
-   "span": [
-    2392.3,
-    2396.0
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
-   "s": 2,
-   "lec": 22,
-   "span": [
-    866.8,
-    868.8
-   ],
-   "note": "DEMOTE-CANDIDATE: whole span is markers/fragments"
-  },
-  {
-   "s": 3,
-   "lec": 27,
-   "span": [
-    869.7,
-    876.2
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
-   "s": 3,
-   "lec": 17,
-   "span": [
-    3178.3,
-    3181.8
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
    "s": 3,
    "lec": 21,
    "span": [
     1315.3,
     1324.5
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
-   "s": 4,
-   "lec": 16,
-   "span": [
-    6719.3,
-    6725.7
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
-   "s": 4,
-   "lec": 17,
-   "span": [
-    2266.2,
-    2269.8
    ],
    "note": "DEMOTE-CANDIDATE: snap would sliver"
   },
@@ -438,38 +384,11 @@
    "note": "DEMOTE-CANDIDATE: snap would sliver"
   },
   {
-   "s": 5,
-   "lec": 29,
-   "span": [
-    2273.4,
-    2278.5
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
-   "s": 5,
-   "lec": 29,
-   "span": [
-    4393.6,
-    4395.4
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
    "s": 6,
    "lec": 18,
    "span": [
     1646.1,
     1663.0
-   ],
-   "note": "DEMOTE-CANDIDATE: snap would sliver"
-  },
-  {
-   "s": 6,
-   "lec": 27,
-   "span": [
-    2028.6,
-    2031.4
    ],
    "note": "DEMOTE-CANDIDATE: snap would sliver"
   },

@@ -101,24 +101,6 @@
   "ismotto": false
  },
  {
-  "lec": 15,
-  "start": 2669.9,
-  "end": 2672.2,
-  "grade": "A",
-  "dur": 2.3,
-  "ci": 2,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 1534.8,
-  "end": 1538.7,
-  "grade": "A",
-  "dur": 3.9,
-  "ci": 2,
-  "ismotto": false
- },
- {
   "lec": 29,
   "start": 1154.3,
   "end": 1199.9,
@@ -148,9 +130,9 @@
  {
   "lec": 13,
   "start": 3894.0,
-  "end": 3910.0,
+  "end": 3913.0,
   "grade": "A",
-  "dur": 16.0,
+  "dur": 19.0,
   "ci": 8,
   "ismotto": false
  },
@@ -214,15 +196,6 @@
   "end": 1272.9,
   "grade": "A",
   "dur": 21.1,
-  "ci": 8,
-  "ismotto": false
- },
- {
-  "lec": 16,
-  "start": 1973.9,
-  "end": 1980.0,
-  "grade": "A",
-  "dur": 6.1,
   "ci": 8,
   "ismotto": false
  },
@@ -326,15 +299,6 @@
   "ismotto": false
  },
  {
-  "lec": 16,
-  "start": 6719.3,
-  "end": 6725.7,
-  "grade": "A",
-  "dur": 6.4,
-  "ci": 8,
-  "ismotto": false
- },
- {
   "lec": 17,
   "start": 1227.4,
   "end": 1232.7,
@@ -349,15 +313,6 @@
   "end": 1757.4,
   "grade": "A",
   "dur": 5.8,
-  "ci": 8,
-  "ismotto": false
- },
- {
-  "lec": 17,
-  "start": 2266.2,
-  "end": 2269.8,
-  "grade": "A",
-  "dur": 3.6,
   "ci": 8,
   "ismotto": false
  },
@@ -403,15 +358,6 @@
   "end": 3914.7,
   "grade": "A",
   "dur": 4.5,
-  "ci": 8,
-  "ismotto": false
- },
- {
-  "lec": 17,
-  "start": 4368.1,
-  "end": 4371.5,
-  "grade": "A",
-  "dur": 3.4,
   "ci": 8,
   "ismotto": false
  },
@@ -520,15 +466,6 @@
   "end": 4458.9,
   "grade": "A",
   "dur": 31.5,
-  "ci": 8,
-  "ismotto": false
- },
- {
-  "lec": 25,
-  "start": 4745.0,
-  "end": 4748.9,
-  "grade": "A",
-  "dur": 3.9,
   "ci": 8,
   "ismotto": false
  }

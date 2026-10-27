@@ -1008,3 +1008,63 @@ a flow-break; trimming would need audio-window changes). 25 other short
 spans are legit complete verses/sentences.
 Counts: gold 623→610; TIMINGS/HANDOVER/FILES/MATH reconciled (§62 had
 left them at 614 — doc-drift caught here). Film rebuilt, ALL GATES PASS.
+
+## 64. Q2–Q6 flow reads + the S5 pairing repair (2026-10-27, owner: "work autonomously until finished")
+
+Reviews written: REVIEW-Q1..REVIEW-Q6.md (root) — each one: seed → A
+arc → B neighborhoods → fixes → verdict. All six verdicts: **flows**.
+Q3 called the build's strongest arc; Q4's "how" now answered properly
+post-§54; Q6 got the largest scrap-purge without touching a teaching
+span.
+THE BIG FIX (S5/Q5, found by this read): **c4 paired the razor-GRABBING
+verbatim with the FILM-SHOW lecture window (L5 4018.9–4111.5), and c8
+paired the STROKES verbatim with the razor window.** Every prior ear
+round passed it because meters/whisper check *presence*, not
+*pairing* — the render spoke razor-words then 92s of unrelated
+film-show. Fixed: c4 → L5 [410.3-488.2] (razor discussion), c8 → L5
+[513.2-563.8] (strokes + relaxed-hold), new gold span [513.2-599.5]
+for containment; c3 + essay-0 U5 moved together to DS [4430.4-4451.9]
+(L14's window was stored YT-time and rendered 10s late — audio opened
+mid-formula while the screen showed the full formula; offset L14
+YT-DS = 10.0s measured on word-timestamps); c2's window trimmed to
+4429.8 so the Bahiya formula can't play twice inside a minute.
+Also this pass: 18 D-grade cuts (gold+manifest+pool) + 4 mid-sentence
+boundary repairs (house/rupati/seamstress/L13 spans that ended 0.6-2.8s
+inside a sentence, DS sentence-ends) + the false `ismotto` on a 98s S6
+content span. The archive was made consistent with the cuts: 51 spans
+previously cut from gold but still sitting in pool were removed too
+(axiom 5 "cut outright" applies to D, not just B).
+FINAL COUNTS (files verified): core 71 · gold 552 (415m raw, ~7.3h
+assembled est) · pool/D 1133 (20.75h). Docs reconciled (TIMINGS B+D
+tables, HANDOVER, FILES, MATH). verify.sh ALL GATES PASS.
+NEW GATE READY: process/scripts/ear_local.py (G9, free-first) — whisper
+seed-order + essay-0 phrases + every repaired seam, cached; wired into
+verify.sh. Qwen reserved for critic/tie-breaks only (14-LISTENING §0).
+Render note: p0 audio is stale for S5 (c2/c3/c4/c8 windows moved) —
+re-render queued; G9 will validate the seams on the fresh files.
+(§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
+missed, match by window; first c13 end-typing wrote 1895 not 1916 —
+caught by film assert.)
+
+## 65. G9 hardened on fresh render (2026-10-27, autonomous finish)
+
+Re-rendered after §64's window moves; p0_mix_check PASS (7/7), then G9
+run against the fresh audio. Two real weaknesses found and fixed:
+1. **Seed-question check was exact-substring on one 400s pass** —
+   faster-whisper dropped Q3's 1.6s Fish line (it hears it reliably in
+   a tight window around the rendered question, measured). Now: wide
+   fuzzy pass (difflib >=0.6, order among those found) + narrow retry at
+   the rendered fish position for misses. Chain ORDER stays G7's gate.
+2. **+8s pad pushed verbatim seams into the next LOUD event** —
+   faster-whisper then missed the quieter verbatim segment entirely
+   (deterministic fail: s5 dhono). Per-seam optional pad (8th tuple
+   element) added; the two s5 sermon-reading seams use pad=0 so the
+   cut ends right after the target. Lesson: a pad that crosses into
+   the next event can make the check unhearable what it looks for.
+3. **§64 pairing guards added as regression canaries:** s5 c4's
+   render window must contain 'razor' and c8's must contain
+   'sharpened' — if the film-show cross-wiring ever returns, G9 fails
+   loud (axiom 15: detectors carry their canary).
+G9 result: PASS, 24 checks, receipt written. verify.sh ALL GATES PASS,
+p0_mix_check PASS. Count docs updated for the cuts: gold 552 (~7.3h),
+pool/D 1133 (20.75h), core 71.

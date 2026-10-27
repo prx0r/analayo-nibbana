@@ -50,7 +50,7 @@ where things are, why, and what's next. Nothing here is decoration.
 
 ### `build/` — THE product data (canonical; read by gates and builders)
 - **Sources (edit only via logged fixes):** `segN_pool/gold/core_v4/script.json`
-  (pool 1202 / gold 610 incl. anchors §39 + strays §58 + B* §59 + P-picks §61 / core 71 sharpened),
+  (pool 1133 / gold 552 — D-grade cuts applied to both layers §63 / core 71 sharpened),
   `segN_terms.json`, keys `fish_filter.py` + `blunt_key.json`,
   `quote_pool.json`, `verbatim_audio_v1.json` (71/71 aligned),
   `gold_fix_log.json`, `ear_floors.json`.
@@ -146,7 +146,7 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   they decide.
 
 ## Numbers that are true today (recomputed, not remembered)
-Pool 1202 spans ~20.8h · gold 610 (anchors §39 + strays §58 + B* §59 + P-picks §61, + S2
+Pool 1133 spans ~20.75h · gold 552 (anchors §39 + strays §58 + B* §59 + P-picks §61, + S2
 dog-arc reinstatement §52) ·
 core **71 clips** · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.8m ·
 C 167.9m · **screening 292.3m (~4h52)** · G8 warns only atomic rung-0

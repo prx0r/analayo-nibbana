@@ -120,18 +120,18 @@
  {
   "lec": 13,
   "start": 4703.0,
-  "end": 4773.0,
+  "end": 4774.0,
   "grade": "B",
-  "dur": 70.0,
+  "dur": 71.0,
   "ci": 10,
   "note": "B*: house anti-atomism \u2014 tiles depend on house as house depends on tiles (DS-verified) after c11"
  },
  {
   "lec": 10,
   "start": 3989.8,
-  "end": 4032.0,
+  "end": 4032.7,
   "grade": "B",
-  "dur": 42.2,
+  "dur": 42.9,
   "ci": 10,
   "note": "B*: ruppati \u2014 \"to be adversely affected\" wound image (DS-verified) after c11 three-periods"
  },
@@ -182,15 +182,6 @@
   "ismotto": false
  },
  {
-  "lec": 6,
-  "start": 3954.5,
-  "end": 3962.0,
-  "grade": "A",
-  "dur": 7.5,
-  "ci": 0,
-  "ismotto": false
- },
- {
   "lec": 2,
   "start": 5193.5,
   "end": 5271.9,
@@ -236,31 +227,13 @@
   "ismotto": false
  },
  {
-  "lec": 26,
-  "start": 2392.3,
-  "end": 2396.0,
-  "grade": "A",
-  "dur": 3.7,
-  "ci": 6,
-  "ismotto": false
- },
- {
-  "lec": 22,
-  "start": 866.8,
-  "end": 868.8,
-  "grade": "A",
-  "dur": 2.0,
-  "ci": 7,
-  "ismotto": false
- },
- {
   "lec": 8,
   "start": 3720.2,
   "end": 3840.9,
   "grade": "A",
   "dur": 120.7,
   "ci": 8,
-  "ismotto": true
+  "ismotto": false
  },
  {
   "lec": 26,
@@ -313,15 +286,6 @@
   "end": 4347.1,
   "grade": "A",
   "dur": 59.8,
-  "ci": 10,
-  "ismotto": false
- },
- {
-  "lec": 27,
-  "start": 1085.1,
-  "end": 1089.4,
-  "grade": "A",
-  "dur": 4.3,
   "ci": 10,
   "ismotto": false
  },
@@ -408,15 +372,6 @@
  },
  {
   "lec": 10,
-  "start": 419.4,
-  "end": 422.7,
-  "grade": "A",
-  "dur": 3.3,
-  "ci": 11,
-  "ismotto": false
- },
- {
-  "lec": 10,
   "start": 4464.4,
   "end": 4470.8,
   "grade": "A",
@@ -479,24 +434,6 @@
   "ismotto": false
  },
  {
-  "lec": 22,
-  "start": 894.4,
-  "end": 897.5,
-  "grade": "A",
-  "dur": 3.1,
-  "ci": 11,
-  "ismotto": false
- },
- {
-  "lec": 22,
-  "start": 1095.4,
-  "end": 1099.7,
-  "grade": "A",
-  "dur": 4.3,
-  "ci": 11,
-  "ismotto": false
- },
- {
   "lec": 23,
   "start": 574.7,
   "end": 641.7,
@@ -511,15 +448,6 @@
   "end": 851.7,
   "grade": "A",
   "dur": 4.8,
-  "ci": 11,
-  "ismotto": false
- },
- {
-  "lec": 24,
-  "start": 1152.1,
-  "end": 1155.1,
-  "grade": "A",
-  "dur": 3.0,
   "ci": 11,
   "ismotto": false
  },
@@ -592,15 +520,6 @@
   "end": 1459.3,
   "grade": "A",
   "dur": 7.9,
-  "ci": 11,
-  "ismotto": false
- },
- {
-  "lec": 26,
-  "start": 3067.2,
-  "end": 3072.3,
-  "grade": "A",
-  "dur": 5.1,
   "ci": 11,
   "ismotto": false
  },

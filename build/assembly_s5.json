@@ -24,9 +24,9 @@
  {
   "t": "analayo",
   "lec": 14,
-  "start": 4442.4,
-  "end": 4462.3,
-  "dur": 19.9,
+  "start": 4430.4,
+  "end": 4451.9,
+  "dur": 21.5,
   "note": "ESSAY 0 AUDIO: pointer, not explanation (essay0_windows.json)"
  },
  {
@@ -93,12 +93,12 @@
   "t": "analayo",
   "lec": 14,
   "start": 4406,
-  "end": 4462.3,
-  "dur": 56.3
+  "end": 4429.8,
+  "dur": 23.8
  },
  {
   "t": "water",
-  "dur": 3.4
+  "dur": 2.9
  },
  {
   "t": "verbatim",
@@ -117,13 +117,13 @@
  {
   "t": "analayo",
   "lec": 5,
-  "start": 4018.9,
-  "end": 4111.5,
-  "dur": 92.6
+  "start": 410.3,
+  "end": 488.2,
+  "dur": 77.9
  },
  {
   "t": "water",
-  "dur": 4.0
+  "dur": 3.8
  },
  {
   "t": "verbatim",
@@ -142,13 +142,13 @@
  {
   "t": "analayo",
   "lec": 5,
-  "start": 410.3,
-  "end": 489.0,
-  "dur": 78.7
+  "start": 513.2,
+  "end": 563.8,
+  "dur": 50.6
  },
  {
   "t": "water",
-  "dur": 3.8
+  "dur": 3.3
  },
  {
   "t": "verbatim",

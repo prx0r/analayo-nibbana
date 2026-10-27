@@ -49,8 +49,6 @@ L15 3063.4-3154.6 A lecture-15.mp3
 L16 3206.4-3270.9 A lecture-16.mp3
 L16 3685.0-3785.7 B lecture-16.mp3
 L17 1310.2-1401.0 B lecture-17.mp3
-L17 1414.8-1417.8 A lecture-17.mp3
-L17 1471.0-1475.2 A lecture-17.mp3
 L17 1554.1-1675.2 B lecture-17.mp3
 L17 2339.7-2371.7 A lecture-17.mp3
 L17 2457.1-2553.1 B lecture-17.mp3
@@ -62,15 +60,12 @@ L19 348.0-521.7 A lecture-19.mp3
 L19 4906.3-5021.6 B lecture-19.mp3
 L20 602.2-684.1 B lecture-20.mp3
 L20 1735.3-1741.8 A lecture-20.mp3
-L20 1760.5-1764.8 A lecture-20.mp3
 L20 2056.6-2139.3 B lecture-20.mp3
 L20 2308.9-2396.6 B lecture-20.mp3
 L20 2434.0-2458.0 A lecture-20.mp3
 L20 3928.3-3931.8 A lecture-20.mp3
-L20 3971.0-3973.8 A lecture-20.mp3
 L20 3990.2-4028.7 A lecture-20.mp3
 L20 4059.8-4062.5 A lecture-20.mp3
-L20 4087.3-4093.4 A lecture-20.mp3
 L20 4107.5-4240.9 B lecture-20.mp3
 L20 4299.2-4416.2 A lecture-20.mp3
 L21 1048.0-1176.7 B lecture-21.mp3
@@ -92,7 +87,6 @@ L20 1827.3-1858.4 A lecture-20.mp3
 L01 749.9-804.9 B lecture-01.mp3
 L05 2148.2-2207.7 A lecture-05.mp3
 L14 2497.1-2600.5 B lecture-14.mp3
-L17 4232.2-4235.7 A lecture-17.mp3
 L17 4278.6-4343.4 A lecture-17.mp3
 L17 4427.0-4445.7 A lecture-17.mp3
 L19 2261.5-2381.8 B lecture-19.mp3
@@ -151,7 +145,6 @@ L12 3134.2-3234.5 B lecture-12.mp3
 L13 1649.8-1772.2 B lecture-13.mp3
 L13 1778.2-1903.2 B lecture-13.mp3
 L13 2900.9-2999.2 B lecture-13.mp3
-L14 2103.6-2106.1 A lecture-14.mp3
 L14 2154.8-2272.6 B lecture-14.mp3
 L15 405.3-508.7 B lecture-15.mp3
 L15 1479.8-1588.8 B lecture-15.mp3
@@ -204,13 +197,10 @@ L24 3496.1-3620.8 B lecture-24.mp3
 L25 2809.4-2933.5 B lecture-25.mp3
 L25 3179.2-3190.6 A lecture-25.mp3
 L26 1751.7-1755.4 A lecture-26.mp3
-L27 1697.6-1700.8 A lecture-27.mp3
 L27 2735.9-2760.4 A lecture-27.mp3
 L27 2831.0-2835.2 A lecture-27.mp3
 L27 2922.7-2926.8 A lecture-27.mp3
 L27 3477.0-3558.6 B lecture-27.mp3
-L27 3590.8-3596.2 A lecture-27.mp3
-L28 1120.6-1125.9 A lecture-28.mp3
 L28 2723.1-2850.4 B lecture-28.mp3
 L28 3634.2-3694.0 A lecture-28.mp3
 L29 1591.7-1648.1 A lecture-29.mp3
@@ -232,7 +222,6 @@ L09 3832.8-3939.4 A lecture-09.mp3
 L09 3942.9-4051.0 A lecture-09.mp3
 L17 462.4-530.3 A lecture-17.mp3
 L17 603.5-608.8 A lecture-17.mp3
-L17 794.4-801.4 A lecture-17.mp3
 L17 862.9-957.4 B lecture-17.mp3
 L17 1001.9-1085.0 B lecture-17.mp3
 L24 921.1-1007.3 A lecture-24.mp3
@@ -268,11 +257,9 @@ L16 3480.8-3500.0 A lecture-16.mp3
 L16 3814.5-3825.4 A lecture-16.mp3
 L19 1645.5-1673.6 A lecture-19.mp3
 L19 3900.6-3910.1 A lecture-19.mp3
-L21 377.3-393.7 A lecture-21.mp3
 L21 566.7-617.7 A lecture-21.mp3
 L21 628.4-638.7 A lecture-21.mp3
 L21 783.7-789.1 A lecture-21.mp3
-L21 998.5-1004.5 A lecture-21.mp3
 L21 1017.7-1028.8 A lecture-21.mp3
 L21 1668.1-1682.2 A lecture-21.mp3
 L21 2366.2-2385.7 A lecture-21.mp3
@@ -280,7 +267,6 @@ L21 2467.9-2549.0 B lecture-21.mp3
 L21 2574.4-2599.1 A lecture-21.mp3
 L21 2934.4-2942.0 A lecture-21.mp3
 L21 2964.2-3016.9 A lecture-21.mp3
-L21 3044.1-3046.9 A lecture-21.mp3
 L21 3113.2-3196.7 B lecture-21.mp3
 L21 3216.6-3280.1 A lecture-21.mp3
 L21 3395.3-3404.0 A lecture-21.mp3
@@ -289,7 +275,6 @@ L21 3656.9-3669.0 A lecture-21.mp3
 L21 3872.5-3882.3 A lecture-21.mp3
 L21 4067.0-4091.9 A lecture-21.mp3
 L21 4123.1-4163.2 A lecture-21.mp3
-L21 4415.3-4418.7 A lecture-21.mp3
 L21 4435.9-4463.9 A lecture-21.mp3
 L21 4486.3-4515.6 A lecture-21.mp3
 L22 1898.0-1963.6 B lecture-22.mp3
@@ -321,7 +306,6 @@ L23 3771.1-3796.3 A lecture-23.mp3
 L23 4111.3-4131.3 A lecture-23.mp3
 L23 4305.2-4349.4 A lecture-23.mp3
 L23 4631.2-4655.0 A lecture-23.mp3
-L24 350.0-354.1 A lecture-24.mp3
 L25 240.4-269.8 A lecture-25.mp3
 L30 3594.2-3713.7 B lecture-30.mp3
 L30 5364.5-5479.6 A lecture-30.mp3

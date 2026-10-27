@@ -25,6 +25,7 @@ D = '/root/analayo-nibbana'
 B = D + '/build'
 A = B + '/audio_p0'
 RECEIPT = B + '/ear_local_last.json'
+SEED_TL = A + '/manifest.json'  # render timeline (where each Q was cut)
 
 QUESTIONS = [  # (match_from, distinctive substring)
     ('start', 'what is nibbana?'),
@@ -57,14 +58,22 @@ SEAMS = [
      'S2c3 tail completes (§57)'),
     ('s3', 1770, 1792, ['towards them'], ['thank you'], None,
      'S3c13 thank-you gone (§57)'),
-    ('s5', 165, 180, ['next moment'], [], None,
+    ('s5', 165, 181, ['next moment'], [], None,
      'S5c1 tail completes (§57)'),
-    ('s5', 27, 42, ['cessation'], ['permission of the most'], 39.5,
+    ('s5', 28, 43, ['cessation'], ['permission of the most'], 41.1,
      's5c1 verbatim no bleed (§57)'),
-    ('s5', 180, 193, [['seen heard', 'seen heard and sensed']], ['verse in question'], 189.8,
-     's5c2 verbatim no bleed (§57)'),
-    ('s5', 258, 273, ['something like that'], ['alternative'], 269.6,
-     's5c4 verbatim no bleed (§57)'),
+    # (…, pad) optional 8th: 0 = don't extend past the target — faster-whisper
+    # misses a quiet verbatim when the file runs into the next loud event
+    ('s5', 179, 194, [['seen heard', 'seen heard and sensed']], ['verse in question'], 191.4,
+     's5c2 verbatim no bleed (§57)', 0),
+    ('s5', 218, 240, ['something like that'], ['alternative'], 238.2,
+     's5c4 verbatim no bleed (§57)', 0),
+    # §64 pairing guards: the razor/strokes windows must discuss razor
+    # (they were once cross-wired to film-show — regression canary)
+    ('s5', 240, 316, ['razor'], [], None,
+     'c4 razor-window pairing (§64)'),
+    ('s5', 350, 396, ['sharpened'], [], None,
+     'c8 strokes-window pairing (§64)'),
     ('s2', 983, 1016, [['fathom', 'brown body', 'grown body']], ['mutual integration'], 1005.4,
      's2c6 verbatim no bleed (§57)'),
 ]
@@ -119,18 +128,44 @@ def main():
             return 0
     except (FileNotFoundError, json.JSONDecodeError, ValueError):
         pass
-    # 1. seed chain
+    # 1. seed chain — wide pass first (order among those found), narrow
+    # retry for misses (whisper drops short Fish lines in a 400s pass;
+    # a tight window around the rendered question finds them — measured
+    # 2026-10-27). Chain ORDER itself is gated by G7; this gate = heard.
     txt = flat(hear(A + '/seed.mp3', 0, 400))
     nt = norm(txt)
-    pos = []
+    qpos, qfound = [], []
     for frm, q in QUESTIONS:
         qn = norm(q)
-        at = nt.find(qn[:14]) if frm == 'start' else nt.rfind(qn[:14])
-        pos.append(at)
-    if not (all(p >= 0 for p in pos) and pos == sorted(pos)):
-        fails.append('seed questions out of order/missing: %s' % pos)
+        best, best_i = -1, -1
+        for i in range(0, max(1, len(nt) - 12), 3):
+            sc = fuzz(qn, nt[i:i + len(qn) + 10])
+            if sc > best:
+                best, best_i = sc, i
+        qpos.append(best_i if best >= 0.6 else -1)
+        qfound.append(best >= 0.6)
+    missing = [i for i, ok in enumerate(qfound) if not ok]
+    if missing:
+        try:
+            fe = [e for e in json.load(open(SEED_TL))['seed']['timeline']
+                  if e['t'] == 'fish']
+        except (FileNotFoundError, KeyError, json.JSONDecodeError):
+            fe = []
+        for i in missing:
+            if i < len(fe):
+                w = norm(flat(hear(A + '/seed.mp3', max(0, fe[i]['t0'] - 1.2),
+                                           fe[i]['t0'] + fe[i]['dur'] + 1.2)))
+                if fuzz(norm(QUESTIONS[i][1]), w) >= 0.5:
+                    qfound[i] = True
+    if not all(qfound):
+        fails.append('seed questions heard: %d/6 (missed idx %s)' % (
+            sum(qfound), [i for i, ok in enumerate(qfound) if not ok]))
     else:
-        print('seed questions 6/6 in order')
+        wid = [p for i, p in enumerate(qpos) if p >= 0]
+        if wid != sorted(wid):
+            fails.append('seed questions out of order (wide pass): %s' % wid)
+        else:
+            print('seed questions 6/6 heard, wide-pass order ok')
     for k in SEED_KEYS:
         variants = k if isinstance(k, list) else [k]
         if any(norm(v) in nt for v in variants):
@@ -139,9 +174,11 @@ def main():
             fails.append('seed missing essay-0 phrase: %r' % (variants[0],))
     # 2. seam regression (pad +8s so closing words survive VAD; bans are
     # scoped to the verbatim slice end via word times, so following speech
-    # can't false-trigger)
-    for tag, a, b, want, ban, scope, why in SEAMS:
-        segs = hear('%s/%s.mp3' % (A, tag), a, b, pad=8)
+    # can't false-trigger). Optional 8th element overrides the pad.
+    for e in SEAMS:
+        tag, a, b, want, ban, scope, why = e[:7]
+        pad = e[7] if len(e) > 7 else 8
+        segs = hear('%s/%s.mp3' % (A, tag), a, b, pad=pad)
         t = norm(flat(segs))
         for w in want:
             variants = w if isinstance(w, list) else [w]
