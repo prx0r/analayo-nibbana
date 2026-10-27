@@ -19,6 +19,24 @@
   "ismotto": false
  },
  {
+  "lec": 2,
+  "start": 3473.4,
+  "end": 3582.5,
+  "grade": "B",
+  "dur": 109.1,
+  "ci": 0,
+  "note": "B*: whirlpool genesis \u2014 how a whirlpool forms (DS-verified open/close) after c2 winding"
+ },
+ {
+  "lec": 10,
+  "start": 537.3,
+  "end": 568.5,
+  "grade": "B",
+  "dur": 31.2,
+  "ci": 0,
+  "note": "B*: middle path as knowledge-vision vs extremes (DS-verified) after c2 winding"
+ },
+ {
   "lec": 3,
   "start": 525.0,
   "end": 652.5,
@@ -98,6 +116,24 @@
   "dur": 60.8,
   "ci": 10,
   "ismotto": false
+ },
+ {
+  "lec": 13,
+  "start": 4703.0,
+  "end": 4773.0,
+  "grade": "B",
+  "dur": 70.0,
+  "ci": 10,
+  "note": "B*: house anti-atomism \u2014 tiles depend on house as house depends on tiles (DS-verified) after c11"
+ },
+ {
+  "lec": 10,
+  "start": 3989.8,
+  "end": 4032.0,
+  "grade": "B",
+  "dur": 42.2,
+  "ci": 10,
+  "note": "B*: ruppati \u2014 \"to be adversely affected\" wound image (DS-verified) after c11 three-periods"
  },
  {
   "lec": 22,

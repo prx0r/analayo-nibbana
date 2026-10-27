@@ -74,6 +74,15 @@
  },
  {
   "lec": 32,
+  "start": 1050.0,
+  "end": 1147.0,
+  "grade": "B",
+  "dur": 97.0,
+  "ci": 3,
+  "note": "B*: rock levering \u2014 head-over-heels vs crushed, zeal at the last spurt (DS-verified) after c8 faculties"
+ },
+ {
+  "lec": 32,
   "start": 1957.0,
   "end": 2087.5,
   "grade": "B",
@@ -98,6 +107,15 @@
   "dur": 99.4,
   "ci": 12,
   "ismotto": false
+ },
+ {
+  "lec": 18,
+  "start": 896.0,
+  "end": 1020.5,
+  "grade": "B",
+  "dur": 124.5,
+  "ci": 12,
+  "note": "B*: Nalaka no-going-twice resolved \u2014 verse concerns the arahant (DS-verified) after c10 farther shore"
  },
  {
   "lec": 26,

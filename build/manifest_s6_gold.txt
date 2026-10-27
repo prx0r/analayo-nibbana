@@ -6,9 +6,11 @@ L33 949.9-991.0 A lecture-33.mp3
 L33 1918.7-1941.1 A lecture-33.mp3
 L33 2034.5-2058.6 A lecture-33.mp3
 L31 4604.6-4689.4 A lecture-31.mp3
+L32 1050.0-1147.0 B lecture-32.mp3
 L32 1957.0-2087.5 B lecture-32.mp3
 L32 1631.8-1671.3 A lecture-32.mp3
 L18 753.8-853.2 A lecture-18.mp3
+L18 896.0-1020.5 B lecture-18.mp3
 L26 1650.7-1749.1 A lecture-26.mp3
 L26 1813.7-1909.0 A lecture-26.mp3
 L27 3655.6-3694.8 A lecture-27.mp3

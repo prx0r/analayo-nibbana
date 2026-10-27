@@ -908,28 +908,6 @@ L29-avikkata queued out by the 168m ceiling); budgets PASS.
 DECLINED with reason: S3 sutta-list (authority-framing for c3's
 honey-ball, not argument — stays pool). YT-offset data point for p1:
 DS leads YT ~5s (L03) to ~8s (L24); anchor-maps now have measured offsets.
-## 60. Coverage review: 33 sermons read, 0/A/B judged (2026-10-27, owner: "read the actual 33 sermons... create a critic review")
-
-Method: all 33 sermon excavations read in full (93k words), first-time,
-in 4 parallel passes; each sermon gist → core claim → COVERED/PARTIAL/
-MISSING against seg scripts + seed. Result: REVIEW-COVERAGE.md (root).
-Score: COVERED 2 (S15 Bahiya, S18 two-elements) + S1-center/S33-spine;
-MISSING in A/0: 1 (S12 nippapanca/Colombo); PARTIAL: 30.
-Pattern: spine holds (all six questions truly answered), but 1–8 lose
-arguments (island arrival, fire catechism, Cetasutta practice, cinema
-engine, Kevaddha verse, cord/shuttle), 9–16 lose precision instruments
-(etiology, contact hybrid, designation-grammar, signless samadhi,
-elements/atammayata), 25–33 lose instructions (element-body, signless
-development, peg, 36 pathways, balancing, twofold view, gap mechanics).
-12 sourced B-promotions proposed (P1–P12, with sequence-law slots) —
-NOT applied: composition changes are owner picks (taste lock). Log here,
-decide there.
-Also this session, in order: §58 (A/B canonical — manifests regenerated
-1:1, 71/71 containment, 2 A-strays), §59 (pool-only themes → 9 B* gold),
-free-first ears (G9 local gate, Qwen reserved), D=archive / C=curated
-rename (TIMINGS/VISION/10-MATHEMATICS/03-GOLD-CORE/FILES/HANDOVER
-reconciled to files). verify.sh ALL PASS throughout; audio_p0 frozen
-since the U4/U3/tail/trim render (mix PASS, ear_local PASS).
 ## 60. Coverage review: 33 sermons read, REVIEW-COVERAGE.md (2026-10-27, owner: "read the actual 33 sermons")
 
 All 33 excavations read in full, first-time, in 4 parallel passes. Score:
@@ -971,3 +949,33 @@ free-first protocol holds (14-LISTENING §0).
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)
+
+## 62. C-triage: 592 pool-only spans read, 9 promoted to gold (2026-10-27, owner: "go through all of c, fold B-level into B, just have 0 a b")
+
+Method: extracted every pool-only span (not in gold) per section with
+transcript text (592 spans, 55k words) -> 4 parallel readers triaged
+against strict rules (advances the section question + clean standalone
+open/close + non-redundant with A/gold; default LEAVE). Result: 9
+promoted, ~583 left in archive with reasons (readers' near-misses
+logged in task outputs; strongest LEAVE cases: S1 vortex-ceased verse
+(anaphoric open), S3 foam/bubble similes (mid-verse close), S6 floral-
+design glue (fragment open + comment tail)).
+Promoted (all boundaries CF-transcript or DS-word-time verified):
+S2 whirlpool-genesis L02 [3473.4-3582.5] + middle-path-as-knowledge
+L10 [537.3-568.5] + rupati-wound L10 [3989.8-4032.0] + house-anti-
+atomism L13 [4703.0-4773.0] (all after their c-neighbors); S3 craving-
+seamstress L33 [3250.0-3371.5] after c4 delight; S5 pia-desire-defense
+L30 [1409.0-1437.0] after c12 longing + grasp-in-the-middle L08
+[3843.7-3906.1] after c4 razor; S6 rock-levering L32 [1050.0-1147.0]
+after c8 faculties + Nalaka-paradox L18 [896.0-1020.5] after c10 shore.
+Bug caught during final audit: grasp span had been written as lec=5
+(wrong lecture — CF at L5 3891 is a different passage entirely); the
+real passage is L08, already in pool as [3843.7-3906.1]. Fixed: wrong
+gold entry + bogus pool twin removed, real pool span promoted, manifest
+line swapped. Lesson: CF-head check (first sentence of window against
+the transcript) catches wrong-lecture writes — run it on every new span.
+Gold 614->623, pool unchanged 1202 (pool twins existed or were bogus).
+Film rebuilt: budgets PASS (292.3m screening). verify.sh ALL GATES PASS.
+End state: 0/A/B canonical, pool = D archive (never played). C rung
+retired from the listening path (film keeps its cells as-is; no new C
+curation planned).

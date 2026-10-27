@@ -27,6 +27,15 @@
   "ismotto": false
  },
  {
+  "lec": 8,
+  "start": 3843.7,
+  "end": 3906.1,
+  "grade": "B",
+  "dur": 62.4,
+  "ci": 0,
+  "note": "B*: grasp-in-the-middle \u2014 impermanence does not affect us, only grasping does; the grasp accounts for the cord (L08, DS+CF verified) after c4 razor"
+ },
+ {
   "lec": 5,
   "start": 410.3,
   "end": 489.0,
@@ -59,7 +68,7 @@
   "end": 3033.0,
   "grade": "B",
   "dur": 6.8,
-  "ci": 2,
+  "ci": 3,
   "note": "B*: avitakka smoked-out-without-residue (DS-verified) in c5 tranquillity neighborhood"
  },
  {
@@ -116,6 +125,15 @@
   "dur": 59.4,
   "ci": 5,
   "ismotto": false
+ },
+ {
+  "lec": 30,
+  "start": 1409.0,
+  "end": 1437.0,
+  "grade": "B",
+  "dur": 28.0,
+  "ci": 5,
+  "note": "B*: pia desire-language defense \u2014 longing for nibbana is licit (DS-verified) after c11 toolkits"
  },
  {
   "lec": 30,
@@ -814,9 +832,9 @@
  {
   "lec": 30,
   "start": 2692.7,
-  "end": 2773.0,
+  "end": 2774.3,
   "grade": "A",
-  "dur": 80.3,
+  "dur": 81.6,
   "ci": 9,
   "ismotto": false
  },
