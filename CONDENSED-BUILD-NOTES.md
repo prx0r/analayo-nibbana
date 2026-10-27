@@ -700,6 +700,35 @@ METHOD (new text in front of you, asked for an essay 0):
    answers instead), never deleted silently.
 Rule of the whole thing: the answer pre-exists in the text; your only
 authorship is the question that makes it audible.
+## 54. Essay-A audit against canonical essay-0 (2026-10-26, owner: "make A as good, lead from 0")
+
+Heard-order audit (assembly = truth): every section opens bell → Q →
+pointer → stillness → beats; the essay-0 beat is consumed by the opening
+so nothing repeats. Openers: S1 motto → lamp (stilling shown) · S2 dog →
+whirlpool bodies (why blind → what the blind are caught in) · S3
+craving-gap → nominal name-form (engine → terrain) · S4 mirror →
+anidassana (constructed vs unconstructed, dialectical) · S5 Bahiya →
+motto-arahant → Dona story (formula → frame → tale) · S6 grown-cool →
+chessboard (state → vision). Closers: freedom / Channa-calm / barb /
+barb / raft / detached-percepts. §37 orders intact. Re-derivation:
+each A compresses to its pointer (S2's root = blindness operating
+everywhere, disclosed softness stands).
+
+REPAIR (one real break): U4's pointer ended at "Here I am!" [2219.3] —
+the mechanism naming ("conceit-I arises from the five grasping groups",
+spoken 2227.3-2232.5, closes before Pali philology 2233+) lived only in
+the excluded c2 tail, so Essay A never SAID how the self is constructed
+for the section asking exactly that. TEXT rightly unchanged (the sermon
+quote ends at Here-I-am; the naming is Analayo's explaining, which is
+his job). Fix: pointer → L10 [2208.9-2232.5] (~24s). Evidence:
+lecture-10 transcript t-words, clean open ("Even...") and close
+("...groups."). Containment holds (inside gold anchor [2208.9-2233.0]).
+Rebuilt make_assembly → seed → film → storyboard. Film 0=1.1→1.3m;
+G8 0-cell ch4 WARN grows (atomic window, documented); ALL GATES PASS.
+audio_p0 seed/S4 now stale for U4 — re-render queued (local-only).
+Stumble: my first windows edit dropped the `start` key (KeyError);
+restored, re-ran all four builders in order. §40's "names the mechanism"
+claim is now true of the pointer, not just the c2 window.
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)

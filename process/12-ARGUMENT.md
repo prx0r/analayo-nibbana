@@ -172,7 +172,9 @@ kept in notes history only, never revived without re-running the formula.
 S1 motto refrain L01 [695.5-709.8] (14s). S2 dog-ignorance sentence L25
 [1906.7-1916.0] (9s; independently quoted S25; full simile stays in S2c13
 whose clip moved to the full reading [1838-1916]). S3 craving-gap
-L33 [1864.7-1870.6] (6s). S4 mirror L10 [2208.9-2219.3] (10s). S5 Bahiya
+L33 [1864.7-1870.6] (6s). S4 mirror+mechanism L10 [2208.9-2232.5] (~24s:
+event through "Here I am!" plus "conceit-I arises from the five grasping
+groups", closing before Pali philology 2233+). S5 Bahiya
 L14 [4442.4-4462.3] (20s; YT times too coarse to tighten, ears-confirmed).
 S6 grown-cool L01 [4007.2-4014.0] (7s). Total ≈ 75s. Whirlpool stays S2's
 opening beat (flow-exception in gold), demoted with cause: it answers
