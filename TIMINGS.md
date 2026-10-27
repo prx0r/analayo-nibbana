@@ -34,13 +34,13 @@ core files hold 71 clips; assemblies play 65 + 6 pointers).
 
 | path | spans | raw speech | assembled est |
 |---|---|---|---|
-| 1 | 190 | 112.3 min | **~117.9 min** |
+| 1 | 195 | 121.7 min | **~127.8 min** |
 | 2 | 64 | 57.5 min | **~60.4 min** |
 | 3 | 93 | 66.1 min | **~69.4 min** |
-| 4 | 56 | 23.0 min | **~24.2 min** |
+| 4 | 58 | 25.2 min | **~26.5 min** |
 | 5 | 117 | 85.6 min | **~89.9 min** |
-| 6 | 79 | 42.8 min | **~44.9 min** |
-| **total** | **599** | **387.3 min** | **~6h 47m** |
+| 6 | 81 | 46.8 min | **~49.1 min** |
+| **total** | **608** | **402.9 min** | **~423.0 min (7.1h)** |
 
 Pause model: ~+5% over raw for seams (1.5s joins, 2.5s cluster waters,
 questions, bells); exact per-render counts live in the manifests.
@@ -68,7 +68,7 @@ deepening (film manifest C-cells, 167.9m); the archive feeds it.
 |---|---|
 | 0 seed | ~2m |
 | A core | ~1h 34m (+bells p1) |
-| B gold | ~6h 47m (est., +5% seams) |
+| B gold | ~7.1h (est., +5% seams) |
 | film screening | 292.3m (~4h52, incl. 124.2m re-encountered) |
 | **archive (not a pass)** | **~20.7h reference** |
 

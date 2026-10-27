@@ -10,6 +10,15 @@
   "note": "B* anidassana-gist (documented definitional promotion)"
  },
  {
+  "lec": 7,
+  "start": 1189.3,
+  "end": 1253.9,
+  "grade": "B",
+  "dur": 64.6,
+  "ci": 0,
+  "note": "B*: anidassana epithet + Harvey/SA comparison in c1 gist neighborhood (YT timebase)"
+ },
+ {
   "lec": 10,
   "start": 2208.9,
   "end": 2233.0,
@@ -45,6 +54,15 @@
   "dur": 77.3,
   "ci": 5,
   "ismotto": false
+ },
+ {
+  "lec": 2,
+  "start": 2154.9,
+  "end": 2219.0,
+  "grade": "B",
+  "dur": 64.1,
+  "ci": 7,
+  "note": "B*: sankhata/asankhata debate self-destructs (\"Nibbana is something to be realized\") \u2014 new closer after c5 barb"
  },
  {
   "lec": 7,

@@ -10,6 +10,15 @@
  },
  {
   "lec": 1,
+  "start": 3083.6,
+  "end": 3111.6,
+  "grade": "B",
+  "dur": 28.0,
+  "ci": 8,
+  "note": "B*: Nibbana-etymology correction (vana is not weaving) in motto word-neighborhood"
+ },
+ {
+  "lec": 1,
   "start": 3243.8,
   "end": 3345.2,
   "grade": "A",
@@ -34,6 +43,24 @@
   "dur": 42.8,
   "ci": 18,
   "ismotto": false
+ },
+ {
+  "lec": 33,
+  "start": 3105.1,
+  "end": 3231.1,
+  "grade": "B",
+  "dur": 126.0,
+  "ci": 8,
+  "note": "B*: consciousness-is-the-middle + sakkaya=five-groups (lands between c4 and ocean: designation -> gap -> calm)"
+ },
+ {
+  "lec": 29,
+  "start": 1992.8,
+  "end": 2144.7,
+  "grade": "B",
+  "dur": 151.9,
+  "ci": 4,
+  "note": "B*: mid-ocean calm + carpenter gradual-path after c4 ocean (same image family)"
  },
  {
   "lec": 1,
@@ -81,6 +108,15 @@
   "ismotto": false
  },
  {
+  "lec": 18,
+  "start": 3389.9,
+  "end": 3512.3,
+  "grade": "B",
+  "dur": 122.4,
+  "ci": 15,
+  "note": "B*: sanditthika/akalika here-and-now goal after c10 even-here-itself"
+ },
+ {
   "lec": 20,
   "start": 488.3,
   "end": 498.8,
@@ -88,6 +124,15 @@
   "dur": 10.5,
   "ci": 3,
   "ismotto": false
+ },
+ {
+  "lec": 1,
+  "start": 4832.8,
+  "end": 4968.0,
+  "grade": "B",
+  "dur": 135.2,
+  "ci": 19,
+  "note": "B*: Radha catechism (holy life merges into Nibbana like rivers into sea) extends c11 freedom close"
  },
  {
   "lec": 9,

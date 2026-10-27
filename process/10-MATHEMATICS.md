@@ -23,7 +23,7 @@ The essay-0 host beat of each section is consumed by the opening
 | layer | size | share of previous |
 |---|---|---|
 | D archive | 20.7 h (1,196 spans) | — (reference, not a rung) |
-| V2 gold | 6.45 h (599 spans, A-only) | ÷3.21 |
+| V2 gold | 6.7 h (608 spans: A + anchors + documented B*) | ÷3.1 |
 | V3 core | 1.51 h Analayo (71 clips) | ÷4.28 |
 | seed (§1 core) | ~0.21 h Analayo | — |
 | compression | ultimate (1 word: stilling) | ÷everything |

@@ -885,6 +885,29 @@ still read pool filenames (noted as legacy).
 C = CURATED DEEPENING (film C-cells, 167.9m). Defined, budgeted, current.
 The systematic pool-only-gem mine for film-C swaps stays queued (film-C
 curation, HANDOVER queue) — B already holds every A-grade sentence.
+## 59. Pool-only theme audit: is anything in C/D gold? (2026-10-26/27, owner: "is there anything in C/D that is gold not currently mentioned")
+
+METHOD: cluster coverage per section (pool-only clusters = themes never
+in gold), then full-transcript read of every candidate + DS-audio
+verification of the two YT ones. 10 pool-only clusters found — but ALL
+are singletons/pairs, not hidden themes. Judged one by one:
+PROMOTED to gold (B*, sequence-law placement, all CF/DS-verified):
+S1 mid-ocean calm + carpenter gradual-path (same image as c4 ocean);
+S1 Nibbana-etymology correction (vana≠weaving, motto neighborhood);
+S1 consciousness-is-the-middle + sakkaya=five-groups (c4 neighborhood);
+S1 sanditthika/akalika here-and-now goal (c10 neighborhood);
+S1 Radha catechism (holy life merges into Nibbana like rivers into sea;
+payoff confirmed inside window — extends c11 close);
+S4 sankhata/asankhata debate self-destructs (new closer after c5 barb);
+S4 anidassana epithet + Harvey/SA comparison (c1 neighborhood, YT times
+check out on DS); S6 faculties-vs-powers island simile (c8
+neighborhood); S6 proliferation chain undermining radical reflection
+(c13 neighborhood, same lecture); + the 2 A-strays from §58 (cinema-life,
+avitakka). Gold 599 → 608. Film rebuilt: 5 absorbed (4 into B+C cells,
+L29-avikkata queued out by the 168m ceiling); budgets PASS.
+DECLINED with reason: S3 sutta-list (authority-framing for c3's
+honey-ball, not argument — stays pool). YT-offset data point for p1:
+DS leads YT ~5s (L03) to ~8s (L24); anchor-maps now have measured offsets.
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)

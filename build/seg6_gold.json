@@ -74,6 +74,15 @@
  },
  {
   "lec": 32,
+  "start": 1957.0,
+  "end": 2087.5,
+  "grade": "B",
+  "dur": 130.5,
+  "ci": 0,
+  "note": "B*: faculties-vs-powers island simile in c8 faculties-chain neighborhood"
+ },
+ {
+  "lec": 32,
   "start": 1631.8,
   "end": 1671.3,
   "grade": "A",
@@ -116,6 +125,15 @@
   "dur": 39.2,
   "ci": 9,
   "ismotto": false
+ },
+ {
+  "lec": 27,
+  "start": 3799.4,
+  "end": 3909.0,
+  "grade": "B",
+  "dur": 109.6,
+  "ci": 1,
+  "note": "B*: proliferation chain undermining radical reflection in c13 neighborhood (same lecture)"
  },
  {
   "lec": 19,

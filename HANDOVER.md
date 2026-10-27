@@ -50,7 +50,7 @@ where things are, why, and what's next. Nothing here is decoration.
 
 ### `build/` — THE product data (canonical; read by gates and builders)
 - **Sources (edit only via logged fixes):** `segN_pool/gold/core_v4/script.json`
-  (pool 1196 / gold 597 incl. 6 essay-0 anchors + S2 dog-arc reinstatement §52 / core 71 sharpened),
+  (pool 1196 / gold 608 incl. 6 essay-0 anchors + 2 A-strays (§58) + 9 B* gems (§59) / core 71 sharpened),
   `segN_terms.json`, keys `fish_filter.py` + `blunt_key.json`,
   `quote_pool.json`, `verbatim_audio_v1.json` (71/71 aligned),
   `gold_fix_log.json`, `ear_floors.json`.
@@ -126,7 +126,7 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   grown-cool. Every window opens and closes on the spoken answer. Q4 seam closed on
   transcript (notes §40).
 - **Rungs:** 0 ⊂ A ⊂ B ⊂ C (Russian dolls), verified by overlap 6/6,
-  71/71, 597/597 (notes §39, §55); film budgets 6/36/90/168.
+  71/71 exact (notes §39, §55, §58); film budgets 6/36/90/168.
   **D = archive** (the pool files: 1196 spans, reference only — NOT a
   listening pass; 2026-10-27 rename, notes §58). C is the curated
   deepening (film C-cells); D is the complete record.
@@ -146,12 +146,12 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   they decide.
 
 ## Numbers that are true today (recomputed, not remembered)
-Pool 1196 spans 20.73h · gold 597 (6 essay-0 anchors promoted, §39, + S2
+Pool 1196 spans 20.73h · gold 608 (essay-0 anchors §39 + 2 A-strays §58 + 9 B* §59, + S2
 dog-arc reinstatement §52) ·
 core **71 clips** · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.8m ·
 C 167.9m · **screening 292.3m (~4h52)** · G8 warns only atomic rung-0
 over-targets (documented WARNs, not fails). Containment 0⊂A⊂B⊂C exact
-(6/6, 71/71, 597/597 by overlap).
+(6/6, 71/71 by overlap, pool⊇gold).
 p0 audio (local-only, pre-U4-extension): seed + S1..S6, 71/71 real
 voices, Fish Qs, room-bridge beds, dual-pass linear; p0_mix_check PASS.
 
