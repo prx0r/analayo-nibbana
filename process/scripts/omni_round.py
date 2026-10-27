@@ -21,6 +21,24 @@ AUDIT_Q = (
 )
 
 PLAN = [('seed', 1), ('s1', 2), ('s2', 3), ('s3', 3), ('s4', 1), ('s5', 2), ('s6', 2)]
+MODEL = __import__('os').environ.get('OMNI_MODEL', 'qwen3-omni-flash')
+MODE = __import__('os').environ.get('OMNI_MODE', 'audit')
+OUTFILE = { 'audit': '/root/analayo-nibbana/build/ear_round3.json',
+            'critic': '/root/analayo-nibbana/build/ear_critic1.json' }[MODE]
+CRITIC_Q = (
+    'You are reviewing one section of a spoken-word Dharma film. Listen to the '
+    'whole chunk, then reply as JSON: {"directness": [1-5, "exact quote"], '
+    '"flow": [1-5, "exact quote"], "pace": [1-5, "exact quote"], '
+    '"arc": [1-5, "exact quote"], "blend": [1-5, "exact quote"], '
+    '"best_moment": "timestamp and exact quote", '
+    '"weakest_joint": "timestamp and exact quote", '
+    '"surprise": "timestamp and exact quote", '
+    '"structural_advice": "one concrete cut-or-move suggestion, or null"}. '
+    'Directness: does each answer land on its question within 30s? Flow: does '
+    'each beat follow from the last without a swerve? Pace: contemplative vs '
+    'dragging? Arc: does the section close, or trail off? Blend: do the two '
+    'voices sit in one room? Transcribe quotes exactly as heard; never invent.'
+)
 
 
 def dur(p):
@@ -29,13 +47,14 @@ def dur(p):
     return float(o.stdout.strip())
 
 
-def ask(key, url, model='qwen3-omni-flash'):
+def ask(key, url, model=None):
+    model = model or MODEL
     body = json.dumps({
         'model': model,
         'messages': [{'role': 'user', 'content': [
             {'type': 'input_audio', 'input_audio': {'data': url, 'format': 'mp3'}},
-            {'type': 'text', 'text': AUDIT_Q}]}],
-        'max_tokens': 800, 'temperature': 0}).encode()
+            {'type': 'text', 'text': CRITIC_Q if MODE == 'critic' else AUDIT_Q}]}],
+        'max_tokens': 1500 if MODE == 'critic' else 800, 'temperature': 0}).encode()
     req = urllib.request.Request(URL, data=body,
                                  headers={'Authorization': 'Bearer %s' % key,
                                           'Content-Type': 'application/json'})
@@ -58,7 +77,7 @@ def main():
     assert key, 'no key'
     total = dur('%s/seed.mp3' % D)
     try:
-        results = json.load(open('/root/analayo-nibbana/build/ear_round3.json'))
+        results = json.load(open(OUTFILE))
     except (FileNotFoundError, json.JSONDecodeError):
         results = {}
     for tag, n in PLAN:
@@ -85,8 +104,8 @@ def main():
                 txt = 'CALL FAILED: %r' % e
             results[tag].append({'chunk': i, 'start': a, 'end': b, 'url': url, 'text': txt})
             print('--- %s/%d (%.0f chars)' % (tag, i, len(txt)), flush=True)
-    open('/root/analayo-nibbana/build/ear_round3.json', 'w').write(json.dumps(results, indent=1))
-    print('wrote build/ear_round3.json')
+    open(OUTFILE, 'w').write(json.dumps(results, indent=1))
+    print('wrote %s (mode=%s model=%s)' % (OUTFILE, MODE, MODEL))
 
 
 if __name__ == '__main__':

@@ -12,5 +12,5 @@ L30 995.7-1074.0 A lecture-30.mp3
 L14 1494.2-1559.3 A lecture-14.mp3 
 L10 974.5-1350.5 A lecture-10.mp3 
 L29 953.3-992.2 A lecture-29.mp3 
-L24 4305.6-4437.4 A lecture-24.mp3 
+L24 4305.6-4428.5 A lecture-24.mp3 
 L24 1038.0-1100.2 A lecture-24.mp3 

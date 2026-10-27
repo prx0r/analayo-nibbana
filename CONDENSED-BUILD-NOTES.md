@@ -804,6 +804,60 @@ whisper seed content-verified, ear_probes PASS, assert_audible at render.
 DONE status: round 3 PARTIAL — round-3b queued (variant host/model for
 the 8 gaps). Audio_p0 generation mix-up resolved (§55): fresh render
 matches current assemblies + manifest.
+## 57. Copilot adjudication + tail/overrun fixes + spend halt (2026-10-26/27, owner: "use Qwen as copilot", then "don't spend all the omni tokens" — STOPPED, no model calls after this note)
+
+QWEN ROUNDS RUN (DashScope, ~53 calls total: 17× qwen3-omni-flash + ~36×
+qwen3.8-omni-flash; whisper checks are LOCAL/faster-whisper, free):
+round-3 audit (14 chunks), s4 retries, round-3b re-listens, critic round
+(14 chunks, ear_critic1.json), fix-verification re-listens. 3.8 proved
+reliable where 3-flash refused ("text, not audio" pattern). No further
+model calls without owner OK.
+
+VERIFIED DEFECTS FOUND BY EARS + FIXED (all whisper/transcript-proven,
+all gates green after):
+F-A. S5c1 window cut mid-thought (CF L16: "...only to break up" severed
+from "and get dispersed the next moment"): end 1066.7 → 1068.8.
+F-B. S2c3 window cut mid-thought (DS word times: "reactions" ends
+652.16, next starts 652.57): end 654.6 → 652.5. YT cue times run ~5s
+LATE vs DS audio here — measured, see YT note below.
+F-C. S3c13 closer contamination ("thank you for your attention" inside
+kept window; §10 trim never landed): end → 4428.5 (silence-probe placed
+mid-gap; DS leads YT ~8s here). Model-confirmed gone in re-listen.
+F-D. U3 pointer dangled ("It is sometimes..." new sentence at 1869.8;
+§50/§54 "closes clean" claims were ASSERTED, now corrected): end
+1870.6 → 1869.2 (DS word times: "craving." ends 1868.54).
+F-E. 5 verbatim-slice overruns (sermon slice played past TEXT end, breath
+chopped the bleed): s2c6 → 3317.6, s5c1 → 78.0, s5c2 → 380.3, s5c4 →
+206.4, s5c5 → 2350.6 (all shrink-only, transcript-verified; s5c8
+checked EXACT, untouched). Systematic screen attempted and ABANDONED:
+auto-matching false-positives on hyphen/ASR variants (s2c6 would have
+eaten 7s of quote) — hand-verify only, per M-R8. 13 further candidates
+QUEUED, untouched.
+All fixes: whisper-verified on fresh render (complete closing words, no
+bleed), p0_mix_check PASS, verify.sh ALL PASS, re-rendered + re-listened
+(fresh s2/1, s3/2, s5/0, s5/1: no blocking findings).
+
+REFUTED (not defects, logged with cause):
+- s4 "click at every join": cross-section control (identical join code in
+s1/s3/s6 reports zero clicks) + mix edges PASS → confabulation pattern.
+- s3 end 12s "silence": terminal stillness by design (water+pause close).
+- Mid-sentence flags at chunk starts: construction artifacts.
+- s5/0 "mid-sentence at every verbatim end": whisper proved complete
+closing sentences at all four tails post-trim.
+- 9/10 critic advices DECLINED: verbatim/Analayo alternation = gospel
+(A16); "add a bridge line" = R1; aside/cough cuts inside kept windows =
+owner taste; A-reorders = §37-locked; source restatements are not cuts
+we make.
+POLISH (real, non-blocking, owner/p1): s2 throat-clear, s3 cough+chair+
+2.7s lecture pause, s5 4.4s lecture pause, voice-blend + Fish voice
+(taste locks). YT MEASUREMENT for p1: DS audio leads YT cues ~5s (L03)
+to ~8s (L24) — anchor-map queue now has numbers.
+ROUND-3 FILE INCIDENT: round-5 setup wiped working ear_round3.json;
+restored from HEAD (pre-fix round-3 texts). Re-listen verdicts live in
+this note + EAR_REPORT/LEDGER (round-3b/round-4 rows); round-5 never ran.
+DONE ears: text gates PASS + mix PASS + adjudicated rounds with zero
+open blockers; strict 2-consecutive-full-clean count NOT yet claimed —
+one full clean pass on the frozen render remains.
 (§52 stumbles preserved: S2 core rows lack clip ids — matcher silently
 missed, match by window; first c13 end-typing wrote 1895 not 1916 —
 caught by film assert.)

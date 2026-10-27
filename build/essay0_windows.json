@@ -12,17 +12,17 @@
   "note": "dog-ignorance sentence (independently quoted S25 lines 88-90; full simile stays in S2c13)"
  },
  "3": {
-  "end": 1870.6,
+  "end": 1869.2,
   "lec": 33,
-  "note": "craving sentence (+perception tail); deer setup lives in A",
+  "note": "craving sentence only (dangle trimmed: next sentence starts 1869.8)",
   "start": 1864.7
  },
-  "4": {
-   "end": 2232.5,
-   "lec": 10,
-   "start": 2208.9,
-   "note": "mirror moment + mechanism naming (conceit-I from five grasping groups; closes before Pali philology 2233+)"
-  },
+ "4": {
+  "end": 2232.5,
+  "lec": 10,
+  "start": 2208.9,
+  "note": "mirror moment + mechanism naming (conceit-I from five grasping groups; closes before Pali philology 2233+)"
+ },
  "5": {
   "end": 4462.3,
   "lec": 14,

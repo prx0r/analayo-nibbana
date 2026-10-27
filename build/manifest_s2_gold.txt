@@ -1,6 +1,6 @@
 L02 5128.3-5193.5 B lecture-02.mp3
 L10 1663.3-1974.9 A lecture-10.mp3
-L03 525.0-654.6 A lecture-03.mp3
+L03 525.0-652.5 A lecture-03.mp3
 L10 4064.8-4229.7 A lecture-10.mp3
 L10 4292.7-4455.5 A lecture-10.mp3
 L23 5132.5-5259.3 A lecture-23.mp3

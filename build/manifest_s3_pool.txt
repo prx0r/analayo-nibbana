@@ -112,7 +112,7 @@ L14 3991.6-4107.4 B lecture-14.mp3
 L15 2072.6-2106.4 A lecture-15.mp3 
 L24 3799.3-3877.9 B lecture-24.mp3 
 L24 3927.4-4006.1 B lecture-24.mp3 
-L24 4305.6-4437.4 A lecture-24.mp3 
+L24 4305.6-4428.5 A lecture-24.mp3 
 L25 441.7-559.7 B lecture-25.mp3 
 L25 1692.2-1813.7 B lecture-25.mp3 
 L30 2413.2-2540.7 B lecture-30.mp3 

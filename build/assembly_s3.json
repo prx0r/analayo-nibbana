@@ -25,8 +25,8 @@
   "t": "analayo",
   "lec": 33,
   "start": 1864.7,
-  "end": 1870.6,
-  "dur": 5.9,
+  "end": 1869.2,
+  "dur": 4.5,
   "note": "ESSAY 0 AUDIO: pointer, not explanation (essay0_windows.json)"
  },
  {
@@ -423,12 +423,12 @@
   "t": "analayo",
   "lec": 24,
   "start": 4305.6,
-  "end": 4437.4,
-  "dur": 131.8
+  "end": 4428.5,
+  "dur": 122.9
  },
  {
   "t": "water",
-  "dur": 4.7
+  "dur": 4.5
  },
  {
   "t": "zoom-bell"

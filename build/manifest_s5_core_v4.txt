@@ -1,4 +1,4 @@
-L16 935.8-1066.7 A lecture-16.mp3 MOTTO
+L16 935.8-1068.8 A lecture-16.mp3 MOTTO
 L14 4406.0-4462.3 A lecture-14.mp3 
 L14 4442.4-4462.3 A lecture-14.mp3
 L05 4018.9-4111.5 A lecture-05.mp3 
