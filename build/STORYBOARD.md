@@ -251,7 +251,7 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 
 ### S3-4 · S3B4 · L23 [984.3-1003.2] (18.9s)
 - TEXT: Gods and men delight in existence, they are attached to existence... When Dhamma is being preached to them for the cessation of existence, their minds do not re…
-- PLAIN: Gods and men liking that grabs in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds …
+- PLAIN: Gods and men delight in existence, they are attached to existence... When Dhamma is being preached to them for the stopping of existence, their minds do not rea…
 - AUDIO sermon 10 [18.0s, score 1.0] -> Analayo [18.9s]
 - clock ~54:29
 
@@ -263,7 +263,7 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 
 ### S3-7 · S3B7 · L29 [4502.1-4593.1] (91.0s)
 - TEXT: Being troubled, ashamed, and disgusted of existence as such, some delight in non-existence.
-- PLAIN: Being troubled, ashamed, and disgusted of existence as such, some liking that grabs in non-existence.
+- PLAIN: Being troubled, ashamed, and disgusted of existence as such, some delight in non-existence.
 - AUDIO sermon 10 [9.5s, score 0.929] -> Analayo [91.0s]
 - clock ~58:36
 
@@ -281,7 +281,7 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 
 ### S3-10 · S3B10 · L13 [2130.0-2191.3] (61.3s)
 - TEXT: He does not delight in Nibbana. Why so? Because he knows that delighting is the root of suffering, and from becoming comes birth and to the one become there is …
-- PLAIN: He does not liking that grabs in Nibbana (out, like a flame with no fuel). Why so? Because he knows that delighting is the root of suffering, and from the next …
+- PLAIN: He does not delight in Nibbana (out, like a flame with no fuel). Why so? Because he knows that delighting is the root of suffering, and from the next me forming…
 - AUDIO sermon 13 [22.4s, score 1.0] -> Analayo [61.3s]
 - FLAGS: override: documented / amendment: S3b10 duplicate resolved: sourced S13 no-delight quote (contiguous verified) matches L13 A…
 - clock ~62:14

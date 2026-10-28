@@ -1412,3 +1412,14 @@ queued §78). rāga/nandi/māna/diṭṭhi/lobha absent from all plains/tts.
 process/scripts/blunt_key.json was a stale duplicate — synced from
 build/ (canonical per rebuild_text import). Full regen + hand-restore
 cycle re-run, diff reviewed thirst-only + dhono. ALL GATES PASS.
+
+## 81. Veto fixes applied (2026-10-28, owner: "make fixes")
+
+Delight mapping DELETED ("delight" is plain English already) — "Gods
+and men delight in existence", "He does not delight in Nibbana" now
+grammatical corpus-wide. vimutti->release, animitta->the signless,
+nibbida->disenchantment, khandha->bundle-a-heap; dead "without labels"
+rule removed; samsara/samsaric loanword-approved. Regen-diff reviewed
+(mapping outputs + dhono-restore only). Kept: upadana->grasping (fire
+quotes carry duality), namarupa/bhava/sati/satta/sunnata (history).
+Full rebuild, ALL GATES PASS. No render (standing order).

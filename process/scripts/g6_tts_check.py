@@ -38,7 +38,7 @@ PALI = re.compile(
     # ASCII-folded inflected forms found in corpus 2026-10-28 (S5c15/S6c15:
     # NFKD folding defeats the diacritic forms above; tts lead-drop now
     # strips the S5c15 lead, these guard the rest)
-    r'animittanca|mananusaya|upadinna|anupadinna|bhavehi)\b')
+    r'animittanca|mananusaya|upadinna|anupadinna|bhavehi|samsara|samsaric)\b')
 
 APPROVED = {
     'arahant': 'loanword, corpus-standard spoken form (7x)',
@@ -53,6 +53,8 @@ APPROVED = {
     'samuppada': 'formula term; same unit as paticca',
     'samuppanna': 'citation unit; English gloss precedes (things dependently arisen)',
     'yadidam': "gloss precedes: 'that is to say', yadidam",
+    'samsara': 'loanword, corpus-standard spoken form (owner 2026-10-28)',
+    'samsaric': 'same standing as samsara',
 }
 
 # The pre-fix S5b2 line. If this ever stops being flagged, G6b's
