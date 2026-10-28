@@ -81,3 +81,6 @@ L25 4207.5-4289.7 B lecture-25.mp3
 L25 4304.6-4410.5 B lecture-25.mp3
 L25 4427.4-4458.9 A lecture-25.mp3
 L10 2203.1-2233.0 A lecture-10.mp3
+L16 3387.2-3401.0 B lecture-16.mp3
+L15 1326.2-1364.0 B lecture-15.mp3
+L06 1326.9-1372.3 B lecture-06.mp3

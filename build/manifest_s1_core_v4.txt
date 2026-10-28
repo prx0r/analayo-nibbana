@@ -9,3 +9,6 @@ L19 348.0-359.0 A lecture-19.mp3
 L19 390.0-522.0 A lecture-19.mp3
 L19 718.0-753.0 A lecture-19.mp3
 L20 488.0-499.0 A lecture-20.mp3
+L08 3517.9-3521.7 A lecture-08.mp3
+L18 3616.0-3621.9 A lecture-18.mp3
+L14 2487.0-2495.0 A lecture-14.mp3

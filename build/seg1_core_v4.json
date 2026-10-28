@@ -108,5 +108,38 @@
   "ci": 0,
   "ismotto": false,
   "clip": 11
+ },
+ {
+  "lec": 8,
+  "start": 3517.9,
+  "end": 3521.7,
+  "grade": "A",
+  "dur": 3.8,
+  "ci": 0,
+  "ismotto": false,
+  "clip": 12,
+  "note": "hunt-found (cessation-of-existence definition, owner 2026-10-28)"
+ },
+ {
+  "lec": 18,
+  "start": 3616.0,
+  "end": 3621.9,
+  "grade": "A",
+  "dur": 5.9,
+  "ci": 0,
+  "ismotto": false,
+  "clip": 13,
+  "note": "hunt-found (extinction as of a fire (elevenfold, not lamp), owner 2026-10-28)"
+ },
+ {
+  "lec": 14,
+  "start": 2487.0,
+  "end": 2495.0,
+  "grade": "A",
+  "dur": 8.0,
+  "ci": 0,
+  "ismotto": false,
+  "clip": 14,
+  "note": "hunt-found (owning/grasping not (DS = YT-10.0), owner 2026-10-28)"
  }
 ]

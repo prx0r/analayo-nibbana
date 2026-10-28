@@ -44,5 +44,35 @@
   "dur": 77.3,
   "ci": 5,
   "ismotto": false
+ },
+ {
+  "lec": 16,
+  "start": 3387.2,
+  "end": 3401.0,
+  "grade": "A",
+  "dur": 13.8,
+  "ci": 0,
+  "ismotto": false,
+  "note": "hunt-found (grasping-mirror, I-am occurs, owner 2026-10-28)"
+ },
+ {
+  "lec": 15,
+  "start": 1326.2,
+  "end": 1364.0,
+  "grade": "A",
+  "dur": 37.8,
+  "ci": 0,
+  "ismotto": false,
+  "note": "hunt-found (peg drives grammar persons, owner 2026-10-28)"
+ },
+ {
+  "lec": 6,
+  "start": 1326.9,
+  "end": 1372.3,
+  "grade": "A",
+  "dur": 45.4,
+  "ci": 6,
+  "ismotto": false,
+  "note": "hunt-found (painter fashions the self (DS = YT-1.5), owner 2026-10-28)"
  }
 ]

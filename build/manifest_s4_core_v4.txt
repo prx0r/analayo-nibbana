@@ -3,3 +3,6 @@ L10 2208.9-2233.0 A lecture-10.mp3
 L06 1409.0-1446.8 A lecture-06.mp3
 L09 1189.8-1276.9 A lecture-09.mp3
 L25 711.0-788.3 A lecture-25.mp3
+L16 3387.2-3401.0 A lecture-16.mp3
+L15 1326.2-1364.0 A lecture-15.mp3
+L06 1326.9-1372.3 A lecture-06.mp3

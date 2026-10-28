@@ -320,6 +320,81 @@
   "dur": 2.7
  },
  {
+  "t": "verbatim",
+  "text": "Nibbana has been defined as the cessation of existence. The Buddha says that when he is preaching about the cessation of existence, some people, particularly the brahmins who cling to a soul theory, bring up the charge of nihilism against him. Not only those brahmins and heretics believing in a soul theory, but even some Buddhist scholars are scared of the term bhavanirodha, fearing that it leads to a nihilistic interpretation.",
+  "sermon": 8
+ },
+ {
+  "t": "fish",
+  "beat": 12,
+  "say": "Nibbana \u2014 out, like a flame with no fuel \u2014 has been defined as the stopping of existence. The Buddha says that when he is preaching about the stopping of existence, some people, particularly the brahmins who cling to a soul theory, bring up the charge of nihilism against him. Not only those brahmins and heretics believing in a soul theory, but even some Buddhist scholars are scared of the term bhavanirodha, fearing that it leads to a nihilistic interpretation."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 8,
+  "start": 3517.9,
+  "end": 3521.7,
+  "dur": 3.8
+ },
+ {
+  "t": "water",
+  "dur": 2.6
+ },
+ {
+  "t": "verbatim",
+  "text": "Existence is said to be an eleven-fold fire. So the entire existence is a raging fire. Lust, hate, delusion \u2014 all these are fires. Therefore Nibbana may be best rendered by the word 'extinction'.",
+  "sermon": 1
+ },
+ {
+  "t": "fish",
+  "beat": 13,
+  "say": "Existence is said to be an eleven-fold fire. So the entire existence is a raging fire. Lust, hate, delusion \u2014 all these are fires. Therefore Nibbana \u2014 out, like a flame with no fuel \u2014 may be best rendered by the word 'going out, like a flame with no fuel'."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 18,
+  "start": 3616.0,
+  "end": 3621.9,
+  "dur": 5.9
+ },
+ {
+  "t": "water",
+  "dur": 2.6
+ },
+ {
+  "t": "verbatim",
+  "text": "Not by views, nor by learning, nor by knowledge, nor yet by virtue and holy vows, they say, can purity come, neither can it come by without views, learning and knowledge, without virtue and holy vows, letting go of them all and grasping not one, that peaceful one, leaning on none, would hanker no more for existence.",
+  "sermon": 30
+ },
+ {
+  "t": "fish",
+  "beat": 14,
+  "say": "Not by views, nor by learning, nor by knowledge, nor yet by virtue and holy vows, they say, can purity come, neither can it come by without views, learning and knowledge, without virtue and holy vows, letting go of them all and holding on not one, that peaceful one, leaning on none, would hanker no more for existence."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 14,
+  "start": 2487.0,
+  "end": 2495.0,
+  "dur": 8.0
+ },
+ {
+  "t": "water",
+  "dur": 2.6
+ },
+ {
   "t": "zoom-bell"
  },
  {

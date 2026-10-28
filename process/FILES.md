@@ -11,7 +11,7 @@ Sources (edit only via logged, gated fixes):
 - `segN_gold.json`: **B** (555 spans incl. essay-0 anchors (§39 + S2 triple §74)
   + 2 A-grade strays §58 + 9 B* §59 + 12 P-picks §61, 6.9h; D-grade cuts §63). A-flow order, edge-audited. Motto-cap
   enforced in manifests, never in data.
-- `segN_core_v4.json`: **A, canonical (71 clips)**, sharpened orders
+- `segN_core_v4.json`: **A, canonical (83 clips: 71 + 12 hunt §75)**, sharpened orders
   (§37), verified holder of every flow fix. Assemblies play 65 + 6
   essay-0 pointers (host beats consumed by the opening).
 - `segN_script.json`: per beat {analayo clip, nanananda_verbatim

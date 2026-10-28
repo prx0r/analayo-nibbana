@@ -73,15 +73,60 @@
       }
      ],
      "cost_s": 19.0
+    },
+    {
+     "beat": 12,
+     "reason": "cessation-of-existence definition (hunt, owner: implement)",
+     "screen_verbatim": "Nibbana has been defined as the cessation of existence. The Buddha says that when he is preaching about the cessation of existence, some people, particularly the brahmins who cling to a soul theory, bring up the charge of nihilism against him. Not only those brahmins and heretics believing in a soul theory, but even some Buddhist scholars are scared of the term bhavanirodha, fearing that it leads to a nihilistic interpretation.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 8,
+       "start": 3517.9,
+       "end": 3521.7,
+       "dur": 3.8
+      }
+     ],
+     "cost_s": 11.8
+    },
+    {
+     "beat": 13,
+     "reason": "extinction as of a fire (hunt)",
+     "screen_verbatim": "Existence is said to be an eleven-fold fire. So the entire existence is a raging fire. Lust, hate, delusion \u2014 all these are fires. Therefore Nibbana may be best rendered by the word 'extinction'.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 18,
+       "start": 3616.0,
+       "end": 3621.9,
+       "dur": 5.9
+      }
+     ],
+     "cost_s": 13.9
+    },
+    {
+     "beat": 14,
+     "reason": "owning/grasping not (hunt)",
+     "screen_verbatim": "Not by views, nor by learning, nor by knowledge, nor yet by virtue and holy vows, they say, can purity come, neither can it come by without views, learning and knowledge, without virtue and holy vows, letting go of them all and grasping not one, that peaceful one, leaning on none, would hanker no more for existence.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 14,
+       "start": 2487.0,
+       "end": 2495.0,
+       "dur": 8.0
+      }
+     ],
+     "cost_s": 16.0
     }
    ],
-   "total_s": 142.0
+   "total_s": 183.7
   },
   "2": {
    "question": "Why don't I see Nibbana right now?",
    "pointer": {
     "beat": 1,
-    "reason": "pointer dog-ignorance",
+    "reason": "pointer TRIPLE manana/only-looking/no-seer (owner \u00a774)",
     "screen_verbatim": [
      "Due to the very ignorance of the fact that it is seeing because it is looking, the dog imagines another dog, there, in the water. What is called ma\u00f1\u00f1an\u0101 is an imagining of that sort.",
      "Only a looking is there, nothing worth looking at. Only a seeing is there, nothing to be seen. Apart from the bare act of hearing, there is nothing to be heard.",
@@ -181,9 +226,39 @@
       }
      ],
      "cost_s": 139.7
+    },
+    {
+     "beat": 16,
+     "reason": "contact->feeling->proliferation alt gloss (hunt)",
+     "screen_verbatim": "Dependent on eye and forms, friend, arises eye-consciousness; the concurrence of the three is contact; because of contact, feeling; what one feels, one perceives; what one perceives, one reasons about; what one reasons about, one proliferates; what one proliferates, owing to that, reckonings born of prolific perceptions overwhelm him in regard to forms cognizable by the eye relating to the past, the future and the present.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 11,
+       "start": 4698.4,
+       "end": 4708.0,
+       "dur": 9.6
+      }
+     ],
+     "cost_s": 17.6
+    },
+    {
+     "beat": 17,
+     "reason": "craving bridges the gap, fuel (hunt)",
+     "screen_verbatim": "Like a promontory, it juts out into the ocean of samsara. When it comes to rebirth, it is craving that bridges the apparent gap.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 20,
+       "start": 2378.7,
+       "end": 2395.5,
+       "dur": 16.8
+      }
+     ],
+     "cost_s": 24.8
     }
    ],
-   "total_s": 159.2
+   "total_s": 201.6
   },
   "4": {
    "question": "How is the sense of self constructed?",
@@ -232,9 +307,54 @@
       }
      ],
      "cost_s": 85.3
+    },
+    {
+     "beat": 6,
+     "reason": "grasping-mirror, I-am occurs (hunt)",
+     "screen_verbatim": "The magical illusion created by consciousness is so complete that it is capable of playing a dual role, as in double acting. Because it reflects, like a mirror, consciousness itself is grasped, just as one grasps the mirror. Not only the reflection of the mirror, but the mirror itself is grasped.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 16,
+       "start": 3387.2,
+       "end": 3401.0,
+       "dur": 13.8
+      }
+     ],
+     "cost_s": 21.8
+    },
+    {
+     "beat": 7,
+     "reason": "peg drives grammar persons (hunt)",
+     "screen_verbatim": "The primary significance of papa\u00f1ca is traceable to the linguistic medium. We have already shown how the network of grammar spreads as soon as the peg 'am' is driven down to earth, as it were. The reality in the first person in grammar beckons a second and a third person to complete the picture.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 15,
+       "start": 1326.2,
+       "end": 1364.0,
+       "dur": 37.8
+      }
+     ],
+     "cost_s": 45.8
+    },
+    {
+     "beat": 8,
+     "reason": "painter fashions the self (hunt)",
+     "screen_verbatim": "Just as a dyer or a painter would fashion the likeness of a woman or of a man, complete in all its major and minor parts, on a well planed board, or a wall, or on a strip of cloth, with dye or lac or turmeric or indigo or madder, even so the untaught worldling creates, as it were, his own form, feelings, perceptions, preparations, and consciousness.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 6,
+       "start": 1326.9,
+       "end": 1372.3,
+       "dur": 45.4
+      }
+     ],
+     "cost_s": 53.4
     }
    ],
-   "total_s": 169.2
+   "total_s": 290.2
   },
   "5": {
    "question": "How is Nibbana attained?",
@@ -283,9 +403,24 @@
       }
      ],
      "cost_s": 58.6
+    },
+    {
+     "beat": 15,
+     "reason": "develop the signless (hunt)",
+     "screen_verbatim": "Animitta\u00f1ca bh\u0101vehi, m\u0101n\u0101nusayamujjaha \u2014 'Develop the signless, too, and give up the latency to conceit!'",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 29,
+       "start": 981.1,
+       "end": 992.2,
+       "dur": 11.1
+      }
+     ],
+     "cost_s": 19.1
     }
    ],
-   "total_s": 181.0
+   "total_s": 200.1
   },
   "6": {
    "question": "What is Nibbana like?",
@@ -349,9 +484,54 @@
       }
      ],
      "cost_s": 106.4
+    },
+    {
+     "beat": 14,
+     "reason": "fire calms with no traceable path (hunt)",
+     "screen_verbatim": "Just as in the case of a fire blazing like a block of iron in point of compactness, when it gradually calms down, no path it goes by can be traced.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 19,
+       "start": 3993.5,
+       "end": 4014.7,
+       "dur": 21.2
+      }
+     ],
+     "cost_s": 29.2
+    },
+    {
+     "beat": 15,
+     "reason": "samsara as chess organic-vs-inorganic (hunt)",
+     "screen_verbatim": "Our entire sa\u1e43s\u0101ric existence is a chess game between the organic, up\u0101di\u1e47\u1e47a, and the inorganic, anup\u0101di\u1e47\u1e47a. The four elements within this body, the grasped par excellence... and the four elements as nutrition and atmosphere are always in conflict in their game of chess.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 28,
+       "start": 2901.8,
+       "end": 2915.8,
+       "dur": 14.0
+      }
+     ],
+     "cost_s": 22.0
+    },
+    {
+     "beat": 16,
+     "reason": "neither shore (hunt)",
+     "screen_verbatim": "For whom there is neither a farther shore, nor a hither shore, nor both, who is undistressed and unfettered, him I call a Brahmin.",
+     "screen_plain": "",
+     "analayo": [
+      {
+       "lec": 5,
+       "start": 1753.4,
+       "end": 1764.4,
+       "dur": 11.0
+      }
+     ],
+     "cost_s": 19.0
     }
    ],
-   "total_s": 212.3
+   "total_s": 282.5
   }
  }
 }

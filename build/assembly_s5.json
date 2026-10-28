@@ -398,6 +398,31 @@
   "dur": 3.5
  },
  {
+  "t": "verbatim",
+  "text": "Animitta\u00f1ca bh\u0101vehi, m\u0101n\u0101nusayamujjaha \u2014 'Develop the signless, too, and give up the latency to conceit!'",
+  "sermon": 29
+ },
+ {
+  "t": "fish",
+  "beat": 15,
+  "say": "Animittanca bhavehi, mananusayamujjaha \u2014 'Develop the signless, too, and give up the latency to conceit!'"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 29,
+  "start": 981.1,
+  "end": 992.2,
+  "dur": 11.1
+ },
+ {
+  "t": "water",
+  "dur": 2.7
+ },
+ {
   "t": "zoom-bell"
  },
  {

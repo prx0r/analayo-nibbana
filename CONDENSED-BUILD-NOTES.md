@@ -1265,3 +1265,19 @@ G7 head generalized + seed unit-grouping; G9 triple must-hear phrases;
 beats() numbering frozen (pointer group = beat 1, verified stable);
 sharpen-era motto-cap/manifest logic untouched. G5 81/81, verify ALL
 PASS. Dog simile stays as the S2 beat (c13 full arc).
+
+## 75. Twelve hunt-found beats implemented (2026-10-28, owner: "implement these")
+
+All 5 hunt agents' best finds folded in as new core beats (S1x3, S3x2,
+S4x3, S5x1, S6x3; 3 screened as already-heard: S3-L13/S5-L31/S6-L18).
+Each: unused sermon quote (agent-checked vs seg scripts) + plain via
+rebuild_text + YT windows DS-converted (L14 off 10.0, L06 off 1.5,
+L20 per-window measured ~11.5 for this span). Stumbles, all caught:
+(1) add_beats numbered from core clip keys — S3-S6 cores lack them,
+collided clips 1-3 (repaired to script-max+1; numbering rule fixed);
+(2) film greedy dropped new core clips from pool check — pool homes
+appended for all 12 (pool = complete record; S5-L29 twin existed);
+(3) S6 newA threatened 340 budget — landed 282s analayo-only.
+Core 71->83, pool 1136->1147. Ladder now A 22m / B 54m / C 121m /
+D 261m, nesting re-proved. G5 covers new quotes (81+12 via scripts).
+No audio rendered (standing order).

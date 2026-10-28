@@ -11,7 +11,7 @@ converged there independently of the Analayo cut plans, and the Analayo
 gold independently lands in the same six buckets. Two dissections, one
 elephant.
 
-## 71 beats (canonical, 2026-10-27 — assemblies play 65 + 6 essay-0 pointers)
+## 83 beats (canonical: 71 of 2026-10-27 + 12 hunt-found §75 — assemblies play 77 + 6 essay-0 pointers)
 Core beats per section: 11, 13, 15, 5, 14, 13 = **71**.
 §4's 5 is the honest thin one (concentrated doctrine — anidassana,
 tetralemma, no-footing). No padding was added to round it out; the
@@ -24,7 +24,7 @@ The essay-0 host beat of each section is consumed by the opening
 |---|---|---|
 | D archive | 20.75 h (1,133 spans) | — (reference, not a rung) |
 | V2 gold | 6.9 h (555 spans: A + anchors + documented B*) | ÷3.0 |
-| V3 core | 1.51 h Analayo (71 clips) | ÷4.28 |
+| V3 core | ~1.7 h Analayo (83 clips) | ÷~4 |
 | seed (§1 core) | ~0.21 h Analayo | — |
 | compression | ultimate (1 word: stilling) | ÷everything |
 

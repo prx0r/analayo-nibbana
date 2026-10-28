@@ -11,7 +11,7 @@
   "nanananda_sermon": 16,
   "cluster": 2,
   "plain_english_below": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative (with nowhere to land) consciousness there is absolutely no darkness for them to shine forth.",
-  "tts_line": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative — with nowhere to land — consciousness there is absolutely no darkness for them to shine forth."
+  "tts_line": "The sun, the moon and the stars shine precisely because of the presence of darkness. In the non-manifestative \u2014 with nowhere to land \u2014 consciousness there is absolutely no darkness for them to shine forth."
  },
  {
   "clip": 2,
@@ -25,7 +25,7 @@
   "nanananda_sermon": 10,
   "cluster": 6,
   "plain_english_below": "It is when one looks into a mirror that one suddenly becomes self- conscious... Even if one already has no such notion, the moment one looks into a mirror one is suddenly reminded of it, as if to exclaim: 'Ah, here I am!'",
-  "tts_line": "It is when one looks into a mirror that one suddenly becomes self- conscious... Even if one already has no such notion, the moment one looks into a mirror one is suddenly reminded of it, as if to exclaim — 'Ah, here I am!'",
+  "tts_line": "It is when one looks into a mirror that one suddenly becomes self- conscious... Even if one already has no such notion, the moment one looks into a mirror one is suddenly reminded of it, as if to exclaim \u2014 'Ah, here I am!'",
   "match": "mirror L10 spoken in-window (replaces scatter L06: heard board/cloth junk; quote never spoken)"
  },
  {
@@ -69,5 +69,50 @@
   "cluster": 5,
   "plain_english_below": "He declares that he has seen well in advance 'the barb on which mankind is hooked impaled'. The barb is none other than the dogmatic assertion, 'I know, I see, it is verily so'.",
   "tts_line": "He declares that he has seen well in advance 'the barb on which mankind is hooked impaled'. The barb is none other than the dogmatic assertion, 'I know, I see, it is verily so'."
+ },
+ {
+  "clip": 6,
+  "analayo": {
+   "lec": 16,
+   "start": 3387.2,
+   "end": 3401.0,
+   "dur": 13.8
+  },
+  "nanananda_verbatim": "The magical illusion created by consciousness is so complete that it is capable of playing a dual role, as in double acting. Because it reflects, like a mirror, consciousness itself is grasped, just as one grasps the mirror. Not only the reflection of the mirror, but the mirror itself is grasped.",
+  "nanananda_sermon": 10,
+  "match": 0,
+  "override": null,
+  "plain_english_below": "The magical illusion created by consciousness is so complete that it is capable of playing a dual role, as in double acting. Because it reflects, like a mirror, consciousness itself is grasped, just as one grasps the mirror. Not only the reflection of the mirror, but the mirror itself is grasped.",
+  "tts_line": "The magical illusion created by consciousness is so complete that it is capable of playing a dual role, as in double acting. Because it reflects, like a mirror, consciousness itself is grasped, just as one grasps the mirror. Not only the reflection of the mirror, but the mirror itself is grasped."
+ },
+ {
+  "clip": 7,
+  "analayo": {
+   "lec": 15,
+   "start": 1326.2,
+   "end": 1364.0,
+   "dur": 37.8
+  },
+  "nanananda_verbatim": "The primary significance of papa\u00f1ca is traceable to the linguistic medium. We have already shown how the network of grammar spreads as soon as the peg 'am' is driven down to earth, as it were. The reality in the first person in grammar beckons a second and a third person to complete the picture.",
+  "nanananda_sermon": 23,
+  "match": 0,
+  "override": null,
+  "plain_english_below": "The primary significance of papanca is traceable to the linguistic medium. We have already shown how the network of grammar spreads as soon as the peg 'am' is driven down to earth, as it were. The reality in the first person in grammar beckons a second and a third person to complete the picture.",
+  "tts_line": "The primary significance of papanca is traceable to the linguistic medium. We have already shown how the network of grammar spreads as soon as the peg 'am' is driven down to earth, as it were. The reality in the first person in grammar beckons a second and a third person to complete the picture."
+ },
+ {
+  "clip": 8,
+  "analayo": {
+   "lec": 6,
+   "start": 1326.9,
+   "end": 1372.3,
+   "dur": 45.4
+  },
+  "nanananda_verbatim": "Just as a dyer or a painter would fashion the likeness of a woman or of a man, complete in all its major and minor parts, on a well planed board, or a wall, or on a strip of cloth, with dye or lac or turmeric or indigo or madder, even so the untaught worldling creates, as it were, his own form, feelings, perceptions, preparations, and consciousness.",
+  "nanananda_sermon": 6,
+  "match": 0,
+  "override": null,
+  "plain_english_below": "Just as a dyer or a painter would fashion the likeness of a woman or of a man, complete in all its major and minor parts, on a well planed board, or a wall, or on a strip of cloth, with dye or lac or turmeric or indigo or madder, even so the untaught worldling creates, as it were, his own form, pleasant-or-unpleasant tone, perceptions, things the mind makes, and consciousness.",
+  "tts_line": "Just as a dyer or a painter would fashion the likeness of a woman or of a man, complete in all its major and minor parts, on a well planed board, or a wall, or on a strip of cloth, with dye or lac or turmeric or indigo or madder, even so the untaught worldling creates, as it were, his own form, pleasant-or-unpleasant tone, perceptions, things the mind makes, and consciousness."
  }
 ]

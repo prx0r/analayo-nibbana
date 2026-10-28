@@ -363,6 +363,81 @@
   "dur": 3.2
  },
  {
+  "t": "verbatim",
+  "text": "Just as in the case of a fire blazing like a block of iron in point of compactness, when it gradually calms down, no path it goes by can be traced.",
+  "sermon": 19
+ },
+ {
+  "t": "fish",
+  "beat": 14,
+  "say": "Just as in the case of a fire blazing like a block of iron in point of compactness, when it gradually calms down, no path it goes by can be traced."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 19,
+  "start": 3993.5,
+  "end": 4014.7,
+  "dur": 21.2
+ },
+ {
+  "t": "water",
+  "dur": 2.9
+ },
+ {
+  "t": "verbatim",
+  "text": "Our entire sa\u1e43s\u0101ric existence is a chess game between the organic, up\u0101di\u1e47\u1e47a, and the inorganic, anup\u0101di\u1e47\u1e47a. The four elements within this body, the grasped par excellence... and the four elements as nutrition and atmosphere are always in conflict in their game of chess.",
+  "sermon": 28
+ },
+ {
+  "t": "fish",
+  "beat": 15,
+  "say": "Our entire samsaric existence is a chess game between the organic, upadinna, and the inorganic, anupadinna. The four elements within this body, the grasped par excellence... and the four elements as nutrition and atmosphere are always in conflict in their game of chess."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 28,
+  "start": 2901.8,
+  "end": 2915.8,
+  "dur": 14.0
+ },
+ {
+  "t": "water",
+  "dur": 2.7
+ },
+ {
+  "t": "verbatim",
+  "text": "For whom there is neither a farther shore, nor a hither shore, nor both, who is undistressed and unfettered, him I call a Brahmin.",
+  "sermon": 5
+ },
+ {
+  "t": "fish",
+  "beat": 16,
+  "say": "For whom there is neither a farther shore, nor a hither shore, nor both, who is undistressed and unfettered, him I call a Brahmin."
+ },
+ {
+  "t": "breath",
+  "dur": 1.5
+ },
+ {
+  "t": "analayo",
+  "lec": 5,
+  "start": 1753.4,
+  "end": 1764.4,
+  "dur": 11.0
+ },
+ {
+  "t": "water",
+  "dur": 2.7
+ },
+ {
   "t": "seed-reprise"
  },
  {

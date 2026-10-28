@@ -109,11 +109,11 @@
    "end": 4689.4,
    "dur": 84.8
   },
-  "nanananda_verbatim": "It could indeed be expected of a noble disciple who has faith that he\nwill dwell with energy... that he will be mindful... that he will gain\nconcentration, will gain one-pointedness of mind, having made release\nthe object... that he will understand thus: 'This saṃsāra is without a\nconceivable beginning... But the remainderless fading away and\ncessation of ignorance... the stilling of all preparations... the\ndestruction of craving, detachment, cessation, extinction.' That\nwisdom of his, Venerable Sir, is his faculty of wisdom.",
+  "nanananda_verbatim": "It could indeed be expected of a noble disciple who has faith that he\nwill dwell with energy... that he will be mindful... that he will gain\nconcentration, will gain one-pointedness of mind, having made release\nthe object... that he will understand thus: 'This sa\u1e43s\u0101ra is without a\nconceivable beginning... But the remainderless fading away and\ncessation of ignorance... the stilling of all preparations... the\ndestruction of craving, detachment, cessation, extinction.' That\nwisdom of his, Venerable Sir, is his faculty of wisdom.",
   "nanananda_sermon": 31,
   "cluster": 3,
   "plain_english_below": "It could indeed be expected of a noble disciple who has faith that he will dwell with energy... that he will be mindful... that he will gain concentration, will gain one-pointedness of mind, having made release the object... that he will understand thus: 'This samsara is without a conceivable beginning... But the remainderless going out and stopping of not seeing how it works... everything the mind makes comes to a stop... the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.' That wisdom of his, Venerable Sir, is his faculty of wisdom.",
-  "tts_line": "It could indeed be expected of a noble disciple who has faith that he will dwell with energy... that he will be mindful... that he will gain concentration, will gain one-pointedness of mind, having made release the object... that he will understand thus — 'This samsara is without a conceivable beginning... But the remainderless going out and stopping of not seeing how it works... everything the mind makes comes to a stop... the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.' That wisdom of his, Venerable Sir, is his faculty of wisdom.",
+  "tts_line": "It could indeed be expected of a noble disciple who has faith that he will dwell with energy... that he will be mindful... that he will gain concentration, will gain one-pointedness of mind, having made release the object... that he will understand thus \u2014 'This samsara is without a conceivable beginning... But the remainderless going out and stopping of not seeing how it works... everything the mind makes comes to a stop... the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.' That wisdom of his, Venerable Sir, is his faculty of wisdom.",
   "amendment": "A-pass: Sariputta faculties chain matches L31 bases->faculties chain"
  },
  {
@@ -185,5 +185,50 @@
   "cluster": 9,
   "plain_english_below": "To one detached from percepts there are no bonds, to one released through wisdom there are no delusions, those who hold on to percepts and views, go about wrangling in this world.",
   "tts_line": "To one detached from percepts there are no bonds, to one released through wisdom there are no delusions, those who hold on to percepts and views, go about wrangling in this world."
+ },
+ {
+  "clip": 14,
+  "analayo": {
+   "lec": 19,
+   "start": 3993.5,
+   "end": 4014.7,
+   "dur": 21.2
+  },
+  "nanananda_verbatim": "Just as in the case of a fire blazing like a block of iron in point of compactness, when it gradually calms down, no path it goes by can be traced.",
+  "nanananda_sermon": 19,
+  "match": 0,
+  "override": null,
+  "plain_english_below": "Just as in the case of a fire blazing like a block of iron in point of compactness, when it gradually calms down, no path it goes by can be traced.",
+  "tts_line": "Just as in the case of a fire blazing like a block of iron in point of compactness, when it gradually calms down, no path it goes by can be traced."
+ },
+ {
+  "clip": 15,
+  "analayo": {
+   "lec": 28,
+   "start": 2901.8,
+   "end": 2915.8,
+   "dur": 14.0
+  },
+  "nanananda_verbatim": "Our entire sa\u1e43s\u0101ric existence is a chess game between the organic, up\u0101di\u1e47\u1e47a, and the inorganic, anup\u0101di\u1e47\u1e47a. The four elements within this body, the grasped par excellence... and the four elements as nutrition and atmosphere are always in conflict in their game of chess.",
+  "nanananda_sermon": 28,
+  "match": 0,
+  "override": null,
+  "plain_english_below": "Our entire samsaric existence is a chess game between the organic, upadinna, and the inorganic, anupadinna. The four elements within this body, the grasped par excellence... and the four elements as nutrition and atmosphere are always in conflict in their game of chess.",
+  "tts_line": "Our entire samsaric existence is a chess game between the organic, upadinna, and the inorganic, anupadinna. The four elements within this body, the grasped par excellence... and the four elements as nutrition and atmosphere are always in conflict in their game of chess."
+ },
+ {
+  "clip": 16,
+  "analayo": {
+   "lec": 5,
+   "start": 1753.4,
+   "end": 1764.4,
+   "dur": 11.0
+  },
+  "nanananda_verbatim": "For whom there is neither a farther shore, nor a hither shore, nor both, who is undistressed and unfettered, him I call a Brahmin.",
+  "nanananda_sermon": 5,
+  "match": 0,
+  "override": null,
+  "plain_english_below": "For whom there is neither a farther shore, nor a hither shore, nor both, who is undistressed and unfettered, him I call a Brahmin.",
+  "tts_line": "For whom there is neither a farther shore, nor a hither shore, nor both, who is undistressed and unfettered, him I call a Brahmin."
  }
 ]

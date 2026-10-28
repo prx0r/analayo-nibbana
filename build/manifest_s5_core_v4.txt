@@ -12,3 +12,4 @@ L31 4822.7-4882.1 A lecture-31.mp3
 L30 1187.5-1245.4 A lecture-30.mp3
 L18 2307.0-2350.0 A lecture-18.mp3
 L31 611.2-673.0 A lecture-31.mp3
+L29 981.1-992.2 A lecture-29.mp3

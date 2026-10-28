@@ -124,5 +124,15 @@
   "dur": 61.8,
   "ci": 8,
   "ismotto": false
+ },
+ {
+  "lec": 29,
+  "start": 981.1,
+  "end": 992.2,
+  "grade": "A",
+  "dur": 11.1,
+  "ci": 0,
+  "ismotto": false,
+  "note": "hunt-found (develop the signless, drop conceit-latency, owner 2026-10-28)"
  }
 ]

@@ -2510,5 +2510,32 @@
   "grade": "B",
   "dur": 113.5,
   "ci": 21
+ },
+ {
+  "lec": 8,
+  "start": 3517.9,
+  "end": 3521.7,
+  "dur": 3.8,
+  "grade": "B",
+  "ci": 14,
+  "note": "hunt-found beat home (owner 2026-10-28; pool=complete record)"
+ },
+ {
+  "lec": 18,
+  "start": 3616.0,
+  "end": 3621.9,
+  "dur": 5.9,
+  "grade": "B",
+  "ci": 14,
+  "note": "hunt-found beat home (owner 2026-10-28; pool=complete record)"
+ },
+ {
+  "lec": 14,
+  "start": 2487.0,
+  "end": 2495.0,
+  "dur": 8.0,
+  "grade": "B",
+  "ci": 6,
+  "note": "hunt-found beat home (owner 2026-10-28; pool=complete record)"
  }
 ]

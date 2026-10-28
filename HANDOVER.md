@@ -149,7 +149,7 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
 ## Numbers that are true today (recomputed, not remembered)
 Pool 1136 spans ~20.76h · gold 555 (anchors §39 + strays §58 + B* §59 + P-picks §61, + S2
 dog-arc reinstatement §52) ·
-core **71 clips** · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.9m ·
+core **83 clips** (71 + 12 hunt §75) · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.9m ·
 film C-cells 167.9m · **screening 292.3m (~4h52)** · G8 fully green
 (pointer-shrink §51 closed the old rung-0 WARNs). Containment 0⊂A⊂B
 exact (71/71 by overlap, pool⊇gold).

@@ -24,25 +24,30 @@ SLACK = 40.0
 
 # B curated subsets (assembly beat numbers; S1/S4 = whole old-A).
 B_PICKS = {
-    1: None,  # whole
-    2: [(1, 'pointer dog'), (2, 'whirlpool bodies'),
+    1: None,  # whole (old-A + hunt beats 12-14)
+    2: [(1, 'pointer TRIPLE (owner §74)'), (2, 'whirlpool bodies'),
         (8, 'ignorance dethroned — not first either'),
         (10, 'akalika immediacy'), (11, 'three-periods warrant'),
         (12, 'banana cut'), (13, 'Channa payoff')],
     3: [(1, 'pointer craving-gap'), (2, 'nominal terrain'),
         (4, 'honey chain'), (5, 'delight-in-existence'),
         (9, 'steadied'), (10, 'no-delight-in-Nibbana'),
-        (15, 'barb close')],
-    4: None,  # whole (thin by design)
+        (15, 'barb close'),
+        (16, 'contact-chain alt gloss (hunt)'),
+        (17, 'craving bridges gap (hunt)')],
+    4: None,  # whole (old-A + hunt beats 6-8)
     5: [(1, 'pointer Bahiya'), (3, 'dhono stance'),
         (4, 'razor warning'), (5, 'honing technique'),
         (7, 'Upatissa proof'), (8, 'postures monodrama'),
         (12, 'longing licensed'), (13, 'lotus result'),
-        (14, 'raft close')],
+        (14, 'raft close'),
+        (15, 'develop the signless (hunt)')],
     6: [(1, 'pointer grown-cool'), (2, 'chessboard'),
         (3, 'peaceful draw'), (4, 'lotuses'),
         (8, 'faculties chain'), (11, 'magic-show seen through'),
-        (13, 'detached close')],
+        (13, 'detached close'),
+        (14, 'fire-no-path (hunt)'), (15, 'chess organic (hunt)'),
+        (16, 'neither shore (hunt)')],
 }
 
 

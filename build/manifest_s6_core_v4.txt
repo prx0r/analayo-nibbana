@@ -11,3 +11,6 @@ L18 753.8-853.2 A lecture-18.mp3
 L26 1650.7-1749.1 A lecture-26.mp3
 L26 1813.7-1909.0 A lecture-26.mp3
 L27 3655.6-3694.8 A lecture-27.mp3
+L19 3993.5-4014.7 A lecture-19.mp3
+L28 2901.8-2915.8 A lecture-28.mp3
+L05 1753.4-1764.4 A lecture-05.mp3

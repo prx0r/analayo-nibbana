@@ -115,5 +115,35 @@
   "dur": 39.2,
   "ci": 9,
   "ismotto": false
+ },
+ {
+  "lec": 19,
+  "start": 3993.5,
+  "end": 4014.7,
+  "grade": "A",
+  "dur": 21.2,
+  "ci": 10,
+  "ismotto": false,
+  "note": "hunt-found (fire calms with no traceable path, owner 2026-10-28)"
+ },
+ {
+  "lec": 28,
+  "start": 2901.8,
+  "end": 2915.8,
+  "grade": "A",
+  "dur": 14.0,
+  "ci": 10,
+  "ismotto": false,
+  "note": "hunt-found (samsara as chess organic-vs-inorganic, owner 2026-10-28)"
+ },
+ {
+  "lec": 5,
+  "start": 1753.4,
+  "end": 1764.4,
+  "grade": "A",
+  "dur": 11.0,
+  "ci": 10,
+  "ismotto": false,
+  "note": "hunt-found (neither shore (Brahmin verse), owner 2026-10-28)"
  }
 ]

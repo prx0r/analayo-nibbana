@@ -312,3 +312,6 @@ L30 5364.5-5479.6 A lecture-30.mp3
 L33 2476.0-2509.3 A lecture-33.mp3
 L33 2868.7-2901.2 A lecture-33.mp3
 L33 3677.3-3790.8 B lecture-33.mp3
+L08 3517.9-3521.7 B lecture-08.mp3
+L18 3616.0-3621.9 B lecture-18.mp3
+L14 2487.0-2495.0 B lecture-14.mp3

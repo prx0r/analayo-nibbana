@@ -133,5 +133,25 @@
   "dur": 122.9,
   "ci": 8,
   "ismotto": false
+ },
+ {
+  "lec": 11,
+  "start": 4698.4,
+  "end": 4708.0,
+  "grade": "A",
+  "dur": 9.6,
+  "ci": 4,
+  "ismotto": false,
+  "note": "hunt-found (contact->feeling->proliferation chain (alt gloss), owner 2026-10-28)"
+ },
+ {
+  "lec": 20,
+  "start": 2378.7,
+  "end": 2395.5,
+  "grade": "A",
+  "dur": 16.8,
+  "ci": 0,
+  "ismotto": false,
+  "note": "hunt-found (craving bridges the gap, fuel (DS-measured), owner 2026-10-28)"
  }
 ]
