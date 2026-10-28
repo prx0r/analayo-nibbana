@@ -10,12 +10,12 @@ depth. Rules (deterministic):
       gold spans overlapping a core clip (>50%) deduped (same passage,
       core window wins). Cell contents cumulative: 0 c A c B c C.
 Flags computed from transcripts (whisper sentences inside the window),
-cached in /tmp/film_flags.json. Gates: process/scripts/g8_film_check.py.
+cached in build/.film_flags_cache.json (gitignored). Gates: process/scripts/g8_film_check.py.
 """
 import json, re, os, bisect, sys
 
 D = '/root/analayo-nibbana'
-CACHE = '/tmp/film_flags.json'
+CACHE = os.path.join(D, 'build', '.film_flags_cache.json')
 BUD = {1: (30, 240, 600, 1500), 2: (90, 420, 1080, 1980), 3: (75, 420, 1200, 2040),
        4: (45, 240, 480, 780), 5: (45, 420, 1140, 2100), 6: (75, 420, 900, 1680)}
 # Documented hand-picks (REVIEW pass: highest-signal A composition).

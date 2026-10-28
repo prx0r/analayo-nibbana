@@ -1,4 +1,7 @@
 #!/bin/bash
+# ERA-1 SUPERSEDED (kept for method, 2026-10-28): references
+# /home/box/Downloads + /tmp/opencode/cf_whisper.py. 33/33 transcripts
+# exist. Not run by any live path.
 D=/home/box/Downloads/yt/analayo-nibbana
 for n in $(seq -w 1 33); do
   mp3="$D/analayo-nibbana-lecture-$n.mp3"

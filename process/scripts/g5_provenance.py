@@ -21,6 +21,25 @@ import re
 import sys
 
 SRC = '/tmp/satsang-ext/53-nibbana-scaffold/sermon-*.md'
+# Portable resolution (2026-10-28): repo-vendored sources/ first, then
+# $SERMON_SCAFFOLD_DIR override, then the legacy /tmp path. Fail loud
+# listing every path tried.
+def _resolve_src():
+    here = os.path.dirname(os.path.abspath(__file__))
+    cands = [
+        os.path.normpath(os.path.join(here, '..', '..', 'sources',
+                                      '53-nibbana-scaffold', 'sermon-*.md')),
+        os.path.join(os.environ.get('SERMON_SCAFFOLD_DIR', ''), 'sermon-*.md')
+        if os.environ.get('SERMON_SCAFFOLD_DIR') else None,
+        SRC,
+    ]
+    for pat in [c for c in cands if c]:
+        if glob.glob(pat):
+            return pat
+    print('G5: no sermon scaffold found. Tried:')
+    for pat in [c for c in cands if c]:
+        print('  -', pat)
+    return None
 
 
 def norm(t):
@@ -36,7 +55,11 @@ def normstrip(t):
 
 
 def main():
-    files = [norm(open(f).read()) for f in sorted(glob.glob(SRC))]
+    pat = _resolve_src()
+    if pat is None:
+        print('G5 PROVENANCE FAILED (no scaffold)')
+        return 1
+    files = [norm(open(f).read()) for f in sorted(glob.glob(pat))]
     bad, total, miss = 0, 0, []
     for s in range(1, 7):
         for e in json.load(open('build/seg%d_script.json' % s)):

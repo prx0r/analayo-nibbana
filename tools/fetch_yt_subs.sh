@@ -1,4 +1,6 @@
 #!/bin/bash
+# ERA-1 SUPERSEDED (kept for method, 2026-10-28): reads /tmp/opencode/yt_lectures.tsv,
+# writes /home/box/Downloads. yt-subs/ in-repo is current. Not run by any live path.
 mkdir -p /home/box/Downloads/yt/analayo-nibbana/yt-subs
 while IFS=$'\t' read -r n vid title; do
   out="/home/box/Downloads/yt/analayo-nibbana/yt-subs/lecture-$n.json"

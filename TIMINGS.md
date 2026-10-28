@@ -23,9 +23,9 @@ durs (assembled). B/C assembled = estimates via the pause model below.
 | 2 | 12 | 24.3 min | **25.7 min** |
 | 3 | 14 | 23.6 min | **25.1 min** |
 | 4 | 4 | 4.4 min | **4.9 min** |
-| 5 | 13 | 16.1 min | **17.4 min** |
+| 5 | 13 | 14.9 min | **16.2 min** |
 | 6 | 12 | 11.0 min | **12.1 min** |
-| **total** | **65** | **87.7 min** | **~1h 34m** |
+| **total** | **65** | **86.5 min** | **~1h 34m** |
 
 Clip counts are HEARD beats (essay-0 host beats consumed by the opening:
 core files hold 71 clips; assemblies play 65 + 6 pointers).
@@ -68,7 +68,7 @@ deepening (film manifest C-cells, 167.9m); the archive feeds it.
 |---|---|
 | 0 seed | ~2m |
 | A core | ~1h 34m (+bells p1) |
-| B gold | ~7.1h (est., +5% seams) |
+| B gold | ~7.3h (est., +5% seams) |
 | film screening | 292.3m (~4h52, incl. 124.2m re-encountered) |
 | **archive (not a pass)** | **~20.7h reference** |
 

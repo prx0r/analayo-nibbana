@@ -1,13 +1,13 @@
 {
  "s1_pool": {
-  "clips": 329,
-  "min": 325.3,
-  "audio_ok": "329/329"
+  "clips": 314,
+  "min": 325.2,
+  "audio_ok": "314/314"
  },
  "s1_gold": {
-  "clips": 190,
-  "min": 112.3,
-  "audio_ok": "190/190"
+  "clips": 178,
+  "min": 121.4,
+  "audio_ok": "178/178"
  },
  "s1_core": {
   "clips": 11,
@@ -15,14 +15,14 @@
   "audio_ok": "11/11"
  },
  "s2_pool": {
-  "clips": 220,
-  "min": 251.4,
-  "audio_ok": "220/220"
+  "clips": 213,
+  "min": 254.0,
+  "audio_ok": "213/213"
  },
  "s2_gold": {
-  "clips": 64,
-  "min": 57.4,
-  "audio_ok": "64/64"
+  "clips": 61,
+  "min": 64.3,
+  "audio_ok": "61/61"
  },
  "s2_core": {
   "clips": 13,
@@ -30,29 +30,29 @@
   "audio_ok": "13/13"
  },
  "s3_pool": {
-  "clips": 194,
-  "min": 225.3,
-  "audio_ok": "194/194"
+  "clips": 182,
+  "min": 224.1,
+  "audio_ok": "182/182"
  },
  "s3_gold": {
-  "clips": 93,
-  "min": 66.3,
-  "audio_ok": "93/93"
+  "clips": 82,
+  "min": 67.1,
+  "audio_ok": "82/82"
  },
  "s3_core": {
   "clips": 15,
-  "min": 24.0,
+  "min": 23.9,
   "audio_ok": "15/15"
  },
  "s4_pool": {
-  "clips": 89,
+  "clips": 83,
   "min": 70.4,
-  "audio_ok": "89/89"
+  "audio_ok": "83/83"
  },
  "s4_gold": {
-  "clips": 56,
-  "min": 23.0,
-  "audio_ok": "56/56"
+  "clips": 52,
+  "min": 25.1,
+  "audio_ok": "52/52"
  },
  "s4_core": {
   "clips": 5,
@@ -60,29 +60,29 @@
   "audio_ok": "5/5"
  },
  "s5_pool": {
-  "clips": 239,
-  "min": 251.0,
-  "audio_ok": "239/239"
+  "clips": 234,
+  "min": 251.3,
+  "audio_ok": "234/234"
  },
  "s5_gold": {
-  "clips": 115,
-  "min": 84.2,
-  "audio_ok": "115/115"
+  "clips": 114,
+  "min": 88.7,
+  "audio_ok": "114/114"
  },
  "s5_core": {
   "clips": 14,
-  "min": 16.1,
+  "min": 14.9,
   "audio_ok": "14/14"
  },
  "s6_pool": {
-  "clips": 125,
-  "min": 121.7,
-  "audio_ok": "125/125"
+  "clips": 107,
+  "min": 120.1,
+  "audio_ok": "107/107"
  },
  "s6_gold": {
-  "clips": 79,
-  "min": 42.8,
-  "audio_ok": "79/79"
+  "clips": 65,
+  "min": 48.8,
+  "audio_ok": "65/65"
  },
  "s6_core": {
   "clips": 13,

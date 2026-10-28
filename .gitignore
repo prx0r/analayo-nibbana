@@ -2,3 +2,8 @@
 *.pdf
 process/scripts/__pycache__
 build/__pycache__
+tools/__pycache__
+# local-only renders (never committed; ~4.5GB) + build cache
+build/audio_p0/
+build/audio_v1/
+build/.film_flags_cache.json

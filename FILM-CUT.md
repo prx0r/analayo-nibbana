@@ -1,4 +1,5 @@
-# FILM-CUT — the five-hour version (lab/c-split, 2026-10-25)
+# FILM-CUT — the five-hour version (lab/c-split, recomputed 2026-10-28
+from build/film_manifest.json; recompute: sum chapter depth durs)
 
 Built from visuals/FIVE-HOUR-CUT.md. Membership manifest:
 `build/film_manifest.json` — every clip assigned to its EARLIEST depth,
@@ -18,31 +19,28 @@ gates: `process/scripts/g8_film_check.py` (wired into verify.sh as G8).
 
 | ch | question (locked chain) | actual | budget | clips 0/A/B/C |
 |---|---|---|---|---|
-| 1 | What is Nibbana? | 53 / 220 / 600 / 1499 | 30 / 240 / 600 / 1500 | 1/3/20/47 |
-| 2 | Why don't I see Nibbana right now? | 65 / 402 / 1077 / 1978 | 90 / 420 / 1080 / 1980 | 1/3/13/26 |
-| 3 | What keeps it going? | 62 / 398 / 1200 / 2040 | 75 / 420 / 1200 / 2040 | 1/5/18/32 |
-| 4 | How is the sense of self constructed? | 48 / 210 / 480 / 779 | 45 / 240 / 480 / 780 | 1/4/16/36 |
-| 5 | How is Nibbana attained? | 75 / 382 / 1140 / 2100 | 45 / 420 / 1140 / 2100 | 1/5/19/40 |
-| 6 | What is Nibbana like? | 99 / 418 / 899 / 1680 | 75 / 420 / 900 / 1680 | 1/7/17/44 |
-| **total** | | **6.7 / 33.5 / 90.0 / 167.9 min** | **6 / 36 / 90 / 168** | 1/27/103/225 |
+| 1 | What is Nibbana? | 14 / 191 / 599 / 1499 | 30 / 240 / 600 / 1500 | 1/3/9/37 |
+| 2 | Why don't I see Nibbana right now? | 9 / 395 / 1080 / 1979 | 90 / 420 / 1080 / 1980 | 1/2/11/22 |
+| 3 | What keeps it going? | 4 / 387 / 1199 / 2039 | 75 / 420 / 1200 / 2040 | 1/6/19/32 |
+| 4 | How is the sense of self constructed? | 24 / 226 / 478 / 779 | 45 / 240 / 480 / 780 | 1/4/11/28 |
+| 5 | How is Nibbana attained? | 22 / 408 / 1138 / 2099 | 45 / 420 / 1140 / 2100 | 1/7/22/44 |
+| 6 | What is Nibbana like? | 7 / 385 / 900 / 1677 | 75 / 420 / 900 / 1680 | 1/9/17/31 |
+| **total** | | **1.3 / 33.2 / 89.9 / 167.9 min** | **6 / 36 / 90 / 168** | 6/31/89/194 |
 
-**Screening: 298.1 min ≈ 4h 58m** (ceiling 300 + 5m tolerance).
-Unique timeline material (C) = 167.9m; re-encountered = 130.4m (the
+**Screening: 292.3 min ≈ 4h 52m** (ceiling 300 + 5m tolerance).
+Unique timeline material (C) = 167.9m; re-encountered = 124.4m (the
 nesting repetition the doc budgeted at 132m).
 
-Screening map (actual): 0:00–0:06 seed · 0:06–0:40 A · 0:40–2:10 B ·
-2:10–4:58 C.
+Screening map (actual): 0:00–0:01 seed · 0:01–0:35 A · 0:35–2:04 B ·
+2:04–4:52 C.
 
 ## Documented deviations (G8 warns, does not fail)
-- Rung-0 cells over target in ch1/4/5/6 (53>30, 48>45, 75>45, 99>75):
-  the seed clips are atomic lecture windows — the essay-0 material
-  cannot be shorter than the sentence it is. A visual-crop pass (hold
-  text cards over early fade-out) can reclaim the ~25s at edit time.
-- A under budget by 1.9m (chapter packing ran out of short clips —
+- Rung-0 cells all UNDER target now (pointer-shrink §51 closed the old
+  ch1/4/5/6 over-target WARNs): 14<30, 9<90, 4<75, 24<45, 22<45, 7<75.
+- A under budget by 2.8m (chapter packing ran out of short clips —
   thin stays thin; no padding).
-- Flagged material (D-categories) in cells: A=3 (incl. the refrain
-  essay-0s, unavoidable), B=14, C=21 of 225 — the film is essentially
-  D-clean; the flagged pool stays for the LISTENING C/D split.
+- Flagged material (D-categories) in cells: A=4, B=13, C=18 of 194 —
+  the film is essentially D-clean.
 
 ## Gates (G8)
 1. nesting E0 ⊂ EA ⊂ EB ⊂ EC (by (lec,start), per chapter)
@@ -55,8 +53,9 @@ Screening map (actual): 0:00–0:06 seed · 0:06–0:40 A · 0:40–2:10 B ·
 ## Next (in order)
 1. cue sheet: intra-cell ORDER + shot IDs + music passages (three clocks)
 2. audio render per rung (CF exact; YT-anchor mapping for L03/06/14/24/27…)
-3. human intros shortened for the 6m seed (owner lines)
-4. listening-edition C→D split (separate manifest, uses the 333m flag pool)
+3. human intros shortened for the ~2m seed (owner lines)
+4. C rung retired from the listening path (§62) — film keeps its C-cells
+   as-is; no separate listening-edition C→D manifest planned.
 
 ## Lab patch applied with this cut (F1 back-port)
 The two A-grade head-extensions (S1 L19 head → 348.0, S6 L27 head →

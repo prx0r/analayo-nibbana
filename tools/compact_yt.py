@@ -1,3 +1,6 @@
+# ERA-1 SUPERSEDED (kept for method, 2026-10-28): reads
+# /home/box/Downloads scratch + writes /tmp/opencode/. Repo yt-subs/ is
+# the current home. Not run by any live path.
 """YT phrase cues (punctuation-less) -> readable sentence-ish lines by pause/length."""
 import json, sys, os
 n = f"{int(sys.argv[1]):02d}"

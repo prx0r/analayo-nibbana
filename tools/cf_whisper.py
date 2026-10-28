@@ -1,3 +1,7 @@
+# ERA-1 SUPERSEDED (kept for method, 2026-10-28): Cloudflare transcription
+# worker. Uses /tmp/opencode/cfseg.mp3 scratch. Not run by any live path
+# (33/33 transcripts exist). Cf. tools/sermon_transcribe.py for the current
+# sermon-reading transcriber.
 import base64, json, urllib.request, subprocess, math, sys, time, os
 LECT, OUT = sys.argv[1], sys.argv[2]
 KEY = open('/root/.cloudflare_r2').read().split('API_TOKEN=')[1].split('\n')[0].strip()

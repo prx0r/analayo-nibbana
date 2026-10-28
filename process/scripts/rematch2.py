@@ -1,3 +1,7 @@
+"""ERA-1 SUPERSEDED (kept for method, 2026-10-28): pool builder from the
+cutplan era. Reads/writes /tmp/opencode/condensed/ (vanished scratch).
+Not run by verify.sh or any builder. Do not revive without re-pointing
+I/O to build/."""
 import json,re
 clus={1:['motto','stilling','fire','lamp','wood','fuel','epithet','staircase','weaving','vaccha','annihilat','warming','third truth','thirst','well','two elements','oil-lamp','deathless','ocean','rivers','iron'],2:['wound','whirlpool','vortex','reeds','bundles','ruler','twelve','kaccayana','middle','banana','time'],3:['formal name','nominal','honey','blind','papancha','reckoning','colombo','delight','imagining','earth'],4:['mirror','anidassana','non-manifestative','signless','observer','tetralemma','foam','anatta'],5:['bahiya','only the seen','cinema','spectator','razor','satipatthana','relinquish','renunciation','raft'],6:['embers','lamp','oil-lamp','iron','ocean','lotus','faculties','seamstress','knots','chess','magic','close']}
 D='/root/analayo-nibbana'

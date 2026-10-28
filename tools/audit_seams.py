@@ -1,3 +1,6 @@
+# ERA-1 SUPERSEDED (kept for method, 2026-10-28): reads
+# /home/box/Downloads cutplans + /tmp/opencode/ transcripts. Not run by
+# any live path (seam audit lives in REVIEW.md + sharpen_gold.py).
 """Audit seam safety of a cutplan: print transcript context at every keep boundary.
 Usage: python3 audit_seams.py <lec> [transcript.txt]
 Shows the 2 segments before each keep-start and 2 segments after each keep-end.

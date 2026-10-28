@@ -1068,3 +1068,50 @@ run against the fresh audio. Two real weaknesses found and fixed:
 G9 result: PASS, 24 checks, receipt written. verify.sh ALL GATES PASS,
 p0_mix_check PASS. Count docs updated for the cuts: gold 552 (~7.3h),
 pool/D 1133 (20.75h), core 71.
+
+## 66. Doc hygiene + index regen (2026-10-28, autonomous)
+
+- manifest_index.json was stale (gold 597 / pool 1196, pre-§63/§64
+  D-cuts). New regen script process/scripts/regen_manifest_index.py
+  reads seg JSONs directly (Ax13: same build/ paths the builders
+  write). Now core 71 / gold 552 / pool 1133, s5_core min 16.1->14.9
+  (§64 window moves). Gold *.txt line counts differ from JSON by
+  design (motto-cap omissions: s1 178->171 = 8 mottos keep 1;
+  s5 114->112, spaced rule) — index tracks DATA counts.
+- seg1_terms.json had 12 entries vs 11 core clips: clip 11
+  (L20 [721]) was the §58 phantom L20 line, matching no core clip
+  (core 11 = L20 [488-499]). Deleted phantom, renumbered. Matcher
+  misses silently (§52 stumble) so the phantom was inert, but a
+  lying map is a lying map.
+- TIMINGS.md: s5 row 16.1/17.4 -> 14.9/16.2 (assembly-verified:
+  893.7s analayo + 78s pauses), total raw 87.7->86.5m; four-pass
+  B row 7.1->7.3h (body table 436.1m).
+- FILM-CUT.md: budget-vs-actual table recomputed from
+  film_manifest.json (was pre-§51: 6.7/33.5/90.0/167.9,
+  screening 298.1m). Now 1.3/33.2/89.9/167.9m, screening
+  292.3m (~4h52), clips 6/31/89/194, flagged A=4/B=13/C=18.
+  Rung-0 all UNDER budget (pointer-shrink closed old WARNs).
+  Next #3 seed 6m->~2m, #4 C->D split retired (§62).
+verify.sh ALL GATES PASS after all four.
+
+## 66b. Portability (2026-10-28, autonomous)
+
+- Scaffold vendored: sources/53-nibbana-scaffold/ (33 excavations,
+  864K, byte-identical spot-check vs /tmp). g5_provenance.py now
+  resolves repo-local first, $SERMON_SCAFFOLD_DIR second, legacy
+  /tmp last (fail-loud listing tried paths). Proven with override
+  pointed nowhere: 78/78. HANDOVER's "NOT in repo" row now stale
+  (update on next handover pass).
+- build_film_manifest.py CACHE /tmp/film_flags.json ->
+  build/.film_flags_cache.json (gitignored). Old /tmp cache was
+  lost on reboot (rebuild nondeterminism).
+- Era-1 tools marked SUPERSEDED headers (kept for method):
+  rematch2.py, cf_whisper.py, compact_yt.py, audit_seams.py,
+  cf_queue.sh, fetch_yt_subs.sh. Dead roots (/tmp/opencode,
+  /home/box) documented in-file; none in any live path.
+- .gitignore += audio_p0/, audio_v1/, .film_flags_cache.json,
+  tools/__pycache__. git status no longer shows the 4.5GB renders.
+- Deleted untracked sermon-readings/fw_backup/ (312K, stale
+  small.en engine outputs for 01-03, superseded by large-v3-turbo
+  JSONs; regenerable via tools/sermon_transcribe.py).
+verify.sh ALL GATES PASS after all five.
