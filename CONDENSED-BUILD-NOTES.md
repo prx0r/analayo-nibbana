@@ -1115,3 +1115,15 @@ verify.sh ALL GATES PASS after all four.
   small.en engine outputs for 01-03, superseded by large-v3-turbo
   JSONs; regenerable via tools/sermon_transcribe.py).
 verify.sh ALL GATES PASS after all five.
+
+## 67. S5 repair validation on the frozen render (2026-10-28, autonomous)
+
+Render log (build/audio_p0/manifest.json s5) confirms all §64 fixes
+are in the Oct-27 audio: essay-0 L14 [4430.4-4451.9] (DS timebase),
+c2 L14 [4406-4429.8] (ends before pointer 4430.4, no replay),
+c4 L5 [410.3-488.2] (razor discussion), c8 L5 [513.2-563.8]
+(strokes + relaxed-hold). p0_mix_check PASS 7/7 (beds 11+23+27+31+
+11+29+27, means -16.7..-17.5dB, peaks -1.8..-1.9dB). G9 forced
+(touched seed.mp3 to beat the mtime cache): PASS 24/24, incl.
+c4 razor-window + c8 strokes-window pairing canaries and all five
+§57 seam regressions. No re-render needed; G9 receipt rewritten.
