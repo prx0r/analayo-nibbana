@@ -61,9 +61,10 @@ def main():
     man = {'budget_s': BUDGET, 'rule': 'analayo-only', 'sections': {}}
     for n in range(1, 7):
         asm = json.load(open(B / f'assembly_s{n}.json'))
-        scr = json.load(open(B / f'seg{n}_script.json'))
-        e0plain = next(s.get('plain_english_below', '')
-                       for s in scr if s.get('clip') == ESSAY0_BEAT[n])
+        # Pointer screen plain = the opening plain response (owner-ordered
+        # overrides live in the assemblies; scripts keep key output).
+        e0plain = next(e.get('say', '') for e in asm
+                       if e.get('role') == 'plain')
         Q = next(e['say'] for e in asm
                  if e['t'] == 'fish' and e.get('role') == 'question')
         ab = dict(beats(asm))

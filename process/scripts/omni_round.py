@@ -25,6 +25,8 @@ MODEL = __import__('os').environ.get('OMNI_MODEL', 'qwen3-omni-flash')
 MODE = __import__('os').environ.get('OMNI_MODE', 'audit')
 OUTFILE = { 'audit': '/root/analayo-nibbana/build/ear_round3.json',
             'critic': '/root/analayo-nibbana/build/ear_critic1.json' }[MODE]
+import os as _os
+OUTFILE = _os.environ.get('EAR_OUT', OUTFILE)
 CRITIC_Q = (
     'You are reviewing one section of a spoken-word Dharma film. Listen to the '
     'whole chunk, then reply as JSON: {"directness": [1-5, "exact quote"], '

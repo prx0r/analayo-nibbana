@@ -21,10 +21,12 @@ CHAIN = {
 }
 fails, warns = [], []
 
-# chain sync with the audio build source
+# chain sync with the audio build source (QUESTIONS block only — the
+# PLAIN_RESP_OVERRIDE table below it matches the same line shape)
 src = open('process/scripts/make_assembly.py').read()
+qblock = src.split('QUESTIONS = {')[1].split('}')[0]
 live = {int(i): q.replace('\\"', '"')
-        for i, q in re.findall(r'^\s+(\d): "(.*)",$', src, re.M)}
+        for i, q in re.findall(r'^\s+(\d): "(.*)",$', qblock, re.M)}
 for s in range(1, 7):
     if live.get(s) != CHAIN[s]:
         fails.append('chain drift ch%d: manifest=%r build=%r' % (s, CHAIN[s], live.get(s)))

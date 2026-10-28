@@ -1216,3 +1216,30 @@ same every time. build_seed went type-based (positional indices
 broke on insertion). Counts: 440 events, 83 fish (6+65+6+6Q).
 Render support ready (opening plain → Fish vox + nirvana sub);
 no audio rendered (owner: don't render).
+
+## 73. Subject-first plains + round-4 adjudication (2026-10-28)
+
+Owner: Q1 response must open "Nirvana is when..." (not bare
+"everything..."), same subject-first treatment everywhere; and Q2's
+plain buried its point inside the plank story (point first).
+PLAIN_RESP_OVERRIDE table in make_assembly.py (owner-dictated,
+existing words only, no new claims): Q1 "Nirvana is when..." / Q2
+"You don't see Nirvana right now because..." + story after / Q3
+"Craving keeps it going:..." / Q4 "The sense of self is
+constructed like this:..." / Q5 "Nirvana is attained thus:..." /
+Q6 "Nirvana is like this:...". Overrides opening Fish say AND
+screen plain (G7a2 equality holds). Data now spells Nirvana in
+plains (owner-ordered; verbatim quotes keep Nibbana).
+G8 chain regex ate the override lines (same `N: "..."` shape) —
+parser now reads the QUESTIONS block only.
+Round-4 Qwen audits (cancelled task had finished all 14 chunks;
+kept as build/ear_round4.json, owner re-authorized ears):
+genuinely acoustic = seed/0, s1/0, s1/1, s3/0, s5/0; the other 9
+are "text, not audio" refusals (instrument failure, zero info).
+Findings: s3/0 hears Fish as melodic/female-ish, Analayo clear
+with slight room, 2–3s stillnesses natural, no volume jumps;
+s1/1 confirms contradiction→third-truth renders clean; s5/0
+catches the motto SPOKEN TWICE within ~30s (S5 motto adjacency —
+motto-cap is manifest-level, audio adjacency wants a spacing rule,
+queued); seed/0 "ends abruptly" notes are chunk/description
+artifacts except U2's garbled tail (unverified, needs whisper).

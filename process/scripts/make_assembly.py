@@ -61,6 +61,20 @@ QUESTIONS = {
 # answer the question for 2"). S3 b5 "What impels one to ignore that
 # gap is craving" answers "What keeps it going?".
 ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section: TEXT identity (audio: essay0_windows.json). S2=13 dog-seeing (owner pick 2026-10-26; was 1 whirlpool)
+# PLAIN responses, owner-ordered 2026-10-28: subject-first ("Nirvana is
+# when..."), point-before-story (Q2's answer led with the plank tale).
+# Built ONLY from existing plain words + question echoes — no new claims.
+# Overrides the host beat's tts_line for the opening plain (Fish) and the
+# on-screen plain alike (G7a2 keeps voice == screen). Veto/edited only by
+# the owner, like question wording.
+PLAIN_RESP_OVERRIDE = {
+    1: "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+    2: "You don't see Nirvana right now because you are seeing what you see because you are looking, and you don't know it. Like a dog halfway across a stream on a plank, wagging its tail at its own image in the water: it imagines another dog there, a 'water-dog'. It thinks it is looking because there is something out there to be seen. The moment it realizes it is seeing because it is looking, it stops looking.",
+    3: "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
+    4: "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
+    5: "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+    6: "Nirvana is like this: I am grown cool, extinguished as I am.",
+}
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}
@@ -84,7 +98,7 @@ for s in range(1, 7):
         b1e = next((y for y in sc
                     if y['analayo']['lec'] == b1['lec']
                     and abs(y['analayo']['start'] - b1['start']) < 3), None)
-    plain0 = (b1e.get('tts_line', '') if b1e else '')
+    plain0 = PLAIN_RESP_OVERRIDE[s]
     ev = [
         {'t': 'motto-bell'},
         {'t': 'fish', 'role': 'question', 'say': QUESTIONS[s]},
@@ -108,14 +122,6 @@ for s in range(1, 7):
          'status': 'optional-pending',
          'note': 'only if used: AFTER the answer, never between question and motto'},
     ]
-    if s in ESSAY0_TEXT:  # override text: deterministic gloss (same key path as beats)
-        import sys as _sys
-        _sys.path.insert(0, '/root/analayo-nibbana/process/scripts')
-        import rebuild_text as _rt
-        _plain = _rt.tts(_rt.gloss(ev[4]['text']))
-        ev[3]['say'] = _plain  # Fish plain response matches screen
-        ev[4]['plain'] = _plain
-
     # ---- BEATS 2..N: fixed stack TEXT VERBATIM -> PLAIN ENGLISH -> AUDIO
     for i, x in enumerate(core):
         if i == oi:          # essay-0 beat already consumed by the opening
