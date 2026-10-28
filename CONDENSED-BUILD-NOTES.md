@@ -1148,3 +1148,44 @@ HANDOVER refreshed to current truth: numbers (1133, no G8 WARNs,
 (6 items a–f: U6, Fish voice, 7 demotes, intros, YT cold opens,
 Qwen-spend OK), C-retirement noted, rebuild_text trap retired
 (main targets build/ since §33), scaffold vendoring noted.
+
+## 69. YT anchor map measured (2026-10-28, autonomous)
+
+p1 cannot render YT-timebase lectures (03,06,07,14,17,20,22,24,26,27)
+at face value: DS audio leads YT cues by 0–30s. New
+process/scripts/measure_yt_offsets.py: per lecture, slice DS audio
+around a known window, transcribe (faster-whisper small.en, word
+times), locate cue words, offset = YT − DS. Two bugs found en route:
+whisper words carry leading spaces (normalizer kept them → 0 matches);
+single-anchor matching aliases on repeated vocabulary. Fix: multi-
+anchor (up to 5 windows) + deeper-cue matching + second-anchor
+consistency + non-overlapping discriminating slices.
+Result (build/yt_anchor_map.json): L03 4.5 (3 anchors agree) / L06
+~1.5 mild drift / L07 1.5 / L14 10.0 (prior §64 + 10.5 confirm) /
+L17 7.8 / L20 DRIFT 8.7@0.5k → 17.3@4.0k → 32.0@4.0k (per-window
+required, constant forbidden) / L22 6.2 / L24 7.3 / L26 8.6 /
+L27 9.3 adjudicated (21.9-alias rejected: simile vocabulary repeats;
+contiguous "we brought up some similes" sits at the 9.3-predicted
+position, 13s off under 21.9). ds lec-ID map recorded here:
+L03→58722, L06→58725, L07→58726, L14→58733, L17→58736, L20→58739,
+L22→58741, L24→58743, L26→58745, L27→58746 (root symlinks;
+ds-mp3/ 58747/49/51/52 are unused spares). yt-subs/ 28–33 absent =
+cosmetic (those lectures have CF transcripts; yt-subs only serves
+YT-only lectures, all present).
+
+## 70. p1 seed proof rendered (2026-10-28, autonomous)
+
+Wiring (tools/render_a_essay.py, all behind P1 flag; p0/v1 paths
+untouched): OUT=audio_p1, bells on, bowls_intro (+10dB) opens seed,
+long_break_bell under 6s settle pauses (remainder bridged, pause
+time preserved), YT offsets applied to lect slices except DS_FIXED
+{(14,4406.0),(14,4430.4)} (§64 windows), L20 aborts loud until
+per-window offsets (§69). VTAG unchanged (speech chain identical —
+CF cache stays valid). Driver: process/scripts/render_p1.py
+[seed|all]. Seed proof: 2.4m, 31 events, bowls→motto-bell→Qs…→
+zoom-bell, mean −17.2dB peak −1.7dB (p0 profile), assert_audible
+passed every slice. Taste note for owner ear: bowls + motto = ~15s
+before Q1 (README role: bowls open the piece). Full S1–S6 queued
+behind L20 per-window offsets + Fish voice approval.
+THREE-CLOCKS §2 mirror anchor fixed (§4 pointer+beats; §2b2 winding
+reassigned to Path 3) + HANDOVER/FILES rows updated.

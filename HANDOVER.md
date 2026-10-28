@@ -95,7 +95,7 @@ where things are, why, and what's next. Nothing here is decoration.
 | `THE-SONG-ENDS.md` | ending angle B: box finishes its song, no rewind |
 | `ENDING-B.md` | ending B locked: still box, audience wanting, cut to black |
 | `THE-FINAL-RETURN.md` | path-6 rungs: story completes in B, C = black-silence coda |
-| `THREE-CLOCKS.md` | teaching/music/visual clocks + cue-sheet spec (note: its §2 mirror anchor is stale — use §4's mirror stack) |
+| `THREE-CLOCKS.md` | teaching/music/visual clocks + cue-sheet spec (mirror anchor fixed 2026-10-28: §4 pointer+beats; §2b2 winding reassigned to Path 3) |
 | `FIVE-HOUR-CUT.md` | 6+36+90+168=300m budget table (drives film_manifest) |
 | `VISUAL-MASTER-PLAN.md` | THE production doc: 24-part storyboard, 65–100 shot inventory, `source_clip/shot_id/...` schema, binding three-rule test |
 
@@ -167,13 +167,17 @@ p0_mix_check PASS 7/7, G9 forced PASS 24/24.
    free-first green: G9 24/24 + mix 7/7). P1–P12 applied §61 (off
    the list). Tests inform; they decide.
 2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
-   blocks per assets/sfx/README.md) + YT anchor-maps at cut (offsets
-   measured: DS leads YT ~5s L03 to ~8s L24, 10.0s L14).
+   blocks per assets/sfx/README.md) + YT anchor-maps at cut. STATUS
+   2026-10-28: `build/yt_anchor_map.json` measured (whisper word-times,
+   multi-anchor: L03 4.5 / L06 ~1.5 drift / L07 1.5 / L14 10.0 / L17 7.8 /
+   L20 DRIFT per-window / L22 6.2 / L24 7.3 / L26 8.6 / L27 9.3 adjudicated).
+   Seed proof rendered to `build/audio_p1/` (bowls→bells, 2.4m, -17.2dB,
+   31 events). Full S1–S6 queued behind L20 per-window offsets + Fish
+   voice approval. Driver: `process/scripts/render_p1.py [seed|all]`.
 3. **Cue sheet** (visual-master-plan §7 schema): per beat —
    source_clip, essay_depth, visual_motif, shot_id, audio_cue,
    duration, reuse_from. Absolute timestamps after audio master.
-   (C rung retired §62 — no C-curation pass; THREE-CLOCKS §2 mirror
-   anchor still stale, use §4's mirror stack.)
+   (C rung retired §62 — no C-curation pass.)
 4. **G-ear live** (DONE: `process/scripts/ear_local.py` wired as G9 —
    whisper order + essay-0 phrases + seam regression, zero tokens,
    cached; §67 forced PASS). Qwen reserved for critic/tie-breaks

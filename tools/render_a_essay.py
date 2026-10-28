@@ -10,6 +10,7 @@ Caches slices/vox in build/audio_v1/cache/.
 """
 import json
 import re
+import sys
 import hashlib
 import subprocess
 from pathlib import Path
@@ -38,6 +39,21 @@ P0_NO_BELLS = True
 # (reader, then Analayo) is redundant; the archive voice answers the
 # question. Beat verbatims inside sections keep the sermon voice.
 DIRECT_ESSAY0 = True
+
+# p1 (2026-10-28, §69): bells back + sfx kit + YT anchor offsets.
+# Driven by process/scripts/render_p1.py (sets P1=True, optionally
+# P1_SEED_ONLY). Outputs NEVER mix: p0=audio_p0 (no bells),
+# v1=audio_v1 (frozen 2026-10-26), p1=audio_p1.
+P1 = False
+P1_SEED_ONLY = False
+YT_OFF = {}  # lec -> seconds (DS = YT - off); loaded from yt_anchor_map.json
+# Windows already in DS timebase (§64 U5/c2/c3 repairs): never shift these.
+DS_FIXED = {(14, 4406.0), (14, 4430.4)}
+SFX = BUILD / 'assets' / 'sfx'
+# README gains (sfx/README.md strike map): bowls/ding +10dB, blocks -4dB.
+SFX_GAIN = {'bowls_intro': 10, 'long_break_bell': 0, 'bell_ding': 10,
+            'block_tick': -4, 'block_resonant': -4}
+BREAK_DUR = 4.7  # long_break_bell.wav measured; refreshed at prep
 OUT = BUILD / ('audio_p0' if P0_NO_BELLS else 'audio_v1')
 CACHE = OUT / 'cache'
 
@@ -298,6 +314,11 @@ def voice_after(events, i, tag, n):
 def render_section(n, events, tag):
     prev_voice = [None]  # last rendered voice (bridges meet in the middle)
     wavs, log, kinds = [], [], []
+    if P1 and tag == 'seed':
+        # Bowls open the piece (sfx README: intro bell; echo at close).
+        wavs.append(CACHE / 'sfx_bowls_intro.wav')
+        kinds.append('sfx-bowls')
+        log.append('sfx bowls_intro opens seed (+10dB)')
     for i, e in enumerate(events):
         t = e['t']
         if t in ('motto-bell', 'zoom-bell'):
@@ -310,7 +331,23 @@ def render_section(n, events, tag):
         elif t in ('pause', 'breath', 'water', 'silence'):
             nxt = voice_after(events, i, tag, n)
             prv = prev_voice[0]
-            if prv is not None and nxt is not None:
+            if (P1 and t == 'pause' and e['dur'] >= 6.0 and kinds
+                    and kinds[-1] == 'zoom-bell'):
+                # Section settle: long-break bell first, room bridge holds
+                # the remainder — total pause time preserved (TIMINGS intact).
+                wavs.append(CACHE / 'sfx_long_break_bell.wav')
+                kinds.append('sfx-break')
+                log.append('sfx long_break_bell under settle')
+                rest = round(e['dur'] - BREAK_DUR, 2)
+                if prv is not None and nxt is not None and rest > 0.5:
+                    wavs.append(bridge_wav(rest, prv, nxt))
+                    kinds.append(t)
+                    log.append(f'{t} {rest}s bridge {prv}->{nxt} (post-break)')
+                else:
+                    wavs.append(get_slice('sil', f'{t}{rest}', 0, rest, None))
+                    kinds.append(t)
+                    log.append(f'{t} {rest}s')
+            elif prv is not None and nxt is not None:
                 wavs.append(bridge_wav(e['dur'], prv, nxt))
                 kinds.append(t)
                 log.append(f'{t} {e["dur"]}s bridge {prv}->{nxt}')
@@ -339,12 +376,23 @@ def render_section(n, events, tag):
             kinds.append('fish-term')
             log.append(f'fish-term: {e.get("say", "")}')
         elif t == 'analayo':
-            wavs.append(get_slice('src', f'a{n}', e['start'], e['end'], LECT[e['lec']]))
+            ss, to = e['start'], e['end']
+            if P1 and e['lec'] in YT_OFF and (e['lec'], e['start']) not in DS_FIXED:
+                if e['lec'] == 20:
+                    raise SystemExit(
+                        'p1: L20 drifts — measure its per-window offset first (§69)')
+                off = YT_OFF[e['lec']]
+                if off == 0.0:
+                    log.append(f'WARN L{e["lec"]} no YT offset (renders YT-time)')
+                ss, to = round(ss - off, 2), round(to - off, 2)
+                log.append(f'L{e["lec"]} {e["start"]}-{e["end"]} YT-{off}s -> DS')
+            else:
+                log.append(f'L{e["lec"]} {e["start"]}-{e["end"]}')
+            wavs.append(get_slice('src', f'a{n}', ss, to, LECT[e['lec']]))
             kinds.append('analayo')
             prev_voice[0] = ('lect', e['lec'])
-            log.append(f'L{e["lec"]} {e["start"]}-{e["end"]}')
             if tag == 'seed':
-                ESSAY0_WINDOWS.append((e['lec'], e['start'], e['end']))
+                ESSAY0_WINDOWS.append((e['lec'], ss, to))
         elif t == 'verbatim':
             if tag == 'seed':
                 s, clip = e['unit'], ESSAY0_BEAT[e['unit']]
@@ -429,7 +477,9 @@ def render_section(n, events, tag):
 
 
 def main():
-    global ALIGN
+    global ALIGN, OUT, CACHE, BREAK_DUR
+    OUT = BUILD / ('audio_p1' if P1 else ('audio_p0' if P0_NO_BELLS else 'audio_v1'))
+    CACHE = OUT / 'cache'
     OUT.mkdir(parents=True, exist_ok=True)
     CACHE.mkdir(parents=True, exist_ok=True)
     for b in ('motto-bell', 'zoom-bell'):
@@ -437,6 +487,21 @@ def main():
         if not dst.exists():
             run('ffmpeg', '-v', 'error', '-y', '-i', str(BUILD / 'assets' / f'{b}.wav'),
                 '-ar', str(SR), '-ac', '1', '-c:a', 'pcm_s16le', str(dst))
+    if P1:
+        YT_OFF.update({int(k): (v.get('offset_s') or 0.0)
+                       for k, v in json.loads((BUILD / 'yt_anchor_map.json').read_text()).items()})
+        for name, gain in SFX_GAIN.items():
+            dst = CACHE / f'sfx_{name}.wav'
+            if not (dst.exists() and dst.stat().st_size > 0):
+                run('ffmpeg', '-v', 'error', '-y', '-i', str(SFX / f'{name}.wav'),
+                    '-ar', str(SR), '-ac', '1', '-c:a', 'pcm_s16le',
+                    '-af', f'volume={gain}dB', str(dst))
+                assert_audible(dst, f'sfx:{name}')
+        dp = subprocess.run(['ffprobe', '-v', 'error', '-show_entries',
+                             'format=duration', '-of', 'csv=p=0',
+                             str(CACHE / 'sfx_long_break_bell.wav')],
+                            check=True, capture_output=True, text=True)
+        BREAK_DUR = round(float(dp.stdout.strip()), 2)
     ALIGN = {(e['s'], e['clip']): e for e in
              json.loads((BUILD / 'verbatim_audio_v1.json').read_text())}
     asm = {0: json.loads((BUILD / 'assembly_s0_seed.json').read_text())}
@@ -447,6 +512,11 @@ def main():
     files['seed'] = mp3
     manifest['seed'] = {'min': round(dur / 60, 2), 'log': log,
                         'timeline': manifest_timeline['seed']}
+    if P1_SEED_ONLY:
+        manifest['stats'] = STATS
+        (OUT / 'manifest.json').write_text(json.dumps(manifest, indent=1))
+        print('STATS', STATS)
+        return
     for n in range(1, 7):
         mp3, dur, log = render_section(n, asm[n], f's{n}')
         files[f's{n}'] = mp3

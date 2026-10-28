@@ -75,7 +75,7 @@ REVIEW (root), DONE (root: definition-of-done + taxonomy), `verify.sh`
 ## Visuals (`visuals/` — 11 design docs, index in HANDOVER)
 The film canon: engine, 6-path canon, endings (MISSING-FLICK,
 SONG-ENDS, ENDING-B, FINAL-RETURN), sound mechanism, ballerina box,
-three-clocks (cue-sheet spec; its mirror anchor is stale), FIVE-HOUR-CUT
+three-clocks (cue-sheet spec), FIVE-HOUR-CUT
 (budgets), VISUAL-MASTER-PLAN (production: shots, schema, three-rule).
 
 ## Sources (read-only, never edited)
