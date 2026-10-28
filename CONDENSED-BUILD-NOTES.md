@@ -1316,7 +1316,7 @@ untouched by rule. Verify ALL PASS throughout.
    identical (to@7.2 ... extinction@12.7 both), 23/23 words; it is his
    list delivery + the hard cut to stillness. Fix: 1.5s voice-change
    breath after every opening plain (assemblies + seed; G7 head now
-   7 events; counts to 512 events/101 fish... recount at §76 edit).
+   7 events). Counts now 520 events / 101 fish (10-MATHEMATICS updated).
 2. Q2 plain replaced (owner: verbose/unclear): "You do not see Nirvana
    right now because you imagine a seer and a world, and neither is
    there." (22w, existing words only).

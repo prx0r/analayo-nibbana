@@ -42,13 +42,14 @@ is IDENTICAL at pool, gold, and core (same sort key),
 so each layer is the same walk at a different resolution. That is the
 fractal property, and it is structural, not decorative.
 
-## 506 events, 2 bells
-Assembly manifests (`build/assembly_sN.json` + seed) hold **506 events**
-(recomputed 2026-10-28: +12 hunt beats, +6 plains, U2 triple pointer):
-95 fish lines (12 questions + 77 beat plains +
-6 opening plain responses), 89 verbatims
+## 520 events, 2 bells
+Assembly manifests (`build/assembly_sN.json` + seed) hold **520 events**
+(recomputed 2026-10-28: +12 hunt beats, +6 plains, U2 triple pointer,
++8 voice-change breaths):
+101 fish lines (12 questions + 77 beat plains +
+12 plain responses), 89 verbatims
 (77 beats + 6 essay-0 on-screen texts + 6 seed essay-0 texts), 93 Analayo clips (77 beats + 8
-pointers + 8 seed units), 88 waters, 79 breaths, 17 pauses, 23 fish-terms, 8
+pointers + 8 seed units), 88 waters, 87 breaths, 17 pauses, 23 fish-terms, 8
 motto-bells, 6 zoom-bells, 6 human-intro slots (empty by design), 1
 seed-reprise, 1 terminal silence.
 - **Motto bell** (bright, 2.5 s decay): section opens (seed + S1–S6)
