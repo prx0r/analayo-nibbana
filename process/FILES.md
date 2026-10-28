@@ -79,8 +79,9 @@ three-clocks (cue-sheet spec; its mirror anchor is stale), FIVE-HOUR-CUT
 (budgets), VISUAL-MASTER-PLAN (production: shots, schema, three-rule).
 
 ## Sources (read-only, never edited)
-- `/tmp/satsang-ext/53-nibbana-scaffold/` — excavations = THE verbatim
-  home (G5 anchors here; missing = G5 fails). Packs 51/52 = movie manual.
+- `sources/53-nibbana-scaffold/` (vendored 2026-10-28, byte-identical) —
+  excavations = THE verbatim home (G5 anchors here, repo-local first;
+  legacy /tmp path fallback). Packs 51/52 = movie manual.
 - `lecture-*.transcript.cf.json`, `yt-subs/`, 33 mp3s, `tools/`.
 - `sermon-audio/` (33 readings, tracked) + `sermon-readings/` (33
   faster-whisper JSONs, tracked) = THE verbatim voice (G5 dies without

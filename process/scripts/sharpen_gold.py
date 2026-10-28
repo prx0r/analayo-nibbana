@@ -18,6 +18,16 @@ Step 3 MOTTO-CAP MANIFESTS: data keeps everything; manifest_sN_gold.txt
 Writes: build/segN_gold.json (reordered, snapped), build/manifest_sN_gold.txt,
 build/gold_fix_log.json (every change + every candidate + motto picks).
 Idempotent: re-run yields identical files (snaps converge; log asserts).
+
+FROZEN 2026-10-28: do NOT rerun on current data. The §59/§61 promotion
+spans (B*/P-picks carrying note fields) were added AFTER this script's
+membership model was written; a rerun DELETES them (observed 2026-10-28:
+etymology/fire-catechism/mid-ocean/consciousness-middle spans dropped
+from seg1_gold). gold_fix_log.json is therefore a historical record of
+the §38 run (order counts pre-trim), not current state — current truth
+is seg JSONs + manifest_index.json. To revive: add a promotion
+allowlist (spans with note fields pass through untouched) and re-verify
+with a diff review before accepting.
 """
 import json
 import re

@@ -1127,3 +1127,24 @@ c4 L5 [410.3-488.2] (razor discussion), c8 L5 [513.2-563.8]
 (touched seed.mp3 to beat the mtime cache): PASS 24/24, incl.
 c4 razor-window + c8 strokes-window pairing canaries and all five
 §57 seam regressions. No re-render needed; G9 receipt rewritten.
+
+## 68. sharpen_gold is FROZEN + handover refresh (2026-10-28, autonomous)
+
+Tried to refresh gold_fix_log.json (order counts stale at 190/64/93/
+56/115/79) by rerunning sharpen_gold.py ("idempotent" per its
+docstring). It is NOT idempotent post-§59/§61: the run DELETED the
+promotion spans (s1 etymology B*, fire-catechism A+, mid-ocean/
+carpenter, consciousness-middle + more across all six — 311-line
+diff, all deletions of note-carrying spans). Cause: the script's
+membership model predates the promotions; note-carrying spans have
+no allowlist. FULLY REVERTED (git checkout, verify.sh ALL PASS
+after). Lesson (new trap in HANDOVER): never rerun sharpen_gold on
+current data; gold_fix_log.json is FROZEN history of the §38 run —
+current truth is seg JSONs + manifest_index.json. Guard paragraph
+written into sharpen_gold.py's docstring. To revive: promotion
+allowlist + diff review.
+HANDOVER refreshed to current truth: numbers (1133, no G8 WARNs,
+§65/§67 audio state), queue rewritten as the taste-lock packet
+(6 items a–f: U6, Fish voice, 7 demotes, intros, YT cold opens,
+Qwen-spend OK), C-retirement noted, rebuild_text trap retired
+(main targets build/ since §33), scaffold vendoring noted.

@@ -110,9 +110,10 @@ WHY IT MATTERS: the sermon text has its own narration — the verbatim
 layer can be HEARD; Fish is not needed for quoting. Quote-align =
 match excavation quotes against sermon-readings JSONs (next queue item).
 
-### External dependency (NOT in repo — G5 dies without it)
-`/tmp/satsang-ext/53-nibbana-scaffold/` = the 33 sermon excavations =
-**the only verbatim home** (G5 anchors quotes there). The audio source
+### Verbatim home (vendored 2026-10-28 — G5 no longer needs /tmp)
+`sources/53-nibbana-scaffold/` = the 33 sermon excavations =
+**the only verbatim home** (G5 anchors quotes there, repo-local first;
+legacy `/tmp/satsang-ext/` path kept as fallback). The audio source
 of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.json`
 + `yt-subs/` (YT-only: 03,06,07,14,17,20,22,24,26,27 — YT timebase).
 
@@ -125,11 +126,10 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   the U2 upgrade) / craving-gap / mirror "Ah, here I am!" / Bahiya /
   grown-cool. Every window opens and closes on the spoken answer. Q4 seam closed on
   transcript (notes §40).
-- **Rungs:** 0 ⊂ A ⊂ B ⊂ C (Russian dolls), verified by overlap 6/6,
-  71/71 exact (notes §39, §55, §58); film budgets 6/36/90/168.
-  **D = archive** (the pool files: 1196 spans, reference only — NOT a
-  listening pass; 2026-10-27 rename, notes §58). C is the curated
-  deepening (film C-cells); D is the complete record.
+- **Rungs:** 0 ⊂ A ⊂ B exact (notes §39, §55, §58); film budgets 6/36/90/168.
+  **D = archive** (the pool files: 1133 spans, reference only — NOT a
+  listening pass; 2026-10-27 rename, notes §58). C rung retired from the
+  listening path (§62); film keeps its C-cells (167.9m) as-is.
 - **p0 draft rules (2026-10-26):** NO PLAIN (verbatim → Analayo direct),
   NO BELLS (timing/voice check), essay-0 DIRECT (Q → archive answer, no
   reader repeat). Fish = questions only (Fish-audio voice, free tier).
@@ -148,36 +148,48 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
 ## Numbers that are true today (recomputed, not remembered)
 Pool 1133 spans ~20.75h · gold 552 (anchors §39 + strays §58 + B* §59 + P-picks §61, + S2
 dog-arc reinstatement §52) ·
-core **71 clips** · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.8m ·
-C 167.9m · **screening 292.3m (~4h52)** · G8 warns only atomic rung-0
-over-targets (documented WARNs, not fails). Containment 0⊂A⊂B⊂C exact
-(6/6, 71/71 by overlap, pool⊇gold).
-p0 audio (local-only, pre-U4-extension): seed + S1..S6, 71/71 real
-voices, Fish Qs, room-bridge beds, dual-pass linear; p0_mix_check PASS.
+core **71 clips** · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.9m ·
+film C-cells 167.9m · **screening 292.3m (~4h52)** · G8 fully green
+(pointer-shrink §51 closed the old rung-0 WARNs). Containment 0⊂A⊂B
+exact (71/71 by overlap, pool⊇gold).
+p0 audio (local-only, §65 render + §67 validation): seed + S1..S6,
+71/71 real voices, Fish Qs, room-bridge beds, dual-pass linear;
+p0_mix_check PASS 7/7, G9 forced PASS 24/24.
 
 ## Next queue (in order)
-1. **Taste locks (owner):** essay-0 picks (U2 locked dog 2026-10-26; U6
-   standing), Fish voice approval (audition sent), 16 demote calls
-   (gold_fix_log.json), human intros (slots empty by design).
-   Coverage picks (REVIEW-COVERAGE.md P1–P12) join this list.
+1. **Taste locks (owner — the packet):** (a) U6 grown-cool stands
+   (callback-gamble disclosed §37); (b) Fish voice approval (audition
+   sent — blocks p1 render voice); (c) 7 demote-candidates
+   (gold_fix_log.json demotes — was 16, trims resolved 9); (d) human
+   intros (slots empty by design, build/human-scripts.md); (e) YT
+   cold opens S3b1/S6b1 (ears required, transcripts can't arbitrate);
+   (f) Qwen spend OK for the 2nd full ear round (§57 halt still holds —
+   free-first green: G9 24/24 + mix 7/7). P1–P12 applied §61 (off
+   the list). Tests inform; they decide.
 2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
-   blocks per assets/sfx/README.md) + YT anchor-maps at cut.
-3. **Film-C curation** (pool-only gems → film C-cells; budgets are
-   ceilings — swap, don't pad. B already absorbed the 2 A-grade strays,
-   §58) + cue sheet (visual-master-plan §7 schema): per beat —
+   blocks per assets/sfx/README.md) + YT anchor-maps at cut (offsets
+   measured: DS leads YT ~5s L03 to ~8s L24, 10.0s L14).
+3. **Cue sheet** (visual-master-plan §7 schema): per beat —
    source_clip, essay_depth, visual_motif, shot_id, audio_cue,
    duration, reuse_from. Absolute timestamps after audio master.
-4. **G-ear live** (DONE 2026-10-27: `process/scripts/ear_local.py` wired
-   as G9 — whisper order + essay-0 phrases + seam regression, zero
-   tokens, cached). Qwen reserved for critic/tie-breaks (14-LISTENING
-   free-first protocol).
+   (C rung retired §62 — no C-curation pass; THREE-CLOCKS §2 mirror
+   anchor still stale, use §4's mirror stack.)
+4. **G-ear live** (DONE: `process/scripts/ear_local.py` wired as G9 —
+   whisper order + essay-0 phrases + seam regression, zero tokens,
+   cached; §67 forced PASS). Qwen reserved for critic/tie-breaks
+   (14-LISTENING free-first protocol).
 
 ## Traps (the ones that actually bit)
 - **R6 inline drift:** never paste builder code in chat/shell — use
   the scripts. `build_seed` and `build_film_manifest` exist BECAUSE
   of this.
-- **rebuild_text.main** targets `/tmp/opencode/condensed` (stale) —
-  import its functions and write to build/ explicitly.
+- **rebuild_text.main is fixed** (§33: td = build/) — the old trap below
+  is retired. Import its functions, never hand-edit below-lines.
+- **sharpen_gold.py is FROZEN (2026-10-28):** rerun DELETES the §59/§61
+  promotion spans (observed: etymology/fire-catechism/mid-ocean dropped).
+  gold_fix_log.json is history of the §38 run, not current state —
+  current truth is seg JSONs + manifest_index.json. Revive only with a
+  promotion allowlist + diff review.
 - Gate failures: fix data/keys, never the gate.
 - Counts in old notes drift (73→71, event tallies); trust the files,
   recompute anything that matters.
