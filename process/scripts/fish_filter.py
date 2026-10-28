@@ -27,11 +27,11 @@ PALI2EN=[
  ('yathabhuta', 'seeing things as they are'),  # PROPOSED gloss - pending owner veto (veto list)
  (r'\bbhava\b', 'the next moment of me'),
  (r'\bjati\b', 'a self being born'),
- (r'\bavijja\b', 'not-seeing'),
+ (r'\bavijja\b|\bavijjā\b', 'not-seeing'),
  (r'\bnirodha\b', 'stopping'),
  (r'\bsamatha\b', 'stilling'),
  ('vipassana', 'seeing clearly'),
- ('satipatthana', 'four ways of paying attention'),
+ ('satipatthana|satipaṭṭhāna', 'four ways of paying attention'),
  (r'\bjhana\b', 'deep collected stillness'),
  (r'\bsamadhi\b', 'gathered attention'),
  (r'\bsati\b', 'remembering to notice'),

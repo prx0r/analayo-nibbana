@@ -20,6 +20,12 @@
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change",
+  "note": "air between guide voice and archive voice"
+ },
+ {
   "t": "verbatim",
   "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
   "plain": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",

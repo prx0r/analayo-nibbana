@@ -25,7 +25,7 @@ for i, s in enumerate(range(1, 7)):
         if e['t'] == 'analayo' and e.get('essay') == 0:
             ans.append(e)
         elif e['t'] in ('breath',):
-            continue
+            ans.append(e)  # voice-change air rides along (owner ear §77)
         else:
             break
     assert ans, f'section {s}: no essay-0 audio'
@@ -38,6 +38,9 @@ for i, s in enumerate(range(1, 7)):
     seed.append({'t': 'verbatim', 'text': vb['text'], 'plain': vb.get('plain', ''),
                  'sermon': vb.get('sermon'), 'essay': 0, 'unit': i + 1})
     for k, an in enumerate(ans):
+        if an['t'] == 'breath':
+            seed.append({'t': 'breath', 'dur': 1.5, 'role': 'voice-change'})
+            continue
         seed.append({'t': 'analayo', 'lec': an['lec'], 'start': an['start'],
                      'end': an['end'], 'dur': an['dur'], 'unit': i + 1,
                      'note': 'essay-0 unit %d part %d/%d' % (i + 1, k + 1, len(ans))})

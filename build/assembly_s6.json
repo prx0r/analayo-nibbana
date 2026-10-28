@@ -20,6 +20,12 @@
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change",
+  "note": "air between guide voice and archive voice"
+ },
+ {
   "t": "verbatim",
   "text": "I am grown cool, extinguished as I am.",
   "plain": "Nirvana is like this: I am grown cool, extinguished as I am.",

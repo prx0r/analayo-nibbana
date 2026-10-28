@@ -57,18 +57,19 @@ def main():
     print('-- essay 0, per section --')
     for s in range(1, 7):
         ev = json.load(open('%s/assembly_s%d.json' % (D, s)))
-        # structure: bell/Q/pause/plain, then 1+ (verbatim, analayo) essay-0
-        # pairs (S2 triple pointer, owner 2026-10-28)
-        head = [e['t'] for e in ev[:5]]
-        want = ['motto-bell', 'fish', 'pause', 'fish', 'verbatim']
+        # structure: bell/Q/pause/plain/breath, then 1+ (verbatim, analayo)
+        # essay-0 pairs (S2 triple pointer, owner 2026-10-28; breath = air
+        # between guide and archive voice, owner ear §77)
+        head = [e['t'] for e in ev[:6]]
+        want = ['motto-bell', 'fish', 'pause', 'fish', 'breath', 'verbatim']
         if head != want:
             bad.append(('S%d' % s, 'open-order', head))
-        if len(ev) < 6:
+        if len(ev) < 7:
             bad.append(('S%d' % s, 'too-short', len(ev)))
             continue
-        q, pb, vb = ev[1], ev[3], ev[4]
+        q, pb, vb = ev[1], ev[3], ev[5]
         ans = []
-        for e in ev[5:]:
+        for e in ev[6:]:
             if e['t'] == 'analayo' and e.get('essay') == 0:
                 ans.append(e)
             elif e['t'] in ('breath',):
@@ -122,7 +123,7 @@ def main():
     # G7b motto-echo regression (the S2/S5 failure, pinned)
     for s in range(2, 7):
         ev = json.load(open('%s/assembly_s%d.json' % (D, s)))
-        vtxt = ev[4].get('text', '')
+        vtxt = ev[5].get('text', '')
         if isinstance(vtxt, list):
             vtxt = ' // '.join(str(x) for x in vtxt)
         if re.match(r'\s*(This is peaceful|This is sublime)', vtxt):

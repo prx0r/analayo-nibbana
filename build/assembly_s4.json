@@ -20,6 +20,12 @@
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change",
+  "note": "air between guide voice and archive voice"
+ },
+ {
   "t": "verbatim",
   "text": "It is when one looks into a mirror that one suddenly becomes self-\nconscious... Even if one already has no such notion, the moment one looks\ninto a mirror one is suddenly reminded of it, as if to exclaim: 'Ah,\nhere I am!'",
   "plain": "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",

@@ -88,7 +88,7 @@ ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section: 
 # the owner, like question wording.
 PLAIN_RESP_OVERRIDE = {
     1: "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
-    2: "You do not see Nirvana right now because in the act of your seeing you imagine a world. There is no seer apart from seeing: only looking, nothing worth looking at; only seeing, nothing to be seen.",
+    2: "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
     3: "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
     4: "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
     5: "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
@@ -125,6 +125,10 @@ for s in range(1, 7):
          'note': 'listener tries to answer first - this pause IS the learning'},
         {'t': 'fish', 'role': 'plain', 'say': plain0,
          'note': 'PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)'},
+        # Breath BEFORE the archive voice (2026-10-28 owner ear: Fish plain
+        # slammed straight into Analayo with zero air = audible hiccup).
+        {'t': 'breath', 'dur': 1.5, 'role': 'voice-change',
+         'note': 'air between guide voice and archive voice'},
         {'t': 'verbatim',
          'text': ESSAY0_TEXT.get(s, (b1e.get('nanananda_verbatim', '') if b1e else '')),
          'plain': plain0,

@@ -16,8 +16,14 @@
  {
   "t": "fish",
   "role": "plain",
-  "say": "You do not see Nirvana right now because in the act of your seeing you imagine a world. There is no seer apart from seeing: only looking, nothing worth looking at; only seeing, nothing to be seen.",
+  "say": "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
+ },
+ {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change",
+  "note": "air between guide voice and archive voice"
  },
  {
   "t": "verbatim",
@@ -26,7 +32,7 @@
    "Only a looking is there, nothing worth looking at. Only a seeing is there, nothing to be seen. Apart from the bare act of hearing, there is nothing to be heard.",
    "There is no seer, apart from the phenomenon of seeing, according to the Tath\u0101gata... For the worldling, the bare act of seeing carries with it a perception of 'one who sees'."
   ],
-  "plain": "You do not see Nirvana right now because in the act of your seeing you imagine a world. There is no seer apart from seeing: only looking, nothing worth looking at; only seeing, nothing to be seen.",
+  "plain": "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
   "sermon": 25,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"

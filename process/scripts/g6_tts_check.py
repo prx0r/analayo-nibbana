@@ -34,7 +34,11 @@ PALI = re.compile(
     r'\b(asavasamudaya|avijjasamudayo|avijja|paticca|samuppada|samuppanna|'
     r'yadidam|abhisaikhata|janami|passami|etam|dhono|mannati|ditthasutam|'
     r'mutesu|satipatthana|sammappadhana|paramasana|asava|'
-    r'papancasannasankha|yathabhuta|tanhakkhayo|arahant|dhamma|tathagata)\b')
+    r'papancasannasankha|yathabhuta|tanhakkhayo|arahant|dhamma|tathagata|'
+    # ASCII-folded inflected forms found in corpus 2026-10-28 (S5c15/S6c15:
+    # NFKD folding defeats the diacritic forms above; tts lead-drop now
+    # strips the S5c15 lead, these guard the rest)
+    r'animittanca|mananusaya|upadinna|anupadinna|bhavehi)\b')
 
 APPROVED = {
     'arahant': 'loanword, corpus-standard spoken form (7x)',

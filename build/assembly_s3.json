@@ -20,6 +20,12 @@
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change",
+  "note": "air between guide voice and archive voice"
+ },
+ {
   "t": "verbatim",
   "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
   "plain": "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",

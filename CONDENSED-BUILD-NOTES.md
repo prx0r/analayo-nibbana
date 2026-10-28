@@ -1307,3 +1307,31 @@ plain, current six with U2 triple, enforced windows), 00/03/05/09/13
 (counts), HANDOVER (numbers block current), FILM-CUT (291.8m + rows).
 History files (CONDENSED log itself, dated REVIEWs, MISTAKES) left
 untouched by rule. Verify ALL PASS throughout.
+
+## 77. Hiccup found, Q2 sharpened, key audited (2026-10-28, owner ear)
+
+1. HICCUP = missing breath (proven, not felt): newA timeline shows
+   plain ending 55.34 -> analayo starting 55.35, ZERO air. U1's
+   "sped-up ending" is NOT an artifact — render/source word-times
+   identical (to@7.2 ... extinction@12.7 both), 23/23 words; it is his
+   list delivery + the hard cut to stillness. Fix: 1.5s voice-change
+   breath after every opening plain (assemblies + seed; G7 head now
+   7 events; counts to 512 events/101 fish... recount at §76 edit).
+2. Q2 plain replaced (owner: verbose/unclear): "You do not see Nirvana
+   right now because you imagine a seer and a world, and neither is
+   there." (22w, existing words only).
+3. S5c15 Pali-lead hole: tts lead-drop defeated by a COMMA
+   ("Animittanca bhavehi, mananusayamujjaha — ..."); one-char class
+   fix, regen-diff proof = exactly 1 line changes corpus-wide, zero
+   English damage (existing drops like "First:" already aggressive).
+   G6b PALI regex gained folded forms (animittanca/mananusaya/
+   upadinna/anupadinna/bhavehi). avijja/satipatthana diacritic
+   alternants added so code reproduces hand state (regen converges).
+4. Regen exposed §25-regret: rebuild_text.main does NOT reproduce two
+   hand amendments (dhono 8-word lead, avijja/satipatthana glosses) —
+   restored by hand, code gap documented (tts lead-drop covers <=4-word
+   runs + quoted chunks only). Determinism rule refined: regen must
+   diff-clean before any rebuild; hand fixes logged with cause.
+5. Delight conjugation bug STILL LIVE ("He does not liking" x2, §31 F5
+   never applied) — owner veto queued (recommend: delete the mapping,
+   'delight' is already plain English).

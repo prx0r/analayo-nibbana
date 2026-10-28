@@ -20,6 +20,12 @@
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change",
+  "note": "air between guide voice and archive voice"
+ },
+ {
   "t": "verbatim",
   "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
   "plain": "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
@@ -405,7 +411,7 @@
  {
   "t": "fish",
   "beat": 15,
-  "say": "Animittanca bhavehi, mananusayamujjaha \u2014 'Develop the signless, too, and give up the latency to conceit!'"
+  "say": "'Develop the signless, too, and give up the latency to conceit!'"
  },
  {
   "t": "breath",

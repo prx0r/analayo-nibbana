@@ -73,8 +73,12 @@ def tts(t):
     for _ in range(2):
         m = re.match(r'^("[^"]{1,200}"\s*(?:\([^()]*\)\s*)?(?:—|:|/|\.)\s*)(.*)$', t, re.S)
         if not m:
-            # bare leading Pali term (+ optional gloss paren) + dash/colon
-            m = re.match(r'^([A-Za-z\u0101\u012b\u016b\u1e6d\u1e47\u1e43\u1e62\u1e6a\u1e44-]+(?:\s+[A-Za-z\u0101\u012b\u016b\u1e6d\u1e47\u1e43\u1e62\u1e6a\u1e44-]+){0,3}\s*(?:\([^()]*\)\s*)?(?:—|:)\s*)(.*)$', t, re.S)
+            # bare leading Pali term (+ optional gloss paren) + dash/colon.
+            # Word class includes comma (2026-10-28: "Animittanca bhavehi,
+            # mananusayamujjaha — ..." slipped through on its comma).
+            # Regen-diff proof: exactly 1 line changes corpus-wide, zero
+            # English-head damage (drops need zero FUNC words + dash/colon).
+            m = re.match(r'^([A-Za-z\u0101\u012b\u016b\u1e6d\u1e47\u1e43\u1e62\u1e6a\u1e44,\-]+(?:\s+[A-Za-z\u0101\u012b\u016b\u1e6d\u1e47\u1e43\u1e62\u1e6a\u1e44,\-]+){0,3}\s*(?:\([^()]*\)\s*)?(?:—|:)\s*)(.*)$', t, re.S)
         if m and m.group(2).strip():
             head = re.sub(r'\([^()]*\)', ' ', m.group(1))
             words = [x.strip('.,;:!?()"').lower() for x in head.split()]
