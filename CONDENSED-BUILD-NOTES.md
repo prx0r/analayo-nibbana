@@ -1430,3 +1430,10 @@ U5 -> "Nirvana is only attained now: ..." (immediacy up front, rest
 continues). U6 -> "like a flame with no fuel." full stop (owner:
 subject-first rule bowed for the 7-word image). Rebuilt + gates green.
 No render (standing order).
+
+## 83. U5 tail plain-worded (2026-10-28, owner: "how do we make this plain")
+
+"Then you will not be by it..." -> "Then it will not carry you.
+Nothing to stand on, nowhere to land — neither here, nor there, nor
+in between." All three verbs already in corpus (carry/stand/land);
+no new claims. Full U5 plain now 40w.
