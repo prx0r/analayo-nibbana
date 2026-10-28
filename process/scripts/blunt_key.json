@@ -63,10 +63,10 @@
   "this-to-that connection",
   "this happens because that happened"
  ],
- [
-  "destruction of craving",
-  "wanting ends"
- ],
+  [
+   "destruction of craving",
+   "thirst ends"
+  ],
  [
   "something to sit with",
   "something to sit with"
@@ -79,10 +79,10 @@
   "remembering to notice",
   "remembering to notice"
  ],
- [
-  "the ending of thirst",
-  "wanting ends"
- ],
+  [
+   "the ending of thirst",
+   "thirst ends"
+  ],
  [
   "nothing to hold onto",
   "nothing to hold"
@@ -93,7 +93,7 @@
  ],
  [
   "reflection on peace",
-  "sitting with how still it gets"
+  "reflecting on stillness"
  ],
  [
   "free from reckoning",
@@ -106,10 +106,6 @@
  [
   "the labelled world",
   "names laid on top of what you see and hear"
- ],
- [
-  "bundle of grasping",
-  "a grabbed-at pile"
  ],
  [
   "gathered attention",
@@ -140,6 +136,10 @@
   "ending"
  ],
  [
+  "the extinction",
+  "going out, like a flame with no fuel"
+ ],
+ [
   "the going-out",
   "out, like a flame with no fuel"
  ],
@@ -162,6 +162,10 @@
  [
   "extinguishing",
   "ending"
+ ],
+ [
+  "\\bgraspings\\b",
+  "holding on"
  ],
  [
   "bare knowing",
@@ -196,10 +200,6 @@
   "the pull dies out"
  ],
  [
-  "extinction",
-  "out, like a flame with no fuel"
- ],
- [
   "holding on",
   "holding on"
  ],
@@ -212,12 +212,12 @@
   "not seeing how it works"
  ],
  [
-  "cessation",
-  "stopping"
+  "extinction",
+  "going out, like a flame with no fuel"
  ],
  [
-  "the label",
-  "the tag put on things"
+  "cessation",
+  "stopping"
  ],
  [
   "ignorance",
@@ -248,17 +248,13 @@
   "being born again"
  ],
  [
-  "element",
-  "basic stuff"
- ],
- [
   "a being",
   "a me"
  ],
- [
-  "thirst",
-  "wanting"
- ],
+  [
+   "thirst",
+   "thirst"
+  ],
  [
   "assets",
   "baggage you carry"

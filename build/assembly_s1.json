@@ -16,7 +16,7 @@
  {
   "t": "fish",
   "role": "plain",
-  "say": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "say": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
@@ -28,7 +28,7 @@
  {
   "t": "verbatim",
   "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
-  "plain": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "plain": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
   "sermon": 1,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
@@ -98,7 +98,7 @@
  {
   "t": "fish",
   "beat": 3,
-  "say": "\"To project Nibbana \u2014 out, like a flame with no fuel \u2014 into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\". \"To think that the wanting ends is not sufficient is like trying to give water to one who has already quenched his wanting.\""
+  "say": "\"To project Nibbana \u2014 out, like a flame with no fuel \u2014 into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\". \"To think that the thirst ends is not sufficient is like trying to give water to one who has already quenched his thirst.\""
  },
  {
   "t": "breath",
@@ -200,7 +200,7 @@
  {
   "t": "fish",
   "beat": 7,
-  "say": "One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss."
+  "say": "One who has quenched his thirst for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within and sees the well-spring of his bliss."
  },
  {
   "t": "breath",
@@ -225,7 +225,7 @@
  {
   "t": "fish",
   "beat": 8,
-  "say": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
+  "say": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel."
  },
  {
   "t": "fish-term",

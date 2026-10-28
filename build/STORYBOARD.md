@@ -6,7 +6,7 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 
 - Q1 (~1.2s): What is Nibbana?
 - pause 3.0s (recollect)
-- Q1 (~13.6s): Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.
+- Q1 (~13.6s): Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.
 - A1/1: L1 [696.8-709.8] (13.0s)
 - Q2 (~2.8s): Why don't I see Nibbana right now?
 - pause 3.0s (recollect)
@@ -16,7 +16,7 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 - A5/5: L25 [2443.4-2454.0] (10.6s)
 - Q3 (~1.6s): What keeps it going?
 - pause 3.0s (recollect)
-- Q3 (~11.6s): Wanting keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is wanting.
+- Q3 (~11.6s): Thirst keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is thirst.
 - A1/1: L33 [1864.7-1869.2] (4.5s)
 - Q4 (~2.8s): How is the sense of self constructed?
 - pause 3.0s (recollect)
@@ -37,7 +37,7 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 - opener: essay-0 (Q -> Analayo direct, no reader)
 ### S1-1 · S1B1 · L1 [696-749] (53s)
 - TEXT: This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessatio…
-- PLAIN: This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you…
+- PLAIN: This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you …
 - AUDIO sermon 1 [13.7s, score 0.958] -> Analayo [53s]
 - FLAGS: override: motto-EN / match: 15
 - clock ~4:23
@@ -79,14 +79,14 @@ Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. Seed first (
 
 ### S1-7 · S1B7 · L1 [4524-4561] (37s)
 - TEXT: One who has quenched his thirst for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within…
-- PLAIN: One who has quenched his wanting for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks withi…
+- PLAIN: One who has quenched his thirst for good is aware of that blissful experience. When he sees the world running here and there in search of water, he looks within…
 - AUDIO sermon 1 [15.2s, score 0.895] -> Analayo [37s]
 - FLAGS: match: 17
 - clock ~11:27
 
 ### S1-8 · S1B8 · L19 [348-359] (11s)
 - TEXT: This is peaceful, this is excellent, namely the stilling of all preparations, the relinquishment of all assets, the destruction of craving, detachment, cessatio…
-- PLAIN: This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you…
+- PLAIN: This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you …
 - AUDIO sermon 1 [13.7s, score 0.958] -> Analayo [11s]
 - FLAGS: override: motto-refrain-return / match: 4
 - clock ~11:52

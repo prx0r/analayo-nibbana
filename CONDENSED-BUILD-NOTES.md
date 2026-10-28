@@ -1390,3 +1390,25 @@ the seeing, with no I added"); tail kept (formula logic). Q6 quote-echo
 -> "grown cool and gone out, like a flame with no fuel" (reuses Q1's
 established flame vocabulary). Q4 reviewed, kept (everyday words
 throughout: mirror, suddenly, reminded, exclaim). Q1/Q2 stand.
+
+## 80. Precision: thirst is not wanting (2026-10-28, owner: "craving isnt wanting")
+
+Owner caught a real doctrinal error: the key collapsed tanha->thirst->
+wanting, but chanda (desire, BOTH connotations — S09 "chanda = skilful
+reading", Kimmulaka "using craving to abandon craving", S5 longing
+licensed) is precisely what may aim at freedom. Calling the engine
+"wanting" condemns the medicine with the disease. Textual anchors:
+taṇhā = thirst (second noble truth, reactive); "Upadana means BOTH
+fuel and grasping — the fire grasps the wood, the wood grasps the
+fire... existence is a fire kept up by the fuel of grasping" (S01).
+Applied: Q1/Q3 plains say THIRST ("the thirst ends", "Thirst keeps it
+going"); blunt thirst->wanting DELETED (identity now), "the ending of
+thirst"/"destruction of craving"->"thirst ends"; chanda added to G6b
+PALI (self-glossed "chanda, desire" passes attached, no output change);
+upadana keeps "grasping" (fire-context quotes carry the duality in
+TEXT — S1b2 "= fuel AND grasping"). Corpus Pali surface re-audited:
+only loanwords remain (arahant/tathagata/dhamma approved; samsara
+queued §78). rāga/nandi/māna/diṭṭhi/lobha absent from all plains/tts.
+process/scripts/blunt_key.json was a stale duplicate — synced from
+build/ (canonical per rebuild_text import). Full regen + hand-restore
+cycle re-run, diff reviewed thirst-only + dhono. ALL GATES PASS.
