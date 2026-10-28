@@ -1423,3 +1423,10 @@ rule removed; samsara/samsaric loanword-approved. Regen-diff reviewed
 (mapping outputs + dhono-restore only). Kept: upadana->grasping (fire
 quotes carry duality), namarupa/bhava/sati/satta/sunnata (history).
 Full rebuild, ALL GATES PASS. No render (standing order).
+
+## 82. U5/U6 plains cut (2026-10-28, owner verbatim)
+
+U5 -> "Nirvana is only attained now: ..." (immediacy up front, rest
+continues). U6 -> "like a flame with no fuel." full stop (owner:
+subject-first rule bowed for the 7-word image). Rebuilt + gates green.
+No render (standing order).

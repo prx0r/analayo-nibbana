@@ -91,8 +91,8 @@ PLAIN_RESP_OVERRIDE = {
     2: "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
     3: "Thirst keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is thirst.",
     4: "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
-    5: "Nirvana is attained thus: in seeing, just the seeing, with no I added. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
-    6: "Nirvana is like this: grown cool and gone out, like a flame with no fuel.",
+    5: "Nirvana is only attained now: in seeing, just the seeing, with no I added. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+    6: "like a flame with no fuel.",
 }
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}

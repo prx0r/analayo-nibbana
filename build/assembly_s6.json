@@ -16,7 +16,7 @@
  {
   "t": "fish",
   "role": "plain",
-  "say": "Nirvana is like this: grown cool and gone out, like a flame with no fuel.",
+  "say": "like a flame with no fuel.",
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
@@ -28,7 +28,7 @@
  {
   "t": "verbatim",
   "text": "I am grown cool, extinguished as I am.",
-  "plain": "Nirvana is like this: grown cool and gone out, like a flame with no fuel.",
+  "plain": "like a flame with no fuel.",
   "sermon": 1,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"
