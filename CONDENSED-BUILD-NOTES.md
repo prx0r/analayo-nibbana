@@ -1335,3 +1335,47 @@ untouched by rule. Verify ALL PASS throughout.
 5. Delight conjugation bug STILL LIVE ("He does not liking" x2, §31 F5
    never applied) — owner veto queued (recommend: delete the mapping,
    'delight' is already plain English).
+
+## 78. Translation-key audit (2026-10-28, owner: "review all that stuff")
+
+Read all 50 PALI2EN + 60 blunt mappings against the "what does X
+actually mean" bar. No render, no key changes — audit only, owner
+decides below. Method: each mapping judged literal-vs-reading;
+checked live corpus outputs (new beats' tts_lines) for holes.
+
+EXCELLENT (keep): tanha->thirst->wanting (two-step), kamma->"what you
+do and what comes back", avijja->"not seeing how it works", sati->
+"remembering to notice", upadhi->"baggage", vinnana->"bare knowing"->
+"just knowing, before words", Bahiya "in the seen"->"seeing is just
+seeing, no I added", papanca->spiralling->"spiralling stories",
+imagining->"making it into something", idappaccayata->"this happens
+because that happened".
+
+APPLIED (mechanical, gated): S5c15 Pali-lead drop (comma flaw,
+one-char fix, regen-diff proof 1-line-only); folded-form guards in
+G6b PALI regex (animittanca/mananusaya/upadinna/anupadinna/bhavehi);
+avijja/satipatthana diacritic alternants (code now reproduces the
+hand-maintained state — regen converges except dhono, see §77).
+
+QUEUED FOR OWNER (veto list):
+1. delight->"liking that grabs" STILL BREAKS GRAMMAR ("He does not
+   liking", 2 live instances; §31 F5 never applied). RECOMMENDATION:
+   delete the mapping — "delight" is already plain English.
+2. vimutti->"letting go" collides with relinquishment. PROPOSE "release".
+3. animitta->"without labels" collides with nimitta->"the label".
+   PROPOSE "the signless".
+4. nibbida->"seeing through it" loses disenchantment. PROPOSE
+   "disenchantment".
+5. khandha->"bundle of grasping" overreaches (only upadanakkhandha).
+   PROPOSE "bundle, a heap".
+6. upadana->"grasping" only; fuel sense lost wherever fire is near.
+   No proposal yet (needs dual handling).
+7. yathabhuta->"seeing things as they are" LIVE in outputs unapproved
+   (S3 beats speak it). PROPOSE retro-approve (standard translation).
+8. samsara/samsaric spoken untranslated (S6c15). PROPOSE loanword
+   approval (same standing as karma).
+9. Kept by owner history, listed for completeness: namarupa->"labelled
+   world" (form-loss noted), bhava/jati cluster, sati, satta->"a me",
+   sunnata->"nothing to hold onto".
+10. dhono 8-word lead: code covers <=4-word runs + quoted chunks only;
+    hand amendment stands, gap documented (see §77.4).
