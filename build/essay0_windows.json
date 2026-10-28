@@ -2,8 +2,8 @@
  "1": {
   "end": 709.8,
   "lec": 1,
-  "note": "motto refrain complete (standard rendering only; alternative lives in A)",
-  "start": 695.5
+  "note": "motto refrain complete (standard rendering only; alternative lives in A). Head 695.5->696.8: whisper word-times put chant-tail to 694.9, 'This' at 696.9",
+  "start": 696.8
  },
  "2": {
   "lec": 25,
@@ -32,7 +32,7 @@
  "6": {
   "end": 4014.0,
   "lec": 1,
-  "note": "they would say + grown-cool line (2s Pali inside, archive-owned)",
-  "start": 4007.2
+  "note": "ENGLISH ONLY (2026-10-28 owner ear: pointer must not speak Pali). 'I am grown cool' 4009.9-4014.0; Pali 'Siti bhutosmi' 4008-4010 + 'they would say' cut. TEXT keeps full quote.",
+  "start": 4009.9
  }
 }

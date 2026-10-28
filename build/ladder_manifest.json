@@ -1,0 +1,4274 @@
+{
+ "budgets": {
+  "B": 600.0,
+  "C": 1200.0,
+  "D": 2700.0
+ },
+ "rule": "analayo-only",
+ "rungs": {
+  "B": {
+   "1": {
+    "question": "What is Nibbana?",
+    "total_s": 589.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "whole old-A fits",
+      "analayo": {
+       "lec": 1,
+       "start": 696.8,
+       "end": 709.8,
+       "dur": 13.0
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 3244,
+       "end": 3345,
+       "dur": 101
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4195,
+       "end": 4230,
+       "dur": 35
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 21,
+       "start": 413,
+       "end": 455,
+       "dur": 42
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4691,
+       "end": 4724,
+       "dur": 33
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4230,
+       "end": 4274,
+       "dur": 44
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4524,
+       "end": 4561,
+       "dur": 37
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 348,
+       "end": 359,
+       "dur": 11
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 390,
+       "end": 522,
+       "dur": 132
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 718,
+       "end": 753,
+       "dur": 35
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 20,
+       "start": 488,
+       "end": 499,
+       "dur": 11
+      }
+     }
+    ]
+   },
+   "2": {
+    "question": "Why don't I see Nibbana right now?",
+    "total_s": 497.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer dog",
+      "analayo": {
+       "lec": 25,
+       "start": 1906.7,
+       "end": 1916.0,
+       "dur": 9.3
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whirlpool bodies",
+      "analayo": {
+       "lec": 2,
+       "start": 5128.3,
+       "end": 5193.5,
+       "dur": 65.2
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "ignorance dethroned \u2014 not first either",
+      "analayo": {
+       "lec": 28,
+       "start": 786.3,
+       "end": 838.5,
+       "dur": 52.2
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "akalika immediacy",
+      "analayo": {
+       "lec": 4,
+       "start": 3142.9,
+       "end": 3199.8,
+       "dur": 56.9
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "three-periods warrant",
+      "analayo": {
+       "lec": 4,
+       "start": 4313.4,
+       "end": 4374.2,
+       "dur": 60.8
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "banana cut",
+      "analayo": {
+       "lec": 3,
+       "start": 2906.5,
+       "end": 2994.7,
+       "dur": 88.2
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "Channa payoff",
+      "analayo": {
+       "lec": 4,
+       "start": 2129.5,
+       "end": 2230.9,
+       "dur": 101.4
+      }
+     }
+    ]
+   },
+   "3": {
+    "question": "What keeps it going?",
+    "total_s": 566.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer craving-gap",
+      "analayo": {
+       "lec": 33,
+       "start": 1864.7,
+       "end": 1869.2,
+       "dur": 4.5
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "nominal terrain",
+      "analayo": {
+       "lec": 1,
+       "start": 2998.9,
+       "end": 3083.0,
+       "dur": 84.1
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "honey chain",
+      "analayo": {
+       "lec": 12,
+       "start": 1299.0,
+       "end": 1431.0,
+       "dur": 131.7
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "delight-in-existence",
+      "analayo": {
+       "lec": 23,
+       "start": 984.3,
+       "end": 1003.2,
+       "dur": 18.9
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "steadied",
+      "analayo": {
+       "lec": 29,
+       "start": 2441.9,
+       "end": 2521.5,
+       "dur": 79.6
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "no-delight-in-Nibbana",
+      "analayo": {
+       "lec": 13,
+       "start": 2130.0,
+       "end": 2191.3,
+       "dur": 61.3
+      }
+     },
+     {
+      "beat": 15,
+      "reason": "barb close",
+      "analayo": {
+       "lec": 24,
+       "start": 4305.6,
+       "end": 4428.5,
+       "dur": 122.9
+      }
+     }
+    ]
+   },
+   "4": {
+    "question": "How is the sense of self constructed?",
+    "total_s": 310.1,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "whole old-A fits",
+      "analayo": {
+       "lec": 10,
+       "start": 2208.9,
+       "end": 2232.5,
+       "dur": 23.6
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 8,
+       "start": 1382.0,
+       "end": 1419.3,
+       "dur": 37.3
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 6,
+       "start": 1409.0,
+       "end": 1446.8,
+       "dur": 37.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 9,
+       "start": 1189.8,
+       "end": 1276.9,
+       "dur": 87.1
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 25,
+       "start": 711.0,
+       "end": 788.3,
+       "dur": 77.3
+      }
+     }
+    ]
+   },
+   "5": {
+    "question": "How is Nibbana attained?",
+    "total_s": 560.9,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer Bahiya",
+      "analayo": {
+       "lec": 14,
+       "start": 4430.4,
+       "end": 4451.9,
+       "dur": 21.5
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "dhono stance",
+      "analayo": {
+       "lec": 14,
+       "start": 4406,
+       "end": 4429.8,
+       "dur": 23.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "razor warning",
+      "analayo": {
+       "lec": 5,
+       "start": 410.3,
+       "end": 488.2,
+       "dur": 77.9
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "honing technique",
+      "analayo": {
+       "lec": 5,
+       "start": 513.2,
+       "end": 563.8,
+       "dur": 50.6
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "Upatissa proof",
+      "analayo": {
+       "lec": 5,
+       "start": 3751.5,
+       "end": 3819.1,
+       "dur": 67.6
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "postures monodrama",
+      "analayo": {
+       "lec": 9,
+       "start": 728.2,
+       "end": 806.0,
+       "dur": 77.8
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "longing licensed",
+      "analayo": {
+       "lec": 30,
+       "start": 1187.5,
+       "end": 1245.4,
+       "dur": 57.9
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "lotus result",
+      "analayo": {
+       "lec": 18,
+       "start": 2307,
+       "end": 2350.0,
+       "dur": 43.0
+      }
+     },
+     {
+      "beat": 14,
+      "reason": "raft close",
+      "analayo": {
+       "lec": 31,
+       "start": 611.2,
+       "end": 673.0,
+       "dur": 61.8
+      }
+     }
+    ]
+   },
+   "6": {
+    "question": "What is Nibbana like?",
+    "total_s": 397.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer grown-cool",
+      "analayo": {
+       "lec": 1,
+       "start": 4009.9,
+       "end": 4014.0,
+       "dur": 4.1
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "chessboard",
+      "analayo": {
+       "lec": 8,
+       "start": 2787.3,
+       "end": 2835.9,
+       "dur": 48.6
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "peaceful draw",
+      "analayo": {
+       "lec": 23,
+       "start": 1028.8,
+       "end": 1065.5,
+       "dur": 36.7
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "lotuses",
+      "analayo": {
+       "lec": 18,
+       "start": 1252.4,
+       "end": 1274.6,
+       "dur": 22.2
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "faculties chain",
+      "analayo": {
+       "lec": 31,
+       "start": 4604.6,
+       "end": 4689.4,
+       "dur": 84.8
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "magic-show seen through",
+      "analayo": {
+       "lec": 26,
+       "start": 1650.7,
+       "end": 1749.1,
+       "dur": 98.4
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "detached close",
+      "analayo": {
+       "lec": 27,
+       "start": 3655.6,
+       "end": 3694.8,
+       "dur": 39.2
+      }
+     }
+    ]
+   }
+  },
+  "C": {
+   "1": {
+    "question": "What is Nibbana?",
+    "total_s": 1204.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 696.8,
+       "end": 709.8,
+       "dur": 13.0
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 3244,
+       "end": 3345,
+       "dur": 101
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4195,
+       "end": 4230,
+       "dur": 35
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 21,
+       "start": 413,
+       "end": 455,
+       "dur": 42
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4691,
+       "end": 4724,
+       "dur": 33
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4230,
+       "end": 4274,
+       "dur": 44
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4524,
+       "end": 4561,
+       "dur": 37
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 348,
+       "end": 359,
+       "dur": 11
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 390,
+       "end": 522,
+       "dur": 132
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 718,
+       "end": 753,
+       "dur": 35
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 20,
+       "start": 488,
+       "end": 499,
+       "dur": 11
+      }
+     },
+     {
+      "beat": "gold@1:3084",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 3083.6,
+       "end": 3111.6,
+       "dur": 28.0
+      }
+     },
+     {
+      "beat": "gold@20:4044",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 4044.0,
+       "end": 4115.5,
+       "dur": 71.5
+      }
+     },
+     {
+      "beat": "gold@29:1993",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 1992.8,
+       "end": 2144.7,
+       "dur": 151.9
+      }
+     },
+     {
+      "beat": "gold@33:3105",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 33,
+       "start": 3105.1,
+       "end": 3231.1,
+       "dur": 126.0
+      }
+     },
+     {
+      "beat": "gold@18:3390",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 3389.9,
+       "end": 3512.3,
+       "dur": 122.4
+      }
+     },
+     {
+      "beat": "gold@26:5213",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 5212.6,
+       "end": 5228.6,
+       "dur": 16.0
+      }
+     },
+     {
+      "beat": "gold@1:3443",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 3442.6,
+       "end": 3471.8,
+       "dur": 29.2
+      }
+     }
+    ]
+   },
+   "2": {
+    "question": "Why don't I see Nibbana right now?",
+    "total_s": 1229.3,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer dog",
+      "analayo": {
+       "lec": 25,
+       "start": 1906.7,
+       "end": 1916.0,
+       "dur": 9.3
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whirlpool bodies",
+      "analayo": {
+       "lec": 2,
+       "start": 5128.3,
+       "end": 5193.5,
+       "dur": 65.2
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "ignorance dethroned \u2014 not first either",
+      "analayo": {
+       "lec": 28,
+       "start": 786.3,
+       "end": 838.5,
+       "dur": 52.2
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "akalika immediacy",
+      "analayo": {
+       "lec": 4,
+       "start": 3142.9,
+       "end": 3199.8,
+       "dur": 56.9
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "three-periods warrant",
+      "analayo": {
+       "lec": 4,
+       "start": 4313.4,
+       "end": 4374.2,
+       "dur": 60.8
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "banana cut",
+      "analayo": {
+       "lec": 3,
+       "start": 2906.5,
+       "end": 2994.7,
+       "dur": 88.2
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "Channa payoff",
+      "analayo": {
+       "lec": 4,
+       "start": 2129.5,
+       "end": 2230.9,
+       "dur": 101.4
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 10,
+       "start": 1658.1,
+       "end": 1974.9,
+       "dur": 316.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 3,
+       "start": 525.0,
+       "end": 652.5,
+       "dur": 127.5
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 10,
+       "start": 4064.8,
+       "end": 4229.7,
+       "dur": 164.9
+      }
+     },
+     {
+      "beat": "gold@10:537",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 10,
+       "start": 537.3,
+       "end": 568.5,
+       "dur": 31.2
+      }
+     },
+     {
+      "beat": "gold@3:364",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 3,
+       "start": 363.5,
+       "end": 411.4,
+       "dur": 47.9
+      }
+     }
+    ]
+   },
+   "3": {
+    "question": "What keeps it going?",
+    "total_s": 1223.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer craving-gap",
+      "analayo": {
+       "lec": 33,
+       "start": 1864.7,
+       "end": 1869.2,
+       "dur": 4.5
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "nominal terrain",
+      "analayo": {
+       "lec": 1,
+       "start": 2998.9,
+       "end": 3083.0,
+       "dur": 84.1
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "honey chain",
+      "analayo": {
+       "lec": 12,
+       "start": 1299.0,
+       "end": 1431.0,
+       "dur": 131.7
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "delight-in-existence",
+      "analayo": {
+       "lec": 23,
+       "start": 984.3,
+       "end": 1003.2,
+       "dur": 18.9
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "steadied",
+      "analayo": {
+       "lec": 29,
+       "start": 2441.9,
+       "end": 2521.5,
+       "dur": 79.6
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "no-delight-in-Nibbana",
+      "analayo": {
+       "lec": 13,
+       "start": 2130.0,
+       "end": 2191.3,
+       "dur": 61.3
+      }
+     },
+     {
+      "beat": 15,
+      "reason": "barb close",
+      "analayo": {
+       "lec": 24,
+       "start": 4305.6,
+       "end": 4428.5,
+       "dur": 122.9
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 9,
+       "start": 5251.1,
+       "end": 5363.3,
+       "dur": 112.2
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 11,
+       "start": 5552.1,
+       "end": 5672.9,
+       "dur": 120.8
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 29,
+       "start": 4502.1,
+       "end": 4593.1,
+       "dur": 91.0
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 12,
+       "start": 2298.3,
+       "end": 2330.7,
+       "dur": 32.4
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 30,
+       "start": 995.7,
+       "end": 1074.0,
+       "dur": 78.3
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 14,
+       "start": 1494.2,
+       "end": 1559.3,
+       "dur": 65.1
+      }
+     },
+     {
+      "beat": 14,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 29,
+       "start": 953.3,
+       "end": 992.2,
+       "dur": 38.9
+      }
+     },
+     {
+      "beat": "gold@11:4398",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 11,
+       "start": 4397.6,
+       "end": 4449.9,
+       "dur": 52.3
+      }
+     }
+    ]
+   },
+   "4": {
+    "question": "How is the sense of self constructed?",
+    "total_s": 1215.4,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 10,
+       "start": 2208.9,
+       "end": 2232.5,
+       "dur": 23.6
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 8,
+       "start": 1382.0,
+       "end": 1419.3,
+       "dur": 37.3
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 6,
+       "start": 1409.0,
+       "end": 1446.8,
+       "dur": 37.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 9,
+       "start": 1189.8,
+       "end": 1276.9,
+       "dur": 87.1
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 25,
+       "start": 711.0,
+       "end": 788.3,
+       "dur": 77.3
+      }
+     },
+     {
+      "beat": "gold@7:663",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 663.0,
+       "end": 685.5,
+       "dur": 22.5
+      }
+     },
+     {
+      "beat": "gold@7:1189",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 1189.3,
+       "end": 1253.9,
+       "dur": 64.6
+      }
+     },
+     {
+      "beat": "gold@2:2155",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 2,
+       "start": 2154.9,
+       "end": 2219.0,
+       "dur": 64.1
+      }
+     },
+     {
+      "beat": "gold@7:3677",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 3676.7,
+       "end": 3701.1,
+       "dur": 24.4
+      }
+     },
+     {
+      "beat": "gold@9:4161",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 9,
+       "start": 4161.0,
+       "end": 4182.2,
+       "dur": 21.2
+      }
+     },
+     {
+      "beat": "gold@10:4264",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 10,
+       "start": 4263.6,
+       "end": 4283.5,
+       "dur": 19.9
+      }
+     },
+     {
+      "beat": "gold@29:1154",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 1154.3,
+       "end": 1199.9,
+       "dur": 45.6
+      }
+     },
+     {
+      "beat": "gold@6:1339",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 6,
+       "start": 1338.9,
+       "end": 1393.6,
+       "dur": 54.7
+      }
+     },
+     {
+      "beat": "gold@13:695",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 695.0,
+       "end": 699.2,
+       "dur": 4.2
+      }
+     },
+     {
+      "beat": "gold@13:4092",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 4092.0,
+       "end": 4116.0,
+       "dur": 24.0
+      }
+     },
+     {
+      "beat": "gold@13:4627",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 4627.0,
+       "end": 4648.0,
+       "dur": 21.0
+      }
+     },
+     {
+      "beat": "gold@13:4884",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 4884.0,
+       "end": 4914.0,
+       "dur": 30.0
+      }
+     },
+     {
+      "beat": "gold@14:893",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 892.6,
+       "end": 927.0,
+       "dur": 34.4
+      }
+     },
+     {
+      "beat": "gold@14:3103",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 3102.8,
+       "end": 3128.1,
+       "dur": 25.3
+      }
+     },
+     {
+      "beat": "gold@14:3363",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 3363.4,
+       "end": 3382.2,
+       "dur": 18.8
+      }
+     },
+     {
+      "beat": "gold@16:1252",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 1251.8,
+       "end": 1272.9,
+       "dur": 21.1
+      }
+     },
+     {
+      "beat": "gold@16:2732",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 2731.6,
+       "end": 2746.9,
+       "dur": 15.3
+      }
+     },
+     {
+      "beat": "gold@16:2763",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 2763.3,
+       "end": 2777.5,
+       "dur": 14.2
+      }
+     },
+     {
+      "beat": "gold@16:2805",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 2804.7,
+       "end": 2825.1,
+       "dur": 20.4
+      }
+     },
+     {
+      "beat": "gold@16:3529",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3529.2,
+       "end": 3545.7,
+       "dur": 16.5
+      }
+     },
+     {
+      "beat": "gold@16:3565",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3565.2,
+       "end": 3578.6,
+       "dur": 13.4
+      }
+     },
+     {
+      "beat": "gold@16:3596",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3596.1,
+       "end": 3624.5,
+       "dur": 28.4
+      }
+     },
+     {
+      "beat": "gold@16:3871",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3871.0,
+       "end": 3877.4,
+       "dur": 6.4
+      }
+     },
+     {
+      "beat": "gold@16:3917",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3916.6,
+       "end": 3947.0,
+       "dur": 30.4
+      }
+     },
+     {
+      "beat": "gold@16:4519",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 4519.3,
+       "end": 4533.8,
+       "dur": 14.5
+      }
+     }
+    ]
+   },
+   "5": {
+    "question": "How is Nibbana attained?",
+    "total_s": 1208.8,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer Bahiya",
+      "analayo": {
+       "lec": 14,
+       "start": 4430.4,
+       "end": 4451.9,
+       "dur": 21.5
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "dhono stance",
+      "analayo": {
+       "lec": 14,
+       "start": 4406,
+       "end": 4429.8,
+       "dur": 23.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "razor warning",
+      "analayo": {
+       "lec": 5,
+       "start": 410.3,
+       "end": 488.2,
+       "dur": 77.9
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "honing technique",
+      "analayo": {
+       "lec": 5,
+       "start": 513.2,
+       "end": 563.8,
+       "dur": 50.6
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "Upatissa proof",
+      "analayo": {
+       "lec": 5,
+       "start": 3751.5,
+       "end": 3819.1,
+       "dur": 67.6
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "postures monodrama",
+      "analayo": {
+       "lec": 9,
+       "start": 728.2,
+       "end": 806.0,
+       "dur": 77.8
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "longing licensed",
+      "analayo": {
+       "lec": 30,
+       "start": 1187.5,
+       "end": 1245.4,
+       "dur": 57.9
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "lotus result",
+      "analayo": {
+       "lec": 18,
+       "start": 2307,
+       "end": 2350.0,
+       "dur": 43.0
+      }
+     },
+     {
+      "beat": 14,
+      "reason": "raft close",
+      "analayo": {
+       "lec": 31,
+       "start": 611.2,
+       "end": 673.0,
+       "dur": 61.8
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 16,
+       "start": 935.8,
+       "end": 1068.8,
+       "dur": 133.0
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4160.0,
+       "end": 4273.3,
+       "dur": 113.3
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 9,
+       "start": 1003.9,
+       "end": 1037.6,
+       "dur": 33.7
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 9,
+       "start": 2857.7,
+       "end": 2930.1,
+       "dur": 72.4
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 31,
+       "start": 4822.7,
+       "end": 4882.1,
+       "dur": 59.4
+      }
+     },
+     {
+      "beat": "gold@5:4019",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4018.9,
+       "end": 4111.5,
+       "dur": 92.6
+      }
+     },
+     {
+      "beat": "gold@8:3844",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 3843.7,
+       "end": 3906.1,
+       "dur": 62.4
+      }
+     },
+     {
+      "beat": "gold@29:981",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 981.1,
+       "end": 992.2,
+       "dur": 11.1
+      }
+     }
+    ]
+   },
+   "6": {
+    "question": "What is Nibbana like?",
+    "total_s": 1205.0,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer grown-cool",
+      "analayo": {
+       "lec": 1,
+       "start": 4009.9,
+       "end": 4014.0,
+       "dur": 4.1
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "chessboard",
+      "analayo": {
+       "lec": 8,
+       "start": 2787.3,
+       "end": 2835.9,
+       "dur": 48.6
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "peaceful draw",
+      "analayo": {
+       "lec": 23,
+       "start": 1028.8,
+       "end": 1065.5,
+       "dur": 36.7
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "lotuses",
+      "analayo": {
+       "lec": 18,
+       "start": 1252.4,
+       "end": 1274.6,
+       "dur": 22.2
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "faculties chain",
+      "analayo": {
+       "lec": 31,
+       "start": 4604.6,
+       "end": 4689.4,
+       "dur": 84.8
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "magic-show seen through",
+      "analayo": {
+       "lec": 26,
+       "start": 1650.7,
+       "end": 1749.1,
+       "dur": 98.4
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "detached close",
+      "analayo": {
+       "lec": 27,
+       "start": 3655.6,
+       "end": 3694.8,
+       "dur": 39.2
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 33,
+       "start": 949.9,
+       "end": 991.0,
+       "dur": 41.1
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 33,
+       "start": 1918.7,
+       "end": 1941.1,
+       "dur": 22.4
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 33,
+       "start": 2034.5,
+       "end": 2058.6,
+       "dur": 24.1
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 32,
+       "start": 1631.8,
+       "end": 1671.3,
+       "dur": 39.5
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 18,
+       "start": 753.8,
+       "end": 853.2,
+       "dur": 99.4
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 26,
+       "start": 1813.7,
+       "end": 1909.0,
+       "dur": 95.3
+      }
+     },
+     {
+      "beat": "gold@32:1050",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 32,
+       "start": 1050.0,
+       "end": 1147.0,
+       "dur": 97.0
+      }
+     },
+     {
+      "beat": "gold@32:1957",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 32,
+       "start": 1957.0,
+       "end": 2087.5,
+       "dur": 130.5
+      }
+     },
+     {
+      "beat": "gold@18:896",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 896.0,
+       "end": 1020.5,
+       "dur": 124.5
+      }
+     },
+     {
+      "beat": "gold@19:4004",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 4003.5,
+       "end": 4014.7,
+       "dur": 11.2
+      }
+     },
+     {
+      "beat": "gold@27:3306",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 3306.5,
+       "end": 3331.5,
+       "dur": 25.0
+      }
+     }
+    ]
+   }
+  },
+  "D": {
+   "1": {
+    "question": "What is Nibbana?",
+    "total_s": 2700.1,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 696.8,
+       "end": 709.8,
+       "dur": 13.0
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 3244,
+       "end": 3345,
+       "dur": 101
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4195,
+       "end": 4230,
+       "dur": 35
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 21,
+       "start": 413,
+       "end": 455,
+       "dur": 42
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4691,
+       "end": 4724,
+       "dur": 33
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4230,
+       "end": 4274,
+       "dur": 44
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 1,
+       "start": 4524,
+       "end": 4561,
+       "dur": 37
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 348,
+       "end": 359,
+       "dur": 11
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 390,
+       "end": 522,
+       "dur": 132
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 19,
+       "start": 718,
+       "end": 753,
+       "dur": 35
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 20,
+       "start": 488,
+       "end": 499,
+       "dur": 11
+      }
+     },
+     {
+      "beat": "gold@1:3084",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 3083.6,
+       "end": 3111.6,
+       "dur": 28.0
+      }
+     },
+     {
+      "beat": "gold@20:4044",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 4044.0,
+       "end": 4115.5,
+       "dur": 71.5
+      }
+     },
+     {
+      "beat": "gold@29:1993",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 1992.8,
+       "end": 2144.7,
+       "dur": 151.9
+      }
+     },
+     {
+      "beat": "gold@33:3105",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 33,
+       "start": 3105.1,
+       "end": 3231.1,
+       "dur": 126.0
+      }
+     },
+     {
+      "beat": "gold@18:3390",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 3389.9,
+       "end": 3512.3,
+       "dur": 122.4
+      }
+     },
+     {
+      "beat": "gold@26:5213",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 5212.6,
+       "end": 5228.6,
+       "dur": 16.0
+      }
+     },
+     {
+      "beat": "gold@1:3443",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 3442.6,
+       "end": 3471.8,
+       "dur": 29.2
+      }
+     },
+     {
+      "beat": "gold@1:4833",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 4832.8,
+       "end": 4968.0,
+       "dur": 135.2
+      }
+     },
+     {
+      "beat": "gold@23:3848",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 23,
+       "start": 3848.4,
+       "end": 3939.7,
+       "dur": 91.3
+      }
+     },
+     {
+      "beat": "gold@1:3743",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 3743.0,
+       "end": 3760.4,
+       "dur": 17.4
+      }
+     },
+     {
+      "beat": "gold@7:1595",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 1595.3,
+       "end": 1630.0,
+       "dur": 34.7
+      }
+     },
+     {
+      "beat": "gold@7:4364",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 4364.2,
+       "end": 4408.9,
+       "dur": 44.7
+      }
+     },
+     {
+      "beat": "gold@8:1328",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 1328.1,
+       "end": 1363.2,
+       "dur": 35.1
+      }
+     },
+     {
+      "beat": "gold@14:3013",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 3013.4,
+       "end": 3075.4,
+       "dur": 62.0
+      }
+     },
+     {
+      "beat": "gold@14:3405",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 3405.2,
+       "end": 3421.1,
+       "dur": 15.9
+      }
+     },
+     {
+      "beat": "gold@15:3030",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 15,
+       "start": 3030.3,
+       "end": 3044.3,
+       "dur": 14.0
+      }
+     },
+     {
+      "beat": "gold@15:3063",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 15,
+       "start": 3063.4,
+       "end": 3154.6,
+       "dur": 91.2
+      }
+     },
+     {
+      "beat": "gold@16:3206",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3206.4,
+       "end": 3270.9,
+       "dur": 64.5
+      }
+     },
+     {
+      "beat": "gold@17:2337",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 2337.0,
+       "end": 2371.7,
+       "dur": 34.7
+      }
+     },
+     {
+      "beat": "gold@18:3670",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 3670.4,
+       "end": 3682.6,
+       "dur": 12.2
+      }
+     },
+     {
+      "beat": "gold@18:4108",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 4107.9,
+       "end": 4198.5,
+       "dur": 90.6
+      }
+     },
+     {
+      "beat": "gold@20:1735",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 1735.3,
+       "end": 1741.8,
+       "dur": 6.5
+      }
+     },
+     {
+      "beat": "gold@20:2434",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 2434.0,
+       "end": 2458.0,
+       "dur": 24.0
+      }
+     },
+     {
+      "beat": "gold@20:3928",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 3928.3,
+       "end": 3931.8,
+       "dur": 3.5
+      }
+     },
+     {
+      "beat": "gold@20:3990",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 3990.2,
+       "end": 4031.8,
+       "dur": 41.6
+      }
+     },
+     {
+      "beat": "gold@20:4060",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 4059.8,
+       "end": 4062.5,
+       "dur": 2.7
+      }
+     },
+     {
+      "beat": "gold@20:4299",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 4299.2,
+       "end": 4416.2,
+       "dur": 117.0
+      }
+     },
+     {
+      "beat": "gold@21:1604",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 21,
+       "start": 1603.5,
+       "end": 1649.9,
+       "dur": 46.4
+      }
+     },
+     {
+      "beat": "gold@28:3045",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 28,
+       "start": 3045.1,
+       "end": 3078.2,
+       "dur": 33.1
+      }
+     },
+     {
+      "beat": "gold@28:4249",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 28,
+       "start": 4249.4,
+       "end": 4309.0,
+       "dur": 59.6
+      }
+     },
+     {
+      "beat": "gold@1:3148",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 3147.8,
+       "end": 3164.3,
+       "dur": 16.5
+      }
+     },
+     {
+      "beat": "gold@2:4428",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 2,
+       "start": 4428.2,
+       "end": 4455.2,
+       "dur": 27.0
+      }
+     },
+     {
+      "beat": "gold@20:1800",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 1800.0,
+       "end": 1804.1,
+       "dur": 4.1
+      }
+     },
+     {
+      "beat": "gold@20:1827",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 1827.3,
+       "end": 1858.4,
+       "dur": 31.1
+      }
+     },
+     {
+      "beat": "gold@5:2148",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 2148.2,
+       "end": 2207.7,
+       "dur": 59.5
+      }
+     }
+    ]
+   },
+   "2": {
+    "question": "Why don't I see Nibbana right now?",
+    "total_s": 2734.4,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer dog",
+      "analayo": {
+       "lec": 25,
+       "start": 1906.7,
+       "end": 1916.0,
+       "dur": 9.3
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whirlpool bodies",
+      "analayo": {
+       "lec": 2,
+       "start": 5128.3,
+       "end": 5193.5,
+       "dur": 65.2
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "ignorance dethroned \u2014 not first either",
+      "analayo": {
+       "lec": 28,
+       "start": 786.3,
+       "end": 838.5,
+       "dur": 52.2
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "akalika immediacy",
+      "analayo": {
+       "lec": 4,
+       "start": 3142.9,
+       "end": 3199.8,
+       "dur": 56.9
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "three-periods warrant",
+      "analayo": {
+       "lec": 4,
+       "start": 4313.4,
+       "end": 4374.2,
+       "dur": 60.8
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "banana cut",
+      "analayo": {
+       "lec": 3,
+       "start": 2906.5,
+       "end": 2994.7,
+       "dur": 88.2
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "Channa payoff",
+      "analayo": {
+       "lec": 4,
+       "start": 2129.5,
+       "end": 2230.9,
+       "dur": 101.4
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 10,
+       "start": 1658.1,
+       "end": 1974.9,
+       "dur": 316.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 3,
+       "start": 525.0,
+       "end": 652.5,
+       "dur": 127.5
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 10,
+       "start": 4064.8,
+       "end": 4229.7,
+       "dur": 164.9
+      }
+     },
+     {
+      "beat": "gold@10:537",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 10,
+       "start": 537.3,
+       "end": 568.5,
+       "dur": 31.2
+      }
+     },
+     {
+      "beat": "gold@3:364",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 3,
+       "start": 363.5,
+       "end": 411.4,
+       "dur": 47.9
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 10,
+       "start": 4292.7,
+       "end": 4455.5,
+       "dur": 162.8
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 23,
+       "start": 5131.5,
+       "end": 5259.3,
+       "dur": 127.8
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 4,
+       "start": 485.5,
+       "end": 612.2,
+       "dur": 126.7
+      }
+     },
+     {
+      "beat": "gold@2:3473",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 2,
+       "start": 3473.4,
+       "end": 3582.5,
+       "dur": 109.1
+      }
+     },
+     {
+      "beat": "gold@17:1500",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 1500.0,
+       "end": 1606.5,
+       "dur": 106.5
+      }
+     },
+     {
+      "beat": "gold@22:3282",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 22,
+       "start": 3281.5,
+       "end": 3365.5,
+       "dur": 84.0
+      }
+     },
+     {
+      "beat": "gold@1:2536",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 1,
+       "start": 2535.5,
+       "end": 2605.5,
+       "dur": 70.0
+      }
+     },
+     {
+      "beat": "gold@2:5194",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 2,
+       "start": 5193.5,
+       "end": 5271.9,
+       "dur": 78.4
+      }
+     },
+     {
+      "beat": "gold@22:246",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 22,
+       "start": 246.4,
+       "end": 358.0,
+       "dur": 111.6
+      }
+     },
+     {
+      "beat": "gold@3:2060",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 3,
+       "start": 2060.2,
+       "end": 2110.0,
+       "dur": 49.8
+      }
+     },
+     {
+      "beat": "gold@21:799",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 21,
+       "start": 799.2,
+       "end": 845.2,
+       "dur": 46.0
+      }
+     },
+     {
+      "beat": "gold@8:3720",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 3720.2,
+       "end": 3840.9,
+       "dur": 120.7
+      }
+     },
+     {
+      "beat": "gold@26:4070",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 4070.2,
+       "end": 4074.0,
+       "dur": 3.8
+      }
+     },
+     {
+      "beat": "gold@26:4108",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 4107.8,
+       "end": 4112.8,
+       "dur": 5.0
+      }
+     },
+     {
+      "beat": "gold@30:3383",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 30,
+       "start": 3382.8,
+       "end": 3439.2,
+       "dur": 56.4
+      }
+     },
+     {
+      "beat": "gold@6:3622",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 6,
+       "start": 3622.3,
+       "end": 3663.8,
+       "dur": 41.5
+      }
+     },
+     {
+      "beat": "gold@6:5128",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 6,
+       "start": 5127.8,
+       "end": 5168.8,
+       "dur": 41.0
+      }
+     }
+    ]
+   },
+   "3": {
+    "question": "What keeps it going?",
+    "total_s": 2723.9,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer craving-gap",
+      "analayo": {
+       "lec": 33,
+       "start": 1864.7,
+       "end": 1869.2,
+       "dur": 4.5
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "nominal terrain",
+      "analayo": {
+       "lec": 1,
+       "start": 2998.9,
+       "end": 3083.0,
+       "dur": 84.1
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "honey chain",
+      "analayo": {
+       "lec": 12,
+       "start": 1299.0,
+       "end": 1431.0,
+       "dur": 131.7
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "delight-in-existence",
+      "analayo": {
+       "lec": 23,
+       "start": 984.3,
+       "end": 1003.2,
+       "dur": 18.9
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "steadied",
+      "analayo": {
+       "lec": 29,
+       "start": 2441.9,
+       "end": 2521.5,
+       "dur": 79.6
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "no-delight-in-Nibbana",
+      "analayo": {
+       "lec": 13,
+       "start": 2130.0,
+       "end": 2191.3,
+       "dur": 61.3
+      }
+     },
+     {
+      "beat": 15,
+      "reason": "barb close",
+      "analayo": {
+       "lec": 24,
+       "start": 4305.6,
+       "end": 4428.5,
+       "dur": 122.9
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 9,
+       "start": 5251.1,
+       "end": 5363.3,
+       "dur": 112.2
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 11,
+       "start": 5552.1,
+       "end": 5672.9,
+       "dur": 120.8
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 29,
+       "start": 4502.1,
+       "end": 4593.1,
+       "dur": 91.0
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 12,
+       "start": 2298.3,
+       "end": 2330.7,
+       "dur": 32.4
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 30,
+       "start": 995.7,
+       "end": 1074.0,
+       "dur": 78.3
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 14,
+       "start": 1494.2,
+       "end": 1559.3,
+       "dur": 65.1
+      }
+     },
+     {
+      "beat": 14,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 29,
+       "start": 953.3,
+       "end": 992.2,
+       "dur": 38.9
+      }
+     },
+     {
+      "beat": "gold@11:4398",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 11,
+       "start": 4397.6,
+       "end": 4449.9,
+       "dur": 52.3
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 10,
+       "start": 974.5,
+       "end": 1350.5,
+       "dur": 376.0
+      }
+     },
+     {
+      "beat": "gold@24:1030",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 24,
+       "start": 1030.2,
+       "end": 1100.2,
+       "dur": 70.0
+      }
+     },
+     {
+      "beat": "gold@11:4674",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 11,
+       "start": 4673.6,
+       "end": 4737.2,
+       "dur": 63.6
+      }
+     },
+     {
+      "beat": "gold@11:4886",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 11,
+       "start": 4886.0,
+       "end": 4891.9,
+       "dur": 5.9
+      }
+     },
+     {
+      "beat": "gold@12:896",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 895.7,
+       "end": 918.0,
+       "dur": 22.3
+      }
+     },
+     {
+      "beat": "gold@12:966",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 965.8,
+       "end": 1011.2,
+       "dur": 45.4
+      }
+     },
+     {
+      "beat": "gold@12:1156",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 1156.1,
+       "end": 1218.6,
+       "dur": 62.5
+      }
+     },
+     {
+      "beat": "gold@12:1240",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 1239.8,
+       "end": 1264.2,
+       "dur": 24.4
+      }
+     },
+     {
+      "beat": "gold@12:3899",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 3899.4,
+       "end": 3930.8,
+       "dur": 31.4
+      }
+     },
+     {
+      "beat": "gold@12:3943",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 3943.1,
+       "end": 3991.0,
+       "dur": 47.9
+      }
+     },
+     {
+      "beat": "gold@12:4010",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 4010.4,
+       "end": 4091.2,
+       "dur": 80.8
+      }
+     },
+     {
+      "beat": "gold@18:2502",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 2502.2,
+       "end": 2579.3,
+       "dur": 77.1
+      }
+     },
+     {
+      "beat": "gold@24:2058",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 24,
+       "start": 2057.8,
+       "end": 2110.1,
+       "dur": 52.3
+      }
+     },
+     {
+      "beat": "gold@29:2173",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 2172.8,
+       "end": 2183.4,
+       "dur": 10.6
+      }
+     },
+     {
+      "beat": "gold@29:2203",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 2202.7,
+       "end": 2234.7,
+       "dur": 32.0
+      }
+     },
+     {
+      "beat": "gold@29:2724",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 2723.5,
+       "end": 2770.5,
+       "dur": 47.0
+      }
+     },
+     {
+      "beat": "gold@11:2483",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 11,
+       "start": 2482.8,
+       "end": 2495.1,
+       "dur": 12.3
+      }
+     },
+     {
+      "beat": "gold@12:1562",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 1562.2,
+       "end": 1582.0,
+       "dur": 19.8
+      }
+     },
+     {
+      "beat": "gold@20:4465",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 4465.2,
+       "end": 4485.0,
+       "dur": 19.8
+      }
+     },
+     {
+      "beat": "gold@20:4506",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 20,
+       "start": 4506.2,
+       "end": 4538.2,
+       "dur": 32.0
+      }
+     },
+     {
+      "beat": "gold@27:3742",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 3741.5,
+       "end": 3745.8,
+       "dur": 4.3
+      }
+     },
+     {
+      "beat": "gold@29:2248",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 2247.8,
+       "end": 2258.3,
+       "dur": 10.5
+      }
+     },
+     {
+      "beat": "gold@29:2560",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 2560.2,
+       "end": 2567.8,
+       "dur": 7.6
+      }
+     },
+     {
+      "beat": "gold@11:3521",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 11,
+       "start": 3521.1,
+       "end": 3543.1,
+       "dur": 22.0
+      }
+     },
+     {
+      "beat": "gold@12:3534",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 12,
+       "start": 3534.4,
+       "end": 3542.5,
+       "dur": 8.1
+      }
+     },
+     {
+      "beat": "gold@13:804",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 804.2,
+       "end": 833.0,
+       "dur": 28.8
+      }
+     },
+     {
+      "beat": "gold@21:4182",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 21,
+       "start": 4181.5,
+       "end": 4200.0,
+       "dur": 18.5
+      }
+     }
+    ]
+   },
+   "4": {
+    "question": "How is the sense of self constructed?",
+    "total_s": 1993.5,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 10,
+       "start": 2208.9,
+       "end": 2232.5,
+       "dur": 23.6
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 8,
+       "start": 1382.0,
+       "end": 1419.3,
+       "dur": 37.3
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 6,
+       "start": 1409.0,
+       "end": 1446.8,
+       "dur": 37.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 9,
+       "start": 1189.8,
+       "end": 1276.9,
+       "dur": 87.1
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "whole old-A",
+      "analayo": {
+       "lec": 25,
+       "start": 711.0,
+       "end": 788.3,
+       "dur": 77.3
+      }
+     },
+     {
+      "beat": "gold@7:663",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 663.0,
+       "end": 685.5,
+       "dur": 22.5
+      }
+     },
+     {
+      "beat": "gold@7:1189",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 1189.3,
+       "end": 1253.9,
+       "dur": 64.6
+      }
+     },
+     {
+      "beat": "gold@2:2155",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 2,
+       "start": 2154.9,
+       "end": 2219.0,
+       "dur": 64.1
+      }
+     },
+     {
+      "beat": "gold@7:3677",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 3676.7,
+       "end": 3701.1,
+       "dur": 24.4
+      }
+     },
+     {
+      "beat": "gold@9:4161",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 9,
+       "start": 4161.0,
+       "end": 4182.2,
+       "dur": 21.2
+      }
+     },
+     {
+      "beat": "gold@10:4264",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 10,
+       "start": 4263.6,
+       "end": 4283.5,
+       "dur": 19.9
+      }
+     },
+     {
+      "beat": "gold@29:1154",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 1154.3,
+       "end": 1199.9,
+       "dur": 45.6
+      }
+     },
+     {
+      "beat": "gold@6:1339",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 6,
+       "start": 1338.9,
+       "end": 1393.6,
+       "dur": 54.7
+      }
+     },
+     {
+      "beat": "gold@13:695",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 695.0,
+       "end": 699.2,
+       "dur": 4.2
+      }
+     },
+     {
+      "beat": "gold@13:4092",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 4092.0,
+       "end": 4116.0,
+       "dur": 24.0
+      }
+     },
+     {
+      "beat": "gold@13:4627",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 4627.0,
+       "end": 4648.0,
+       "dur": 21.0
+      }
+     },
+     {
+      "beat": "gold@13:4884",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 13,
+       "start": 4884.0,
+       "end": 4914.0,
+       "dur": 30.0
+      }
+     },
+     {
+      "beat": "gold@14:893",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 892.6,
+       "end": 927.0,
+       "dur": 34.4
+      }
+     },
+     {
+      "beat": "gold@14:3103",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 3102.8,
+       "end": 3128.1,
+       "dur": 25.3
+      }
+     },
+     {
+      "beat": "gold@14:3363",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 3363.4,
+       "end": 3382.2,
+       "dur": 18.8
+      }
+     },
+     {
+      "beat": "gold@16:1252",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 1251.8,
+       "end": 1272.9,
+       "dur": 21.1
+      }
+     },
+     {
+      "beat": "gold@16:2732",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 2731.6,
+       "end": 2746.9,
+       "dur": 15.3
+      }
+     },
+     {
+      "beat": "gold@16:2763",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 2763.3,
+       "end": 2777.5,
+       "dur": 14.2
+      }
+     },
+     {
+      "beat": "gold@16:2805",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 2804.7,
+       "end": 2825.1,
+       "dur": 20.4
+      }
+     },
+     {
+      "beat": "gold@16:3529",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3529.2,
+       "end": 3545.7,
+       "dur": 16.5
+      }
+     },
+     {
+      "beat": "gold@16:3565",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3565.2,
+       "end": 3578.6,
+       "dur": 13.4
+      }
+     },
+     {
+      "beat": "gold@16:3596",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3596.1,
+       "end": 3624.5,
+       "dur": 28.4
+      }
+     },
+     {
+      "beat": "gold@16:3871",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3871.0,
+       "end": 3877.4,
+       "dur": 6.4
+      }
+     },
+     {
+      "beat": "gold@16:3917",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 3916.6,
+       "end": 3947.0,
+       "dur": 30.4
+      }
+     },
+     {
+      "beat": "gold@16:4519",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 4519.3,
+       "end": 4533.8,
+       "dur": 14.5
+      }
+     },
+     {
+      "beat": "gold@16:4721",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 4721.1,
+       "end": 4757.0,
+       "dur": 35.9
+      }
+     },
+     {
+      "beat": "gold@16:6274",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 6274.5,
+       "end": 6284.2,
+       "dur": 9.7
+      }
+     },
+     {
+      "beat": "gold@17:1227",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 1227.4,
+       "end": 1232.7,
+       "dur": 5.3
+      }
+     },
+     {
+      "beat": "gold@17:1752",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 1751.6,
+       "end": 1757.4,
+       "dur": 5.8
+      }
+     },
+     {
+      "beat": "gold@17:2973",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 2973.4,
+       "end": 2977.8,
+       "dur": 4.4
+      }
+     },
+     {
+      "beat": "gold@17:3002",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 3001.5,
+       "end": 3006.6,
+       "dur": 5.1
+      }
+     },
+     {
+      "beat": "gold@17:3650",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 3649.8,
+       "end": 3657.6,
+       "dur": 7.8
+      }
+     },
+     {
+      "beat": "gold@17:3697",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 3696.8,
+       "end": 3701.8,
+       "dur": 5.0
+      }
+     },
+     {
+      "beat": "gold@17:3910",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 17,
+       "start": 3910.2,
+       "end": 3914.7,
+       "dur": 4.5
+      }
+     },
+     {
+      "beat": "gold@25:812",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 812.0,
+       "end": 834.3,
+       "dur": 22.3
+      }
+     },
+     {
+      "beat": "gold@25:1669",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 1668.7,
+       "end": 1670.8,
+       "dur": 2.1
+      }
+     },
+     {
+      "beat": "gold@25:2739",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 2739.2,
+       "end": 2772.4,
+       "dur": 33.2
+      }
+     },
+     {
+      "beat": "gold@25:3068",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3068.3,
+       "end": 3167.9,
+       "dur": 99.6
+      }
+     },
+     {
+      "beat": "gold@25:3216",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3216.5,
+       "end": 3277.3,
+       "dur": 60.8
+      }
+     },
+     {
+      "beat": "gold@25:3307",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3306.9,
+       "end": 3375.8,
+       "dur": 68.9
+      }
+     },
+     {
+      "beat": "gold@25:3385",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3384.6,
+       "end": 3392.8,
+       "dur": 8.2
+      }
+     },
+     {
+      "beat": "gold@25:3708",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3707.6,
+       "end": 3778.7,
+       "dur": 71.1
+      }
+     },
+     {
+      "beat": "gold@25:3831",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3831.3,
+       "end": 3835.6,
+       "dur": 4.3
+      }
+     },
+     {
+      "beat": "gold@25:3889",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3889.0,
+       "end": 3931.0,
+       "dur": 42.0
+      }
+     },
+     {
+      "beat": "gold@25:3981",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 3980.8,
+       "end": 4021.4,
+       "dur": 40.6
+      }
+     },
+     {
+      "beat": "gold@25:4427",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 4427.4,
+       "end": 4458.9,
+       "dur": 31.5
+      }
+     }
+    ]
+   },
+   "5": {
+    "question": "How is Nibbana attained?",
+    "total_s": 2713.6,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer Bahiya",
+      "analayo": {
+       "lec": 14,
+       "start": 4430.4,
+       "end": 4451.9,
+       "dur": 21.5
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "dhono stance",
+      "analayo": {
+       "lec": 14,
+       "start": 4406,
+       "end": 4429.8,
+       "dur": 23.8
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "razor warning",
+      "analayo": {
+       "lec": 5,
+       "start": 410.3,
+       "end": 488.2,
+       "dur": 77.9
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "honing technique",
+      "analayo": {
+       "lec": 5,
+       "start": 513.2,
+       "end": 563.8,
+       "dur": 50.6
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "Upatissa proof",
+      "analayo": {
+       "lec": 5,
+       "start": 3751.5,
+       "end": 3819.1,
+       "dur": 67.6
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "postures monodrama",
+      "analayo": {
+       "lec": 9,
+       "start": 728.2,
+       "end": 806.0,
+       "dur": 77.8
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "longing licensed",
+      "analayo": {
+       "lec": 30,
+       "start": 1187.5,
+       "end": 1245.4,
+       "dur": 57.9
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "lotus result",
+      "analayo": {
+       "lec": 18,
+       "start": 2307,
+       "end": 2350.0,
+       "dur": 43.0
+      }
+     },
+     {
+      "beat": 14,
+      "reason": "raft close",
+      "analayo": {
+       "lec": 31,
+       "start": 611.2,
+       "end": 673.0,
+       "dur": 61.8
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 16,
+       "start": 935.8,
+       "end": 1068.8,
+       "dur": 133.0
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4160.0,
+       "end": 4273.3,
+       "dur": 113.3
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 9,
+       "start": 1003.9,
+       "end": 1037.6,
+       "dur": 33.7
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 9,
+       "start": 2857.7,
+       "end": 2930.1,
+       "dur": 72.4
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 31,
+       "start": 4822.7,
+       "end": 4882.1,
+       "dur": 59.4
+      }
+     },
+     {
+      "beat": "gold@5:4019",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4018.9,
+       "end": 4111.5,
+       "dur": 92.6
+      }
+     },
+     {
+      "beat": "gold@8:3844",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 3843.7,
+       "end": 3906.1,
+       "dur": 62.4
+      }
+     },
+     {
+      "beat": "gold@29:981",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 981.1,
+       "end": 992.2,
+       "dur": 11.1
+      }
+     },
+     {
+      "beat": "gold@29:3026",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 3026.2,
+       "end": 3033.0,
+       "dur": 6.8
+      }
+     },
+     {
+      "beat": "gold@5:4782",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4781.7,
+       "end": 4838.2,
+       "dur": 56.5
+      }
+     },
+     {
+      "beat": "gold@30:1409",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 30,
+       "start": 1409.0,
+       "end": 1437.0,
+       "dur": 28.0
+      }
+     },
+     {
+      "beat": "gold@14:4478",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 14,
+       "start": 4478.1,
+       "end": 4561.3,
+       "dur": 83.2
+      }
+     },
+     {
+      "beat": "gold@5:4792",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4791.9,
+       "end": 4838.2,
+       "dur": 46.3
+      }
+     },
+     {
+      "beat": "gold@6:4848",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 6,
+       "start": 4847.5,
+       "end": 4936.5,
+       "dur": 89.0
+      }
+     },
+     {
+      "beat": "gold@7:2477",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 2476.8,
+       "end": 2530.5,
+       "dur": 53.7
+      }
+     },
+     {
+      "beat": "gold@15:2951",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 15,
+       "start": 2951.1,
+       "end": 3010.7,
+       "dur": 59.6
+      }
+     },
+     {
+      "beat": "gold@29:4063",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 29,
+       "start": 4063.3,
+       "end": 4081.6,
+       "dur": 18.3
+      }
+     },
+     {
+      "beat": "gold@16:1563",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 16,
+       "start": 1562.6,
+       "end": 1653.4,
+       "dur": 90.8
+      }
+     },
+     {
+      "beat": "gold@30:563",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 30,
+       "start": 563.2,
+       "end": 584.2,
+       "dur": 21.0
+      }
+     },
+     {
+      "beat": "gold@30:920",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 30,
+       "start": 920.3,
+       "end": 969.9,
+       "dur": 49.6
+      }
+     },
+     {
+      "beat": "gold@30:1616",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 30,
+       "start": 1616.3,
+       "end": 1637.3,
+       "dur": 21.0
+      }
+     },
+     {
+      "beat": "gold@18:2367",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 2366.6,
+       "end": 2381.3,
+       "dur": 14.7
+      }
+     },
+     {
+      "beat": "gold@31:1110",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 31,
+       "start": 1109.9,
+       "end": 1140.9,
+       "dur": 31.0
+      }
+     },
+     {
+      "beat": "gold@5:1038",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 1038.1,
+       "end": 1067.3,
+       "dur": 29.2
+      }
+     },
+     {
+      "beat": "gold@5:1722",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 1721.6,
+       "end": 1750.3,
+       "dur": 28.7
+      }
+     },
+     {
+      "beat": "gold@5:4839",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4839.0,
+       "end": 4875.1,
+       "dur": 36.1
+      }
+     },
+     {
+      "beat": "gold@6:4558",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 6,
+       "start": 4557.8,
+       "end": 4650.0,
+       "dur": 92.2
+      }
+     },
+     {
+      "beat": "gold@7:2138",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 7,
+       "start": 2137.5,
+       "end": 2190.4,
+       "dur": 52.9
+      }
+     },
+     {
+      "beat": "gold@8:2952",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 2951.8,
+       "end": 3006.4,
+       "dur": 54.6
+      }
+     },
+     {
+      "beat": "gold@8:4523",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 4523.0,
+       "end": 4551.6,
+       "dur": 28.6
+      }
+     },
+     {
+      "beat": "gold@8:5619",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 5619.0,
+       "end": 5693.7,
+       "dur": 74.7
+      }
+     },
+     {
+      "beat": "gold@8:5700",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 8,
+       "start": 5699.8,
+       "end": 5764.0,
+       "dur": 64.2
+      }
+     },
+     {
+      "beat": "gold@9:1794",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 9,
+       "start": 1794.4,
+       "end": 1820.5,
+       "dur": 26.1
+      }
+     },
+     {
+      "beat": "gold@9:3100",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 9,
+       "start": 3099.5,
+       "end": 3131.3,
+       "dur": 31.8
+      }
+     },
+     {
+      "beat": "gold@9:3516",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 9,
+       "start": 3516.0,
+       "end": 3562.2,
+       "dur": 46.2
+      }
+     }
+    ]
+   },
+   "6": {
+    "question": "What is Nibbana like?",
+    "total_s": 2709.1,
+    "units": [
+     {
+      "beat": 1,
+      "reason": "pointer grown-cool",
+      "analayo": {
+       "lec": 1,
+       "start": 4009.9,
+       "end": 4014.0,
+       "dur": 4.1
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "chessboard",
+      "analayo": {
+       "lec": 8,
+       "start": 2787.3,
+       "end": 2835.9,
+       "dur": 48.6
+      }
+     },
+     {
+      "beat": 3,
+      "reason": "peaceful draw",
+      "analayo": {
+       "lec": 23,
+       "start": 1028.8,
+       "end": 1065.5,
+       "dur": 36.7
+      }
+     },
+     {
+      "beat": 4,
+      "reason": "lotuses",
+      "analayo": {
+       "lec": 18,
+       "start": 1252.4,
+       "end": 1274.6,
+       "dur": 22.2
+      }
+     },
+     {
+      "beat": 8,
+      "reason": "faculties chain",
+      "analayo": {
+       "lec": 31,
+       "start": 4604.6,
+       "end": 4689.4,
+       "dur": 84.8
+      }
+     },
+     {
+      "beat": 11,
+      "reason": "magic-show seen through",
+      "analayo": {
+       "lec": 26,
+       "start": 1650.7,
+       "end": 1749.1,
+       "dur": 98.4
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "detached close",
+      "analayo": {
+       "lec": 27,
+       "start": 3655.6,
+       "end": 3694.8,
+       "dur": 39.2
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 33,
+       "start": 949.9,
+       "end": 991.0,
+       "dur": 41.1
+      }
+     },
+     {
+      "beat": 6,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 33,
+       "start": 1918.7,
+       "end": 1941.1,
+       "dur": 22.4
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 33,
+       "start": 2034.5,
+       "end": 2058.6,
+       "dur": 24.1
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 32,
+       "start": 1631.8,
+       "end": 1671.3,
+       "dur": 39.5
+      }
+     },
+     {
+      "beat": 10,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 18,
+       "start": 753.8,
+       "end": 853.2,
+       "dur": 99.4
+      }
+     },
+     {
+      "beat": 12,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 26,
+       "start": 1813.7,
+       "end": 1909.0,
+       "dur": 95.3
+      }
+     },
+     {
+      "beat": "gold@32:1050",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 32,
+       "start": 1050.0,
+       "end": 1147.0,
+       "dur": 97.0
+      }
+     },
+     {
+      "beat": "gold@32:1957",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 32,
+       "start": 1957.0,
+       "end": 2087.5,
+       "dur": 130.5
+      }
+     },
+     {
+      "beat": "gold@18:896",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 896.0,
+       "end": 1020.5,
+       "dur": 124.5
+      }
+     },
+     {
+      "beat": "gold@19:4004",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 4003.5,
+       "end": 4014.7,
+       "dur": 11.2
+      }
+     },
+     {
+      "beat": "gold@27:3306",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 3306.5,
+       "end": 3331.5,
+       "dur": 25.0
+      }
+     },
+     {
+      "beat": "gold@27:3799",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 3799.4,
+       "end": 3909.0,
+       "dur": 109.6
+      }
+     },
+     {
+      "beat": "gold@18:1183",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 1183.3,
+       "end": 1195.9,
+       "dur": 12.6
+      }
+     },
+     {
+      "beat": "gold@27:2208",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 2207.9,
+       "end": 2212.8,
+       "dur": 4.9
+      }
+     },
+     {
+      "beat": "gold@25:4786",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 4785.9,
+       "end": 4842.6,
+       "dur": 56.7
+      }
+     },
+     {
+      "beat": "gold@25:4896",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 25,
+       "start": 4895.8,
+       "end": 4974.1,
+       "dur": 78.3
+      }
+     },
+     {
+      "beat": "gold@26:687",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 687.3,
+       "end": 709.4,
+       "dur": 22.1
+      }
+     },
+     {
+      "beat": "gold@26:890",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 889.9,
+       "end": 975.6,
+       "dur": 85.7
+      }
+     },
+     {
+      "beat": "gold@26:1024",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 1024.2,
+       "end": 1105.2,
+       "dur": 81.0
+      }
+     },
+     {
+      "beat": "gold@26:1322",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 1322.5,
+       "end": 1364.8,
+       "dur": 42.3
+      }
+     },
+     {
+      "beat": "gold@26:1522",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 1522.0,
+       "end": 1607.8,
+       "dur": 85.8
+      }
+     },
+     {
+      "beat": "gold@26:1943",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 1943.4,
+       "end": 2036.9,
+       "dur": 93.5
+      }
+     },
+     {
+      "beat": "gold@26:2071",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 2070.8,
+       "end": 2101.0,
+       "dur": 30.2
+      }
+     },
+     {
+      "beat": "gold@27:662",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 661.84,
+       "end": 760.6,
+       "dur": 98.8
+      }
+     },
+     {
+      "beat": "gold@27:802",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 27,
+       "start": 802.5,
+       "end": 838.8,
+       "dur": 36.3
+      }
+     },
+     {
+      "beat": "gold@18:1646",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 1646.1,
+       "end": 1663.0,
+       "dur": 16.9
+      }
+     },
+     {
+      "beat": "gold@18:865",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 865.2,
+       "end": 876.0,
+       "dur": 10.8
+      }
+     },
+     {
+      "beat": "gold@18:1672",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 1672.5,
+       "end": 1678.7,
+       "dur": 6.2
+      }
+     },
+     {
+      "beat": "gold@18:1903",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 1902.6,
+       "end": 1919.0,
+       "dur": 16.4
+      }
+     },
+     {
+      "beat": "gold@18:2162",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 2162.1,
+       "end": 2194.2,
+       "dur": 32.1
+      }
+     },
+     {
+      "beat": "gold@18:2761",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 2761.3,
+       "end": 2803.0,
+       "dur": 41.7
+      }
+     },
+     {
+      "beat": "gold@18:4090",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 18,
+       "start": 4090.0,
+       "end": 4099.5,
+       "dur": 9.5
+      }
+     },
+     {
+      "beat": "gold@19:1067",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 1067.2,
+       "end": 1082.0,
+       "dur": 14.8
+      }
+     },
+     {
+      "beat": "gold@19:1142",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 1141.9,
+       "end": 1166.5,
+       "dur": 24.6
+      }
+     },
+     {
+      "beat": "gold@19:3078",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 3078.5,
+       "end": 3121.7,
+       "dur": 43.2
+      }
+     },
+     {
+      "beat": "gold@19:3236",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 3235.6,
+       "end": 3283.4,
+       "dur": 47.8
+      }
+     },
+     {
+      "beat": "gold@19:3302",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 3302.5,
+       "end": 3307.0,
+       "dur": 4.5
+      }
+     },
+     {
+      "beat": "gold@19:3921",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 3920.6,
+       "end": 3929.7,
+       "dur": 9.1
+      }
+     },
+     {
+      "beat": "gold@19:3952",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 3952.4,
+       "end": 3974.0,
+       "dur": 21.6
+      }
+     },
+     {
+      "beat": "gold@19:5169",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 19,
+       "start": 5169.4,
+       "end": 5246.5,
+       "dur": 77.1
+      }
+     }
+    ]
+   }
+  }
+ }
+}

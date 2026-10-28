@@ -1189,3 +1189,16 @@ before Q1 (README role: bowls open the piece). Full S1–S6 queued
 behind L20 per-window offsets + Fish voice approval.
 THREE-CLOCKS §2 mirror anchor fixed (§4 pointer+beats; §2b2 winding
 reassigned to Path 3) + HANDOVER/FILES rows updated.
+
+## 71. Ladder re-rung per owner (2026-10-28): A 17m / B 49m / C 121m / D 260m
+
+Owner: same dolls (0⊂A⊂B⊂C), new sizes — A ~20m, B ~1h, C ~2h,
+D 4–6h. Analayo-only had already put newA at 17m (no trim needed).
+build_rungs.py rewritten: B = curated subsets (B_PICKS), C/D = B
+prefix + old-A remainders + gold head-fill with FORCED nesting (D
+seeds from C's takes — plain greedy is not budget-monotone, §71
+trap). C budget 1200s, D 2700s. Nesting re-proved mechanically:
+A⊂B⊂C⊂D at all six sections. S4 D runs out at 33m (gold S4 is only
+25m — honest thin). S1 contradiction-first picks hold (§70).
+Dropped: FILL_DROPS table (replaced by prefix scheme), C25/D45/B10
+names (now B/C/D). No audio rendered this pass (owner: don't render).

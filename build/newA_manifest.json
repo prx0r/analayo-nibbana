@@ -1,0 +1,303 @@
+{
+ "budget_s": 340.0,
+ "rule": "analayo-only",
+ "sections": {
+  "1": {
+   "question": "What is Nibbana?",
+   "pointer": {
+    "beat": 1,
+    "reason": "pointer motto",
+    "screen_verbatim": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
+    "screen_plain": "This is peaceful, this is excellent, namely everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+    "analayo": {
+     "lec": 1,
+     "start": 696.8,
+     "end": 709.8,
+     "dur": 13.0
+    },
+    "cost_s": 21.0
+   },
+   "beats": [
+    {
+     "beat": 3,
+     "reason": "CONTRADICTION in commentarial definitions (owner: FIRST)",
+     "screen_verbatim": [
+      "\"Khayamatta na nibbanam\"",
+      "\"To project Nibbana into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\"",
+      "\"To think that the destruction of craving is not sufficient is like trying to give water to one who has already quenched his thirst.\""
+     ],
+     "screen_plain": "",
+     "analayo": {
+      "lec": 1,
+      "start": 4195,
+      "end": 4230,
+      "dur": 35
+     },
+     "cost_s": 43.0
+    },
+    {
+     "beat": 6,
+     "reason": "third-truth resolution \u2014 mass of suffering just before us",
+     "screen_verbatim": [
+      "\"What is the use of a well, if water is there all the time, having cut craving at the root, in search of what should one wander?\""
+     ],
+     "screen_plain": "",
+     "analayo": {
+      "lec": 1,
+      "start": 4230,
+      "end": 4274,
+      "dur": 44
+     },
+     "cost_s": 52.0
+    },
+    {
+     "beat": 11,
+     "reason": "debt/freedom \u2014 payoff, not debt",
+     "screen_verbatim": [
+      "Samsara or reiterated existence is itself a debt, which one can never pay off. When one comes to think of kamma and its result, it is a debt that keeps on gathering an interminable interest.",
+      "Even from this debt the arahants have won freedom by destroying the seeds of kamma, by rendering them infertile."
+     ],
+     "screen_plain": "",
+     "analayo": {
+      "lec": 20,
+      "start": 488,
+      "end": 499,
+      "dur": 11
+     },
+     "cost_s": 19.0
+    }
+   ],
+   "total_s": 142.0
+  },
+  "2": {
+   "question": "Why don't I see Nibbana right now?",
+   "pointer": {
+    "beat": 1,
+    "reason": "pointer dog-ignorance",
+    "screen_verbatim": "Due to the very ignorance of the fact that it is seeing because it is looking, the dog imagines another dog, there, in the water.",
+    "screen_plain": "When a dog, while crossing a stream, stops halfway on the plank and starts wagging its tail and peeping curiously down, the reason is the sight of its own image in the water. It imagines a dog there, a 'water-dog'. The dog thinks that there is something worthwhile seeing, apart from the seen. It is unaware of the fact that it is seeing what it sees because it is looking. It thinks that it is looking because there is something out there to be seen. The moment it realizes that it is seeing because it is looking, it will stop looking at its own image in the water.",
+    "analayo": {
+     "lec": 25,
+     "start": 1906.7,
+     "end": 1916.0,
+     "dur": 9.3
+    },
+    "cost_s": 17.3
+   },
+   "beats": [
+    {
+     "beat": 2,
+     "reason": "whirlpool bodies \u2014 what the blind are caught in",
+     "screen_verbatim": "The basic principle underlying this whirlpool is to be found in our\nbodies. What we call 'breathing' is a continuous process of emptying and\nfilling up. So even the so-called 'life-principle' is not much different\nfrom the activity of a whirlpool. The functioning of the lungs and the\nheart is based on the same principle and the blood circulation is in fact\na whirling round.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 2,
+      "start": 5128.3,
+      "end": 5193.5,
+      "dur": 65.2
+     },
+     "cost_s": 73.2
+    },
+    {
+     "beat": 10,
+     "reason": "akalika immediacy \u2014 seen here and now",
+     "screen_verbatim": "True to the qualities of the Dhamma \u2014 to be seen here and now, not\ninvolving time, and inviting to come and see \u2014 the entire mass of samsaric\nsuffering ceases immediately.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 4,
+      "start": 3142.9,
+      "end": 3199.8,
+      "dur": 56.9
+     },
+     "cost_s": 64.9
+    }
+   ],
+   "total_s": 162.4
+  },
+  "3": {
+   "question": "What keeps it going?",
+   "pointer": {
+    "beat": 1,
+    "reason": "pointer craving-gap",
+    "screen_verbatim": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
+    "screen_plain": "Impelled by that making it into something, it runs towards the mirage... The gap is ignored... What impels one to ignore that gap is craving.",
+    "analayo": {
+     "lec": 33,
+     "start": 1864.7,
+     "end": 1869.2,
+     "dur": 4.5
+    },
+    "cost_s": 12.5
+   },
+   "beats": [
+    {
+     "beat": 4,
+     "reason": "honey-ball chain \u2014 the centerpiece",
+     "screen_verbatim": [
+      "Dependent on the eye and forms, eye-consciousness arises. The meeting of the three is contact. Because of contact, feeling. What one feels, one perceives. What one perceives, one reasons about. What one reasons about, one turns into papa\u00f1ca. What one turns into papa\u00f1ca, owing to that papa\u00f1casa\u00f1\u00f1\u0101sankh\u0101 beset him.",
+      "The comparison of this discourse to a honey-ball is understandable, since it holds the secret of the latent tendencies towards dogmatic views.",
+      "Just as if a man overcome by hunger came upon a honey-ball.",
+      "When vitakka breaks loose and runs riot, it creates a certain deluded state of mind, which is papanca."
+     ],
+     "screen_plain": "",
+     "analayo": {
+      "lec": 12,
+      "start": 1299.0,
+      "end": 1431.0,
+      "dur": 131.7
+     },
+     "cost_s": 139.7
+    }
+   ],
+   "total_s": 159.2
+  },
+  "4": {
+   "question": "How is the sense of self constructed?",
+   "pointer": {
+    "beat": 1,
+    "reason": "pointer mirror+mechanism",
+    "screen_verbatim": "It is when one looks into a mirror that one suddenly becomes self-\nconscious... Even if one already has no such notion, the moment one looks\ninto a mirror one is suddenly reminded of it, as if to exclaim: 'Ah,\nhere I am!'",
+    "screen_plain": "It is when one looks into a mirror that one suddenly becomes self- conscious... Even if one already has no such notion, the moment one looks into a mirror one is suddenly reminded of it, as if to exclaim: 'Ah, here I am!'",
+    "analayo": {
+     "lec": 10,
+     "start": 2208.9,
+     "end": 2232.5,
+     "dur": 23.6
+    },
+    "cost_s": 31.6
+   },
+   "beats": [
+    {
+     "beat": 2,
+     "reason": "anidassana \u2014 what is not constructed",
+     "screen_verbatim": "The sun, the moon and the stars shine precisely because of the presence\nof darkness. In the non-manifestative consciousness there is absolutely\nno darkness for them to shine forth.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 8,
+      "start": 1382.0,
+      "end": 1419.3,
+      "dur": 37.3
+     },
+     "cost_s": 45.3
+    },
+    {
+     "beat": 5,
+     "reason": "barb \u2014 the hook",
+     "screen_verbatim": "He declares that he has seen well in advance 'the barb on which\nmankind is hooked impaled'. The barb is none other than the dogmatic\nassertion, 'I know, I see, it is verily so'.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 25,
+      "start": 711.0,
+      "end": 788.3,
+      "dur": 77.3
+     },
+     "cost_s": 85.3
+    }
+   ],
+   "total_s": 169.2
+  },
+  "5": {
+   "question": "How is Nibbana attained?",
+   "pointer": {
+    "beat": 1,
+    "reason": "pointer Bahiya",
+    "screen_verbatim": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+    "screen_plain": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+    "analayo": {
+     "lec": 14,
+     "start": 4430.4,
+     "end": 4451.9,
+     "dur": 21.5
+    },
+    "cost_s": 29.5
+   },
+   "beats": [
+    {
+     "beat": 4,
+     "reason": "razor warning \u2014 grasping ruins the tool",
+     "screen_verbatim": "With the idea of sharpening the razor, if one grabs it tightly and\nrubs it on the sharpening stone, it will only become blunt. Paramasana,\ngrasping, grabbing, is something like that.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 5,
+      "start": 410.3,
+      "end": 488.2,
+      "dur": 77.9
+     },
+     "cost_s": 85.9
+    },
+    {
+     "beat": 5,
+     "reason": "honing strokes \u2014 technique after warning (\u00a737 pair)",
+     "screen_verbatim": "First: up, up, up, then: down, down, down, and then: up down, up down,\nup down. The third combined movement ensures that those parts of the\nblade still untouched by the stone will also get duly sharpened.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 5,
+      "start": 513.2,
+      "end": 563.8,
+      "dur": 50.6
+     },
+     "cost_s": 58.6
+    }
+   ],
+   "total_s": 181.0
+  },
+  "6": {
+   "question": "What is Nibbana like?",
+   "pointer": {
+    "beat": 1,
+    "reason": "pointer grown-cool",
+    "screen_verbatim": "I am grown cool, extinguished as I am.",
+    "screen_plain": "I am grown cool, extinguished as I am.",
+    "analayo": {
+     "lec": 1,
+     "start": 4009.9,
+     "end": 4014.0,
+     "dur": 4.1
+    },
+    "cost_s": 12.1
+   },
+   "beats": [
+    {
+     "beat": 2,
+     "reason": "chessboard \u2014 the vision",
+     "screen_verbatim": "Now, for the arahant, the whole world appears like a chessboard.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 8,
+      "start": 2787.3,
+      "end": 2835.9,
+      "dur": 48.6
+     },
+     "cost_s": 56.6
+    },
+    {
+     "beat": 4,
+     "reason": "myriad lotuses \u2014 bloom",
+     "screen_verbatim": "Let a myriad arahant lotuses, unsmeared by water and mud, bright\npetalled and sweet scented, bloom all over the forest hermitage pond.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 18,
+      "start": 1252.4,
+      "end": 1274.6,
+      "dur": 22.2
+     },
+     "cost_s": 30.2
+    },
+    {
+     "beat": 11,
+     "reason": "magic-show seen from the stage",
+     "screen_verbatim": "All those who came out of that hall, except this discerning one, were\nspectators. He was not one of the audience, because he had an insight\ninto the magic show from his hiding place on the stage.",
+     "screen_plain": "",
+     "analayo": {
+      "lec": 26,
+      "start": 1650.7,
+      "end": 1749.1,
+      "dur": 98.4
+     },
+     "cost_s": 106.4
+    }
+   ],
+   "total_s": 212.3
+  }
+ }
+}

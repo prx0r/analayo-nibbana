@@ -51,9 +51,9 @@
    "0": [
     {
      "lec": 1,
-     "start": 695.5,
+     "start": 696.8,
      "end": 709.8,
-     "dur": 14.3,
+     "dur": 13.0,
      "src": "core",
      "ci": 0,
      "grade": "A",
@@ -2220,6 +2220,17 @@
      "depth": "A"
     },
     {
+     "lec": 14,
+     "start": 4406,
+     "end": 4429.8,
+     "dur": 23.8,
+     "src": "core",
+     "ci": 0,
+     "grade": "A",
+     "flags": [],
+     "depth": "A"
+    },
+    {
      "lec": 5,
      "start": 513.2,
      "end": 563.8,
@@ -2273,17 +2284,6 @@
      "grade": "A",
      "flags": [],
      "depth": "A"
-    },
-    {
-     "lec": 18,
-     "start": 2307,
-     "end": 2350.0,
-     "dur": 43.0,
-     "src": "core",
-     "ci": 8,
-     "grade": "A",
-     "flags": [],
-     "depth": "A"
     }
    ],
    "B": [
@@ -2292,6 +2292,17 @@
      "start": 4430.4,
      "end": 4451.9,
      "dur": 21.5,
+     "src": "core",
+     "ci": 0,
+     "grade": "A",
+     "flags": [],
+     "depth": "B"
+    },
+    {
+     "lec": 14,
+     "start": 4406,
+     "end": 4429.8,
+     "dur": 23.8,
      "src": "core",
      "ci": 0,
      "grade": "A",
@@ -2349,17 +2360,6 @@
      "dur": 33.7,
      "src": "core",
      "ci": 5,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 18,
-     "start": 2307,
-     "end": 2350.0,
-     "dur": 43.0,
-     "src": "core",
-     "ci": 8,
      "grade": "A",
      "flags": [],
      "depth": "B"
@@ -2387,6 +2387,17 @@
      "depth": "B"
     },
     {
+     "lec": 18,
+     "start": 2307,
+     "end": 2350.0,
+     "dur": 43.0,
+     "src": "core",
+     "ci": 8,
+     "grade": "A",
+     "flags": [],
+     "depth": "B"
+    },
+    {
      "lec": 31,
      "start": 611.2,
      "end": 673.0,
@@ -2407,19 +2418,6 @@
      "grade": "A",
      "flags": [
       "refrain"
-     ],
-     "depth": "B"
-    },
-    {
-     "lec": 14,
-     "start": 4406,
-     "end": 4429.8,
-     "dur": 23.8,
-     "src": "core",
-     "ci": 0,
-     "grade": "A",
-     "flags": [
-      "commentary"
      ],
      "depth": "B"
     },
@@ -2473,6 +2471,17 @@
     },
     {
      "lec": 29,
+     "start": 981.1,
+     "end": 992.2,
+     "dur": 11.1,
+     "src": "gold",
+     "ci": 4,
+     "grade": "B",
+     "flags": [],
+     "depth": "B"
+    },
+    {
+     "lec": 29,
      "start": 3026.2,
      "end": 3033.0,
      "dur": 6.8,
@@ -2494,12 +2503,12 @@
      "depth": "B"
     },
     {
-     "lec": 30,
-     "start": 563.2,
-     "end": 584.2,
-     "dur": 21.0,
+     "lec": 18,
+     "start": 2366.6,
+     "end": 2381.3,
+     "dur": 14.7,
      "src": "gold",
-     "ci": 6,
+     "ci": 8,
      "grade": "A",
      "flags": [],
      "depth": "B"
@@ -2509,28 +2518,6 @@
      "start": 358.5,
      "end": 360.3,
      "dur": 1.8,
-     "src": "gold",
-     "ci": 9,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 29,
-     "start": 1668.1,
-     "end": 1669.3,
-     "dur": 1.2,
-     "src": "gold",
-     "ci": 9,
-     "grade": "A",
-     "flags": [],
-     "depth": "B"
-    },
-    {
-     "lec": 30,
-     "start": 3450.6,
-     "end": 3452.7,
-     "dur": 2.1,
      "src": "gold",
      "ci": 9,
      "grade": "A",
@@ -2551,6 +2538,17 @@
      "depth": "C"
     },
     {
+     "lec": 14,
+     "start": 4406,
+     "end": 4429.8,
+     "dur": 23.8,
+     "src": "core",
+     "ci": 0,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
      "lec": 5,
      "start": 513.2,
      "end": 563.8,
@@ -2606,17 +2604,6 @@
      "depth": "C"
     },
     {
-     "lec": 18,
-     "start": 2307,
-     "end": 2350.0,
-     "dur": 43.0,
-     "src": "core",
-     "ci": 8,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
      "lec": 9,
      "start": 2857.7,
      "end": 2930.1,
@@ -2634,6 +2621,17 @@
      "dur": 57.9,
      "src": "core",
      "ci": 7,
+     "grade": "A",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 18,
+     "start": 2307,
+     "end": 2350.0,
+     "dur": 43.0,
+     "src": "core",
+     "ci": 8,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -2659,19 +2657,6 @@
      "grade": "A",
      "flags": [
       "refrain"
-     ],
-     "depth": "C"
-    },
-    {
-     "lec": 14,
-     "start": 4406,
-     "end": 4429.8,
-     "dur": 23.8,
-     "src": "core",
-     "ci": 0,
-     "grade": "A",
-     "flags": [
-      "commentary"
      ],
      "depth": "C"
     },
@@ -2725,6 +2710,17 @@
     },
     {
      "lec": 29,
+     "start": 981.1,
+     "end": 992.2,
+     "dur": 11.1,
+     "src": "gold",
+     "ci": 4,
+     "grade": "B",
+     "flags": [],
+     "depth": "C"
+    },
+    {
+     "lec": 29,
      "start": 3026.2,
      "end": 3033.0,
      "dur": 6.8,
@@ -2746,12 +2742,12 @@
      "depth": "C"
     },
     {
-     "lec": 30,
-     "start": 563.2,
-     "end": 584.2,
-     "dur": 21.0,
+     "lec": 18,
+     "start": 2366.6,
+     "end": 2381.3,
+     "dur": 14.7,
      "src": "gold",
-     "ci": 6,
+     "ci": 8,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -2761,28 +2757,6 @@
      "start": 358.5,
      "end": 360.3,
      "dur": 1.8,
-     "src": "gold",
-     "ci": 9,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
-     "lec": 29,
-     "start": 1668.1,
-     "end": 1669.3,
-     "dur": 1.2,
-     "src": "gold",
-     "ci": 9,
-     "grade": "A",
-     "flags": [],
-     "depth": "C"
-    },
-    {
-     "lec": 30,
-     "start": 3450.6,
-     "end": 3452.7,
-     "dur": 2.1,
      "src": "gold",
      "ci": 9,
      "grade": "A",
@@ -2857,22 +2831,22 @@
     },
     {
      "lec": 30,
-     "start": 1616.3,
-     "end": 1637.3,
+     "start": 563.2,
+     "end": 584.2,
      "dur": 21.0,
      "src": "gold",
-     "ci": 7,
+     "ci": 6,
      "grade": "A",
      "flags": [],
      "depth": "C"
     },
     {
-     "lec": 18,
-     "start": 2366.6,
-     "end": 2381.3,
-     "dur": 14.7,
+     "lec": 30,
+     "start": 1616.3,
+     "end": 1637.3,
+     "dur": 21.0,
      "src": "gold",
-     "ci": 8,
+     "ci": 7,
      "grade": "A",
      "flags": [],
      "depth": "C"
@@ -3010,10 +2984,10 @@
      "depth": "C"
     },
     {
-     "lec": 11,
-     "start": 1522.8,
-     "end": 1534.1,
-     "dur": 11.3,
+     "lec": 29,
+     "start": 1668.1,
+     "end": 1669.3,
+     "dur": 1.2,
      "src": "gold",
      "ci": 9,
      "grade": "A",
@@ -3021,10 +2995,10 @@
      "depth": "C"
     },
     {
-     "lec": 30,
-     "start": 4963.6,
-     "end": 4966.8,
-     "dur": 3.2,
+     "lec": 29,
+     "start": 3767.3,
+     "end": 3772.8,
+     "dur": 5.5,
      "src": "gold",
      "ci": 9,
      "grade": "A",
@@ -3038,9 +3012,9 @@
    "0": [
     {
      "lec": 1,
-     "start": 4007.2,
+     "start": 4009.9,
      "end": 4014.0,
-     "dur": 6.8,
+     "dur": 4.1,
      "src": "core",
      "ci": 10,
      "grade": "A",

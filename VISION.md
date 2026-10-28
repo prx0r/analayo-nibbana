@@ -98,26 +98,28 @@ phrase stilling right thats the most compressed form of what it is"*)
 and zoom-bell (6s, layer change). Repetition happens at three scales:
 the seed chain, each section's re-open, each layer's recurrence.
 
-## 6. The depths — the owner's four rungs (Russian dolls)
+## 6. The depths — the owner's ladder (Russian dolls, re-rung 2026-10-28:
+seed 2m → A ~3m/q → B 10m/q → C 25m/q → D 45m/q → archive)
 
-**essay 0 = the spine → essay a = expansion of that → essay b =
-expansion of a → essay c = full.** Nested: a ⊂ b ⊂ c, every rung
+**essay 0 = the spine → each rung expands the last.** Nested: every rung
 starting from the spine (why the spine is heard at each rung's head —
-the 4× recurrence law).
+the recurrence law). Analayo-only audio throughout (Fish questions +
+Analayo clips; verbatim+plain on screen).
 
 ONE glossary, no aliases from here on — these are the only names:
 
 | rung | name | §1 example | total |
 |---|---|---|---|
 | 0 | spine | the Q+A, ~20s | 6 micro-sessions (~2m chained) |
-| a | expansion | the core beats unpacking each phrase | ~90m (71 clips) |
-| b | expansion of a | the A-grade argument spans | ~6.5h (599 spans) |
-| c | full | the curated deepening (film C-cells) | ~168m screening |
-| d | archive | the pool files (reference only, never played) | 20.7h, 1196 spans |
+| A newA | highest-signal | pointer + contradiction + resolution + payoff | ~17m (3–4 units × 6) |
+| B | ten-minute | whole old-A where it fits + curated subsets | ~49m |
+| C | twenty-minute | B-prefix + old-A remainders + gold head-fill | ~121m |
+| D | forty-five | C-prefix + deeper gold (S4 runs out at 33m) | ~260m |
+| archive | reference only | the pool files (never played) | 20.7h, 1133 spans |
 
 RETIRED aliases (mine, do not reintroduce): V1/V2/V3,
-seed, zoom layers, "L0–L3". Map only: seed=0, core=a, gold=b,
-pool files=d (archive). c = curated, not complete.
+seed, zoom layers, "L0–L3", essay-a/b/c, core/gold-as-rungs. Map only:
+seed=0, newA=A, old-A⊂B10, old-B⊃C25/D45 fills, pool files=archive.
 
 ## 6b. Earlier formulation (kept for history)
 

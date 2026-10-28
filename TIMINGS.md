@@ -1,8 +1,19 @@
-# TIMINGS — computed from the timestamped build (recomputed 2026-10-26/27
-from build/assemblies: analayo windows + waters/breaths/pauses as built;
-bells excluded (p0), human intros excluded, visual holds excluded).
-Recompute: sum assembly_sN.json analayo durs (raw) + water/breath/pause
-durs (assembled). B/C assembled = estimates via the pause model below.
+# TIMINGS — the ladder (recomputed 2026-10-28; rung manifests in
+# build/newA_manifest.json + build/ladder_manifest.json; analayo-only:
+# Fish questions + Analayo clips; verbatim+plain on screen).
+# Recompute: python3 process/scripts/build_newA.py +
+# python3 process/scripts/build_rungs.py (asserts budgets).
+
+## The ladder (per-question listen path)
+
+| rung | per question | total | what it is |
+|---|---|---|---|
+| 0 seed | ~20s | ~2m | six Q→A pointers chained (31 events) |
+| A newA | ~3–3.5m | ~17m | highest-signal: pointer + 2–4 beats |
+| B | ~5–10m | ~49m | whole old-A where it fits + curated subsets |
+| C | ~20m | ~121m | B-prefix + old-A remainders + gold head-fill |
+| D | ~33–46m | ~260m | C-prefix + deeper gold (S4 runs out at 33m — thin, not padded) |
+| **archive (not a pass)** | | **~20.7h reference** | pool/D files: provenance home, swap source |
 
 ## Rung 0 — THE SEED (six micro-sessions chained)
 
