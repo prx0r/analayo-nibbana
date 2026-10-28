@@ -1451,3 +1451,17 @@ S2 triple<-whirlpool/akalika, S3 craving<-honey/chain/bridge, S4
 mirror<-anidassana/barb/grasp-mirror/peg/painter, S5 Bahiya<-razor/
 honing/signless, S6 grown-cool<-7 vision angles. All hold, no pick
 changes. Dog simile lives in B (S2c13 full arc + ladder fills).
+
+## 85. Fresh A+B renders + HANDOVER refresh (2026-10-28, autonomous)
+
+A re-rendered (old render predated breath/plain/essay-0 changes §77-84).
+B rendered for first time via render_B.py (reads ladder_manifest B picks,
+reuses newA event builder: analayo-only, bell/Q/plain/breath/Analayo).
+Fresh A: seed 3.5m + S1 2.9m + S2 3.0m + S3 3.4m + S4 4.8m + S5 3.4m
++ S6 4.5m = 25.5m rendered (22.3m of speech + pauses).
+Fresh B: seed 3.5m + S1 9.9m + S2 8.4m + S3 10.0m + S4 7.0m + S5 9.6m
++ S6 7.4m = 55.8m rendered (53.8m of speech + pauses).
+Whisper spot-checks: Q→plain→breath→Analayo confirmed; Nirvana spoken;
+subject-first plains; breath before every Analayo.
+HANDOVER numbers refreshed: seed 41 events, pool 1147, render state current.
+No new audio committed (local-only per rule). Verify ALL PASS.

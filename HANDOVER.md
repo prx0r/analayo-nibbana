@@ -147,14 +147,15 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   they decide.
 
 ## Numbers that are true today (recomputed, not remembered)
-Pool 1136 spans ~20.76h · gold 555 · core **83 clips** (71 + 12 hunt §75) ·
-seed 39 events, ~3.7m rendered (bell/Q/plain/answer; plains added §72,
-U2 triple §74) · ladder A 22m / B 54m / C 121m / D 261m, nesting
+Pool 1147 spans ~20.76h · gold 555 · core **83 clips** (71 + 12 hunt §75) ·
+seed 41 events, ~3.5m rendered (bell/Q/plain/breath/answer; breaths added
+§77, U2 triple §74) · ladder A 22m / B 54m / C 121m / D 261m, nesting
 0⊂A⊂B⊂C⊂D proven per section · film screening 291.8m (~4h52, FILM-CUT
 current) · G8 fully green · G5 81/81.
 newA render: build/audio_newA/ (seed + S1..S6 + full, analayo-only,
-bells, Fish Nirvana) — owner listening.
-p0_mix_check PASS 7/7, G9 forced PASS 24/24.
+bells, Fish Nirvana) — fresh render 2026-10-28, all sections validated.
+B render: build/audio_newA/ (same output dir, B rung picks), fresh
+render 2026-10-28. p0_mix_check PASS, G9 PASS.
 
 ## Next queue (in order)
 1. **Taste locks (owner — the packet):** (a) U6 grown-cool stands
@@ -174,6 +175,8 @@ p0_mix_check PASS 7/7, G9 forced PASS 24/24.
    Seed proof rendered to `build/audio_p1/` (bowls→bells, 2.4m, -17.2dB,
    31 events). Full S1–S6 queued behind L20 per-window offsets + Fish
    voice approval. Driver: `process/scripts/render_p1.py [seed|all]`.
+   p1 is now superseded by newA (analayo-only) for current listening;
+   p1 remains for future belled full-A render.
 3. **Cue sheet** (visual-master-plan §7 schema): per beat —
    source_clip, essay_depth, visual_motif, shot_id, audio_cue,
    duration, reuse_from. Absolute timestamps after audio master.
