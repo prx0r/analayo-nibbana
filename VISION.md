@@ -99,13 +99,14 @@ phrase stilling right thats the most compressed form of what it is"*)
 and zoom-bell (6s, layer change). Repetition happens at three scales:
 the seed chain, each section's re-open, each layer's recurrence.
 
-## 6. The depths — the owner's ladder (Russian dolls, re-rung 2026-10-28:
-seed 2m → A ~3m/q → B 10m/q → C 25m/q → D 45m/q → archive)
+## 6. The depths — the owner's ladder (canonical 2026-10-28: RATIOS, not minutes)
 
-**essay 0 = the spine → each rung expands the last.** Nested: every rung
-starting from the spine (why the spine is heard at each rung's head —
-the recurrence law). Analayo-only audio throughout (Fish questions +
-Analayo clips; verbatim+plain on screen).
+**essay 0 = the spine → each rung expands the last (~2–2.5× per rung
+after the ~11× seed jump).** Minutes are today's measurements, never
+targets — the next text keeps the ratios with different minutes.
+Nested: every rung starting from the spine (why the spine is heard at
+each rung's head — the recurrence law). Analayo-only audio throughout
+(Fish questions + Analayo clips; verbatim+plain on screen).
 
 ONE glossary, no aliases from here on — these are the only names:
 
