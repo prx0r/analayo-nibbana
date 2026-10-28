@@ -89,10 +89,10 @@ ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section: 
 PLAIN_RESP_OVERRIDE = {
     1: "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
     2: "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
-    3: "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
+    3: "Wanting keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is wanting.",
     4: "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
-    5: "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
-    6: "Nirvana is like this: I am grown cool, extinguished as I am.",
+    5: "Nirvana is attained thus: in seeing, just the seeing, with no I added. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+    6: "Nirvana is like this: grown cool and gone out, like a flame with no fuel.",
 }
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}

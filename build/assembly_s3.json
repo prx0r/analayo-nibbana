@@ -16,7 +16,7 @@
  {
   "t": "fish",
   "role": "plain",
-  "say": "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
+  "say": "Wanting keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is wanting.",
   "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
  },
  {
@@ -28,7 +28,7 @@
  {
   "t": "verbatim",
   "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
-  "plain": "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
+  "plain": "Wanting keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is wanting.",
   "sermon": 33,
   "essay": 0,
   "note": "ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)"

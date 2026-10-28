@@ -1379,3 +1379,14 @@ QUEUED FOR OWNER (veto list):
    sunnata->"nothing to hold onto".
 10. dhono 8-word lead: code covers <=4-word runs + quoted chunks only;
     hand amendment stands, gap documented (see §77.4).
+
+## 79. No loaded terms in plains (2026-10-28, owner: "what is craving tho?")
+
+Plains must not contain the very terms they explain. Q3 "Craving keeps
+it going" -> "Wanting keeps it going" (key-consistent: tanha->thirst->
+wanting; TEXT/Analayo keep "craving" — translation lives in plain
+only). Q5 head quote-echo -> key's own Bahiya gloss ("in seeing, just
+the seeing, with no I added"); tail kept (formula logic). Q6 quote-echo
+-> "grown cool and gone out, like a flame with no fuel" (reuses Q1's
+established flame vocabulary). Q4 reviewed, kept (everyday words
+throughout: mirror, suddenly, reminded, exclaim). Q1/Q2 stand.
