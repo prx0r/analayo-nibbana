@@ -147,14 +147,13 @@ of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.js
   they decide.
 
 ## Numbers that are true today (recomputed, not remembered)
-Pool 1136 spans ~20.76h · gold 555 (anchors §39 + strays §58 + B* §59 + P-picks §61, + S2
-dog-arc reinstatement §52) ·
-core **83 clips** (71 + 12 hunt §75) · seed 6 units, ~2m (75s pointers) · A 33.2m · B 89.9m ·
-film C-cells 167.9m · **screening 292.3m (~4h52)** · G8 fully green
-(pointer-shrink §51 closed the old rung-0 WARNs). Containment 0⊂A⊂B
-exact (71/71 by overlap, pool⊇gold).
-p0 audio (local-only, §65 render + §67 validation): seed + S1..S6,
-71/71 real voices, Fish Qs, room-bridge beds, dual-pass linear;
+Pool 1136 spans ~20.76h · gold 555 · core **83 clips** (71 + 12 hunt §75) ·
+seed 39 events, ~3.7m rendered (bell/Q/plain/answer; plains added §72,
+U2 triple §74) · ladder A 22m / B 54m / C 121m / D 261m, nesting
+0⊂A⊂B⊂C⊂D proven per section · film screening 291.8m (~4h52, FILM-CUT
+current) · G8 fully green · G5 81/81.
+newA render: build/audio_newA/ (seed + S1..S6 + full, analayo-only,
+bells, Fish Nirvana) — owner listening.
 p0_mix_check PASS 7/7, G9 forced PASS 24/24.
 
 ## Next queue (in order)

@@ -15,6 +15,12 @@
   "role": "recollect"
  },
  {
+  "t": "fish",
+  "role": "plain",
+  "say": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "unit": 1
+ },
+ {
   "t": "verbatim",
   "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
   "plain": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
@@ -45,6 +51,12 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect"
+ },
+ {
+  "t": "fish",
+  "role": "plain",
+  "say": "You do not see Nirvana right now because in the act of your seeing you imagine a world. There is no seer apart from seeing: only looking, nothing worth looking at; only seeing, nothing to be seen.",
+  "unit": 2
  },
  {
   "t": "verbatim",
@@ -101,6 +113,12 @@
   "role": "recollect"
  },
  {
+  "t": "fish",
+  "role": "plain",
+  "say": "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
+  "unit": 3
+ },
+ {
   "t": "verbatim",
   "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
   "plain": "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
@@ -131,6 +149,12 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect"
+ },
+ {
+  "t": "fish",
+  "role": "plain",
+  "say": "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
+  "unit": 4
  },
  {
   "t": "verbatim",
@@ -165,6 +189,12 @@
   "role": "recollect"
  },
  {
+  "t": "fish",
+  "role": "plain",
+  "say": "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+  "unit": 5
+ },
+ {
   "t": "verbatim",
   "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
   "plain": "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
@@ -195,6 +225,12 @@
   "t": "pause",
   "dur": 3.0,
   "role": "recollect"
+ },
+ {
+  "t": "fish",
+  "role": "plain",
+  "say": "Nirvana is like this: I am grown cool, extinguished as I am.",
+  "unit": 6
  },
  {
   "t": "verbatim",

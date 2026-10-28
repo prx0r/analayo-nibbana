@@ -36,7 +36,7 @@ scratch; every rung is the previous rung's argument at a new width.
 - **0 (seed):** the six roots, each answering its question with no leap,
   chain edges demanded by previous answers. Distilled FROM A, never
   retrofitted.
-- **B (gold):** A's flow at 6.3h: sequence law holds, edges clean, mottos
+- **B (gold):** A's flow at 6.9h: sequence law holds, edges clean, mottos
   capped in the manifest. The deep dive that never loses the thread.
 - **C (pool):** the archive: complete (100% of kept material), navigable
   by the same order. Sharpness = order + honesty, not cuts.

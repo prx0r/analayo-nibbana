@@ -11,9 +11,9 @@ produces 3 versions of the same material:
 
 - **V1 Pool** — everything kept, reordered from sermon order into *argument
   order* (6 segments here, ~20.7h). The archive. Navigable, nothing wasted.
-- **V2 Gold** — the A-grade spine only (~6.3h). The deep dive.
-- **V3 Core** — one killer beat per cluster (71 clips, ~93 min Analayo + pads/pauses
-  ≈ 2h). The clearest explanation. Self-contained movies, one per segment.
+- **V2 Gold** — the A-grade spine only (~6.9h). The deep dive.
+- **V3 Core** — one killer beat per cluster (83 clips: 71 + 12 hunt-found §75,
+  ~1.7h Analayo + pads/pauses ≈ 2h). The clearest explanation. Self-contained movies, one per segment.
 
 Each core beat is a fixed 3-layer stack:
 

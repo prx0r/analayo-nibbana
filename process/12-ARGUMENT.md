@@ -155,11 +155,12 @@ suffer). Next time, and as the rule for any rebuild:
    abstract question labels.
 
 Current six (owner-locked chain; each essay 0 is the section's root,
-distilled FROM its A USING the re-derivation test, 2026-10-26):
+distilled FROM its A USING the re-derivation test, 2026-10-26; U2
+replaced by the TRIPLE 2026-10-28, §74):
 Q "What is Nibbana?" ← motto refrain (the definition itself);
-Q "Why don't I see Nibbana right now?" ← dog-ignorance sentence
-(owner-locked 2026-10-26: answers blindness, not caught-in; whirlpool
-demoted to S2 opener with cause, notes §52–53); Q "What keeps it going?"
+Q "Why don't I see Nibbana right now?" ← TRIPLE: maññanā names it +
+only-looking shows it + no-seer nails it (was dog-ignorance, then
+no-seer alone; dog simile stays as the S2 beat); Q "What keeps it going?"
 ← craving-gap; Q "How is the sense of self constructed?" ← mirror
 "Ah, here I am!" + five-groups mechanism in-window (Q4 seam closed on
 transcript, notes §40); Q "How is Nibbana attained?" ← Bahiya;
@@ -169,25 +170,29 @@ Older candidates (twelve-links echo, name-formal, scatter, magic-show,
 kept in notes history only, never revived without re-running the formula.
 
 ### Essay-0 status (audio: essay0_windows.json — ENFORCED pointers, not candidates)
-S1 motto refrain L01 [695.5-709.8] (14s). S2 dog-ignorance sentence L25
-[1906.7-1916.0] (9s; independently quoted S25; full simile stays in S2c13
-whose clip moved to the full reading [1838-1916]). S3 craving-gap
-L33 [1864.7-1870.6] (6s). S4 mirror+mechanism L10 [2208.9-2232.5] (~24s:
-event through "Here I am!" plus "conceit-I arises from the five grasping
-groups", closing before Pali philology 2233+). S5 Bahiya
-L14 [4442.4-4462.3] (20s; YT times too coarse to tighten, ears-confirmed).
-S6 grown-cool L01 [4007.2-4014.0] (7s). Total ≈ 75s. Whirlpool stays S2's
-opening beat (flow-exception in gold), demoted with cause: it answers
-"what am I caught in", not "why am I blind". TEXT layer stays the
-full quotes (provenance); only the spoken window is the pointer.
+S1 motto refrain L01 [696.8-709.8] (13s; head trimmed to "This" by whisper
+word-times, owner ear 2026-10-28). S2 TRIPLE, all L25: maññanā
+[517.9-525.8] (8s) + only-looking [2314.8-2321.2] (6s) + no-seer
+[2443.4-2454.0] (11s); dog simile stays as the S2 beat. S3 craving-gap
+L33 [1864.7-1869.2] (4.5s; dangle trimmed, next sentence 1869.8).
+S4 mirror+mechanism L10 [2208.9-2232.5] (~24s: event through "Here I am!"
+plus "conceit-I arises from the five grasping groups", closing before
+Pali philology 2233+). S5 Bahiya L14 [4430.4-4451.9] DS (21.5s; was
+YT-time, offset 10.0s). S6 grown-cool ENGLISH ONLY L01 [4009.9-4014.0]
+(4s; Pali "Siti bhutosmi" cut, owner ear 2026-10-28). Total ≈ 87s.
+TEXT layer stays the full quotes (provenance); only the spoken windows
+are pointers. Plain responses: PLAIN_RESP_OVERRIDE in make_assembly.py
+(subject-first, owner-ordered).
 
 
 
-## The ritual (bell → question → pause → answer)
+## The ritual (bell → question → pause → plain → answer)
 
 Each section opens the same way, every time, no exceptions:
 
-bell → "What is X?" → pause (recollect the answer) → the intro unfolds
+bell → "What is X?" → pause (recollect the answer) → Fish gives the
+plain-English response → essay-0 (verbatim on screen, archive voice) →
+the intro unfolds
 
 The pause is the mechanism: the listener tries to answer before hearing
 the answer. That retrieval attempt is what makes the answer stick when

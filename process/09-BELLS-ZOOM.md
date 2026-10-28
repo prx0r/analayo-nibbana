@@ -21,7 +21,7 @@ no library bells, no variation. Recognition IS the function.
 - **ZOOM bell** → **L1 CORE** = all 6 section cores in order (~96 min
   Analayo + pads + human intros). §1 replays here — that's intentional:
   first hearing was the promise, second is the proof.
-- **ZOOM bell** → **L2 GOLD** (6.3h, A-only spines, same cluster order).
+- **ZOOM bell** → **L2 GOLD** (6.9h, A-only spines, same cluster order).
   Each gold section opens with its core's beats as a recap, then widens.
 - **ZOOM bell** → **L3 FULL** (20.7h pool, same order). The archive.
 - **Close**: SEED reprise (motto only) + motto bell + 30s silence.

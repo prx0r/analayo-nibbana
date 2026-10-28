@@ -3,7 +3,7 @@ Updated 2026-10-26. Entry point for agents: ../HANDOVER.md.
 
 ## Build outputs (`build/` — committed, this IS the product data)
 Sources (edit only via logged, gated fixes):
-- `segN_pool.json` (N=1..6): **D, the archive** (1196 spans, 20.73h).
+- `segN_pool.json` (N=1..6): **D, the archive** (1147 spans, 20.76h).
   Reference only: provenance home, swap source, completeness proof. NOT
   a listening pass (no sequence law, no motto-cap, no listen order).
   Rung C is the curated deepening (film manifest C-cells); the pool
@@ -84,8 +84,8 @@ three-clocks (cue-sheet spec), FIVE-HOUR-CUT
   legacy /tmp path fallback). Packs 51/52 = movie manual.
 - `lecture-*.transcript.cf.json`, `yt-subs/`, 33 mp3s, `tools/`.
 - `sermon-audio/` (33 readings, tracked) + `sermon-readings/` (33
-  faster-whisper JSONs, tracked) = THE verbatim voice (G5 dies without
-  the JSONs for alignment; mp3s for slicing).
+  faster-whisper JSONs, tracked) = THE verbatim voice (alignment needs
+  the JSONs, slicing needs the mp3s; G5 anchors on the scaffold above).
 
 ## Quarantine (outside repo, never ships)
 `/tmp/opencode/condensed/slop/` — composed-Fish scripts + hand pads.

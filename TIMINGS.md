@@ -8,11 +8,11 @@
 
 | rung | per question | total | what it is |
 |---|---|---|---|
-| 0 seed | ~20s | ~2m | six Q→A pointers chained (31 events) |
-| A newA | ~3–3.5m | ~17m | highest-signal: pointer + 2–4 beats |
-| B | ~5–10m | ~49m | whole old-A where it fits + curated subsets |
+| 0 seed | ~20s | ~2m +Fish | six Q→plain→A pointers chained (39 events) |
+| A newA | ~3–5m | ~22m | highest-signal: pointer + 3–7 beats |
+| B | ~5–10m | ~54m | whole old-A where it fits + curated subsets |
 | C | ~20m | ~121m | B-prefix + old-A remainders + gold head-fill |
-| D | ~33–46m | ~260m | C-prefix + deeper gold (S4 runs out at 33m — thin, not padded) |
+| D | ~33–46m | ~261m | C-prefix + deeper gold (S4 runs out at 33m — thin, not padded) |
 | **archive (not a pass)** | | **~20.7h reference** | pool/D files: provenance home, swap source |
 
 ## Rung 0 — THE SEED (six micro-sessions chained)
@@ -24,22 +24,24 @@
 - unit 5 — How is Nibbana attained? — 0.3 min clip
 - unit 6 — What is Nibbana like? — 0.1 min clip
 
-**Seed total: ~2m** (questions + 3s recollects + water; 31 events)
+**Seed total: ~2m** (analayo pointers + 3s recollects + water; 39 events;
+Fish Qs + plain responses add ~2m at render — rendered seed ~3.7m)
 
 ## Rung A — CORE (assembled: questions, pauses included; bells excluded, p0)
 
 | path | clips | raw speech | assembled |
 |---|---|---|---|
-| 1 | 10 | 8.3 min | **9.2 min** |
-| 2 | 12 | 24.3 min | **25.7 min** |
-| 3 | 14 | 23.6 min | **25.1 min** |
-| 4 | 4 | 4.4 min | **4.9 min** |
-| 5 | 13 | 14.9 min | **16.2 min** |
-| 6 | 12 | 11.0 min | **12.1 min** |
-| **total** | **65** | **86.5 min** | **~1h 34m** |
+| 1 | 13 | 8.5 min | **9.7 min** |
+| 2 | 12 | 24.6 min | **26.0 min** |
+| 3 | 16 | 24.1 min | **25.7 min** |
+| 4 | 7 | 6.0 min | **6.8 min** |
+| 5 | 14 | 15.1 min | **16.4 min** |
+| 6 | 15 | 11.7 min | **13.5 min** |
+| **total** | **77** | **90.0 min** | **~1h 38m** |
 
 Clip counts are HEARD beats (essay-0 host beats consumed by the opening:
-core files hold 71 clips; assemblies play 65 + 6 pointers).
+core files hold 83 clips; assemblies play 77 + 8 pointers — S2's triple
+counts 3 pointer windows).
 
 ## Rung B — GOLD (est. assembled: raw + seam pauses; A-flow order, motto-capped manifests)
 

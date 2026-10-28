@@ -1,7 +1,8 @@
 # REPRODUCE — exact rerun, top to bottom.
 
-Prerequisites: repo + `/tmp/satsang-ext` (51/52/53 packs, verbatim
-home) + transcripts (`lecture-*.transcript.cf.json`, `yt-subs/`) +
+Prerequisites: repo (scaffold vendored at `sources/53-nibbana-scaffold/`;
+legacy `/tmp/satsang-ext` path still works as fallback) + transcripts
+(`lecture-*.transcript.cf.json`, `yt-subs/`) +
 all 33 DS mp3s (10 fetched this session from dharmaseed retreat 4373,
 talk IDs 58720+N, symlinked as `analayo-nibbana-lecture-NN.mp3`).
 `build/` is the LIVE data directory — builders (rebuild_text.py,
@@ -30,7 +31,7 @@ make_assembly.py) read AND write it directly; /tmp is scratch only
    artifact cleanup). Deterministic — hash must match notes.
 6b. Seed: `python3 process/scripts/build_seed.py` (reads assemblies).
 6c. Film manifest: `python3 process/scripts/build_film_manifest.py`
-   (four-depth membership, budgets, flags cache /tmp/film_flags.json).
+   (four-depth membership, budgets, flags cache build/.film_flags_cache.json).
    Data patches that must be present (logged notes §32-32c): head-
    back-ports (S1 L19->348, S6 L27->661.84), pool-move L33 2->3,
    pool-adds L10->4 and L01->6, six essay-0 stacks.

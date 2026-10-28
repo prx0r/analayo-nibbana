@@ -153,7 +153,7 @@ the pick; the four tests live in judgment, run by humans.
 
 ## 9. Current state (live, see CONDENSED-BUILD-NOTES)
 
-- Chain locked (6 questions, formula-tested); seed built (31 events);
+- Chain locked (6 questions, formula-tested); seed built (39 events: bell/Q/pause/plain per unit);
   questions synced across assembly/seed/g7/human-scripts; gates green.
 - Chain LOCKED by owner 2026-10-25 (FINAL): What is Nibbana? ·
   Why don't I see Nibbana right now? · What keeps it going? (Q3

@@ -19,16 +19,16 @@ gates: `process/scripts/g8_film_check.py` (wired into verify.sh as G8).
 
 | ch | question (locked chain) | actual | budget | clips 0/A/B/C |
 |---|---|---|---|---|
-| 1 | What is Nibbana? | 14 / 191 / 599 / 1499 | 30 / 240 / 600 / 1500 | 1/3/9/37 |
-| 2 | Why don't I see Nibbana right now? | 9 / 395 / 1080 / 1979 | 90 / 420 / 1080 / 1980 | 1/2/11/22 |
-| 3 | What keeps it going? | 4 / 387 / 1199 / 2039 | 75 / 420 / 1200 / 2040 | 1/6/19/32 |
-| 4 | How is the sense of self constructed? | 24 / 226 / 478 / 779 | 45 / 240 / 480 / 780 | 1/4/11/28 |
-| 5 | How is Nibbana attained? | 22 / 408 / 1138 / 2099 | 45 / 420 / 1140 / 2100 | 1/7/22/44 |
-| 6 | What is Nibbana like? | 7 / 385 / 900 / 1677 | 75 / 420 / 900 / 1680 | 1/9/17/31 |
-| **total** | | **1.3 / 33.2 / 89.9 / 167.9 min** | **6 / 36 / 90 / 168** | 6/31/89/194 |
+| 1 | What is Nibbana? | 13 / 191 / 599 / 1499 | 30 / 240 / 600 / 1500 | 1/3/9/38 |
+| 2 | Why don't I see Nibbana right now? | 25 / 377 / 1079 / 1979 | 90 / 420 / 1080 / 1980 | 3/3/14/26 |
+| 3 | What keeps it going? | 4 / 397 / 1200 / 2040 | 75 / 420 / 1200 / 2040 | 1/7/20/34 |
+| 4 | How is the sense of self constructed? | 24 / 226 / 480 / 777 | 45 / 240 / 480 / 780 | 1/4/13/28 |
+| 5 | How is Nibbana attained? | 22 / 388 / 1140 / 2099 | 45 / 420 / 1140 / 2100 | 1/7/21/43 |
+| 6 | What is Nibbana like? | 4 / 385 / 883 / 1678 | 75 / 420 / 900 / 1680 | 1/9/22/34 |
+| **total** | | **1.5 / 32.7 / 89.7 / 167.9 min** | **6 / 36 / 90 / 168** | 8/33/89/194 |
 
-**Screening: 292.3 min ≈ 4h 52m** (ceiling 300 + 5m tolerance).
-Unique timeline material (C) = 167.9m; re-encountered = 124.4m (the
+**Screening: 291.8 min ≈ 4h 52m** (ceiling 300 + 5m tolerance).
+Unique timeline material (C) = 167.9m; re-encountered = 124.0m (the
 nesting repetition the doc budgeted at 132m).
 
 Screening map (actual): 0:00–0:01 seed · 0:01–0:35 A · 0:35–2:04 B ·

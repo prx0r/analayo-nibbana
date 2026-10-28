@@ -17,7 +17,7 @@ Core beats per section: 11, 13, 15, 5, 14, 13 = **71**.
 tetralemma, no-footing). No padding was added to round it out; the
 asymmetry is structural. Total Analayo runtime in core: 90.5 min.
 The essay-0 host beat of each section is consumed by the opening
-(pointer replaces it), so the heard A is 65 beats + 6 pointers.
+(pointer replaces it), so the heard A is 77 beats + 8 pointers (S2 triple).
 
 ## The ratio canon (owner 2026-10-28): rungs are RATIOS, not minutes
 

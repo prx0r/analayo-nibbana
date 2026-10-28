@@ -1,12 +1,14 @@
-"""Render the A essay (seed + S1-S6) to mp3 with the full ritual.
+"""Render essays (seed + sections) to mp3 with the full ritual.
 
-Voices: Fish (espeak-ng, flat/mechanical) · Nyananda (sermon slices via
-verbatim_audio_v1.json, espeak placeholder where score<0.40) · Analayo
-(lecture slices, exact). Bells + pauses/breath/water as built.
-seed-reprise = the 6 essay-0 Analayo windows in seed order. human-intro skipped.
+Voices: Fish Audio guide (questions + plain responses, flat) · Analayo
+(lecture slices, exact; sermon-reader path retained for p0/p1 only).
+Modes (module flags, one output dir each, never mixed): p0 draft
+(audio_p0, no bells/plain), p1 (audio_p1, bells+sfx+YT offsets),
+newA (audio_newA, uniform rhythm bell/Q/plain/Analayo, analayo-only).
+Bells + pauses/breath/water as built.
+seed-reprise = the essay-0 Analayo windows in seed order. human-intro skipped.
 
-Out: build/audio_v1/{seed,s1..s6}.mp3 + full_a_essay.mp3 + manifest.json
-Caches slices/vox in build/audio_v1/cache/.
+Out: build/<mode>/{seed,s1..s6}.mp3 + full mp3 + manifest.json (+cache/).
 """
 import json
 import re
@@ -47,8 +49,10 @@ DIRECT_ESSAY0 = True
 P1 = False
 P1_SEED_ONLY = False
 YT_OFF = {}  # lec -> seconds (DS = YT - off); loaded from yt_anchor_map.json
-# Windows already in DS timebase (§64 U5/c2/c3 repairs): never shift these.
-DS_FIXED = {(14, 4406.0), (14, 4430.4)}
+# Windows already in DS timebase (§64 U5/c2/c3 repairs + §75 hunt beats
+# measured in DS): never shift these.
+DS_FIXED = {(14, 4406.0), (14, 4430.4),
+            (14, 2487.0), (6, 1326.9), (20, 2378.7)}
 # L20 drifts: per-window overrides only (constant forbidden, §69).
 # (20,488.0)=S1b11 debt window: anchor @482 gives 8.7, window opens 488.
 PERW = {(20, 488.0): 8.7}
@@ -151,17 +155,16 @@ def silence(dur, dst):
         f'anullsrc=r={SR}:cl=mono:d={dur}', '-c:a', 'pcm_s16le', str(dst))
 
 
-def fish_wav(text, dst, rate=1.0, who='fish'):
-    """Fish Audio voice for questions (owner 2026-10-26: espeak robot out).
+def fish_wav(text, dst):
+    """Fish Audio guide voice: questions + plain responses (owner 2026-10-28:
+    QUESTION, PLAIN, ANALAYO — beat plains stay on screen, analayo-only).
     FREE TIER ONLY — model pinned to s2.1-pro-free, abort anything else
-    (owner: never spend credits). Default voice, flat delivery — Fish asks
-    the question, never narrates. Key from $FISH_API_KEY, else
-    characters/audition/.env (same key the audition build uses); the key
-    is never written anywhere by this script. No silent fallback: API
-    failure aborts the render instead of shipping robot voice (R5).
-    Owner 2026-10-28: speech says NIRVANA (data + gates keep Nibbana).
-    rate<1 lowers pitch for the second (plain) voice — same engine,
-    related-but-distinct feel until the owner picks a real second voice."""
+    (owner: never spend credits). Default voice, flat delivery. Key from
+    $FISH_API_KEY, else characters/audition/.env (same key the audition
+    build uses); the key is never written anywhere by this script. No
+    silent fallback: API failure aborts the render instead of shipping
+    robot voice (R5).
+    Owner 2026-10-28: speech says NIRVANA (data + gates keep Nibbana)."""
     import json as _json
     import os as _os
     import urllib.request as _url
@@ -198,19 +201,11 @@ def fish_wav(text, dst, rate=1.0, who='fish'):
                          'format=duration', '-of', 'csv=p=0', tmp],
                         check=True, capture_output=True, text=True)
     dur = float(dp.stdout.strip())
-    shift = f'asetrate={SR}*{rate},aresample={SR},' if rate != 1.0 else ''
     run('ffmpeg', '-v', 'error', '-y', '-i', tmp, '-ar', str(SR), '-ac', '1',
-        '-c:a', 'pcm_s16le', '-af', shift + VOICE_AF_FISH + ',' + fade_tail(dur),
+        '-c:a', 'pcm_s16le', '-af', VOICE_AF_FISH + ',' + fade_tail(dur),
         str(dst))
     Path(tmp).unlink()
-    assert_audible(dst, f'{who}:{text[:40]}')
-
-
-def plain_wav(text, dst):
-    """Second voice for plain-English answers: same Fish engine pitched to
-    0.9 (related-but-distinct until the owner picks a real second voice).
-    Nirvana substitution + FISH match chain + audibility tripwire."""
-    fish_wav(text, dst, rate=0.9, who='plain')
+    assert_audible(dst, f'fish:{text[:40]}')
 
 
 def room_wav(voice):
@@ -286,8 +281,6 @@ def get_slice(kind, key, ss, to, src, text=''):
         return dst
     if kind == 'vox':
         fish_wav(text, dst)
-    elif kind == 'pln':
-        plain_wav(text, dst)
     elif kind == 'sil':
         silence(to, dst)
     else:
@@ -370,11 +363,13 @@ def newa_events(n, asm, picks):
 
 
 def verbatim_slot(events, i, e, tag, n):
-    """Resolve (s, clip) for a verbatim event (shared by render + voice-id)."""
+    """Resolve (s, clip) for a verbatim event (shared by render + voice-id).
+    Pointer = the event flagged essay 0 (index-free: openings gained a
+    plain event 2026-10-28, so no positional indexing anywhere here)."""
     if tag == 'seed':
         return e['unit'], ESSAY0_BEAT[e['unit']]
-    if i == 3:
-        return n, ESSAY0_BEAT[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
+    if e.get('essay') == 0:
+        return n, ESSAY0_BEAT[n]  # opening essay-0 pointer
     nxt = next(x for x in events[i + 1:] if x['t'] == 'fish' and 'beat' in x)
     return n, nxt['beat']
 
@@ -391,9 +386,10 @@ def voice_after(events, i, tag, n):
             return ('fish',)
         if xt == 'verbatim':
             s, clip = verbatim_slot(events, j, x, tag, n)
-            # Seed stays a DIRECT trailer in every mode; sections go direct
-            # only outside newA (newA's rhythm is reader-first everywhere).
-            if DIRECT_ESSAY0 and (tag == 'seed' or (j == 3 and not NEWA)):
+            # Seed stays a DIRECT trailer in every mode; section essay-0
+            # pointers go direct outside newA (analayo-only: newA skips
+            # all verbatim audio before this is even reached).
+            if DIRECT_ESSAY0 and (tag == 'seed' or (x.get('essay') == 0 and not NEWA)):
                 continue
             a = ALIGN.get((s, clip))
             if not a:
@@ -472,7 +468,7 @@ def render_section(n, events, tag):
                 log.append(f'{e.get("role")}: {say[:60]}')
             elif NO_PLAIN:
                 STATS['plain_skipped'] = STATS.get('plain_skipped', 0) + 1
-                log.append(f'plain SKIPPED (draft: no plain): {e.get("say", "")[:60]}')
+                log.append(f'beat plain on screen (analayo-only): {e.get("say", "")[:60]}')
                 continue
             else:
                 STATS['fish_lines'] += 1
@@ -484,7 +480,7 @@ def render_section(n, events, tag):
         elif t == 'fish-term':
             if NO_PLAIN:
                 STATS['plain_skipped'] = STATS.get('plain_skipped', 0) + 1
-                log.append(f'fish-term SKIPPED (draft: no plain): {e.get("say", "")}')
+                log.append(f'fish-term skipped (beat plains live on screen): {e.get("say", "")}')
                 continue
             STATS['fish_lines'] += 1
             wavs.append(get_slice('vox', f'ft{n}', 0, 0, None, e.get('say', '')))
@@ -526,12 +522,12 @@ def render_section(n, events, tag):
                 continue
             if tag == 'seed':
                 s, clip = e['unit'], ESSAY0_BEAT[e['unit']]
-            elif i == 3:
-                s, clip = n, ESSAY0_BEAT[n]  # opening essay-0 (event order: bell,fish,pause,verbatim)
+            elif e.get('essay') == 0:
+                s, clip = n, ESSAY0_BEAT[n]  # opening essay-0 pointer (flagged)
             else:
                 nxt = next(x for x in events[i + 1:] if x['t'] == 'fish' and 'beat' in x)
                 s, clip = n, nxt['beat']
-            if DIRECT_ESSAY0 and (tag == 'seed' or (i == 3 and not NEWA)):
+            if DIRECT_ESSAY0 and (tag == 'seed' or (e.get('essay') == 0 and not NEWA)):
                 STATS['essay0_direct'] = STATS.get('essay0_direct', 0) + 1
                 log.append(f'essay-0 DIRECT: Q -> Analayo (sermon reader skipped at S{s}B{clip})')
                 continue

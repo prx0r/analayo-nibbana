@@ -1,5 +1,5 @@
-"""newA render driver — uniform rhythm (reader quote -> plain voice-2 ->
-Analayo) -> build/audio_newA/ (seed + S1..S6 + full_newA_essay.mp3).
+"""newA render driver — uniform rhythm (bell/Q/plain/Analayo, analayo-only)
+-> build/audio_newA/ (seed + S1..S6 + full_newA_essay.mp3).
 
 Usage: python3 process/scripts/render_newA.py [seed|all]
 Renders stay local-only, uncommitted (see .gitignore). Data + gates

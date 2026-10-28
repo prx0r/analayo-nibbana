@@ -31,6 +31,10 @@ for i, s in enumerate(range(1, 7)):
     assert ans, f'section {s}: no essay-0 audio'
     seed.append({'t': 'fish', 'role': 'question', 'say': q['say'], 'unit': i + 1})
     seed.append({'t': 'pause', 'dur': 3.0, 'role': 'recollect'})
+    # PLAIN RESPONSE in seed too (owner 2026-10-28: QUESTION, PLAIN,
+    # ANALAYO everywhere — no exceptions, not even the trailer).
+    seed.append({'t': 'fish', 'role': 'plain', 'say': vb.get('plain', ''),
+                 'unit': i + 1})
     seed.append({'t': 'verbatim', 'text': vb['text'], 'plain': vb.get('plain', ''),
                  'sermon': vb.get('sermon'), 'essay': 0, 'unit': i + 1})
     for k, an in enumerate(ans):

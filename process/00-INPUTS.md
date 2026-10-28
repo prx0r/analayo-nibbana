@@ -12,7 +12,8 @@
 
 ## 2. MP3 rendition (someone speaking it)
 - One audio file per unit, same order as the text units (here:
-  `analayo-nibbana-lecture-NN.mp3`, 23/33 present; 10 missing → see gaps).
+  `analayo-nibbana-lecture-NN.mp3`, 33/33 present — 23 native + 10 fetched
+  from dharmaseed retreat 4373, symlinked).
 - Quality bar: single voice, single mic/room if possible (joins go
   invisible). DS-native seconds are the timebase.
 - Missing audio does NOT block text work: cut positions come from

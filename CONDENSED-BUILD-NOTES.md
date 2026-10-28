@@ -1290,3 +1290,20 @@ own minutes). Nesting 0⊂A⊂B⊂C⊂D proven per section; essay-0 triple
 (Q2) + subject-first plains + contradiction-first S1 all locked as
 the canonical essay-0/A shape. Counts today: 506 events, core 83,
 pool 1147. 10-MATHEMATICS ratio section + VISION §6 rewritten.
+
+## 77. Confusion sweep (2026-10-28, owner: "update all stale docs")
+
+Seed carries plains now (39 events, rendered ~3.7m) — the miss that
+broke the file's opening. Render deconfused: index-based essay-0
+checks -> essay flags everywhere (verbatim_slot, both DIRECT checks);
+dead second-voice path (plain_wav/pln/rate) deleted; module docstring
+rewritten (modes p0/p1/newA); stale "draft: no plain" log lines fixed.
+Docs: TIMINGS (seed 39 events, core table 77 clips/90m, ladder A22/B54,
+film rows per-chapter), VISION (ladder ratio canon, seed 39, rung table),
+10-MATHEMATICS (ratio canon, 512 events), FILES (555/1147, scaffold
+vendored), REPRODUCE (prereqs + film cache path), SPEAKER-RULES v5
+(two voices: Fish guide + Analayo teacher), 12-ARGUMENT (ritual with
+plain, current six with U2 triple, enforced windows), 00/03/05/09/13
+(counts), HANDOVER (numbers block current), FILM-CUT (291.8m + rows).
+History files (CONDENSED log itself, dated REVIEWs, MISTAKES) left
+untouched by rule. Verify ALL PASS throughout.
