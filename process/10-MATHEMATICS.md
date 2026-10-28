@@ -19,29 +19,36 @@ asymmetry is structural. Total Analayo runtime in core: 90.5 min.
 The essay-0 host beat of each section is consumed by the opening
 (pointer replaces it), so the heard A is 65 beats + 6 pointers.
 
-## The nesting ratio ≈ 3–4.5 per layer (measured, not set)
-| layer | size | share of previous |
-|---|---|---|
-| D archive | 20.75 h (1,133 spans) | — (reference, not a rung) |
-| V2 gold | 6.9 h (555 spans: A + anchors + documented B*) | ÷3.0 |
-| V3 core | ~1.7 h Analayo (83 clips) | ÷~4 |
-| seed (§1 core) | ~0.21 h Analayo | — |
-| compression | ultimate (1 word: stilling) | ÷everything |
+## The ratio canon (owner 2026-10-28): rungs are RATIOS, not minutes
 
-Pool → core total compression ≈ **13.8×**. The grading rule (A=spine,
-B=flow, C=cut) was never tuned to hit a ratio — ~3–4.5×/layer is the
-material's own density constant. Self-similarity across scales: the
-cluster order is IDENTICAL at pool, gold, and core (same sort key),
+The ladder is defined by nesting (0⊂A⊂B⊂C⊂D, proven per section) and
+by step ratio ≈ **2–2.5× per rung** after the seed jump (~11×). Minutes
+are today's measurements, not targets — the next text keeps the ratios
+with different minutes.
+
+| rung | today | step from previous |
+|---|---|---|
+| 0 seed | ~2m | — (the root) |
+| A newA | ~22m | ~11× (root statement → first expansion) |
+| B | ~54m | ~2.5× |
+| C | ~121m | ~2.2× |
+| D | ~261m | ~2.2× |
+| archive | ~20.7h reference | — (not a rung: provenance home, swap source) |
+
+Seed → archive total compression ≈ **500×** (2m → 20.7h). The grading
+rule was never tuned to hit a ratio — ~2–2.5×/rung is the material's
+own density constant. Self-similarity across scales: the cluster order
+is IDENTICAL at pool, gold, and core (same sort key),
 so each layer is the same walk at a different resolution. That is the
 fractal property, and it is structural, not decorative.
 
-## 440 events, 2 bells
-Assembly manifests (`build/assembly_sN.json` + seed) hold **440 events**
-(recomputed 2026-10-28: +6 plain responses in section openings):
-83 fish lines (6 seed questions + 6 section questions + 65 beat plains +
-6 opening plain responses), 77 verbatims
-(65 beats + 6 essay-0 on-screen texts + 6 seed essay-0 texts), 77 Analayo clips (65 beats + 6
-pointers + 6 seed units), 76 waters, 65 breaths, 17 pauses, 23 fish-terms, 8
+## 506 events, 2 bells
+Assembly manifests (`build/assembly_sN.json` + seed) hold **506 events**
+(recomputed 2026-10-28: +12 hunt beats, +6 plains, U2 triple pointer):
+95 fish lines (12 questions + 77 beat plains +
+6 opening plain responses), 89 verbatims
+(77 beats + 6 essay-0 on-screen texts + 6 seed essay-0 texts), 93 Analayo clips (77 beats + 8
+pointers + 8 seed units), 88 waters, 79 breaths, 17 pauses, 23 fish-terms, 8
 motto-bells, 6 zoom-bells, 6 human-intro slots (empty by design), 1
 seed-reprise, 1 terminal silence.
 - **Motto bell** (bright, 2.5 s decay): section opens (seed + S1–S6)

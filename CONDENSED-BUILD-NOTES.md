@@ -1281,3 +1281,12 @@ appended for all 12 (pool = complete record; S5-L29 twin existed);
 Core 71->83, pool 1136->1147. Ladder now A 22m / B 54m / C 121m /
 D 261m, nesting re-proved. G5 covers new quotes (81+12 via scripts).
 No audio rendered (standing order).
+
+## 76. Ratio canon (2026-10-28, owner: "not the timings, its the ratio")
+
+Ladder canonized as RATIOS: 0 seed, then ~11x to A, ~2-2.5x per rung
+after (A 22m / B 54m / C 121m / D 261m today; next text re-derives its
+own minutes). Nesting 0⊂A⊂B⊂C⊂D proven per section; essay-0 triple
+(Q2) + subject-first plains + contradiction-first S1 all locked as
+the canonical essay-0/A shape. Counts today: 506 events, core 83,
+pool 1147. 10-MATHEMATICS ratio section + VISION §6 rewritten.
