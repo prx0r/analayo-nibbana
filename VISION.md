@@ -87,7 +87,8 @@ makes no sense"* — Nibbana IS the going-out; only fire/muni go).
 ## 5. The ritual
 
 Every section: **motto-bell → Fish asks the question → 3s recollect
-(the listener answers first) → essay 0 on screen → archive voice
+(the listener answers first) → Fish gives the plain-English response
+→ essay 0 on screen → archive voice
 answers.** Nothing wedges between question and answer — no intro
 speaks in that slot (owner: *"intor = what is nibbana fish correct.
 then analayo reading out this is peaceful"*).

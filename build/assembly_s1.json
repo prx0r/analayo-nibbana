@@ -14,6 +14,12 @@
   "note": "listener tries to answer first - this pause IS the learning"
  },
  {
+  "t": "fish",
+  "role": "plain",
+  "say": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
+ },
+ {
   "t": "verbatim",
   "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
   "plain": "This is peaceful, this is excellent, namely, everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",

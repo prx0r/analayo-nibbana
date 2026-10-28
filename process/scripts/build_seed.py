@@ -14,7 +14,9 @@ seed = [{'t': 'motto-bell', 'note': 'SEED opens on the refrain bell'}]
 for i, s in enumerate(range(1, 7)):
     a = json.load(open('%s/build/assembly_s%d.json' % (D, s)))
     q = [e for e in a if e.get('role') == 'question'][0]
-    vb, an = a[3], a[4]
+    # Type-based (2026-10-28: opening gained a plain event; no more indices)
+    vb = next(e for e in a if e['t'] == 'verbatim' and e.get('essay') == 0)
+    an = next(e for e in a if e['t'] == 'analayo')
     seed.append({'t': 'fish', 'role': 'question', 'say': q['say'], 'unit': i + 1})
     seed.append({'t': 'pause', 'dur': 3.0, 'role': 'recollect'})
     seed.append({'t': 'verbatim', 'text': vb['text'], 'plain': vb.get('plain', ''),

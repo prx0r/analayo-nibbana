@@ -35,13 +35,13 @@ cluster order is IDENTICAL at pool, gold, and core (same sort key),
 so each layer is the same walk at a different resolution. That is the
 fractal property, and it is structural, not decorative.
 
-## 434 events, 2 bells
-Assembly manifests (`build/assembly_sN.json` + seed) hold **434 events**
-(recomputed 2026-10-27):
-77 fish lines (6 seed questions + 71 beat questions — every heard beat
-re-opens with its section question before the verbatim), 77 verbatims
-(71 beats + 6 essay-0 on-screen texts), 77 Analayo clips (71 beats + 6
-pointers), 76 waters, 65 breaths, 17 pauses, 23 fish-terms, 8
+## 440 events, 2 bells
+Assembly manifests (`build/assembly_sN.json` + seed) hold **440 events**
+(recomputed 2026-10-28: +6 plain responses in section openings):
+83 fish lines (6 seed questions + 6 section questions + 65 beat plains +
+6 opening plain responses), 77 verbatims
+(65 beats + 6 essay-0 on-screen texts + 6 seed essay-0 texts), 77 Analayo clips (65 beats + 6
+pointers + 6 seed units), 76 waters, 65 breaths, 17 pauses, 23 fish-terms, 8
 motto-bells, 6 zoom-bells, 6 human-intro slots (empty by design), 1
 seed-reprise, 1 terminal silence.
 - **Motto bell** (bright, 2.5 s decay): section opens (seed + S1–S6)

@@ -1202,3 +1202,17 @@ A⊂B⊂C⊂D at all six sections. S4 D runs out at 33m (gold S4 is only
 25m — honest thin). S1 contradiction-first picks hold (§70).
 Dropped: FILL_DROPS table (replaced by prefix scheme), C25/D45/B10
 names (now B/C/D). No audio rendered this pass (owner: don't render).
+
+## 72. Plain response in every opening (2026-10-28, owner: "question,
+plain english response, essay 0 etc")
+
+Section ritual is now bell → Fish Q → 3s recollect → Fish PLAIN
+RESPONSE → essay-0 (verbatim+plain on screen) → Analayo pointer.
+The response text = the host beat's tts_line (existing data, never
+composed); G7a2 gates spoken-voice == screen-text equality. Seed
+stays a trailer (no plains, still ~2m). Fish voices Q + response
+(guide); Analayo voices everything else (teacher) — two voices,
+same every time. build_seed went type-based (positional indices
+broke on insertion). Counts: 440 events, 83 fish (6+65+6+6Q).
+Render support ready (opening plain → Fish vox + nirvana sub);
+no audio rendered (owner: don't render).

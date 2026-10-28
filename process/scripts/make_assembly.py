@@ -73,7 +73,10 @@ for s in range(1, 7):
     sc = json.load(open('%s/seg%d_script.json' % (td, s)))
     byclip = {e['clip']: e for e in sc}
 
-    # ---- OPENING: question -> essay 0 (text on screen, archive voice answers)
+    # ---- OPENING (owner 2026-10-28): question -> PLAIN RESPONSE (Fish
+    # guide voice, plain words) -> essay 0 (verbatim+plain on screen,
+    # archive voice answers). The plain is the host beat's tts_line
+    # (existing data); Fish speaks it, Analayo grounds it.
     oi = ESSAY0_BEAT[s] - 1
     b1 = core[oi]
     b1e = byclip.get(b1.get('clip'))
@@ -81,14 +84,17 @@ for s in range(1, 7):
         b1e = next((y for y in sc
                     if y['analayo']['lec'] == b1['lec']
                     and abs(y['analayo']['start'] - b1['start']) < 3), None)
+    plain0 = (b1e.get('tts_line', '') if b1e else '')
     ev = [
         {'t': 'motto-bell'},
         {'t': 'fish', 'role': 'question', 'say': QUESTIONS[s]},
         {'t': 'pause', 'dur': 3.0, 'role': 'recollect',
          'note': 'listener tries to answer first - this pause IS the learning'},
+        {'t': 'fish', 'role': 'plain', 'say': plain0,
+         'note': 'PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)'},
         {'t': 'verbatim',
          'text': ESSAY0_TEXT.get(s, (b1e.get('nanananda_verbatim', '') if b1e else '')),
-         'plain': (b1e.get('tts_line', '') if b1e else ''),
+         'plain': plain0,
          'sermon': (b1e.get('nanananda_sermon') if b1e else None),
          'essay': 0,
          'note': 'ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)'},
@@ -106,7 +112,9 @@ for s in range(1, 7):
         import sys as _sys
         _sys.path.insert(0, '/root/analayo-nibbana/process/scripts')
         import rebuild_text as _rt
-        ev[3]['plain'] = _rt.tts(_rt.gloss(ev[3]['text']))
+        _plain = _rt.tts(_rt.gloss(ev[4]['text']))
+        ev[3]['say'] = _plain  # Fish plain response matches screen
+        ev[4]['plain'] = _plain
 
     # ---- BEATS 2..N: fixed stack TEXT VERBATIM -> PLAIN ENGLISH -> AUDIO
     for i, x in enumerate(core):

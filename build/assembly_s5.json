@@ -14,6 +14,12 @@
   "note": "listener tries to answer first - this pause IS the learning"
  },
  {
+  "t": "fish",
+  "role": "plain",
+  "say": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
+  "note": "PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)"
+ },
+ {
   "t": "verbatim",
   "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
   "plain": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",

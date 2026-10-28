@@ -8,9 +8,11 @@ failure class this gate exists for (S2/S5 motto-echoes, 2026-10-24).
 
 Checks:
   G7a structure  — per section: event order is exactly
-                   motto-bell -> fish(question) -> pause -> verbatim(essay 0,
-                   non-empty text+plain) -> analayo(audio); question
-                   non-empty, ends in '?', all 6 distinct.
+                   motto-bell -> fish(question) -> pause -> fish(plain
+                   response, non-empty, == verbatim plain) ->
+                   verbatim(essay 0, non-empty text+plain) ->
+                   analayo(audio); question non-empty, ends in '?',
+                   all 6 distinct.
   G7b chain      — regression canary: for s2..s6 the essay-0 verbatim
                    must NOT be the motto ("This is peaceful..."). The
                    motto answers Q1 only; if it reappears as another
@@ -38,6 +40,10 @@ QUESTIONS_EXPECTED = {
 }
 # essay 0 lengths (soft budget)
 PLAIN_MAX_WORDS = 80
+# Spoken plain responses run longer than screen compression (S2's dog
+# story is 108w — owner-ordered spoken answer, 2026-10-28). Separate
+# ceiling for the response; the TEXT compression rule is unchanged.
+PLAIN_RESP_MAX_WORDS = 120
 VERBATIM_MAX_CHARS = 600
 
 
@@ -51,15 +57,16 @@ def main():
     print('-- essay 0, per section --')
     for s in range(1, 7):
         ev = json.load(open('%s/assembly_s%d.json' % (D, s)))
-        # structure: first five events in fixed order
-        head = [e['t'] for e in ev[:5]]
-        want = ['motto-bell', 'fish', 'pause', 'verbatim', 'analayo']
+        # structure: first six events in fixed order (plain response
+        # between recollect and essay-0, owner 2026-10-28)
+        head = [e['t'] for e in ev[:6]]
+        want = ['motto-bell', 'fish', 'pause', 'fish', 'verbatim', 'analayo']
         if head != want:
             bad.append(('S%d' % s, 'open-order', head))
-        if len(ev) < 5:
+        if len(ev) < 6:
             bad.append(('S%d' % s, 'too-short', len(ev)))
             continue
-        q, pb, vb, an = ev[1], ev[2], ev[3], ev[4]
+        q, pb, vb, an = ev[1], ev[3], ev[4], ev[5]
         # G7a: question sane
         if q.get('role') != 'question':
             bad.append(('S%d' % s, 'no-question-role', q.get('role')))
@@ -68,11 +75,16 @@ def main():
             bad.append(('S%d' % s, 'question-unsynced', qtxt))
         if not qtxt.endswith('?') or not qtxt.strip():
             bad.append(('S%d' % s, 'not-a-question', qtxt))
-        # essay 0 present
+        # G7a2: plain response present, spoken == screen (voice matches text)
+        if pb.get('role') != 'plain' or not pb.get('say', '').strip():
+            bad.append(('S%d' % s, 'no-plain-response', pb.get('role')))
         vtxt = vb.get('text', '')
         if isinstance(vtxt, list):
             vtxt = ' // '.join(str(x) for x in vtxt)
         pt = vb.get('plain', '')
+        if pb.get('say', '') != pt or not pt.strip():
+            bad.append(('S%d' % s, 'plain-unsynced',
+                        (pb.get('say', '')[:40], str(pt)[:40])))
         if vb.get('essay') != 0:
             bad.append(('S%d' % s, 'essay-tag', vb.get('essay')))
         if not vtxt.strip():
@@ -81,9 +93,9 @@ def main():
             bad.append(('S%d' % s, 'essay0-empty-plain', ''))
         if an.get('start') is None:
             bad.append(('S%d' % s, 'essay0-no-audio', ''))
-        # G7c gold-dust budgets
+        # G7c gold-dust budgets (text compressed; response ceiling separate)
         w, c = words(pt), len(vtxt)
-        if w > PLAIN_MAX_WORDS:
+        if w > PLAIN_RESP_MAX_WORDS:
             bad.append(('S%d' % s, 'essay0-fat-plain-%dwords' % w, ''))
         if c > VERBATIM_MAX_CHARS:
             bad.append(('S%d' % s, 'essay0-fat-verbatim-%dch' % c, ''))
@@ -98,7 +110,7 @@ def main():
     # G7b motto-echo regression (the S2/S5 failure, pinned)
     for s in range(2, 7):
         ev = json.load(open('%s/assembly_s%d.json' % (D, s)))
-        vtxt = ev[3].get('text', '')
+        vtxt = ev[4].get('text', '')
         if isinstance(vtxt, list):
             vtxt = ' // '.join(str(x) for x in vtxt)
         if re.match(r'\s*(This is peaceful|This is sublime)', vtxt):
