@@ -1437,3 +1437,17 @@ No render (standing order).
 Nothing to stand on, nowhere to land — neither here, nor there, nor
 in between." All three verbs already in corpus (carry/stand/land);
 no new claims. Full U5 plain now 40w.
+
+## 84. Essay-0 canonical file + A-follows check (2026-10-28, owner)
+
+build/essay0.json is now THE essay-0 (Q + plain + TEXT + audio per
+unit); make_assembly reads it (QUESTIONS stays in code for g8's
+parser, with a drift assert). essay0_windows.json DELETED (sole
+reader was make_assembly). g5 reads essay0.json texts directly (ast
+hack gone). Rebuild proves the refactor: assemblies byte-identical
+except the pointer note path. A-follows re-derivation re-run per
+section (compress A to one sentence vs pointer): S1 motto<-definitions,
+S2 triple<-whirlpool/akalika, S3 craving<-honey/chain/bridge, S4
+mirror<-anidassana/barb/grasp-mirror/peg/painter, S5 Bahiya<-razor/
+honing/signless, S6 grown-cool<-7 vision angles. All hold, no pick
+changes. Dog simile lives in B (S2c13 full arc + ladder fills).

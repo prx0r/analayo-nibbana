@@ -20,39 +20,6 @@ from collections import Counter
 
 D = '/root/analayo-nibbana'
 td = '/root/analayo-nibbana/build'
-# Essay-0 AUDIO pointers (owner 2026-10-26: pointers, not explanations).
-# Canonical single source: build/essay0_windows.json (all other ESSAY0
-# copies were deleted — R6). TEXT still comes from the script beat
-# (ESSAY0_BEAT below); only the spoken window is the pointer.
-E0W = {int(k): v for k, v in
-       json.load(open(td + '/essay0_windows.json')).items()}
-# Triple-pointer normalization (S2, owner 2026-10-28): a section's essay-0
-# may be N windows (list) instead of one {start,end}. E0WINS[s] is always
-# a list of (lec, start, end).
-def _wins(s):
-    w = E0W[s]
-    if 'windows' in w:
-        return [(w['lec'], a, b) for (a, b) in w['windows']]
-    return [(w['lec'], w['start'], w['end'])]
-E0WINS = {s: _wins(s) for s in E0W}
-# Essay-0 TEXT overrides (default: the essay-0 beat's verbatim). S2's text
-# is the ignorance sentence alone (independently quoted S25 lines 88-90;
-# full simile stays in S2c13 where the screen needs the dog named).
-# Owner pick 2026-10-26. Plain/tts derived deterministically below.
-ESSAY0_TEXT = {
-    # S2 = TRIPLE (owner 2026-10-28: all three in essay-0; was dog-ignorance,
-    # then no-seer alone). All G5-anchored sermon-25 quotes; Analayo speaks
-    # each near-verbatim (L25 518 / 2315 / 2443). Dog simile stays as beat.
-    2: ["Due to the very ignorance of the fact that it is seeing because "
-        "it is looking, the dog imagines another dog, there, in the "
-        "water. What is called maññanā is an imagining of that sort.",
-        "Only a looking is there, nothing worth looking at. Only a "
-        "seeing is there, nothing to be seen. Apart from the bare act "
-        "of hearing, there is nothing to be heard.",
-        "There is no seer, apart from the phenomenon of seeing, "
-        "according to the Tathāgata... For the worldling, the bare act "
-        "of seeing carries with it a perception of 'one who sees'."],
-}
 
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
@@ -72,6 +39,15 @@ QUESTIONS = {
     5: "How is Nibbana attained?",
     6: "What is Nibbana like?",
 }
+# Essay 0, CANONICAL single source (owner 2026-10-28: "save this
+# canonically as 0"): build/essay0.json holds question + plain response +
+# verbatim TEXT + pointer audio per unit. Builders read it; nobody
+# duplicates it (R6). QUESTIONS stays in code (g8_film_check parses this
+# block); ESSAY0_BEAT stays (essay-0 host beat identity for the loop).
+E0 = json.load(open(td + '/essay0.json'))['units']
+for _s in ('1', '2', '3', '4', '5', '6'):
+    assert E0[_s]['question'] == QUESTIONS[int(_s)], \
+        'essay0.json question drifted from code QUESTIONS'
 # Essay 0 per section (the beat whose answer IS the question's reply).
 # S2 b1 = the whirlpool-in-our-bodies quote on the L02 [5128-5193]
 # window (Analayo speaks the answer aloud: "Samsara is a whirlpool as
@@ -79,21 +55,7 @@ QUESTIONS = {
 # the motto-echo that merely repeated essay-0 unit 1 (owner: "2 doesnt
 # answer the question for 2"). S3 b5 "What impels one to ignore that
 # gap is craving" answers "What keeps it going?".
-ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section: TEXT identity (audio: essay0_windows.json). S2=13 dog-seeing (owner pick 2026-10-26; was 1 whirlpool)
-# PLAIN responses, owner-ordered 2026-10-28: subject-first ("Nirvana is
-# when..."), point-before-story (Q2's answer led with the plank tale).
-# Built ONLY from existing plain words + question echoes — no new claims.
-# Overrides the host beat's tts_line for the opening plain (Fish) and the
-# on-screen plain alike (G7a2 keeps voice == screen). Veto/edited only by
-# the owner, like question wording.
-PLAIN_RESP_OVERRIDE = {
-    1: "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
-    2: "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
-    3: "Thirst keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is thirst.",
-    4: "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
-    5: "Nirvana is only attained now: in seeing, just the seeing, with no I added. Then it will not carry you. Nothing to stand on, nowhere to land — neither here, nor there, nor in between. This itself is the end of suffering.",
-    6: "like a flame with no fuel.",
-}
+ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # essay-0 host beat per section (which core clip the opening consumes; TEXT/AUDIO/plain all come from build/essay0.json). S2 host = dog arc (stays a beat; essay-0 content overridden by the triple).
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}
@@ -108,8 +70,7 @@ for s in range(1, 7):
 
     # ---- OPENING (owner 2026-10-28): question -> PLAIN RESPONSE (Fish
     # guide voice, plain words) -> essay 0 (verbatim+plain on screen,
-    # archive voice answers). The plain is the host beat's tts_line
-    # (existing data); Fish speaks it, Analayo grounds it.
+    # archive voice answers). All essay-0 content from build/essay0.json.
     oi = ESSAY0_BEAT[s] - 1
     b1 = core[oi]
     b1e = byclip.get(b1.get('clip'))
@@ -117,7 +78,8 @@ for s in range(1, 7):
         b1e = next((y for y in sc
                     if y['analayo']['lec'] == b1['lec']
                     and abs(y['analayo']['start'] - b1['start']) < 3), None)
-    plain0 = PLAIN_RESP_OVERRIDE[s]
+    E0U = E0[str(s)]
+    plain0 = E0U['plain']
     ev = [
         {'t': 'motto-bell'},
         {'t': 'fish', 'role': 'question', 'say': QUESTIONS[s]},
@@ -130,20 +92,19 @@ for s in range(1, 7):
         {'t': 'breath', 'dur': 1.5, 'role': 'voice-change',
          'note': 'air between guide voice and archive voice'},
         {'t': 'verbatim',
-         'text': ESSAY0_TEXT.get(s, (b1e.get('nanananda_verbatim', '') if b1e else '')),
+         'text': E0U['text'],
          'plain': plain0,
          'sermon': (b1e.get('nanananda_sermon') if b1e else None),
          'essay': 0,
          'note': 'ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)'},
     ]
-    # Essay-0 AUDIO pointer(s): one analayo event per window, all flagged
-    # essay 0 (S2 triple). Waters/breaths between pointer parts: 1.5s breath
-    # (same voice, same lecture — a breath, not a water).
-    wins = E0WINS[s]
+    # Essay-0 AUDIO pointer(s): one analayo event per canon window, all
+    # flagged essay 0 (S2 triple). 1.5s breath between parts (same voice).
+    wins = [(w['lec'], w['start'], w['end']) for w in E0U['audio']]
     for j, (lec, ss, ee) in enumerate(wins):
         ev.append({'t': 'analayo', 'lec': lec, 'start': ss, 'end': ee,
                    'dur': round(ee - ss, 1), 'essay': 0,
-                   'note': 'ESSAY 0 AUDIO %d/%d: pointer (essay0_windows.json)'
+                   'note': 'ESSAY 0 AUDIO %d/%d: pointer (build/essay0.json)'
                            % (j + 1, len(wins))})
         if j < len(wins) - 1:
             ev.append({'t': 'breath', 'dur': 1.5})

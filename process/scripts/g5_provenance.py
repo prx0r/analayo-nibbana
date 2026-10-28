@@ -74,23 +74,16 @@ def main():
                 if not any((chr(34) + qn + chr(34)) in raw for raw in files):
                     bad += 1
                     miss.append((s, e['clip'], qn[:60]))
-    # Essay-0 TEXT overrides (make_assembly.ESSAY0_TEXT) bypass the scripts —
-    # anchor them too (S2 triple, owner 2026-10-28). Same rule, no exceptions.
-    # Parsed via ast (importing make_assembly would re-run its build loop).
-    import ast as _ast
-    _mod = _ast.parse(open('process/scripts/make_assembly.py').read())
-    _e0t = {}
-    for _node in _mod.body:
-        if isinstance(_node, _ast.Assign) and any(
-                getattr(_t, 'id', '') == 'ESSAY0_TEXT' for _t in _node.targets):
-            _e0t = _ast.literal_eval(_node.value)
-    for s, v in _e0t.items():
+    # Essay-0 TEXT (build/essay0.json, canonical) bypasses the scripts —
+    # anchor it too (S2 triple, owner 2026-10-28). Same rule, no exceptions.
+    for _u in json.load(open('build/essay0.json'))['units'].values():
+        v = _u.get('text', '')
         for q in (v if isinstance(v, list) else [v]):
             total += 1
             qn = normstrip(q)
             if not any((chr(34) + qn + chr(34)) in raw for raw in files):
                 bad += 1
-                miss.append((s, 'essay0', qn[:60]))
+                miss.append(('essay0', _u.get('question', '')[:30], qn[:60]))
     print('G5 provenance %d/%d (semantic quote-anchor)' % (total - bad, total))
     if bad:
         for m in miss[:8]:

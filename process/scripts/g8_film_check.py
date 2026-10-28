@@ -22,7 +22,7 @@ CHAIN = {
 fails, warns = [], []
 
 # chain sync with the audio build source (QUESTIONS block only — the
-# PLAIN_RESP_OVERRIDE table below it matches the same line shape)
+# (chain lives in the QUESTIONS block only)
 src = open('process/scripts/make_assembly.py').read()
 qblock = src.split('QUESTIONS = {')[1].split('}')[0]
 live = {int(i): q.replace('\\"', '"')

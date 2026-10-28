@@ -44,7 +44,7 @@
   "end": 525.8,
   "dur": 7.9,
   "essay": 0,
-  "note": "ESSAY 0 AUDIO 1/3: pointer (essay0_windows.json)"
+  "note": "ESSAY 0 AUDIO 1/3: pointer (build/essay0.json)"
  },
  {
   "t": "breath",
@@ -57,7 +57,7 @@
   "end": 2321.2,
   "dur": 6.4,
   "essay": 0,
-  "note": "ESSAY 0 AUDIO 2/3: pointer (essay0_windows.json)"
+  "note": "ESSAY 0 AUDIO 2/3: pointer (build/essay0.json)"
  },
  {
   "t": "breath",
@@ -70,7 +70,7 @@
   "end": 2454.0,
   "dur": 10.6,
   "essay": 0,
-  "note": "ESSAY 0 AUDIO 3/3: pointer (essay0_windows.json)"
+  "note": "ESSAY 0 AUDIO 3/3: pointer (build/essay0.json)"
  },
  {
   "t": "water",

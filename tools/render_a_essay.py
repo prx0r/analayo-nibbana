@@ -22,7 +22,7 @@ BUILD = D / 'build'
 SR = 44100
 FISH_RATE = 150  # wpm, flat
 ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section, TEXT identity only.
-# Canonical essay-0 AUDIO windows live in build/essay0_windows.json and ride
+# Canonical essay-0 answers live in build/essay0.json and ride
 # inside assemblies (seed + section openers) — this file never defines windows
 # (single-source rule, R6; deleted the duplicate 2026-10-26 pointers).
 
