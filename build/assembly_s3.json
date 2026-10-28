@@ -33,7 +33,8 @@
   "start": 1864.7,
   "end": 1869.2,
   "dur": 4.5,
-  "note": "ESSAY 0 AUDIO: pointer, not explanation (essay0_windows.json)"
+  "essay": 0,
+  "note": "ESSAY 0 AUDIO 1/1: pointer (essay0_windows.json)"
  },
  {
   "t": "water",

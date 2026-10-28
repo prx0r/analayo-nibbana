@@ -116,7 +116,7 @@ ONE glossary, no aliases from here on — these are the only names:
 | B | ten-minute | whole old-A where it fits + curated subsets | ~49m |
 | C | twenty-minute | B-prefix + old-A remainders + gold head-fill | ~121m |
 | D | forty-five | C-prefix + deeper gold (S4 runs out at 33m) | ~260m |
-| archive | reference only | the pool files (never played) | 20.7h, 1133 spans |
+| archive | reference only | the pool files (never played) | 20.7h, 1136 spans |
 
 RETIRED aliases (mine, do not reintroduce): V1/V2/V3,
 seed, zoom layers, "L0–L3", essay-a/b/c, core/gold-as-rungs. Map only:

@@ -59,3 +59,6 @@ L26 1451.4-1459.3 A lecture-26.mp3
 L26 3499.2-3506.9 A lecture-26.mp3
 L26 4415.9-4463.0 A lecture-26.mp3
 L29 3685.1-3711.3 A lecture-29.mp3
+L25 517.9-525.8 A lecture-25.mp3
+L25 2314.8-2321.2 A lecture-25.mp3
+L25 2443.4-2454.0 A lecture-25.mp3

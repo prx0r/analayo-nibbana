@@ -125,16 +125,16 @@
    },
    "2": {
     "question": "Why don't I see Nibbana right now?",
-    "total_s": 497.0,
+    "total_s": 512.6,
     "units": [
      {
       "beat": 1,
       "reason": "pointer dog",
       "analayo": {
        "lec": 25,
-       "start": 1906.7,
-       "end": 1916.0,
-       "dur": 9.3
+       "start": 517.9,
+       "end": 525.8,
+       "dur": 7.9
       }
      },
      {
@@ -693,16 +693,16 @@
    },
    "2": {
     "question": "Why don't I see Nibbana right now?",
-    "total_s": 1229.3,
+    "total_s": 1200.8,
     "units": [
      {
       "beat": 1,
       "reason": "pointer dog",
       "analayo": {
        "lec": 25,
-       "start": 1906.7,
-       "end": 1916.0,
-       "dur": 9.3
+       "start": 517.9,
+       "end": 525.8,
+       "dur": 7.9
       }
      },
      {
@@ -806,13 +806,13 @@
       }
      },
      {
-      "beat": "gold@3:364",
+      "beat": "gold@26:4070",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
-       "lec": 3,
-       "start": 363.5,
-       "end": 411.4,
-       "dur": 47.9
+       "lec": 26,
+       "start": 4070.2,
+       "end": 4074.0,
+       "dur": 3.8
       }
      }
     ]
@@ -2111,16 +2111,16 @@
    },
    "2": {
     "question": "Why don't I see Nibbana right now?",
-    "total_s": 2734.4,
+    "total_s": 2733.6,
     "units": [
      {
       "beat": 1,
       "reason": "pointer dog",
       "analayo": {
        "lec": 25,
-       "start": 1906.7,
-       "end": 1916.0,
-       "dur": 9.3
+       "start": 517.9,
+       "end": 525.8,
+       "dur": 7.9
       }
      },
      {
@@ -2224,13 +2224,13 @@
       }
      },
      {
-      "beat": "gold@3:364",
+      "beat": "gold@26:4070",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
-       "lec": 3,
-       "start": 363.5,
-       "end": 411.4,
-       "dur": 47.9
+       "lec": 26,
+       "start": 4070.2,
+       "end": 4074.0,
+       "dur": 3.8
       }
      },
      {
@@ -2314,6 +2314,16 @@
       }
      },
      {
+      "beat": "gold@3:364",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 3,
+       "start": 363.5,
+       "end": 411.4,
+       "dur": 47.9
+      }
+     },
+     {
       "beat": "gold@22:246",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -2354,16 +2364,6 @@
       }
      },
      {
-      "beat": "gold@26:4070",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 26,
-       "start": 4070.2,
-       "end": 4074.0,
-       "dur": 3.8
-      }
-     },
-     {
       "beat": "gold@26:4108",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -2394,13 +2394,13 @@
       }
      },
      {
-      "beat": "gold@6:5128",
+      "beat": "gold@4:2826",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
-       "lec": 6,
-       "start": 5127.8,
-       "end": 5168.8,
-       "dur": 41.0
+       "lec": 4,
+       "start": 2825.7,
+       "end": 2850.3,
+       "dur": 24.6
       }
      }
     ]

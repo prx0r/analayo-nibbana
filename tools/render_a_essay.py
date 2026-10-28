@@ -325,14 +325,21 @@ def verbatim_wavs(s, clip, text, sermon):
 def newa_events(n, asm, picks):
     """Analayo-only new-A section events: opening (bell/Q/pause/plain/
     pointer-analayo/water) + picked beats (analayo + surrounding pauses).
-    Verbatim lives on screen; fish-term/human-intro never taken."""
+    Verbatim lives on screen; fish-term/human-intro never taken.
+    Beat numbering is STABLE (pointer triple = beat 1, see build_newA)."""
     ab, cur = {}, []
-    n_ana = 0
-    for e in asm:
+    anas = [i for i, e in enumerate(asm) if e['t'] == 'analayo']
+    j = 0
+    while j < len(anas) and asm[anas[j]].get('essay') == 0:
+        j += 1
+    assert j >= 1, 'no essay-0 pointer'
+    ab[1] = asm[:anas[j - 1] + 1]
+    n = 1
+    for e in asm[anas[j - 1] + 1:]:
         cur.append(e)
         if e['t'] == 'analayo':
-            n_ana += 1
-            ab[n_ana] = cur
+            n += 1
+            ab[n] = cur
             cur = []
     full = [e for _, evs in sorted(ab.items()) for e in evs]
     assert any(e['t'] == 'verbatim' for e in ab[1]), 'no pointer verbatim'

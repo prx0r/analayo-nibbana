@@ -38,7 +38,10 @@ QUESTIONS = [  # (match_from, distinctive substring)
 SEED_KEYS = [  # essay-0 must-hear phrases, in unit order
     # plain strings match as substrings; lists = whisper-stable variants
     'peaceful, this is excellent',
-    'dog imagines another dog',
+    # U2 TRIPLE (owner 2026-10-28): all three required, in pointer order
+    [['no seer apart', 'nose ear apart'],
+     ['manyana', 'man yana', 'mad yana'],
+     ['nothing worth looking', 'nothing to be seen']],
     'craving',
     'here i am',
     ['grasping group', 'conceit'],
@@ -167,11 +170,18 @@ def main():
         else:
             print('seed questions 6/6 heard, wide-pass order ok')
     for k in SEED_KEYS:
-        variants = k if isinstance(k, list) else [k]
-        if any(norm(v) in nt for v in variants):
-            print('seed key phrase present: %r' % (variants[0],))
+        # A triple entry (S2) requires ALL THREE groups; else any-variant.
+        groups = k if (isinstance(k, list) and k and isinstance(k[0], list)) else [k]
+        miss = []
+        for g in groups:
+            variants = g if isinstance(g, list) else [g]
+            if not any(norm(v) in nt for v in variants):
+                miss.append(variants[0])
+        if not miss:
+            shown = groups[0][0] if isinstance(groups[0], list) else groups[0]
+            print('seed key phrase present: %r' % (shown,))
         else:
-            fails.append('seed missing essay-0 phrase: %r' % (variants[0],))
+            fails.append('seed missing essay-0 phrase: %r' % (miss[0],))
     # 2. seam regression (pad +8s so closing words survive VAD; bans are
     # scoped to the verbatim slice end via word times, so following speech
     # can't false-trigger). Optional 8th element overrides the pad.

@@ -96,7 +96,10 @@ def overlap(a, b):
     return a['lec'] == b['lec'] and (min(a['end'], b['end']) - max(a['start'], b['start'])) > 0
 
 seed = json.load(open('%s/build/assembly_s0_seed.json' % D))
-e0win = [e for e in seed if e['t'] == 'analayo']
+e0units = {}
+for e in seed:
+    if e['t'] == 'analayo':
+        e0units.setdefault(e.get('unit'), []).append(e)
 
 manifest = {'budgets_s': {str(k): list(v) for k, v in BUD.items()}, 'questions': QS, 'chapters': {}}
 grand = {'0': 0, 'A': 0, 'B': 0, 'C': 0}
@@ -106,15 +109,29 @@ for s in range(1, 7):
     gold = json.load(open('%s/build/seg%d_gold.json' % (D, s)))
     for i, c in enumerate(core):
         c['_src'], c['_fi'], c['_flags'] = 'core', i, flags_of(s, c)
-    lec0, st0, en0 = e0win[s - 1]['lec'], e0win[s - 1]['start'], e0win[s - 1]['end']
-    # Essay-0 pointers live INSIDE core clips (essay0_windows.json), not on
-    # their boundaries: containment, not start-identity (2026-10-26 pointers).
-    e0 = next((c for c in core if c['lec'] == lec0 and c['start'] - 3 <= st0
-               and en0 <= c['end'] + 3), None)
-    assert e0, 'e0 pointer not inside any core clip for section %d' % s
+    for i, c in enumerate(gold):
+        c['_src'] = 'gold'
+    # Essay-0 pointers live INSIDE core clips (2026-10-26 pointers) — or
+    # inside gold essay0-anchors (§39 pattern, S2 triple 2026-10-28).
+    hosts = []
+    for e0w in e0units[s]:
+        lec0, st0, en0 = e0w['lec'], e0w['start'], e0w['end']
+        e0 = next((c for c in core if c['lec'] == lec0 and c['start'] - 3 <= st0
+                   and en0 <= c['end'] + 3), None)
+        esrc = 'core'
+        if e0 is None:
+            e0 = next((c for c in gold if c['lec'] == lec0 and c['start'] - 3 <= st0
+                       and en0 <= c['end'] + 3), None)
+            esrc = 'gold'
+        assert e0, 'e0 pointer outside core+gold for section %d' % s
+        hosts.append((e0w, e0, esrc))
 
     gkeep = []
     for g in gold:
+        if 'anchor' in str(g.get('note', '')):
+            g['_src'], g['_flags'] = 'gold', flags_of(s, g)
+            gkeep.append(g)  # essay anchors always ride (§39 strongest case)
+            continue
         if any(overlap(g, c) for c in core):
             continue
         g['_src'], g['_flags'] = 'gold', flags_of(s, g)
@@ -137,8 +154,10 @@ for s in range(1, 7):
         return chosen
 
     b0, ba, bb, bc = BUD[s]
-    A = [e0]
-    takA = {e0.get('ci', -1): 1}
+    # A-seed = first pointer's host (core clip, or gold anchor for S2 triple)
+    A = [hosts[0][1]]
+    takA = {hosts[0][1].get('ci', -1): 1}
+    e0 = hosts[0][1]
     forced = [c for c in core if c is not e0 and _in(s, c, FORCE_IN)]
     outl = [c for c in core if _in(s, c, FORCE_OUT)]
     for f in forced:
@@ -153,6 +172,11 @@ for s in range(1, 7):
     takB = {}
     for x in B:
         takB[x.get('ci', -1)] = takB.get(x.get('ci', -1), 0) + 1
+    # Essay hosts always ride in B (S2 triple anchors may lose greedy packing)
+    for (_, h, _) in hosts:
+        if not any(h is x for x in B):
+            B.append(h)
+            takB[h.get('ci', -1)] = takB.get(h.get('ci', -1), 0) + 1
     remB = sorted([c for c in core if not any(c is x for x in B)], key=_key)
     B += greedy(remB, bb - dcell(B), takB, 5)
     B += greedy([g for g in gkeep if not g['_flags']], bb - dcell(B), takB, 6)
@@ -171,13 +195,12 @@ for s in range(1, 7):
                      src=x['_src'], ci=x.get('ci'), grade=x.get('grade'),
                      flags=x['_flags'], depth=depth) for x in items]
 
-    # Depth 0 = the essay-0 POINTER window (seed's atomic clip), NOT the full
-    # core beat — pointers live inside core clips (2026-10-26 pointers).
-    e0w = e0win[s - 1]
+    # Depth 0 = the essay-0 POINTER window(s) (seed's atomic clips).
+    # S2 triple: three 0-cells, each hosted (core or gold anchor).
     cell0 = [dict(lec=e0w['lec'], start=e0w['start'], end=round(e0w['end'], 2),
-                  dur=round(e0w['end'] - e0w['start'], 1), src='core',
+                  dur=round(e0w['end'] - e0w['start'], 1), src=esrc,
                   ci=e0.get('ci'), grade=e0.get('grade'), flags=[],
-                  depth='0')]
+                  depth='0') for (e0w, e0, esrc) in hosts]
     manifest['chapters'][str(s)] = {'question': QS[s], '0': cell0, 'A': pack(A, 'A'),
                                     'B': pack(B, 'B'), 'C': pack(C, 'C')}
     for dep, items in (('0', cell0), ('A', A), ('B', B), ('C', C)):
@@ -185,10 +208,11 @@ for s in range(1, 7):
     ks = lambda cells: {(c['lec'], round(c['start'], 1)) for c in cells}
     ch = manifest['chapters'][str(s)]
     assert ks(ch['A']) <= ks(ch['B']) <= ks(ch['C']), 'nesting s%d' % s
-    p0 = ch['0'][0]
-    assert any(c['lec'] == p0['lec'] and c['start'] - 3 <= p0['start']
-               and p0['end'] <= c['end'] + 3 for c in ch['A']), \
-        'essay-0 pointer outside A for s%d' % s
+    for p0 in ch['0']:
+        host = [c for c in ch['A'] + [x for x in ch['B'] if x not in ch['A']]]
+        assert any(c['lec'] == p0['lec'] and c['start'] - 3 <= p0['start']
+                   and p0['end'] <= c['end'] + 3 for c in host), \
+            'essay-0 pointer outside A/B for s%d' % s
 
 json.dump(manifest, open('%s/build/film_manifest.json' % D, 'w'), indent=1)
 scr = sum(grand.values())

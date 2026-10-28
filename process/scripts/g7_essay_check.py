@@ -57,16 +57,28 @@ def main():
     print('-- essay 0, per section --')
     for s in range(1, 7):
         ev = json.load(open('%s/assembly_s%d.json' % (D, s)))
-        # structure: first six events in fixed order (plain response
-        # between recollect and essay-0, owner 2026-10-28)
-        head = [e['t'] for e in ev[:6]]
-        want = ['motto-bell', 'fish', 'pause', 'fish', 'verbatim', 'analayo']
+        # structure: bell/Q/pause/plain, then 1+ (verbatim, analayo) essay-0
+        # pairs (S2 triple pointer, owner 2026-10-28)
+        head = [e['t'] for e in ev[:5]]
+        want = ['motto-bell', 'fish', 'pause', 'fish', 'verbatim']
         if head != want:
             bad.append(('S%d' % s, 'open-order', head))
         if len(ev) < 6:
             bad.append(('S%d' % s, 'too-short', len(ev)))
             continue
-        q, pb, vb, an = ev[1], ev[3], ev[4], ev[5]
+        q, pb, vb = ev[1], ev[3], ev[4]
+        ans = []
+        for e in ev[5:]:
+            if e['t'] == 'analayo' and e.get('essay') == 0:
+                ans.append(e)
+            elif e['t'] in ('breath',):
+                continue
+            else:
+                break
+        if not ans:
+            bad.append(('S%d' % s, 'essay0-no-audio', ''))
+            continue
+        an = ans[0]
         # G7a: question sane
         if q.get('role') != 'question':
             bad.append(('S%d' % s, 'no-question-role', q.get('role')))
@@ -140,7 +152,15 @@ def main():
         ua = [e for e in sd if e.get('t') == 'analayo']
         if [e.get('say') for e in uq] != [QUESTIONS_EXPECTED[i] for i in range(1, 7)]:
             bad.append(('seed', 'questions-unsynced', len(uq)))
-        if len(uv) != 6 or len(ua) != 6 or any(e.get('essay') != 0 for e in uv):
+        # S2 triple: 6 verbatims, 8 analayos (1+3+1+1+1+1), grouped by unit
+        units = {}
+        for e in sd:
+            if e.get('unit') is not None:
+                units.setdefault(e['unit'], []).append(e['t'])
+        if len(uv) != 6 or any(e.get('essay') != 0 for e in uv):
+            bad.append(('seed', 'units-incomplete', (len(uv), len(ua))))
+        if sorted(units.keys()) != [1, 2, 3, 4, 5, 6] or any(
+                u.count('analayo') < 1 for u in units.values()):
             bad.append(('seed', 'units-incomplete', (len(uv), len(ua))))
         print('  SEED: %d units chained, %d events (chain lives here)' % (len(uq), len(sd)))
 

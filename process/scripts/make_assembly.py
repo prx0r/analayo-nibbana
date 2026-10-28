@@ -26,13 +26,32 @@ td = '/root/analayo-nibbana/build'
 # (ESSAY0_BEAT below); only the spoken window is the pointer.
 E0W = {int(k): v for k, v in
        json.load(open(td + '/essay0_windows.json')).items()}
+# Triple-pointer normalization (S2, owner 2026-10-28): a section's essay-0
+# may be N windows (list) instead of one {start,end}. E0WINS[s] is always
+# a list of (lec, start, end).
+def _wins(s):
+    w = E0W[s]
+    if 'windows' in w:
+        return [(w['lec'], a, b) for (a, b) in w['windows']]
+    return [(w['lec'], w['start'], w['end'])]
+E0WINS = {s: _wins(s) for s in E0W}
 # Essay-0 TEXT overrides (default: the essay-0 beat's verbatim). S2's text
 # is the ignorance sentence alone (independently quoted S25 lines 88-90;
 # full simile stays in S2c13 where the screen needs the dog named).
 # Owner pick 2026-10-26. Plain/tts derived deterministically below.
 ESSAY0_TEXT = {
-    2: ("Due to the very ignorance of the fact that it is seeing because "
-        "it is looking, the dog imagines another dog, there, in the water."),
+    # S2 = TRIPLE (owner 2026-10-28: all three in essay-0; was dog-ignorance,
+    # then no-seer alone). All G5-anchored sermon-25 quotes; Analayo speaks
+    # each near-verbatim (L25 518 / 2315 / 2443). Dog simile stays as beat.
+    2: ["Due to the very ignorance of the fact that it is seeing because "
+        "it is looking, the dog imagines another dog, there, in the "
+        "water. What is called maññanā is an imagining of that sort.",
+        "Only a looking is there, nothing worth looking at. Only a "
+        "seeing is there, nothing to be seen. Apart from the bare act "
+        "of hearing, there is nothing to be heard.",
+        "There is no seer, apart from the phenomenon of seeing, "
+        "according to the Tathāgata... For the worldling, the bare act "
+        "of seeing carries with it a perception of 'one who sees'."],
 }
 
 # The 6 questions — lifted verbatim from build/human-scripts.md section headers.
@@ -69,7 +88,7 @@ ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section: 
 # the owner, like question wording.
 PLAIN_RESP_OVERRIDE = {
     1: "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the wanting ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
-    2: "You don't see Nirvana right now because you are seeing what you see because you are looking, and you don't know it. Like a dog halfway across a stream on a plank, wagging its tail at its own image in the water: it imagines another dog there, a 'water-dog'. It thinks it is looking because there is something out there to be seen. The moment it realizes it is seeing because it is looking, it stops looking.",
+    2: "You do not see Nirvana right now because in the act of your seeing you imagine a world. There is no seer apart from seeing: only looking, nothing worth looking at; only seeing, nothing to be seen.",
     3: "Craving keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is craving.",
     4: "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
     5: "Nirvana is attained thus: in the seen there will be just the seen. Then you will not be by it, and when you are not by it, you are not in it, and when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
@@ -112,10 +131,19 @@ for s in range(1, 7):
          'sermon': (b1e.get('nanananda_sermon') if b1e else None),
          'essay': 0,
          'note': 'ESSAY 0 on screen: compressed answer (stack: verbatim over plain-english)'},
-        {'t': 'analayo', 'lec': E0W[s]['lec'], 'start': E0W[s]['start'],
-         'end': E0W[s]['end'],
-         'dur': round(E0W[s]['end'] - E0W[s]['start'], 1),
-         'note': 'ESSAY 0 AUDIO: pointer, not explanation (essay0_windows.json)'},
+    ]
+    # Essay-0 AUDIO pointer(s): one analayo event per window, all flagged
+    # essay 0 (S2 triple). Waters/breaths between pointer parts: 1.5s breath
+    # (same voice, same lecture — a breath, not a water).
+    wins = E0WINS[s]
+    for j, (lec, ss, ee) in enumerate(wins):
+        ev.append({'t': 'analayo', 'lec': lec, 'start': ss, 'end': ee,
+                   'dur': round(ee - ss, 1), 'essay': 0,
+                   'note': 'ESSAY 0 AUDIO %d/%d: pointer (essay0_windows.json)'
+                           % (j + 1, len(wins))})
+        if j < len(wins) - 1:
+            ev.append({'t': 'breath', 'dur': 1.5})
+    ev += [
         {'t': 'water', 'dur': 2.5,
          'note': 'post-answer stillness: the answer lands before beats begin (2026-10-26 ear-pass: essay-0 slammed into beat-2 verbatim with zero pause)'},
         {'t': 'human-intro', 'ref': 'human-scripts.md section %d' % s,

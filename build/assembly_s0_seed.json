@@ -28,7 +28,8 @@
   "start": 696.8,
   "end": 709.8,
   "dur": 13.0,
-  "note": "essay-0 unit 1"
+  "unit": 1,
+  "note": "essay-0 unit 1 part 1/1"
  },
  {
   "t": "water",
@@ -47,8 +48,12 @@
  },
  {
   "t": "verbatim",
-  "text": "Due to the very ignorance of the fact that it is seeing because it is looking, the dog imagines another dog, there, in the water.",
-  "plain": "You don't see Nirvana right now because you are seeing what you see because you are looking, and you don't know it. Like a dog halfway across a stream on a plank, wagging its tail at its own image in the water: it imagines another dog there, a 'water-dog'. It thinks it is looking because there is something out there to be seen. The moment it realizes it is seeing because it is looking, it stops looking.",
+  "text": [
+   "Due to the very ignorance of the fact that it is seeing because it is looking, the dog imagines another dog, there, in the water. What is called ma\u00f1\u00f1an\u0101 is an imagining of that sort.",
+   "Only a looking is there, nothing worth looking at. Only a seeing is there, nothing to be seen. Apart from the bare act of hearing, there is nothing to be heard.",
+   "There is no seer, apart from the phenomenon of seeing, according to the Tath\u0101gata... For the worldling, the bare act of seeing carries with it a perception of 'one who sees'."
+  ],
+  "plain": "You do not see Nirvana right now because in the act of your seeing you imagine a world. There is no seer apart from seeing: only looking, nothing worth looking at; only seeing, nothing to be seen.",
   "sermon": 25,
   "essay": 0,
   "unit": 2
@@ -56,10 +61,29 @@
  {
   "t": "analayo",
   "lec": 25,
-  "start": 1906.7,
-  "end": 1916.0,
-  "dur": 9.3,
-  "note": "essay-0 unit 2"
+  "start": 517.9,
+  "end": 525.8,
+  "dur": 7.9,
+  "unit": 2,
+  "note": "essay-0 unit 2 part 1/3"
+ },
+ {
+  "t": "analayo",
+  "lec": 25,
+  "start": 2314.8,
+  "end": 2321.2,
+  "dur": 6.4,
+  "unit": 2,
+  "note": "essay-0 unit 2 part 2/3"
+ },
+ {
+  "t": "analayo",
+  "lec": 25,
+  "start": 2443.4,
+  "end": 2454.0,
+  "dur": 10.6,
+  "unit": 2,
+  "note": "essay-0 unit 2 part 3/3"
  },
  {
   "t": "water",
@@ -90,7 +114,8 @@
   "start": 1864.7,
   "end": 1869.2,
   "dur": 4.5,
-  "note": "essay-0 unit 3"
+  "unit": 3,
+  "note": "essay-0 unit 3 part 1/1"
  },
  {
   "t": "water",
@@ -121,7 +146,8 @@
   "start": 2208.9,
   "end": 2232.5,
   "dur": 23.6,
-  "note": "essay-0 unit 4"
+  "unit": 4,
+  "note": "essay-0 unit 4 part 1/1"
  },
  {
   "t": "water",
@@ -152,7 +178,8 @@
   "start": 4430.4,
   "end": 4451.9,
   "dur": 21.5,
-  "note": "essay-0 unit 5"
+  "unit": 5,
+  "note": "essay-0 unit 5 part 1/1"
  },
  {
   "t": "water",
@@ -183,7 +210,8 @@
   "start": 4009.9,
   "end": 4014.0,
   "dur": 4.1,
-  "note": "essay-0 unit 6"
+  "unit": 6,
+  "note": "essay-0 unit 6 part 1/1"
  },
  {
   "t": "zoom-bell",

@@ -46,13 +46,22 @@ PICKS = {
 
 
 def beats(asm):
-    """Split assembly events into beats: opening + one per analayo."""
-    out, cur, n_ana = [], [], 0
-    for e in asm:
+    """Split into beats with STABLE numbering: beat 1 closes at the last
+    leading essay-0 analayo (S2 triple pointer = one beat); beats 2..N
+    split per analayo exactly as the original code. Downstream picks
+    never shift (single-pointer sections behave byte-identically)."""
+    anas = [i for i, e in enumerate(asm) if e['t'] == 'analayo']
+    j = 0
+    while j < len(anas) and asm[anas[j]].get('essay') == 0:
+        j += 1
+    assert j >= 1, 'no essay-0 pointer'
+    out = [(1, asm[:anas[j - 1] + 1])]
+    cur, n = [], 1
+    for e in asm[anas[j - 1] + 1:]:
         cur.append(e)
         if e['t'] == 'analayo':
-            n_ana += 1
-            out.append((n_ana, cur))
+            n += 1
+            out.append((n, cur))
             cur = []
     return out  # beat 1 = pointer (opening incl bell/Q)
 
@@ -73,16 +82,18 @@ def main():
         for (b, reason) in PICKS[n]:
             evs = ab[b]
             verb = next(e for e in evs if e['t'] == 'verbatim')
-            ana = next(e for e in evs if e['t'] == 'analayo')
+            anas = [e for e in evs if e['t'] == 'analayo']
+            ana = anas[0]
             vtext = verb.get('text', '')
             plain = e0plain if b == 1 else ''
-            cost = ana['dur'] + 8.0
+            cost = sum(a['dur'] for a in anas) + 8.0
             total += cost
             unit = {'beat': b, 'reason': reason,
                     'screen_verbatim': vtext,
                     'screen_plain': plain,
-                    'analayo': {'lec': ana['lec'], 'start': ana['start'],
-                                'end': ana['end'], 'dur': ana['dur']},
+                    'analayo': [{'lec': a['lec'], 'start': a['start'],
+                                 'end': a['end'], 'dur': a['dur']}
+                                for a in anas],
                     'cost_s': round(cost, 1)}
             if b == 1:
                 sec['pointer'] = unit

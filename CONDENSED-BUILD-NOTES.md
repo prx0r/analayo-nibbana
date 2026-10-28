@@ -1243,3 +1243,25 @@ catches the motto SPOKEN TWICE within ~30s (S5 motto adjacency —
 motto-cap is manifest-level, audio adjacency wants a spacing rule,
 queued); seed/0 "ends abruptly" notes are chunk/description
 artifacts except U2's garbled tail (unverified, needs whisper).
+
+## 74. U2 triple pointer: manana + only-looking + no-seer (2026-10-28)
+
+Owner found the three lines ("holy shit this pointed it out") and
+ordered all three into Q2's essay-0; plain = rendition ("You do not
+see Nirvana right now because in the act of your seeing you imagine
+a world..."), the new essay-0 formula (stacked verbatim anchors +
+one plain rendition). Verified: Analayo speaks all three near-
+verbatim (L25 518 / 2315 / 2443, CF timebase); none were in the
+build (S2 carried only the dog story).
+Implementation: essay0_windows U2 -> 3 windows [517.9-525.8] /
+[2314.8-2321.2] / [2443.4-2454.0] (whisper sentence bounds);
+ESSAY0_TEXT[2] -> 3 G5-anchored sermon-25 quotes (extended to true
+quote boundaries after G5 caught the no-seer trailing-quote gap +
+Tathagata diacritic); 3 pool + 3 gold essay0-anchor spans (§39
+pattern; pool 1136, gold 555); assemblies emit (verbatim-list,
+analayo x3, essay-flagged); seed collects all three; film 0-cells x3
+(hosted gold, containment extended to A-or-B, anchors forced into B);
+G7 head generalized + seed unit-grouping; G9 triple must-hear phrases;
+beats() numbering frozen (pointer group = beat 1, verified stable);
+sharpen-era motto-cap/manifest logic untouched. G5 81/81, verify ALL
+PASS. Dog simile stays as the S2 beat (c13 full arc).

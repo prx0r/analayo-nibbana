@@ -15,14 +15,14 @@
   "audio_ok": "11/11"
  },
  "s2_pool": {
-  "clips": 213,
-  "min": 254.0,
-  "audio_ok": "213/213"
+  "clips": 216,
+  "min": 254.4,
+  "audio_ok": "216/216"
  },
  "s2_gold": {
-  "clips": 61,
-  "min": 64.3,
-  "audio_ok": "61/61"
+  "clips": 64,
+  "min": 64.7,
+  "audio_ok": "64/64"
  },
  "s2_core": {
   "clips": 13,

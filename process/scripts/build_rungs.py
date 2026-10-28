@@ -47,8 +47,15 @@ B_PICKS = {
 
 
 def abeats(asm):
-    out, cur, n = {}, [], 0
-    for e in asm:
+    """Beat split with STABLE numbering (see build_newA.beats)."""
+    anas = [i for i, e in enumerate(asm) if e['t'] == 'analayo']
+    j = 0
+    while j < len(anas) and asm[anas[j]].get('essay') == 0:
+        j += 1
+    assert j >= 1, 'no essay-0 pointer'
+    out = {1: asm[:anas[j - 1] + 1]}
+    cur, n = [], 1
+    for e in asm[anas[j - 1] + 1:]:
         cur.append(e)
         if e['t'] == 'analayo':
             n += 1
@@ -117,8 +124,9 @@ def main():
                 key = ('beat', b)
                 if key in seedkeys:
                     continue
-                ana = next(e for e in ab[b] if e['t'] == 'analayo')
-                cost = ana['dur'] + 8.0
+                anas = [e for e in ab[b] if e['t'] == 'analayo']
+                ana = anas[0]
+                cost = sum(a['dur'] for a in anas) + 8.0
                 if rung in ('C', 'D') and total + cost > budget + SLACK:
                     continue
                 total += cost

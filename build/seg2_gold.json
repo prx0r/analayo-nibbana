@@ -549,5 +549,35 @@
   "dur": 26.2,
   "ci": 11,
   "ismotto": false
+ },
+ {
+  "lec": 25,
+  "start": 517.9,
+  "end": 525.8,
+  "dur": 7.9,
+  "grade": "A",
+  "ci": 11,
+  "note": "essay0-anchor U2a: manana defines the disease (owner 2026-10-28 triple)",
+  "ismotto": false
+ },
+ {
+  "lec": 25,
+  "start": 2314.8,
+  "end": 2321.2,
+  "dur": 6.4,
+  "grade": "A",
+  "ci": 11,
+  "note": "essay0-anchor U2b: only-looking shows it (owner 2026-10-28 triple)",
+  "ismotto": false
+ },
+ {
+  "lec": 25,
+  "start": 2443.4,
+  "end": 2454.0,
+  "dur": 10.6,
+  "grade": "A",
+  "ci": 11,
+  "note": "essay-0 U2c: no-seer names it (owner 2026-10-28 triple)",
+  "ismotto": false
  }
 ]

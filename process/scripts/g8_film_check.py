@@ -48,12 +48,13 @@ for s in range(1, 7):
     sets = {d: kset(ch[d]) for d in '0ABC'}
     if not (sets['A'] <= sets['B'] <= sets['C']):
         fails.append('ch%d nesting broken' % s)
-    # 0 (essay-0 pointer) nests by CONTAINMENT inside A, not identity:
-    # pointers live inside core clips (2026-10-26 pointers).
+    # 0 (essay-0 pointers) nest by CONTAINMENT inside A — or inside gold
+    # essay0-anchors (§39 pattern, S2 triple 2026-10-28), not identity.
     for p in ch['0']:
+        host = ch['A'] + [x for x in ch['B']]
         if not any(c['lec'] == p['lec'] and c['start'] - 3 <= p['start']
-                   and p['end'] <= c['end'] + 3 for c in ch['A']):
-            fails.append('ch%d essay-0 pointer outside A: L%s [%.1f]' % (s, p['lec'], p['start']))
+                   and p['end'] <= c['end'] + 3 for c in host):
+            fails.append('ch%d essay-0 pointer outside A/B: L%s [%.1f]' % (s, p['lec'], p['start']))
     for depth in '0ABC':
         for c in ch[depth]:
             for f in ('lec', 'start', 'end', 'dur', 'src', 'flags', 'depth'):
