@@ -153,25 +153,26 @@ YT-only: 03,06,07,14,17,20,22,24,26,27 — YT timebase).
 
 ## Numbers that are true today (recomputed, not remembered)
 Pool 1147 spans ~20.76h · gold 555 · core **83 clips** (71 + 12 hunt §75) ·
-seed 41 events, ~3.5m rendered (bell/Q/plain/breath/answer; breaths added
-§77, U2 triple §74) · ladder A 22m / B 54m / C 121m / D 261m, nesting
+seed 47 events, ~4.5m rendered (bell/Q/plain/5s-breath/essay0 canon, rhythm.json slots) ·
+ladder A 22m / B 54m / C 121m / D 261m, nesting
 0⊂A⊂B⊂C⊂D proven per section · film screening 291.8m (~4h52, FILM-CUT
 current) · G8 fully green · G5 81/81.
 newA render: build/audio_newA/ (seed + S1..S6 + full, analayo-only,
-bells, Fish Nirvana) — fresh render 2026-10-28, all sections validated.
-B render: build/audio_newA/ (same output dir, B rung picks), fresh
-render 2026-10-28. p0_mix_check PASS, G9 PASS.
+bells, kid Q + old-man plain, Nirvana spoken) — fresh render 2026-10-29,
+all sections validated. Voice match 0.1-0.2 LU + mix proof PASS.
+B render: build/audio_B/full_B_essay.mp3 (~58m: seed 4.6 + S1 9.7 +
+S2 8.6 + S3 10.2 + S4 7.1 + S5 9.7 + S6 7.6), fresh render 2026-10-29,
+voice 0.2 LU + mix proof PASS. Ear rounds queued — NOT stamped.
 
 ## Next queue (in order)
-1. **Taste locks (owner — the packet):** (a) U6 grown-cool stands
-   (callback-gamble disclosed §37); (b) Fish voice approval (audition
-   sent — blocks p1 render voice); (c) 7 demote-candidates
+1. **Taste locks (owner — the packet, updated 2026-10-29):** (a) U6 grown-cool stands
+   (callback-gamble disclosed §37); (b) ~~Fish voice approval~~ DONE —
+   kid asks + wise-old-British answers (backup elderly-ref); Osho retired;
+   (c) 7 demote-candidates
    (gold_fix_log.json demotes — was 16, trims resolved 9); (d) human
    intros (slots empty by design, build/canon/human-scripts.md); (e) YT
-   cold opens S3b1/S6b1 (ears required, transcripts can't arbitrate);
-   (f) Qwen spend OK for the 2nd full ear round (§57 halt still holds —
-   free-first green: G9 24/24 + mix 7/7). P1–P12 applied §61 (off
-   the list). Tests inform; they decide.
+   cold opens S3b1/S6b1 (ears required, transcripts can't arbitrate).
+   P1–P12 applied §61 (off the list). Tests inform; they decide.
 2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
    blocks per assets/sfx/README.md) + YT anchor-maps at cut. STATUS
    2026-10-28: `build/canon/yt_anchor_map.json` measured (whisper word-times,
