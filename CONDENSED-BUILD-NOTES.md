@@ -1722,3 +1722,17 @@ AUDIO_OUT=build/audio_B; main() honors explicit empty with fallback.
 Rule: after ANY render, `ls -la --time-style=+%H:%M build/audio_*/` before
 anything else — the manifest won't tell you which dir got written.
 TODO: OUT-dir assertion in main (fail if OUT lacks the expected rung tag).
+
+## 98. Merge adjudicated + built (2026-10-29): B -0.4m net, nesting proven
+
+B picks extended in build_rungs.py (gold-tuple support; C base = full B
+unit list; post-build asserts: budgets + B-sub-C window containment).
+Verified: S4 golds were already C head-fills (free); S6 b9 = thesis-first
+license (verbatim states, Analayo shows mechanism — same class as S4b2's
+documented inversion, grandfathered by REVIEW-Q6's pass); S6 b5 kept
+(old-A pairing, REVIEW-Q6 passed it; bojjhanga list reads as the unknotting
+in slow motion); S3-Being tail trimmed 4200.0->4197.0 (aside starts 4198);
+S5-smoked tail trimmed 3033.0->3031.5 (next sentence starts 3033);
+S3-Colombo tail verified clean (sentence ends 1219, gap to 1240);
+S1 picks sentence-complete both ends. Deferred (owner): S1 catechism <->
+B9 swap. Dropped: S2 ruppati (nesting), S1 hunt beats stay.

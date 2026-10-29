@@ -53,7 +53,7 @@ B_PICKS = {
         (16, 'contact-chain alt gloss (hunt)'),
         (17, 'craving bridges gap (hunt)'),
         GOLD(12, 1156.1, 1218.6, 'Colombo/pamada-vs-papanca parable (P5)'),
-        GOLD(21, 4181.5, 4200.0, 'Being equation (P4)'),
+        GOLD(21, 4181.5, 4197.0, 'Being equation (P4; tail trimmed: aside starts 4198)'),
         GOLD(13, 804.2, 833.0, 'Mula non-imagining (P10)')],
     4: None,  # whole (old-A + hunt beats 6-8) + S4_GOLDS below
     5: [(1, 'pointer Bahiya'), (3, 'dhono stance'),
@@ -63,7 +63,7 @@ B_PICKS = {
         (14, 'raft close'),
         (15, 'develop the signless (hunt)'),
         GOLD(8, 3843.7, 3906.1, 'grasp-in-the-middle (razor why)'),
-        GOLD(29, 3026.2, 3033.0, 'smoked-out-without-residue'),
+        GOLD(29, 3026.2, 3031.5, 'smoked-out-without-residue (tail trimmed: next sentence starts 3033)'),
         GOLD(18, 2366.6, 2381.3, 'raft-abandon verse')],
     6: [(1, 'pointer grown-cool'), (2, 'chessboard'),
         (3, 'peaceful draw'), (4, 'lotuses'),

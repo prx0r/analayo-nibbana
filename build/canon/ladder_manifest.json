@@ -231,7 +231,7 @@
    },
    "3": {
     "question": "What keeps it going?",
-    "total_s": 492.3,
+    "total_s": 489.3,
     "units": [
      {
       "beat": 1,
@@ -305,12 +305,12 @@
      },
      {
       "beat": "gold@21:4182",
-      "reason": "Being equation (P4)",
+      "reason": "Being equation (P4; tail trimmed: aside starts 4198)",
       "analayo": {
        "lec": 21,
        "start": 4181.5,
-       "end": 4200.0,
-       "dur": 18.5
+       "end": 4197.0,
+       "dur": 15.5
       }
      },
      {
@@ -443,7 +443,7 @@
    },
    "5": {
     "question": "How is Nibbana attained?",
-    "total_s": 612.3,
+    "total_s": 610.8,
     "units": [
      {
       "beat": 1,
@@ -547,12 +547,12 @@
      },
      {
       "beat": "gold@29:3026",
-      "reason": "smoked-out-without-residue",
+      "reason": "smoked-out-without-residue (tail trimmed: next sentence starts 3033)",
       "analayo": {
        "lec": 29,
        "start": 3026.2,
-       "end": 3033.0,
-       "dur": 6.8
+       "end": 3031.5,
+       "dur": 5.3
       }
      },
      {
@@ -1039,7 +1039,7 @@
    },
    "3": {
     "question": "What keeps it going?",
-    "total_s": 1221.9,
+    "total_s": 1218.9,
     "units": [
      {
       "beat": 1,
@@ -1113,12 +1113,12 @@
      },
      {
       "beat": "gold@21:4182",
-      "reason": "Being equation (P4)",
+      "reason": "Being equation (P4; tail trimmed: aside starts 4198)",
       "analayo": {
        "lec": 21,
        "start": 4181.5,
-       "end": 4200.0,
-       "dur": 18.5
+       "end": 4197.0,
+       "dur": 15.5
       }
      },
      {
@@ -1541,7 +1541,7 @@
    },
    "5": {
     "question": "How is Nibbana attained?",
-    "total_s": 1206.2,
+    "total_s": 1204.7,
     "units": [
      {
       "beat": 1,
@@ -1645,12 +1645,12 @@
      },
      {
       "beat": "gold@29:3026",
-      "reason": "smoked-out-without-residue",
+      "reason": "smoked-out-without-residue (tail trimmed: next sentence starts 3033)",
       "analayo": {
        "lec": 29,
        "start": 3026.2,
-       "end": 3033.0,
-       "dur": 6.8
+       "end": 3031.5,
+       "dur": 5.3
       }
      },
      {
@@ -2737,7 +2737,7 @@
    },
    "3": {
     "question": "What keeps it going?",
-    "total_s": 2707.7,
+    "total_s": 2704.7,
     "units": [
      {
       "beat": 1,
@@ -2811,12 +2811,12 @@
      },
      {
       "beat": "gold@21:4182",
-      "reason": "Being equation (P4)",
+      "reason": "Being equation (P4; tail trimmed: aside starts 4198)",
       "analayo": {
        "lec": 21,
        "start": 4181.5,
-       "end": 4200.0,
-       "dur": 18.5
+       "end": 4197.0,
+       "dur": 15.5
       }
      },
      {
@@ -3719,7 +3719,7 @@
    },
    "5": {
     "question": "How is Nibbana attained?",
-    "total_s": 2705.6,
+    "total_s": 2704.1,
     "units": [
      {
       "beat": 1,
@@ -3823,12 +3823,12 @@
      },
      {
       "beat": "gold@29:3026",
-      "reason": "smoked-out-without-residue",
+      "reason": "smoked-out-without-residue (tail trimmed: next sentence starts 3033)",
       "analayo": {
        "lec": 29,
        "start": 3026.2,
-       "end": 3033.0,
-       "dur": 6.8
+       "end": 3031.5,
+       "dur": 5.3
       }
      },
      {

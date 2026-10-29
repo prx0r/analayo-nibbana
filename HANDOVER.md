@@ -165,7 +165,7 @@ current) · G8 fully green · G5 98/98 semantic anchors.
 newA render: build/audio_newA/ (seed + S1..S6 + full, analayo-only,
 bells, kid Q + old-man plain, Nirvana spoken) — fresh render 2026-10-29,
 all sections validated. Voice match 0.1-0.2 LU + mix proof PASS.
-B render: build/audio_B/full_B_essay.mp3 (OLD B: ~58m). FINAL PASS 2026-10-29:
+B render: build/audio_B/full_B_essay.mp3 (NEW B: ~57m, 56.6m speech:). FINAL PASS 2026-10-29:
 B re-picked (53.1 -> 56.7m speech; +definitions/equations/charter verses per
 §97, -116s S3 fat, Upatissa cut) — RE-RENDER + MIX + VOICE + EARS QUEUED.
 NOT stamped (old stamp was pre-merge audio).
