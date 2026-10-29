@@ -1757,3 +1757,21 @@ trims applied). Voice 0.2-0.3 LU. DONE = gates + mix + 2 rounds + ledger.
 C and D unchanged (superset holds). Next: owner packet (catechism swap,
 human intros, YT cold opens, C audio?, P12), p1 bells, cue sheet,
 essay-corpus export.
+
+## 101. Final files + docs close-out (2026-10-29)
+
+Deliverables on disk: `build/audio_newA/full_newA_essay.mp3` (0+A, 27.4m,
+STAMPED) + `seed.mp3` (4.5m) · `build/audio_B/full_B_essay.mp3` (B, 62.3m
+screening incl. seed+gap, STAMPED) · `build/canon/FINAL_ESSAY_TEXT_0A.md` +
+`FINAL_ESSAY_TEXT_B.md` (complete spoken texts, generated from canon data,
+never typed). Audio stays local-only (gitignored); texts are committed.
+Public links (catbox, 72h): A-full / seed / S1 + B-full (see §100).
+Process notes now autonomous: 15-RHYTHM (silence engine), 16-VOICE-MATCH
+(post-production loudness), 17-CASTING (trial/lock/speakability),
+18-MODIFICATIONS (6 playbooks: pause/voice/marks/section/ears/stamp),
+AXIOM 16 (cache keys), 17 (presentation order). verify.sh covers
+G0→G9 + files. Fresh-agent path: AGENTS.md -> log -> VISION ->
+HANDOVER -> RECURRING-MISTAKES -> AXIOMS -> 12-ARGUMENT -> canon README.
+Remaining (all owner calls, none defects): S1 catechism<->B9 swap,
+C audio?, P12 Chabbisodhana (no span exists), human intros, YT cold
+opens, p1 belled render, cue sheet, essay-corpus export.
