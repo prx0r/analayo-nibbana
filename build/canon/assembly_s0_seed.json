@@ -65,7 +65,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {
@@ -91,7 +91,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {
@@ -105,7 +105,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {
@@ -140,7 +140,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {
@@ -183,7 +183,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {
@@ -226,7 +226,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {
@@ -269,7 +269,7 @@
  },
  {
   "t": "breath",
-  "dur": 1.5,
+  "dur": 5.0,
   "role": "voice-change"
  },
  {

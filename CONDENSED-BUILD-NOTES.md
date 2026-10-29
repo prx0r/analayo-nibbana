@@ -1533,3 +1533,10 @@ Two bugs from not listening:
    as held room air, not a hole. Mix proof re-PASS on the new render.
    **0+A re-stamped on the new render.** B backlog unchanged (re-render +
    b9/b10 opens + B round).
+
+## 89. 5s after every pointer plain (2026-10-28, owner: "these are pointers")
+
+Default `plain_breath` 1.5 -> 5.0s (U1 override folded in). Seed 4.0->4.4m;
+all six openers breathe the same air. Delta ear round on the new seed:
+zero flags (no mid-sentence/clicks/jumps/robotics/cuts). Mix proof re-PASS.
+0+A stamp carries (change is uniform room air, no content touched).

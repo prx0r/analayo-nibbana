@@ -1,1 +1,17 @@
-{"beats_per_60s":1.0,"overrides":{"1":{"plain_breath":{"dur":5.0,"why":"owner 2026-10-28: the flame image (34w plain) must land before the 13s motto pointer; 1.5s clips it"}}},"rule":"named silence slots; defaults hold unless a unit overrides with owner-dated reason. make_assembly reads this; render asserts sheet==master.","slots":{"beat_breath":1.5,"beat_water_base":2.5,"beat_water_cap":6.0,"essay0_stillness":2.5,"motto_bell":2.5,"plain_breath":1.5,"recollect":3.0,"settle":6.0,"terminal":30,"triple_breath":1.5}}
+{
+ "beats_per_60s": 1.0,
+ "overrides": {},
+ "rule": "named silence slots; owner 2026-10-28: 5.0s after every essay-0 plain response (all six are pointers - the words must permeate before the archive voice answers). make_assembly reads this; render asserts sheet==master.",
+ "slots": {
+  "beat_breath": 1.5,
+  "beat_water_base": 2.5,
+  "beat_water_cap": 6.0,
+  "essay0_stillness": 2.5,
+  "motto_bell": 2.5,
+  "plain_breath": 5.0,
+  "recollect": 3.0,
+  "settle": 6.0,
+  "terminal": 30,
+  "triple_breath": 1.5
+ }
+}

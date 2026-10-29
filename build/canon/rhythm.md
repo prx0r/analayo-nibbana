@@ -23,7 +23,7 @@ carries an owner-dated override with a reason. No magic numbers in builders.
 |---|---|---|---|
 | `motto_bell` | 2.5 | every section open | — |
 | `recollect` | 3.0 | after Fish Q (listener answers first) | — |
-| `plain_breath` | 1.5 | after Fish plain, before Analayo (voice-change air) | null |
+| `plain_breath` | 5.0 | after every Fish plain, before Analayo (owner 2026-10-28: all six essay-0 responses are pointers — 5s of room air so the words permeate; was 1.5s, U1 first, then extended to all) | null |
 | `triple_breath` | 1.5 | between essay-0 multi-window parts (same voice) | — |
 | `essay0_stillness` | 2.5 | after pointer, before beats (the answer lands) | null |
 | `beat_breath` | 1.5 | per beat, before Analayo | — |
@@ -31,8 +31,9 @@ carries an owner-dated override with a reason. No magic numbers in builders.
 | `settle` | 6.0 | section boundary, after zoom-bell | — |
 | `terminal` | 30 | S6 end: seed reprise + motto-bell + silence | — |
 
-## Overrides (owner-dated, with reason — never silent)
+## Overrides
 
-| unit | slot | dur | why |
-|---|---|---|---|
-| U1 | `plain_breath` | 5.0 | owner 2026-10-28: the flame image (34w plain) must land before the 13s motto pointer; 1.5s clips it |
+None — the single general rule (5s after every essay-0 plain) covers all
+units. Per-unit overrides go here with owner date + reason when a unit
+needs to differ from the default (format: same shape as the former U1
+override, now folded into the default).
