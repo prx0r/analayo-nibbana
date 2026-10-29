@@ -1652,3 +1652,22 @@ Proof: voice_match check 0.2 LU + mix proof PASS (order/pauses/edges/levels).
 NOT stamped: B ear rounds (2x Qwen + adjudication) queued; carries the
 0/A rhythm/voices/marks by construction (same assemblies, same engine).
 C: still owner decision (audio or not — film keeps C-cells either way).
+
+## 97. Docs pristine pass + OUT fix close-out (2026-10-29)
+
+1. Fish API recovered: s3-s6 + seed + s2 re-rendered per-section (no full
+   rebuilds). Mix proof PASS everywhere; voice gap 0.4 LU (within tol;
+   TTS prosody moves it ±0.3 run to run — the trim, not the number, is
+   the control). G9 + verify.sh green. s5/s6 re-render TODO from §93 CLOSED.
+2. Render driver hardened: `render_newA.py [seed|s1..|all|full]` (section
+   list drives; `all` was silently rendering nothing), `full` assembles
+   only (previously fell through and rendered garbage into s1.mp3 —
+   caught by durations, refixed clean). `AUDIO_OUT` env fixed
+   (`Path('')` is truthy — OUT went relative and wrote mp3s/wavs into
+   repo root; junk deleted, 90MB stray cache removed). Validate with
+   `find -xtype l` + `git status --short | grep '^??'` after any render.
+3. Root + process docs swept file-by-file against disk (TIMINGS rewritten,
+   VISION §6/§9, FILM-CUT totals, DONE minutes+gates, SPEAKER-RULES v7,
+   STORYBOARD regenerated from its builder, REVIEW dated addendum,
+   15/16/17 renderer names, 18-MODIFICATIONS added, verify.sh G0 wired).
+   Every scripted doc edit asserted count==1 (M17).
