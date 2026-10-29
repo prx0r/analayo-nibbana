@@ -22,7 +22,7 @@
    "beats": [
     {
      "beat": 3,
-     "reason": "CONTRADICTION in commentarial definitions (owner: FIRST)",
+     "reason": "CONTRADICTION in commentarial definitions (owner: FIRST \u2014 the definition)",
      "screen_verbatim": [
       "\"Khayamatta na nibbanam\"",
       "\"To project Nibbana into a distance and to hope that craving will be destroyed only on seeing it, is something like trying to build a staircase to a palace one cannot yet see.\"",
@@ -73,54 +73,9 @@
       }
      ],
      "cost_s": 19.0
-    },
-    {
-     "beat": 12,
-     "reason": "cessation-of-existence definition (hunt, owner: implement)",
-     "screen_verbatim": "Nibbana has been defined as the cessation of existence. The Buddha says that when he is preaching about the cessation of existence, some people, particularly the brahmins who cling to a soul theory, bring up the charge of nihilism against him. Not only those brahmins and heretics believing in a soul theory, but even some Buddhist scholars are scared of the term bhavanirodha, fearing that it leads to a nihilistic interpretation.",
-     "screen_plain": "",
-     "analayo": [
-      {
-       "lec": 8,
-       "start": 3517.9,
-       "end": 3521.7,
-       "dur": 3.8
-      }
-     ],
-     "cost_s": 11.8
-    },
-    {
-     "beat": 13,
-     "reason": "extinction as of a fire (hunt)",
-     "screen_verbatim": "Existence is said to be an eleven-fold fire. So the entire existence is a raging fire. Lust, hate, delusion \u2014 all these are fires. Therefore Nibbana may be best rendered by the word 'extinction'.",
-     "screen_plain": "",
-     "analayo": [
-      {
-       "lec": 18,
-       "start": 3616.0,
-       "end": 3621.9,
-       "dur": 5.9
-      }
-     ],
-     "cost_s": 13.9
-    },
-    {
-     "beat": 14,
-     "reason": "owning/grasping not (hunt)",
-     "screen_verbatim": "Not by views, nor by learning, nor by knowledge, nor yet by virtue and holy vows, they say, can purity come, neither can it come by without views, learning and knowledge, without virtue and holy vows, letting go of them all and grasping not one, that peaceful one, leaning on none, would hanker no more for existence.",
-     "screen_plain": "",
-     "analayo": [
-      {
-       "lec": 14,
-       "start": 2487.0,
-       "end": 2495.0,
-       "dur": 8.0
-      }
-     ],
-     "cost_s": 16.0
     }
    ],
-   "total_s": 183.7
+   "total_s": 142.0
   },
   "2": {
    "question": "Why don't I see Nibbana right now?",

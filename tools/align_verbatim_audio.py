@@ -2,9 +2,9 @@
 
 Method: per beat, take verbatim (str or list of contiguous excerpts) +
 nanananda_sermon N, normalize (lower, strip punctuation), and locate the
-best token window in sermon-readings/Nibbana_Stilled_NN.json via
+best token window in sources/sermons/readings/Nibbana_Stilled_NN.json via
 difflib longest-match. Window snapped to sentence bounds, padded ±1
-sentence. Output: build/verbatim_audio_v1.json
+sentence. Output: build/canon/verbatim_audio_v1.json
 [{s, clip, sermon, parts:[{t,end,score,text}], status}]
 status: ok (all parts>=0.40) | partial | miss.
 No thresholds hidden: scores ship with every part; the renderer decides.
@@ -15,8 +15,8 @@ import difflib
 from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
-BUILD = D / 'build'
-SR = D / 'sermon-readings'
+BUILD = D / 'build' / 'canon'
+SR = D / 'sources/sermons/readings'
 THRESH = 0.40
 
 # Manual pins (evidence-logged, last resort): the reader chants Pali the

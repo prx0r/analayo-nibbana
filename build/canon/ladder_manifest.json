@@ -9,11 +9,11 @@
   "B": {
    "1": {
     "question": "What is Nibbana?",
-    "total_s": 630.7,
+    "total_s": 589.0,
     "units": [
      {
       "beat": 1,
-      "reason": "whole old-A fits",
+      "reason": "pointer motto",
       "analayo": {
        "lec": 1,
        "start": 696.8,
@@ -23,7 +23,7 @@
      },
      {
       "beat": 2,
-      "reason": "whole old-A",
+      "reason": "fire/lamp",
       "analayo": {
        "lec": 1,
        "start": 3244,
@@ -33,7 +33,7 @@
      },
      {
       "beat": 3,
-      "reason": "whole old-A",
+      "reason": "CONTRADICTION (owner: FIRST)",
       "analayo": {
        "lec": 1,
        "start": 4195,
@@ -43,7 +43,7 @@
      },
      {
       "beat": 4,
-      "reason": "whole old-A",
+      "reason": "Vaccha undesignable",
       "analayo": {
        "lec": 21,
        "start": 413,
@@ -53,7 +53,7 @@
      },
      {
       "beat": 5,
-      "reason": "whole old-A",
+      "reason": "warming vs cooling",
       "analayo": {
        "lec": 1,
        "start": 4691,
@@ -63,7 +63,7 @@
      },
      {
       "beat": 6,
-      "reason": "whole old-A",
+      "reason": "third-truth resolution",
       "analayo": {
        "lec": 1,
        "start": 4230,
@@ -73,7 +73,7 @@
      },
      {
       "beat": 7,
-      "reason": "whole old-A",
+      "reason": "quenched thirst",
       "analayo": {
        "lec": 1,
        "start": 4524,
@@ -83,7 +83,7 @@
      },
      {
       "beat": 8,
-      "reason": "whole old-A",
+      "reason": "motto refrain",
       "analayo": {
        "lec": 19,
        "start": 348,
@@ -93,7 +93,7 @@
      },
      {
       "beat": 9,
-      "reason": "whole old-A",
+      "reason": "sa-upadisesa",
       "analayo": {
        "lec": 19,
        "start": 390,
@@ -103,7 +103,7 @@
      },
      {
       "beat": 10,
-      "reason": "whole old-A",
+      "reason": "oil-lamp cooling",
       "analayo": {
        "lec": 19,
        "start": 718,
@@ -113,42 +113,12 @@
      },
      {
       "beat": 11,
-      "reason": "whole old-A",
+      "reason": "debt/freedom",
       "analayo": {
        "lec": 20,
        "start": 488,
        "end": 499,
        "dur": 11
-      }
-     },
-     {
-      "beat": 12,
-      "reason": "whole old-A",
-      "analayo": {
-       "lec": 8,
-       "start": 3517.9,
-       "end": 3521.7,
-       "dur": 3.8
-      }
-     },
-     {
-      "beat": 13,
-      "reason": "whole old-A",
-      "analayo": {
-       "lec": 18,
-       "start": 3616.0,
-       "end": 3621.9,
-       "dur": 5.9
-      }
-     },
-     {
-      "beat": 14,
-      "reason": "whole old-A",
-      "analayo": {
-       "lec": 14,
-       "start": 2487.0,
-       "end": 2495.0,
-       "dur": 8.0
       }
      }
     ]
@@ -631,7 +601,7 @@
     "units": [
      {
       "beat": 1,
-      "reason": "whole old-A",
+      "reason": "pointer motto",
       "analayo": {
        "lec": 1,
        "start": 696.8,
@@ -641,7 +611,7 @@
      },
      {
       "beat": 2,
-      "reason": "whole old-A",
+      "reason": "fire/lamp",
       "analayo": {
        "lec": 1,
        "start": 3244,
@@ -651,7 +621,7 @@
      },
      {
       "beat": 3,
-      "reason": "whole old-A",
+      "reason": "CONTRADICTION (owner: FIRST)",
       "analayo": {
        "lec": 1,
        "start": 4195,
@@ -661,7 +631,7 @@
      },
      {
       "beat": 4,
-      "reason": "whole old-A",
+      "reason": "Vaccha undesignable",
       "analayo": {
        "lec": 21,
        "start": 413,
@@ -671,7 +641,7 @@
      },
      {
       "beat": 5,
-      "reason": "whole old-A",
+      "reason": "warming vs cooling",
       "analayo": {
        "lec": 1,
        "start": 4691,
@@ -681,7 +651,7 @@
      },
      {
       "beat": 6,
-      "reason": "whole old-A",
+      "reason": "third-truth resolution",
       "analayo": {
        "lec": 1,
        "start": 4230,
@@ -691,7 +661,7 @@
      },
      {
       "beat": 7,
-      "reason": "whole old-A",
+      "reason": "quenched thirst",
       "analayo": {
        "lec": 1,
        "start": 4524,
@@ -701,7 +671,7 @@
      },
      {
       "beat": 8,
-      "reason": "whole old-A",
+      "reason": "motto refrain",
       "analayo": {
        "lec": 19,
        "start": 348,
@@ -711,7 +681,7 @@
      },
      {
       "beat": 9,
-      "reason": "whole old-A",
+      "reason": "sa-upadisesa",
       "analayo": {
        "lec": 19,
        "start": 390,
@@ -721,7 +691,7 @@
      },
      {
       "beat": 10,
-      "reason": "whole old-A",
+      "reason": "oil-lamp cooling",
       "analayo": {
        "lec": 19,
        "start": 718,
@@ -731,7 +701,7 @@
      },
      {
       "beat": 11,
-      "reason": "whole old-A",
+      "reason": "debt/freedom",
       "analayo": {
        "lec": 20,
        "start": 488,
@@ -741,7 +711,7 @@
      },
      {
       "beat": 12,
-      "reason": "whole old-A",
+      "reason": "old-A remainder (prefix order)",
       "analayo": {
        "lec": 8,
        "start": 3517.9,
@@ -751,7 +721,7 @@
      },
      {
       "beat": 13,
-      "reason": "whole old-A",
+      "reason": "old-A remainder (prefix order)",
       "analayo": {
        "lec": 18,
        "start": 3616.0,
@@ -761,7 +731,7 @@
      },
      {
       "beat": 14,
-      "reason": "whole old-A",
+      "reason": "old-A remainder (prefix order)",
       "analayo": {
        "lec": 14,
        "start": 2487.0,
@@ -1819,7 +1789,7 @@
     "units": [
      {
       "beat": 1,
-      "reason": "whole old-A",
+      "reason": "pointer motto",
       "analayo": {
        "lec": 1,
        "start": 696.8,
@@ -1829,7 +1799,7 @@
      },
      {
       "beat": 2,
-      "reason": "whole old-A",
+      "reason": "fire/lamp",
       "analayo": {
        "lec": 1,
        "start": 3244,
@@ -1839,7 +1809,7 @@
      },
      {
       "beat": 3,
-      "reason": "whole old-A",
+      "reason": "CONTRADICTION (owner: FIRST)",
       "analayo": {
        "lec": 1,
        "start": 4195,
@@ -1849,7 +1819,7 @@
      },
      {
       "beat": 4,
-      "reason": "whole old-A",
+      "reason": "Vaccha undesignable",
       "analayo": {
        "lec": 21,
        "start": 413,
@@ -1859,7 +1829,7 @@
      },
      {
       "beat": 5,
-      "reason": "whole old-A",
+      "reason": "warming vs cooling",
       "analayo": {
        "lec": 1,
        "start": 4691,
@@ -1869,7 +1839,7 @@
      },
      {
       "beat": 6,
-      "reason": "whole old-A",
+      "reason": "third-truth resolution",
       "analayo": {
        "lec": 1,
        "start": 4230,
@@ -1879,7 +1849,7 @@
      },
      {
       "beat": 7,
-      "reason": "whole old-A",
+      "reason": "quenched thirst",
       "analayo": {
        "lec": 1,
        "start": 4524,
@@ -1889,7 +1859,7 @@
      },
      {
       "beat": 8,
-      "reason": "whole old-A",
+      "reason": "motto refrain",
       "analayo": {
        "lec": 19,
        "start": 348,
@@ -1899,7 +1869,7 @@
      },
      {
       "beat": 9,
-      "reason": "whole old-A",
+      "reason": "sa-upadisesa",
       "analayo": {
        "lec": 19,
        "start": 390,
@@ -1909,7 +1879,7 @@
      },
      {
       "beat": 10,
-      "reason": "whole old-A",
+      "reason": "oil-lamp cooling",
       "analayo": {
        "lec": 19,
        "start": 718,
@@ -1919,7 +1889,7 @@
      },
      {
       "beat": 11,
-      "reason": "whole old-A",
+      "reason": "debt/freedom",
       "analayo": {
        "lec": 20,
        "start": 488,
@@ -1929,7 +1899,7 @@
      },
      {
       "beat": 12,
-      "reason": "whole old-A",
+      "reason": "old-A remainder (prefix order)",
       "analayo": {
        "lec": 8,
        "start": 3517.9,
@@ -1939,7 +1909,7 @@
      },
      {
       "beat": 13,
-      "reason": "whole old-A",
+      "reason": "old-A remainder (prefix order)",
       "analayo": {
        "lec": 18,
        "start": 3616.0,
@@ -1949,7 +1919,7 @@
      },
      {
       "beat": 14,
-      "reason": "whole old-A",
+      "reason": "old-A remainder (prefix order)",
       "analayo": {
        "lec": 14,
        "start": 2487.0,

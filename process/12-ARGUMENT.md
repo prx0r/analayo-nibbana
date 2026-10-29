@@ -169,7 +169,7 @@ Older candidates (twelve-links echo, name-formal, scatter, magic-show,
 "Is any of it real?", "What's left when the show stops?") are SUPERSEDED —
 kept in notes history only, never revived without re-running the formula.
 
-### Essay-0 status (build/essay0.json — CANONICAL, enforced pointers, not candidates)
+### Essay-0 status (build/canon/essay0.json — CANONICAL, enforced pointers, not candidates)
 S1 motto refrain L01 [696.8-709.8] (13s; head trimmed to "This" by whisper
 word-times, owner ear 2026-10-28). S2 TRIPLE, all L25: maññanā
 [517.9-525.8] (8s) + only-looking [2314.8-2321.2] (6s) + no-seer
@@ -181,7 +181,7 @@ Pali philology 2233+). S5 Bahiya L14 [4430.4-4451.9] DS (21.5s; was
 YT-time, offset 10.0s). S6 grown-cool ENGLISH ONLY L01 [4009.9-4014.0]
 (4s; Pali "Siti bhutosmi" cut, owner ear 2026-10-28). Total ≈ 87s.
 TEXT layer stays the full quotes (provenance); only the spoken windows
-are pointers. Plain responses live in build/essay0.json (subject-first,
+are pointers. Plain responses live in build/canon/essay0.json (subject-first,
 owner-ordered).
 
 

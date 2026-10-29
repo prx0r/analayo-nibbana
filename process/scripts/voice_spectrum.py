@@ -26,12 +26,12 @@ def band_level(path, f, ss=None, t=None):
 
 
 SETS = {
-    'analayo': [(f'{D}/analayo-nibbana-lecture-01.mp3', 3000, 60),
-                (f'{D}/analayo-nibbana-lecture-10.mp3', 1700, 60),
-                (f'{D}/analayo-nibbana-lecture-05.mp3', 410, 60)],
-    'sermon': [(f'{D}/sermon-audio/Nibbana_Stilled_01.mp3', 60, 60),
-               (f'{D}/sermon-audio/Nibbana_Stilled_15.mp3', 300, 60),
-               (f'{D}/sermon-audio/Nibbana_Stilled_25.mp3', 100, 60)],
+    'analayo': [(f'{D}/sources/lectures/audio/analayo-nibbana-lecture-01.mp3', 3000, 60),
+                (f'{D}/sources/lectures/audio/analayo-nibbana-lecture-10.mp3', 1700, 60),
+                (f'{D}/sources/lectures/audio/analayo-nibbana-lecture-05.mp3', 410, 60)],
+    'sermon': [(f'{D}/sources/sermons/audio/Nibbana_Stilled_01.mp3', 60, 60),
+               (f'{D}/sources/sermons/audio/Nibbana_Stilled_15.mp3', 300, 60),
+               (f'{D}/sources/sermons/audio/Nibbana_Stilled_25.mp3', 100, 60)],
     'fish': [(f, None, None)
              for f in sorted(glob.glob(f'{D}/build/audio_p0/cache/vox_*.wav'))],
 }

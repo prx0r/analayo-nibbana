@@ -50,7 +50,7 @@ REVIEW (root), DONE (root: definition-of-done + taxonomy), `verify.sh`
   rebuild_text (gloss+tts functions; its main() td path is stale —
   import functions, write build/ explicitly), rematch2 (pool, legacy),
   sharpen_gold (B sequence law + edge re-snap + motto-cap manifests;
-  log: build/gold_fix_log.json), p0_mix_check (per-render mix proof:
+  log: build/versions/gold_fix_log.json), p0_mix_check (per-render mix proof:
   order/beds/edges/levels), ear_regression (fixture calibration runner),
   ear_probes (checkable-question ear protocol)
 - gates: g5_provenance (semantic quote-anchor), g6_tts (hardened +
@@ -69,7 +69,7 @@ REVIEW (root), DONE (root: definition-of-done + taxonomy), `verify.sh`
   predate scaled waters + settle + post-essay-0 stillness; assemblies
   are truth until p1 recompute).
 - `VISION.md` — owner intent; `CONDENSED-BUILD-NOTES.md` — THE log.
-- `REVIEW.md`, `SPEAKER-RULES.md`, `CUTTING-FORMULA.md`,
+- `reviews/REVIEW.md`, `SPEAKER-RULES.md`, `archive/era-1-cutplans/CUTTING-FORMULA.md`,
   `lecture-NN.cutplan.*` (era-1, 33/33 done), `HANDOFF.md` (superseded).
 
 ## Visuals (`visuals/` — 11 design docs, index in HANDOVER)
@@ -79,11 +79,11 @@ three-clocks (cue-sheet spec), FIVE-HOUR-CUT
 (budgets), VISUAL-MASTER-PLAN (production: shots, schema, three-rule).
 
 ## Sources (read-only, never edited)
-- `sources/53-nibbana-scaffold/` (vendored 2026-10-28, byte-identical) —
+- `sources/sermons/excavations/` (vendored 2026-10-28, byte-identical) —
   excavations = THE verbatim home (G5 anchors here, repo-local first;
   legacy /tmp path fallback). Packs 51/52 = movie manual.
-- `lecture-*.transcript.cf.json`, `yt-subs/`, 33 mp3s, `tools/`.
-- `sermon-audio/` (33 readings, tracked) + `sermon-readings/` (33
+- `sources/lectures/` (audio/ 33 mp3s, transcripts/ 23 CF JSONs, yt-subs/, ds-full/, ds-mp3/, cutplans/ era-1), `tools/`.
+- `sources/sermons/audio/` (33 readings, tracked) + `sources/sermons/readings/` (33
   faster-whisper JSONs, tracked) = THE verbatim voice (alignment needs
   the JSONs, slicing needs the mp3s; G5 anchors on the scaffold above).
 

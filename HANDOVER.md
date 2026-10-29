@@ -6,9 +6,10 @@ You are the next agent on **analayo-nibbana**: the 33 Analayo lectures on
 where things are, why, and what's next. Nothing here is decoration.
 
 ## Read in this order (seriously — this prevents the failure modes)
+0. `AGENTS.md` — read FIRST (map + laws; log takes precedent over all docs).
 1. `VISION.md` — the owner's intent, collated. When lost, this answers
    "what did the owner actually want?"
-2. `process/RECURRING-MISTAKES.md` — my failure patterns R1–R9. R1
+2. `process/RECURRING-MISTAKES.md` — failure patterns R1–R9. R1
    (writing composed prose — even in chat) is the fatal one; R9
    (proxies vs content) is the expensive one.
 3. `process/AXIOMS.md` + `process/12-ARGUMENT.md` — binding rules,
@@ -19,7 +20,7 @@ where things are, why, and what's next. Nothing here is decoration.
 5. `DONE.md` — definition of done + adjudication taxonomy (read before
    claiming anything finished).
 6. `visuals/` docs (see index below) — the film's design canon.
-7. `process/MISTAKES.md`, `REVIEW.md` — history of what was wrong.
+7. `process/MISTAKES.md`, `reviews/REVIEW.md` — history of what was wrong.
 
 ## Branch topology
 - **`main`** → the audio build: chain locked, seed, essays, gates
@@ -32,39 +33,41 @@ where things are, why, and what's next. Nothing here is decoration.
   change against it: `git diff baseline-before-lab..lab/c-split`.
 - Push ONLY when the owner says push. Commit freely on your branch.
 
-## Where everything is and why
+## Where everything is and why (reorged 2026-10-28 — see AGENTS.md for read order)
 
 ### Root (read-mostly)
 | file | what it is |
 |---|---|
+| `AGENTS.md` | ★ READ FIRST: map, read order, laws |
 | `VISION.md` | owner's intent, collated — the north star |
 | `HANDOVER.md` | this file — next agent's entry point |
-| `TIMINGS.md` | computed runtimes (seed 7m / A 1h57 / B ~6.6h / C ~21.3h) |
+| `TIMINGS.md` | computed runtimes (recomputed 2026-10-28) |
 | `FILM-CUT.md` | the five-hour film cut: budget-vs-actual tables (lab branch) |
-| `CONDENSED-BUILD-NOTES.md` | THE log — every build change, §1–§49 |
-| `REVIEW.md` | the first-listener read-through (2026-10-24) |
+| `CONDENSED-BUILD-NOTES.md` | THE log — every build change, §1–§86 (precedent over all docs) |
+| `AUDIT-2026-10-28.md` | staleness audit (canon proof, per-doc verdicts, fix list) |
+| `reviews/` | frozen first-listener reviews (REVIEW.md, REVIEW-Q1–6, COVERAGE) |
+| `archive/era-1-cutplans/` | frozen era-1 method (CUTTING-FORMULA.md, HANDOFF.md) |
 | `DONE.md` | definition of done + adjudication taxonomy |
-| `SPEAKER-RULES.md` | voice rules for the three speakers |
-| `CUTTING-FORMULA.md` + `lecture-NN.cutplan.{json,md}` | era-1 cutplans (33/33 done; method history) |
-| `HANDOFF.md` | SUPERSEDED cutplan-era handoff (kept for method) |
+| `SPEAKER-RULES.md` | voice rules (two Fish voices v-next: student Q + elderly plain) |
 
-### `build/` — THE product data (canonical; read by gates and builders)
-- **Sources (edit only via logged fixes):** `segN_pool/gold/core_v4/script.json`
-  (pool 1136 / gold 555 — D-grade cuts applied to both layers §63 / core 71 sharpened),
-  `segN_terms.json`, keys `fish_filter.py` + `blunt_key.json`,
-  `quote_pool.json`, `verbatim_audio_v1.json` (71/71 aligned),
-  `gold_fix_log.json`, `ear_floors.json`.
-- **Derived (never hand-edit — regenerate):** `assembly_sN.json`
-  (make_assembly: scaled waters, settle closes, post-essay-0 stillness),
-  `assembly_s0_seed.json` (build_seed), `film_manifest.json`
-  (build_film_manifest), `manifest_*.txt`, `STORYBOARD.md`
-  (build_storyboard.py), `EAR_REPORT.md` + `EAR_LEDGER.md` (rounds).
-- `human-scripts.md` — section questions + **empty owner slots** (my
-  prose was stripped; never write content there).
-- `assets/` — motto-bell (2.5s) + zoom-bell (6s) wavs; `assets/sfx/`
-  (bowls/ding/long-break/blocks kit, p1 wiring).
-- `audio_p0/` — LOCAL ONLY p0 render (never committed): seed + S1..S6 +
-  full + manifest.json (per-slice timeline) + .lst files.
+### `sources/` — primary materials (see `sources/README.md`)
+- `lectures/`: audio/ (33 mp3s) · transcripts/ (23 CF JSONs) · yt-subs/ ·
+  ds-full/ ds-mp3/ · cutplans/ (era-1, superseded) + keeps/
+- `sermons/`: excavations/ (33 quote pools = verbatim home; G5 anchors here,
+  repo-local first) · audio/ (33 readings) · readings/ (33 transcripts)
+
+### `build/` — THE product data (see `build/canon/README.md`)
+- **`canon/`** (gates + builders read this): `essay0.json` (THE essay-0) ·
+  `assembly_s0..s6.json` · `newA_manifest.json` · `ladder_manifest.json` ·
+  `film_manifest.json` · `manifest_index.json` · `segN_{core_v4,gold,pool,script,terms,pads_full}.json` (core 83, gold 555, pool 1147) ·
+  keys `fish_filter.py` + `blunt_key.json` · `quote_pool.json` ·
+  `verbatim_audio_v1.json` · `yt_anchor_map.json` · `human-scripts.md`
+  (empty owner slots) · `STORYBOARD.md` · `manifest_sN_*.txt` (derived)
+- **`versions/`** (superseded, do-not-build-from): old p0 transcript + §38 gold log (see VERSIONS.md)
+- **`ears/`**: ear rounds + `EAR_LEDGER.md`/`EAR_REPORT.md` (DONE evidence) + fixtures
+- `assets/` — motto-bell (2.5s) + zoom-bell (6s) wavs; `assets/sfx/` kit
+- `audio_p0/` `audio_p1/` `audio_newA/` — LOCAL ONLY renders (never committed):
+  newA = seed + S1..S6 + full + 30s seed→A gap + manifest.json + .lst files.
 
 ### `process/` — the machinery
 - Stage docs `00..11` + `12-ARGUMENT` (spine/ritual) + `13-SHARPENING`
@@ -100,22 +103,22 @@ where things are, why, and what's next. Nothing here is decoration.
 | `VISUAL-MASTER-PLAN.md` | THE production doc: 24-part storyboard, 65–100 shot inventory, `source_clip/shot_id/...` schema, binding three-rule test |
 
 ### Sermon readings (2026-10-25) — the verbatim voice
-`sermon-audio/` = all 33 "Nibbana: The Mind Stilled" READINGS (412MB,
+`sources/sermons/audio/` = all 33 "Nibbana: The Mind Stilled" READINGS (412MB,
 from the mediafire folder, key uudqwtf9aflpg via api/1.4/folder/
-get_content + file-page scrape). `sermon-readings/` = timestamped
+get_content + file-page scrape). `sources/sermons/readings/` = timestamped
 transcripts (faster-whisper small.en, CF schema) via
 `tools/sermon_transcribe.py` (background, /tmp/sermon_tr.log) +
 SERMON-01-youtube-transcript.md (word-for-word, YT OiduBXAHtUA).
 WHY IT MATTERS: the sermon text has its own narration — the verbatim
 layer can be HEARD; Fish is not needed for quoting. Quote-align =
-match excavation quotes against sermon-readings JSONs (next queue item).
+match excavation quotes against sources/sermons/readings JSONs (next queue item).
 
 ### Verbatim home (vendored 2026-10-28 — G5 no longer needs /tmp)
-`sources/53-nibbana-scaffold/` = the 33 sermon excavations =
+`sources/sermons/excavations/` = the 33 sermon excavations =
 **the only verbatim home** (G5 anchors quotes there, repo-local first;
 legacy `/tmp/satsang-ext/` path kept as fallback). The audio source
-of truth: `ds-full/`, `ds-mp3/`, root lecture mp3s + `lecture-*.transcript.cf.json`
-+ `yt-subs/` (YT-only: 03,06,07,14,17,20,22,24,26,27 — YT timebase).
+of truth: `sources/lectures/` (audio/ + transcripts/ + ds-full/ + ds-mp3/ + yt-subs/;
+YT-only: 03,06,07,14,17,20,22,24,26,27 — YT timebase).
 
 ## Locked decisions (do not re-litigate; the owner locked these)
 - **Chain:** What is Nibbana? → Why don't I see Nibbana right now? →
@@ -162,14 +165,14 @@ render 2026-10-28. p0_mix_check PASS, G9 PASS.
    (callback-gamble disclosed §37); (b) Fish voice approval (audition
    sent — blocks p1 render voice); (c) 7 demote-candidates
    (gold_fix_log.json demotes — was 16, trims resolved 9); (d) human
-   intros (slots empty by design, build/human-scripts.md); (e) YT
+   intros (slots empty by design, build/canon/human-scripts.md); (e) YT
    cold opens S3b1/S6b1 (ears required, transcripts can't arbitrate);
    (f) Qwen spend OK for the 2nd full ear round (§57 halt still holds —
    free-first green: G9 24/24 + mix 7/7). P1–P12 applied §61 (off
    the list). Tests inform; they decide.
 2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
    blocks per assets/sfx/README.md) + YT anchor-maps at cut. STATUS
-   2026-10-28: `build/yt_anchor_map.json` measured (whisper word-times,
+   2026-10-28: `build/canon/yt_anchor_map.json` measured (whisper word-times,
    multi-anchor: L03 4.5 / L06 ~1.5 drift / L07 1.5 / L14 10.0 / L17 7.8 /
    L20 DRIFT per-window / L22 6.2 / L24 7.3 / L26 8.6 / L27 9.3 adjudicated).
    Seed proof rendered to `build/audio_p1/` (bowls→bells, 2.4m, -17.2dB,

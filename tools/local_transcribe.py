@@ -19,9 +19,9 @@ def mp3_ready(path, wait=0):
 model = WhisperModel(MODEL, device="cpu", compute_type="int8", cpu_threads=4)
 print(f"model {MODEL} loaded", flush=True)
 for lec, talk in JOBS:
-    src = f"{D}/ds-mp3/lec-{talk}.mp3"
-    dst_mp3 = f"{D}/analayo-nibbana-lecture-{lec}.mp3"
-    out = f"{D}/lecture-{lec}.transcript.cf.json"
+    src = f"{D}/sources/lectures/ds-mp3/lec-{talk}.mp3"
+    dst_mp3 = f"{D}/sources/lectures/audio/analayo-nibbana-lecture-{lec}.mp3"
+    out = f"{D}/sources/lectures/transcripts/lecture-{lec}.transcript.cf.json"
     if os.path.exists(out):
         print(f"lec{lec}: transcript exists, skip", flush=True)
         continue

@@ -5,7 +5,7 @@
 - Provenance 100%, TTS lines English-first (04).
 - Audio inventory: which clips have DS-native mp3 vs YT-only
   (here: 33/33 present; 10 YT-timebase lectures cut via anchor map
-  build/yt_anchor_map.json — DS leads YT 0–30s depending on lecture).
+  build/canon/yt_anchor_map.json — DS leads YT 0–30s depending on lecture).
   Missing audio NEVER blocks text work; it blocks only final assembly.
 
 ## Cut + assemble (ffmpeg)

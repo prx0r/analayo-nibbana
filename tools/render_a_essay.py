@@ -19,10 +19,11 @@ from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
 BUILD = D / 'build'
+CANON = BUILD / 'canon'  # all product data lives here (assemblies, manifests, segs, keys)
 SR = 44100
 FISH_RATE = 150  # wpm, flat
 ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # script clip per section, TEXT identity only.
-# Canonical essay-0 answers live in build/essay0.json and ride
+# Canonical essay-0 answers live in build/canon/essay0.json and ride
 # inside assemblies (seed + section openers) — this file never defines windows
 # (single-source rule, R6; deleted the duplicate 2026-10-26 pointers).
 
@@ -97,9 +98,12 @@ VOICE_AF_SERM = ('highpass=f=80,lowpass=f=12000,'
 VOICE_AF_FISH = ('highpass=f=80,lowpass=f=12000,'
                  'acompressor=threshold=-18dB:ratio=2:attack=20:release=200,'
                  + FISH_EQ + ',loudnorm=I=-19:TP=-1.5:LRA=11')
+# Two Fish voices (owner 2026-10-28): student asks, elderly man answers.
+FISH_Q_VOICE = '07ad794fb3f245c1bb5782f9ac3bcd92'   # clear young male
+FISH_A_VOICE = 'f4011527d52045bebe004aa874695276'   # gentle elderly man
 
-LECT = {n: (D / f'analayo-nibbana-lecture-{n:02d}.mp3') for n in range(1, 34)}
-SERM = {n: (D / 'sermon-audio' / f'Nibbana_Stilled_{n:02d}.mp3') for n in range(1, 34)}
+LECT = {n: (D / f'sources/lectures/audio/analayo-nibbana-lecture-{n:02d}.mp3') for n in range(1, 34)}
+SERM = {n: (D / 'sources/sermons/audio' / f'Nibbana_Stilled_{n:02d}.mp3') for n in range(1, 34)}
 
 
 def run(*a):
@@ -128,8 +132,12 @@ def assert_audible(path, what):
         raise SystemExit(f'SILENT SLICE: {what} -> {path} (peak {peak} dB)')
 
 
+TAIL = 0.6  # 2026-10-28 owner: every clip needs a tail so the last word
+            # finishes before the fade ("extinction" was being cut off).
+            # Extend the output trim past the window end by TAIL seconds.
+
 def uni_wav(src, ss, to, dst):
-    dur = float(to) - float(ss)
+    dur = float(to) - float(ss) + TAIL
     # Accurate seek (2026-10-28 owner ear: input -ss starts slices EARLY on
     # keyframes — pre-roll chant/breath audible before sentence starts).
     # Hybrid: fast input seek to (ss-PRE), sample-accurate output trim.
@@ -137,7 +145,7 @@ def uni_wav(src, ss, to, dst):
     PRE = 5.0
     ss_in = max(0.0, float(ss) - PRE)
     off = float(ss) - ss_in
-    chain = VOICE_AF_SERM if 'sermon-audio' in str(src) else VOICE_AF
+    chain = VOICE_AF_SERM if 'sources/sermons/audio' in str(src) else VOICE_AF
     run('ffmpeg', '-v', 'error', '-y', '-ss', str(ss_in), '-i', str(src),
         '-ss', str(off), '-to', str(off + dur),
         '-ar', str(SR), '-ac', '1', '-c:a', 'pcm_s16le',
@@ -155,15 +163,13 @@ def silence(dur, dst):
         f'anullsrc=r={SR}:cl=mono:d={dur}', '-c:a', 'pcm_s16le', str(dst))
 
 
-def fish_wav(text, dst):
-    """Fish Audio guide voice: questions + plain responses (owner 2026-10-28:
-    QUESTION, PLAIN, ANALAYO — beat plains stay on screen, analayo-only).
+def fish_wav(text, dst, who='fish'):
+    """Fish Audio guide voice. who='fish' = student (questions);
+    who='plain' = elderly man (plain answers). Owner 2026-10-28.
     FREE TIER ONLY — model pinned to s2.1-pro-free, abort anything else
-    (owner: never spend credits). Default voice, flat delivery. Key from
-    $FISH_API_KEY, else characters/audition/.env (same key the audition
-    build uses); the key is never written anywhere by this script. No
-    silent fallback: API failure aborts the render instead of shipping
-    robot voice (R5).
+    (owner: never spend credits). Key from $FISH_API_KEY, else
+    characters/audition/.env. Never written anywhere by this script.
+    No silent fallback: API failure aborts the render (R5).
     Owner 2026-10-28: speech says NIRVANA (data + gates keep Nibbana)."""
     import json as _json
     import os as _os
@@ -171,6 +177,7 @@ def fish_wav(text, dst):
     MODEL = 's2.1-pro-free'
     assert MODEL == 's2.1-pro-free', 'paid model blocked: never spend credits'
     text = text.replace('Nibbana', 'Nirvana')
+    vid = FISH_Q_VOICE if who == 'fish' else FISH_A_VOICE
     key = (_os.getenv('FISH_API_KEY') or '').strip()
     if not key:
         for _ef in ('/root/characters/audition/.env',):
@@ -183,7 +190,8 @@ def fish_wav(text, dst):
                 pass
     if not key:
         raise SystemExit('FISH_API_KEY missing — cannot voice questions')
-    body = _json.dumps({'text': text, 'format': 'mp3'}).encode()
+    body = _json.dumps({'text': text, 'format': 'mp3',
+                        'reference_id': vid}).encode()
     req = _url.Request('https://api.fish.audio/v1/tts', data=body,
                        headers={'Authorization': f'Bearer {key}',
                                 'Content-Type': 'application/json',
@@ -274,13 +282,13 @@ def bridge_wav(dur, srcA, srcB):
     return dst
 
 
-def get_slice(kind, key, ss, to, src, text=''):
-    h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
+def get_slice(kind, key, ss, to, src, text='', who='fish'):
+    h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{who}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
     dst = CACHE / f'{kind}_{h}.wav'
     if dst.exists() and dst.stat().st_size > 0:
         return dst
     if kind == 'vox':
-        fish_wav(text, dst)
+        fish_wav(text, dst, who=who)
     elif kind == 'sil':
         silence(to, dst)
     else:
@@ -415,8 +423,9 @@ def voice_after(events, i, tag, n):
 def render_section(n, events, tag):
     prev_voice = [None]  # last rendered voice (bridges meet in the middle)
     wavs, log, kinds = [], [], []
-    if P1 and tag == 'seed':
+    if (P1 or NEWA) and tag == 'seed':
         # Bowls open the piece (sfx README: intro bell; echo at close).
+        # NEWA too (owner 2026-10-28: shiva-sutras/vatulanatha intro bell).
         wavs.append(CACHE / 'sfx_bowls_intro.wav')
         kinds.append('sfx-bowls')
         log.append('sfx bowls_intro opens seed (+10dB)')
@@ -425,6 +434,11 @@ def render_section(n, events, tag):
         if t in ('motto-bell', 'zoom-bell'):
             if P0_NO_BELLS:
                 log.append(f'{t} SKIPPED (p0: no bells)')
+                continue
+            # Bowls ARE the program open — skip the seed's motto-bell
+            # so we don't stack two bells (owner 2026-10-28).
+            if t == 'motto-bell' and tag == 'seed' and (P1 or NEWA):
+                log.append('motto-bell SKIPPED (bowls_intro opens seed)')
                 continue
             wavs.append(CACHE / f'{t}.wav')
             kinds.append(t)
@@ -458,14 +472,15 @@ def render_section(n, events, tag):
                 log.append(f'{t} {e["dur"]}s')
         elif t == 'fish':
             if e.get('role') in ('question', 'plain'):
-                # Guide voice: questions + plain responses (owner 2026-10-28).
-                # Beat plains (role None) stay on screen (analayo-only).
+                # Guide voice: questions = student, plains = elderly man
+                # (owner 2026-10-28). Beat plains (role None) stay on screen.
                 STATS['fish_lines'] += 1
                 say = e.get('say', '')
-                wavs.append(get_slice('vox', f'f{n}', 0, 0, None, say))
+                who = 'fish' if e.get('role') == 'question' else 'plain'
+                wavs.append(get_slice('vox', f'f{n}', 0, 0, None, say, who=who))
                 kinds.append('fish' if e.get('role') == 'question' else 'plain')
                 prev_voice[0] = ('fish',)
-                log.append(f'{e.get("role")}: {say[:60]}')
+                log.append(f'{e.get("role")}({who}): {say[:60]}')
             elif NO_PLAIN:
                 STATS['plain_skipped'] = STATS.get('plain_skipped', 0) + 1
                 log.append(f'beat plain on screen (analayo-only): {e.get("say", "")[:60]}')
@@ -616,7 +631,7 @@ def main():
     if P1 or NEWA:
         # NEWA needs YT offsets too (newA S1b11 rides L20); no sfx in newA.
         YT_OFF.update({int(k): (v.get('offset_s') or 0.0)
-                       for k, v in json.loads((BUILD / 'yt_anchor_map.json').read_text()).items() if isinstance(v, dict) and v.get('offset_s')})
+                       for k, v in json.loads((CANON / 'yt_anchor_map.json').read_text()).items() if isinstance(v, dict) and v.get('offset_s')})
         for name, gain in SFX_GAIN.items():
             dst = CACHE / f'sfx_{name}.wav'
             if not (dst.exists() and dst.stat().st_size > 0):
@@ -630,9 +645,9 @@ def main():
                             check=True, capture_output=True, text=True)
         BREAK_DUR = round(float(dp.stdout.strip()), 2)
     ALIGN = {(e['s'], e['clip']): e for e in
-             json.loads((BUILD / 'verbatim_audio_v1.json').read_text())}
-    asm = {0: json.loads((BUILD / 'assembly_s0_seed.json').read_text())}
-    asm.update({n: json.loads((BUILD / f'assembly_s{n}.json').read_text()) for n in range(1, 7)})
+             json.loads((CANON / 'verbatim_audio_v1.json').read_text())}
+    asm = {0: json.loads((CANON / 'assembly_s0_seed.json').read_text())}
+    asm.update({n: json.loads((CANON / f'assembly_s{n}.json').read_text()) for n in range(1, 7)})
 
     manifest, files = {}, {}
     mp3, dur, log = render_section(0, asm[0], 'seed')
@@ -645,7 +660,7 @@ def main():
         print('STATS', STATS)
         return
     if NEWA:
-        newa = json.loads((BUILD / 'newA_manifest.json').read_text())
+        newa = json.loads((CANON / 'newA_manifest.json').read_text())
         for n in range(1, 7):
             sec = newa['sections'][str(n)]
             picks = [sec['pointer']['beat']] + [u['beat'] for u in sec['beats']]
@@ -655,8 +670,14 @@ def main():
             manifest[f's{n}'] = {'min': round(dur / 60, 2), 'log': log,
                                  'timeline': manifest_timeline[f's{n}'],
                                  'beats': picks}
+        # 30s silence between seed (essay-0) and A (owner 2026-10-28)
+        gap = OUT / 'seed_A_gap.mp3'
+        run('ffmpeg', '-v', 'error', '-y', '-f', 'lavfi', '-i',
+            'anullsrc=r=44100:cl=mono:d=30', '-c:a', 'libmp3lame',
+            '-b:a', '128k', str(gap))
         lst = OUT / 'full.lst'
-        lst.write_text(''.join(f"file '{files[t]}'\n" for t in ['seed'] + [f's{n}' for n in range(1, 7)]))
+        parts = [str(files['seed']), str(gap)] + [str(files[f's{n}']) for n in range(1, 7)]
+        lst.write_text(''.join(f"file '{p}'\n" for p in parts))
         run('ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(lst),
             '-c:a', 'copy', str(OUT / 'full_newA_essay.mp3'))
         manifest['stats'] = STATS

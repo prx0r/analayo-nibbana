@@ -28,7 +28,7 @@ def _resolve_src():
     here = os.path.dirname(os.path.abspath(__file__))
     cands = [
         os.path.normpath(os.path.join(here, '..', '..', 'sources',
-                                      '53-nibbana-scaffold', 'sermon-*.md')),
+                                      'sermons/excavations', 'sermon-*.md')),
         os.path.join(os.environ.get('SERMON_SCAFFOLD_DIR', ''), 'sermon-*.md')
         if os.environ.get('SERMON_SCAFFOLD_DIR') else None,
         SRC,
@@ -62,7 +62,7 @@ def main():
     files = [norm(open(f).read()) for f in sorted(glob.glob(pat))]
     bad, total, miss = 0, 0, []
     for s in range(1, 7):
-        for e in json.load(open('build/seg%d_script.json' % s)):
+        for e in json.load(open('build/canon/seg%d_script.json' % s)):
             v = e.get('nanananda_verbatim', '')
             for q in (v if isinstance(v, list) else [v]):
                 if not q:
@@ -74,9 +74,9 @@ def main():
                 if not any((chr(34) + qn + chr(34)) in raw for raw in files):
                     bad += 1
                     miss.append((s, e['clip'], qn[:60]))
-    # Essay-0 TEXT (build/essay0.json, canonical) bypasses the scripts —
+    # Essay-0 TEXT (build/canon/essay0.json, canonical) bypasses the scripts —
     # anchor it too (S2 triple, owner 2026-10-28). Same rule, no exceptions.
-    for _u in json.load(open('build/essay0.json'))['units'].values():
+    for _u in json.load(open('build/canon/essay0.json'))['units'].values():
         v = _u.get('text', '')
         for q in (v if isinstance(v, list) else [v]):
             total += 1

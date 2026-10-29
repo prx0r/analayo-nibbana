@@ -22,7 +22,7 @@ R.NEWA_SEED_ONLY = (len(sys.argv) < 2 or sys.argv[1] == 'seed')
 # We monkey-patch render_a_essay's main to use ladder_manifest instead
 # of newA_manifest. Cleanest: point NEWA_MANIFEST at the B rung.
 import pathlib
-B = pathlib.Path('/root/analayo-nibbana/build')
+B = pathlib.Path('/root/analayo-nibbana/build/canon')
 ladder = json.loads((B / 'ladder_manifest.json').read_text())
 b_rung = ladder['rungs']['B']
 # Build a newA-shaped manifest from B rungs (units have 'analayo' as list)

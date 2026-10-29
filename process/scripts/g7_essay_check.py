@@ -29,7 +29,7 @@ import json
 import re
 import sys
 
-D = '/root/analayo-nibbana/build'
+D = '/root/analayo-nibbana/build/canon'
 QUESTIONS_EXPECTED = {
     1: "What is Nibbana?",
     2: "Why don't I see Nibbana right now?",

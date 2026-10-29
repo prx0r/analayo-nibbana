@@ -1,10 +1,10 @@
 # REPRODUCE — exact rerun, top to bottom.
 
-Prerequisites: repo (scaffold vendored at `sources/53-nibbana-scaffold/`;
+Prerequisites: repo (scaffold vendored at `sources/sermons/excavations/`;
 legacy `/tmp/satsang-ext` path still works as fallback) + transcripts
-(`lecture-*.transcript.cf.json`, `yt-subs/`) +
+(`sources/lectures/transcripts/lecture-NN.transcript.cf.json`, `sources/lectures/yt-subs/`) +
 all 33 DS mp3s (10 fetched this session from dharmaseed retreat 4373,
-talk IDs 58720+N, symlinked as `analayo-nibbana-lecture-NN.mp3`).
+talk IDs 58720+N, symlinked as `sources/lectures/audio/analayo-nibbana-lecture-NN.mp3`).
 `build/` is the LIVE data directory — builders (rebuild_text.py,
 make_assembly.py) read AND write it directly; /tmp is scratch only
 (axiom 13).
@@ -38,10 +38,10 @@ make_assembly.py) read AND write it directly; /tmp is scratch only
 6d. Sharpen A (order only): edit `segN_core_v4.json` arrays + matching
    `manifest_sN_core_v4.txt` lines, then 6e–6f.
 6e. Sharpen B: `python3 process/scripts/sharpen_gold.py` (sequence law,
-   edge re-snap, motto-cap manifests; log build/gold_fix_log.json).
-6f. Storyboard: `python3 tools/build_storyboard.py` (build/STORYBOARD.md).
+   edge re-snap, motto-cap manifests; log build/versions/gold_fix_log.json).
+6f. Storyboard: `python3 tools/build_storyboard.py` (build/canon/STORYBOARD.md).
 6g. Align verbatim: `python3 tools/align_verbatim_audio.py`
-   (build/verbatim_audio_v1.json; must print ok=71).
+   (build/canon/verbatim_audio_v1.json; must print ok=71).
 6h. Render p0: `python3 tools/render_a_essay.py` (needs FISH_API_KEY env
    or characters/audition/.env; free model pinned; writes build/audio_p0/
    + manifest.json with per-slice timeline). Renders are local-only,
@@ -49,13 +49,13 @@ make_assembly.py) read AND write it directly; /tmp is scratch only
 6i. Mix proof: `python3 process/scripts/p0_mix_check.py` (must PASS).
 6j. Ear protocol: fixtures (`ear_regression.py`, calibration only),
    probes (`ear_probes.py`, must PASS), omni descriptive rounds per
-   14-LISTENING (scoped re-listens). Ledger: build/EAR_LEDGER.md.
+   14-LISTENING (scoped re-listens). Ledger: build/ears/EAR_LEDGER.md.
 7. Run `process/verify.sh` — G1 totals, G5 semantic quote-anchor,
    G6 punctuation/Pali, G6b hardened (leading-run + term-attachment +
    embedded canary), G7 essay/chain/seed, G8 film manifest (nesting,
    budgets, provenance, chain, pool-membership), file presence. ALL PASS or stop. If a gate
    fails, fix the DATA or the KEY — never relax the gate (axiom 12).
-7b. FINAL LOOKOVER (done once per major pass; see REVIEW.md): read
+7b. FINAL LOOKOVER (done once per major pass; see reviews/REVIEW.md): read
    every beat as a first-time listener → findings-only REVIEW →
    amendment pass with sourced quotes, logged in
    CONDENSED-BUILD-NOTES §25/§26. Amendments are recorded as

@@ -1,6 +1,6 @@
-"""Timestamp the 33 sermon readings (sermon-audio/*.mp3) with faster-whisper.
+"""Timestamp the 33 sermon readings (sources/sermons/audio/*.mp3) with faster-whisper.
 
-Output: sermon-readings/Nibbana_Stilled_NN.json in the CF transcript schema
+Output: sources/sermons/readings/Nibbana_Stilled_NN.json in the CF transcript schema
 {source, duration, engine, sentences:[{t,end,text}]} so quote-alignment tools
 (sermon readings = the verbatim voice) work unchanged. Skip-existing; ordered
 01..33; log: /tmp/sermon_tr.log (nohup python3 tools/sermon_transcribe.py).
@@ -9,8 +9,8 @@ import os, json, subprocess, time
 from faster_whisper import WhisperModel
 
 D = "/root/analayo-nibbana"
-SRC = f"{D}/sermon-audio"
-OUT = f"{D}/sermon-readings"
+SRC = f"{D}/sources/sermons/audio"
+OUT = f"{D}/sources/sermons/readings"
 MODEL = "small.en"
 os.makedirs(OUT, exist_ok=True)
 

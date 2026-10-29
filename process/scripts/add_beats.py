@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
-B = D / 'build'
+B = D / 'build' / 'canon'
 sys.path.insert(0, str(D / 'process' / 'scripts'))
 import rebuild_text as rt
 
@@ -92,7 +92,7 @@ def norm(t):
 
 def anchored(quotes):
     srcs = {}
-    for f in sorted((D / 'sources' / '53-nibbana-scaffold').glob('sermon-*.md')):
+    for f in sorted((D / 'sources' / 'sermons/excavations').glob('sermon-*.md')):
         srcs[f] = norm(open(f).read())
     bad = []
     for (s, q) in quotes:

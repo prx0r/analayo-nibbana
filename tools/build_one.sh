@@ -2,16 +2,16 @@
 # usage: build_one.sh <lec>  — waits for transcript, builds trimmed cutplan + skeleton
 lec=$1
 D=/root/analayo-nibbana
-while [ ! -s $D/lecture-${lec}.transcript.cf.json ]; do sleep 30; done
+while [ ! -s $D/sources/lectures/transcripts/lecture-${lec}.transcript.cf.json ]; do sleep 30; done
 sleep 5
 python3 $D/tools/auto_keeps.py $lec
 python3 $D/tools/trim_keeps.py $lec | tail -n 1
 python3 $D/tools/gen_plan.py $lec $D/tools/lec${lec}_keeps.py
 python3 -c "
 import json
-d=json.load(open('$D/lecture-${lec}.transcript.cf.json'))
+d=json.load(open('$D/sources/lectures/transcripts/lecture-${lec}.transcript.cf.json'))
 segs=sorted(d['sentences'], key=lambda s: s['t'])
-plan=json.load(open('$D/lecture-${lec}.cutplan.json'))
+plan=json.load(open('$D/sources/lectures/cutplans/lecture-${lec}.cutplan.json'))
 print('===== LEC$lec kept=',round(plan['kept_sec']/60,1),'drops=',len(plan['dropped_spans']),'grades=',plan['grade_counts'])
 def mm(s): return f'{int(s//60)}:{int(s%60):02d}'
 bad=[]

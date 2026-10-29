@@ -7,8 +7,8 @@ Writes tools/lecNN_keeps.py draft. Human reviews md after gen_plan.
 import json, re, sys, os
 lec = f"{int(sys.argv[1]):02d}"
 D = "/root/analayo-nibbana"
-cf_path = f"{D}/lecture-{lec}.transcript.cf.json"
-yt_path = f"{D}/yt-subs/lecture-{lec}.json"
+cf_path = f"{D}/sources/lectures/transcripts/lecture-{lec}.transcript.cf.json"
+yt_path = f"{D}/sources/lectures/yt-subs/lecture-{lec}.json"
 has_cf = os.path.exists(cf_path)
 if has_cf:
     d = json.load(open(cf_path))

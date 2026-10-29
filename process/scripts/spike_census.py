@@ -12,7 +12,7 @@ import subprocess
 from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
-B = D / 'build'
+B = D / 'build' / 'canon'
 
 
 def stats(src, ss, to):
@@ -48,7 +48,7 @@ def main():
             wins.append((f'S{n}b{u["beat"]}', a['lec'], a['start'], a['end']))
     print(f'{len(wins)} windows')
     for tag, lec, ss, to in wins:
-        v = stats(D / f'analayo-nibbana-lecture-{lec:02d}.mp3', ss, to)
+        v = stats(D / f'sources/lectures/audio/analayo-nibbana-lecture-{lec:02d}.mp3', ss, to)
         peak, mean = v.get('max_volume', -99), v.get('mean_volume', -99)
         crest = peak - mean
         flag = ('CLIP' if peak > -3 else '') + ('BURST' if crest > 20 else '')

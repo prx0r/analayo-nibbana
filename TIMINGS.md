@@ -1,5 +1,5 @@
 # TIMINGS — the ladder (recomputed 2026-10-28; rung manifests in
-# build/newA_manifest.json + build/ladder_manifest.json; analayo-only:
+# build/canon/newA_manifest.json + build/canon/ladder_manifest.json; analayo-only:
 # Fish questions + Analayo clips; verbatim+plain on screen).
 # Recompute: python3 process/scripts/build_newA.py +
 # python3 process/scripts/build_rungs.py (asserts budgets).

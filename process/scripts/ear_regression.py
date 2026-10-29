@@ -79,7 +79,7 @@ def main():
         print(f'--- {f}\n{txt[:400]}\n')
     json.dump(results, open(D / 'build' / 'ear_regression_last.json', 'w'),
               indent=1)
-    print('full texts: build/ear_regression_last.json')
+    print('full texts: build/ears/ear_regression_last.json')
     print('NOTE: keyword-gating scored 4/8 on 2026-10-26 (midcut needs',
           'expected-text to judge; good_fish false-alarmed on a 2s clip).',
           'This runner is CALIBRATION (human reads the texts), not a gate.')

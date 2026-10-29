@@ -2,7 +2,7 @@
 
 14 chunks (seed×1, s1×2, s2×3, s3×3, s4×1, s5×2, s6×2; ≤12min +30s
 overlap; qwen3-omni-flash, temperature 0, descriptive prompt, full texts:
-build/ear_round3.json). p0_mix_check PASS all 7 on this render; whisper
+build/ears/ear_round3.json). p0_mix_check PASS all 7 on this render; whisper
 small.en seed audit: 5/6 Qs + all six answers incl. NEW "conceit ...
 five grasping groups" (U4 fix audible) + perception-tail (U3); Q5's 2s
 Fish line whisper-missed but render-log + per-slice assert_audible prove
@@ -61,7 +61,7 @@ weakest-of-six. U6 opens on framing, payoff line follows in-window.
 S1: two editorial joints (one fixed: post-essay-0 stillness, rendered in).
 S2–S6: CLEAN, 11 chunks. Fish voice passes as natural.
 
-## Floors (build/ear_floors.json)
+## Floors (build/ears/ear_floors.json)
 
 0 defects/section; directness yes on all essay-0 (U2 disclosed);
 slice peak > −60dB (coded gate); sections within ±3dB; order verified

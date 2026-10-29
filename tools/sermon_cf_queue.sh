@@ -1,11 +1,11 @@
 #!/bin/bash
-# CF Whisper queue for 33 sermon readings -> sermon-readings/*.json
+# CF Whisper queue for 33 sermon readings -> sources/sermons/readings/*.json
 D=/root/analayo-nibbana
 LOG=/tmp/sermon_cf.log
 echo "=== CF queue start $(date -u) ===" >> "$LOG"
 for n in $(seq -w 1 33); do
-  src="$D/sermon-audio/Nibbana_Stilled_${n}.mp3"
-  out="$D/sermon-readings/Nibbana_Stilled_${n}.json"
+  src="$D/sources/sermons/audio/Nibbana_Stilled_${n}.mp3"
+  out="$D/sources/sermons/readings/Nibbana_Stilled_${n}.json"
   # skip if already done with CF engine
   if [ -s "$out" ] && grep -q "cf-whisper-large-v3-turbo" "$out" 2>/dev/null; then
     echo "$n already CF-done, skip" | tee -a "$LOG"

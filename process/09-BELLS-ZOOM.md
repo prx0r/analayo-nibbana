@@ -42,8 +42,8 @@ no library bells, no variation. Recognition IS the function.
    The two bells never sound within 30s of each other.
 
 ## Assembly manifests
-`build/assembly_sN.json`: ordered event lists —
+`build/canon/assembly_sN.json`: ordered event lists —
 {motto-bell, fish(question), pause(recollect), human-intro(pending), Analayo cold-open} [{verbatim on screen, fish (plain English), breath, [fish-terms], analayo, water} per beat] {zoom-bell at section end, except §6 → {seed reprise,
 motto-bell, silence}}. `build/assets/motto-bell.wav`,
 `build/assets/zoom-bell.wav`. Human intros referenced from
-`build/human-scripts.md` (recorded separately, dropped in).
+`build/canon/human-scripts.md` (recorded separately, dropped in).

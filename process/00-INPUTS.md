@@ -12,7 +12,7 @@
 
 ## 2. MP3 rendition (someone speaking it)
 - One audio file per unit, same order as the text units (here:
-  `analayo-nibbana-lecture-NN.mp3`, 33/33 present — 23 native + 10 fetched
+  `sources/lectures/audio/analayo-nibbana-lecture-NN.mp3`, 33/33 present — 23 native + 10 fetched
   from dharmaseed retreat 4373, symlinked).
 - Quality bar: single voice, single mic/room if possible (joins go
   invisible). DS-native seconds are the timebase.
@@ -21,8 +21,8 @@
 
 ## 3. Transcripts (the bridge between 1 and 2)
 - Per unit, timestamped sentences: `[{t, end, text}]` (here:
-  `lecture-NN.transcript.cf.json` from faster-whisper; 23 CF + 10 YT-cue
-  fallbacks in `yt-subs/`).
+  `sources/lectures/transcripts/lecture-NN.transcript.cf.json` from faster-whisper; 23 CF + 10 YT-cue
+  fallbacks in `sources/lectures/yt-subs/`).
 - The transcript must ALSO mark voice changes if the speaker alternates
   roles. Here: literal `Comment ... End of comment` markers split
   Nanananda-reading from Analayo-explaining — that split IS the

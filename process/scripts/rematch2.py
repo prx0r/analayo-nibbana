@@ -9,10 +9,10 @@ STOP=set('the,a,an,and,or,but,of,to,in,on,for,with,as,at,by,from,is,are,was,were
 def toks(t): return set(w.strip('.,;:!?()\"') for w in t.lower().split() if w.strip('.,;:!?()\"') not in STOP and len(w)>3)
 def cliptext(x):
   import os
-  p=D+'/lecture-%02d.transcript.cf.json'%x['lec']
+  p=D+'/sources/lectures/transcripts/lecture-%02d.transcript.cf.json'%x['lec']
   if os.path.exists(p):
     tr=json.load(open(p)); return ' '.join(s['text'] for s in tr['sentences'] if s['end']>x['start'] and s['t']<x['end']).lower()
-  tr=json.load(open(D+'/yt-subs/lecture-%02d.json'%x['lec'])); cues=tr.get('cues',[])
+  tr=json.load(open(D+'/sources/lectures/yt-subs/lecture-%02d.json'%x['lec'])); cues=tr.get('cues',[])
   return ' '.join(c.get('x','') for c in cues if c.get('e',0)>x['start'] and c.get('t',0)<x['end']).lower()
 pool={int(s):[(n,q) for n,q in v] for s,v in json.load(open('/tmp/opencode/condensed/quote_pool.json')).items()}
 for s in range(1,7):

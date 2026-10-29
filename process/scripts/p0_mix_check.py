@@ -74,8 +74,8 @@ def silences(mp3, thresh='-40dB', min_d=1.2):
 def main():
     fails = []
     man = json.loads(open(OUT / 'manifest.json').read())
-    asms = {'seed': json.loads(open(B / 'assembly_s0_seed.json').read())}
-    asms.update({f's{n}': json.loads(open(B / f'assembly_s{n}.json').read())
+    asms = {'seed': json.loads(open(B / 'canon' / 'assembly_s0_seed.json').read())}
+    asms.update({f's{n}': json.loads(open(B / 'canon' / f'assembly_s{n}.json').read())
                  for n in range(1, 7)})
     for tag in ['seed'] + [f's{n}' for n in range(1, 7)]:
         mp3 = OUT / f'{tag}.mp3'

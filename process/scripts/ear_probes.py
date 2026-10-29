@@ -77,7 +77,7 @@ def main():
     tags = sys.argv[1:] or ['seed']
     fails = 0
     for tag in tags:
-        asm = (json.loads(open(B / 'assembly_s0_seed.json').read())
+        asm = (json.loads(open(B / 'canon' / 'assembly_s0_seed.json').read())
                if tag == 'seed' else None)
         if tag == 'seed':
             units = []
@@ -108,7 +108,7 @@ def main():
                 fails += 1
                 continue
             exp = None
-            seed0 = json.loads(open(B / 'assembly_s0_seed.json').read())
+            seed0 = json.loads(open(B / 'canon' / 'assembly_s0_seed.json').read())
             q1 = [e['say'] for e in seed0 if e.get('role') == 'question'][0]
             a1 = [e['text'] for e in seed0 if e['t'] == 'verbatim'][0]
             a1 = (a1 if isinstance(a1, str) else a1[0])[:60]

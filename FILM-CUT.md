@@ -1,8 +1,8 @@
 # FILM-CUT — the five-hour version (lab/c-split, recomputed 2026-10-28
-from build/film_manifest.json; recompute: sum chapter depth durs)
+from build/canon/film_manifest.json; recompute: sum chapter depth durs)
 
 Built from visuals/FIVE-HOUR-CUT.md. Membership manifest:
-`build/film_manifest.json` — every clip assigned to its EARLIEST depth,
+`build/canon/film_manifest.json` — every clip assigned to its EARLIEST depth,
 gates: `process/scripts/g8_film_check.py` (wired into verify.sh as G8).
 
 ## Method

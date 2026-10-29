@@ -104,7 +104,7 @@ def main():
     bad = []
     # --- G6a: punctuation + diacritics
     for s in range(1, 7):
-        for e in json.load(open('build/seg%d_script.json' % s)):
+        for e in json.load(open('build/canon/seg%d_script.json' % s)):
             t = e.get('tts_line', '')
             if re.search(r'[—:;] *$|\(|\)|^[-\—]|  | $', t):
                 bad.append((s, e['clip'], 'punct'))
@@ -116,13 +116,13 @@ def main():
         bad.append(('canary', 'fail',
                     'G6b DETECTOR BROKEN: did not flag the known-bad S5b2 line'))
     for s in range(1, 7):
-        for e in json.load(open('build/seg%d_script.json' % s)):
+        for e in json.load(open('build/canon/seg%d_script.json' % s)):
             if has_leading_pali_run(e.get('tts_line', '')):
                 bad.append((s, e['clip'], 'leading-pali-run'))
 
     # --- G6c: term must be attached or approved
     for s in range(1, 7):
-        for e in json.load(open('build/seg%d_script.json' % s)):
+        for e in json.load(open('build/canon/seg%d_script.json' % s)):
             t = e.get('tts_line', '')
             for m in PALI.finditer(t):
                 term = strip_dia(m.group(0))

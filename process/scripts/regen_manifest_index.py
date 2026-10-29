@@ -1,7 +1,7 @@
-"""Regenerate build/manifest_index.json from current seg JSONs.
+"""Regenerate build/canon/manifest_index.json from current seg JSONs.
 
 Usage: python3 process/scripts/regen_manifest_index.py
-Reads build/seg{N}_{core_v4,gold,pool}.json, writes {clips, min, audio_ok}.
+Reads build/canon/seg{N}_{core_v4,gold,pool}.json, writes {clips, min, audio_ok}.
 audio_ok is N/N (all 33 DS mp3s present since 2026-10-24, §24 notes).
 Manifest *.txt line counts may differ from gold JSON by design (motto-cap
 omissions, sharpen_gold.py step 3) — the index tracks DATA counts.
@@ -10,7 +10,7 @@ import json
 import os
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-BUILD = os.path.normpath(os.path.join(HERE, "..", "..", "build"))
+BUILD = os.path.normpath(os.path.join(HERE, "..", "..", "build", "canon"))
 
 out = {}
 for n in range(1, 7):

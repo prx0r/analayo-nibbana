@@ -19,9 +19,9 @@ import json
 from collections import Counter
 
 D = '/root/analayo-nibbana'
-td = '/root/analayo-nibbana/build'
+td = '/root/analayo-nibbana/build/canon'
 
-# The 6 questions — lifted verbatim from build/human-scripts.md section headers.
+# The 6 questions — lifted verbatim from build/canon/human-scripts.md section headers.
 # They ARE the 6-slot argument (process/12-ARGUMENT.md); Fish speaks them as-is.
 QUESTIONS = {
     # THE FORMULA (process/12-ARGUMENT.md): every spine question passes
@@ -40,7 +40,7 @@ QUESTIONS = {
     6: "What is Nibbana like?",
 }
 # Essay 0, CANONICAL single source (owner 2026-10-28: "save this
-# canonically as 0"): build/essay0.json holds question + plain response +
+# canonically as 0"): build/canon/essay0.json holds question + plain response +
 # verbatim TEXT + pointer audio per unit. Builders read it; nobody
 # duplicates it (R6). QUESTIONS stays in code (g8_film_check parses this
 # block); ESSAY0_BEAT stays (essay-0 host beat identity for the loop).
@@ -48,6 +48,18 @@ E0 = json.load(open(td + '/essay0.json'))['units']
 for _s in ('1', '2', '3', '4', '5', '6'):
     assert E0[_s]['question'] == QUESTIONS[int(_s)], \
         'essay0.json question drifted from code QUESTIONS'
+# RHYTHM (build/canon/rhythm.json): named silence slots + owner-dated
+# per-unit overrides. R(s, slot) = override or default. No magic numbers.
+_RH = json.load(open(td + '/rhythm.json'))
+_SL = _RH['slots']
+_OV = _RH.get('overrides', {})
+def R(s, slot):
+    o = _OV.get(str(s), {}).get(slot)
+    return o['dur'] if isinstance(o, dict) else _SL[slot]
+for _us, _ovs in _OV.items():
+    for _slot, _o in _ovs.items():
+        assert isinstance(_o, dict) and 'dur' in _o and _o.get('why'), \
+            'rhythm override %s.%s needs {dur, why}' % (_us, _slot)
 # Essay 0 per section (the beat whose answer IS the question's reply).
 # S2 b1 = the whirlpool-in-our-bodies quote on the L02 [5128-5193]
 # window (Analayo speaks the answer aloud: "Samsara is a whirlpool as
@@ -55,7 +67,7 @@ for _s in ('1', '2', '3', '4', '5', '6'):
 # the motto-echo that merely repeated essay-0 unit 1 (owner: "2 doesnt
 # answer the question for 2"). S3 b5 "What impels one to ignore that
 # gap is craving" answers "What keeps it going?".
-ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # essay-0 host beat per section (which core clip the opening consumes; TEXT/AUDIO/plain all come from build/essay0.json). S2 host = dog arc (stays a beat; essay-0 content overridden by the triple).
+ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # essay-0 host beat per section (which core clip the opening consumes; TEXT/AUDIO/plain all come from build/canon/essay0.json). S2 host = dog arc (stays a beat; essay-0 content overridden by the triple).
 
 terms = {s: json.load(open('%s/seg%d_terms.json' % (td, s))) for s in range(1, 7)}
 tmap = {}
@@ -70,7 +82,7 @@ for s in range(1, 7):
 
     # ---- OPENING (owner 2026-10-28): question -> PLAIN RESPONSE (Fish
     # guide voice, plain words) -> essay 0 (verbatim+plain on screen,
-    # archive voice answers). All essay-0 content from build/essay0.json.
+    # archive voice answers). All essay-0 content from build/canon/essay0.json.
     oi = ESSAY0_BEAT[s] - 1
     b1 = core[oi]
     b1e = byclip.get(b1.get('clip'))
@@ -83,13 +95,14 @@ for s in range(1, 7):
     ev = [
         {'t': 'motto-bell'},
         {'t': 'fish', 'role': 'question', 'say': QUESTIONS[s]},
-        {'t': 'pause', 'dur': 3.0, 'role': 'recollect',
+        {'t': 'pause', 'dur': R(s, 'recollect'), 'role': 'recollect',
          'note': 'listener tries to answer first - this pause IS the learning'},
         {'t': 'fish', 'role': 'plain', 'say': plain0,
          'note': 'PLAIN RESPONSE: the answer in plain words first (voice: Fish guide)'},
         # Breath BEFORE the archive voice (2026-10-28 owner ear: Fish plain
         # slammed straight into Analayo with zero air = audible hiccup).
-        {'t': 'breath', 'dur': 1.5, 'role': 'voice-change',
+        # Duration from rhythm.json (U1 = 5.0s owner override: let it land).
+        {'t': 'breath', 'dur': R(s, 'plain_breath'), 'role': 'voice-change',
          'note': 'air between guide voice and archive voice'},
         {'t': 'verbatim',
          'text': E0U['text'],
@@ -104,12 +117,12 @@ for s in range(1, 7):
     for j, (lec, ss, ee) in enumerate(wins):
         ev.append({'t': 'analayo', 'lec': lec, 'start': ss, 'end': ee,
                    'dur': round(ee - ss, 1), 'essay': 0,
-                   'note': 'ESSAY 0 AUDIO %d/%d: pointer (build/essay0.json)'
+                   'note': 'ESSAY 0 AUDIO %d/%d: pointer (build/canon/essay0.json)'
                            % (j + 1, len(wins))})
         if j < len(wins) - 1:
-            ev.append({'t': 'breath', 'dur': 1.5})
+            ev.append({'t': 'breath', 'dur': R(s, 'triple_breath')})
     ev += [
-        {'t': 'water', 'dur': 2.5,
+        {'t': 'water', 'dur': R(s, 'essay0_stillness'),
          'note': 'post-answer stillness: the answer lands before beats begin (2026-10-26 ear-pass: essay-0 slammed into beat-2 verbatim with zero pause)'},
         {'t': 'human-intro', 'ref': 'human-scripts.md section %d' % s,
          'status': 'optional-pending',
@@ -132,15 +145,15 @@ for s in range(1, 7):
             ev.append({'t': 'fish-term',
                        'say': d.get('fish_says', d.get('say', '')),
                        'hears': d.get('hears', '')})
-        ev.append({'t': 'breath', 'dur': 1.5})
+        ev.append({'t': 'breath', 'dur': R(s, 'beat_breath')})
         ev.append({'t': 'analayo', 'lec': x['lec'], 'start': x['start'],
                    'end': x['end'],
                    'dur': x.get('dur', round(x['end'] - x['start'], 1))})
         # Water scales with clip weight (owner 2026-10-26): flat 2.5s after
         # a 40s clip is right; after a 5-minute exegesis the listener needs
-        # a breath. 2.5s base + 1s per 60s, capped at 6s.
+        # a breath. base + 1s per 60s, capped (all three from rhythm.json).
         ev.append({'t': 'water',
-                   'dur': min(6.0, round(2.5 + x.get('dur', round(x['end'] - x['start'], 1)) / 60.0, 1))})
+                   'dur': min(_SL['beat_water_cap'], round(_SL['beat_water_base'] + x.get('dur', round(x['end'] - x['start'], 1)) / 60.0, 1))})
 
     # ---- CLOSE
     if s < 6:
@@ -148,9 +161,9 @@ for s in range(1, 7):
         # Section-boundary stillness (owner 2026-10-26): the question
         # changes, the listener needs a reset. 6s settle AFTER the bell —
         # sections must not blur into each other.
-        ev.append({'t': 'pause', 'dur': 6.0, 'role': 'settle',
+        ev.append({'t': 'pause', 'dur': R(s, 'settle'), 'role': 'settle',
                    'note': 'section boundary stillness after zoom-bell'})
     else:
-        ev += [{'t': 'seed-reprise'}, {'t': 'motto-bell'}, {'t': 'silence', 'dur': 30}]
+        ev += [{'t': 'seed-reprise'}, {'t': 'motto-bell'}, {'t': 'silence', 'dur': R(s, 'terminal')}]
     json.dump(ev, open('%s/assembly_s%d.json' % (td, s), 'w'), indent=1)
     print('S%d: %d events %s' % (s, len(ev), dict(Counter(x['t'] for x in ev))))

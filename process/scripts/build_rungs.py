@@ -11,20 +11,25 @@ D 45m/q -> archive 20h (reference only). Analayo-only throughout
   1500s / 2700s (+40s slack). Fill cost = dur + 10s seams.
 
 Usage: python3 process/scripts/build_rungs.py
-Writes build/ladder_manifest.json (rungs B/C/D). Asserts budgets.
+Writes build/canon/ladder_manifest.json (rungs B/C/D). Asserts budgets.
 """
 import json
 import re
 from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
-B = D / 'build'
+B = D / 'build' / 'canon'
 BUDGETS = {'B': 600.0, 'C': 1200.0, 'D': 2700.0}
 SLACK = 40.0
 
 # B curated subsets (assembly beat numbers; S1/S4 = whole old-A).
 B_PICKS = {
-    1: None,  # whole (old-A + hunt beats 12-14)
+    1: [(1, 'pointer motto'), (2, 'fire/lamp'),
+        (3, 'CONTRADICTION (owner: FIRST)'),
+        (4, 'Vaccha undesignable'), (5, 'warming vs cooling'),
+        (6, 'third-truth resolution'), (7, 'quenched thirst'),
+        (8, 'motto refrain'), (9, 'sa-upadisesa'),
+        (10, 'oil-lamp cooling'), (11, 'debt/freedom')],
     2: [(1, 'pointer TRIPLE (owner §74)'), (2, 'whirlpool bodies'),
         (8, 'ignorance dethroned — not first either'),
         (10, 'akalika immediacy'), (11, 'three-periods warrant'),
@@ -179,7 +184,7 @@ def main():
                             'units': beats}
         man['rungs'][rung] = rsec
     (B / 'ladder_manifest.json').write_text(json.dumps(man, indent=1) + '\n')
-    print('wrote build/ladder_manifest.json')
+    print('wrote build/canon/ladder_manifest.json')
 
 
 if __name__ == '__main__':

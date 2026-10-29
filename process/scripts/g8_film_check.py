@@ -9,7 +9,7 @@ seed clips are atomic source windows (documented in FILM-CUT.md).
 """
 import json, sys, re
 
-M = json.load(open('build/film_manifest.json'))
+M = json.load(open('build/canon/film_manifest.json'))
 BUD = {int(k): tuple(v) for k, v in M['budgets_s'].items()}
 CHAIN = {
     1: 'What is Nibbana?',
@@ -31,7 +31,7 @@ for s in range(1, 7):
     if live.get(s) != CHAIN[s]:
         fails.append('chain drift ch%d: manifest=%r build=%r' % (s, CHAIN[s], live.get(s)))
 
-pool = {s: json.load(open('build/seg%d_pool.json' % s)) for s in range(1, 7)}
+pool = {s: json.load(open('build/canon/seg%d_pool.json' % s)) for s in range(1, 7)}
 
 def kset(cells): return {(c['lec'], round(c['start'], 1)) for c in cells}
 def dur(cells): return sum(c['dur'] for c in cells)

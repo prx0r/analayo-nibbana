@@ -38,7 +38,7 @@ section), human intro per segment, bells + pauses per the flow grammar.
 04 PAD+GLOSS+VOICE verbatim assignment w/ provenance -> key gloss -> TTS lines -> 3 speakers
 05 QA              gates at every stage (provenance, flow, hold-up, TTS)
 06 RENDER          ffmpeg assembly, loudnorm, bells, cough cover
---- between 05 and 06 lives the FINAL LOOKOVER: REVIEW.md (read every
+--- between 05 and 06 lives the FINAL LOOKOVER: reviews/REVIEW.md (read every
     beat as a first-time listener, findings only, then an amendment
     pass that fixes with sourced quotes — logs in CONDENSED-BUILD-NOTES)
 ```
@@ -46,7 +46,7 @@ section), human intro per segment, bells + pauses per the flow grammar.
 ## The film layer (added 2026-10-25, see HANDOVER.md at repo root)
 Same material, four cumulative rungs for one five-hour screening:
 **0 (seed, 6 questions) ⊂ A (33m) ⊂ B (90m) ⊂ C (168m)** — membership
-in `build/film_manifest.json`, budgets from `visuals/FIVE-HOUR-CUT.md`,
+in `build/canon/film_manifest.json`, budgets from `visuals/FIVE-HOUR-CUT.md`,
 gates: G8 (nesting + ceilings + provenance + chain). The visual design
 canon lives in `visuals/` (11 docs; index in HANDOVER). The next build
 artifacts: the cue sheet (VISUAL-MASTER-PLAN §7 schema) and Fish
@@ -56,7 +56,7 @@ Supporting files: `RECURRING-MISTAKES.md` (the patterns I keep
 repeating — read FIRST, before touching anything), `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
 techniques), `MISTAKES.md` (everything we got wrong + fixes),
 `REPRODUCE.md` (exact rerun), `FILES.md` (artifact map),
-`12-ARGUMENT.md` (constructed order + question ritual), `REVIEW.md`
+`12-ARGUMENT.md` (constructed order + question ritual), `reviews/REVIEW.md`
 (root: the final lookover itself), `scripts/`
 (the deterministic tooling), `verify.sh` (one-command audit),
 `07-PLAIN-ENGLISH-STANDARD.md` (testable plainness + blunting),

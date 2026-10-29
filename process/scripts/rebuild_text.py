@@ -6,10 +6,10 @@ import re
 import unicodedata
 
 D = '/root/analayo-nibbana'
-td = D + '/build'  # axiom 13: builders target build/, not /tmp
+td = D + '/build/canon'  # axiom 13: builders target build/, not /tmp
 
-exec(open(D + '/build/fish_filter.py').read().split('# below-line')[0])
-blunt = json.load(open(D + '/build/blunt_key.json'))
+exec(open(D + '/build/canon/fish_filter.py').read().split('# below-line')[0])
+blunt = json.load(open(D + '/build/canon/blunt_key.json'))
 blunt.sort(key=lambda x: -len(x[0]))
 
 CIT = re.compile(r'\b(MN|SN|AN|DN|MA|SĀ|EA|T|Snp|Ud|Iti|Thag|Thig|Dhp)\b|\d+[./:]\d+')

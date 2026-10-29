@@ -5,7 +5,7 @@ DS audio leads YT cues by ~5-10s (lectures fetched later from retreat
 window start, transcribe (faster-whisper small.en, word times), locate
 the window's opening words, offset = YTstart - DStime.
 
-Writes build/yt_anchor_map.json {lec: {offset_s, anchor_yt, anchor_ds}}.
+Writes build/canon/yt_anchor_map.json {lec: {offset_s, anchor_yt, anchor_ds}}.
 Free, mechanical, cached: rerun overwrites. Known: L14 = 10.0s (§64).
 """
 import json
@@ -40,7 +40,7 @@ ANCHORS = {
 
 def gold_anchor(lec):
     for n in range(1, 7):
-        d = json.load(open(D / f'build/seg{n}_gold.json'))
+        d = json.load(open(D / f'build/canon/seg{n}_gold.json'))
         spans = d if isinstance(d, list) else d.get('spans', [])
         for s in spans:
             if s.get('lec') == lec and s.get('dur', 0) > 20:
@@ -50,7 +50,7 @@ def gold_anchor(lec):
 
 def cue_words(lec, ss, to):
     """(word, yt_time) list from cues overlapping [ss, to]."""
-    d = json.load(open(D / f'yt-subs/lecture-{lec:02d}.json'))
+    d = json.load(open(D / f'sources/lectures/yt-subs/lecture-{lec:02d}.json'))
     out = []
     for c in d.get('cues', []):
         if c.get('e', 0) > ss and c.get('t', 0) < to:
@@ -61,7 +61,7 @@ def cue_words(lec, ss, to):
 
 def measure(model, lec, ss, to):
     """Try matching cue words at several depths; return (offset, yt, ds, n)."""
-    mp3 = D / f'analayo-nibbana-lecture-{lec:02d}.mp3'
+    mp3 = D / f'sources/lectures/audio/analayo-nibbana-lecture-{lec:02d}.mp3'
     seg = f'/tmp/yt_off_{lec}.mp3'
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-ss',
                     str(max(0, ss - 30)), '-t', '70', '-i', str(mp3),
@@ -99,13 +99,13 @@ def candidates(lec):
     """Anchor windows to try: core windows, then gold spans >20s."""
     out = []
     for n in range(1, 7):
-        d = json.load(open(D / f'build/seg{n}_core_v4.json'))
+        d = json.load(open(D / f'build/canon/seg{n}_core_v4.json'))
         clips = d if isinstance(d, list) else d.get('clips', [])
         for s in clips:
             if s.get('lec') == lec:
                 out.append((s['start'], s['end']))
     for n in range(1, 7):
-        d = json.load(open(D / f'build/seg{n}_gold.json'))
+        d = json.load(open(D / f'build/canon/seg{n}_gold.json'))
         spans = d if isinstance(d, list) else d.get('spans', [])
         for s in spans:
             if s.get('lec') == lec and s.get('dur', 0) > 30:
@@ -120,7 +120,7 @@ def main():
     model = WhisperModel('small.en', device='cpu', compute_type='int8')
     prior = {}
     try:
-        prior = json.load(open(D / 'build/yt_anchor_map.json'))
+        prior = json.load(open(D / 'build/canon/yt_anchor_map.json'))
     except FileNotFoundError:
         pass
     out = dict(prior)
@@ -145,8 +145,8 @@ def main():
         if not done:
             print(f'L{lec:02d}: NO MATCH', flush=True)
     json.dump({str(k): v for k, v in out.items()},
-              open(D / 'build/yt_anchor_map.json', 'w'), indent=1)
-    print('wrote build/yt_anchor_map.json')
+              open(D / 'build/canon/yt_anchor_map.json', 'w'), indent=1)
+    print('wrote build/canon/yt_anchor_map.json')
 
 
 if __name__ == '__main__':

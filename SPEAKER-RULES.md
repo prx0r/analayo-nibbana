@@ -10,13 +10,13 @@ Analayo's archive audio is BOTH voices already: his reading of Nanananda
    voice touches Pali.
 2. **FISH (TTS guide)** — two jobs, all English-only:
    a. the section question at every ritual open ("What is Nirvana?" spoken;
-      data keeps Nibbana — 6 questions, verbatim from build/human-scripts.md
+      data keeps Nibbana — 6 questions, verbatim from build/canon/human-scripts.md
       headers; these ARE the 6-slot argument, process/12-ARGUMENT.md),
    b. the plain-English RESPONSE in every section opening (the essay-0
       plain; spoken == on-screen plain, G7a2-gated).
    Fish never speaks Pali. Beat plains live ON SCREEN only (analayo-only).
 3. **HUMAN (you)** — section intros only (~40s × 6, your words: what it
-   answers, why now — DRAFT in build/human-scripts.md). No Pali (his
+   answers, why now — DRAFT in build/canon/human-scripts.md). No Pali (his
    voice owns it), no verses. Bridge lines ONLY where marked BRIDGE —
    none currently marked; default is pause, not words.
 

@@ -5,9 +5,9 @@ Usage: trim_keeps.py <lec>  (rewrites tools/lecNN_keeps.py KEEPS only)
 import json, sys, re
 lec = f"{int(sys.argv[1]):02d}"
 D = "/root/analayo-nibbana"
-d = json.load(open(f"{D}/lecture-{lec}.transcript.cf.json")) if __import__("os").path.exists(f"{D}/lecture-{lec}.transcript.cf.json") else None
+d = json.load(open(f"{D}/sources/lectures/transcripts/lecture-{lec}.transcript.cf.json")) if __import__("os").path.exists(f"{D}/sources/lectures/transcripts/lecture-{lec}.transcript.cf.json") else None
 if d is None:
-    d = {"sentences": [{"t": c["t"], "end": c["e"], "text": c["x"]} for c in json.load(open(f"{D}/yt-subs/lecture-{lec}.json"))["cues"]], "duration": 0}
+    d = {"sentences": [{"t": c["t"], "end": c["e"], "text": c["x"]} for c in json.load(open(f"{D}/sources/lectures/yt-subs/lecture-{lec}.json"))["cues"]], "duration": 0}
 segs = sorted(d["sentences"], key=lambda s: s["t"])
 
 BAD_START = re.compile(r"^(end of (comment|quote|count|command)|thank you|\[music\]|comment\??|common[,.]?\s*(translation)?|translation by|commenter[,.]?)\b", re.I)

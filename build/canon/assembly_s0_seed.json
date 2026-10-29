@@ -21,6 +21,11 @@
   "unit": 1
  },
  {
+  "t": "breath",
+  "dur": 5.0,
+  "role": "voice-change"
+ },
+ {
   "t": "verbatim",
   "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
   "plain": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
@@ -57,6 +62,11 @@
   "role": "plain",
   "say": "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
   "unit": 2
+ },
+ {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change"
  },
  {
   "t": "verbatim",
@@ -129,6 +139,11 @@
   "unit": 3
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change"
+ },
+ {
   "t": "verbatim",
   "text": "Impelled by that imagining, it runs towards the mirage... The gap is\nignored... What impels one to ignore that gap is craving.",
   "plain": "Thirst keeps it going: impelled by that making it into something, it runs towards the mirage. The gap is ignored. What impels one to ignore that gap is thirst.",
@@ -165,6 +180,11 @@
   "role": "plain",
   "say": "The sense of self is constructed like this: when one looks into a mirror one suddenly becomes self-conscious. Even with no such notion, the moment one looks one is reminded of it, as if to exclaim: 'Ah, here I am!'",
   "unit": 4
+ },
+ {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change"
  },
  {
   "t": "verbatim",
@@ -205,6 +225,11 @@
   "unit": 5
  },
  {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change"
+ },
+ {
   "t": "verbatim",
   "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
   "plain": "Nirvana is only attained now: in seeing, just the seeing, with no I added. Then it will not carry you. Nothing to stand on, nowhere to land \u2014 neither here, nor there, nor in between. This itself is the end of suffering.",
@@ -241,6 +266,11 @@
   "role": "plain",
   "say": "like a flame with no fuel.",
   "unit": 6
+ },
+ {
+  "t": "breath",
+  "dur": 1.5,
+  "role": "voice-change"
  },
  {
   "t": "verbatim",

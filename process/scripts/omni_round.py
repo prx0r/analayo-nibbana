@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Omni audit round on fresh p0 render. Descriptive prompts only (no verdicts).
-Chunks <=12min with 30s overlap. One call per chunk. Results -> build/ear_round3.json."""
+Chunks <=12min with 30s overlap. One call per chunk. Results -> build/ears/ear_round3.json."""
 import json
 import subprocess
 import sys
 import urllib.request
 
-D = '/root/analayo-nibbana/build/audio_p0'
+import os as _os2
+D = _os2.environ.get('AUDIO_DIR', '/root/analayo-nibbana/build/audio_p0')
 URL = 'https://dashscope-intl.aliyuncs.com/compatible-mode/v1/chat/completions'
 AUDIT_Q = (
     'Describe exactly what you hear, literally, second by second. '
@@ -23,8 +24,8 @@ AUDIT_Q = (
 PLAN = [('seed', 1), ('s1', 2), ('s2', 3), ('s3', 3), ('s4', 1), ('s5', 2), ('s6', 2)]
 MODEL = __import__('os').environ.get('OMNI_MODEL', 'qwen3-omni-flash')
 MODE = __import__('os').environ.get('OMNI_MODE', 'audit')
-OUTFILE = { 'audit': '/root/analayo-nibbana/build/ear_round3.json',
-            'critic': '/root/analayo-nibbana/build/ear_critic1.json' }[MODE]
+OUTFILE = { 'audit': '/root/analayo-nibbana/build/ears/ear_round3.json',
+            'critic': '/root/analayo-nibbana/build/ears/ear_critic1.json' }[MODE]
 import os as _os
 OUTFILE = _os.environ.get('EAR_OUT', OUTFILE)
 CRITIC_Q = (
@@ -103,7 +104,13 @@ def main():
             try:
                 txt = ask(key, url)
             except Exception as e:
-                txt = 'CALL FAILED: %r' % e
+                txt = 'CALL FAILED (attempt 1): %r' % e
+            if txt.startswith('CALL FAILED') or len(txt.strip()) < 40:
+                print('  retrying once (failure or refusal)...', flush=True)
+                try:
+                    txt = ask(key, url)
+                except Exception as e2:
+                    txt = 'CALL FAILED (both attempts): %r' % e2
             results[tag].append({'chunk': i, 'start': a, 'end': b, 'url': url, 'text': txt})
             print('--- %s/%d (%.0f chars)' % (tag, i, len(txt)), flush=True)
     open(OUTFILE, 'w').write(json.dumps(results, indent=1))

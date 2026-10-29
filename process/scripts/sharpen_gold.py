@@ -15,8 +15,8 @@ Step 2 EDGE RE-SNAP (sample-calibrated 2026-10-26): ismotto spans exempt
 Step 3 MOTTO-CAP MANIFESTS: data keeps everything; manifest_sN_gold.txt
   (the listenable B) carries <=3 mottos (first / middle-nearest / last).
 
-Writes: build/segN_gold.json (reordered, snapped), build/manifest_sN_gold.txt,
-build/gold_fix_log.json (every change + every candidate + motto picks).
+Writes: build/canon/segN_gold.json (reordered, snapped), build/canon/manifest_sN_gold.txt,
+build/versions/gold_fix_log.json (every change + every candidate + motto picks).
 Idempotent: re-run yields identical files (snaps converge; log asserts).
 
 FROZEN 2026-10-28: do NOT rerun on current data. The §59/§61 promotion
@@ -56,11 +56,11 @@ def sents(lec, cache={}):
     if lec in cache:
         return cache[lec]
     try:
-        d = json.loads(open(D / f'lecture-{lec:02d}.transcript.cf.json').read())
+        d = json.loads(open(D / f'sources/lectures/transcripts/lecture-{lec:02d}.transcript.cf.json').read())
         out = [(float(s.get('t', 0)), float(s.get('end', 0)), s.get('text', ''))
                for s in d.get('sentences', [])]
     except FileNotFoundError:
-        d = json.loads(open(D / f'yt-subs/lecture-{lec:02d}.json').read())
+        d = json.loads(open(D / f'sources/lectures/yt-subs/lecture-{lec:02d}.json').read())
         out = [(float(c['t']), float(c['e']), c.get('x', '')) for c in d.get('cues', [])]
     cache[lec] = out
     return out

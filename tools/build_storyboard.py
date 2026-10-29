@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build build/STORYBOARD.md — the human-readable shooting script.
+"""Build build/canon/STORYBOARD.md — the human-readable shooting script.
 
 One row per beat (seed cells first, then S1..S6), in assembly order:
   TEXT (verbatim, trimmed) -> PLAIN -> AUDIO [lec start-end, dur]
@@ -14,8 +14,8 @@ import json
 from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
-B = D / 'build'
-ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # essay-0 host beat per section (answers: build/essay0.json)
+B = D / 'build' / 'canon'
+ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}  # essay-0 host beat per section (answers: build/canon/essay0.json)
 QS = {1: 'What is Nibbana?', 2: "Why don't I see Nibbana right now?",
       3: 'What keeps it going?', 4: 'How is the sense of self constructed?',
       5: 'How is Nibbana attained?', 6: 'What is Nibbana like?'}

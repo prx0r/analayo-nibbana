@@ -10,26 +10,23 @@ audio is Fish questions + Analayo clips only. No sermon-reader audio,
 no plain voice — no voice switching, no alignment dependency.
 
 Usage: python3 process/scripts/build_newA.py
-Writes build/newA_manifest.json. Asserts every section <= 340s.
+Writes build/canon/newA_manifest.json. Asserts every section <= 340s.
 Cost = Analayo + 8s pauses/beat + 7s Q (no reader, no plain voice).
 """
 import json
 from pathlib import Path
 
 D = Path('/root/analayo-nibbana')
-B = D / 'build'
+B = D / 'build' / 'canon'
 ESSAY0_BEAT = {1: 1, 2: 13, 3: 5, 4: 2, 5: 3, 6: 1}
 BUDGET = 340.0
 
 # section: [(assembly_beat, reason)] — beat 1 is always the pointer.
 PICKS = {
     1: [(1, 'pointer motto'),
-        (3, 'CONTRADICTION in commentarial definitions (owner: FIRST)'),
+        (3, 'CONTRADICTION in commentarial definitions (owner: FIRST — the definition)'),
         (6, 'third-truth resolution — mass of suffering just before us'),
-        (11, 'debt/freedom — payoff, not debt'),
-        (12, 'cessation-of-existence definition (hunt, owner: implement)'),
-        (13, 'extinction as of a fire (hunt)'),
-        (14, 'owning/grasping not (hunt)')],
+        (11, 'debt/freedom — payoff, not debt')],
     2: [(1, 'pointer TRIPLE manana/only-looking/no-seer (owner §74)'),
         (2, 'whirlpool bodies — what the blind are caught in'),
         (10, 'akalika immediacy — seen here and now')],
@@ -119,7 +116,7 @@ def main():
         assert total <= BUDGET, f'S{n} over budget'
         man['sections'][str(n)] = sec
     (B / 'newA_manifest.json').write_text(json.dumps(man, indent=1) + '\n')
-    print('wrote build/newA_manifest.json')
+    print('wrote build/canon/newA_manifest.json')
 
 
 if __name__ == '__main__':

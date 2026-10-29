@@ -43,7 +43,7 @@ so each layer is the same walk at a different resolution. That is the
 fractal property, and it is structural, not decorative.
 
 ## 520 events, 2 bells
-Assembly manifests (`build/assembly_sN.json` + seed) hold **520 events**
+Assembly manifests (`build/canon/assembly_sN.json` + seed) hold **520 events**
 (recomputed 2026-10-28: +12 hunt beats, +6 plains, U2 triple pointer,
 +8 voice-change breaths):
 101 fish lines (12 questions + 77 beat plains +
@@ -89,7 +89,7 @@ if you want them enforced.
 python3 - <<'EOF'
 import json
 for s in range(1,7):
-  p=lambda n: 'build/seg%d_%s.json'%(s,n)
+  p=lambda n: 'build/canon/seg%d_%s.json'%(s,n)
   P=json.load(open(p('pool'))); G=json.load(open(p('gold'))); C=json.load(open(p('core_v4')))
   print(s, 'pool %.2fh/%d'%(sum(x['dur'] for x in P)/3600,len(P)),
         'gold %.2fh/%d'%(sum(x['dur'] for x in G)/3600,len(G)),

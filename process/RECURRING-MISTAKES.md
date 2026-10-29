@@ -100,7 +100,7 @@ because of this churn — it should have been extracted in round 1.)
 **Evidence:** S1b8 read as "forum tail" from a grep head, then as
 "motto" from another, flip-flopping mid-conversation until the full
 transcript sentences were read; 9-vs-"~10" TTS counts asserted from
-memory; verdict numbers in REVIEW.md written before recounting.
+memory; verdict numbers in reviews/REVIEW.md written before recounting.
 **Why:** grep/cut -c outputs are cheap and I treat their first line as
 the finding.
 **RULE:** a conclusion needs the full window (or the whole artifact),

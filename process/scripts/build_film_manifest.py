@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build build/film_manifest.json — four-depth membership per chapter.
+"""Build build/canon/film_manifest.json — four-depth membership per chapter.
 
 Implements visuals/FIVE-HOUR-CUT.md: every clip assigned to its EARLIEST
 depth. Rules (deterministic):
@@ -45,12 +45,12 @@ def sents(lec):
     if lec in _scache:
         return _scache[lec]
     out = []
-    if lec not in YTSUB and os.path.exists('%s/lecture-%02d.transcript.cf.json' % (D, lec)):
-        d = json.load(open('%s/lecture-%02d.transcript.cf.json' % (D, lec)))
+    if lec not in YTSUB and os.path.exists('%s/sources/lectures/transcripts/lecture-%02d.transcript.cf.json' % (D, lec)):
+        d = json.load(open('%s/sources/lectures/transcripts/lecture-%02d.transcript.cf.json' % (D, lec)))
         out = sorted([(float(s.get('t', 0)), float(s.get('end', s.get('e', 0))), s.get('text', ''))
                       for s in d.get('sentences', [])])
-    elif os.path.exists('%s/yt-subs/lecture-%02d.json' % (D, lec)):
-        d = json.load(open('%s/yt-subs/lecture-%02d.json' % (D, lec)))
+    elif os.path.exists('%s/sources/lectures/yt-subs/lecture-%02d.json' % (D, lec)):
+        d = json.load(open('%s/sources/lectures/yt-subs/lecture-%02d.json' % (D, lec)))
         out = sorted([(float(c['t']), float(c['e']), c.get('x', '')) for c in d.get('cues', [])])
     _scache[lec] = out
     return out
@@ -95,7 +95,7 @@ def d(c):
 def overlap(a, b):
     return a['lec'] == b['lec'] and (min(a['end'], b['end']) - max(a['start'], b['start'])) > 0
 
-seed = json.load(open('%s/build/assembly_s0_seed.json' % D))
+seed = json.load(open('%s/build/canon/assembly_s0_seed.json' % D))
 e0units = {}
 for e in seed:
     if e['t'] == 'analayo':
@@ -105,8 +105,8 @@ manifest = {'budgets_s': {str(k): list(v) for k, v in BUD.items()}, 'questions':
 grand = {'0': 0, 'A': 0, 'B': 0, 'C': 0}
 
 for s in range(1, 7):
-    core = json.load(open('%s/build/seg%d_core_v4.json' % (D, s)))
-    gold = json.load(open('%s/build/seg%d_gold.json' % (D, s)))
+    core = json.load(open('%s/build/canon/seg%d_core_v4.json' % (D, s)))
+    gold = json.load(open('%s/build/canon/seg%d_gold.json' % (D, s)))
     for i, c in enumerate(core):
         c['_src'], c['_fi'], c['_flags'] = 'core', i, flags_of(s, c)
     for i, c in enumerate(gold):
@@ -214,7 +214,7 @@ for s in range(1, 7):
                    and p0['end'] <= c['end'] + 3 for c in host), \
             'essay-0 pointer outside A/B for s%d' % s
 
-json.dump(manifest, open('%s/build/film_manifest.json' % D, 'w'), indent=1)
+json.dump(manifest, open('%s/build/canon/film_manifest.json' % D, 'w'), indent=1)
 scr = sum(grand.values())
 print('film manifest built: 0=%.1fm A=%.1fm B=%.1fm C=%.1fm | screening=%.1fm'
       % (grand['0'] / 60, grand['A'] / 60, grand['B'] / 60, grand['C'] / 60, scr / 60))

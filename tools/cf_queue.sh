@@ -4,8 +4,8 @@
 # exist. Not run by any live path.
 D=/home/box/Downloads/yt/analayo-nibbana
 for n in $(seq -w 1 33); do
-  mp3="$D/analayo-nibbana-lecture-$n.mp3"
-  out="$D/lecture-$n.transcript.cf.json"
+  mp3="$D/sources/lectures/audio/analayo-nibbana-lecture-$n.mp3"
+  out="$D/sources/lectures/transcripts/lecture-$n.transcript.cf.json"
   [ -s "$mp3" ] || { echo "$n no mp3 yet, skip"; continue; }
   [ -s "$out" ] && { echo "$n already transcribed"; continue; }
   for try in 1 2 3; do
