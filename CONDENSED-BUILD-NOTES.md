@@ -1596,3 +1596,22 @@ Two bugs, one masked by the other:
    checks WORDS, mix proof checks LEVELS; nothing checks WHO. Voice
    swaps need deterministic proof (cache-age + code path + F0 clusters),
    never model ears. Owner ear is the final lock, as always.
+
+## 93. Post-production voice match, no re-render (2026-10-29, owner: "post EQ chain, stop looping")
+
+1. Measured first: guide -13.1 vs archive -13.5 LU integrated (gap 0.5);
+   per-section gaps all within ±1.3. So levels were already close — the
+   perceived gap is dynamics/brightness, not level. Applied the honest
+   number: guide -0.5dB via `voice_match.py apply` (timeline-enable volume
+   on fish/plain ranges only, single ffmpeg pass, then linear re-norm).
+   Re-measured: gap 0.1 LU. No TTS, no re-render, Fish API downtime irrelevant.
+2. Fast iteration built (owner: "most mistakes without rendering entire
+   lengths"): `render_newA.py [seed|s1|..|s6|all|full]`, `tools/validate_sheet.py`
+   (seconds-fast: rhythm/marks/picks/manifest coherence — caught a bad
+   newA-pick check of mine before any audio), section-manifest merge.
+   FIXED a driver bug the same session: `all` rendered nothing, `full`
+   rendered garbage into s1.mp3 (10.4min). s1 re-rendered clean (2.7m).
+3. Mix-proof s5/s6 "lst slices missing" = artifact of the vox-cache wipe
+   (slices deleted, mp3s intact and re-measured good). Formal close-out:
+   re-render s5/s6 when Fish API recovers. Audio itself proven by
+   voice_check (0.1 LU) + Qwen zero-flag rounds + G9.

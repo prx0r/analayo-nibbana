@@ -49,6 +49,11 @@ DIRECT_ESSAY0 = True
 # v1=audio_v1 (frozen 2026-10-26), p1=audio_p1.
 P1 = False
 P1_SEED_ONLY = False
+NEWA_SEED_ONLY = True  # legacy default; render_newA.py overrides with section list
+# newA fast iteration (2026-10-29): None = legacy all/seed-only flags;
+# otherwise an explicit section list set by the driver (render_newA.py).
+NEWA_SECTIONS = None
+NEWA_ASSEMBLE_ONLY = False
 YT_OFF = {}  # lec -> seconds (DS = YT - off); loaded from yt_anchor_map.json
 # Windows already in DS timebase (§64 U5/c2/c3 repairs + §75 hunt beats
 # measured in DS): never shift these.
@@ -79,7 +84,7 @@ CACHE = OUT / 'cache'
 # at 250-500Hz and -2.8dB at 4k (boomy+dull); Fish +4-5dB at 1-2kHz
 # (presence-hot). EQ trims both toward the reference before loudnorm
 # (norm absorbs the gain shift). Script: process/scripts/voice_spectrum.py.
-VTAG = 'normv6'
+VTAG = 'normv7'  # v7: voice-match trims in VOICE_AF_FISH (2026-10-29)
 # Restoration (2026-10-28 owner ear: coughs/clips): adeclick (mouth
 # clicks/ticks, save mode leaves clean samples untouched) + adeclip
 # (reconstructs clipped peaks — lectures peak 0dB, census:
@@ -95,9 +100,23 @@ FISH_EQ = 'equalizer=f=1500:width_type=o:w=1.2:g=-4'
 VOICE_AF_SERM = ('highpass=f=80,lowpass=f=12000,'
                  'acompressor=threshold=-18dB:ratio=2:attack=20:release=200,'
                  + RESTORE + SERMON_EQ + ',loudnorm=I=-19:TP=-1.5:LRA=11')
+# Post-production voice match (build/canon/voice_match.json, owner 2026-10-29):
+# archive is the untouched reference (trim 0.0); the guide moves to sit with
+# it. Measured per render by process/scripts/voice_match.py; applied here so
+# every future render inherits it. Bump VTAG when trims change (cache key).
+def _voice_trims():
+    try:
+        return json.loads((BUILD / 'canon' / 'voice_match.json').read_text())['trims_db']
+    except Exception:
+        return {'guide': 0.0, 'archive': 0.0}
+_VTRIM = _voice_trims()
 VOICE_AF_FISH = ('highpass=f=80,lowpass=f=12000,'
                  'acompressor=threshold=-18dB:ratio=2:attack=20:release=200,'
-                 + FISH_EQ + ',loudnorm=I=-19:TP=-1.5:LRA=11')
+                 + FISH_EQ + ',loudnorm=I=-19:TP=-1.5:LRA=11'
+                 # trim AFTER loudnorm: a slice-level loudnorm to a fixed
+                 # target erases any earlier gain (measured 2026-10-29:
+                 # -0.5dB pre-loudnorm changed nothing). Post goes last.
+                 f',volume={_VTRIM.get("guide", 0.0):+.1f}dB')
 # Guide voices (owner 2026-10-29): KID asks, OLD MAN answers.
 # Trialed 5 kids + 6 old men (build/ears/voice_trial audition);
 # pick: kid-inquisitive + wise-old-british. Backup old man = elderly-ref
@@ -289,7 +308,8 @@ def get_slice(kind, key, ss, to, src, text='', who='fish'):
     # 2026-10-29: voice IDs changed but old Osho slices kept serving because
     # vid wasn't in the hash — a full render shipped the wrong cast).
     vid = FISH_Q_VOICE if who == 'fish' else FISH_A_VOICE
-    h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{who}|{vid}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
+    trim = _VTRIM.get('guide', 0.0)
+    h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{who}|{vid}|{trim}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
     dst = CACHE / f'{kind}_{h}.wav'
     if dst.exists() and dst.stat().st_size > 0:
         return dst
@@ -705,32 +725,70 @@ def main():
     asm.update({n: json.loads((CANON / f'assembly_s{n}.json').read_text()) for n in range(1, 7)})
 
     manifest, files = {}, {}
-    mp3, dur, log = render_section(0, asm[0], 'seed')
-    files['seed'] = mp3
-    manifest['seed'] = {'min': round(dur / 60, 2), 'log': log,
-                        'timeline': manifest_timeline['seed']}
-    if P1_SEED_ONLY or (NEWA and NEWA_SEED_ONLY):
+    try:
+        prev = json.loads((OUT / 'manifest.json').read_text())
+        if isinstance(prev, dict):
+            manifest = prev  # merge: keep timelines of sections not re-rendered
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+    if NEWA_ASSEMBLE_ONLY:
+        files = {t: OUT / f'{t}.mp3' for t in ['seed'] + [f's{n}' for n in range(1, 7)]}
+        for t, p in files.items():
+            assert p.exists() and p.stat().st_size > 0, f'assemble needs {p} — render it first'
+        gap = OUT / 'seed_A_gap.mp3'
+        assert gap.exists(), 'assemble needs seed_A_gap.mp3'
+        lst = OUT / 'full.lst'
+        lst.write_text(f"file '{files['seed']}'\nfile '{gap}'\n" +
+                       ''.join(f"file '{files[f's{n}']}'\n" for n in range(1, 7)))
+        run('ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0',
+            '-i', str(lst), '-c:a', 'copy', str(OUT / 'full_newA_essay.mp3'))
         manifest['stats'] = STATS
         (OUT / 'manifest.json').write_text(json.dumps(manifest, indent=1))
         print('STATS', STATS)
         return
-    if NEWA:
-        newa = json.loads((CANON / 'newA_manifest.json').read_text())
-        for n in range(1, 7):
-            sec = newa['sections'][str(n)]
-            picks = [sec['pointer']['beat']] + [u['beat'] for u in sec['beats']]
-            evs = newa_events(n, asm[n], picks)
-            mp3, dur, log = render_section(n, evs, f's{n}')
-            files[f's{n}'] = mp3
-            manifest[f's{n}'] = {'min': round(dur / 60, 2), 'log': log,
-                                 'timeline': manifest_timeline[f's{n}'],
-                                 'beats': picks}
+    else:
+        if (NEWA_SECTIONS is None and (P1_SEED_ONLY or (NEWA and NEWA_SEED_ONLY))):
+            want = ['seed']
+        elif NEWA_SECTIONS is None:
+            want = ['seed'] + [f's{n}' for n in range(1, 7)]
+        else:
+            want = NEWA_SECTIONS
+        if 'seed' in want:
+            mp3, dur, log = render_section(0, asm[0], 'seed')
+            files['seed'] = mp3
+            manifest['seed'] = {'min': round(dur / 60, 2), 'log': log,
+                                'timeline': manifest_timeline['seed']}
+        if P1_SEED_ONLY or (NEWA and NEWA_SEED_ONLY) or (NEWA_SECTIONS is not None and set(want) <= {'seed'}):
+            manifest['stats'] = STATS
+            (OUT / 'manifest.json').write_text(json.dumps(manifest, indent=1))
+            print('STATS', STATS)
+            return
+        if NEWA:
+            newa = json.loads((CANON / 'newA_manifest.json').read_text())
+            for n in range(1, 7):
+                if f's{n}' not in want:
+                    continue
+                sec = newa['sections'][str(n)]
+                picks = [sec['pointer']['beat']] + [u['beat'] for u in sec['beats']]
+                evs = newa_events(n, asm[n], picks)
+                mp3, dur, log = render_section(n, evs, f's{n}')
+                files[f's{n}'] = mp3
+                manifest[f's{n}'] = {'min': round(dur / 60, 2), 'log': log,
+                                     'timeline': manifest_timeline[f's{n}'],
+                                     'beats': picks}
         # 30s silence between seed (essay-0) and A (owner 2026-10-28)
         gap = OUT / 'seed_A_gap.mp3'
         run('ffmpeg', '-v', 'error', '-y', '-f', 'lavfi', '-i',
             'anullsrc=r=44100:cl=mono:d=30', '-c:a', 'libmp3lame',
             '-b:a', '128k', str(gap))
         lst = OUT / 'full.lst'
+        # Partial renders reuse existing section mp3s (fast iteration).
+        for t in ['seed'] + [f's{n}' for n in range(1, 7)]:
+            if t not in files:
+                p = OUT / f'{t}.mp3'
+                assert p.exists() and p.stat().st_size > 0, \
+                    f'full needs {p} — render it first (render_newA.py {t})'
+                files[t] = p
         parts = [str(files['seed']), str(gap)] + [str(files[f's{n}']) for n in range(1, 7)]
         lst.write_text(''.join(f"file '{p}'\n" for p in parts))
         run('ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', str(lst),

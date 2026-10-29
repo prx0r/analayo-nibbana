@@ -1,0 +1,12 @@
+{
+ "target": "match-archive (source of truth, never touched)",
+ "trims_db": {
+  "guide": -0.5,
+  "archive": 0.0
+ },
+ "measured": {
+  "guide": -13.1,
+  "archive": -13.6
+ },
+ "why": "owner 2026-10-29: one guide voice + archive must sit in one room; archive is the reference level"
+}
