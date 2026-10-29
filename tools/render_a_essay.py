@@ -285,7 +285,11 @@ def bridge_wav(dur, srcA, srcB):
 
 
 def get_slice(kind, key, ss, to, src, text='', who='fish'):
-    h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{who}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
+    # Cache key covers EVERYTHING that shapes the bytes (R6-stale-cache rule,
+    # 2026-10-29: voice IDs changed but old Osho slices kept serving because
+    # vid wasn't in the hash — a full render shipped the wrong cast).
+    vid = FISH_Q_VOICE if who == 'fish' else FISH_A_VOICE
+    h = hashlib.sha1(f'{VTAG}|fishs2|{kind}|{who}|{vid}|{key}|{ss}|{to}|{text}'.encode()).hexdigest()[:12]
     dst = CACHE / f'{kind}_{h}.wav'
     if dst.exists() and dst.stat().st_size > 0:
         return dst

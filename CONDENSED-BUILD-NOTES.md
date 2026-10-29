@@ -1571,3 +1571,28 @@ elderly-ref (`f40115…`, the original). Osho retired ("not Osho throughout").
 Speech back to NIRVANA (data keeps Nibbana; substitution restored).
 Re-rendered newA, G9 PASS, mix PASS, Qwen seed spot zero flags (marks
 audible as phrasing). 0+A stamp carries.
+
+## 92. Wrong cast shipped: stale vox cache + broken symlinks (2026-10-29, owner caught it)
+
+Two bugs, one masked by the other:
+1. **Stale voice cache (the wrong cast).** `get_slice` hash covered
+   (kind,who,key,ss,to,text) but NOT the voice ID. Voice swap kid/old in,
+   cache served Osho slices for every unchanged line (only re-worded lines
+   re-TTS'd — the render was a MIX). Fix: vid in the hash (permanent) +
+   wiped vox cache (immediate). Proof of cure, three independent legs:
+   code reads new IDs; all 28 vox files post-date the fix (no stale bytes
+   can exist); F0 clusters split kid (~216-356) vs old (~122-143).
+   RULE (R6-class, load-bearing): a cache key must cover EVERY input that
+   shapes the bytes.
+2. **Broken lecture symlinks (masked by cache).** The reorg moved ds-full/
+   but 10 root-mp3 symlinks still pointed at the old path. Every render
+   since the reorg hit cache and never touched the mp3s — the first cache
+   miss (this render) crashed ffmpeg. Fix: 10 symlinks repointed to
+   sources/lectures/ds-full/. RULE: after any move, `find -xtype l`
+   before declaring done (verify.sh doesn't cover source links — TODO).
+3. **Why I didn't catch #1 (my failure, R9):** I verified the swap with
+   Qwen — the one instrument KNOWN-unstable at voice identity (rounds
+   flip-flop "same/different/third voice" on identical bytes). Whisper
+   checks WORDS, mix proof checks LEVELS; nothing checks WHO. Voice
+   swaps need deterministic proof (cache-age + code path + F0 clusters),
+   never model ears. Owner ear is the final lock, as always.
