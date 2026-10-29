@@ -55,7 +55,15 @@
     dual: semantic anchors over derived indexes (M-A7: naive quote
     pairing rejected valid quotes).
 
-16. **Presentation order is gospel: TEXT VERBATIM → PLAIN ENGLISH →
+16. **Cache keys cover every input that shapes the bytes.** A cache hit
+returns old bytes for a new request — after the 2026-10-29 wrong-cast
+render (voice IDs changed, Osho slices kept serving under kid/old IDs),
+every hash includes voice IDs, trims, and text. A changed input with an
+unchanged key ships stale audio with a green gate. (Symlink twin:
+after any move, `find -xtype l` before declaring done — the reorg broke
+10 lecture links, masked by cache hits until the first miss.)
+
+17. **Presentation order is gospel: TEXT VERBATIM → PLAIN ENGLISH →
     AUDIO.** Every beat shows Nanananda's words first, then Fish speaks
     the plain-English underneath, then the Analayo clip plays. Never
     reorder — the listener reads the claim, hears the translation in

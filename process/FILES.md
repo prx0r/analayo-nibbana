@@ -42,7 +42,8 @@ content there), `assets/` (motto-bell 2.5s, zoom-bell 6s),
 ## Process (`process/` — you are here)
 README (where-things-live index), 00..11 stage docs, 12-ARGUMENT
 (spine/ritual/formula), 13-SHARPENING (rung method), 14-LISTENING
-(machine ears doctrine), AXIOMS, RECURRING-MISTAKES (R1–R9, read first),
+(machine ears doctrine), 15-RHYTHM (silence engine), 16-VOICE-MATCH
+(post-production loudness), 17-CASTING (voice trials/locks), AXIOMS, RECURRING-MISTAKES (R1–R9, read first),
 MISTAKES (M1–M13, M-A1–A10, M-R1–R8), SKILLS, REPRODUCE, FILES (this),
 REVIEW (root), DONE (root: definition-of-done + taxonomy), `verify.sh`
 (G1/G5/G6/G6b/G7/G8), `scripts/`:

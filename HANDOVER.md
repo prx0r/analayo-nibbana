@@ -71,7 +71,9 @@ where things are, why, and what's next. Nothing here is decoration.
 
 ### `process/` — the machinery
 - Stage docs `00..11` + `12-ARGUMENT` (spine/ritual) + `13-SHARPENING`
-  (rung method) + `14-LISTENING` (machine ears) — read 12 first.
+  (rung method) + `14-LISTENING` (machine ears) + `15-RHYTHM` (silence
+  engine) + `16-VOICE-MATCH` (post-production loudness) + `17-CASTING`
+  (voice trials/locks) — read 12 first.
 - **Builders:** `scripts/make_assembly.py`, `scripts/build_seed.py`,
   `scripts/build_film_manifest.py`, `scripts/sharpen_gold.py` (log:
   gold_fix_log), `scripts/p0_mix_check.py` (mix proof),

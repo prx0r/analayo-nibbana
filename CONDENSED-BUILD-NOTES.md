@@ -1615,3 +1615,14 @@ Two bugs, one masked by the other:
    (slices deleted, mp3s intact and re-measured good). Formal close-out:
    re-render s5/s6 when Fish API recovers. Audio itself proven by
    voice_check (0.1 LU) + Qwen zero-flag rounds + G9.
+
+## 94. Final-curation docs written (2026-10-29, owner: "part of the process notes")
+
+New stage docs: `15-RHYTHM.md` (silence engine contract + marks + change
+procedure), `16-VOICE-MATCH.md` (post-production loudness: no-plugin proof,
+measure/apply/check, archive anchor, trim lessons), `17-CASTING.md`
+(trial pattern, locked kid/old/backup, speakability + determinism rules).
+Wired in: README/FILES/HANDOVER indexes, AXIOM 16 (cache keys cover every
+input; symlink twin), verify.sh G0 (validate_sheet runs first, seconds).
+How 0/A were proven: text gates + mix proof + 2 adjudicated Qwen rounds +
+ledger (DONE); voice identity NEVER by model ears (see §92).

@@ -2,6 +2,8 @@
 # verify.sh — one-command audit. Fails loud.
 set -e
 cd "$(dirname "$0")/.."
+echo "== G0 sheet (seconds-fast pre-render audit: rhythm/marks/picks/manifest) =="
+python3 tools/validate_sheet.py || exit 1
 echo "== G1 totals =="
 python3 -c "
 import json

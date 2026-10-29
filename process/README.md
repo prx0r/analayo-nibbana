@@ -69,6 +69,11 @@ law; minimal moves; essay-0 re-derivation test).
 `14-LISTENING.md` (machine ears: why listen when text is proven; audit ear
 vs critic ear with ratings; meters beside ears; operating limits; taste
 locks stay human).
+`15-RHYTHM.md` (the silence engine: named slots, per-unit overrides,
+word-pause marks; sheet==master).
+`16-VOICE-MATCH.md` (post-production loudness: measure/apply/check, no
+plugins, archive-anchored trims).
+`17-CASTING.md` (voice trials, locked cast + backup, speakability proofs).
 
 ## What it guarantees
 
