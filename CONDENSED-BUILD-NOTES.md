@@ -1638,3 +1638,17 @@ ledger. Cast: kid Q + wise-old-British plain (backup elderly-ref).
 Rhythm engine + marks live. Remaining (non-blocking): s5/s6 formal
 re-render on Fish recovery (cache-wipe artifact; audio verified good);
 optional taste EQ/presence lift; B re-render + B round; C decision.
+
+## 96. B rendered (2026-10-29, owner: "why is the full 27 mins, what about B")
+
+Answer: the 27m full was seed+A only — B had no audio (dir overwritten in
+the shuffle), C never rendered. Fixed: `render_B.py all` with AUDIO_OUT
+isolation (`render_a_essay.main` respects AUDIO_OUT env now; the old path
+overwrote audio_newA in place). B = seed 4.6 + S1 9.7 + S2 8.6 + S3 10.2
++ S4 7.1 + S5 9.7 + S6 7.6 (~57.5m + gap) -> build/audio_B/full_B_essay.mp3
+(gitignored; `pre_match/` backup pattern applies). ZERO TTS calls — all
+12 guide lines cache-hit; only archive slices cut locally.
+Proof: voice_match check 0.2 LU + mix proof PASS (order/pauses/edges/levels).
+NOT stamped: B ear rounds (2x Qwen + adjudication) queued; carries the
+0/A rhythm/voices/marks by construction (same assemblies, same engine).
+C: still owner decision (audio or not — film keeps C-cells either way).
