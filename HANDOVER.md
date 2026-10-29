@@ -165,9 +165,10 @@ current) · G8 fully green · G5 98/98 semantic anchors.
 newA render: build/audio_newA/ (seed + S1..S6 + full, analayo-only,
 bells, kid Q + old-man plain, Nirvana spoken) — fresh render 2026-10-29,
 all sections validated. Voice match 0.1-0.2 LU + mix proof PASS.
-B render: build/audio_B/full_B_essay.mp3 (~58m: seed 4.6 + S1 9.7 +
-S2 8.6 + S3 10.2 + S4 7.1 + S5 9.7 + S6 7.6), fresh render 2026-10-29,
-voice 0.2 LU + mix proof PASS. Ear rounds queued — NOT stamped.
+B render: build/audio_B/full_B_essay.mp3 (OLD B: ~58m). FINAL PASS 2026-10-29:
+B re-picked (53.1 -> 56.7m speech; +definitions/equations/charter verses per
+§97, -116s S3 fat, Upatissa cut) — RE-RENDER + MIX + VOICE + EARS QUEUED.
+NOT stamped (old stamp was pre-merge audio).
 
 ## Next queue (in order)
 1. **Taste locks (owner — the packet, updated 2026-10-29):** (a) U6 grown-cool stands
