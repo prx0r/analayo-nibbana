@@ -1746,3 +1746,14 @@ Caveat found in passing: main() hardcodes the full filename
 (full_newA_essay.mp3) — renamed to full_B_essay.mp3 by hand this once.
 TODO: full filename follows OUT dir (newA->full_newA, B->full_B).
 Ear rounds next (stamp path): 2 consecutive clean rounds + ledger.
+
+## 100. B STAMPED (2026-10-29): 0+A+B done, C decision left
+
+Round 1 (final-merge audio): 14 chunks, zero blocking (boundaries,
+segmentation, 1 refusal on s6-tail + 1 thin chunk — both covered
+deterministically). Round 2 (same bytes): same classes, no new findings.
+New/relocated-unit whisper edge-checks: 13/13 clean opens/closes (2 tail
+trims applied). Voice 0.2-0.3 LU. DONE = gates + mix + 2 rounds + ledger.
+C and D unchanged (superset holds). Next: owner packet (catechism swap,
+human intros, YT cold opens, C audio?, P12), p1 bells, cue sheet,
+essay-corpus export.

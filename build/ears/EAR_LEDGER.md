@@ -76,3 +76,46 @@ Text gates (verify.sh ALL PASS) + mix proof PASS + two consecutive clean ear rou
 this ledger. Remaining DONE-external: owner ear (taste), B audio re-render, C decision.
 Q1 B-territory carry-overs (NOT in 0/A scope): b9 open dangle ("a certain analogy",
 L19 390), b10 lowercase open (L19 718) — queued for the B ear round.
+
+## Round B-1 (2026-10-29, FINAL B audio: merged picks per question)
+
+14 chunks, qwen3-omni-flash, `ear_roundB_final1.json` (pre-reorder) +
+`ear_roundB_r1.json` (final order, stamped below). Adjudication:
+- Chunk-boundary mid-sentence flags: discard (construction).
+- Qwen segmentation of continuous reads (honey chain, Kaccayana, contact-chain): discard class; transcript arbitrates.
+- s2/1 short chunk + s6/1 refusal (round 0): instrument failures; re-ran, covered by whisper edge-checks below.
+- Voice-count wobble ("same/different/third/fourth male"): unstable model perception; blend = owner ear (kid asks, old man answers, approved 2026-10-29).
+- NO clicks, NO thumps, NO glitches, NO volume jumps, NO robotic voices, NO >5s 실 gaps in any chunk.
+- NEW-unit joints (13 gold + moved beats), whisper-verified head/tail in the rendered B mp3s: all open/close on complete words/sentences; S3-Being tail trimmed 4200->4197 (aside starts 4198); S5-smoked trimmed 3033->3031.5 ("Let us" starts 3033); S3-Colombo tail verified clean vs CF (sentence ends 1219, next starts 1240); S6-prepared = old-A pairing as reviewed in REVIEW-Q6 (thesis-first license, same class as S4b2); S6-unknot = old-A pairing (verb mirrors, audio fulfills — grandfathered, noted).
+Blocking findings: 0.
+
+## Round B-2 (2026-10-29, FINAL merged B, 14 chunks, `ear_roundB_r2.json`)
+
+Same finding classes as round 1: chunk-boundary mid-sentence flags
+(s1/1, s2/1, s2/2, s3/1, s3/2, s5/1 00:00s, s6/0 00:00), Qwen
+segmentation of continuous reads (honey chain, Kaccayana, contact-chain,
+grasp/razor runs), bell-tone "abrupt/cut" boilerplate, one s6/1 refusal
+(same span as rounds 0/1).
+- s2/1 thin chunk (981ch) + s6 sub-chunk retries: instrument-side
+  truncation/refusal, not audio. Covered deterministically below.
+- s6-tail span (file 264-587, refused 3x across rounds): whisper full
+  transcript = continuous speech, expected beats in order (faculties /
+  magic-show / Kalakarama / fire-block / neither-shore / detached),
+  max inter-seg gap 0.8s; mix proof edges+beds PASS on the same bytes.
+  Model refusal confabulated ("input is text"); whisper proves audio.
+- Whisper edge-checks on ALL 13 new/relocated B units in the rendered
+  mp3s: every head opens on a complete word/sentence, every tail closes
+  complete (2 trims applied pre-render: S3-Being 4200->4197,
+  S5-smoked 3033->3031.5; S3-Colombo tail verified clean vs CF).
+- Voice-count wobble again ("same/different/third/fourth") — discarded
+  per taxonomy; blend = owner ear.
+Blocking findings: 0. Two consecutive clean rounds: MET (rounds 1+2).
+
+## STAMP — rung B DONE (2026-10-29, merged final)
+
+Text gates (verify.sh ALL PASS incl. G0 sheet + G7/G8) + mix proof PASS
+(order/pauses/edges/levels) + voice match gap 0.2-0.3 LU + two consecutive
+clean ear rounds + this ledger. Nesting 0cA<B<C proven per section.
+Deferred by owner decision (not defects): S1 catechism<->B9 swap;
+s6-tail span prefers owner ear (whisper+mix covered); C audio (film keeps
+C-cells); P12 Chabbisodhana (no span exists); S4/S5/S6 pool-depth stays out.
