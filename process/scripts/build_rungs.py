@@ -22,38 +22,64 @@ B = D / 'build' / 'canon'
 BUDGETS = {'B': 600.0, 'C': 1200.0, 'D': 2700.0}
 SLACK = 40.0
 
-# B curated subsets (assembly beat numbers; S1/S4 = whole old-A).
+# B curated subsets: assembly beat numbers, PLUS gold-tuple picks
+# ('gold', lec, start, end, reason) for spans the assembly doesn't hold.
+# FINAL PASS 2026-10-29 (owner: merge B+C, question by question):
+# S1 +b12/b13 hunt definitions (catechism↔B9 swap DEFERRED to owner —
+# deletes sa-upadisesa from all listening); S2 +gold mirror-image;
+# S3 +Colombo/+Being-eq/+Mula displacing B2/B5/B15; S4 +Kevaddha verse/
+# +sankhata-debate/+tangle-snapped; S5 +grasp/+smoked/+raft displacing
+# Upatissa b7; S6 +b9-prepared/+b5-unknot/+lotus-leaf.
+# Every gold pick below ALSO lands in C (C base = full B unit list),
+# so B⊂C holds by construction; post-build asserts verify it.
+GOLD = lambda lec, ss, to, why: ('gold', lec, ss, to, why)
 B_PICKS = {
     1: [(1, 'pointer motto'), (2, 'fire/lamp'),
         (3, 'CONTRADICTION (owner: FIRST)'),
         (4, 'Vaccha undesignable'), (5, 'warming vs cooling'),
         (6, 'third-truth resolution'), (7, 'quenched thirst'),
         (8, 'motto refrain'), (9, 'sa-upadisesa'),
-        (10, 'oil-lamp cooling'), (11, 'debt/freedom')],
+        (10, 'oil-lamp cooling'), (11, 'debt/freedom'),
+        (12, 'cessation-of-existence definition (hunt)'),
+        (13, 'elevenfold fire = extinction (hunt)')],
     2: [(1, 'pointer TRIPLE (owner §74)'), (2, 'whirlpool bodies'),
         (8, 'ignorance dethroned — not first either'),
         (10, 'akalika immediacy'), (11, 'three-periods warrant'),
-        (12, 'banana cut'), (13, 'Channa payoff')],
-    3: [(1, 'pointer craving-gap'), (2, 'nominal terrain'),
-        (4, 'honey chain'), (5, 'delight-in-existence'),
+        (12, 'banana cut'), (13, 'Channa payoff'),
+        GOLD(10, 537.3, 568.5, 'mirror-image knowledge-vision (P2)')],
+    3: [(1, 'pointer craving-gap'),
+        (4, 'honey chain'),
         (9, 'steadied'), (10, 'no-delight-in-Nibbana'),
-        (15, 'barb close'),
         (16, 'contact-chain alt gloss (hunt)'),
-        (17, 'craving bridges gap (hunt)')],
-    4: None,  # whole (old-A + hunt beats 6-8)
+        (17, 'craving bridges gap (hunt)'),
+        GOLD(12, 1156.1, 1218.6, 'Colombo/pamada-vs-papanca parable (P5)'),
+        GOLD(21, 4181.5, 4200.0, 'Being equation (P4)'),
+        GOLD(13, 804.2, 833.0, 'Mula non-imagining (P10)')],
+    4: None,  # whole (old-A + hunt beats 6-8) + S4_GOLDS below
     5: [(1, 'pointer Bahiya'), (3, 'dhono stance'),
         (4, 'razor warning'), (5, 'honing technique'),
-        (7, 'Upatissa proof'), (8, 'postures monodrama'),
+        (8, 'postures monodrama'),
         (12, 'longing licensed'), (13, 'lotus result'),
         (14, 'raft close'),
-        (15, 'develop the signless (hunt)')],
+        (15, 'develop the signless (hunt)'),
+        GOLD(8, 3843.7, 3906.1, 'grasp-in-the-middle (razor why)'),
+        GOLD(29, 3026.2, 3033.0, 'smoked-out-without-residue'),
+        GOLD(18, 2366.6, 2381.3, 'raft-abandon verse')],
     6: [(1, 'pointer grown-cool'), (2, 'chessboard'),
         (3, 'peaceful draw'), (4, 'lotuses'),
-        (8, 'faculties chain'), (11, 'magic-show seen through'),
+        (5, 'unknot (S33 triptych 1/3)'),
+        (8, 'faculties chain'), (9, 'prepared->unprepared (S32 charter)'),
+        (11, 'magic-show seen through'),
         (13, 'detached close'),
         (14, 'fire-no-path (hunt)'), (15, 'chess organic (hunt)'),
-        (16, 'neither shore (hunt)')],
+        (16, 'neither shore (hunt)'),
+        GOLD(18, 1183.3, 1195.9, 'lotus-leaf sage')],
 }
+S4_GOLDS = [  # S4 whole old-A + these (all already C head-fills)
+    GOLD(7, 663.0, 685.5, 'Kevaddha charter verse (P1)'),
+    GOLD(2, 2154.9, 2219.0, 'sankhata/atta firewall'),
+    GOLD(10, 4263.6, 4283.5, 'tangle snapped (S10 climax)'),
+]
 
 
 def abeats(asm):
@@ -97,11 +123,44 @@ def parse_gold_txt(n):
     return out
 
 
+def gold_unit(lec, ss, to, reason):
+    return {'beat': f'gold@{lec}:{ss:.0f}', 'reason': reason,
+            'analayo': {'lec': lec, 'start': ss, 'end': to,
+                        'dur': round(to - ss, 1)}}
+
+
+def beat_unit(ab, b, reason):
+    anas = [e for e in ab[b] if e['t'] == 'analayo']
+    ana = anas[0]
+    return {'beat': b, 'reason': reason,
+            'analayo': {'lec': ana['lec'], 'start': ana['start'],
+                        'end': ana['end'], 'dur': ana['dur']}}
+
+
 def main():
     man = {'budgets': BUDGETS, 'rule': 'analayo-only', 'rungs': {}}
     # taken[(rung, n)] = set of unit keys, for nesting B⊂C⊂D: D starts
     # from exactly what C took (greedy is not budget-monotone, so force it).
     taken, totals = {}, {}
+    bunits = {}  # section -> resolved B unit dicts (beats + golds)
+    for n in range(1, 7):
+        asm = json.load(open(B / f'assembly_s{n}.json'))
+        ab = abeats(asm)
+        picks = B_PICKS[n]
+        if picks is None:
+            picks = [(b, 'whole old-A fits' if b == 1 else 'whole old-A')
+                     for b in sorted(ab)]
+            if n == 4:
+                picks = picks + S4_GOLDS
+        units = []
+        for p in picks:
+            if isinstance(p[0], str) and p[0] == 'gold':
+                _, lec, ss, to, reason = p
+                units.append(gold_unit(lec, ss, to, reason))
+            else:
+                b, reason = p
+                units.append(beat_unit(ab, b, reason))
+        bunits[n] = units
     for rung, budget in BUDGETS.items():
         rsec = {}
         for n in range(1, 7):
@@ -109,18 +168,14 @@ def main():
             ab = abeats(asm)
             Q = next(e['say'] for e in asm
                      if e['t'] == 'fish' and e.get('role') == 'question')
-            if rung == 'B' and B_PICKS[n] is None:
-                picks = [(b, 'whole old-A fits' if b == 1 else 'whole old-A')
-                         for b in sorted(ab)]
-            elif rung == 'B':
-                picks = B_PICKS[n]
+            if rung == 'B':
+                base = [(u, u.get('reason', '')) for u in bunits[n]]
             else:
-                base = (B_PICKS[n] if B_PICKS[n] is not None
-                        else [(b, 'whole old-A') for b in sorted(ab)])
-                have = {b for b, _ in base}
-                picks = list(base) + [
-                    (b, 'old-A remainder (prefix order)')
-                    for b in sorted(ab) if b not in have]
+                base = [(u, u.get('reason', '')) for u in bunits[n]] + [
+                    (beat_unit(ab, b, 'old-A remainder (prefix order)'),
+                     'old-A remainder (prefix order)')
+                    for b in sorted(ab)
+                    if not any(u.get('beat') == b for u in bunits[n])]
             beats, total = [], 7.0
             if rung == 'D' and (n in taken):
                 # seed from C takes (nesting forced, not greedy)
@@ -130,21 +185,22 @@ def main():
                 seedkeys = {k for k, _, _ in taken[n]}
             else:
                 seedkeys = set()
-            for (b, reason) in picks:
-                key = ('beat', b)
+            for (unit_t, reason) in base:
+                bu = unit_t.get('beat')
+                if isinstance(bu, str) and bu.startswith('gold@'):
+                    a0 = unit_t['analayo']
+                    key = ('gold', a0['lec'], round(a0['start'], 1))
+                else:
+                    key = ('beat', bu)
                 if key in seedkeys:
                     continue
-                anas = [e for e in ab[b] if e['t'] == 'analayo']
-                ana = anas[0]
+                anas = [unit_t['analayo']]
                 cost = sum(a['dur'] for a in anas) + 8.0
                 if rung in ('C', 'D') and total + cost > budget + SLACK:
                     continue
                 total += cost
-                unit = {'beat': b, 'reason': reason,
-                        'analayo': {'lec': ana['lec'],
-                                    'start': ana['start'],
-                                    'end': ana['end'],
-                                    'dur': ana['dur']}}
+                unit = {'beat': unit_t['beat'], 'reason': reason,
+                        'analayo': dict(unit_t['analayo'])}
                 beats.append(unit)
                 if rung == 'C':
                     taken.setdefault(n, []).append((key, unit, cost))
@@ -183,6 +239,31 @@ def main():
             rsec[str(n)] = {'question': Q, 'total_s': round(total, 1),
                             'units': beats}
         man['rungs'][rung] = rsec
+    # NESTING LAW (2026-10-29 final pass): B⊂C per section, by window
+    # containment (everything heard in B reappears in C). C = B-prefix +
+    # old-A remainders-that-fit + gold fills (greedy under budget); spans
+    # that don't fit live in D/pool — reported below, not failed.
+    # (Old-A completeness was never true: S2 beats 6/7/9 = Kalaha-deepest-joint /
+    # physician-breach / prepared-cessation were deliberately placed in D.)
+    for n in map(str, range(1, 7)):
+        asm = json.load(open(B / f'assembly_s{n}.json'))
+        ab = abeats(asm)
+        oldA = set(ab)
+        cbeats = {u['beat'] for u in man['rungs']['C'][n]['units']
+                  if isinstance(u.get('beat'), int)}
+        missing = sorted(oldA - cbeats)
+        if missing:
+            print(f'C-S{n} old-A absent (in D/pool by design): {missing}',
+                  flush=True)
+        cw = [(u['analayo']['lec'], u['analayo']['start'], u['analayo']['end'])
+              for u in man['rungs']['C'][n]['units']]
+        for u in man['rungs']['B'][n]['units']:
+            a = u['analayo']
+            assert any(l == a['lec'] and cs <= a['start'] and a['end'] <= ce
+                       for (l, cs, ce) in cw), \
+                f'B-S{n} beat {u["beat"]} not contained in C'
+        print(f'nesting S{n}: B({len(man["rungs"]["B"][n]["units"])}) ⊂ C ok',
+              flush=True)
     (B / 'ladder_manifest.json').write_text(json.dumps(man, indent=1) + '\n')
     print('wrote build/canon/ladder_manifest.json')
 

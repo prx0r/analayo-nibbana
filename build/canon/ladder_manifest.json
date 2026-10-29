@@ -9,7 +9,7 @@
   "B": {
    "1": {
     "question": "What is Nibbana?",
-    "total_s": 589.0,
+    "total_s": 614.7,
     "units": [
      {
       "beat": 1,
@@ -120,12 +120,32 @@
        "end": 499,
        "dur": 11
       }
+     },
+     {
+      "beat": 12,
+      "reason": "cessation-of-existence definition (hunt)",
+      "analayo": {
+       "lec": 8,
+       "start": 3517.9,
+       "end": 3521.7,
+       "dur": 3.8
+      }
+     },
+     {
+      "beat": 13,
+      "reason": "elevenfold fire = extinction (hunt)",
+      "analayo": {
+       "lec": 18,
+       "start": 3616.0,
+       "end": 3621.9,
+       "dur": 5.9
+      }
      }
     ]
    },
    "2": {
     "question": "Why don't I see Nibbana right now?",
-    "total_s": 512.6,
+    "total_s": 534.8,
     "units": [
      {
       "beat": 1,
@@ -196,12 +216,22 @@
        "end": 2230.9,
        "dur": 101.4
       }
+     },
+     {
+      "beat": "gold@10:537",
+      "reason": "mirror-image knowledge-vision (P2)",
+      "analayo": {
+       "lec": 10,
+       "start": 537.3,
+       "end": 568.5,
+       "dur": 31.2
+      }
      }
     ]
    },
    "3": {
     "question": "What keeps it going?",
-    "total_s": 608.4,
+    "total_s": 492.3,
     "units": [
      {
       "beat": 1,
@@ -214,16 +244,6 @@
       }
      },
      {
-      "beat": 2,
-      "reason": "nominal terrain",
-      "analayo": {
-       "lec": 1,
-       "start": 2998.9,
-       "end": 3083.0,
-       "dur": 84.1
-      }
-     },
-     {
       "beat": 4,
       "reason": "honey chain",
       "analayo": {
@@ -231,16 +251,6 @@
        "start": 1299.0,
        "end": 1431.0,
        "dur": 131.7
-      }
-     },
-     {
-      "beat": 5,
-      "reason": "delight-in-existence",
-      "analayo": {
-       "lec": 23,
-       "start": 984.3,
-       "end": 1003.2,
-       "dur": 18.9
       }
      },
      {
@@ -264,16 +274,6 @@
       }
      },
      {
-      "beat": 15,
-      "reason": "barb close",
-      "analayo": {
-       "lec": 24,
-       "start": 4305.6,
-       "end": 4428.5,
-       "dur": 122.9
-      }
-     },
-     {
       "beat": 16,
       "reason": "contact-chain alt gloss (hunt)",
       "analayo": {
@@ -292,12 +292,42 @@
        "end": 2395.5,
        "dur": 16.8
       }
+     },
+     {
+      "beat": "gold@12:1156",
+      "reason": "Colombo/pamada-vs-papanca parable (P5)",
+      "analayo": {
+       "lec": 12,
+       "start": 1156.1,
+       "end": 1218.6,
+       "dur": 62.5
+      }
+     },
+     {
+      "beat": "gold@21:4182",
+      "reason": "Being equation (P4)",
+      "analayo": {
+       "lec": 21,
+       "start": 4181.5,
+       "end": 4200.0,
+       "dur": 18.5
+      }
+     },
+     {
+      "beat": "gold@13:804",
+      "reason": "Mula non-imagining (P10)",
+      "analayo": {
+       "lec": 13,
+       "start": 804.2,
+       "end": 833.0,
+       "dur": 28.8
+      }
      }
     ]
    },
    "4": {
     "question": "How is the sense of self constructed?",
-    "total_s": 431.1,
+    "total_s": 561.6,
     "units": [
      {
       "beat": 1,
@@ -378,12 +408,42 @@
        "end": 1372.3,
        "dur": 45.4
       }
+     },
+     {
+      "beat": "gold@7:663",
+      "reason": "Kevaddha charter verse (P1)",
+      "analayo": {
+       "lec": 7,
+       "start": 663.0,
+       "end": 685.5,
+       "dur": 22.5
+      }
+     },
+     {
+      "beat": "gold@2:2155",
+      "reason": "sankhata/atta firewall",
+      "analayo": {
+       "lec": 2,
+       "start": 2154.9,
+       "end": 2219.0,
+       "dur": 64.1
+      }
+     },
+     {
+      "beat": "gold@10:4264",
+      "reason": "tangle snapped (S10 climax)",
+      "analayo": {
+       "lec": 10,
+       "start": 4263.6,
+       "end": 4283.5,
+       "dur": 19.9
+      }
      }
     ]
    },
    "5": {
     "question": "How is Nibbana attained?",
-    "total_s": 580.0,
+    "total_s": 612.3,
     "units": [
      {
       "beat": 1,
@@ -423,16 +483,6 @@
        "start": 513.2,
        "end": 563.8,
        "dur": 50.6
-      }
-     },
-     {
-      "beat": 7,
-      "reason": "Upatissa proof",
-      "analayo": {
-       "lec": 5,
-       "start": 3751.5,
-       "end": 3819.1,
-       "dur": 67.6
       }
      },
      {
@@ -484,12 +534,42 @@
        "end": 992.2,
        "dur": 11.1
       }
+     },
+     {
+      "beat": "gold@8:3844",
+      "reason": "grasp-in-the-middle (razor why)",
+      "analayo": {
+       "lec": 8,
+       "start": 3843.7,
+       "end": 3906.1,
+       "dur": 62.4
+      }
+     },
+     {
+      "beat": "gold@29:3026",
+      "reason": "smoked-out-without-residue",
+      "analayo": {
+       "lec": 29,
+       "start": 3026.2,
+       "end": 3033.0,
+       "dur": 6.8
+      }
+     },
+     {
+      "beat": "gold@18:2367",
+      "reason": "raft-abandon verse",
+      "analayo": {
+       "lec": 18,
+       "start": 2366.6,
+       "end": 2381.3,
+       "dur": 14.7
+      }
      }
     ]
    },
    "6": {
     "question": "What is Nibbana like?",
-    "total_s": 467.2,
+    "total_s": 584.4,
     "units": [
      {
       "beat": 1,
@@ -532,6 +612,16 @@
       }
      },
      {
+      "beat": 5,
+      "reason": "unknot (S33 triptych 1/3)",
+      "analayo": {
+       "lec": 33,
+       "start": 949.9,
+       "end": 991.0,
+       "dur": 41.1
+      }
+     },
+     {
       "beat": 8,
       "reason": "faculties chain",
       "analayo": {
@@ -539,6 +629,16 @@
        "start": 4604.6,
        "end": 4689.4,
        "dur": 84.8
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "prepared->unprepared (S32 charter)",
+      "analayo": {
+       "lec": 32,
+       "start": 1631.8,
+       "end": 1671.3,
+       "dur": 39.5
       }
      },
      {
@@ -589,6 +689,16 @@
        "start": 1753.4,
        "end": 1764.4,
        "dur": 11.0
+      }
+     },
+     {
+      "beat": "gold@18:1183",
+      "reason": "lotus-leaf sage",
+      "analayo": {
+       "lec": 18,
+       "start": 1183.3,
+       "end": 1195.9,
+       "dur": 12.6
       }
      }
     ]
@@ -711,7 +821,7 @@
      },
      {
       "beat": 12,
-      "reason": "old-A remainder (prefix order)",
+      "reason": "cessation-of-existence definition (hunt)",
       "analayo": {
        "lec": 8,
        "start": 3517.9,
@@ -721,7 +831,7 @@
      },
      {
       "beat": 13,
-      "reason": "old-A remainder (prefix order)",
+      "reason": "elevenfold fire = extinction (hunt)",
       "analayo": {
        "lec": 18,
        "start": 3616.0,
@@ -803,7 +913,7 @@
    },
    "2": {
     "question": "Why don't I see Nibbana right now?",
-    "total_s": 1200.8,
+    "total_s": 1225.9,
     "units": [
      {
       "beat": 1,
@@ -876,6 +986,16 @@
       }
      },
      {
+      "beat": "gold@10:537",
+      "reason": "mirror-image knowledge-vision (P2)",
+      "analayo": {
+       "lec": 10,
+       "start": 537.3,
+       "end": 568.5,
+       "dur": 31.2
+      }
+     },
+     {
       "beat": 3,
       "reason": "old-A remainder (prefix order)",
       "analayo": {
@@ -906,30 +1026,20 @@
       }
      },
      {
-      "beat": "gold@10:537",
+      "beat": "gold@3:364",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
-       "lec": 10,
-       "start": 537.3,
-       "end": 568.5,
-       "dur": 31.2
-      }
-     },
-     {
-      "beat": "gold@26:4070",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 26,
-       "start": 4070.2,
-       "end": 4074.0,
-       "dur": 3.8
+       "lec": 3,
+       "start": 363.5,
+       "end": 411.4,
+       "dur": 47.9
       }
      }
     ]
    },
    "3": {
     "question": "What keeps it going?",
-    "total_s": 1219.0,
+    "total_s": 1221.9,
     "units": [
      {
       "beat": 1,
@@ -942,16 +1052,6 @@
       }
      },
      {
-      "beat": 2,
-      "reason": "nominal terrain",
-      "analayo": {
-       "lec": 1,
-       "start": 2998.9,
-       "end": 3083.0,
-       "dur": 84.1
-      }
-     },
-     {
       "beat": 4,
       "reason": "honey chain",
       "analayo": {
@@ -959,16 +1059,6 @@
        "start": 1299.0,
        "end": 1431.0,
        "dur": 131.7
-      }
-     },
-     {
-      "beat": 5,
-      "reason": "delight-in-existence",
-      "analayo": {
-       "lec": 23,
-       "start": 984.3,
-       "end": 1003.2,
-       "dur": 18.9
       }
      },
      {
@@ -992,16 +1082,6 @@
       }
      },
      {
-      "beat": 15,
-      "reason": "barb close",
-      "analayo": {
-       "lec": 24,
-       "start": 4305.6,
-       "end": 4428.5,
-       "dur": 122.9
-      }
-     },
-     {
       "beat": 16,
       "reason": "contact-chain alt gloss (hunt)",
       "analayo": {
@@ -1022,6 +1102,46 @@
       }
      },
      {
+      "beat": "gold@12:1156",
+      "reason": "Colombo/pamada-vs-papanca parable (P5)",
+      "analayo": {
+       "lec": 12,
+       "start": 1156.1,
+       "end": 1218.6,
+       "dur": 62.5
+      }
+     },
+     {
+      "beat": "gold@21:4182",
+      "reason": "Being equation (P4)",
+      "analayo": {
+       "lec": 21,
+       "start": 4181.5,
+       "end": 4200.0,
+       "dur": 18.5
+      }
+     },
+     {
+      "beat": "gold@13:804",
+      "reason": "Mula non-imagining (P10)",
+      "analayo": {
+       "lec": 13,
+       "start": 804.2,
+       "end": 833.0,
+       "dur": 28.8
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 1,
+       "start": 2998.9,
+       "end": 3083.0,
+       "dur": 84.1
+      }
+     },
+     {
       "beat": 3,
       "reason": "old-A remainder (prefix order)",
       "analayo": {
@@ -1029,6 +1149,16 @@
        "start": 5251.1,
        "end": 5363.3,
        "dur": 112.2
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 23,
+       "start": 984.3,
+       "end": 1003.2,
+       "dur": 18.9
       }
      },
      {
@@ -1105,11 +1235,11 @@
    },
    "4": {
     "question": "How is the sense of self constructed?",
-    "total_s": 1206.8,
+    "total_s": 1200.8,
     "units": [
      {
       "beat": 1,
-      "reason": "whole old-A",
+      "reason": "whole old-A fits",
       "analayo": {
        "lec": 10,
        "start": 2208.9,
@@ -1189,12 +1319,32 @@
      },
      {
       "beat": "gold@7:663",
-      "reason": "gold head-fill (manifest order)",
+      "reason": "Kevaddha charter verse (P1)",
       "analayo": {
        "lec": 7,
        "start": 663.0,
        "end": 685.5,
        "dur": 22.5
+      }
+     },
+     {
+      "beat": "gold@2:2155",
+      "reason": "sankhata/atta firewall",
+      "analayo": {
+       "lec": 2,
+       "start": 2154.9,
+       "end": 2219.0,
+       "dur": 64.1
+      }
+     },
+     {
+      "beat": "gold@10:4264",
+      "reason": "tangle snapped (S10 climax)",
+      "analayo": {
+       "lec": 10,
+       "start": 4263.6,
+       "end": 4283.5,
+       "dur": 19.9
       }
      },
      {
@@ -1205,16 +1355,6 @@
        "start": 1189.3,
        "end": 1253.9,
        "dur": 64.6
-      }
-     },
-     {
-      "beat": "gold@2:2155",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 2,
-       "start": 2154.9,
-       "end": 2219.0,
-       "dur": 64.1
       }
      },
      {
@@ -1235,16 +1375,6 @@
        "start": 4161.0,
        "end": 4182.2,
        "dur": 21.2
-      }
-     },
-     {
-      "beat": "gold@10:4264",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 10,
-       "start": 4263.6,
-       "end": 4283.5,
-       "dur": 19.9
       }
      },
      {
@@ -1411,7 +1541,7 @@
    },
    "5": {
     "question": "How is Nibbana attained?",
-    "total_s": 1206.8,
+    "total_s": 1206.2,
     "units": [
      {
       "beat": 1,
@@ -1451,16 +1581,6 @@
        "start": 513.2,
        "end": 563.8,
        "dur": 50.6
-      }
-     },
-     {
-      "beat": 7,
-      "reason": "Upatissa proof",
-      "analayo": {
-       "lec": 5,
-       "start": 3751.5,
-       "end": 3819.1,
-       "dur": 67.6
       }
      },
      {
@@ -1514,6 +1634,36 @@
       }
      },
      {
+      "beat": "gold@8:3844",
+      "reason": "grasp-in-the-middle (razor why)",
+      "analayo": {
+       "lec": 8,
+       "start": 3843.7,
+       "end": 3906.1,
+       "dur": 62.4
+      }
+     },
+     {
+      "beat": "gold@29:3026",
+      "reason": "smoked-out-without-residue",
+      "analayo": {
+       "lec": 29,
+       "start": 3026.2,
+       "end": 3033.0,
+       "dur": 6.8
+      }
+     },
+     {
+      "beat": "gold@18:2367",
+      "reason": "raft-abandon verse",
+      "analayo": {
+       "lec": 18,
+       "start": 2366.6,
+       "end": 2381.3,
+       "dur": 14.7
+      }
+     },
+     {
       "beat": 2,
       "reason": "old-A remainder (prefix order)",
       "analayo": {
@@ -1531,6 +1681,16 @@
        "start": 4160.0,
        "end": 4273.3,
        "dur": 113.3
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 5,
+       "start": 3751.5,
+       "end": 3819.1,
+       "dur": 67.6
       }
      },
      {
@@ -1564,30 +1724,20 @@
       }
      },
      {
-      "beat": "gold@5:4019",
+      "beat": "gold@5:4782",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
        "lec": 5,
-       "start": 4018.9,
-       "end": 4111.5,
-       "dur": 92.6
-      }
-     },
-     {
-      "beat": "gold@8:3844",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 8,
-       "start": 3843.7,
-       "end": 3906.1,
-       "dur": 62.4
+       "start": 4781.7,
+       "end": 4838.2,
+       "dur": 56.5
       }
      }
     ]
    },
    "6": {
     "question": "What is Nibbana like?",
-    "total_s": 1219.0,
+    "total_s": 1239.6,
     "units": [
      {
       "beat": 1,
@@ -1630,6 +1780,16 @@
       }
      },
      {
+      "beat": 5,
+      "reason": "unknot (S33 triptych 1/3)",
+      "analayo": {
+       "lec": 33,
+       "start": 949.9,
+       "end": 991.0,
+       "dur": 41.1
+      }
+     },
+     {
       "beat": 8,
       "reason": "faculties chain",
       "analayo": {
@@ -1637,6 +1797,16 @@
        "start": 4604.6,
        "end": 4689.4,
        "dur": 84.8
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "prepared->unprepared (S32 charter)",
+      "analayo": {
+       "lec": 32,
+       "start": 1631.8,
+       "end": 1671.3,
+       "dur": 39.5
       }
      },
      {
@@ -1690,13 +1860,13 @@
       }
      },
      {
-      "beat": 5,
-      "reason": "old-A remainder (prefix order)",
+      "beat": "gold@18:1183",
+      "reason": "lotus-leaf sage",
       "analayo": {
-       "lec": 33,
-       "start": 949.9,
-       "end": 991.0,
-       "dur": 41.1
+       "lec": 18,
+       "start": 1183.3,
+       "end": 1195.9,
+       "dur": 12.6
       }
      },
      {
@@ -1717,16 +1887,6 @@
        "start": 2034.5,
        "end": 2058.6,
        "dur": 24.1
-      }
-     },
-     {
-      "beat": 9,
-      "reason": "old-A remainder (prefix order)",
-      "analayo": {
-       "lec": 32,
-       "start": 1631.8,
-       "end": 1671.3,
-       "dur": 39.5
       }
      },
      {
@@ -1899,7 +2059,7 @@
      },
      {
       "beat": 12,
-      "reason": "old-A remainder (prefix order)",
+      "reason": "cessation-of-existence definition (hunt)",
       "analayo": {
        "lec": 8,
        "start": 3517.9,
@@ -1909,7 +2069,7 @@
      },
      {
       "beat": 13,
-      "reason": "old-A remainder (prefix order)",
+      "reason": "elevenfold fire = extinction (hunt)",
       "analayo": {
        "lec": 18,
        "start": 3616.0,
@@ -2281,7 +2441,7 @@
    },
    "2": {
     "question": "Why don't I see Nibbana right now?",
-    "total_s": 2733.6,
+    "total_s": 2731.0,
     "units": [
      {
       "beat": 1,
@@ -2354,6 +2514,16 @@
       }
      },
      {
+      "beat": "gold@10:537",
+      "reason": "mirror-image knowledge-vision (P2)",
+      "analayo": {
+       "lec": 10,
+       "start": 537.3,
+       "end": 568.5,
+       "dur": 31.2
+      }
+     },
+     {
       "beat": 3,
       "reason": "old-A remainder (prefix order)",
       "analayo": {
@@ -2384,23 +2554,13 @@
       }
      },
      {
-      "beat": "gold@10:537",
+      "beat": "gold@3:364",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
-       "lec": 10,
-       "start": 537.3,
-       "end": 568.5,
-       "dur": 31.2
-      }
-     },
-     {
-      "beat": "gold@26:4070",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 26,
-       "start": 4070.2,
-       "end": 4074.0,
-       "dur": 3.8
+       "lec": 3,
+       "start": 363.5,
+       "end": 411.4,
+       "dur": 47.9
       }
      },
      {
@@ -2484,16 +2644,6 @@
       }
      },
      {
-      "beat": "gold@3:364",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 3,
-       "start": 363.5,
-       "end": 411.4,
-       "dur": 47.9
-      }
-     },
-     {
       "beat": "gold@22:246",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -2534,6 +2684,16 @@
       }
      },
      {
+      "beat": "gold@26:4070",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 26,
+       "start": 4070.2,
+       "end": 4074.0,
+       "dur": 3.8
+      }
+     },
+     {
       "beat": "gold@26:4108",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -2564,20 +2724,20 @@
       }
      },
      {
-      "beat": "gold@4:2826",
+      "beat": "gold@6:5128",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
-       "lec": 4,
-       "start": 2825.7,
-       "end": 2850.3,
-       "dur": 24.6
+       "lec": 6,
+       "start": 5127.8,
+       "end": 5168.8,
+       "dur": 41.0
       }
      }
     ]
    },
    "3": {
     "question": "What keeps it going?",
-    "total_s": 2713.7,
+    "total_s": 2707.7,
     "units": [
      {
       "beat": 1,
@@ -2590,16 +2750,6 @@
       }
      },
      {
-      "beat": 2,
-      "reason": "nominal terrain",
-      "analayo": {
-       "lec": 1,
-       "start": 2998.9,
-       "end": 3083.0,
-       "dur": 84.1
-      }
-     },
-     {
       "beat": 4,
       "reason": "honey chain",
       "analayo": {
@@ -2607,16 +2757,6 @@
        "start": 1299.0,
        "end": 1431.0,
        "dur": 131.7
-      }
-     },
-     {
-      "beat": 5,
-      "reason": "delight-in-existence",
-      "analayo": {
-       "lec": 23,
-       "start": 984.3,
-       "end": 1003.2,
-       "dur": 18.9
       }
      },
      {
@@ -2640,16 +2780,6 @@
       }
      },
      {
-      "beat": 15,
-      "reason": "barb close",
-      "analayo": {
-       "lec": 24,
-       "start": 4305.6,
-       "end": 4428.5,
-       "dur": 122.9
-      }
-     },
-     {
       "beat": 16,
       "reason": "contact-chain alt gloss (hunt)",
       "analayo": {
@@ -2670,6 +2800,46 @@
       }
      },
      {
+      "beat": "gold@12:1156",
+      "reason": "Colombo/pamada-vs-papanca parable (P5)",
+      "analayo": {
+       "lec": 12,
+       "start": 1156.1,
+       "end": 1218.6,
+       "dur": 62.5
+      }
+     },
+     {
+      "beat": "gold@21:4182",
+      "reason": "Being equation (P4)",
+      "analayo": {
+       "lec": 21,
+       "start": 4181.5,
+       "end": 4200.0,
+       "dur": 18.5
+      }
+     },
+     {
+      "beat": "gold@13:804",
+      "reason": "Mula non-imagining (P10)",
+      "analayo": {
+       "lec": 13,
+       "start": 804.2,
+       "end": 833.0,
+       "dur": 28.8
+      }
+     },
+     {
+      "beat": 2,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 1,
+       "start": 2998.9,
+       "end": 3083.0,
+       "dur": 84.1
+      }
+     },
+     {
       "beat": 3,
       "reason": "old-A remainder (prefix order)",
       "analayo": {
@@ -2677,6 +2847,16 @@
        "start": 5251.1,
        "end": 5363.3,
        "dur": 112.2
+      }
+     },
+     {
+      "beat": 5,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 23,
+       "start": 984.3,
+       "end": 1003.2,
+       "dur": 18.9
       }
      },
      {
@@ -2760,6 +2940,16 @@
       }
      },
      {
+      "beat": 15,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 24,
+       "start": 4305.6,
+       "end": 4428.5,
+       "dur": 122.9
+      }
+     },
+     {
       "beat": "gold@24:1030",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -2797,16 +2987,6 @@
        "start": 965.8,
        "end": 1011.2,
        "dur": 45.4
-      }
-     },
-     {
-      "beat": "gold@12:1156",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 12,
-       "start": 1156.1,
-       "end": 1218.6,
-       "dur": 62.5
       }
      },
      {
@@ -2990,26 +3170,6 @@
       }
      },
      {
-      "beat": "gold@13:804",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 13,
-       "start": 804.2,
-       "end": 833.0,
-       "dur": 28.8
-      }
-     },
-     {
-      "beat": "gold@21:4182",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 21,
-       "start": 4181.5,
-       "end": 4200.0,
-       "dur": 18.5
-      }
-     },
-     {
       "beat": "gold@22:536",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -3023,11 +3183,11 @@
    },
    "4": {
     "question": "How is the sense of self constructed?",
-    "total_s": 2049.8,
+    "total_s": 2043.8,
     "units": [
      {
       "beat": 1,
-      "reason": "whole old-A",
+      "reason": "whole old-A fits",
       "analayo": {
        "lec": 10,
        "start": 2208.9,
@@ -3107,12 +3267,32 @@
      },
      {
       "beat": "gold@7:663",
-      "reason": "gold head-fill (manifest order)",
+      "reason": "Kevaddha charter verse (P1)",
       "analayo": {
        "lec": 7,
        "start": 663.0,
        "end": 685.5,
        "dur": 22.5
+      }
+     },
+     {
+      "beat": "gold@2:2155",
+      "reason": "sankhata/atta firewall",
+      "analayo": {
+       "lec": 2,
+       "start": 2154.9,
+       "end": 2219.0,
+       "dur": 64.1
+      }
+     },
+     {
+      "beat": "gold@10:4264",
+      "reason": "tangle snapped (S10 climax)",
+      "analayo": {
+       "lec": 10,
+       "start": 4263.6,
+       "end": 4283.5,
+       "dur": 19.9
       }
      },
      {
@@ -3123,16 +3303,6 @@
        "start": 1189.3,
        "end": 1253.9,
        "dur": 64.6
-      }
-     },
-     {
-      "beat": "gold@2:2155",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 2,
-       "start": 2154.9,
-       "end": 2219.0,
-       "dur": 64.1
       }
      },
      {
@@ -3153,16 +3323,6 @@
        "start": 4161.0,
        "end": 4182.2,
        "dur": 21.2
-      }
-     },
-     {
-      "beat": "gold@10:4264",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 10,
-       "start": 4263.6,
-       "end": 4283.5,
-       "dur": 19.9
       }
      },
      {
@@ -3559,7 +3719,7 @@
    },
    "5": {
     "question": "How is Nibbana attained?",
-    "total_s": 2711.6,
+    "total_s": 2705.6,
     "units": [
      {
       "beat": 1,
@@ -3599,16 +3759,6 @@
        "start": 513.2,
        "end": 563.8,
        "dur": 50.6
-      }
-     },
-     {
-      "beat": 7,
-      "reason": "Upatissa proof",
-      "analayo": {
-       "lec": 5,
-       "start": 3751.5,
-       "end": 3819.1,
-       "dur": 67.6
       }
      },
      {
@@ -3662,6 +3812,36 @@
       }
      },
      {
+      "beat": "gold@8:3844",
+      "reason": "grasp-in-the-middle (razor why)",
+      "analayo": {
+       "lec": 8,
+       "start": 3843.7,
+       "end": 3906.1,
+       "dur": 62.4
+      }
+     },
+     {
+      "beat": "gold@29:3026",
+      "reason": "smoked-out-without-residue",
+      "analayo": {
+       "lec": 29,
+       "start": 3026.2,
+       "end": 3033.0,
+       "dur": 6.8
+      }
+     },
+     {
+      "beat": "gold@18:2367",
+      "reason": "raft-abandon verse",
+      "analayo": {
+       "lec": 18,
+       "start": 2366.6,
+       "end": 2381.3,
+       "dur": 14.7
+      }
+     },
+     {
       "beat": 2,
       "reason": "old-A remainder (prefix order)",
       "analayo": {
@@ -3679,6 +3859,16 @@
        "start": 4160.0,
        "end": 4273.3,
        "dur": 113.3
+      }
+     },
+     {
+      "beat": 7,
+      "reason": "old-A remainder (prefix order)",
+      "analayo": {
+       "lec": 5,
+       "start": 3751.5,
+       "end": 3819.1,
+       "dur": 67.6
       }
      },
      {
@@ -3712,36 +3902,6 @@
       }
      },
      {
-      "beat": "gold@5:4019",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 5,
-       "start": 4018.9,
-       "end": 4111.5,
-       "dur": 92.6
-      }
-     },
-     {
-      "beat": "gold@8:3844",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 8,
-       "start": 3843.7,
-       "end": 3906.1,
-       "dur": 62.4
-      }
-     },
-     {
-      "beat": "gold@29:3026",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 29,
-       "start": 3026.2,
-       "end": 3033.0,
-       "dur": 6.8
-      }
-     },
-     {
       "beat": "gold@5:4782",
       "reason": "gold head-fill (manifest order)",
       "analayo": {
@@ -3749,6 +3909,16 @@
        "start": 4781.7,
        "end": 4838.2,
        "dur": 56.5
+      }
+     },
+     {
+      "beat": "gold@5:4019",
+      "reason": "gold head-fill (manifest order)",
+      "analayo": {
+       "lec": 5,
+       "start": 4018.9,
+       "end": 4111.5,
+       "dur": 92.6
       }
      },
      {
@@ -3859,16 +4029,6 @@
        "start": 1616.3,
        "end": 1637.3,
        "dur": 21.0
-      }
-     },
-     {
-      "beat": "gold@18:2367",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 18,
-       "start": 2366.6,
-       "end": 2381.3,
-       "dur": 14.7
       }
      },
      {
@@ -4005,7 +4165,7 @@
    },
    "6": {
     "question": "What is Nibbana like?",
-    "total_s": 2727.3,
+    "total_s": 2725.3,
     "units": [
      {
       "beat": 1,
@@ -4048,6 +4208,16 @@
       }
      },
      {
+      "beat": 5,
+      "reason": "unknot (S33 triptych 1/3)",
+      "analayo": {
+       "lec": 33,
+       "start": 949.9,
+       "end": 991.0,
+       "dur": 41.1
+      }
+     },
+     {
       "beat": 8,
       "reason": "faculties chain",
       "analayo": {
@@ -4055,6 +4225,16 @@
        "start": 4604.6,
        "end": 4689.4,
        "dur": 84.8
+      }
+     },
+     {
+      "beat": 9,
+      "reason": "prepared->unprepared (S32 charter)",
+      "analayo": {
+       "lec": 32,
+       "start": 1631.8,
+       "end": 1671.3,
+       "dur": 39.5
       }
      },
      {
@@ -4108,13 +4288,13 @@
       }
      },
      {
-      "beat": 5,
-      "reason": "old-A remainder (prefix order)",
+      "beat": "gold@18:1183",
+      "reason": "lotus-leaf sage",
       "analayo": {
-       "lec": 33,
-       "start": 949.9,
-       "end": 991.0,
-       "dur": 41.1
+       "lec": 18,
+       "start": 1183.3,
+       "end": 1195.9,
+       "dur": 12.6
       }
      },
      {
@@ -4135,16 +4315,6 @@
        "start": 2034.5,
        "end": 2058.6,
        "dur": 24.1
-      }
-     },
-     {
-      "beat": 9,
-      "reason": "old-A remainder (prefix order)",
-      "analayo": {
-       "lec": 32,
-       "start": 1631.8,
-       "end": 1671.3,
-       "dur": 39.5
       }
      },
      {
@@ -4215,16 +4385,6 @@
        "start": 3306.5,
        "end": 3331.5,
        "dur": 25.0
-      }
-     },
-     {
-      "beat": "gold@18:1183",
-      "reason": "gold head-fill (manifest order)",
-      "analayo": {
-       "lec": 18,
-       "start": 1183.3,
-       "end": 1195.9,
-       "dur": 12.6
       }
      },
      {

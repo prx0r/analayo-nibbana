@@ -1671,3 +1671,43 @@ C: still owner decision (audio or not — film keeps C-cells either way).
    STORYBOARD regenerated from its builder, REVIEW dated addendum,
    15/16/17 renderer names, 18-MODIFICATIONS added, verify.sh G0 wired).
    Every scripted doc edit asserted count==1 (M17).
+
+## 97. FINAL PASS: B absorbs C/D gold, question by question (2026-10-29, owner: merge B+C, autonomous)
+
+Six parallel section audits read every core beat + gold span + coverage gaps;
+picks below are the adjudicated result (builder: B_PICKS + S4_GOLDS, gold-tuple
+support, C base = full B unit list, post-build asserts: budgets + B⊂C by
+window containment + old-A-absent report). B 53.1 -> 56.7m, all sections
+within budget+slack (S1/S5 at 10.2m — over nominal 10m, inside the 40s slack).
+
+- Q1 (+9.7s): b12 cessation-of-existence definition + b13 elevenfold fire.
+  DEFERRED to owner: fire-catechism (71.5s) for B9 sa-upadisesa (132s) —
+  deletes the living-arahant half from all listening. Unfilled: Upasiva verse
+  (no span exists anywhere).
+- Q2 (+31.2s, P2 only): gold@10:537 mirror-image knowledge-vision. B1 already
+  carries the FULL triple (verified in assembly windows — P1 was moot).
+  Dropped P3 ruppati (nesting: not C-absorbable). Unfilled: island arrival,
+  compact-perception mechanics, abyss-bridge.
+- Q3 (-116.2s net): +Colombo parable (displaces B2 nominal), +Being equation
+  (displaces B5 slogan), +Mula non-imagining (displaces B15 barb). Displaced
+  B2/B5/B15 fall through to C as remainders (builder handles it); the barb
+  content itself lives on in S4B. Unfilled: Kimmulaka, contact-hybrid,
+  S12/S13/S14/S25/S33 instruments (all pool/D).
+- Q4 (+106.5s): +Kevaddha charter verse (P1 executed at last), +sankhata/
+  atta firewall, +tangle-snapped. All three were already C head-fills —
+  pure promotion, nesting free. Unfilled: contact-hybrid instruments,
+  Kimmulaka, Yamaka.
+- Q5 (+16.3s net): +grasp-in-the-middle (displaces b7 Upatissa — zero
+  instruction, weakest link), +smoked-out (7s), +raft-abandon verse.
+  B-S5 = pointer + razor-why + honing + raft + signless at 596.3s/600.
+  Unfilled: P6 element-body, P8 peg/channeling, P11 balancing (structural
+  10-minute-rung limits, not oversights).
+- Q6 (+93.2s): +prepared→unprepared b9, +unknot b5, +lotus-leaf sage.
+  Deliberately under-spent (39.6s headroom left). Unfilled: P12
+  Chabbisodhana six freedoms (no span anywhere — the one glossary S6
+  cannot buy).
+C absorbs every B gold (C base = B unit list; fills auto-shrink to budget);
+S2 beats 6/7/9 and S3 beats 13/15 stay D/pool by adjudicated design, not
+accident (deepest-joint/physician/cessation-definition/yathabhuta/barb —
+each placed where its question lives). B⊂C proven per section by window
+containment (asserts in build_rungs.py).
