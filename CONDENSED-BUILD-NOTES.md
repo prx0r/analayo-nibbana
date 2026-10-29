@@ -1736,3 +1736,13 @@ S5-smoked tail trimmed 3033.0->3031.5 (next sentence starts 3033);
 S3-Colombo tail verified clean (sentence ends 1219, gap to 1240);
 S1 picks sentence-complete both ends. Deferred (owner): S1 catechism <->
 B9 swap. Dropped: S2 ruppati (nesting), S1 hunt beats stay.
+
+## 99. New B rendered + proven (2026-10-29, final pass audio)
+
+render_B with gold-unit support + AUDIO_OUT isolation. New B: seed 4.6 +
+S1 10.0 + S2 9.4 + S3 8.2 + S4 9.5 + S5 10.4 + S6 9.8 (~58.5m + gap).
+Mix proof PASS (order/beds/edges/levels), voice_match gap 0.2-0.3 LU.
+Caveat found in passing: main() hardcodes the full filename
+(full_newA_essay.mp3) — renamed to full_B_essay.mp3 by hand this once.
+TODO: full filename follows OUT dir (newA->full_newA, B->full_B).
+Ear rounds next (stamp path): 2 consecutive clean rounds + ledger.
