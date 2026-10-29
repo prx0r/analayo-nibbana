@@ -338,3 +338,19 @@ quote-anchor (M-A7), G6b added — D-list class now auto-caught.
 
 ---
 END OF REVIEW. No content was amended in this pass, per instruction.
+
+## Queue status II (2026-10-29 — the review text above stays untouched)
+
+What changed since the first addendum (all in CONDENSED-BUILD-NOTES):
+core 71 → 83 (12 hunt beats §75) · newA ladder (A 21.6m) replaces the
+old-A listening run · seed 47 events with plain responses + 5s breaths ·
+U2 essay-0 triple · kid asks + old man answers (cast locked §91) ·
+Osho retired · Nirvana spoken · voice matched to 0.1 LU (§93) ·
+0+A STAMPED (text gates + mix proof + 2 adjudicated Qwen rounds + ledger).
+B rendered + proven (57.9m), NOT stamped — B ear rounds queued here:
+b9 open dangle (L19 390 "a certain analogy") + b10 lowercase open
+(L19 718) are the two known B-territory flags; cold opens S3b1/S6b1
+still ears-only (unchanged hold-out).
+Queue items from G7 onward that this review's pass could not see:
+rhythm engine (§87/88), marks (§90), voice-match post chain (§93),
+validate_sheet G0 (§94). They are covered by their own gates now.

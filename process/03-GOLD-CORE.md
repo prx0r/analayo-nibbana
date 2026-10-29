@@ -2,12 +2,13 @@
 
 ## Gold (A-only, cluster order)
 - Filter each pool to grade-A spans, keep cluster order. Result: the
-  deep dive (~6.9h here). Uneven is honest — dense
+  deep-dive file (~6.9h here — file total; rung B curated from it is 53.1m).
+  Uneven is honest — dense
   doctrines (fire) sprawl, concentrated ones (observer) don't.
 - Apply the motto-cap here (files keep full data; manifests enforce it).
 - Gold joins audit: sample cross-lecture joins, verify standalone reads.
 
-## Core (one killer per cluster, ~1.7h Analayo here: 83 clips — 71 + 12 hunt-found §75, sharpened A-flow order)
+## Core (one killer per cluster — 83 clips: 71 + 12 hunt-found §75, sharpened A-flow order; file total ~92.6m raw, rung A curated from it is 21.6m)
 - Per cluster, top 1–2 by duration (dense exegesis earns length), drop
   <10s slivers, motto first as cold open, end on the payoff clip.
 - Then READ THE CORE AS A SCRIPT (the textual flow audit). Fix list

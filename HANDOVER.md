@@ -1,4 +1,4 @@
-# HANDOVER — start here (2026-10-26, rebuilt after the p0 session)
+# HANDOVER — start here (2026-10-29: 0+A shipped, B rendered)
 
 You are the next agent on **analayo-nibbana**: the 33 Analayo lectures on
 Ñāṇananda's *Nibbāna: The Mind Stilled*, compressed into an argument
@@ -15,19 +15,19 @@ where things are, why, and what's next. Nothing here is decoration.
 3. `process/AXIOMS.md` + `process/12-ARGUMENT.md` — binding rules,
    the six-slot chain, the question formula, the ritual.
 4. `CONDENSED-BUILD-NOTES.md` — §35 onward = the p0 session (render
-   pipeline, sharpening, machine ears). The log is the truth; memory
-   is not.
+   pipeline, sharpening, machine ears); §§87–96 = stamp day + voice work.
+   The log is the truth; memory is not.
 5. `DONE.md` — definition of done + adjudication taxonomy (read before
    claiming anything finished).
 6. `visuals/` docs (see index below) — the film's design canon.
 7. `process/MISTAKES.md`, `reviews/REVIEW.md` — history of what was wrong.
 
-## Branch topology
-- **`main`** → the audio build: chain locked, seed, essays, gates
-  green, visuals canon saved. Last pushed: `393ab8f`.
-- **`lab/c-split`** ← YOU ARE HERE (usually): p0 essay-A (direct
-  essay-0, Fish questions, room bridges, dual-pass linear), sharpened
-  A+B, storyboard, machine ears, DONE rule. Last pushed: `ef30f91`
+## Branch topology (HEAD `ac4cbc8`, pushed to `origin/lab-c-split`)
+- **`main`** → the locked argument: chain, seed, essays, gates
+  green, visuals canon saved.
+- **`lab/c-split`** ← YOU ARE HERE (usually): newA essay-A (direct
+  essay-0, kid Q + old-man plain, room bridges, dual-pass linear), sharpened
+  A+B, storyboard, machine ears, DONE rule + 0+A stamp
   (renders local-only, never committed).
 - **tag `baseline-before-lab`** = pre-experiment main. Diff any lab
   change against it: `git diff baseline-before-lab..lab/c-split`.
@@ -79,13 +79,17 @@ where things are, why, and what's next. Nothing here is decoration.
   gold_fix_log), `scripts/p0_mix_check.py` (mix proof),
   `scripts/ear_regression.py` (calibration), `scripts/ear_probes.py`
   (checkable-question protocol), `scripts/rebuild_text.py`
-  (gloss+tts functions; its `main` td path is stale — use functions,
-  write to build/), `scripts/rematch2.py` (pool builder, legacy).
-- **Render:** `tools/render_a_essay.py` (voice-match, room bridges,
-  dual-pass linear, Fish free-tier, draft flags; timeline manifests),
+  (gloss+tts functions), `scripts/rematch2.py` (pool builder, legacy, frozen),
+  `scripts/voice_match.py` (measure/apply/check post-production loudness),
+  `scripts/trial_trio.py` (voice auditions), `process/scripts/render_newA.py`
+  [seed|s1..|all|full] + `process/scripts/render_B.py` (AUDIO_OUT).
+- **Render:** `tools/render_a_essay.py` (voice-match trims, room bridges,
+  dual-pass linear, Fish free-tier, timeline manifests; sheet==master),
+  `tools/validate_sheet.py` (G0 seconds-fast sheet check),
   `tools/align_verbatim_audio.py`, `tools/build_storyboard.py`.
-- **Gates (verify.sh):** G1 totals → G5 quote-anchor → G6 TTS →
-  G6b hardened+canary → G7 essay/chain → G8 film manifest → files.
+- **Gates (verify.sh):** G0 sheet → G1 totals → G5 quote-anchor (98/98) →
+  G6 TTS → G6b hardened+canary → G7 essay/chain → G8 film manifest →
+  G9 local ears → files.
   NEVER relax a gate; fix the data or the key (axiom 12).
 - `verify.sh` = one command, ALL GATES PASS or stop.
 
@@ -132,18 +136,19 @@ YT-only: 03,06,07,14,17,20,22,24,26,27 — YT timebase).
   then no-seer alone) / craving-gap / mirror "Ah, here I am!" / Bahiya /
   grown-cool. Every window opens and closes on the spoken answer. Q4 seam closed on
   transcript (notes §40).
-- **Rungs:** 0 ⊂ A ⊂ B exact (notes §39, §55, §58); film budgets 6/36/90/168.
-  **D = archive** (the pool files: 1136 spans, reference only — NOT a
-  listening pass; 2026-10-27 rename, notes §58). C rung retired from the
-  listening path (§62); film keeps its C-cells (167.9m) as-is.
-- **p0 draft rules (2026-10-26):** NO PLAIN (verbatim → Analayo direct),
-  NO BELLS (timing/voice check), essay-0 DIRECT (Q → archive answer, no
-  reader repeat). Fish = questions only (Fish-audio voice, free tier).
-  Bells + sfx kit return in p1.
+- **Rungs:** 0 ⊂ A ⊂ B ⊂ C ⊂ D (ladders 21.6 / 53.1 / 121.0 / 260.7m;
+  film cells 0/A/B/C 1.5/32.7/89.7/167.9m). **Archive** = the pool files
+  (1147 spans, reference only — NOT a listening pass). C rung retired from
+  the listening path (§62); film keeps its C-cells (167.9m) as-is.
+- **Ritual (newA, owner-locked 2026-10-29):** motto bell → KID asks the
+  question → 5s recollect (U1) / 3s (U2–U6, listener answers first) →
+  OLD MAN gives the plain-English response (word-pause marks where mapped)
+  → 5s breath → essay-0 verbatim on screen + Analayo pointer → beats
+  (verbatim on screen → Analayo clip) → zoom-bell. Nothing wedges between
+  question and answer. (p0-era draft rules — NO PLAIN, NO BELLS — superseded.)
 - **Ending:** candle out → ordinary life → same angle → still box →
   hold → black + silence (30s coda test). Nothing rings after the hold.
-- **Ritual:** bell → Fish Q → 3s → archive voice (nothing wedged).
-- **Gospel:** TEXT VERBATIM → PLAIN (Fish, mechanical) → AUDIO. Never
+- **Gospel:** TEXT VERBATIM → PLAIN (guide, mechanical) → AUDIO. Never
   authored prose anywhere, including chat (R1).
 - **Done rule (DONE.md):** text gates + mix proof + 2 clean ear rounds +
   ledger. Raw model verdicts never gate (canary).
@@ -154,9 +159,9 @@ YT-only: 03,06,07,14,17,20,22,24,26,27 — YT timebase).
 ## Numbers that are true today (recomputed, not remembered)
 Pool 1147 spans ~20.76h · gold 555 · core **83 clips** (71 + 12 hunt §75) ·
 seed 47 events, ~4.5m rendered (bell/Q/plain/5s-breath/essay0 canon, rhythm.json slots) ·
-ladder A 22m / B 54m / C 121m / D 261m, nesting
+ladder A 21.6m / B 53.1m / C 121.0m / D 260.7m, nesting
 0⊂A⊂B⊂C⊂D proven per section · film screening 291.8m (~4h52, FILM-CUT
-current) · G8 fully green · G5 81/81.
+current) · G8 fully green · G5 98/98 semantic anchors.
 newA render: build/audio_newA/ (seed + S1..S6 + full, analayo-only,
 bells, kid Q + old-man plain, Nirvana spoken) — fresh render 2026-10-29,
 all sections validated. Voice match 0.1-0.2 LU + mix proof PASS.
@@ -173,24 +178,22 @@ voice 0.2 LU + mix proof PASS. Ear rounds queued — NOT stamped.
    intros (slots empty by design, build/canon/human-scripts.md); (e) YT
    cold opens S3b1/S6b1 (ears required, transcripts can't arbitrate).
    P1–P12 applied §61 (off the list). Tests inform; they decide.
-2. **p1:** bells back (motto/zoom) + sfx kit wiring (bowls/ding/break/
-   blocks per assets/sfx/README.md) + YT anchor-maps at cut. STATUS
-   2026-10-28: `build/canon/yt_anchor_map.json` measured (whisper word-times,
-   multi-anchor: L03 4.5 / L06 ~1.5 drift / L07 1.5 / L14 10.0 / L17 7.8 /
-   L20 DRIFT per-window / L22 6.2 / L24 7.3 / L26 8.6 / L27 9.3 adjudicated).
-   Seed proof rendered to `build/audio_p1/` (bowls→bells, 2.4m, -17.2dB,
-   31 events). Full S1–S6 queued behind L20 per-window offsets + Fish
-   voice approval. Driver: `process/scripts/render_p1.py [seed|all]`.
-   p1 is now superseded by newA (analayo-only) for current listening;
-   p1 remains for future belled full-A render.
+2. **p1 (bells + sfx, future):** bells back (motto/zoom) + sfx kit wiring
+   (bowls/ding/break/blocks per assets/sfx/README.md) + YT anchor-maps at cut.
+   STATUS: `build/canon/yt_anchor_map.json` measured (whisper word-times,
+   multi-anchor incl. L20 per-window offsets); seed proof rendered to
+   `build/audio_p1/` (bowls→bells). newA (analayo-only) is the current
+   listening path; p1 remains for a future belled full-A render.
+   Driver: `process/scripts/render_p1.py [seed|all]`.
 3. **Cue sheet** (visual-master-plan §7 schema): per beat —
    source_clip, essay_depth, visual_motif, shot_id, audio_cue,
    duration, reuse_from. Absolute timestamps after audio master.
    (C rung retired §62 — no C-curation pass.)
 4. **G-ear live** (DONE: `process/scripts/ear_local.py` wired as G9 —
-   whisper order + essay-0 phrases + seam regression, zero tokens,
-   cached; §67 forced PASS). Qwen reserved for critic/tie-breaks
-   (14-LISTENING free-first protocol).
+   whisper order + essay-0 phrases (fuzzy key_heard + narrow retry;
+   persistent misses are ADVISORY, transcript wins) + seam regression,
+   zero tokens, cached. Qwen rounds: 0+A stamped (two clean rounds);
+   B rounds queued. (14-LISTENING free-first protocol.)
 
 ## Traps (the ones that actually bit)
 - **R6 inline drift:** never paste builder code in chat/shell — use
@@ -217,5 +220,14 @@ voice 0.2 LU + mix proof PASS. Ear rounds queued — NOT stamped.
   `--region auto` (SigV4).
 - **Model verdicts are decoration** (canary): descriptive prompts +
   mechanical verification only; mid-thought stays whisper-edges.
+  Whisper itself is nondeterministic run-to-run on identical bytes
+  (measured 1237/2279/2794 chars) — fuzzy-match phrases, retry narrow,
+  and downgrade persistent misses to advisory; transcript wins.
+- **Cache keys cover every input** (axiom 16): the 2026-10-29 wrong-cast
+  render shipped Osho slices under the kid/old cast because vid wasn't in
+  the vox hash. After any voice/trim change, stale slices serve silently.
+- **Symlinks rot silently under cache hits**: the 2026-10-28 reorg broke
+  10 lecture symlinks; every render hit cache and never touched the mp3s
+  until the first miss crashed. After any move: `find -xtype l` first.
 - **Snaps only shrink** (M-R8): essay-0/B* windows atomic; fragment-head
   rule YT-only; motto opens exempt.

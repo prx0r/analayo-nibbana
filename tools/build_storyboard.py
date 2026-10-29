@@ -41,10 +41,12 @@ def main():
     L = ['# STORYBOARD — Essay 0 + Essay A as shooting script',
          '',
          ('Law: TEXT verbatim -> PLAIN -> AUDIO archive voice, assembly order. '
-          'Seed first (6 cells), then S1..S6. p0 rules: no bells, no plain '
-          '(Fish questions only), essay-0 = Q -> Analayo direct. '
-          'Clocks: analayo/verbatim exact, Fish ~estimated, pauses exact. '
-          'Gaps flagged at the end, never padded.'),
+          'Seed first (6 cells), then S1..S6. Ritual: motto-bell -> KID Q -> '
+          'recollect -> OLD MAN plain -> 5s breath -> essay-0 on screen + '
+          'Analayo pointer -> beats. '
+          'Clocks: analayo/verbatim exact, guide ~estimated, pauses exact. '
+          'Gaps flagged at the end, never padded. Covers the full-core '
+          'assemblies (newA picks are a subset — see newA_manifest.json).'),
          '']
     clock = 0.0
 
@@ -76,7 +78,7 @@ def main():
         L.append(f'- clock ~{fmt(clock)}')
         L.append('')
 
-    L.append('## SEED — 6 cells (Q -> pause 3s -> Analayo essay-0, direct)')
+    L.append('## SEED — 6 cells (Q -> pause -> plain -> breath -> Analayo essay-0)')
     L.append('')
     seed = json.loads((B / 'assembly_s0_seed.json').read_text())
     sc = {s: {e['clip']: e for e in json.loads((B / f'seg{s}_script.json').read_text())}
@@ -126,11 +128,11 @@ def main():
         L.append('')
 
     L.append('## Gap flags')
-    for g in gapflags or ['none — 71/71 beats scripted+aligned']:
+    for g in gapflags or ['none — 83/83 core beats scripted+aligned (G5 98/98 anchors)']:
         L.append(f'- {g}')
     L.append('- YT-timebase beats: anchor-map + pause-snap at cut (never ship un-snapped)')
     L.append('- B* promotions (definitional readings in B): S3 honey-ball L12, S4 anidassana L08 — documented exception to A-only core')
-    L.append('- Fish questions = Fish-audio voice (free tier); audition approved separately')
+    L.append('- Guide voices = KID questions + OLD MAN plains (Fish TTS, free tier; cast locked 2026-10-29)')
     L.append('')
     (B / 'STORYBOARD.md').write_text('\n'.join(L))
     print(f'storyboard: seed+S1..S6, ends ~{fmt(clock)}')

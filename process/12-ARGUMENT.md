@@ -39,21 +39,21 @@ The order is constrained, not decorated: 1 anchors everything;
 intelligible after 1–4; 6 must close, never open. Reorder at will —
 if the argument still stands, the template was wrong about that text.
 
-## The four essays (0, a, b, c) — one question, four depths
+## The four rungs (0, A, B, C) — one question, four depths
 
 Each section's question gets FOUR layers of answer, all present in the
 build, all in the fixed presentation order (AXIOM 16):
 
-- **Essay 0 — the compressed answer.** The most concise response that
+- **Rung 0 — the compressed answer.** The most concise response that
   still explains the question fully. Tight, exact, no words wasted.
   For §1 it is the motto itself: *"This is peaceful, this is excellent,
   namely the stilling of all preparations..."* — one sentence that IS
   the answer. Essay 0 opens every section: the question is asked, the
   compressed answer goes on screen, the archive voice speaks it (the
   motif). It is the answer first, the expansion later.
-- **Essays a/b/c — the expansion.** The graded material already in the
-  data (A = gold spine, B = flow, C = depth), heard at expanding
-  complexity across the zoom layers: seed → core → gold → pool. Every
+- **Rungs A/B/C/D — the expansion.** The graded material already in the
+  data (A = highest-signal, B = curated subsets, C/D = deepening), heard
+  at expanding width across the zoom layers: seed → A → B → C. Every
   layer is the same argument at greater width; essay 0 never changes,
   it is the seed of all three.
 
@@ -120,15 +120,15 @@ section (owner): name the move, hand the cut to the answer.
 Every edge: previous answer named -> next question cuts it -> next
 essay 0 lands. Replace one question, re-run the formula on the pair.
 
-### From essay 0 to essay a (how expansion works)
+### From essay 0 to rung A (how expansion works)
 The chain breathes only when micro-sessions are adjacent, so the
-LISTEN order is: SEED first (assembly_s0_seed — all six Q->A units
-chained, ~4 min; pronouns resolve locally), then ZOOM into each
+LISTEN order is: SEED first (build/canon/assembly_s0_seed — all six Q->A units
+chained, 47 events; pronouns resolve locally), then ZOOM into each
 section, which re-opens with its own question + its essay 0 (the
-pair is adjacent again) and grows a -> b -> c from it:
+pair is adjacent again) and grows A -> B -> C from it:
 
     seed:   [Q1 A1][Q2 A2][Q3 A3][Q4 A4][Q5 A5][Q6 A6]   (the argument)
-    zoom:   section n: Qn -> An (anchor) -> essay a -> b -> c (the width)
+    zoom:   section n: Qn -> An (anchor) -> rung A -> B -> C (the width)
 
 Never open a section with a question whose referent sits in a
 different section's expansion ("part 1 fully expanded, then 'what
@@ -190,7 +190,7 @@ owner-ordered).
 
 Each section opens the same way, every time, no exceptions:
 
-bell → "What is X?" → pause (recollect the answer) → Fish gives the
+bell → "What is X?" → pause (recollect the answer) → OLD MAN gives the
 plain-English response → essay-0 (verbatim on screen, archive voice) →
 the intro unfolds
 
@@ -202,7 +202,7 @@ is not decoration — the repetition IS the learning, at three timescales:
 - seconds: bell → question → pause → answer (within a beat);
 - minutes: the motto returns inside every section (refrain, not repeat);
 - hours: each zoom layer revisits the whole argument at a new scale
-  (Layer 0 seed ≈ 10 min → full series ≈ 20 h).
+  (rung 0 seed ≈ 4.5 min → full listening path ≈ 27.4m (0+A) → 57.9m (+B)).
 
 A "concise" version is not a shorter playlist. It is the same argument
 with fewer beats per slot. A "complete" version is not a longer

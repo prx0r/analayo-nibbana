@@ -30,7 +30,8 @@ not level (see §Taste below).
 
 ARCHIVE stays at trim 0.0 — the lecture audio is the historical record and
 is never touched by mastering. The synthetic voices move to match it, for
-free, forever. `render_a_essay.py` reads the trims and applies them
+free, forever. The render (`tools/render_a_essay.py`, driven by
+`render_newA.py` / `render_B.py`) reads the trims and applies them
 POST-loudnorm inside `VOICE_AF_FISH` (a trim placed BEFORE a fixed-target
 loudnorm is erased by it — measured 2026-10-29: −0.5dB in, 0.0dB out).
 The trim is part of the vox cache hash (R6 rule: every input that shapes

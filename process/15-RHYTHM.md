@@ -12,8 +12,8 @@ carries an owner-dated override with a reason. No magic numbers in builders.
 2. `make_assembly.py` + `build_seed.py` read it via `R(s, slot)`; every
    pause/breath/water event takes its duration from there. Builders assert
    each override carries `{dur, why}` — an undated override fails the build.
-3. The assembly timeline IS the sheet: `render_a_essay.py` asserts
-   sheet==master every render. `tools/validate_sheet.py` proves the sheet
+3. The assembly timeline IS the sheet: the render (`tools/render_a_essay.py`
+   via `render_newA.py` / `render_B.py` drivers) asserts sheet==master every render. `tools/validate_sheet.py` proves the sheet
    coherent in seconds, before any audio exists.
 4. Silence is ROOM AIR for archive transitions (bridges from neighboring
    lecture rooms, ~30dB under speech), never digital zero. Marks INSIDE a

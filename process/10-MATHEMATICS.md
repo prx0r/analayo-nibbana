@@ -11,13 +11,14 @@ converged there independently of the Analayo cut plans, and the Analayo
 gold independently lands in the same six buckets. Two dissections, one
 elephant.
 
-## 83 beats (canonical: 71 of 2026-10-27 + 12 hunt-found §75 — assemblies play 77 + 6 essay-0 pointers)
-Core beats per section: 11, 13, 15, 5, 14, 13 = **71**.
-§4's 5 is the honest thin one (concentrated doctrine — anidassana,
+## 83 beats (canonical: 71 of 2026-10-27 + 12 hunt-found §75)
+Core beats per section: 14, 13, 17, 8, 15, 16 = **83**.
+§4's 8 is the honest thin one (concentrated doctrine — anidassana,
 tetralemma, no-footing). No padding was added to round it out; the
-asymmetry is structural. Total Analayo runtime in core: 90.5 min.
+asymmetry is structural. Total Analayo runtime in core: ~92.6 min (raw).
 The essay-0 host beat of each section is consumed by the opening
-(pointer replaces it), so the heard A is 77 beats + 8 pointers (S2 triple).
+(pointer replaces it); rung A (newA) plays pointer + curated picks
+(S1 = pointer + beats [3,6,11]).
 
 ## The ratio canon (owner 2026-10-28): rungs are RATIOS, not minutes
 
@@ -42,14 +43,13 @@ is IDENTICAL at pool, gold, and core (same sort key),
 so each layer is the same walk at a different resolution. That is the
 fractal property, and it is structural, not decorative.
 
-## 520 events, 2 bells
-Assembly manifests (`build/canon/assembly_sN.json` + seed) hold **520 events**
-(recomputed 2026-10-28: +12 hunt beats, +6 plains, U2 triple pointer,
-+8 voice-change breaths):
+## 526 events, 2 bells
+Assembly manifests (`build/canon/assembly_sN.json` + seed) hold **526 events**
+(recomputed 2026-10-29: 520 + 6 seed voice-change breaths §88):
 101 fish lines (12 questions + 77 beat plains +
 12 plain responses), 89 verbatims
 (77 beats + 6 essay-0 on-screen texts + 6 seed essay-0 texts), 93 Analayo clips (77 beats + 8
-pointers + 8 seed units), 88 waters, 87 breaths, 17 pauses, 23 fish-terms, 8
+pointers + 8 seed units), 88 waters, 93 breaths, 17 pauses, 23 fish-terms, 8
 motto-bells, 6 zoom-bells, 6 human-intro slots (empty by design), 1
 seed-reprise, 1 terminal silence.
 - **Motto bell** (bright, 2.5 s decay): section opens (seed + S1–S6)

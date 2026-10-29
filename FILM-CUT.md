@@ -25,7 +25,7 @@ gates: `process/scripts/g8_film_check.py` (wired into verify.sh as G8).
 | 4 | How is the sense of self constructed? | 24 / 226 / 480 / 777 | 45 / 240 / 480 / 780 | 1/4/13/28 |
 | 5 | How is Nibbana attained? | 22 / 388 / 1140 / 2099 | 45 / 420 / 1140 / 2100 | 1/7/21/43 |
 | 6 | What is Nibbana like? | 4 / 385 / 883 / 1678 | 75 / 420 / 900 / 1680 | 1/9/22/34 |
-| **total** | | **1.5 / 32.7 / 89.7 / 167.9 min** | **6 / 36 / 90 / 168** | 8/33/89/194 |
+| **total** | | **1.5 / 32.7 / 89.7 / 167.9 min** | **6 / 36 / 90 / 168** | 8/33/99/203 |
 
 **Screening: 291.8 min ≈ 4h 52m** (ceiling 300 + 5m tolerance).
 Unique timeline material (C) = 167.9m; re-encountered = 124.0m (the
@@ -36,10 +36,10 @@ Screening map (actual): 0:00–0:01 seed · 0:01–0:35 A · 0:35–2:04 B ·
 
 ## Documented deviations (G8 warns, does not fail)
 - Rung-0 cells all UNDER target now (pointer-shrink §51 closed the old
-  ch1/4/5/6 over-target WARNs): 14<30, 9<90, 4<75, 24<45, 22<45, 7<75.
+  ch1/4/5/6 over-target WARNs; 0-cell counts now 13/9/4/24/22/4 — all under budget).
 - A under budget by 2.8m (chapter packing ran out of short clips —
   thin stays thin; no padding).
-- Flagged material (D-categories) in cells: A=4, B=13, C=18 of 194 —
+- Flagged material (D-categories) in cells: A=4, B=13, C=18 of 203 —
   the film is essentially D-clean.
 
 ## Gates (G8)

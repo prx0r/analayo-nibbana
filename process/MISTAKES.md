@@ -63,7 +63,8 @@
   included). Fix: deleted, rebuilt mechanically; sources restricted to
   excavation quotations ONLY. Rule born: verbatim = extracted + offsets.
 - **M2. Fish narration ("he's about to say…", 82 composed cues).**
-  Caught by user ("never write", "your slop"). Fix: deleted to slop/;
+  Caught by user ("never write", "your slop"). Fix: deleted to slop/
+  (/tmp/opencode/condensed/slop/);
   Fish = term-key drops + plain-English lines derived by key ONLY.
 - **M3. Mid-quote splits orphaning Pali leads.** Regex split
   `"What is burning?"` from its continuation, `"Khayamatta na nibbanam"`
@@ -116,7 +117,8 @@
   audit against STALE build/ files — a vacuous pass that reported 0
   failures on old data. (Same class as MISTAKES §13; caught only
   because S1 beat-count looked wrong: 12 vs 11.) Permanent fix applied:
-  rebuild_text.py + make_assembly.py now read AND write build/ directly,
+  rebuild_text.py + make_assembly.py now read AND write build/ directly
+  (build/canon/ since the 2026-10-29 reorg),
   copy-step eliminated. Rule: an audit must read the same path it will
   report on; if the writer and checker paths differ, the check is void.
 - **M-A3 circular detector**: first unglossed-Pali gate used a ±40-char

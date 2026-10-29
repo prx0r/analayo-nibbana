@@ -35,7 +35,7 @@ Section close: zoom bell (S6: seed reprise + motto bell + 30s silence).
   never within 30s of a motto bell.
 
 ## Hard rules (violations fail the build)
-- No invented sentences in Osho's mouth — script only, deterministic.
+- No invented sentences in the guide's mouth — script only, deterministic.
 - Marks land inside the OLD MAN's line only (never in archive clips); each mark
   asserts its anchor word once, in order — fail loud otherwise.
 - No voice overlaps another; pauses are separate events in the manifest.

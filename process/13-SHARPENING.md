@@ -1,6 +1,6 @@
 # 13 — SHARPENING. How a rung becomes perfect (owner method, 2026-10-26).
 
-The build order is fixed: **A first, then 0 distills from it, then B, then C.**
+The build order is fixed: **A first, then 0 distills from it, then B, then C, then D.**
 Each rung is sharpened the same way, in this order. No rung is built from
 scratch; every rung is the previous rung's argument at a new width.
 
@@ -17,11 +17,12 @@ scratch; every rung is the previous rung's argument at a new width.
    essay-0 changes (adjust OUR answer-pointer, never the verbatim) — or the
    section does. A rung whose seed isn't its root is a playlist.
 4. **Sequence law (B and C).** Deeper rungs play the SHALLower rung's flow
-   order, not their own index order. Content nests AND sequence nests:
-   every B span anchors to its nearest A clip in flow order and plays in
-   that neighborhood (process/scripts/sharpen_gold.py). Unanchored spans
-   keep cluster order between anchors. Manifests, never data, enforce caps
-   (motto-cap: 1 per core, ≤3 spaced per gold).
+order, not their own index order. Content nests AND sequence nests:
+every B span anchors to its nearest A clip in flow order and plays in
+that neighborhood (manifests built by build_rungs.py; sharpen_gold.py is
+FROZEN era-1 history). Unanchored spans keep cluster order between anchors.
+Manifests, never data, enforce caps
+(motto-cap: 1 per core, ≤3 spaced per gold).
 5. **Edges last, sampled, never blind.** Detectors flag artifact/fragment/
    chant edges; a read calibrates the detector (motto opens are legitimate —
    ismotto whitelists them); only clear classes get mechanical re-snaps
@@ -31,15 +32,16 @@ scratch; every rung is the previous rung's argument at a new width.
 
 ## What "perfect" means per rung
 
-- **A (core):** every beat primes the next (hold-up by reading); openers
-  answer their questions; closers close. 71 beats, all aligned, all gated.
+- **A (newA):** every beat primes the next (hold-up by reading); openers
+  answer their questions; closers close. 83 core beats, all aligned, all gated.
 - **0 (seed):** the six roots, each answering its question with no leap,
   chain edges demanded by previous answers. Distilled FROM A, never
   retrofitted.
-- **B (gold):** A's flow at 6.9h: sequence law holds, edges clean, mottos
+- **B (ladder B):** A's flow at 53.1m speech: sequence law holds, edges clean, mottos
   capped in the manifest. The deep dive that never loses the thread.
-- **C (pool):** the archive: complete (100% of kept material), navigable
-  by the same order. Sharpness = order + honesty, not cuts.
+- **C (ladder C):** the curated deepening (121.0m): complete, navigable
+  by the same order. Sharpness = order + honesty, not cuts. D (260.7m) deepens
+  further; the archive (pool, 20.8h) is reference only.
 
 ## Non-goals
 

@@ -30,6 +30,6 @@
   written note (here: 2 cases — anidassana gist, honey-ball exposition).
 
 ## Outputs
-`segN_pool.json` (all spans, cluster-ordered), per-section cluster
+`build/canon/segN_pool.json` (all spans, cluster-ordered; 1147 spans ~20.8h total), per-section cluster
 ledgers with span counts + minutes. Fail the stage if totals don't
 reconcile or any cluster is empty without a written reason.

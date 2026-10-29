@@ -14,7 +14,7 @@ the doctrine layer; stickiness is arrangement + delivery only.
   distinctive items are recalled better. Our isolates: mottos, similes,
   bells, the 30s terminal silence. The 2018 retrieval-cue account says
   cues do the work — which is exactly what bells-as-retrieval-cues are.
-- **Spaced revisiting**: seed → core → gold → full is the same material
+- **Spaced revisiting**: seed → A → B → C is the same material
   at expanding intervals. That's distributed practice wearing a robe.
 - **Retrieval + application gates**: the 12-level movie's behavioural
   gates (do it, log it, unlock) are retrieval practice with teeth —

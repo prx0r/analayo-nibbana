@@ -7,13 +7,18 @@ without writing a single word of doctrine yourself.
 
 Given a **primary source** (the teaching text) and an **mp3 rendition**
 (someone speaking it — lectures, readings, commentary), this process
-produces 3 versions of the same material:
+produces the same material at widening radius — rungs, not versions:
 
-- **V1 Pool** — everything kept, reordered from sermon order into *argument
-  order* (6 segments here, ~20.7h). The archive. Navigable, nothing wasted.
-- **V2 Gold** — the A-grade spine only (~6.9h). The deep dive.
-- **V3 Core** — one killer beat per cluster (83 clips: 71 + 12 hunt-found §75,
-  ~1.7h Analayo + pads/pauses ≈ 2h). The clearest explanation. Self-contained movies, one per segment.
+- **Archive** — everything kept, reordered from sermon order into *argument
+  order* (6 segments here, 1147 spans, ~20.8h). Reference only, never played.
+  Navigable, nothing wasted.
+- **D (45m)** — curated deepening (260.7m total).
+- **C (20m)** — curated deepening (121.0m total).
+- **B (10m)** — curated subsets + whole old-A where it fits (53.1m total).
+- **A newA (3–5m)** — one killer arc per section (83 core clips:
+  pointer + 3–7 beats, 21.6m speech). The clearest explanation.
+- **0 seed (~20s each)** — six Q→plain→pointer micro-sessions chained
+  (47 events, 4.5m rendered).
 
 Each core beat is a fixed 3-layer stack:
 
@@ -23,34 +28,36 @@ Each core beat is a fixed 3-layer stack:
 2. **Nanananda verbatim** (exact excavation quote, provenance recorded) —
    shown (and heard, since he reads it). Never typed, only extracted.
 3. **Plain English below** (deterministic key transform, no free text) —
-   what it means, unmistakable words. Fish speaks the TTS version.
+   what it means, unmistakable words. The guide voice (KID asks, OLD MAN
+   answers) speaks questions + plain responses; beat plains stay on screen.
 
 Plus: Fish term-drops (mapped Pali word → English, first hearing per
-section), human intro per segment, bells + pauses per the flow grammar.
+section), human intro per segment, bells + pauses per the rhythm engine
+(`15-RHYTHM.md`: named slots, per-unit overrides, word-pause marks).
 
 ## The pipeline (each step has its own doc)
 
 ```
 00 INPUTS          primary text + mp3 + transcripts
-01 TRANSCRIBE+CUT  sentences -> keeps -> cutplans (A/B/C/D, seams)
+01 TRANSCRIBE+CUT  sentences -> keeps -> cutplans (era-1, frozen; see sources/lectures/cutplans/)
 02 SEGMENT         every kept span -> exactly one of N segments, clustered, ordered
 03 GOLD+CORE       A-only spines -> killer beats (+ hand fixes, all logged)
-04 PAD+GLOSS+VOICE verbatim assignment w/ provenance -> key gloss -> TTS lines -> 3 speakers
-05 QA              gates at every stage (provenance, flow, hold-up, TTS)
-06 RENDER          ffmpeg assembly, loudnorm, bells, cough cover
---- between 05 and 06 lives the FINAL LOOKOVER: reviews/REVIEW.md (read every
+04 PAD+GLOSS+VOICE verbatim assignment w/ provenance -> key gloss -> TTS lines -> guide + archive voices
+05 RENDER          ffmpeg assembly (render_newA.py [seed|s1..|all|full], render_B.py + AUDIO_OUT), loudnorm, bells, room bridges
+06 QA              gates at every stage (G0 sheet, provenance, flow, hold-up, TTS, ears)
+--- between 06 and ship lives the FINAL LOOKOVER: reviews/REVIEW.md (read every
     beat as a first-time listener, findings only, then an amendment
     pass that fixes with sourced quotes — logs in CONDENSED-BUILD-NOTES)
 ```
 
-## The film layer (added 2026-10-25, see HANDOVER.md at repo root)
-Same material, four cumulative rungs for one five-hour screening:
-**0 (seed, 6 questions) ⊂ A (33m) ⊂ B (90m) ⊂ C (168m)** — membership
+## The film layer (see HANDOVER.md at repo root)
+Same material, four cumulative cells for one five-hour screening:
+**0 (1.5m) ⊂ A (32.7m) ⊂ B (89.7m) ⊂ C (167.9m)** — membership
 in `build/canon/film_manifest.json`, budgets from `visuals/FIVE-HOUR-CUT.md`,
 gates: G8 (nesting + ceilings + provenance + chain). The visual design
-canon lives in `visuals/` (11 docs; index in HANDOVER). The next build
-artifacts: the cue sheet (VISUAL-MASTER-PLAN §7 schema) and Fish
-speaking the plain line after each clip.
+canon lives in `visuals/` (11 docs; index in HANDOVER). The listening ladder
+(0/A/B/C/D + archive) is built by `build_newA.py` / `build_rungs.py` from
+the same assemblies; rung manifests live in `build/canon/`.
 
 Supporting files: `RECURRING-MISTAKES.md` (the patterns I keep
 repeating — read FIRST, before touching anything), `AXIOMS.md` (binding rules), `SKILLS.md` (reusable
@@ -74,12 +81,15 @@ word-pause marks; sheet==master).
 `16-VOICE-MATCH.md` (post-production loudness: measure/apply/check, no
 plugins, archive-anchored trims).
 `17-CASTING.md` (voice trials, locked cast + backup, speakability proofs).
+`18-MODIFICATIONS.md` (the change loop: edit data → sheet → rebuild →
+section render → prove → log → commit).
+`07-PLAIN-ENGLISH-STANDARD.md` (testable plainness + blunting),
 
 ## What it guarantees
 
 - No invented doctrine: every sacred word is an exact, provenanced slice
   of the source (reconstruction asserted, independently re-extracted).
-- No slop narration: Fish speaks mapped words only; below-lines are pure
+- No slop narration: the guide speaks script only; below-lines are pure
   function of (verbatim, key). Deterministic — reruns are byte-identical.
 - Nothing lost: pool holds 100% of kept material; gold/core are views.
 - Flow is read, not assumed: every core read as a script, joins fixed.

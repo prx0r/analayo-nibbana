@@ -2,13 +2,13 @@
 
 A rung (0/A/B) is DONE when **all four** hold:
 
-1. **Text gates PASS** (`process/verify.sh`: totals, provenance, TTS,
-   essay, film, files).
+1. **Text gates PASS** (`process/verify.sh`: G0 sheet, totals, provenance, TTS,
+   essay, film, files + G9 local ears).
 2. **Mix proof PASS** (`process/scripts/p0_mix_check.py`: order==assembly,
    every spec bed present at position, edges audible, levels in band).
 3. **Two consecutive ear rounds with zero blocking findings after
-   adjudication** (adapted whole-mix rule: our full is 132 min, so rounds
-   run per-section whole files + seed, not one giant mix).
+   adjudication** (adapted whole-mix rule: our A full is 27.4m and B full
+   57.9m, so rounds run per-section whole files + seed, not one giant mix).
 4. **Every raw finding classed and ruled** in `build/ears/EAR_LEDGER.md`.
 
 **The raw model verdict is never the gate** (canary 2026-10-26: blind

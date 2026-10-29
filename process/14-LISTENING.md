@@ -3,10 +3,12 @@
 ## 0. Free-first protocol (2026-10-27, owner: save Qwen for specifics)
 
 Qwen is the LAST ear, never the first. Order of operations on any render:
-1. **Meters** (`p0_mix_check.py`): order, beds at position, edges, levels.
+1. **Meters** (mix proof: order, beds at position, edges, levels).
 2. **Local ears** (`process/scripts/ear_local.py`, G9 in verify.sh):
-   whisper small.en order-check + essay-0 phrases + seam regression
-   (every fixed defect re-verified mechanically). Zero tokens, cached.
+   whisper small.en order-check + essay-0 phrases (fuzzy key_heard with
+   narrow-window retry; persistent whisper misses are ADVISORY, never
+   gating — transcript wins, DONE taxonomy) + seam regression.
+   Zero tokens, cached.
 3. **Whisper spot-checks**: any new flag's exact seconds, transcribed.
 4. **Qwen only for**: (a) critic ratings/advice on CHANGED sections,
    (b) tie-breaks where meters and whisper disagree, (c) canary on prompt

@@ -14,7 +14,8 @@
   RECONSTRUCTION: slicing source at offsets must equal the text
   (whitespace/markdown-insensitive). Then verify again with an
   INDEPENDENT method (different splitter, e.g. quote-split pool).
-  Here: 75 excerpts, 0 failures, both methods.
+  Here: excerpts verified 0 failures by both methods at stage time
+  (current standing counts live in verify.sh G5, 98/98 semantic anchors).
 - Multi-part pads (exposition + verse + hunger…) are stored as excerpt
   LISTS, each individually verified — never concatenated prose.
 
@@ -35,7 +36,7 @@
 - Voice grammar: commas breathe, dashes land, periods stop. Motto beats
   keep the user's requested "namely," cadence.
 - Fish ALSO drops mapped single words on first hearing per section
-  (`segN_terms.json`, max 2/clip) — the glossary function, separate
+  (`build/canon/segN_terms.json`, max 2/clip) — the glossary function, separate
   from beat lines.
 
 ## Speaker mapping (v3 — locked)
@@ -51,7 +52,7 @@
   on-screen with the Analayo clip that contains/expands it.
 
 ## Outputs
-`segN_script.json` (clip + verbatim + provenance + plain + tts),
-`segN_terms.json` (Fish drops), `SPEAKER-RULES.md`. Fail the stage if:
+`build/canon/segN_script.json` (clip + verbatim + provenance + plain + tts),
+`build/canon/segN_terms.json` (term drops), `SPEAKER-RULES.md`. Fail the stage if:
 any verbatim lacks provenance, any TTS line opens in Pali, any Fish
 sentence isn't traceable to (verbatim, key).

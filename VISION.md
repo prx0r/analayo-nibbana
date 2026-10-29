@@ -46,7 +46,7 @@ Sections are questions, not topics. A spine question passes the FORMULA
    listener, now. (owner: *"cutting insightful question"* e.g.
    *"why do i not see nibbana right now"*)
 3. **Content-fit** — that section's essay 0 answers it aloud, no leap.
-4. **Plain** — everyday words, ≤9, Fish says it flat. A kick-off, not
+4. **Plain** — everyday words, ≤9, the guide says it flat. A kick-off, not
    an essay: *"there should only be a few leading in questions that
    make sense to kick off the enquiry"*
 
@@ -86,10 +86,11 @@ makes no sense"* — Nibbana IS the going-out; only fire/muni go).
 
 ## 5. The ritual
 
-Every section: **motto-bell → Fish asks the question → 3s recollect
-(the listener answers first) → Fish gives the plain-English response
-→ essay 0 on screen → archive voice
-answers.** Nothing wedges between question and answer — no intro
+Every section: **motto-bell → KID asks the question → 5s recollect (U1)
+/ 3s (U2–U6, the listener answers first) → OLD MAN gives the plain-English
+response (word-pause marks where mapped) → 5s breath → essay 0 on screen
++ Analayo pointer → beats → zoom-bell.** Nothing wedges between question
+and answer — no intro
 speaks in that slot (owner: *"intor = what is nibbana fish correct.
 then analayo reading out this is peaceful"*).
 
@@ -106,18 +107,18 @@ after the ~11× seed jump).** Minutes are today's measurements, never
 targets — the next text keeps the ratios with different minutes.
 Nested: every rung starting from the spine (why the spine is heard at
 each rung's head — the recurrence law). Analayo-only audio throughout
-(Osho questions + Analayo clips; verbatim+plain on screen).
+(KID questions + OLD MAN plains + Analayo clips; verbatim+plain on screen).
 
 ONE glossary, no aliases from here on — these are the only names:
 
 | rung | name | §1 example | total |
 |---|---|---|---|
-| 0 | spine | the Q+A, ~20s | 6 micro-sessions (~2m chained) |
-| A newA | highest-signal | pointer + contradiction + resolution + payoff | ~17m (3–4 units × 6) |
-| B | ten-minute | whole old-A where it fits + curated subsets | ~49m |
-| C | twenty-minute | B-prefix + old-A remainders + gold head-fill | ~121m |
-| D | forty-five | C-prefix + deeper gold (S4 runs out at 33m) | ~260m |
-| archive | reference only | the pool files (never played) | 20.7h, 1136 spans |
+| 0 | spine | the Q+A, ~20s | 6 micro-sessions (~4.5m chained, 47 events) |
+| A newA | highest-signal | pointer + contradiction + resolution + payoff | 21.6m speech (~25.5m rendered) |
+| B | ten-minute | whole old-A where it fits + curated subsets | 53.1m speech (~58m rendered) |
+| C | twenty-minute | B-prefix + old-A remainders + gold head-fill | 121m |
+| D | forty-five | C-prefix + deeper gold (S4 runs out at 33m) | 260.7m |
+| archive | reference only | the pool files (never played) | 20.7h, 1147 spans |
 
 RETIRED aliases (mine, do not reintroduce): V1/V2/V3,
 seed, zoom layers, "L0–L3", essay-a/b/c, core/gold-as-rungs. Map only:
@@ -153,8 +154,10 @@ the pick; the four tests live in judgment, run by humans.
 
 ## 9. Current state (live, see CONDENSED-BUILD-NOTES)
 
-- Chain locked (6 questions, formula-tested); seed built (39 events: bell/Q/pause/plain per unit);
-  questions synced across assembly/seed/g7/human-scripts; gates green.
+- Chain locked (6 questions, formula-tested); seed built (47 events:
+  bell/Q/pause/plain/breath per unit, rhythm.json slots);
+  questions synced across assembly/seed/g7/human-scripts; gates green
+  (G0 sheet → G9 ears).
 - Chain LOCKED by owner 2026-10-25 (FINAL): What is Nibbana? ·
   Why don't I see Nibbana right now? · What keeps it going? (Q3
   corrected to canon wording 2026-10-25 — owner: "q3 IS what
@@ -163,15 +166,13 @@ the pick; the four tests live in judgment, run by humans.
   · What is Nibbana like? Questions are POINTERS into sections (owner
   word); "me in nibbana" = category error. SECTION TITLES canonical
   in 12-ARGUMENT (six movements — screen frames, they point, they
-  don't cut: titles=screen, questions=Fish). My "this is peaceful" Q1
+  don't cut: titles=screen, questions=KID). My "this is peaceful" Q1
   override REVERTED to the owner-approved "What is Nibbana?".
   human-scripts intros: my composed prose STRIPPED, slots are the
   owner's. Other canon alt titles NOT adopted — owner's 4/5/6
   picks stand; visuals (visuals/6-PATH-CANON.md) hang beneath the
-  locked questions. OPEN answer fits: §3 (name-and-form quote
-  answered the OLD Q3 — candidates: craving-gap / delight-in-
-  existence / asava-tides), §6 (magic-show vs grown-cool), §4
-  (scatter vs construction — gem/barb/mirror candidates). Also:
-  gold/pool question re-sync, ears listen pass, renders.
-- Remaining to a finished artifact: owner pick → seed/gold/pool
-  essay-0 pass → human intros (~4 min) → ear listen → render.
+  locked questions. Cast locked 2026-10-29: KID asks, OLD MAN answers
+  (backup elderly-ref). U6 grown-cool stands (owner).
+- Shipped 2026-10-29: 0+A DONE (text gates + mix proof + 2 adjudicated
+  ear rounds + ledger); B rendered + proven (ear rounds queued);
+  remaining: human intros (~4 min), C decision, p1 bells+sfx.

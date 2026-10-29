@@ -12,32 +12,36 @@
 Both are synthesized (see `build/assets/`), same two sounds everywhere —
 no library bells, no variation. Recognition IS the function.
 
-## The zoom order (one timeline, four layers)
-- **L0 SEED** = ALL SIX micro-sessions chained (assembly_s0_seed.json,
-  ~4 min): question -> pause -> essay 0 -> archive voice, six times.
+## The zoom order (one timeline per rung; bells mark thresholds, not depths)
+- **0 SEED** = ALL SIX micro-sessions chained (build/canon/assembly_s0_seed.json,
+  47 events, 4.5m rendered): question -> pause -> plain -> breath -> essay 0 -> archive voice, six times.
   The chain lives HERE — pronouns resolve because the Q->A pairs are
   adjacent. Then ZOOM bell into the full sections.
   No title, no intro. Straight into "This is peaceful, this is excellent."
-- **ZOOM bell** → **L1 CORE** = all 6 section cores in order (~96 min
-  Analayo + pads + human intros). §1 replays here — that's intentional:
+- **ZOOM bell** → **A newA** = all 6 section As in order (21.6m speech, 27.4m
+  rendered). §1 replays here — that's intentional:
   first hearing was the promise, second is the proof.
-- **ZOOM bell** → **L2 GOLD** (6.9h, A-only spines, same cluster order).
-  Each gold section opens with its core's beats as a recap, then widens.
-- **ZOOM bell** → **L3 FULL** (20.7h pool, same order). The archive.
+- **ZOOM bell** → **B** (53.1m speech, 57.9m rendered; curated subsets,
+  each section opens with its A beats as a recap, then widens).
+- **ZOOM bell** → **C** (121.0m; B-prefix + remainders + gold head-fill).
+  D (260.7m) and the archive (pool, 20.7h) are NOT listening passes.
 - **Close**: SEED reprise (motto only) + motto bell + 30s silence.
   The film ends where it began; it means something different now.
 
-## Beat grammar (inside every section)
+## Beat grammar (inside every section; durations from build/canon/rhythm.json)
 1. RITUAL (the repetition IS the learning, process/12-ARGUMENT.md):
-   MOTTO bell → Fish asks the section question ("What is Nibbana?") →
-   3s recollect pause (the listener tries to answer first) →
-   ESSAY 0 on screen (verbatim + plain english — the compressed
+   MOTTO bell → KID asks the section question ("What is Nibbana?") →
+   5s recollect (U1) / 3s (U2–U6; the listener tries to answer first) →
+   OLD MAN gives the plain-English response (word-pause marks where mapped) →
+   5s breath → ESSAY 0 on screen (verbatim + plain english — the compressed
    answer) → the archive voice answers it (the motif). A human intro,
    if used, comes AFTER the answer, never between question and motto.
-   Beats then run the fixed stack: verbatim → plain english → Analayo.
-2. Per beat: Nanananda verbatim on screen → Fish speaks the plain English
-   → 1.5s breath → [term drops if Pali is heard] → Analayo clip plays
-   → 2.5s water.
+   Beats then run the fixed stack: verbatim on screen → Analayo clip.
+2. Per beat: Nanananda verbatim on screen → breath (beat_breath) →
+   [term drops if Pali is heard] → Analayo clip plays
+   → scaled water (beat_water_base +1s/60s, cap).
+   (Beat plains live ON SCREEN only in newA; the Fish-plain line below is
+   the p0-era shape, kept as history.)
 3. Internal motto refrains get the motto bell, never the zoom bell.
    The two bells never sound within 30s of each other.
 

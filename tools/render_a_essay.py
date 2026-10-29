@@ -695,7 +695,8 @@ def render_section(n, events, tag):
 def main():
     global ALIGN, OUT, CACHE, BREAK_DUR
     import os as _os2
-    OUT = Path(_os2.environ.get('AUDIO_OUT', '')) or BUILD / ('audio_newA' if NEWA else ('audio_p1' if P1 else ('audio_p0' if P0_NO_BELLS else 'audio_v1')))
+    _AO = _os2.environ.get('AUDIO_OUT')
+    OUT = Path(_AO) if _AO else BUILD / ('audio_newA' if NEWA else ('audio_p1' if P1 else ('audio_p0' if P0_NO_BELLS else 'audio_v1')))
     CACHE = OUT / 'cache'
     OUT.mkdir(parents=True, exist_ok=True)
     CACHE.mkdir(parents=True, exist_ok=True)

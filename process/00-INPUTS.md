@@ -32,11 +32,11 @@
   kachayana→kaccayana, YT transcripts are cue-soup needing sentence
   regrouping). Keep an aliases table; it grows.
 
-## 4. Tooling present
+## 4. Tooling present (era-1, FROZEN — method history; live paths under sources/)
 - `tools/auto_keeps.py` (draft keeps: forum/recap/translation/Pali/closer
   cuts + rank), `tools/gen_plan.py` (band-fit generator, ≤2400s assert).
 - `jq`/`python3` + `ffmpeg` + `ffprobe` for render.
-- `condensed-build` outputs land in `build/` (repo) — never only /tmp.
+- `condensed-build` outputs land in `build/canon/` (repo) — never only /tmp.
 
 ## Readiness checklist (all yes before stage 01)
 - [ ] Every unit has text, audio-or-gap-note, transcript-or-cue-fallback

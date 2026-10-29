@@ -14,8 +14,9 @@ without an owner reason.
    Osho's "Nibbana" passed; a voice that can't say the words is out).
 3. Concat per role into ONE audition mp3 (kids ask, then old men answer),
    delete individuals, upload one link. Owner picks by timestamp.
-4. Lock: IDs into `render_a_essay.py` (`FISH_Q_VOICE` / `FISH_A_VOICE`)
-   with provenance comment; previous cast kept as commented backup.
+4. Lock: IDs into the render (`tools/render_a_essay.py` `FISH_Q_VOICE` /
+   `FISH_A_VOICE`, cast shared by the newA + B drivers) with provenance
+   comment; previous cast kept as commented backup.
 
 ## The locked cast (2026-10-29)
 

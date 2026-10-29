@@ -7,7 +7,8 @@ rungs 0/A/B/C/D + film). No other repo's rules apply here.
 ## Read order (do not skip, do not reorder)
 
 1. **This file** (you are here) — 2 minutes, the map.
-2. `CONDENSED-BUILD-NOTES.md` — THE LOG. Append-only session history (§1–§86).
+2. `CONDENSED-BUILD-NOTES.md` — THE LOG. Append-only session history (§1–§96;
+   §§1–86 frozen history, §87+ the living tail).
    It takes **precedent over every other doc including this one**: when two
    docs disagree, the log's latest dated entry wins. Your first job on any
    confusion is to check what the log says, not to reason from first principles.
@@ -56,6 +57,6 @@ visuals/            film design canon (binding specs)
 5. **Raw model verdicts never gate** (DONE.md taxonomy). Mechanical claims →
    meters; text claims → whisper/transcript (transcript wins).
 6. **Frozen stays frozen:** `reviews/`, `archive/`, `CONDENSED-BUILD-NOTES.md`
-   §§, `build/versions/`, era-1 tools. Log new findings; never edit old ones.
+   §§1–86, `build/versions/`, era-1 tools. Log new findings; never edit old ones.
 7. **Audio never commits** (`build/audio_*` gitignored). New artifact →
    note it in the log the same day.

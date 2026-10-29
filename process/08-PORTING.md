@@ -42,7 +42,7 @@ the LANGUAGE LAYER and the source-specific inputs. Checklist:
   marked-human-bridge | archive-clip)? If none — slop. Delete it.
 
 ## 4. What to expect (from this build's numbers)
-- ~1,200 kept spans → ~6 segments → ~590 gold → ~70 core beats is a
+- ~1,150 kept spans → ~6 segments → 555 gold → 83 core beats is a
   reasonable shape for a ~30-unit, ~20h series. Scale linearly.
 - Thin sections are structural (concentrated doctrines) — don't pad.
 - YT/auto transcripts WILL need an aliases table; budget for it.
