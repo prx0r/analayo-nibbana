@@ -1711,3 +1711,14 @@ S2 beats 6/7/9 and S3 beats 13/15 stay D/pool by adjudicated design, not
 accident (deepest-joint/physician/cessation-definition/yathabhuta/barb —
 each placed where its question lives). B⊂C proven per section by window
 containment (asserts in build_rungs.py).
+
+## 98. OUT-env footgun + B-audio rescue (2026-10-29)
+
+`Path('')` is truthy — the AUDIO_OUT default fell through and the B render
+wrote into audio_newA, overwriting the stamped A (caught by mtime audit,
+not by any gate). Recovery: validated the B bytes in place (voice 0.3),
+copied to audio_B/, re-rendered A from cache. Fixed: render_B.py pins
+AUDIO_OUT=build/audio_B; main() honors explicit empty with fallback.
+Rule: after ANY render, `ls -la --time-style=+%H:%M build/audio_*/` before
+anything else — the manifest won't tell you which dir got written.
+TODO: OUT-dir assertion in main (fail if OUT lacks the expected rung tag).

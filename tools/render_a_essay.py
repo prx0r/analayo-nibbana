@@ -389,11 +389,13 @@ def verbatim_wavs(s, clip, text, sermon):
     return out
 
 
-def newa_events(n, asm, picks):
+def newa_events(n, asm, picks, gold=None):
     """Analayo-only new-A section events: opening (bell/Q/pause/plain/
     pointer-analayo/water) + picked beats (analayo + surrounding pauses).
     Verbatim lives on screen; fish-term/human-intro never taken.
-    Beat numbering is STABLE (pointer triple = beat 1, see build_newA)."""
+    Beat numbering is STABLE (pointer triple = beat 1, see build_newA).
+    Gold picks (ladder gold units, not assembly beats) arrive via the gold
+    map {beat_key: analayo-dict} and are synthesized as breath+analayo+water."""
     ab, cur = {}, []
     anas = [i for i, e in enumerate(asm) if e['t'] == 'analayo']
     j = 0
@@ -413,14 +415,17 @@ def newa_events(n, asm, picks):
     assert ab[1][1]['t'] == 'fish' and ab[1][3]['t'] == 'fish', \
         'opening order drifted (want bell/Q/pause/plain/verb/ana)'
     take = set()
+    gold = gold or {}
     for b in picks:
+        if b in gold:
+            continue  # synthesized below, not from assembly
         for e in ab[b]:
             # Verbatim lives on screen in newA audio (Fish voices Q +
             # opening plain only); fish-term/human-intro never taken.
             if e['t'] not in ('human-intro', 'fish-term', 'verbatim'):
                 take.add(id(e))
     for b in picks:
-        if b == 1:
+        if b == 1 or b in gold:
             continue
         for i, e in enumerate(full):
             if e is ab[b][-1] and i + 1 < len(full) \
@@ -433,6 +438,29 @@ def newa_events(n, asm, picks):
         if e['t'] == 'verbatim':
             continue  # on screen only (analayo-only); kept out of audio
         final.append(e)
+    # Splice gold units at their pick positions (assembly order otherwise).
+    if gold:
+        pos = {id(e): i for i, e in enumerate(full)}
+        ordered = []
+        for b in picks:
+            if b in gold:
+                a = gold[b]
+                ordered.append({'t': 'breath', 'dur': 1.5})
+                ordered.append({'t': 'analayo', 'lec': a['lec'],
+                                'start': a['start'], 'end': a['end'],
+                                'dur': a['dur']})
+                ordered.append({'t': 'water', 'dur': 2.5})
+                continue
+            for e in ab[b]:
+                if id(e) in take and e['t'] != 'verbatim':
+                    ordered.append(e)
+            last = ab[b][-1]
+            j = pos.get(id(last))
+            if (j is not None and j + 1 < len(full)
+                    and full[j + 1]['t'] == 'water'
+                    and id(full[j + 1]) in take):
+                ordered.append(full[j + 1])
+        final = ordered
     return final
 
 
@@ -772,7 +800,10 @@ def main():
                     continue
                 sec = newa['sections'][str(n)]
                 picks = [sec['pointer']['beat']] + [u['beat'] for u in sec['beats']]
-                evs = newa_events(n, asm[n], picks)
+                gold = {u['beat']: (u['analayo'][0] if isinstance(u['analayo'], list) else u['analayo'])
+                        for u in [sec['pointer']] + sec['beats']
+                        if isinstance(u.get('beat'), str)}
+                evs = newa_events(n, asm[n], picks, gold or None)
                 mp3, dur, log = render_section(n, evs, f's{n}')
                 files[f's{n}'] = mp3
                 manifest[f's{n}'] = {'min': round(dur / 60, 2), 'log': log,

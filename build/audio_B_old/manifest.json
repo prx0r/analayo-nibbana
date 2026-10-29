@@ -1,0 +1,1614 @@
+{
+ "seed": {
+  "min": 4.56,
+  "log": [
+   "sfx bowls_intro opens seed (+10dB)",
+   "motto-bell SKIPPED (bowls_intro opens seed)",
+   "question(fish): What is Nibbana?",
+   "pause 5.0s bridge ('fish',)->('fish',)",
+   "plain(plain)+marks: Nirvana is when everything the mind makes comes to a stop, t",
+   "breath 5.0s bridge ('fish',)->('lect', 1)",
+   "verbatim ON SCREEN only (analayo-only)",
+   "L1 696.8-709.8",
+   "water 2.5s bridge ('lect', 1)->('fish',)",
+   "question(fish): Why don't I see Nibbana right now?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): You do not see Nirvana right now because you imagine a seer ",
+   "breath 5.0s bridge ('fish',)->('lect', 25)",
+   "verbatim ON SCREEN only (analayo-only)",
+   "L25 517.9-525.8",
+   "breath 5.0s bridge ('lect', 25)->('lect', 25)",
+   "L25 2314.8-2321.2",
+   "breath 5.0s bridge ('lect', 25)->('lect', 25)",
+   "L25 2443.4-2454.0",
+   "water 2.5s bridge ('lect', 25)->('fish',)",
+   "question(fish): What keeps it going?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): Thirst keeps it going: impelled by that making it into somet",
+   "breath 5.0s bridge ('fish',)->('lect', 33)",
+   "verbatim ON SCREEN only (analayo-only)",
+   "L33 1864.7-1869.2",
+   "water 2.5s bridge ('lect', 33)->('fish',)",
+   "question(fish): How is the sense of self constructed?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): The sense of self is constructed like this: when one looks i",
+   "breath 5.0s bridge ('fish',)->('lect', 10)",
+   "verbatim ON SCREEN only (analayo-only)",
+   "L10 2208.9-2232.5",
+   "water 2.5s bridge ('lect', 10)->('fish',)",
+   "question(fish): How is Nibbana attained?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): Nirvana is only attained now: in seeing, just the seeing, wi",
+   "breath 5.0s bridge ('fish',)->('lect', 14)",
+   "verbatim ON SCREEN only (analayo-only)",
+   "L14 4430.4-4451.9",
+   "water 2.5s bridge ('lect', 14)->('fish',)",
+   "question(fish): What is Nibbana like?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): like a flame with no fuel.",
+   "breath 5.0s bridge ('fish',)->('lect', 1)",
+   "verbatim ON SCREEN only (analayo-only)",
+   "L1 4009.9-4014.0",
+   "zoom-bell"
+  ],
+  "timeline": [
+   {
+    "t": "sfx-bowls",
+    "t0": 0.0,
+    "dur": 12.76
+   },
+   {
+    "t": "fish",
+    "t0": 12.76,
+    "dur": 1.54
+   },
+   {
+    "t": "pause",
+    "t0": 14.3,
+    "dur": 5.0
+   },
+   {
+    "t": "plain",
+    "t0": 19.3,
+    "dur": 17.28
+   },
+   {
+    "t": "breath",
+    "t0": 36.58,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 41.58,
+    "dur": 13.6
+   },
+   {
+    "t": "water",
+    "t0": 55.18,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 57.68,
+    "dur": 2.61
+   },
+   {
+    "t": "pause",
+    "t0": 60.3,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 63.3,
+    "dur": 6.97
+   },
+   {
+    "t": "breath",
+    "t0": 70.27,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 75.27,
+    "dur": 8.5
+   },
+   {
+    "t": "breath",
+    "t0": 83.77,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 88.77,
+    "dur": 7.0
+   },
+   {
+    "t": "breath",
+    "t0": 95.77,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 100.77,
+    "dur": 11.2
+   },
+   {
+    "t": "water",
+    "t0": 111.97,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 114.47,
+    "dur": 1.7
+   },
+   {
+    "t": "pause",
+    "t0": 116.17,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 119.17,
+    "dur": 12.75
+   },
+   {
+    "t": "breath",
+    "t0": 131.92,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 136.92,
+    "dur": 5.1
+   },
+   {
+    "t": "water",
+    "t0": 142.02,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 144.52,
+    "dur": 2.53
+   },
+   {
+    "t": "pause",
+    "t0": 147.05,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 150.05,
+    "dur": 15.86
+   },
+   {
+    "t": "breath",
+    "t0": 165.91,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 170.91,
+    "dur": 24.2
+   },
+   {
+    "t": "water",
+    "t0": 195.11,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 197.61,
+    "dur": 2.35
+   },
+   {
+    "t": "pause",
+    "t0": 199.96,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 202.96,
+    "dur": 18.26
+   },
+   {
+    "t": "breath",
+    "t0": 221.22,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 226.22,
+    "dur": 22.1
+   },
+   {
+    "t": "water",
+    "t0": 248.32,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 250.82,
+    "dur": 1.88
+   },
+   {
+    "t": "pause",
+    "t0": 252.7,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 255.7,
+    "dur": 2.19
+   },
+   {
+    "t": "breath",
+    "t0": 257.89,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 262.89,
+    "dur": 4.7
+   },
+   {
+    "t": "zoom-bell",
+    "t0": 267.59,
+    "dur": 6.0
+   }
+  ]
+ },
+ "s1": {
+  "min": 9.71,
+  "log": [
+   "motto-bell",
+   "question(fish): What is Nibbana?",
+   "pause 5.0s bridge ('fish',)->('fish',)",
+   "plain(plain)+marks: Nirvana is when everything the mind makes comes to a stop, t",
+   "breath 5.0s bridge ('fish',)->('lect', 1)",
+   "L1 696.8-709.8",
+   "water 2.5s bridge ('lect', 1)->('lect', 1)",
+   "beat plain on screen (analayo-only): \"What is burning?\". \"Those wise ones get extinguished even l",
+   "breath 1.5s bridge ('lect', 1)->('lect', 1)",
+   "L1 3244-3345",
+   "water 4.2s bridge ('lect', 1)->('lect', 1)",
+   "beat plain on screen (analayo-only): \"To project Nibbana \u2014 out, like a flame with no fuel \u2014 into ",
+   "breath 1.5s bridge ('lect', 1)->('lect', 1)",
+   "L1 4195-4230",
+   "water 3.1s bridge ('lect', 1)->('lect', 21)",
+   "beat plain on screen (analayo-only): That form by which one designating the Tathagata might desig",
+   "breath 1.5s bridge ('lect', 1)->('lect', 21)",
+   "L21 413-455",
+   "water 3.2s bridge ('lect', 21)->('lect', 1)",
+   "beat plain on screen (analayo-only): It can in no way be compared to going out, like a flame with",
+   "breath 1.5s bridge ('lect', 21)->('lect', 1)",
+   "L1 4691-4724",
+   "water 3.0s bridge ('lect', 1)->('lect', 1)",
+   "beat plain on screen (analayo-only): \"What is the use of a well, if water is there all the time, ",
+   "breath 1.5s bridge ('lect', 1)->('lect', 1)",
+   "L1 4230-4274",
+   "water 3.2s bridge ('lect', 1)->('lect', 1)",
+   "beat plain on screen (analayo-only): One who has quenched his thirst for good is aware of that bl",
+   "breath 1.5s bridge ('lect', 1)->('lect', 1)",
+   "L1 4524-4561",
+   "water 3.1s bridge ('lect', 1)->('lect', 19)",
+   "beat plain on screen (analayo-only): This is peaceful, this is excellent, namely, everything the ",
+   "breath 1.5s bridge ('lect', 1)->('lect', 19)",
+   "L19 348-359",
+   "water 2.7s bridge ('lect', 19)->('lect', 19)",
+   "beat plain on screen (analayo-only): the arahant is free from fresh holding on, lust, hate and de",
+   "breath 1.5s bridge ('lect', 19)->('lect', 19)",
+   "L19 390-522",
+   "water 4.7s bridge ('lect', 19)->('lect', 19)",
+   "beat plain on screen (analayo-only): When he feels a pleasant-or-unpleasant tone limited to the b",
+   "breath 1.5s bridge ('lect', 19)->('lect', 19)",
+   "L19 718-753",
+   "water 3.1s bridge ('lect', 19)->('lect', 20)",
+   "beat plain on screen (analayo-only): Samsara or reiterated existence is itself a debt, which one ",
+   "breath 1.5s bridge ('lect', 19)->('lect', 20)",
+   "L20 488-499 PERW-8.7s -> DS",
+   "water 2.7s"
+  ],
+  "timeline": [
+   {
+    "t": "motto-bell",
+    "t0": 0.0,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 2.5,
+    "dur": 1.54
+   },
+   {
+    "t": "pause",
+    "t0": 4.04,
+    "dur": 5.0
+   },
+   {
+    "t": "plain",
+    "t0": 9.04,
+    "dur": 17.28
+   },
+   {
+    "t": "breath",
+    "t0": 26.32,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 31.32,
+    "dur": 13.6
+   },
+   {
+    "t": "water",
+    "t0": 44.92,
+    "dur": 2.5
+   },
+   {
+    "t": "breath",
+    "t0": 47.42,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 48.92,
+    "dur": 101.6
+   },
+   {
+    "t": "water",
+    "t0": 150.52,
+    "dur": 4.2
+   },
+   {
+    "t": "breath",
+    "t0": 154.72,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 156.22,
+    "dur": 35.6
+   },
+   {
+    "t": "water",
+    "t0": 191.82,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 194.92,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 196.42,
+    "dur": 42.6
+   },
+   {
+    "t": "water",
+    "t0": 239.02,
+    "dur": 3.2
+   },
+   {
+    "t": "breath",
+    "t0": 242.22,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 243.72,
+    "dur": 33.6
+   },
+   {
+    "t": "water",
+    "t0": 277.32,
+    "dur": 3.0
+   },
+   {
+    "t": "breath",
+    "t0": 280.32,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 281.82,
+    "dur": 44.6
+   },
+   {
+    "t": "water",
+    "t0": 326.42,
+    "dur": 3.2
+   },
+   {
+    "t": "breath",
+    "t0": 329.62,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 331.12,
+    "dur": 37.6
+   },
+   {
+    "t": "water",
+    "t0": 368.72,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 371.82,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 373.32,
+    "dur": 11.6
+   },
+   {
+    "t": "water",
+    "t0": 384.92,
+    "dur": 2.7
+   },
+   {
+    "t": "breath",
+    "t0": 387.62,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 389.12,
+    "dur": 132.6
+   },
+   {
+    "t": "water",
+    "t0": 521.72,
+    "dur": 4.7
+   },
+   {
+    "t": "breath",
+    "t0": 526.42,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 527.92,
+    "dur": 35.6
+   },
+   {
+    "t": "water",
+    "t0": 563.52,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 566.62,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 568.12,
+    "dur": 11.6
+   },
+   {
+    "t": "water",
+    "t0": 579.72,
+    "dur": 2.7
+   }
+  ],
+  "beats": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ "s2": {
+  "min": 8.62,
+  "log": [
+   "motto-bell",
+   "question(fish): Why don't I see Nibbana right now?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): You do not see Nirvana right now because you imagine a seer ",
+   "breath 5.0s bridge ('fish',)->('lect', 25)",
+   "L25 517.9-525.8",
+   "breath 1.5s bridge ('lect', 25)->('lect', 25)",
+   "L25 2314.8-2321.2",
+   "breath 1.5s bridge ('lect', 25)->('lect', 25)",
+   "L25 2443.4-2454.0",
+   "water 2.5s bridge ('lect', 25)->('lect', 2)",
+   "beat plain on screen (analayo-only): The basic principle underlying this whirlpool is to be found",
+   "breath 1.5s bridge ('lect', 25)->('lect', 2)",
+   "L2 5128.3-5193.5",
+   "water 3.6s bridge ('lect', 2)->('lect', 28)",
+   "water 4.6s bridge ('lect', 2)->('lect', 28)",
+   "beat plain on screen (analayo-only): All the twelve links are dependently arisen, and avijja \u2014 no",
+   "breath 1.5s bridge ('lect', 2)->('lect', 28)",
+   "L28 786.3-838.5",
+   "water 3.4s bridge ('lect', 28)->('lect', 4)",
+   "water 4.6s bridge ('lect', 28)->('lect', 4)",
+   "beat plain on screen (analayo-only): True to the qualities of the Dhamma \u2014 to be seen here and no",
+   "breath 1.5s bridge ('lect', 28)->('lect', 4)",
+   "L4 3142.9-3199.8",
+   "water 3.4s bridge ('lect', 4)->('lect', 4)",
+   "beat plain on screen (analayo-only): According to the accepted interpretation, presented by the v",
+   "breath 1.5s bridge ('lect', 4)->('lect', 4)",
+   "L4 4313.4-4374.2",
+   "water 3.5s bridge ('lect', 4)->('lect', 3)",
+   "beat plain on screen (analayo-only): In order to ascertain whether a banana trunk is pith-less, i",
+   "breath 1.5s bridge ('lect', 4)->('lect', 3)",
+   "L3 2906.5-2994.7 YT-4.5s -> DS",
+   "water 4.0s bridge ('lect', 3)->('lect', 4)",
+   "beat plain on screen (analayo-only): To the one attached, there is wavering. To the unattached on",
+   "breath 1.5s bridge ('lect', 3)->('lect', 4)",
+   "L4 2129.5-2230.9"
+  ],
+  "timeline": [
+   {
+    "t": "motto-bell",
+    "t0": 0.0,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 2.5,
+    "dur": 2.77
+   },
+   {
+    "t": "pause",
+    "t0": 5.27,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 8.27,
+    "dur": 7.5
+   },
+   {
+    "t": "breath",
+    "t0": 15.77,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 20.77,
+    "dur": 8.5
+   },
+   {
+    "t": "breath",
+    "t0": 29.27,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 30.77,
+    "dur": 7.0
+   },
+   {
+    "t": "breath",
+    "t0": 37.77,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 39.27,
+    "dur": 11.2
+   },
+   {
+    "t": "water",
+    "t0": 50.47,
+    "dur": 2.5
+   },
+   {
+    "t": "breath",
+    "t0": 52.97,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 54.47,
+    "dur": 65.8
+   },
+   {
+    "t": "water",
+    "t0": 120.27,
+    "dur": 3.6
+   },
+   {
+    "t": "water",
+    "t0": 123.87,
+    "dur": 4.6
+   },
+   {
+    "t": "breath",
+    "t0": 128.47,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 129.97,
+    "dur": 52.8
+   },
+   {
+    "t": "water",
+    "t0": 182.77,
+    "dur": 3.4
+   },
+   {
+    "t": "water",
+    "t0": 186.17,
+    "dur": 4.6
+   },
+   {
+    "t": "breath",
+    "t0": 190.77,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 192.27,
+    "dur": 57.5
+   },
+   {
+    "t": "water",
+    "t0": 249.77,
+    "dur": 3.4
+   },
+   {
+    "t": "breath",
+    "t0": 253.17,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 254.67,
+    "dur": 61.4
+   },
+   {
+    "t": "water",
+    "t0": 316.07,
+    "dur": 3.5
+   },
+   {
+    "t": "breath",
+    "t0": 319.57,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 321.07,
+    "dur": 88.8
+   },
+   {
+    "t": "water",
+    "t0": 409.87,
+    "dur": 4.0
+   },
+   {
+    "t": "breath",
+    "t0": 413.87,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 415.37,
+    "dur": 102.0
+   }
+  ],
+  "beats": [
+   1,
+   2,
+   8,
+   10,
+   11,
+   12,
+   13
+  ]
+ },
+ "s3": {
+  "min": 10.19,
+  "log": [
+   "motto-bell",
+   "question(fish): What keeps it going?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): Thirst keeps it going: impelled by that making it into somet",
+   "breath 5.0s bridge ('fish',)->('lect', 33)",
+   "L33 1864.7-1869.2",
+   "water 2.5s bridge ('lect', 33)->('lect', 1)",
+   "beat plain on screen (analayo-only): 'Name' in 'name-and-form' is a formal name. It is an apparen",
+   "breath 1.5s bridge ('lect', 33)->('lect', 1)",
+   "L1 2998.9-3083.0",
+   "water 3.9s bridge ('lect', 1)->('lect', 12)",
+   "water 4.4s bridge ('lect', 1)->('lect', 12)",
+   "beat plain on screen (analayo-only): Dependent on the eye and forms, eye-consciousness arises. Th",
+   "breath 1.5s bridge ('lect', 1)->('lect', 12)",
+   "L12 1299.0-1431.0",
+   "water 4.7s bridge ('lect', 12)->('lect', 23)",
+   "beat plain on screen (analayo-only): Gods and men delight in existence, they are attached to exis",
+   "breath 1.5s bridge ('lect', 12)->('lect', 23)",
+   "L23 984.3-1003.2",
+   "water 2.8s bridge ('lect', 23)->('lect', 29)",
+   "water 3.0s bridge ('lect', 23)->('lect', 29)",
+   "beat plain on screen (analayo-only): Steadied whereon the tides of imaginings no longer occur in ",
+   "breath 1.5s bridge ('lect', 23)->('lect', 29)",
+   "L29 2441.9-2521.5",
+   "water 3.8s bridge ('lect', 29)->('lect', 13)",
+   "beat plain on screen (analayo-only): He does not delight in Nibbana \u2014 out, like a flame with no f",
+   "breath 1.5s bridge ('lect', 29)->('lect', 13)",
+   "L13 2130.0-2191.3",
+   "water 3.5s bridge ('lect', 13)->('lect', 24)",
+   "water 3.1s bridge ('lect', 13)->('lect', 24)",
+   "beat plain on screen (analayo-only): Worldings in general are in the habit of asserting dogmatica",
+   "breath 1.5s bridge ('lect', 13)->('lect', 24)",
+   "L24 4305.6-4428.5 YT-7.3s -> DS",
+   "water 4.5s bridge ('lect', 24)->('lect', 11)",
+   "beat plain on screen (analayo-only): Dependent on eye and forms, friend, arises eye-consciousness",
+   "breath 1.5s bridge ('lect', 24)->('lect', 11)",
+   "L11 4698.4-4708.0",
+   "water 2.7s bridge ('lect', 11)->('lect', 20)",
+   "beat plain on screen (analayo-only): Like a promontory, it juts out into the ocean of samsara. Wh",
+   "breath 1.5s bridge ('lect', 11)->('lect', 20)",
+   "L20 2378.7-2395.5"
+  ],
+  "timeline": [
+   {
+    "t": "motto-bell",
+    "t0": 0.0,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 2.5,
+    "dur": 1.83
+   },
+   {
+    "t": "pause",
+    "t0": 4.33,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 7.33,
+    "dur": 12.98
+   },
+   {
+    "t": "breath",
+    "t0": 20.31,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 25.31,
+    "dur": 5.1
+   },
+   {
+    "t": "water",
+    "t0": 30.41,
+    "dur": 2.5
+   },
+   {
+    "t": "breath",
+    "t0": 32.91,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 34.41,
+    "dur": 84.7
+   },
+   {
+    "t": "water",
+    "t0": 119.11,
+    "dur": 3.9
+   },
+   {
+    "t": "water",
+    "t0": 123.01,
+    "dur": 4.4
+   },
+   {
+    "t": "breath",
+    "t0": 127.41,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 128.91,
+    "dur": 132.6
+   },
+   {
+    "t": "water",
+    "t0": 261.51,
+    "dur": 4.7
+   },
+   {
+    "t": "breath",
+    "t0": 266.21,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 267.71,
+    "dur": 19.5
+   },
+   {
+    "t": "water",
+    "t0": 287.21,
+    "dur": 2.8
+   },
+   {
+    "t": "water",
+    "t0": 290.01,
+    "dur": 3.0
+   },
+   {
+    "t": "breath",
+    "t0": 293.01,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 294.51,
+    "dur": 80.2
+   },
+   {
+    "t": "water",
+    "t0": 374.71,
+    "dur": 3.8
+   },
+   {
+    "t": "breath",
+    "t0": 378.51,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 380.01,
+    "dur": 61.9
+   },
+   {
+    "t": "water",
+    "t0": 441.91,
+    "dur": 3.5
+   },
+   {
+    "t": "water",
+    "t0": 445.41,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 448.51,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 450.01,
+    "dur": 123.5
+   },
+   {
+    "t": "water",
+    "t0": 573.51,
+    "dur": 4.5
+   },
+   {
+    "t": "breath",
+    "t0": 578.01,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 579.51,
+    "dur": 10.2
+   },
+   {
+    "t": "water",
+    "t0": 589.71,
+    "dur": 2.7
+   },
+   {
+    "t": "breath",
+    "t0": 592.41,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 593.91,
+    "dur": 17.4
+   }
+  ],
+  "beats": [
+   1,
+   2,
+   4,
+   5,
+   9,
+   10,
+   15,
+   16,
+   17
+  ]
+ },
+ "s4": {
+  "min": 7.11,
+  "log": [
+   "motto-bell",
+   "question(fish): How is the sense of self constructed?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): The sense of self is constructed like this: when one looks i",
+   "breath 5.0s bridge ('fish',)->('lect', 10)",
+   "L10 2208.9-2232.5",
+   "water 2.5s bridge ('lect', 10)->('lect', 8)",
+   "beat plain on screen (analayo-only): The sun, the moon and the stars shine precisely because of t",
+   "breath 1.5s bridge ('lect', 10)->('lect', 8)",
+   "L8 1382.0-1419.3",
+   "water 3.1s bridge ('lect', 8)->('lect', 6)",
+   "beat plain on screen (analayo-only): Now that the five elements have been totally removed, the re",
+   "breath 1.5s bridge ('lect', 8)->('lect', 6)",
+   "L6 1409.0-1446.8 YT-1.5s -> DS",
+   "water 3.1s bridge ('lect', 6)->('lect', 9)",
+   "beat plain on screen (analayo-only): With the stopping of that concept of a gem as some special t",
+   "breath 1.5s bridge ('lect', 6)->('lect', 9)",
+   "L9 1189.8-1276.9",
+   "water 4.0s bridge ('lect', 9)->('lect', 25)",
+   "beat plain on screen (analayo-only): He declares that he has seen well in advance 'the barb on wh",
+   "breath 1.5s bridge ('lect', 9)->('lect', 25)",
+   "L25 711.0-788.3",
+   "water 3.8s bridge ('lect', 25)->('lect', 16)",
+   "beat plain on screen (analayo-only): The magical illusion created by consciousness is so complete",
+   "breath 1.5s bridge ('lect', 25)->('lect', 16)",
+   "L16 3387.2-3401.0",
+   "water 2.7s bridge ('lect', 16)->('lect', 15)",
+   "beat plain on screen (analayo-only): The primary significance of papanca is traceable to the ling",
+   "breath 1.5s bridge ('lect', 16)->('lect', 15)",
+   "L15 1326.2-1364.0",
+   "water 3.1s bridge ('lect', 15)->('lect', 6)",
+   "beat plain on screen (analayo-only): Just as a dyer or a painter would fashion the likeness of a ",
+   "breath 1.5s bridge ('lect', 15)->('lect', 6)",
+   "L6 1326.9-1372.3"
+  ],
+  "timeline": [
+   {
+    "t": "motto-bell",
+    "t0": 0.0,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 2.5,
+    "dur": 2.72
+   },
+   {
+    "t": "pause",
+    "t0": 5.22,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 8.22,
+    "dur": 15.57
+   },
+   {
+    "t": "breath",
+    "t0": 23.79,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 28.79,
+    "dur": 24.2
+   },
+   {
+    "t": "water",
+    "t0": 52.99,
+    "dur": 2.5
+   },
+   {
+    "t": "breath",
+    "t0": 55.49,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 56.99,
+    "dur": 37.9
+   },
+   {
+    "t": "water",
+    "t0": 94.89,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 97.99,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 99.49,
+    "dur": 38.4
+   },
+   {
+    "t": "water",
+    "t0": 137.89,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 140.99,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 142.49,
+    "dur": 87.7
+   },
+   {
+    "t": "water",
+    "t0": 230.19,
+    "dur": 4.0
+   },
+   {
+    "t": "breath",
+    "t0": 234.19,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 235.69,
+    "dur": 77.9
+   },
+   {
+    "t": "water",
+    "t0": 313.59,
+    "dur": 3.8
+   },
+   {
+    "t": "breath",
+    "t0": 317.39,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 318.89,
+    "dur": 14.4
+   },
+   {
+    "t": "water",
+    "t0": 333.29,
+    "dur": 2.7
+   },
+   {
+    "t": "breath",
+    "t0": 335.99,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 337.49,
+    "dur": 38.4
+   },
+   {
+    "t": "water",
+    "t0": 375.89,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 378.99,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 380.49,
+    "dur": 46.0
+   }
+  ],
+  "beats": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ "s5": {
+  "min": 9.71,
+  "log": [
+   "motto-bell",
+   "question(fish): How is Nibbana attained?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): Nirvana is only attained now: in seeing, just the seeing, wi",
+   "breath 5.0s bridge ('fish',)->('lect', 14)",
+   "L14 4430.4-4451.9",
+   "water 4.7s bridge ('lect', 14)->('lect', 14)",
+   "beat plain on screen (analayo-only): the arahant does not imagine 'thereby', namely, by whatever ",
+   "breath 1.5s bridge ('lect', 14)->('lect', 14)",
+   "L14 4406-4429.8",
+   "water 2.9s bridge ('lect', 14)->('lect', 5)",
+   "beat plain on screen (analayo-only): With the idea of sharpening the razor, if one grabs it tight",
+   "breath 1.5s bridge ('lect', 14)->('lect', 5)",
+   "L5 410.3-488.2",
+   "water 3.8s bridge ('lect', 5)->('lect', 5)",
+   "beat plain on screen (analayo-only): The third combined movement ensures that those parts of the ",
+   "breath 1.5s bridge ('lect', 5)->('lect', 5)",
+   "L5 513.2-563.8",
+   "water 3.3s bridge ('lect', 5)->('lect', 5)",
+   "water 4.4s bridge ('lect', 5)->('lect', 5)",
+   "beat plain on screen (analayo-only): It is said that the wandering ascetic Upatissa was able to a",
+   "breath 1.5s bridge ('lect', 5)->('lect', 5)",
+   "L5 3751.5-3819.1",
+   "water 3.6s bridge ('lect', 5)->('lect', 9)",
+   "beat plain on screen (analayo-only): When walking, he understands \u2014 'I am walking', when standing",
+   "breath 1.5s bridge ('lect', 5)->('lect', 9)",
+   "L9 728.2-806.0",
+   "water 3.8s bridge ('lect', 9)->('lect', 30)",
+   "water 3.5s bridge ('lect', 9)->('lect', 30)",
+   "beat plain on screen (analayo-only): One arouses a longing for the supreme deliverances thus \u2014 'W",
+   "breath 1.5s bridge ('lect', 9)->('lect', 30)",
+   "L30 1187.5-1245.4",
+   "water 3.5s bridge ('lect', 30)->('lect', 18)",
+   "beat plain on screen (analayo-only): Just as a blue lotus, born in the water, rises well above th",
+   "breath 1.5s bridge ('lect', 30)->('lect', 18)",
+   "L18 2307-2350.0",
+   "water 3.2s bridge ('lect', 18)->('lect', 31)",
+   "beat plain on screen (analayo-only): One comes to know one's strongpoint, where one's forte lies.",
+   "breath 1.5s bridge ('lect', 18)->('lect', 31)",
+   "L31 611.2-673.0",
+   "water 3.5s bridge ('lect', 31)->('lect', 29)",
+   "beat plain on screen (analayo-only): 'Develop the signless, too, and give up the latency to conce",
+   "breath 1.5s bridge ('lect', 31)->('lect', 29)",
+   "L29 981.1-992.2"
+  ],
+  "timeline": [
+   {
+    "t": "motto-bell",
+    "t0": 0.0,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 2.5,
+    "dur": 2.01
+   },
+   {
+    "t": "pause",
+    "t0": 4.51,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 7.51,
+    "dur": 17.61
+   },
+   {
+    "t": "breath",
+    "t0": 25.12,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 30.12,
+    "dur": 22.1
+   },
+   {
+    "t": "water",
+    "t0": 52.22,
+    "dur": 4.7
+   },
+   {
+    "t": "breath",
+    "t0": 56.92,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 58.42,
+    "dur": 24.4
+   },
+   {
+    "t": "water",
+    "t0": 82.82,
+    "dur": 2.9
+   },
+   {
+    "t": "breath",
+    "t0": 85.72,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 87.22,
+    "dur": 78.5
+   },
+   {
+    "t": "water",
+    "t0": 165.72,
+    "dur": 3.8
+   },
+   {
+    "t": "breath",
+    "t0": 169.52,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 171.02,
+    "dur": 51.2
+   },
+   {
+    "t": "water",
+    "t0": 222.22,
+    "dur": 3.3
+   },
+   {
+    "t": "water",
+    "t0": 225.52,
+    "dur": 4.4
+   },
+   {
+    "t": "breath",
+    "t0": 229.92,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 231.42,
+    "dur": 68.2
+   },
+   {
+    "t": "water",
+    "t0": 299.62,
+    "dur": 3.6
+   },
+   {
+    "t": "breath",
+    "t0": 303.22,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 304.72,
+    "dur": 78.4
+   },
+   {
+    "t": "water",
+    "t0": 383.12,
+    "dur": 3.8
+   },
+   {
+    "t": "water",
+    "t0": 386.92,
+    "dur": 3.5
+   },
+   {
+    "t": "breath",
+    "t0": 390.42,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 391.92,
+    "dur": 58.5
+   },
+   {
+    "t": "water",
+    "t0": 450.42,
+    "dur": 3.5
+   },
+   {
+    "t": "breath",
+    "t0": 453.92,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 455.42,
+    "dur": 43.6
+   },
+   {
+    "t": "water",
+    "t0": 499.02,
+    "dur": 3.2
+   },
+   {
+    "t": "breath",
+    "t0": 502.22,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 503.72,
+    "dur": 62.4
+   },
+   {
+    "t": "water",
+    "t0": 566.12,
+    "dur": 3.5
+   },
+   {
+    "t": "breath",
+    "t0": 569.62,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 571.12,
+    "dur": 11.7
+   }
+  ],
+  "beats": [
+   1,
+   3,
+   4,
+   5,
+   7,
+   8,
+   12,
+   13,
+   14,
+   15
+  ]
+ },
+ "s6": {
+  "min": 7.57,
+  "log": [
+   "motto-bell",
+   "question(fish): What is Nibbana like?",
+   "pause 3.0s bridge ('fish',)->('fish',)",
+   "plain(plain): like a flame with no fuel.",
+   "breath 5.0s bridge ('fish',)->('lect', 1)",
+   "L1 4009.9-4014.0",
+   "water 2.5s bridge ('lect', 1)->('lect', 8)",
+   "beat plain on screen (analayo-only): Now, for the arahant, the whole world appears like a chessbo",
+   "breath 1.5s bridge ('lect', 1)->('lect', 8)",
+   "L8 2787.3-2835.9",
+   "water 3.3s bridge ('lect', 8)->('lect', 23)",
+   "beat plain on screen (analayo-only): It is as if the unending game of chess with all its vicissit",
+   "breath 1.5s bridge ('lect', 8)->('lect', 23)",
+   "L23 1028.8-1065.5",
+   "water 3.1s bridge ('lect', 23)->('lect', 18)",
+   "beat plain on screen (analayo-only): Let a myriad arahant lotuses, unsmeared by water and mud, br",
+   "breath 1.5s bridge ('lect', 23)->('lect', 18)",
+   "L18 1252.4-1274.6",
+   "water 2.9s bridge ('lect', 18)->('lect', 31)",
+   "water 2.9s bridge ('lect', 18)->('lect', 31)",
+   "beat plain on screen (analayo-only): It could indeed be expected of a noble disciple who has fait",
+   "breath 1.5s bridge ('lect', 18)->('lect', 31)",
+   "L31 4604.6-4689.4",
+   "water 3.9s bridge ('lect', 31)->('lect', 26)",
+   "water 4.2s bridge ('lect', 31)->('lect', 26)",
+   "beat plain on screen (analayo-only): All those who came out of that hall, except this discerning ",
+   "breath 1.5s bridge ('lect', 31)->('lect', 26)",
+   "L26 1650.7-1749.1 YT-8.6s -> DS",
+   "water 4.1s bridge ('lect', 26)->('lect', 27)",
+   "water 4.1s bridge ('lect', 26)->('lect', 27)",
+   "beat plain on screen (analayo-only): To one detached from percepts there are no bonds, to one rel",
+   "breath 1.5s bridge ('lect', 26)->('lect', 27)",
+   "L27 3655.6-3694.8 YT-9.3s -> DS",
+   "water 3.2s bridge ('lect', 27)->('lect', 19)",
+   "beat plain on screen (analayo-only): Just as in the case of a fire blazing like a block of iron i",
+   "breath 1.5s bridge ('lect', 27)->('lect', 19)",
+   "L19 3993.5-4014.7",
+   "water 2.9s bridge ('lect', 19)->('lect', 28)",
+   "beat plain on screen (analayo-only): Our entire samsaric existence is a chess game between the or",
+   "breath 1.5s bridge ('lect', 19)->('lect', 28)",
+   "L28 2901.8-2915.8",
+   "water 2.7s bridge ('lect', 28)->('lect', 5)",
+   "beat plain on screen (analayo-only): For whom there is neither a farther shore, nor a hither shor",
+   "breath 1.5s bridge ('lect', 28)->('lect', 5)",
+   "L5 1753.4-1764.4"
+  ],
+  "timeline": [
+   {
+    "t": "motto-bell",
+    "t0": 0.0,
+    "dur": 2.5
+   },
+   {
+    "t": "fish",
+    "t0": 2.5,
+    "dur": 1.88
+   },
+   {
+    "t": "pause",
+    "t0": 4.38,
+    "dur": 3.0
+   },
+   {
+    "t": "plain",
+    "t0": 7.38,
+    "dur": 2.43
+   },
+   {
+    "t": "breath",
+    "t0": 9.81,
+    "dur": 5.0
+   },
+   {
+    "t": "analayo",
+    "t0": 14.81,
+    "dur": 4.7
+   },
+   {
+    "t": "water",
+    "t0": 19.51,
+    "dur": 2.5
+   },
+   {
+    "t": "breath",
+    "t0": 22.01,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 23.51,
+    "dur": 49.2
+   },
+   {
+    "t": "water",
+    "t0": 72.71,
+    "dur": 3.3
+   },
+   {
+    "t": "breath",
+    "t0": 76.01,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 77.51,
+    "dur": 37.3
+   },
+   {
+    "t": "water",
+    "t0": 114.81,
+    "dur": 3.1
+   },
+   {
+    "t": "breath",
+    "t0": 117.91,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 119.41,
+    "dur": 22.8
+   },
+   {
+    "t": "water",
+    "t0": 142.21,
+    "dur": 2.9
+   },
+   {
+    "t": "water",
+    "t0": 145.11,
+    "dur": 2.9
+   },
+   {
+    "t": "breath",
+    "t0": 148.01,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 149.51,
+    "dur": 85.4
+   },
+   {
+    "t": "water",
+    "t0": 234.91,
+    "dur": 3.9
+   },
+   {
+    "t": "water",
+    "t0": 238.81,
+    "dur": 4.2
+   },
+   {
+    "t": "breath",
+    "t0": 243.01,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 244.51,
+    "dur": 99.0
+   },
+   {
+    "t": "water",
+    "t0": 343.51,
+    "dur": 4.1
+   },
+   {
+    "t": "water",
+    "t0": 347.61,
+    "dur": 4.1
+   },
+   {
+    "t": "breath",
+    "t0": 351.71,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 353.21,
+    "dur": 39.8
+   },
+   {
+    "t": "water",
+    "t0": 393.01,
+    "dur": 3.2
+   },
+   {
+    "t": "breath",
+    "t0": 396.21,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 397.71,
+    "dur": 21.8
+   },
+   {
+    "t": "water",
+    "t0": 419.51,
+    "dur": 2.9
+   },
+   {
+    "t": "breath",
+    "t0": 422.41,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 423.91,
+    "dur": 14.6
+   },
+   {
+    "t": "water",
+    "t0": 438.51,
+    "dur": 2.7
+   },
+   {
+    "t": "breath",
+    "t0": 441.21,
+    "dur": 1.5
+   },
+   {
+    "t": "analayo",
+    "t0": 442.71,
+    "dur": 11.6
+   }
+  ],
+  "beats": [
+   1,
+   2,
+   3,
+   4,
+   8,
+   11,
+   13,
+   14,
+   15,
+   16
+  ]
+ },
+ "stats": {
+  "verbatim_aligned": 0,
+  "verbatim_placeholder": 0,
+  "fish_lines": 24,
+  "plain_skipped": 49
+ }
+}

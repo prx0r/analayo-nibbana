@@ -10,11 +10,13 @@ Usage: python3 process/scripts/render_B.py [seed|all]
 Renders stay local-only, uncommitted.
 """
 import json
+import os
 import sys
 
 sys.path.insert(0, str(__import__('pathlib').Path(__file__).parent.parent.parent / 'tools'))
 import render_a_essay as R
 
+os.environ['AUDIO_OUT'] = '/root/analayo-nibbana/build/audio_B'
 R.NEWA = True  # reuse the newA event builder (analayo-only, breath)
 R.P0_NO_BELLS = False
 R.NEWA_SEED_ONLY = (len(sys.argv) < 2 or sys.argv[1] == 'seed')
