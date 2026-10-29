@@ -1626,3 +1626,15 @@ Wired in: README/FILES/HANDOVER indexes, AXIOM 16 (cache keys cover every
 input; symlink twin), verify.sh G0 (validate_sheet runs first, seconds).
 How 0/A were proven: text gates + mix proof + 2 adjudicated Qwen rounds +
 ledger (DONE); voice identity NEVER by model ears (see §92).
+
+## 95. Finished: 0+A shipped (2026-10-29)
+
+Deliverables: `build/audio_newA/full_newA_essay.mp3` (~27.4m: seed 4.5m +
+30s gap + S1-S6) + `seed.mp3` + `s1.mp3` (public links in hand).
+`build/canon/FINAL_ESSAY_TEXT_0A.md` = the complete spoken text (6 Q/PLAIN/TEXT + A beats).
+Proof stack on the shipped bytes: verify.sh ALL PASS (G0 sheet first) +
+mix proof PASS + voice_match check 0.1 LU + Qwen zero-flag rounds +
+ledger. Cast: kid Q + wise-old-British plain (backup elderly-ref).
+Rhythm engine + marks live. Remaining (non-blocking): s5/s6 formal
+re-render on Fish recovery (cache-wipe artifact; audio verified good);
+optional taste EQ/presence lift; B re-render + B round; C decision.
