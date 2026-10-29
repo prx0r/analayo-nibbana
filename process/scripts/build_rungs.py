@@ -29,57 +29,63 @@ SLACK = 40.0
 # deletes sa-upadisesa from all listening); S2 +gold mirror-image;
 # S3 +Colombo/+Being-eq/+Mula displacing B2/B5/B15; S4 +Kevaddha verse/
 # +sankhata-debate/+tangle-snapped; S5 +grasp/+smoked/+raft displacing
-# Upatissa b7; S6 +b9-prepared/+b5-unknot/+lotus-leaf.
+# S6 +b9-prepared/+b5-unknot/+lotus-leaf (interleaved at argued slots:
+# lotus-leaf after lotuses, unknot before faculties, prepared after).
 # Every gold pick below ALSO lands in C (C base = full B unit list),
 # so B⊂C holds by construction; post-build asserts verify it.
 GOLD = lambda lec, ss, to, why: ('gold', lec, ss, to, why)
 B_PICKS = {
     1: [(1, 'pointer motto'), (2, 'fire/lamp'),
         (3, 'CONTRADICTION (owner: FIRST)'),
-        (4, 'Vaccha undesignable'), (5, 'warming vs cooling'),
-        (6, 'third-truth resolution'), (7, 'quenched thirst'),
-        (8, 'motto refrain'), (9, 'sa-upadisesa'),
-        (10, 'oil-lamp cooling'), (11, 'debt/freedom'),
+        (4, 'Vaccha undesignable'),
         (12, 'cessation-of-existence definition (hunt)'),
-        (13, 'elevenfold fire = extinction (hunt)')],
+        (5, 'warming vs cooling'),
+        (6, 'third-truth resolution'),
+        (13, 'elevenfold fire = extinction (hunt)'),
+        (7, 'quenched thirst'),
+        (8, 'motto refrain'), (9, 'sa-upadisesa'),
+        (10, 'oil-lamp cooling'), (11, 'debt/freedom')],  # debt closes
     2: [(1, 'pointer TRIPLE (owner §74)'), (2, 'whirlpool bodies'),
+        GOLD(10, 537.3, 568.5, 'mirror-image knowledge-vision (P2)'),
         (8, 'ignorance dethroned — not first either'),
         (10, 'akalika immediacy'), (11, 'three-periods warrant'),
-        (12, 'banana cut'), (13, 'Channa payoff'),
-        GOLD(10, 537.3, 568.5, 'mirror-image knowledge-vision (P2)')],
+        (12, 'banana cut'), (13, 'Channa payoff')],
     3: [(1, 'pointer craving-gap'),
-        (4, 'honey chain'),
-        (9, 'steadied'), (10, 'no-delight-in-Nibbana'),
-        (16, 'contact-chain alt gloss (hunt)'),
-        (17, 'craving bridges gap (hunt)'),
-        GOLD(12, 1156.1, 1218.6, 'Colombo/pamada-vs-papanca parable (P5)'),
         GOLD(21, 4181.5, 4197.0, 'Being equation (P4; tail trimmed: aside starts 4198)'),
-        GOLD(13, 804.2, 833.0, 'Mula non-imagining (P10)')],
-    4: None,  # whole (old-A + hunt beats 6-8) + S4_GOLDS below
+        (4, 'honey chain'),
+        GOLD(12, 1156.1, 1218.6, 'Colombo/pamada-vs-papanca parable (P5)'),
+        (9, 'steadied'), (10, 'no-delight-in-Nibbana'),
+        GOLD(13, 804.2, 833.0, 'Mula non-imagining (P10)'),
+        (16, 'contact-chain alt gloss (hunt)'),
+        (17, 'craving bridges gap (hunt)')],
+    4: [(1, 'pointer mirror+mechanism'), (2, 'anidassana — what is not constructed'),
+        GOLD(7, 663.0, 685.5, 'Kevaddha charter verse (P1)'),
+        (3, 'five-elements-removed'), (4, 'gem ceases'),
+        (5, 'barb — the hook'),
+        GOLD(2, 2154.9, 2219.0, 'sankhata/atta firewall'),
+        (6, 'grasping-mirror, I-am occurs (hunt)'),
+        GOLD(10, 4263.6, 4283.5, 'tangle snapped (S10 climax)'),
+        (7, 'peg drives grammar persons (hunt)'),
+        (8, 'painter fashions the self (hunt)')],  # whole old-A, golds interleaved at argued slots
     5: [(1, 'pointer Bahiya'), (3, 'dhono stance'),
         (4, 'razor warning'), (5, 'honing technique'),
+        GOLD(8, 3843.7, 3906.1, 'grasp-in-the-middle (razor why)'),
+        GOLD(29, 3026.2, 3031.5, 'smoked-out-without-residue (trimmed)'),
         (8, 'postures monodrama'),
         (12, 'longing licensed'), (13, 'lotus result'),
         (14, 'raft close'),
         (15, 'develop the signless (hunt)'),
-        GOLD(8, 3843.7, 3906.1, 'grasp-in-the-middle (razor why)'),
-        GOLD(29, 3026.2, 3031.5, 'smoked-out-without-residue (tail trimmed: next sentence starts 3033)'),
         GOLD(18, 2366.6, 2381.3, 'raft-abandon verse')],
     6: [(1, 'pointer grown-cool'), (2, 'chessboard'),
         (3, 'peaceful draw'), (4, 'lotuses'),
+        GOLD(18, 1183.3, 1195.9, 'lotus-leaf sage (S18 deepening)'),
         (5, 'unknot (S33 triptych 1/3)'),
         (8, 'faculties chain'), (9, 'prepared->unprepared (S32 charter)'),
         (11, 'magic-show seen through'),
         (13, 'detached close'),
         (14, 'fire-no-path (hunt)'), (15, 'chess organic (hunt)'),
-        (16, 'neither shore (hunt)'),
-        GOLD(18, 1183.3, 1195.9, 'lotus-leaf sage')],
+        (16, 'neither shore (hunt)')],
 }
-S4_GOLDS = [  # S4 whole old-A + these (all already C head-fills)
-    GOLD(7, 663.0, 685.5, 'Kevaddha charter verse (P1)'),
-    GOLD(2, 2154.9, 2219.0, 'sankhata/atta firewall'),
-    GOLD(10, 4263.6, 4283.5, 'tangle snapped (S10 climax)'),
-]
 
 
 def abeats(asm):
@@ -147,11 +153,7 @@ def main():
         asm = json.load(open(B / f'assembly_s{n}.json'))
         ab = abeats(asm)
         picks = B_PICKS[n]
-        if picks is None:
-            picks = [(b, 'whole old-A fits' if b == 1 else 'whole old-A')
-                     for b in sorted(ab)]
-            if n == 4:
-                picks = picks + S4_GOLDS
+        assert picks is not None, 'all sections curated explicitly (no whole-old-A fallback)'
         units = []
         for p in picks:
             if isinstance(p[0], str) and p[0] == 'gold':
