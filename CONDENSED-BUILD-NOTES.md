@@ -1540,3 +1540,25 @@ Default `plain_breath` 1.5 -> 5.0s (U1 override folded in). Seed 4.0->4.4m;
 all six openers breathe the same air. Delta ear round on the new seed:
 zero flags (no mid-sentence/clicks/jumps/robotics/cuts). Mix proof re-PASS.
 0+A stamp carries (change is uniform room air, no content touched).
+
+## 90. Osho voice + Nibbana back + word marks (2026-10-29, owner: trial the trio)
+
+1. **Trial:** all 6 Qs + 6 plains rendered in Sadhguru/Osho/Gurudeep
+   (`process/scripts/trial_trio.py`, `build/ears/trio_trial/`). Owner pick:
+   **OSHO** (delivery). Wired as the single guide voice (Q+plain;
+   student/elderly split retired).
+2. **"Nibbana" spoken again:** Osho carrier probes ("What is Nibbana?",
+   U1 plain head, U2 no-seer line) all whisper round-trip EXACT (incl.
+   "seer"). essay0.json plains Nirvana->Nibbana (3 lines); the TTS
+   substitution DELETED (data/screen/speech agree). Docs (SPEAKERS v6,
+   VISION, HANDOVER) updated; G7a2 holds (assembly==data).
+3. **Word-pause marks engine:** `rhythm.json marks[unit] = [{after, dur}]`;
+   render splits Fish TTS at anchors, joins with digital-silence gaps
+   (TTS lines are studio-dry; room air stays on archive transitions).
+   U1: "stop," 0.8s + "stopping," 1.2s. Anchors assert once-in-order.
+   U1 recollect 3.0 -> 5.0s ("5s after what is Nibbana").
+4. **Re-rendered newA (Osho everywhere):** seed 4.5m, G9 PASS, mix proof
+   PASS, Qwen seed spot zero flags (marks audible as phrasing; Qwen writes
+   "Nirvana" for short questions but "Nibbana" for plains — same voice,
+   same path, no substitution in code: Qwen normalizes the familiar word.
+   Whisper probe ground-truths "nibbana"). 0+A stamp carries.

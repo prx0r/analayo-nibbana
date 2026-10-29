@@ -1,6 +1,13 @@
 {
  "beats_per_60s": 1.0,
- "overrides": {},
+ "overrides": {
+  "1": {
+   "recollect": {
+    "dur": 5.0,
+    "why": "owner 2026-10-29: 5s after 'What is Nibbana' before the plain"
+   }
+  }
+ },
  "rule": "named silence slots; owner 2026-10-28: 5.0s after every essay-0 plain response (all six are pointers - the words must permeate before the archive voice answers). make_assembly reads this; render asserts sheet==master.",
  "slots": {
   "beat_breath": 1.5,
@@ -13,5 +20,19 @@
   "settle": 6.0,
   "terminal": 30,
   "triple_breath": 1.5
+ },
+ "marks": {
+  "1": [
+   {
+    "after": "stop,",
+    "dur": 0.8,
+    "why": "owner 2026-10-29: let 'comes to a stop' land"
+   },
+   {
+    "after": "stopping,",
+    "dur": 1.2,
+    "why": "owner 2026-10-29: stopping [pause] next word"
+   }
+  ]
  }
 }

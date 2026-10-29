@@ -98,9 +98,14 @@ VOICE_AF_SERM = ('highpass=f=80,lowpass=f=12000,'
 VOICE_AF_FISH = ('highpass=f=80,lowpass=f=12000,'
                  'acompressor=threshold=-18dB:ratio=2:attack=20:release=200,'
                  + FISH_EQ + ',loudnorm=I=-19:TP=-1.5:LRA=11')
-# Two Fish voices (owner 2026-10-28): student asks, elderly man answers.
-FISH_Q_VOICE = '07ad794fb3f245c1bb5782f9ac3bcd92'   # clear young male
-FISH_A_VOICE = 'f4011527d52045bebe004aa874695276'   # gentle elderly man
+# Guide voice (owner 2026-10-29): OSHO for questions AND plains — the intro
+# dude and the read-out are one voice now (student/elderly split retired).
+# Osho speaks "Nibbana" cleanly (carrier probes 2026-10-29, whisper verified),
+# so the Nibbana->Nirvana substitution is DELETED — data, screen and speech
+# all say Nibbana.
+OSHO_VOICE = '06134e9a49cb4a36997b75402c8a0621'   # Rajnish Osho (shiva trio)
+FISH_Q_VOICE = OSHO_VOICE
+FISH_A_VOICE = OSHO_VOICE
 
 LECT = {n: (D / f'sources/lectures/audio/analayo-nibbana-lecture-{n:02d}.mp3') for n in range(1, 34)}
 SERM = {n: (D / 'sources/sermons/audio' / f'Nibbana_Stilled_{n:02d}.mp3') for n in range(1, 34)}
@@ -164,19 +169,18 @@ def silence(dur, dst):
 
 
 def fish_wav(text, dst, who='fish'):
-    """Fish Audio guide voice. who='fish' = student (questions);
-    who='plain' = elderly man (plain answers). Owner 2026-10-28.
-    FREE TIER ONLY — model pinned to s2.1-pro-free, abort anything else
-    (owner: never spend credits). Key from $FISH_API_KEY, else
+    """Fish Audio guide voice: OSHO for questions AND plains (owner
+    2026-10-29). FREE TIER ONLY — model pinned to s2.1-pro-free, abort
+    anything else (owner: never spend credits). Key from $FISH_API_KEY, else
     characters/audition/.env. Never written anywhere by this script.
     No silent fallback: API failure aborts the render (R5).
-    Owner 2026-10-28: speech says NIRVANA (data + gates keep Nibbana)."""
+    Osho speaks "Nibbana" cleanly — no substitution; data, screen and
+    speech all say Nibbana."""
     import json as _json
     import os as _os
     import urllib.request as _url
     MODEL = 's2.1-pro-free'
     assert MODEL == 's2.1-pro-free', 'paid model blocked: never spend credits'
-    text = text.replace('Nibbana', 'Nirvana')
     vid = FISH_Q_VOICE if who == 'fish' else FISH_A_VOICE
     key = (_os.getenv('FISH_API_KEY') or '').strip()
     if not key:
@@ -300,6 +304,46 @@ ALIGN = {}
 STATS = {'verbatim_aligned': 0, 'verbatim_placeholder': 0, 'fish_lines': 0}
 ESSAY0_WINDOWS = []
 manifest_timeline = {}
+try:
+    MARKS = json.loads((BUILD / 'canon' / 'rhythm.json').read_text()).get('marks', {})
+except Exception:
+    MARKS = {}
+
+
+def vox_with_marks(say, unit, who, tag, n, role):
+    """Word-pause marks inside a Fish line (rhythm.json marks[unit]:
+    [{after, dur}]). Splits TTS at each mark, joins with digital-silence
+    gaps (TTS lines are studio-dry; room air belongs to archive transitions).
+    Returns the marked wav path, or None when the unit has no marks.
+    Fails loud if a mark doesn't match exactly once, in order."""
+    marks = MARKS.get(str(unit), [])
+    if not marks:
+        return None
+    chunks, gaps, rest = [], [], say
+    for m in marks:
+        idx = rest.find(m['after'])
+        assert idx >= 0, f'mark {m["after"]!r} not found in unit {unit} {role}'
+        cut = idx + len(m['after'])
+        chunks.append(rest[:cut])
+        gaps.append(float(m['dur']))
+        rest = rest[cut:]
+        assert m['after'] not in rest, f'mark {m["after"]!r} repeats in unit {unit} {role}'
+    chunks.append(rest)
+    parts = []
+    for i, ch in enumerate(chunks):
+        if ch.strip():
+            parts.append(get_slice('vox', f'f{n}m{i}', 0, 0, None, ch, who=who))
+        if i < len(gaps):
+            parts.append(get_slice('sil', f'mark{gaps[i]}', 0, gaps[i], None))
+    h = hashlib.sha1(f'{VTAG}|marks|{unit}|{role}|{say}'.encode()).hexdigest()[:12]
+    dst = CACHE / f'marked_{h}.wav'
+    if not (dst.exists() and dst.stat().st_size > 0):
+        lst = str(dst) + '.lst'
+        Path(lst).write_text(''.join(f"file '{p}'\n" for p in parts))
+        run('ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0',
+            '-i', lst, '-c:a', 'pcm_s16le', str(dst))
+        assert_audible(dst, f'marked u{unit} {role}')
+    return dst
 
 
 def verbatim_wavs(s, clip, text, sermon):
@@ -472,15 +516,24 @@ def render_section(n, events, tag):
                 log.append(f'{t} {e["dur"]}s')
         elif t == 'fish':
             if e.get('role') in ('question', 'plain'):
-                # Guide voice: questions = student, plains = elderly man
-                # (owner 2026-10-28). Beat plains (role None) stay on screen.
+                # Guide voice: OSHO for questions AND plains (owner 2026-10-29).
+                # Beat plains (role None) stay on screen.
                 STATS['fish_lines'] += 1
                 say = e.get('say', '')
                 who = 'fish' if e.get('role') == 'question' else 'plain'
-                wavs.append(get_slice('vox', f'f{n}', 0, 0, None, say, who=who))
-                kinds.append('fish' if e.get('role') == 'question' else 'plain')
-                prev_voice[0] = ('fish',)
-                log.append(f'{e.get("role")}({who}): {say[:60]}')
+                unit = str(e.get('unit', n))
+                marked = (vox_with_marks(say, unit, who, tag, n, e.get('role'))
+                          if e.get('role') == 'plain' else None)
+                if marked is not None:
+                    wavs.append(marked)
+                    kinds.append('fish' if e.get('role') == 'question' else 'plain')
+                    prev_voice[0] = ('fish',)
+                    log.append(f'{e.get("role")}({who})+marks: {say[:60]}')
+                else:
+                    wavs.append(get_slice('vox', f'f{n}', 0, 0, None, say, who=who))
+                    kinds.append('fish' if e.get('role') == 'question' else 'plain')
+                    prev_voice[0] = ('fish',)
+                    log.append(f'{e.get("role")}({who}): {say[:60]}')
             elif NO_PLAIN:
                 STATS['plain_skipped'] = STATS.get('plain_skipped', 0) + 1
                 log.append(f'beat plain on screen (analayo-only): {e.get("say", "")[:60]}')

@@ -11,13 +11,13 @@
  },
  {
   "t": "pause",
-  "dur": 3.0,
+  "dur": 5.0,
   "role": "recollect"
  },
  {
   "t": "fish",
   "role": "plain",
-  "say": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "say": "Nibbana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
   "unit": 1
  },
  {
@@ -28,7 +28,7 @@
  {
   "t": "verbatim",
   "text": "This is peaceful, this is excellent, namely the stilling of all\npreparations, the relinquishment of all assets, the destruction of\ncraving, detachment, cessation, extinction.",
-  "plain": "Nirvana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
+  "plain": "Nibbana is when everything the mind makes comes to a stop, the letting go of everything carried, the thirst ends, nothing pulls you any more, stopping, going out, like a flame with no fuel.",
   "sermon": 1,
   "essay": 0,
   "unit": 1
@@ -60,7 +60,7 @@
  {
   "t": "fish",
   "role": "plain",
-  "say": "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
+  "say": "You do not see Nibbana right now because you imagine a seer and a world, and neither is there.",
   "unit": 2
  },
  {
@@ -75,7 +75,7 @@
    "Only a looking is there, nothing worth looking at. Only a seeing is there, nothing to be seen. Apart from the bare act of hearing, there is nothing to be heard.",
    "There is no seer, apart from the phenomenon of seeing, according to the Tath\u0101gata... For the worldling, the bare act of seeing carries with it a perception of 'one who sees'."
   ],
-  "plain": "You do not see Nirvana right now because you imagine a seer and a world, and neither is there.",
+  "plain": "You do not see Nibbana right now because you imagine a seer and a world, and neither is there.",
   "sermon": 25,
   "essay": 0,
   "unit": 2
@@ -221,7 +221,7 @@
  {
   "t": "fish",
   "role": "plain",
-  "say": "Nirvana is only attained now: in seeing, just the seeing, with no I added. Then it will not carry you. Nothing to stand on, nowhere to land \u2014 neither here, nor there, nor in between. This itself is the end of suffering.",
+  "say": "Nibbana is only attained now: in seeing, just the seeing, with no I added. Then it will not carry you. Nothing to stand on, nowhere to land \u2014 neither here, nor there, nor in between. This itself is the end of suffering.",
   "unit": 5
  },
  {
@@ -232,7 +232,7 @@
  {
   "t": "verbatim",
   "text": "In the seen there will be just the seen... Then you will not be by it. And when you are not by it, you are not in it. And when you are not in it, you are neither here nor there nor in between. This itself is the end of suffering.",
-  "plain": "Nirvana is only attained now: in seeing, just the seeing, with no I added. Then it will not carry you. Nothing to stand on, nowhere to land \u2014 neither here, nor there, nor in between. This itself is the end of suffering.",
+  "plain": "Nibbana is only attained now: in seeing, just the seeing, with no I added. Then it will not carry you. Nothing to stand on, nowhere to land \u2014 neither here, nor there, nor in between. This itself is the end of suffering.",
   "sermon": 15,
   "essay": 0,
   "unit": 5

@@ -48,7 +48,7 @@ where things are, why, and what's next. Nothing here is decoration.
 | `reviews/` | frozen first-listener reviews (REVIEW.md, REVIEW-Q1–6, COVERAGE) |
 | `archive/era-1-cutplans/` | frozen era-1 method (CUTTING-FORMULA.md, HANDOFF.md) |
 | `DONE.md` | definition of done + adjudication taxonomy |
-| `SPEAKER-RULES.md` | voice rules (two Fish voices v-next: student Q + elderly plain) |
+| `SPEAKER-RULES.md` | voice rules v6: OSHO guide (Q+plain, speaks Nibbana), Analayo archive |
 
 ### `sources/` — primary materials (see `sources/README.md`)
 - `lectures/`: audio/ (33 mp3s) · transcripts/ (23 CF JSONs) · yt-subs/ ·

@@ -31,7 +31,7 @@ PLAIN ENGLISH TRANSLATION then AUDIO speaker"*
 
 Nothing else exists. No summaries, no bridges, no composed prose —
 not in files, not in chat (axiom 16 + my R1 reflex). The archive voice
-(Analayo / Bäumer) reads AND explains; Fish speaks key-mappings only;
+(Analayo / Bäumer) reads AND explains; Osho (Fish TTS) speaks questions + plain responses;
 the owner's hand only writes intros and questions.
 
 ## 3. The spine = questions
@@ -106,7 +106,7 @@ after the ~11× seed jump).** Minutes are today's measurements, never
 targets — the next text keeps the ratios with different minutes.
 Nested: every rung starting from the spine (why the spine is heard at
 each rung's head — the recurrence law). Analayo-only audio throughout
-(Fish questions + Analayo clips; verbatim+plain on screen).
+(Osho questions + Analayo clips; verbatim+plain on screen).
 
 ONE glossary, no aliases from here on — these are the only names:
 
@@ -137,7 +137,7 @@ each section which re-anchors its own Q+0 and grows outward.
   Tests give evidence; taste is theirs. Their rejections are the data.
 - **Archive voice** (Analayo/Bäumer) — reads + explains, owns all
   scripture-aloud. Untouched.
-- **Fish** — key-mappings only (≤5 words, glosses); never speaks Pali,
+- **Osho** — questions + plain responses (shiva trio voice); speaks Nibbana cleanly,
   never composes.
 - **Me (the machine)** — pipeline, gates, swaps, notes. My one hard
   limit: never generate content-voice. My failure modes and their
