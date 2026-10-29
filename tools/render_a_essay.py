@@ -98,14 +98,12 @@ VOICE_AF_SERM = ('highpass=f=80,lowpass=f=12000,'
 VOICE_AF_FISH = ('highpass=f=80,lowpass=f=12000,'
                  'acompressor=threshold=-18dB:ratio=2:attack=20:release=200,'
                  + FISH_EQ + ',loudnorm=I=-19:TP=-1.5:LRA=11')
-# Guide voice (owner 2026-10-29): OSHO for questions AND plains — the intro
-# dude and the read-out are one voice now (student/elderly split retired).
-# Osho speaks "Nibbana" cleanly (carrier probes 2026-10-29, whisper verified),
-# so the Nibbana->Nirvana substitution is DELETED — data, screen and speech
-# all say Nibbana.
-OSHO_VOICE = '06134e9a49cb4a36997b75402c8a0621'   # Rajnish Osho (shiva trio)
-FISH_Q_VOICE = OSHO_VOICE
-FISH_A_VOICE = OSHO_VOICE
+# Guide voices (owner 2026-10-29): KID asks, OLD MAN answers.
+# Trialed 5 kids + 6 old men (build/ears/voice_trial audition);
+# pick: kid-inquisitive + wise-old-british. Backup old man = elderly-ref
+# (f4011527d52045bebe004aa874695276, the original). Osho retired.
+FISH_Q_VOICE = '0c0f9d7d87e44e2dabb53ebb092f5f53'   # kid, soft reflective inquisitive
+FISH_A_VOICE = '98db2383e6a14132b75a79b565f731ab'   # wise old man, British, calm confident
 
 LECT = {n: (D / f'sources/lectures/audio/analayo-nibbana-lecture-{n:02d}.mp3') for n in range(1, 34)}
 SERM = {n: (D / 'sources/sermons/audio' / f'Nibbana_Stilled_{n:02d}.mp3') for n in range(1, 34)}
@@ -169,18 +167,18 @@ def silence(dur, dst):
 
 
 def fish_wav(text, dst, who='fish'):
-    """Fish Audio guide voice: OSHO for questions AND plains (owner
-    2026-10-29). FREE TIER ONLY — model pinned to s2.1-pro-free, abort
-    anything else (owner: never spend credits). Key from $FISH_API_KEY, else
-    characters/audition/.env. Never written anywhere by this script.
-    No silent fallback: API failure aborts the render (R5).
-    Osho speaks "Nibbana" cleanly — no substitution; data, screen and
-    speech all say Nibbana."""
+    """Fish Audio guide voices: KID asks, OLD MAN answers (owner 2026-10-29;
+    trialed 5+6, picks locked here). FREE TIER ONLY — model pinned to
+    s2.1-pro-free, abort anything else (owner: never spend credits). Key from
+    $FISH_API_KEY, else characters/audition/.env. Never written anywhere by
+    this script. No silent fallback: API failure aborts the render (R5).
+    Speech says NIRVANA (data keeps Nibbana; substitution at voice time)."""
     import json as _json
     import os as _os
     import urllib.request as _url
     MODEL = 's2.1-pro-free'
     assert MODEL == 's2.1-pro-free', 'paid model blocked: never spend credits'
+    text = text.replace('Nibbana', 'Nirvana')
     vid = FISH_Q_VOICE if who == 'fish' else FISH_A_VOICE
     key = (_os.getenv('FISH_API_KEY') or '').strip()
     if not key:

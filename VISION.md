@@ -31,7 +31,7 @@ PLAIN ENGLISH TRANSLATION then AUDIO speaker"*
 
 Nothing else exists. No summaries, no bridges, no composed prose —
 not in files, not in chat (axiom 16 + my R1 reflex). The archive voice
-(Analayo / Bäumer) reads AND explains; Osho (Fish TTS) speaks questions + plain responses;
+(Analayo / Bäumer) reads AND explains; KID asks + OLD MAN answers (Fish TTS; trialed 5+6);
 the owner's hand only writes intros and questions.
 
 ## 3. The spine = questions
@@ -137,7 +137,7 @@ each section which re-anchors its own Q+0 and grows outward.
   Tests give evidence; taste is theirs. Their rejections are the data.
 - **Archive voice** (Analayo/Bäumer) — reads + explains, owns all
   scripture-aloud. Untouched.
-- **Osho** — questions + plain responses (shiva trio voice); speaks Nibbana cleanly,
+- **KID + OLD MAN** — questions + plain responses; speech says Nirvana,
   never composes.
 - **Me (the machine)** — pipeline, gates, swaps, notes. My one hard
   limit: never generate content-voice. My failure modes and their

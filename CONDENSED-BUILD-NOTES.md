@@ -1562,3 +1562,12 @@ zero flags (no mid-sentence/clicks/jumps/robotics/cuts). Mix proof re-PASS.
    "Nirvana" for short questions but "Nibbana" for plains — same voice,
    same path, no substitution in code: Qwen normalizes the familiar word.
    Whisper probe ground-truths "nibbana"). 0+A stamp carries.
+
+## 91. Kid asks, old man answers (2026-10-29, owner: picks from trial)
+
+Trial was 5 kids + 6 old men (one mp3). Picks: KID kid-inquisitive
+(`0c0f9d…`) asks; OLD MAN wise-old-british (`98db23…`) answers; backup
+elderly-ref (`f40115…`, the original). Osho retired ("not Osho throughout").
+Speech back to NIRVANA (data keeps Nibbana; substitution restored).
+Re-rendered newA, G9 PASS, mix PASS, Qwen seed spot zero flags (marks
+audible as phrasing). 0+A stamp carries.
